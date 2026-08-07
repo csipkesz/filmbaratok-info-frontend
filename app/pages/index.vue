@@ -2,10 +2,13 @@
 import {onMounted, ref} from 'vue'
 import LandingHero from "~/components/landing-hero.vue";
 import {FilmbaratokCategory} from "~/models/enums.ts";
+import LandingRandomMediaGrid from "~/components/landing-random-media-grid.vue";
+import type {MediaIndexItem} from "~/models/media-index-item.ts";
 
 const TMDB_BACKDROP_BASE = 'https://image.tmdb.org/t/p/w1280'
 const TMDB_POSTER_BASE = 'https://image.tmdb.org/t/p/w500'
 
+const indexMedias = ref<MediaIndexItem[]>([])
 const featuredMedias = ref<any[]>([])
 const dailyMedia = ref<any | null>(null)
 
@@ -23,22 +26,13 @@ function seededRandom(seed: number) {
 
 onMounted(async () => {
   try {
-    const mediaIndex = await $fetch<any[]>('/data/index/medias.json')
+    const mediaIndex = await $fetch<MediaIndexItem[]>('/data/index/medias.json')
+    indexMedias.value = mediaIndex || [];
+
     if (mediaIndex && mediaIndex.length > 0) {
       // Dátum seed számítása (pl. 20260807)
       const todayStr = new Date().toISOString().split('T')[0]
       const seed = parseInt(todayStr.replace(/-/g, ''), 10)
-
-      // --- A) "Erről is beszéltek": Csak PODCAST vagy EXPRESS kategóriás elemek ---
-      const podcastOrExpressMedias = mediaIndex.filter((media) =>
-          media.contents?.some(
-              (c: any) =>
-                  c.category === FilmbaratokCategory.PODCAST ||
-                  c.category === FilmbaratokCategory.EXPRESS
-          )
-      )
-      const shuffled = [...podcastOrExpressMedias].sort(() => 0.5 - Math.random())
-      featuredMedias.value = shuffled.slice(0, 6)
 
       // --- B) Determinikus napi általános média ---
       const dailyIndex = Math.floor(seededRandom(seed) * mediaIndex.length)
@@ -70,65 +64,10 @@ onMounted(async () => {
 <template>
   <div class="bg-ink min-h-screen text-paper">
     <LandingHero/>
-    <!-- 2. SZEKCIÓ: Grid szalag (Csak PODCAST és EXPRESS) -->
-    <section class="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
-      <div class="flex items-center justify-between mb-6">
-        <div>
-          <h2 class="font-display text-2xl sm:text-3xl font-bold tracking-tight text-paper">
-            Erről is beszéltek a srácok
-          </h2>
-          <p class="text-sm text-fog mt-1">
-            Néhány érdekesség a több száz átbeszélt film és sorozat közül
-          </p>
-        </div>
 
-        <NuxtLink
-            to="/kereses"
-            class="hidden sm:flex items-center gap-1 text-sm font-medium text-marquee hover:underline"
-        >
-          Összes böngészése
-          <UIcon name="i-lucide-chevron-right" class="w-4 h-4"/>
-        </NuxtLink>
-      </div>
-
-      <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4 sm:gap-6">
-        <div
-            v-for="media in featuredMedias"
-            :key="media.id"
-            class="group relative flex flex-col overflow-hidden rounded-xl bg-ink-soft/40 border border-white/5 hover:border-white/20 transition-all duration-300 hover:-translate-y-1"
-        >
-          <div class="aspect-[2/3] w-full overflow-hidden bg-ink-soft relative">
-            <img
-                v-if="media.posterPath"
-                :src="`${TMDB_POSTER_BASE}${media.posterPath}`"
-                :alt="media.title"
-                class="h-full w-full object-cover group-hover:scale-105 transition-transform duration-500"
-                loading="lazy"
-            />
-            <div v-else class="h-full w-full flex items-center justify-center text-fog text-xs p-2 text-center">
-              Nincs borító
-            </div>
-            <div class="absolute inset-0 bg-gradient-to-t from-ink via-transparent to-transparent opacity-80"/>
-
-            <span
-                v-if="media.contents?.length"
-                class="absolute bottom-2 right-2 rounded-md bg-ink/80 backdrop-blur px-2 py-0.5 text-xs font-mono text-fog border border-white/10"
-            >
-              {{ media.contents.length }} adás
-            </span>
-          </div>
-
-          <div class="p-3 flex flex-col justify-between flex-1">
-            <h3 class="font-body text-sm font-semibold text-paper line-clamp-1 group-hover:text-marquee transition-colors">
-              {{ media.title }}
-            </h3>
-            <p v-if="media.originalTitle" class="text-xs text-fog italic line-clamp-1 mt-0.5">
-              {{ media.originalTitle }}
-            </p>
-          </div>
-        </div>
-      </div>
-    </section>
+    <LandingRandomMediaGrid
+        :index-medias="indexMedias"
+    />
 
     <!-- AUDIOKOMMENTÁR HERO SZEKCIÓ -->
     <section v-if="dailyCommentaryMedia" class="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8">

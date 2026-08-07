@@ -1,6 +1,6 @@
 import type {FilmbaratokCategory} from "~/models/enums.ts";
 
-export interface MediaIndexItemDto {
+export interface MediaIndexItem {
     id: string;
     title: string;
     originalTitle: string | null;
