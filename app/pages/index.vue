@@ -4,12 +4,12 @@ import LandingHero from "~/components/landing-hero.vue";
 import {FilmbaratokCategory} from "~/models/enums.ts";
 import LandingRandomMediaGrid from "~/components/landing-random-media-grid.vue";
 import type {MediaIndexItem} from "~/models/media-index-item.ts";
+import LandingDailyMediaCommentar from "~/components/landing-daily-media-commentar.vue";
 
 const TMDB_BACKDROP_BASE = 'https://image.tmdb.org/t/p/w1280'
 const TMDB_POSTER_BASE = 'https://image.tmdb.org/t/p/w500'
 
 const indexMedias = ref<MediaIndexItem[]>([])
-const featuredMedias = ref<any[]>([])
 const dailyMedia = ref<any | null>(null)
 
 // Új: Napi Audio Commentary elem & ehhez tartozó tartalom-objektum
@@ -45,15 +45,7 @@ onMounted(async () => {
           )
       )
 
-      if (commentaryMedias.length > 0) {
-        const commIndex = Math.floor(Math.random() * commentaryMedias.length)
-        const selectedMedia = commentaryMedias[commIndex]
 
-        dailyCommentaryMedia.value = selectedMedia
-        dailyCommentaryContent.value = selectedMedia.contents?.find(
-            (c: any) => c.category === FilmbaratokCategory.AUDIO_COMMENTARY
-        )
-      }
     }
   } catch (err) {
     console.error('Nem sikerült betölteni a medias.json-t:', err)
@@ -69,85 +61,7 @@ onMounted(async () => {
         :index-medias="indexMedias"
     />
 
-    <!-- AUDIOKOMMENTÁR HERO SZEKCIÓ -->
-    <section v-if="dailyCommentaryMedia" class="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8">
-      <div class="mb-6 flex items-end justify-between">
-        <div>
-          <p class="text-xs font-bold uppercase tracking-widest text-red-400">
-            Napi audiokommentár
-          </p>
-          <h2 class="font-display text-2xl font-bold tracking-tight text-paper sm:text-3xl">
-            Nézzük meg együtt!
-          </h2>
-        </div>
-      </div>
-
-      <div class="relative overflow-hidden rounded-2xl border border-white/10 bg-ink-soft/80 shadow-2xl">
-        <!-- Háttér backdrop -->
-        <div class="absolute inset-0 z-0">
-          <img
-              v-if="dailyCommentaryMedia.backdropPath"
-              :src="`${TMDB_BACKDROP_BASE}${dailyCommentaryMedia.backdropPath}`"
-              alt=""
-              class="h-full w-full object-cover opacity-70 filter"
-          />
-          <div class="absolute inset-0 bg-gradient-to-r from-ink-soft via-ink-soft/95 to-ink-soft/70"/>
-        </div>
-
-        <!-- Tartalom -->
-        <div class="relative z-10 flex flex-col items-center justify-between gap-8 p-6 sm:p-10 md:flex-row">
-          <div class="flex flex-col items-center gap-6 text-center sm:flex-row sm:items-start sm:text-left">
-            <div class="relative shrink-0">
-              <img
-                  v-if="dailyCommentaryMedia.posterPath"
-                  :src="`${TMDB_POSTER_BASE}${dailyCommentaryMedia.posterPath}`"
-                  alt=""
-                  class="absolute inset-0 h-full w-full rounded-xl object-cover blur-md opacity-50 scale-95"
-              />
-              <img
-                  v-if="dailyCommentaryMedia.posterPath"
-                  :src="`${TMDB_POSTER_BASE}${dailyCommentaryMedia.posterPath}`"
-                  :alt="dailyCommentaryMedia.title"
-                  class="relative h-62 w-40 rounded-xl border border-white/10 object-cover shadow-lg"
-              />
-            </div>
-
-            <div class="max-w-xl space-y-2 my-1">
-              <h3 class="font-display text-2xl font-bold text-paper sm:text-3xl">
-                {{ dailyCommentaryMedia.title }}
-              </h3>
-
-              <p v-if="dailyCommentaryMedia.originalTitle || dailyCommentaryMedia.year" class="text-xs text-fog italic">
-                {{ dailyCommentaryMedia.originalTitle }}
-                <span v-if="dailyCommentaryMedia.year">({{ dailyCommentaryMedia.year }})</span>
-              </p>
-
-              <p v-if="dailyCommentaryMedia.overview"
-                 class="pt-2 font-body text-sm text-fog line-clamp-3 leading-relaxed">
-                {{ dailyCommentaryMedia.overview }}
-              </p>
-
-              <div v-if="dailyCommentaryContent?.participants?.length" class="pt-3 text-xs font-medium text-fog/80">
-                <span class="text-paper">Kommentálják:</span> {{ dailyCommentaryContent.participants.join(', ') }}
-              </div>
-            </div>
-          </div>
-
-          <!-- Jobb oldal: YouTube indítás -->
-          <div v-if="dailyCommentaryContent?.youtubeId" class="w-full shrink-0 md:w-auto">
-            <a
-                :href="`https://youtu.be/${dailyCommentaryContent.youtubeId}`"
-                target="_blank"
-                rel="noopener noreferrer"
-                class="flex items-center justify-center gap-2.5 rounded-xl bg-red-600 px-6 py-3.5 text-sm font-semibold text-white transition-all hover:bg-red-500 hover:shadow-lg hover:shadow-red-900/30 active:scale-95"
-            >
-              <UIcon name="i-lucide-play" class="h-5 w-5 fill-current"/>
-              <span>Audiokommentár indítása</span>
-            </a>
-          </div>
-        </div>
-      </div>
-    </section>
+    <LandingDailyMediaCommentar :index-medias="indexMedias"/>
 
     <!-- 3. SZEKCIÓ: Napi Téma & A nap adása (KÉT HASÁB) -->
     <section class="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8 pb-16">
