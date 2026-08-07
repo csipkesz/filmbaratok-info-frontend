@@ -19,7 +19,9 @@
       </NuxtLink>
     </div>
 
+    <!-- BETÖLTÖTT TARTALOM -->
     <UScrollArea
+        v-if="medias.length > 0"
         v-slot="{ item: media }"
         :items="medias"
         orientation="horizontal"
@@ -68,6 +70,26 @@
         </div>
       </div>
     </UScrollArea>
+
+    <!-- SKELETON BETÖLTÉSI ÁLLAPOT (6 KÁRTYA) -->
+    <div v-else class="flex gap-2 sm:gap-3 overflow-hidden pb-2">
+      <div
+          v-for="i in 6"
+          :key="i"
+          class="flex w-40 sm:w-48 shrink-0 flex-col overflow-hidden rounded-xl bg-ink-soft/40 border border-white/5"
+      >
+        <!-- Poszter skeleton (2:3 képarány) -->
+        <USkeleton class="aspect-[2/3] w-full rounded-none bg-white/10 shrink-0"/>
+
+        <!-- Szöveg blokk skeleton -->
+        <div class="p-3 flex flex-col justify-start min-h-[4.25rem] space-y-2">
+          <!-- Cím skeleton -->
+          <USkeleton class="h-4 w-5/6 rounded bg-white/10"/>
+          <!-- Eredeti cím skeleton -->
+          <USkeleton class="h-3 w-1/2 rounded bg-white/10"/>
+        </div>
+      </div>
+    </div>
   </section>
 </template>
 
