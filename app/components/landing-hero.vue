@@ -70,7 +70,7 @@ function onSearch() {
     return
   }
 
-  navigateTo({path: '/kereses', query: {q: query.value.trim()}})
+  navigateTo({path: '/', query: {q: query.value.trim()}})
 }
 </script>
 

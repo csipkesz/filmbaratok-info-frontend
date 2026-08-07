@@ -11,7 +11,7 @@
       </div>
 
       <NuxtLink
-          to="/kereses"
+          to="/"
           class="hidden sm:flex items-center gap-1 text-sm font-medium text-marquee hover:underline"
       >
         Összes böngészése

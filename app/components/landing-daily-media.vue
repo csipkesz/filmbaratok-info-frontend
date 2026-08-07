@@ -88,7 +88,7 @@
     <div class="pt-2">
       <NuxtLink
           v-if="dailyMedia"
-          :to="`/kereses?q=${encodeURIComponent(dailyMedia.title)}`"
+          to="/"
           class="inline-flex items-center justify-center gap-2 rounded-xl bg-marquee/90 hover:bg-marquee text-ink font-semibold text-sm px-5 py-3 transition-all hover:shadow-md active:scale-95"
       >
         <span>Megnézem az adásokat</span>
