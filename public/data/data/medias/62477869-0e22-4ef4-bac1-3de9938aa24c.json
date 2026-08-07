@@ -1,0 +1,53 @@
+{
+  "id": "62477869-0e22-4ef4-bac1-3de9938aa24c",
+  "title": "Családi bunyó",
+  "originalTitle": "Fighting with My Family",
+  "overview": "Born into a tight-knit wrestling family, Paige and her brother Zak are ecstatic when they get the once-in-a-lifetime opportunity to try out for the WWE. But when only Paige earns a spot in the competitive training program, she must leave her loved ones behind and face this new cutthroat world alone. Paige's journey pushes her to dig deep and ultimately prove to the world that what makes her different is the very thing that can make her a star.",
+  "backdropPath": "/mYKP6qcDUimVMAHQWLOuDHjO19S.jpg",
+  "posterPath": "/pGLTCdeoeD57hK5RZTP2KB3DP2f.jpg",
+  "releaseDate": "2019-02-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "70f554ab-8608-441b-8c5c-6f0ce72947fb",
+      "title": "Családi bunyó",
+      "subtitle": null,
+      "timestampString": "01:29:36",
+      "timestampInSeconds": 5376,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #165",
+        "youtubeId": "RSBwJungF40",
+        "thumbnailUrl": "https://i.ytimg.com/vi/RSBwJungF40/hqdefault.jpg",
+        "durationInMinutes": 274,
+        "releaseDate": 1554109205000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "6a6700d9-3d36-4010-b59c-ea0ebaf8c7bc",
+            "name": "Károly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

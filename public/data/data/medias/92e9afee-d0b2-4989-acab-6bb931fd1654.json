@@ -1,0 +1,41 @@
+{
+  "id": "92e9afee-d0b2-4989-acab-6bb931fd1654",
+  "title": "Feszült helyzet",
+  "originalTitle": "A House of Dynamite",
+  "overview": "When a single, unattributed missile is launched at the United States, a race begins to determine who is responsible and how to respond.",
+  "backdropPath": "/5SVRVwBfHCIkffiq0MmbdvnHWSz.jpg",
+  "posterPath": "/AiJ8L90ftPAwVf3SDx7Fj9IMZoy.jpg",
+  "releaseDate": "2025-10-02T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7f26473a-c1aa-4fd8-869d-ce3cfe70ef32",
+      "title": "Feszült helyzet",
+      "subtitle": null,
+      "timestampString": "02:15:40",
+      "timestampInSeconds": 8140,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #313",
+        "youtubeId": "hdAN5nf2KLo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/hdAN5nf2KLo/hqdefault.jpg",
+        "durationInMinutes": 179,
+        "releaseDate": 1761828306000,
+        "participants": [
+          {
+            "id": "18bb710d-2755-4eaa-875b-48c695315171",
+            "name": "Márk"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

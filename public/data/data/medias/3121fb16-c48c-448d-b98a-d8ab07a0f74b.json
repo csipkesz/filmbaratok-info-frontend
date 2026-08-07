@@ -1,0 +1,37 @@
+{
+  "id": "3121fb16-c48c-448d-b98a-d8ab07a0f74b",
+  "title": "Lidérces órák",
+  "originalTitle": "After Hours",
+  "overview": "Desperate to escape his mind-numbing routine, uptown Manhattan office worker Paul Hackett ventures downtown for a hookup with a mystery woman.",
+  "backdropPath": "/tV2KZZR5JaqTSXiNKowGqQMQtex.jpg",
+  "posterPath": "/eamOBurHBu0MIxohTIVcfxmZ6Z7.jpg",
+  "releaseDate": "1985-09-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a39ce181-bb63-44f7-a262-5825e712e3f9",
+      "title": "Lidérces órák",
+      "subtitle": null,
+      "timestampString": "01:31:20",
+      "timestampInSeconds": 5480,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #79",
+        "youtubeId": "MFtdt9e1-5Y",
+        "thumbnailUrl": "https://i.ytimg.com/vi/MFtdt9e1-5Y/hqdefault.jpg",
+        "durationInMinutes": 158,
+        "releaseDate": 1439397604000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

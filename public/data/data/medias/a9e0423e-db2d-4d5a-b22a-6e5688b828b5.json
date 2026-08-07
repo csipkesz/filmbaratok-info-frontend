@@ -1,0 +1,41 @@
+{
+  "id": "a9e0423e-db2d-4d5a-b22a-6e5688b828b5",
+  "title": "Fall",
+  "originalTitle": "Fall",
+  "overview": "For best friends Becky and Hunter, life is all about conquering fears and pushing limits. But after they climb 2,000 feet to the top of a remote, abandoned radio tower, they find themselves stranded with no way down. Now Becky and Hunter's expert climbing skills will be put to the ultimate test as they desperately fight to survive the elements, a lack of supplies, and vertigo-inducing heights.",
+  "backdropPath": "/hT3OqvzMqCQuJsUjZnQwA5NuxgK.jpg",
+  "posterPath": "/spCAxD99U1A6jsiePFoqdEcY0dG.jpg",
+  "releaseDate": "2022-08-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "390d9ac0-3cb4-4746-9b11-97ebf519f86c",
+      "title": "Fall",
+      "subtitle": null,
+      "timestampString": "01:35:05",
+      "timestampInSeconds": 5705,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #240",
+        "youtubeId": "T9F8CwPjgqQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/T9F8CwPjgqQ/hqdefault.jpg",
+        "durationInMinutes": 249,
+        "releaseDate": 1664376879000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

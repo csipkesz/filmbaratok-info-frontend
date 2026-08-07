@@ -1,0 +1,45 @@
+{
+  "id": "32152efc-b4fd-4ec4-a727-fe186a9dd9b5",
+  "title": "Klaus - A karácsony titkos története",
+  "originalTitle": "Klaus",
+  "overview": "A selfish postman and a reclusive toymaker form an unlikely friendship, delivering joy to a cold, dark town that desperately needs it.",
+  "backdropPath": "/cYQvXNPZLow73lhspVQ7CYlT3Mi.jpg",
+  "posterPath": "/q125RHUDgR4gjwh1QkfYuJLYkL.jpg",
+  "releaseDate": "2019-11-08T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "54c0df64-cd70-4ebb-9288-c4aebc51cafa",
+      "title": "Klaus - A karácsony titkos története",
+      "subtitle": null,
+      "timestampString": "03:15:55",
+      "timestampInSeconds": 11755,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #185",
+        "youtubeId": "eq07jUces30",
+        "thumbnailUrl": "https://i.ytimg.com/vi/eq07jUces30/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1582698378000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

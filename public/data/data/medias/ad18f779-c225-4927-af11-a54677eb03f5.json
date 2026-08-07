@@ -1,0 +1,49 @@
+{
+  "id": "ad18f779-c225-4927-af11-a54677eb03f5",
+  "title": "Az őrület fészke",
+  "originalTitle": "Murder in the First",
+  "overview": "A young, inexperienced public defender is assigned to defend an inmate accused of committing murder while behind bars.",
+  "backdropPath": "/8uw6OCa4ofQ6A9xz5ldtgnEVPDr.jpg",
+  "posterPath": "/1S3xY4HKAXLNvvKXRECMrbVnGQR.jpg",
+  "releaseDate": "1995-01-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "87871606-9886-466e-bf1f-5fe901bfd513",
+      "title": "Az őrület fészke",
+      "subtitle": null,
+      "timestampString": "02:25:00",
+      "timestampInSeconds": 8700,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #144",
+        "youtubeId": "7oPd5jzdemY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/7oPd5jzdemY/hqdefault.jpg",
+        "durationInMinutes": 182,
+        "releaseDate": 1527255570000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

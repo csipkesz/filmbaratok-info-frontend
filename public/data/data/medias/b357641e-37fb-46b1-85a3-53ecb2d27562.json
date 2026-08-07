@@ -1,0 +1,45 @@
+{
+  "id": "b357641e-37fb-46b1-85a3-53ecb2d27562",
+  "title": "A kárhozat útja",
+  "originalTitle": "Road to Perdition",
+  "overview": "Mike Sullivan works as a hit man for crime boss John Rooney. Sullivan views Rooney as a father figure, however after his son is witness to a killing, Mike Sullivan finds himself on the run in attempt to save the life of his son and at the same time looking for revenge on those who wronged him.",
+  "backdropPath": "/cDDyZ2qtBzNAepdTbgxKfFcxREl.jpg",
+  "posterPath": "/loSpBeirRfTPJ3cMIqpQArstGhh.jpg",
+  "releaseDate": "2002-07-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0e7ba903-be0f-49e0-9df5-478d09301baf",
+      "title": "A kárhozat útja",
+      "subtitle": null,
+      "timestampString": "03:01:25",
+      "timestampInSeconds": 10885,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #232",
+        "youtubeId": "9TzGQXyouWk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9TzGQXyouWk/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1651670332000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

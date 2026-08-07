@@ -1,0 +1,41 @@
+{
+  "id": "43f2aa91-53d2-4d93-ae01-20115dcd0e95",
+  "title": "Alias Charlie Sheen",
+  "originalTitle": "aka Charlie Sheen",
+  "overview": "Charlie Sheen elmeséli élettörténetét a két részes dokumentumfilmben, káprázatos hollywoodi felemelkedésétől bulvárlapokból ismert bukásán át a gyógyuláshoz vezető útig.",
+  "backdropPath": "/qSxabAdLMiJWIJUb7hbSVvwMm4s.jpg",
+  "posterPath": "/pHAM8Fzek7xwTbqmaxPXAjCAjz1.jpg",
+  "releaseDate": "2025-09-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "581c4a17-14c1-4972-9462-fdcec938e30d",
+      "title": "Alias Charlie Sheen",
+      "subtitle": null,
+      "timestampString": "00:53:25",
+      "timestampInSeconds": 3205,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #315 (Életrajzi dokumentumfilmek)",
+        "youtubeId": "pvQvVCuAEDI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/pvQvVCuAEDI/hqdefault.jpg",
+        "durationInMinutes": 229,
+        "releaseDate": 1764442162000,
+        "participants": [
+          {
+            "id": "18bb710d-2755-4eaa-875b-48c695315171",
+            "name": "Márk"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

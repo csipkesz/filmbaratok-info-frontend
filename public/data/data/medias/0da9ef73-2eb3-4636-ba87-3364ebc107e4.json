@@ -1,0 +1,45 @@
+{
+  "id": "0da9ef73-2eb3-4636-ba87-3364ebc107e4",
+  "title": "Shazam! Az istenek haragja",
+  "originalTitle": "Shazam! Fury of the Gods",
+  "overview": "Billy Batson and his foster siblings, who transform into superheroes by saying \"Shazam!\", are forced to get back into action and fight the Daughters of Atlas, who they must stop from using a weapon that could destroy the world.",
+  "backdropPath": "/kQV9sV0IbastbU5FYxuYwxfMawz.jpg",
+  "posterPath": "/3GrRgt6CiLIUXUtoktcv1g2iwT5.jpg",
+  "releaseDate": "2023-03-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f9dc4ff1-7ea8-407d-9eea-912052b6f1d3",
+      "title": "Shazam! Az istenek haragja",
+      "subtitle": null,
+      "timestampString": "01:30:22",
+      "timestampInSeconds": 5422,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #252",
+        "youtubeId": "BAb0S4ADaoM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/BAb0S4ADaoM/hqdefault.jpg",
+        "durationInMinutes": 219,
+        "releaseDate": 1680329169000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

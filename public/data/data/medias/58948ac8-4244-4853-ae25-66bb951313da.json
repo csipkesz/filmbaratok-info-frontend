@@ -1,0 +1,41 @@
+{
+  "id": "58948ac8-4244-4853-ae25-66bb951313da",
+  "title": "Démonok között 2",
+  "originalTitle": "The Conjuring 2",
+  "overview": "Lorraine and Ed Warren travel to north London to help a single mother raising four children alone in a house plagued by malicious spirits.",
+  "backdropPath": "/hD9zZYKYb1xBgcm8XIfyvclSkjs.jpg",
+  "posterPath": "/zEqyD0SBt6HL7W9JQoWwtd5Do1T.jpg",
+  "releaseDate": "2016-06-08T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b169d1dd-3c71-4c07-a482-5d3c6798a40f",
+      "title": "Démonok között 2",
+      "subtitle": null,
+      "timestampString": "01:49:10",
+      "timestampInSeconds": 6550,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #104",
+        "youtubeId": "OY96XihUHYY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/OY96XihUHYY/hqdefault.jpg",
+        "durationInMinutes": 230,
+        "releaseDate": 1469739871000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

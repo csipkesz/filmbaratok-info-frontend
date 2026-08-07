@@ -1,0 +1,45 @@
+{
+  "id": "7c3226b4-b3aa-423d-8db1-22d83e08af22",
+  "title": "Legénybúcsú",
+  "originalTitle": "Legénybúcsú",
+  "overview": "Comedy directed by Vajk Szente. Based on Vajk Szente's play by the same title.",
+  "backdropPath": "/l4eO0DmXdoMLFRUO3Xhro39dxTd.jpg",
+  "posterPath": "/hvcJ0tAZEJb6WOBR3YzM8qBHVnc.jpg",
+  "releaseDate": "2025-12-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5f591ce0-7b1c-4e3c-b769-cb0db041b270",
+      "title": "Legénybúcsú [Spoileres]",
+      "subtitle": null,
+      "timestampString": "02:55:40",
+      "timestampInSeconds": 10540,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #207",
+        "youtubeId": "nRj4p0apAgo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nRj4p0apAgo/hqdefault.jpg",
+        "durationInMinutes": 247,
+        "releaseDate": 1614949852000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

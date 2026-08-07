@@ -1,0 +1,41 @@
+{
+  "id": "f20c254c-9c89-4575-b558-fed6cfdbb918",
+  "title": "Liza, a rókatündér",
+  "originalTitle": "Liza, a rókatündér",
+  "overview": "Liza is a naïve, lonely 30-year-old nurse who wants to fall in love. Her only company is a long-dead Japanese pop star, who turns her into a fox-fairy out of jealousy. Now, every man who desires Liza shall die horribly. Can she overcome the curse?",
+  "backdropPath": "/3pNf4EyNet3WNHRpxtQrsUlZeEf.jpg",
+  "posterPath": "/h0nP7HDejKeuiJumJpR5S5GOnG1.jpg",
+  "releaseDate": "2015-02-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1006ccf8-7af3-4e4d-bb11-63cdafa1600f",
+      "title": "Liza, a rókatündér",
+      "subtitle": null,
+      "timestampString": "01:47:40",
+      "timestampInSeconds": 6460,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #70",
+        "youtubeId": "_vL1V5oablM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_vL1V5oablM/hqdefault.jpg",
+        "durationInMinutes": 182,
+        "releaseDate": 1427860093000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "a6ed19bd-6edc-49a9-82b9-794ed979dffb",
+  "title": "Brexit: The Uncivil War",
+  "originalTitle": "Brexit: The Uncivil War",
+  "overview": "Political strategist Dominic Cummings leads a popular but controversial campaign to convince British voters to leave the European Union from 2015 up until the present day.",
+  "backdropPath": "/eVLiY6ThGcgTa19dmOa8MtPQSLH.jpg",
+  "posterPath": "/AcEPeTBU6UoCi8PgSjRxAi8pEy1.jpg",
+  "releaseDate": "2019-01-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "41c044ad-42b9-4a07-a235-76a270ba3432",
+      "title": "Brexit: The Uncivil War",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Brexit: The Uncivil War",
+        "youtubeId": "JfDiOBakYiE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JfDiOBakYiE/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1547569179000,
+        "participants": [
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

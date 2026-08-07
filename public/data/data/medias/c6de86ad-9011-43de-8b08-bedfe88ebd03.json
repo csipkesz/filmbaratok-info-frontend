@@ -1,0 +1,41 @@
+{
+  "id": "c6de86ad-9011-43de-8b08-bedfe88ebd03",
+  "title": "Take Shelter",
+  "originalTitle": "Take Shelter",
+  "overview": "Plagued by a series of apocalyptic visions, a young husband and father questions whether to shelter his family from a coming storm, or from himself.",
+  "backdropPath": "/7HtE5hLVTEvFKQC33wK7XAnIdFk.jpg",
+  "posterPath": "/dldIX0q5jewe8rSyCh8d5I1RYx3.jpg",
+  "releaseDate": "2011-09-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b73099b1-fe32-4aab-9033-f1a5f8cff56a",
+      "title": "Take Shelter",
+      "subtitle": null,
+      "timestampString": "01:02:05",
+      "timestampInSeconds": 3725,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #112",
+        "youtubeId": "M7gzW5_pVZk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/M7gzW5_pVZk/hqdefault.jpg",
+        "durationInMinutes": 160,
+        "releaseDate": 1481731219000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

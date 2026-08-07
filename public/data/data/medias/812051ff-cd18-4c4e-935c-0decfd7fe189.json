@@ -1,0 +1,45 @@
+{
+  "id": "812051ff-cd18-4c4e-935c-0decfd7fe189",
+  "title": "Creed - Apollo fia",
+  "originalTitle": "Creed",
+  "overview": "The former World Heavyweight Champion Rocky Balboa serves as a trainer and mentor to Adonis Johnson, the son of his late friend and former rival Apollo Creed.",
+  "backdropPath": "/kODNw6GJNdgldUMEhKPlCw8wQCr.jpg",
+  "posterPath": "/1BfTsk5VWuw8FCocAhCyqnRbEzq.jpg",
+  "releaseDate": "2015-11-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8cf5a830-404d-4d31-befc-ff914835a1e0",
+      "title": "Creed - Apollo fia",
+      "subtitle": null,
+      "timestampString": "02:19:50",
+      "timestampInSeconds": 8390,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #91",
+        "youtubeId": "G-6KMqIQhQQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/G-6KMqIQhQQ/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1454001243000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

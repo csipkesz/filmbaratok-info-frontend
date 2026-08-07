@@ -1,0 +1,45 @@
+{
+  "id": "a112710a-919b-4ce0-a2ab-d75b6f57644d",
+  "title": "Legendás állatok: Dumbledore titkai",
+  "originalTitle": "Fantastic Beasts: The Secrets of Dumbledore",
+  "overview": "Professor Albus Dumbledore knows the powerful, dark wizard Gellert Grindelwald is moving to seize control of the wizarding world. Unable to stop him alone, he entrusts magizoologist Newt Scamander to lead an intrepid team of wizards and witches. They soon encounter an array of old and new beasts as they clash with Grindelwald's growing legion of followers.",
+  "backdropPath": "/zGLHX92Gk96O1DJvLil7ObJTbaL.jpg",
+  "posterPath": "/3c5GNLB4yRSLBby0trHoA1DSQxQ.jpg",
+  "releaseDate": "2022-04-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "66e67907-1af8-4fe0-bdc0-ee974228d494",
+      "title": "Legendás állatok: Dumbledore titkai",
+      "subtitle": null,
+      "timestampString": "01:27:30",
+      "timestampInSeconds": 5250,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #232",
+        "youtubeId": "9TzGQXyouWk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9TzGQXyouWk/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1651670332000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

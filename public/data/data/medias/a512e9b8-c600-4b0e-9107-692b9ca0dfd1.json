@@ -1,0 +1,45 @@
+{
+  "id": "a512e9b8-c600-4b0e-9107-692b9ca0dfd1",
+  "title": "Fantomszál",
+  "originalTitle": "Phantom Thread",
+  "overview": "In 1950s London, a renowned dressmaker's meticulous lifestyle begins drastically changing as his relationship with his young muse intensifies.",
+  "backdropPath": "/sJZd1H4cl2Nxhj0nutVCK5pMczL.jpg",
+  "posterPath": "/hgoWjp9Sh0MI97eAMZCnIoVfgvq.jpg",
+  "releaseDate": "2017-12-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "45214ca9-ee00-4fd4-b3b0-6322586c0db8",
+      "title": "Fantomszál",
+      "subtitle": null,
+      "timestampString": "01:27:00",
+      "timestampInSeconds": 5220,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #138",
+        "youtubeId": "nNL55zk0j6I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nNL55zk0j6I/hqdefault.jpg",
+        "durationInMinutes": 255,
+        "releaseDate": 1519187400000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

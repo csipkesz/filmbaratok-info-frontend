@@ -1,0 +1,41 @@
+{
+  "id": "6921eb6b-ced2-4998-9125-82599ff07dbc",
+  "title": "Sonic, a sündisznó 2",
+  "originalTitle": "Sonic the Hedgehog 2",
+  "overview": "After settling in Green Hills, Sonic is eager to prove he has what it takes to be a true hero. His test comes when Dr. Robotnik returns, this time with a new partner, Knuckles, in search for an emerald that has the power to destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a globe-trotting journey to find the emerald before it falls into the wrong hands.",
+  "backdropPath": "/xuLA0pii2IMJW2puT7EvJtgpg0H.jpg",
+  "posterPath": "/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg",
+  "releaseDate": "2022-03-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "db705db8-97c0-4bdf-970d-d0cb2ea13247",
+      "title": "Sonic, a sündisznó 2",
+      "subtitle": null,
+      "timestampString": "02:22:10",
+      "timestampInSeconds": 8530,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #231",
+        "youtubeId": "GwvFCLoE8cY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GwvFCLoE8cY/hqdefault.jpg",
+        "durationInMinutes": 252,
+        "releaseDate": 1650126613000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

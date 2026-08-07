@@ -1,0 +1,45 @@
+{
+  "id": "4799942d-eaed-47e1-b057-ddbfe77e45e6",
+  "title": "Grace: Monaco csillaga",
+  "originalTitle": "Grace of Monaco",
+  "overview": "The story of former Hollywood star Grace Kelly's crisis of marriage and identity, during a political dispute between Monaco's Prince Rainier III and France's Charles De Gaulle, and a looming French invasion of Monaco in the early 1960s.",
+  "backdropPath": "/giKpSN2ZBCAUQ670nhyRAu3U9Pd.jpg",
+  "posterPath": "/kHiiS7rG7VMTp5a5fbH0WCKs9mS.jpg",
+  "releaseDate": "2014-04-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "06cfa91d-64c6-4b2d-940c-425f0204d78c",
+      "title": "Grace: Monaco csillaga",
+      "subtitle": null,
+      "timestampString": "02:18:00",
+      "timestampInSeconds": 8280,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #51",
+        "youtubeId": "E9iOfzIEJFU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E9iOfzIEJFU/hqdefault.jpg",
+        "durationInMinutes": 176,
+        "releaseDate": 1401305269000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "381dc7dc-8c87-4445-8700-41b16553f8e5",
+  "title": "Tiger King",
+  "originalTitle": "Tiger King",
+  "overview": "",
+  "backdropPath": "/8GGD7djS6oqTWcKwJb3uT833xeA.jpg",
+  "posterPath": "/1PggCw2LLYn0g7BktKlW6PDdNT0.jpg",
+  "releaseDate": "2020-03-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "02e6a029-3ad0-4b71-b3d8-bbf13c17512d",
+      "title": "Tiger King",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Tiger King",
+        "youtubeId": "xyPMvfbYNmQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/xyPMvfbYNmQ/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1587085210000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

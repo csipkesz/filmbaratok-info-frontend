@@ -1,0 +1,45 @@
+{
+  "id": "63f9c47e-e38f-4b17-91aa-c2ec56ab6dd8",
+  "title": "Vinyan - Az elveszett lelkek",
+  "originalTitle": "Vinyan",
+  "overview": "Six months after losing her only child in the Southeast Asia tsunami, Jeanne is convinced she sees him in a film about orphans living in the jungles.",
+  "backdropPath": "/nz38b87zXy5XnY3OKGXlUx64tcf.jpg",
+  "posterPath": "/dzFmPTbLiOOciDS0MzfZw0hJGxy.jpg",
+  "releaseDate": "2008-08-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "bec27bb4-cf81-4103-bc18-61358ad3c654",
+      "title": "Vinyan - Az elveszett lelkek",
+      "subtitle": null,
+      "timestampString": "04:00:00",
+      "timestampInSeconds": 14400,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #239",
+        "youtubeId": "fLgXm-yTEGg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fLgXm-yTEGg/hqdefault.jpg",
+        "durationInMinutes": 259,
+        "releaseDate": 1663259409000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

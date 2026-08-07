@@ -1,0 +1,41 @@
+{
+  "id": "a7ea019e-b810-4d9d-a75a-2df318f42265",
+  "title": "Happy, a flúgos golfos 2",
+  "originalTitle": "Happy Gilmore 2",
+  "overview": "Happy Gilmore isn't done with golf — not by a long shot. Since his retirement after his first Tour Championship win, Gilmore returns to finance his daughter's ballet classes.",
+  "backdropPath": "/dRgfr6i95s4qEZkdtWdJP495E75.jpg",
+  "posterPath": "/E3dPHPJigkXwuiE0n1vzz0se8a.jpg",
+  "releaseDate": "2025-07-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c516c1f4-d533-4666-ad14-93dc7cb5d19b",
+      "title": "Happy, a flúgos golfos 2",
+      "subtitle": null,
+      "timestampString": "01:41:00",
+      "timestampInSeconds": 6060,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #308",
+        "youtubeId": "JX8Yhmv3ho0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JX8Yhmv3ho0/hqdefault.jpg",
+        "durationInMinutes": 210,
+        "releaseDate": 1755468901000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

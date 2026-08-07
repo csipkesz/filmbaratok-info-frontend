@@ -1,0 +1,45 @@
+{
+  "id": "4adee7f2-7b43-4965-a821-8b2e8722ce14",
+  "title": "Sound of Metal",
+  "originalTitle": "Sound of Metal",
+  "overview": "Metal drummer Ruben begins to lose his hearing. When a doctor tells him his condition will worsen, he thinks his career and life is over. His girlfriend Lou checks the former addict into a rehab for the deaf hoping it will prevent a relapse and help him adapt to his new life. After being welcomed and accepted just as he is, Ruben must choose between his new normal and the life he once knew.",
+  "backdropPath": "/7b5R8FfGUzlxfhOkPpL3xyIeuyF.jpg",
+  "posterPath": "/3178oOJKKPDeQ2legWQvMPpllv.jpg",
+  "releaseDate": "2020-11-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b9146f22-2928-4553-b8a5-8c5c0d970f9a",
+      "title": "Sound of Metal",
+      "subtitle": null,
+      "timestampString": "01:13:00",
+      "timestampInSeconds": 4380,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #204",
+        "youtubeId": "uCWG2Ku59nQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uCWG2Ku59nQ/hqdefault.jpg",
+        "durationInMinutes": 207,
+        "releaseDate": 1610723034000,
+        "participants": [
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "df3a34ef-9aba-4da2-81e1-677d7ba3487d",
+            "name": "Anna"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

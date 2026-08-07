@@ -1,0 +1,45 @@
+{
+  "id": "448d93f1-7640-4c4d-8962-0245487b0fc7",
+  "title": "Háromezer év vágyakozás",
+  "originalTitle": "Three Thousand Years of Longing",
+  "overview": "A solitary scholar discovers an ancient bottle while on a trip to Istanbul and unleashes a djinn who offers her three wishes. Filled with reluctance, she is unable to come up with one, so the djinn tries to inspire her with his stories.",
+  "backdropPath": "/90IcDDC47Rck4D2fyZbpZ1rbFZW.jpg",
+  "posterPath": "/nS7DNl4A7XnDncZX70UJ8ALAihF.jpg",
+  "releaseDate": "2022-08-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "71cbac83-ec38-4c38-90f9-d732203d6086",
+      "title": "Háromezer év vágyakozás",
+      "subtitle": null,
+      "timestampString": "02:43:55",
+      "timestampInSeconds": 9835,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #239",
+        "youtubeId": "fLgXm-yTEGg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fLgXm-yTEGg/hqdefault.jpg",
+        "durationInMinutes": 259,
+        "releaseDate": 1663259409000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

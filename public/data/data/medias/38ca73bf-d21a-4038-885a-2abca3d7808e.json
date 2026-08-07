@@ -1,0 +1,41 @@
+{
+  "id": "38ca73bf-d21a-4038-885a-2abca3d7808e",
+  "title": "Aki bújt 2: Jövök!",
+  "originalTitle": "Ready or Not: Here I Come",
+  "overview": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she’s reached the next level of the nightmarish game — and this time with her estranged sister Faith at her side. Grace has one chance to survive, keep her sister alive, and claim the High Seat of the Council that controls the world. Four rival families are hunting her for the throne, and whoever wins rules it all.",
+  "backdropPath": "/fx2cEuadZK28VHKkc0F1nFR96i0.jpg",
+  "posterPath": "/jRf89HVEtBZiSnOXXWDhZOfuTwW.jpg",
+  "releaseDate": "2026-03-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9a48c383-13df-4f02-af8f-5a0819566b07",
+      "title": "Aki bújt 2: Jövök!",
+      "subtitle": null,
+      "timestampString": "00:43:30",
+      "timestampInSeconds": 2610,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #324",
+        "youtubeId": "Df6QbCuxjIs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Df6QbCuxjIs/hqdefault.jpg",
+        "durationInMinutes": 174,
+        "releaseDate": 1776433338000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

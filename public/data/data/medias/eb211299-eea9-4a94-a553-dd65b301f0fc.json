@@ -1,0 +1,45 @@
+{
+  "id": "eb211299-eea9-4a94-a553-dd65b301f0fc",
+  "title": "Ecc, pecc, ki lehetsz?",
+  "originalTitle": "See How They Run",
+  "overview": "In the West End of 1950s London, plans for a movie version of a smash-hit play come to an abrupt halt after a pivotal member of the crew is murdered. When world-weary Inspector Stoppard and eager rookie Constable Stalker take on the case, the two find themselves thrown into a puzzling whodunit within the glamorously sordid theater underground, investigating the mysterious homicide at their own peril.",
+  "backdropPath": "/cn9GQzCaeYylEV2hymVR8bskRMJ.jpg",
+  "posterPath": "/r3rpSAi2yukZwr9H2km0WKGODWo.jpg",
+  "releaseDate": "2022-09-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "30753a4f-8785-4c1a-b0ba-7afa5ff78d38",
+      "title": "Ecc, pecc, ki lehetsz?",
+      "subtitle": null,
+      "timestampString": "01:26:30",
+      "timestampInSeconds": 5190,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #241",
+        "youtubeId": "wkIRMrjPzTE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wkIRMrjPzTE/hqdefault.jpg",
+        "durationInMinutes": 228,
+        "releaseDate": 1665676839000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

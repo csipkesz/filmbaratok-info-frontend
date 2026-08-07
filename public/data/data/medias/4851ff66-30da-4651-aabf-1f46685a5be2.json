@@ -1,0 +1,45 @@
+{
+  "id": "4851ff66-30da-4651-aabf-1f46685a5be2",
+  "title": "Marley meg én",
+  "originalTitle": "Marley & Me",
+  "overview": "A newly married couple, in the process of starting a family, learn many of life's important lessons from their trouble-loving retriever, Marley. Packed with plenty of laughs to lighten the load, the film explores the highs and lows of marriage, maturity and confronting one's own mortality, as seen through the lens of family life with a dog.",
+  "backdropPath": "/tVoWbAAfTDIhTeo78SbA2V6mv8E.jpg",
+  "posterPath": "/pnB6hjTKylb0Ve2nUWt16gzkErr.jpg",
+  "releaseDate": "2008-12-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6f029325-1da1-42e2-9488-ba323a63ac18",
+      "title": "Marley meg én",
+      "subtitle": null,
+      "timestampString": "02:34:31",
+      "timestampInSeconds": 9271,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #88",
+        "youtubeId": "wEd9ZOCpPII",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wEd9ZOCpPII/hqdefault.jpg",
+        "durationInMinutes": 226,
+        "releaseDate": 1450458682000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

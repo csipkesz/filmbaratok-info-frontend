@@ -1,0 +1,41 @@
+{
+  "id": "87a5cc06-7b81-4f38-b215-a05aceffca39",
+  "title": "Pirula Panda",
+  "originalTitle": "Turning Red",
+  "overview": "Thirteen-year-old Mei is experiencing the awkwardness of being a teenager with a twist – when she gets too excited, she transforms into a giant red panda.",
+  "backdropPath": "/fOy2Jurz9k6RnJnMUMRDAgBwru2.jpg",
+  "posterPath": "/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg",
+  "releaseDate": "2022-03-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "88cfe4c2-0873-4b9a-a3b8-05659571f3b3",
+      "title": "Pirula Panda",
+      "subtitle": null,
+      "timestampString": "01:29:30",
+      "timestampInSeconds": 5370,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #231",
+        "youtubeId": "GwvFCLoE8cY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GwvFCLoE8cY/hqdefault.jpg",
+        "durationInMinutes": 252,
+        "releaseDate": 1650126613000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

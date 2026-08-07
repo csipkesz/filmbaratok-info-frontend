@@ -1,0 +1,41 @@
+{
+  "id": "6ff943ef-e840-4950-a087-c6d164986e19",
+  "title": "Kung Fury",
+  "originalTitle": "Kung Fury",
+  "overview": "During an unfortunate series of events, a friend of Kung Fury is assassinated by the most dangerous kung fu master criminal of all time, Adolf Hitler, a.k.a Kung Führer.  Kung Fury decides to travel back in time to Nazi Germany in order to kill Hitler and end the Nazi empire once and for all.",
+  "backdropPath": "/gdxPHC5nw9sBrrUyiOnzkWqnLE4.jpg",
+  "posterPath": "/f1QpIlCqlFXp1hjnLplXb5irxip.jpg",
+  "releaseDate": "2015-05-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d68d482c-70f0-4e70-a724-9ced156a8468",
+      "title": "Kung Fury",
+      "subtitle": null,
+      "timestampString": "02:29:44",
+      "timestampInSeconds": 8984,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #75",
+        "youtubeId": "5hqAh129dAE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/5hqAh129dAE/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1434729270000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

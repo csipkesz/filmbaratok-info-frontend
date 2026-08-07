@@ -1,0 +1,45 @@
+{
+  "id": "e06b1d29-cd4a-4d0c-9c8c-9f11be0ade8c",
+  "title": "Csernobil",
+  "originalTitle": "Chernobyl",
+  "overview": "A történelem egyik legnagyobb ember által előidézett katasztrófájának, a csernobili nukleáris balesetnek a feldolgozása. Bátor férfiak és nők története, akik mindent feláldoztak, hogy megmentsék Európát az elképzelhetetlen katasztrófától.",
+  "backdropPath": "/3URK0z9PzpVNJrGE7XOuyy6KFzk.jpg",
+  "posterPath": "/bpTdFziBQAx1g9hhhZeLRubRVK0.jpg",
+  "releaseDate": "2019-05-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e46188fe-dfeb-4fa3-bff2-5fc7b92dfddf",
+      "title": "Csernobil",
+      "subtitle": null,
+      "timestampString": "02:46:00",
+      "timestampInSeconds": 9960,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #170",
+        "youtubeId": "tw65hAXphtM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tw65hAXphtM/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1561124178000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

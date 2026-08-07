@@ -1,0 +1,79 @@
+{
+  "id": "2adee5f2-f694-45aa-a12b-77acf72747ff",
+  "title": "Haverok fegyverben",
+  "originalTitle": "War Dogs",
+  "overview": "Based on the true story of two young men, David Packouz and Efraim Diveroli, who won a $300 million contract from the Pentagon to arm America's allies in Afghanistan.",
+  "backdropPath": "/oNoprEND25zXR6Fns8cIZUkuoMc.jpg",
+  "posterPath": "/mDcPRjZC1bb6LavFU3gwsWdVfCM.jpg",
+  "releaseDate": "2016-08-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "bfa0b2a9-e8dc-49fe-af67-6b915b8c4200",
+      "title": "Haverok fegyverben",
+      "subtitle": null,
+      "timestampString": "01:09:15",
+      "timestampInSeconds": 4155,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #134",
+        "youtubeId": "gB5CFdGY70M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gB5CFdGY70M/hqdefault.jpg",
+        "durationInMinutes": 218,
+        "releaseDate": 1513874512000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "de92f017-c32e-4487-a7af-c4c5c4af4056",
+      "title": "Haverok fegyverben",
+      "subtitle": null,
+      "timestampString": "02:23:00",
+      "timestampInSeconds": 8580,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #105",
+        "youtubeId": "73Hk03Cs0mQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/73Hk03Cs0mQ/hqdefault.jpg",
+        "durationInMinutes": 214,
+        "releaseDate": 1471773217000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

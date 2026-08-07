@@ -1,0 +1,41 @@
+{
+  "id": "a0684f8a-b66e-4b71-ad55-31eeb8985128",
+  "title": "Megszólít az éjszaka",
+  "originalTitle": "The Mothman Prophecies",
+  "overview": "Reporter John Klein is plunged into a world of impossible terror when fate draws him to the sleepy West Virginia town of Point Pleasant, whose residents are being visited by a great winged shape that sows hideous nightmares and fevered visions.",
+  "backdropPath": "/zQM01PhOwJY9ePnWPQ8L0YeKf8c.jpg",
+  "posterPath": "/z2PiOTyjbCOnMHY2QJdq3I4jU44.jpg",
+  "releaseDate": "2002-01-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f738ffb1-784c-4442-be90-5839b5008680",
+      "title": "Megszólít az éjszaka",
+      "subtitle": null,
+      "timestampString": "02:40:26",
+      "timestampInSeconds": 9626,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #70",
+        "youtubeId": "_vL1V5oablM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_vL1V5oablM/hqdefault.jpg",
+        "durationInMinutes": 182,
+        "releaseDate": 1427860093000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

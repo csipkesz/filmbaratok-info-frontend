@@ -1,0 +1,45 @@
+{
+  "id": "968ca766-0a22-47bb-9f8f-6cfdc5754c99",
+  "title": "Roger nyúl a pácban",
+  "originalTitle": "Who Framed Roger Rabbit",
+  "overview": "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
+  "backdropPath": "/udIE8Cdon9wnYmVIOFYrBPfA2Mq.jpg",
+  "posterPath": "/lYfRc57Kx9VgLZ48iulu0HKnM15.jpg",
+  "releaseDate": "1988-06-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a16cd3eb-870a-4212-a5bc-e3b0260a4b37",
+      "title": "Roger nyúl a pácban",
+      "subtitle": null,
+      "timestampString": "02:55:30",
+      "timestampInSeconds": 10530,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #174",
+        "youtubeId": "SKngLJZbCLc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/SKngLJZbCLc/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1567606261000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

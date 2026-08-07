@@ -1,0 +1,45 @@
+{
+  "id": "f2334b8f-24b7-4159-b646-bdc7f102b823",
+  "title": "Minden, mindenhol, mindenkor",
+  "originalTitle": "Everything Everywhere All at Once",
+  "overview": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.",
+  "backdropPath": "/ss0Os3uWJfQAENILHZUdX8Tt1OC.jpg",
+  "posterPath": "/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
+  "releaseDate": "2022-03-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "afe1dca0-e491-4c7f-88a9-f27759ed83f7",
+      "title": "Minden, mindenhol, mindenkor",
+      "subtitle": null,
+      "timestampString": "00:38:00",
+      "timestampInSeconds": 2280,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #232",
+        "youtubeId": "9TzGQXyouWk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9TzGQXyouWk/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1651670332000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

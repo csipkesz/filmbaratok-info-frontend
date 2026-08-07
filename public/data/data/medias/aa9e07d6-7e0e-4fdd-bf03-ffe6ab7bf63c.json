@@ -1,0 +1,45 @@
+{
+  "id": "aa9e07d6-7e0e-4fdd-bf03-ffe6ab7bf63c",
+  "title": "Terminator : Genisys",
+  "originalTitle": "Terminator Genisys",
+  "overview": "The year is 2029. John Connor, leader of the resistance continues the war against the machines. At the Los Angeles offensive, John's fears of the unknown future begin to emerge when TECOM spies reveal a new plot by SkyNet that will attack him from both fronts; past and future, and will ultimately change warfare forever.",
+  "backdropPath": "/wvlIoof1FnKPLv9jAYanuP31V0C.jpg",
+  "posterPath": "/oZRVDpNtmHk8M1VYy1aeOWUXgbC.jpg",
+  "releaseDate": "2015-06-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "40e6514c-5838-40ca-872f-68ffd14574e8",
+      "title": "Terminator : Genisys",
+      "subtitle": null,
+      "timestampString": "00:24:45",
+      "timestampInSeconds": 1485,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #77",
+        "youtubeId": "GxURCHDmpLM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GxURCHDmpLM/hqdefault.jpg",
+        "durationInMinutes": 246,
+        "releaseDate": 1437150395000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

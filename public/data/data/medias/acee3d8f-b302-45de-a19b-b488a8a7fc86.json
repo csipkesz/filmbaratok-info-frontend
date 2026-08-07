@@ -1,0 +1,45 @@
+{
+  "id": "acee3d8f-b302-45de-a19b-b488a8a7fc86",
+  "title": "Szupercella 3. - Az ördögverem",
+  "originalTitle": "Escape Plan: The Extractors",
+  "overview": "After security expert Ray Breslin is hired to rescue the kidnapped daughter of a Hong Kong tech mogul from a formidable Latvian prison, Breslin's girlfriend is also captured. Now he and his team must pull off a deadly rescue mission to confront their sadistic foe and save the hostages before time runs out.",
+  "backdropPath": "/yxmfjj4YiFcJipn9nYVBRxeCvo9.jpg",
+  "posterPath": "/9qVzb6qDdh5ni76bLAPHAZDNHv4.jpg",
+  "releaseDate": "2019-06-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ac372aa3-704f-4c96-a4e8-bed3b7aa1f6d",
+      "title": "Szupercella 3. - Az ördögverem",
+      "subtitle": null,
+      "timestampString": "01:30:30",
+      "timestampInSeconds": 5430,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #172",
+        "youtubeId": "ahOskajDN8o",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ahOskajDN8o/hqdefault.jpg",
+        "durationInMinutes": 250,
+        "releaseDate": 1564145413000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

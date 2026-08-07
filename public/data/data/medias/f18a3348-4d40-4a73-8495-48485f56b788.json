@@ -1,0 +1,45 @@
+{
+  "id": "f18a3348-4d40-4a73-8495-48485f56b788",
+  "title": "Lego Ninjago",
+  "originalTitle": "The Lego Ninjago Movie",
+  "overview": "Six young ninjas are tasked with defending their island home of Ninjago. By night, they’re gifted warriors using their skill and awesome fleet of vehicles to fight villains and monsters. By day, they’re ordinary teens struggling against their greatest enemy....high school.",
+  "backdropPath": "/6BQis8u6Q8U5J4EHqdyRRIE0njI.jpg",
+  "posterPath": "/vUo0pNXGhp2ffTJxiStWt6fHL7F.jpg",
+  "releaseDate": "2017-09-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8e7ec7a7-e20e-43fd-9b21-114a53ee0803",
+      "title": "Lego Ninjago",
+      "subtitle": null,
+      "timestampString": "01:54:28",
+      "timestampInSeconds": 6868,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #130",
+        "youtubeId": "gU3ro-u6uQ4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gU3ro-u6uQ4/hqdefault.jpg",
+        "durationInMinutes": 174,
+        "releaseDate": 1507212990000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

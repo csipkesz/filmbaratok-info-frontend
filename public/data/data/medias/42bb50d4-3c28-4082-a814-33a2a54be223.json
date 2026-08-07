@@ -1,0 +1,45 @@
+{
+  "id": "42bb50d4-3c28-4082-a814-33a2a54be223",
+  "title": "Veszélyes",
+  "originalTitle": "Dangerous",
+  "overview": "A reformed sociopath heads to a remote island after the death of his brother. Soon after his arrival, the island falls under siege from a deadly gang of mercenaries, and when he discovers their role in his brother’s demise, he sets out on a relentless quest for vengeance.",
+  "backdropPath": "/mo57hzhW3BcZL1f7MNteWKHsmlN.jpg",
+  "posterPath": "/vTtkQGC7qKlSRQJZYtAWAmYdH0A.jpg",
+  "releaseDate": "2021-11-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "efb3e198-ae3c-4eb0-a418-7af56d23d135",
+      "title": "Veszélyes",
+      "subtitle": null,
+      "timestampString": "03:35:29",
+      "timestampInSeconds": 12929,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #227",
+        "youtubeId": "aLZRPLtke70",
+        "thumbnailUrl": "https://i.ytimg.com/vi/aLZRPLtke70/hqdefault.jpg",
+        "durationInMinutes": 275,
+        "releaseDate": 1645191276000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "6ba4e2c1-505c-4808-937d-de82a377c039",
+  "title": "Nap nap után",
+  "originalTitle": "Every Day",
+  "overview": "16-year old Rhiannon falls in love with a mysterious spirit named “A” that inhabits a different body every day. Feeling an unmatched connection, Rhiannon and “A” work each day to find each other, not knowing what the next day will bring.",
+  "backdropPath": "/wEXYJgW5l2IwwNdRVk9ixgKl8qu.jpg",
+  "posterPath": "/4UnME3icxSspwL0UoGZNSyyp7Xs.jpg",
+  "releaseDate": "2018-02-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1353b0bd-beed-4d94-a73c-f11f16efed70",
+      "title": "Nap nap után",
+      "subtitle": null,
+      "timestampString": "01:12:35",
+      "timestampInSeconds": 4355,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #141",
+        "youtubeId": "gWd3V1HCpWA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gWd3V1HCpWA/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1522558409000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

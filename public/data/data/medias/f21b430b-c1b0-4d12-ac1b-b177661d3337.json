@@ -1,0 +1,45 @@
+{
+  "id": "f21b430b-c1b0-4d12-ac1b-b177661d3337",
+  "title": "Terminál",
+  "originalTitle": "The Terminal",
+  "overview": "An Eastern European tourist unexpectedly finds himself stranded in JFK airport, and must take up temporary residence there.",
+  "backdropPath": "/zywtNiaZ9r7azrcNdl2j0jOgrkw.jpg",
+  "posterPath": "/cPB3ZMM4UdsSAhNdS4c7ps5nypY.jpg",
+  "releaseDate": "2004-06-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b230dee0-52b7-400c-837f-3f78adffd9d9",
+      "title": "Terminál",
+      "subtitle": null,
+      "timestampString": "02:29:45",
+      "timestampInSeconds": 8985,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #204",
+        "youtubeId": "uCWG2Ku59nQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uCWG2Ku59nQ/hqdefault.jpg",
+        "durationInMinutes": 207,
+        "releaseDate": 1610723034000,
+        "participants": [
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "df3a34ef-9aba-4da2-81e1-677d7ba3487d",
+            "name": "Anna"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

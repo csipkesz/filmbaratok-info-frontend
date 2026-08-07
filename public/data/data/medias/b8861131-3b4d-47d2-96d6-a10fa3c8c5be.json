@@ -1,0 +1,41 @@
+{
+  "id": "b8861131-3b4d-47d2-96d6-a10fa3c8c5be",
+  "title": "aMItől félsz",
+  "originalTitle": "Afraid",
+  "overview": "Curtis Pike and his family are selected to test a new home device: a digital assistant called AIA. AIA observes the family's behaviors and begins to anticipate their needs. And she can – and will – make sure nothing – and no one – gets in her family's way.",
+  "backdropPath": "/zu4m80pS1EBqDd000xD6exSyHp4.jpg",
+  "posterPath": "/gUREuXCnJLVHsvKXDH9fgIcfM6e.jpg",
+  "releaseDate": "2024-08-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c701a476-52f5-466e-b79b-4bf9be0bc40b",
+      "title": "aMItől félsz",
+      "subtitle": null,
+      "timestampString": "00:49:30",
+      "timestampInSeconds": 2970,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #287",
+        "youtubeId": "t0z5SbpHLjU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/t0z5SbpHLjU/hqdefault.jpg",
+        "durationInMinutes": 151,
+        "releaseDate": 1727611956000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

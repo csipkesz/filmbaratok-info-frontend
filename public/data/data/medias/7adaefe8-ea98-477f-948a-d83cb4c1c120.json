@@ -1,0 +1,41 @@
+{
+  "id": "7adaefe8-ea98-477f-948a-d83cb4c1c120",
+  "title": "Colectiv",
+  "originalTitle": "Colectiv",
+  "overview": "In the aftermath of a tragic fire in a Romanian club, burn victims begin dying in hospitals from wounds that were not life threatening.  A team of investigative journalists move into action uncovering the mass corruption of the health system and of the state institutions. Collective follows journalists, whistle blowers, and authorities alike. An immersive and uncompromising look into a dysfunctional system, exposing corruption, propaganda, and manipulation that nowadays affect not only Romania, but societies around the world.",
+  "backdropPath": "/m2SJTezG29RWgS8BjFiFZCYkwOp.jpg",
+  "posterPath": "/oR93n0CAn2GznyHDFSRTp0J1t8c.jpg",
+  "releaseDate": "2019-02-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9277da86-8797-4d07-a654-e86cbdd216c7",
+      "title": "Colectiv",
+      "subtitle": null,
+      "timestampString": "02:38:40",
+      "timestampInSeconds": 9520,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #190",
+        "youtubeId": "w7oFnCSc3u4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/w7oFnCSc3u4/hqdefault.jpg",
+        "durationInMinutes": 188,
+        "releaseDate": 1590603790000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

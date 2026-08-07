@@ -1,0 +1,45 @@
+{
+  "id": "d4fd5082-82e7-42fa-94ce-feef827683e7",
+  "title": "Hipervándor",
+  "originalTitle": "Jumper",
+  "overview": "David Rice is a man who knows no boundaries, a Jumper, born with the uncanny ability to teleport instantly to anywhere on Earth. When he discovers others like himself, David is thrust into a dangerous and bloodthirsty war while being hunted by a sinister and determined group of zealots who have sworn to destroy all Jumpers. Now, David’s extraordinary gift may be his only hope for survival!",
+  "backdropPath": "/5A1ObQ0fGNHVWivBdlJyO586BTK.jpg",
+  "posterPath": "/3pPZ9JhNz3VMmASVir5SMHvTDUU.jpg",
+  "releaseDate": "2008-02-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c3fff590-25e3-4153-9e2b-4922bf811246",
+      "title": "Hipervándor",
+      "subtitle": null,
+      "timestampString": "03:02:00",
+      "timestampInSeconds": 10920,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #228",
+        "youtubeId": "lv3ZpY859Dw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/lv3ZpY859Dw/hqdefault.jpg",
+        "durationInMinutes": 218,
+        "releaseDate": 1646480502000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "79a295ce-7c0a-4aef-999f-eaf5bfeb091f",
+  "title": "Hurrikán meló",
+  "originalTitle": "The Hurricane Heist",
+  "overview": "Thieves attempt a massive heist against the U.S. Treasury as a Category 5 hurricane approaches one of its Mint facilities.",
+  "backdropPath": "/3ZQRLuXNTbewOHDfxF51fy74gh4.jpg",
+  "posterPath": "/rAmcj5IZcx59dhev3UnVDEGlImK.jpg",
+  "releaseDate": "2018-02-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a671afe3-1139-45f7-806e-3267cef50964",
+      "title": "Hurrikán meló",
+      "subtitle": null,
+      "timestampString": "01:11:55",
+      "timestampInSeconds": 4315,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #142",
+        "youtubeId": "9S7p7P1Y2po",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9S7p7P1Y2po/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1525105433000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "69af93d2-8413-4d4f-aa88-6fe9415f2638",
+  "title": "Trezor",
+  "originalTitle": "Trezor",
+  "overview": "The police hire a convicted bank robber to crack the Ministry of Interior's vault during the final days of the 1956 Hungarian Revolution. But what they find inside is quite different from what they were expecting.",
+  "backdropPath": "/nyov1VkTKOju8NelgeVoCckQvNa.jpg",
+  "posterPath": "/4vEeCEPDQ8lO30i7RwVSPaNGF4x.jpg",
+  "releaseDate": "2018-11-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1adf3ef5-a02c-4c29-9e12-b8f24d1b598a",
+      "title": "Trezor",
+      "subtitle": null,
+      "timestampString": "03:17:30",
+      "timestampInSeconds": 11850,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #328",
+        "youtubeId": "f89B62DScOs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/f89B62DScOs/hqdefault.jpg",
+        "durationInMinutes": 253,
+        "releaseDate": 1781722805000,
+        "participants": [
+          {
+            "id": "18bb710d-2755-4eaa-875b-48c695315171",
+            "name": "Márk"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

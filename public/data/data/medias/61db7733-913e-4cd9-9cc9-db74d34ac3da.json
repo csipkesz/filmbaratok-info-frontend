@@ -1,0 +1,41 @@
+{
+  "id": "61db7733-913e-4cd9-9cc9-db74d34ac3da",
+  "title": "Lords of Chaos - Sötétség gyermekei",
+  "originalTitle": "Lords of Chaos",
+  "overview": "A teenager's quest to launch Norwegian Black Metal in Oslo in the 1990s results in a very violent outcome.",
+  "backdropPath": "/oaDTXNmyqeNEEBat3h4ijiu27jv.jpg",
+  "posterPath": "/5jDShbwEsILXa2AAmAbOLxyNwyq.jpg",
+  "releaseDate": "2018-09-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ddeaba09-834b-4b30-bccf-19b00619ed81",
+      "title": "Lords of Chaos - Sötétség gyermekei",
+      "subtitle": null,
+      "timestampString": "01:24:40",
+      "timestampInSeconds": 5080,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #168",
+        "youtubeId": "_Gfw4jCabeA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_Gfw4jCabeA/hqdefault.jpg",
+        "durationInMinutes": 156,
+        "releaseDate": 1557378988000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

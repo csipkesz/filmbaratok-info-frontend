@@ -1,0 +1,41 @@
+{
+  "id": "33dd703e-94c3-456d-9497-132305734717",
+  "title": "Francia kapcsolat",
+  "originalTitle": "The French Connection",
+  "overview": "Tough narcotics detective 'Popeye' Doyle is in hot pursuit of a suave French drug dealer who may be the key to a huge heroin-smuggling operation.",
+  "backdropPath": "/AsaW2VwcArvQmYjf2wsDjqWEn6f.jpg",
+  "posterPath": "/pH4saPwMjhnVGwmSH6RkMaHrt3s.jpg",
+  "releaseDate": "1971-10-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "05b37e20-5a6f-40ec-a5cc-b3f8ff57eb6b",
+      "title": "Francia kapcsolat",
+      "subtitle": null,
+      "timestampString": "02:42:53",
+      "timestampInSeconds": 9773,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #75",
+        "youtubeId": "5hqAh129dAE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/5hqAh129dAE/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1434729270000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

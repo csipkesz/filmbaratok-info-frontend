@@ -1,0 +1,41 @@
+{
+  "id": "173aeaaf-2a80-42dc-8b3b-7e01c672049f",
+  "title": "Ivanhoe (1952)",
+  "originalTitle": "Ivanhoe",
+  "overview": "Sir Walter Scott's classic story of the chivalrous Ivanhoe who joins with Robin of Locksley in the fight against Prince John and for the return of King Richard the Lionheart.",
+  "backdropPath": "/pKAq05IpPBoO6B6xmhiLoCvPCGD.jpg",
+  "posterPath": "/2Se7dafuvchdSr6vdZ5L0DXsYWv.jpg",
+  "releaseDate": "1952-07-31T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "84f52db9-d657-4771-8ee1-1d82933aaba6",
+      "title": "Ivanhoe (1952)",
+      "subtitle": null,
+      "timestampString": "01:32:10",
+      "timestampInSeconds": 5530,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #112",
+        "youtubeId": "M7gzW5_pVZk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/M7gzW5_pVZk/hqdefault.jpg",
+        "durationInMinutes": 160,
+        "releaseDate": 1481731219000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "f6688e5b-135b-408b-88a7-f94e9618860d",
+  "title": "Frankenstein [2025]",
+  "originalTitle": "Frankenstein",
+  "overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
+  "backdropPath": "/hpXBJxLD2SEf8l2CspmSeiHrBKX.jpg",
+  "posterPath": "/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
+  "releaseDate": "2025-10-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9d06fb49-7c07-40af-a20b-5ae93a64f133",
+      "title": "Frankenstein [2025]",
+      "subtitle": null,
+      "timestampString": "01:29:50",
+      "timestampInSeconds": 5390,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #314",
+        "youtubeId": "tV5E0wGOsV8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tV5E0wGOsV8/hqdefault.jpg",
+        "durationInMinutes": 217,
+        "releaseDate": 1763147106000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

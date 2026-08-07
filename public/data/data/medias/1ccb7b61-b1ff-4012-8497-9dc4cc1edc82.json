@@ -1,0 +1,45 @@
+{
+  "id": "1ccb7b61-b1ff-4012-8497-9dc4cc1edc82",
+  "title": "A vörös ügynök",
+  "originalTitle": "Red Joan",
+  "overview": "London, England, May 2000. The peaceful life of elderly Joan Stanley is suddenly disrupted when she is arrested by the British Intelligence Service and accused of providing information to communist Russia during the forties.",
+  "backdropPath": "/eyAv397zDUSRv8Y8BP4IBZDmQIE.jpg",
+  "posterPath": "/uTQWDi31W4RpxviHGyiwEYHXDDA.jpg",
+  "releaseDate": "2018-09-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "89223231-bca0-4268-8b84-9cf9cf2f3e6c",
+      "title": "A vörös ügynök",
+      "subtitle": null,
+      "timestampString": "03:37:28",
+      "timestampInSeconds": 13048,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #169",
+        "youtubeId": "-bLznzpWJe8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-bLznzpWJe8/hqdefault.jpg",
+        "durationInMinutes": 317,
+        "releaseDate": 1559569793000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "e2a336c7-77e9-42d7-915b-28b3218cf6f1",
+  "title": "Agymanók",
+  "originalTitle": "Inside Out",
+  "overview": "When 11-year-old Riley moves to a new city, her Emotions team up to help her through the transition. Joy, Fear, Anger, Disgust and Sadness work together, but when Joy and Sadness get lost, they must journey through unfamiliar places to get back home.",
+  "backdropPath": "/o3i6AfTcWAuNvzAUV3q5lOmi6Gx.jpg",
+  "posterPath": "/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
+  "releaseDate": "2015-06-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f9f622e4-8fdc-434c-b47b-c4137cd5a35a",
+      "title": "Agymanók",
+      "subtitle": null,
+      "timestampString": "00:20:00",
+      "timestampInSeconds": 1200,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #76",
+        "youtubeId": "wnZh6qcfn4E",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wnZh6qcfn4E/hqdefault.jpg",
+        "durationInMinutes": 128,
+        "releaseDate": 1435731107000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "61865c32-85df-46aa-8a8e-9948a1a47c7f",
+  "title": "Az útvesztő: Halálkúra",
+  "originalTitle": "Maze Runner: The Death Cure",
+  "overview": "Thomas leads his group of escaped Gladers on their final and most dangerous mission yet. To save their friends, they must break into the legendary Last City, a WCKD-controlled labyrinth that may turn out to be the deadliest maze of all. Anyone who makes it out alive will get answers to the questions the Gladers have been asking since they first arrived in the maze.",
+  "backdropPath": "/ufUAOM5aVizNf8d5YLoutqrrlhq.jpg",
+  "posterPath": "/s8K0US4tUEoOrQ1LDh0eppuwGDx.jpg",
+  "releaseDate": "2018-01-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9c9c97e4-f105-40fa-ad42-133d104be573",
+      "title": "Az útvesztő: Halálkúra",
+      "subtitle": null,
+      "timestampString": "01:52:07",
+      "timestampInSeconds": 6727,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #138",
+        "youtubeId": "nNL55zk0j6I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nNL55zk0j6I/hqdefault.jpg",
+        "durationInMinutes": 255,
+        "releaseDate": 1519187400000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

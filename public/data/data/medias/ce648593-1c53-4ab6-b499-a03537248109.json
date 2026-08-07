@@ -1,0 +1,28 @@
+{
+  "id": "ce648593-1c53-4ab6-b499-a03537248109",
+  "title": "Cinema, mon amour",
+  "originalTitle": "Cinema, Mon Amour",
+  "overview": "Follows the story of Viktor Purice - manager, former projectionist and lifetime cinephile and his two loyal employees, Cornelia & Lorena, in their everyday battle to preserve Dacia Panoramic Cinema in Piatra Neamt - one of the last remaining cinemas in Romania today. Having lived through \"the golden age\" of cinema, Viktor dreams of bringing back the good old glory days, yet struggles to keep up with the new harsh reality. In a theater that lacks heating and is slowly falling apart, with no support from the State who owns the place, it’s almost a Don Quixote fight.",
+  "backdropPath": "/zo33LwC4z2cC4r7A7PfppL39d21.jpg",
+  "posterPath": "/5nRQk6sfdPQmNaaMwsb0ph1TNkQ.jpg",
+  "releaseDate": "2016-10-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9b5259ba-77c6-4c46-a8aa-488589e97c26",
+      "title": "Cinema, mon amour",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Cinema, mon amour",
+        "youtubeId": "-Ik0LKcE97Q",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-Ik0LKcE97Q/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1553449806000,
+        "participants": []
+      }
+    }
+  ]
+}

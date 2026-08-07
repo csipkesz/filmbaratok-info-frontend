@@ -1,0 +1,67 @@
+{
+  "id": "d72dfe7f-b4af-41c1-aa4c-7edaa8da5027",
+  "title": "Snowpiercer",
+  "originalTitle": "Snowpiercer",
+  "overview": "A fagyott Földön az emberiség utolsó túlélői az egész bolygót megkerülő gigantikus vonaton próbálják fenntartani az együttéléshez szükséges kényes egyensúlyt.",
+  "backdropPath": "/zFJxwXtW3Y7FSDrc2FnVFpQCcY1.jpg",
+  "posterPath": "/2nypUnPFVQjaKGNFU1Krlza6pDd.jpg",
+  "releaseDate": "2020-05-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d549e88f-a87d-44ac-8b4b-41a987f3a2e0",
+      "title": "Snowpiercer",
+      "subtitle": null,
+      "timestampString": "01:59:55",
+      "timestampInSeconds": 7195,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #49",
+        "youtubeId": "KInB1pvzVo0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/KInB1pvzVo0/hqdefault.jpg",
+        "durationInMinutes": 177,
+        "releaseDate": 1397986559000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "df00d344-0ce7-4c7b-b7b1-a0413ce8bead",
+      "title": "Snowpiercer",
+      "subtitle": null,
+      "timestampString": "01:21:55",
+      "timestampInSeconds": 4915,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #52",
+        "youtubeId": "z5hnMqJSVxs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z5hnMqJSVxs/hqdefault.jpg",
+        "durationInMinutes": 121,
+        "releaseDate": 1403347391000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

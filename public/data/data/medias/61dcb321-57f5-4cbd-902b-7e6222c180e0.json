@@ -1,0 +1,45 @@
+{
+  "id": "61dcb321-57f5-4cbd-902b-7e6222c180e0",
+  "title": "A halálod appja",
+  "originalTitle": "Countdown",
+  "overview": "A young nurse downloads an app that tells her she only has three days to live. With time ticking away and a mysterious figure haunting her, she must find a way to save her life before time runs out.",
+  "backdropPath": "/jGq40i1j9lrxt6HVKLFKSqREjXj.jpg",
+  "posterPath": "/qCDPKUMX5xrxxQY8XhGVCKO3fks.jpg",
+  "releaseDate": "2019-10-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "36b423e3-7c96-482a-85d5-6584e547ed23",
+      "title": "A halálod appja",
+      "subtitle": null,
+      "timestampString": "02:06:18",
+      "timestampInSeconds": 7578,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #179",
+        "youtubeId": "xquBnjUaMAg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/xquBnjUaMAg/hqdefault.jpg",
+        "durationInMinutes": 206,
+        "releaseDate": 1574800160000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "df3a34ef-9aba-4da2-81e1-677d7ba3487d",
+            "name": "Anna"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

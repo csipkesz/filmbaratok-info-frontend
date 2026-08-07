@@ -1,0 +1,45 @@
+{
+  "id": "a4326e8a-679c-4985-91f0-0360310abd29",
+  "title": "Töketlenek",
+  "originalTitle": "National Lampoon's Senior Trip",
+  "overview": "While on detention, a group of misfits and slackers have to write a letter to the President explaining what is wrong with the education system. There is only one problem, the President loves it! Hence, the group must travel to Washington to meet the Main Man.",
+  "backdropPath": "/4ZBhKQ4ar6sIOG2greomg2e3dv2.jpg",
+  "posterPath": "/3QpB4KpMKRnZnsJOsemOZHDoQKw.jpg",
+  "releaseDate": "1995-09-08T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "febd17ab-3e1a-44df-b6df-260a619acf03",
+      "title": "Töketlenek",
+      "subtitle": null,
+      "timestampString": "03:32:14",
+      "timestampInSeconds": 12734,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #211",
+        "youtubeId": "e7FpksPcoKY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/e7FpksPcoKY/hqdefault.jpg",
+        "durationInMinutes": 232,
+        "releaseDate": 1621526653000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

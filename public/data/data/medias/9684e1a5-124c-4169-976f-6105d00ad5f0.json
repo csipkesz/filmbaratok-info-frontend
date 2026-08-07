@@ -1,0 +1,45 @@
+{
+  "id": "9684e1a5-124c-4169-976f-6105d00ad5f0",
+  "title": "Éjszakai játék",
+  "originalTitle": "Game Night",
+  "overview": "Max and Annie's weekly game night gets kicked up a notch when Max's brother Brooks arranges a murder mystery party -- complete with fake thugs and federal agents. So when Brooks gets kidnapped, it's all supposed to be part of the game. As the competitors set out to solve the case, they start to learn that neither the game nor Brooks are what they seem to be. The friends soon find themselves in over their heads as each twist leads to another unexpected turn over the course of one chaotic night.",
+  "backdropPath": "/aKPCZwkSZy2ASLo0QKeYmcoplfA.jpg",
+  "posterPath": "/85R8LMyn9f2Lev2YPBF8Nughrkv.jpg",
+  "releaseDate": "2018-02-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2226f4e8-6aca-4834-ae5e-dc29cc65df34",
+      "title": "Éjszakai játék",
+      "subtitle": null,
+      "timestampString": "01:01:35",
+      "timestampInSeconds": 3695,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #140",
+        "youtubeId": "LQ8tU4s4F2M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/LQ8tU4s4F2M/hqdefault.jpg",
+        "durationInMinutes": 184,
+        "releaseDate": 1521209750000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

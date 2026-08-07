@@ -1,0 +1,41 @@
+{
+  "id": "8508aa61-9ac3-47ab-8d8c-aef808a2d164",
+  "title": "Kínai negyed",
+  "originalTitle": "Chinatown",
+  "overview": "Private eye Jake Gittes lives off of the murky moral climate of sunbaked, pre-World War II Southern California. Hired by a beautiful socialite to investigate her husband's extra-marital affair, Gittes is swept into a maelstrom of double dealings and deadly deceits, uncovering a web of personal and political scandals that come crashing together.",
+  "backdropPath": "/pyvkujOZ5qvY2NlQVC71flfgVWE.jpg",
+  "posterPath": "/kZRSP3FmOcq0xnBulqpUQngJUXY.jpg",
+  "releaseDate": "1974-06-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "54f39faa-8ffe-4423-bef9-474ba646e319",
+      "title": "Kínai negyed",
+      "subtitle": null,
+      "timestampString": "02:44:55",
+      "timestampInSeconds": 9895,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #242",
+        "youtubeId": "aT0O2kW4N38",
+        "thumbnailUrl": "https://i.ytimg.com/vi/aT0O2kW4N38/hqdefault.jpg",
+        "durationInMinutes": 223,
+        "releaseDate": 1667206800000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

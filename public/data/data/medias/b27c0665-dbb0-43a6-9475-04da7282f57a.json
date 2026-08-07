@@ -1,0 +1,41 @@
+{
+  "id": "b27c0665-dbb0-43a6-9475-04da7282f57a",
+  "title": "Amerikai botrány",
+  "originalTitle": "American Hustle",
+  "overview": "A conman and his seductive partner are forced to work for a wild FBI agent, who pushes them into a world of Jersey power-brokers and the Mafia.",
+  "backdropPath": "/3r2G1vSDf4S3Pl5lJ9BDm9FTxe6.jpg",
+  "posterPath": "/z6O1KDhfWDTm5ZBr6Ovr0eg8LqO.jpg",
+  "releaseDate": "2013-12-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e37588e4-3bea-4afd-86ba-908beeee7371",
+      "title": "Amerikai botrány",
+      "subtitle": null,
+      "timestampString": "00:26:36",
+      "timestampInSeconds": 1596,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #44",
+        "youtubeId": "_NwJoO7yxrE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_NwJoO7yxrE/hqdefault.jpg",
+        "durationInMinutes": 137,
+        "releaseDate": 1391206083000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "5f77279a-e8eb-46c6-a31e-8031e2e28e62",
+            "name": "Émi"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

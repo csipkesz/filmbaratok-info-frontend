@@ -1,0 +1,45 @@
+{
+  "id": "59838f6e-a964-4b10-8cff-f714d250b9dc",
+  "title": "Nincsen, aki megmentsen",
+  "originalTitle": null,
+  "overview": null,
+  "backdropPath": null,
+  "posterPath": null,
+  "releaseDate": null,
+  "topics": [
+    {
+      "id": "48fd4fa9-c0b2-433d-8db6-d29db839f11c",
+      "title": "Nincsen, aki megmentsen",
+      "subtitle": null,
+      "timestampString": "01:03:50",
+      "timestampInSeconds": 3830,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #263",
+        "youtubeId": "NClyKPWf8XU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/NClyKPWf8XU/hqdefault.jpg",
+        "durationInMinutes": 174,
+        "releaseDate": 1695962100000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

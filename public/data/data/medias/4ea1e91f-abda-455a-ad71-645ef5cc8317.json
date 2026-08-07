@@ -1,0 +1,41 @@
+{
+  "id": "4ea1e91f-abda-455a-ad71-645ef5cc8317",
+  "title": "Henry könyve",
+  "originalTitle": "The Book of Henry",
+  "overview": "Susan, a single mother of two, works as a waitress in a small town. Her son, Henry, is an 11-year-old genius who not only manages the family finances but acts as emotional support for his mother and younger brother. When Henry discovers that the girl next door has a terrible secret, he implores Susan to take matters into her own hands.",
+  "backdropPath": "/sYnrdolxonyMucMezj8PMVBRlVr.jpg",
+  "posterPath": "/suLFg4UjvM5BoDipg2Wu3gZ802T.jpg",
+  "releaseDate": "2017-06-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b73b3217-4f50-4bb2-81a5-b43b0431227c",
+      "title": "Henry könyve [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "01:47:22",
+      "timestampInSeconds": 6442,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #168",
+        "youtubeId": "_Gfw4jCabeA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_Gfw4jCabeA/hqdefault.jpg",
+        "durationInMinutes": 156,
+        "releaseDate": 1557378988000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

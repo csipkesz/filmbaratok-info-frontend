@@ -1,0 +1,41 @@
+{
+  "id": "335b633a-5b01-4e5b-ab1c-38dd4985ef79",
+  "title": "Vivarium",
+  "originalTitle": "Vivarium",
+  "overview": "A young woman and her fiancé are in search of the perfect starter home. After following a mysterious real estate agent to a new housing development, the couple finds themselves trapped in a maze of identical houses and forced to raise an otherworldly child.",
+  "backdropPath": "/zLa8fA7boGtNoNH7n6iYi9UqoaH.jpg",
+  "posterPath": "/myf3qzpeN0JbuFRPwSpJcz7rmAT.jpg",
+  "releaseDate": "2019-09-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "dbb215f4-b11a-4f54-8b7e-e460669d69ee",
+      "title": "Vivarium",
+      "subtitle": null,
+      "timestampString": "01:39:10",
+      "timestampInSeconds": 5950,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #188",
+        "youtubeId": "0HEzLOYhLD4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/0HEzLOYhLD4/hqdefault.jpg",
+        "durationInMinutes": 184,
+        "releaseDate": 1587743952000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

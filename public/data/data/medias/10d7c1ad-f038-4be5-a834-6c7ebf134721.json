@@ -1,0 +1,45 @@
+{
+  "id": "10d7c1ad-f038-4be5-a834-6c7ebf134721",
+  "title": "Fresh",
+  "originalTitle": "Fresh",
+  "overview": "Frustrated by scrolling dating apps only to end up on lame, tedious dates, Noa takes a chance by giving her number to the awkwardly charming Steve after a produce-section meet-cute at the grocery store.",
+  "backdropPath": "/oVv5l6L5Wi5j3gd4P2vt0YvVMOg.jpg",
+  "posterPath": "/tlu71AgaL3EQBBCNGsAwZLPbV5D.jpg",
+  "releaseDate": "2022-03-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "21aeba05-3426-46f7-ab53-1b0295cfb971",
+      "title": "Fresh",
+      "subtitle": null,
+      "timestampString": "03:23:45",
+      "timestampInSeconds": 12225,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #245",
+        "youtubeId": "thnBmMbVpOo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/thnBmMbVpOo/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1671033623000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

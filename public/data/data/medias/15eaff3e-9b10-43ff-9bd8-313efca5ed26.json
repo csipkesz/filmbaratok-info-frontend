@@ -1,0 +1,41 @@
+{
+  "id": "15eaff3e-9b10-43ff-9bd8-313efca5ed26",
+  "title": "Bohém rapszódia",
+  "originalTitle": "Bohemian Rhapsody",
+  "overview": "Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock 'n' roll band Queen in 1970. Hit songs become instant classics. When Mercury's increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.",
+  "backdropPath": "/dcvbs8z0GEXslC1kCT77x19XDeR.jpg",
+  "posterPath": "/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg",
+  "releaseDate": "2018-10-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4009ae89-ebce-45cd-b87b-526edfce81fa",
+      "title": "Bohém rapszódia",
+      "subtitle": null,
+      "timestampString": "00:52:24",
+      "timestampInSeconds": 3144,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #155",
+        "youtubeId": "Htjp4x7Tcgg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Htjp4x7Tcgg/hqdefault.jpg",
+        "durationInMinutes": 165,
+        "releaseDate": 1542194035000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "df3a34ef-9aba-4da2-81e1-677d7ba3487d",
+            "name": "Anna"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "6e3df669-a6b4-48f1-a636-1d4c0adc1720",
+  "title": "The Last of Us",
+  "originalTitle": "The Last of Us",
+  "overview": "Miután egy világjárvány elpusztítja a civilizációt, egy elszánt túlélőre rábíznak egy 14 éves lányt, aki az emberiség utolsó reménye lehet.",
+  "backdropPath": "/acevLdSl5I2MK5RYAm7gwAndt1w.jpg",
+  "posterPath": "/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg",
+  "releaseDate": "2023-01-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "69c0edb5-5c99-4c5d-bc19-accc25084799",
+      "title": "The Last of Us (2. évad)",
+      "subtitle": "2. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: The Last of Us (2. évad)",
+        "youtubeId": "ENi5Cy6e8cg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ENi5Cy6e8cg/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1748971128000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "b58a918c-16ec-4387-a959-c8a6d2afa38d",
+            "name": "Shirin"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f279aae6-cf25-4f44-bdb1-ad69e3ee76ab",
+      "title": "The last of us (1. évad)",
+      "subtitle": "1. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: The last of us (1. évad)",
+        "youtubeId": "6ZCDM4bUBb0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/6ZCDM4bUBb0/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1678958911000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "b58a918c-16ec-4387-a959-c8a6d2afa38d",
+            "name": "Shirin"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

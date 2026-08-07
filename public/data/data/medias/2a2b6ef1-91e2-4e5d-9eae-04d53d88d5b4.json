@@ -1,0 +1,41 @@
+{
+  "id": "2a2b6ef1-91e2-4e5d-9eae-04d53d88d5b4",
+  "title": "Slender Man - Az ismeretlen rém",
+  "originalTitle": "Slender Man",
+  "overview": "In a small town in Massachusetts, four high school girls perform a ritual in an attempt to debunk the lore of Slender Man. When one of the girls goes mysteriously missing, they begin to suspect that she is, in fact, his latest victim.",
+  "backdropPath": "/tQPDwl1jNZi59KoFT2oxDDnlqhG.jpg",
+  "posterPath": "/huSncs4RyvQDBmHjBBYHSBYJbSJ.jpg",
+  "releaseDate": "2018-05-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e4529ee3-ad51-4bfe-bf89-a1c9e2c3f71b",
+      "title": "Slender Man - Az ismeretlen rém",
+      "subtitle": null,
+      "timestampString": "02:06:10",
+      "timestampInSeconds": 7570,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #151",
+        "youtubeId": "hcylcX_kgM0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/hcylcX_kgM0/hqdefault.jpg",
+        "durationInMinutes": 234,
+        "releaseDate": 1537428229000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

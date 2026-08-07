@@ -1,0 +1,41 @@
+{
+  "id": "580df482-17ae-47c6-90b4-118c2e2a675a",
+  "title": "Konklávé",
+  "originalTitle": "Conclave",
+  "overview": "After the unexpected death of the Pope, Cardinal Lawrence is tasked with managing the covert and ancient ritual of electing a new one. Sequestered in the Vatican with the Catholic Church’s most powerful leaders until the process is complete, Lawrence finds himself at the center of a conspiracy that could lead to its downfall.",
+  "backdropPath": "/eZzNdjNDvaSoyywy9ICg2UmFwul.jpg",
+  "posterPath": "/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg",
+  "releaseDate": "2024-10-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d5826ff0-6964-47a4-8e0e-546b4dc6f2dc",
+      "title": "Konklávé",
+      "subtitle": null,
+      "timestampString": "00:51:05",
+      "timestampInSeconds": 3065,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #290",
+        "youtubeId": "SsQxsH7PCqY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/SsQxsH7PCqY/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1731829298000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

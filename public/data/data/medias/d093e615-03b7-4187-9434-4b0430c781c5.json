@@ -1,0 +1,45 @@
+{
+  "id": "d093e615-03b7-4187-9434-4b0430c781c5",
+  "title": "Everest",
+  "originalTitle": "Everest",
+  "overview": "Inspired by the incredible events surrounding a treacherous attempt to reach the summit of the world's highest mountain, \"Everest\" documents the awe-inspiring journey of two different expeditions challenged beyond their limits by one of the fiercest snowstorms ever encountered by mankind. Their mettle tested by the harshest of elements found on the planet, the climbers will face nearly impossible obstacles as a lifelong obsession becomes a breathtaking struggle for survival.",
+  "backdropPath": "/P7d3lyBaYbAXVor6iB2avLvc4K.jpg",
+  "posterPath": "/2jKOu2bjpLP6NXJcm7Ep14bDGtA.jpg",
+  "releaseDate": "2015-09-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "11f8ef19-846d-4e3b-a9ec-46790c03eec1",
+      "title": "Everest",
+      "subtitle": null,
+      "timestampString": "00:36:02",
+      "timestampInSeconds": 2162,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #82",
+        "youtubeId": "g8wdyUhhVtI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/g8wdyUhhVtI/hqdefault.jpg",
+        "durationInMinutes": 170,
+        "releaseDate": 1443630602000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

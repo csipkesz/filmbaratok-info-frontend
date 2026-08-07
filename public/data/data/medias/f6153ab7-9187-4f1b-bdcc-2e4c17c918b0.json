@@ -1,0 +1,49 @@
+{
+  "id": "f6153ab7-9187-4f1b-bdcc-2e4c17c918b0",
+  "title": "Minari",
+  "originalTitle": "Minari",
+  "overview": "A Korean American family moves to an Arkansas farm in search of its own American dream. Amidst the challenges of this new life in the strange and rugged Ozarks, they discover the undeniable resilience of family and what really makes a home.",
+  "backdropPath": "/bKCpRjjTKcr3KAITmwjVMobbBYg.jpg",
+  "posterPath": "/6mPNdmjdbVKPITv3LLCmQoKs9Zw.jpg",
+  "releaseDate": "2021-02-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0afcb219-1259-4747-9bdf-b88c1791b357",
+      "title": "Minari",
+      "subtitle": null,
+      "timestampString": "01:48:20",
+      "timestampInSeconds": 6500,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #210",
+        "youtubeId": "33ZlR26Llk0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/33ZlR26Llk0/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1619018789000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

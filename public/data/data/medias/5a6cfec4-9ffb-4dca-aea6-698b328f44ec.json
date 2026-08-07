@@ -1,0 +1,41 @@
+{
+  "id": "5a6cfec4-9ffb-4dca-aea6-698b328f44ec",
+  "title": "Szeptember 5",
+  "originalTitle": "September 5",
+  "overview": "During the 1972 Munich Olympics, an American sports broadcasting crew finds itself thrust into covering the hostage crisis involving Israeli athletes.",
+  "backdropPath": "/s1PW2xCJPehFP4J5YNkg8GecBU7.jpg",
+  "posterPath": "/3kcQOLwYKGPwyjiynFsvP8vHvRn.jpg",
+  "releaseDate": "2024-11-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4be5d5eb-67a1-413d-8c26-f47332487c30",
+      "title": "Szeptember 5",
+      "subtitle": null,
+      "timestampString": "01:33:00",
+      "timestampInSeconds": 5580,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #297",
+        "youtubeId": "3hKlobo8elk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3hKlobo8elk/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1740760443000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "8bb027ee-645f-436d-8c03-b20b29942f24",
+  "title": "Rossz anyák",
+  "originalTitle": "Bad Moms",
+  "overview": "When three overworked and under-appreciated moms are pushed beyond their limits, they ditch their conventional responsibilities for a jolt of long overdue freedom, fun, and comedic self-indulgence.",
+  "backdropPath": "/zci26eN6YKEg9gPLUp3wB5eqcEx.jpg",
+  "posterPath": "/u9q10ljhkLj0tNCjlVqe3DCjoU4.jpg",
+  "releaseDate": "2016-07-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9019272e-6ec1-4f42-a828-445d2843f78a",
+      "title": "Rossz anyák",
+      "subtitle": null,
+      "timestampString": "02:35:42",
+      "timestampInSeconds": 9342,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #105",
+        "youtubeId": "73Hk03Cs0mQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/73Hk03Cs0mQ/hqdefault.jpg",
+        "durationInMinutes": 214,
+        "releaseDate": 1471773217000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

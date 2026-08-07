@@ -1,0 +1,45 @@
+{
+  "id": "018a3a29-2203-4f05-b9dc-185b3443c85b",
+  "title": "Pokémon - Pikachu, a detektív",
+  "originalTitle": "Pokémon Detective Pikachu",
+  "overview": "In a world where people collect pocket-size monsters (Pokémon) to do battle, a boy comes across an intelligent monster who seeks to be a detective.",
+  "backdropPath": "/yXybBEC45p84D0Ky7GmQQYrclVr.jpg",
+  "posterPath": "/uhWvnFgg3BNlcUz0Re1HfQqIcCD.jpg",
+  "releaseDate": "2019-05-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c47d6cf8-8097-4aa0-b1c8-575e397ec7b8",
+      "title": "Pokémon - Pikachu, a detektív",
+      "subtitle": null,
+      "timestampString": "01:38:49",
+      "timestampInSeconds": 5929,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #169",
+        "youtubeId": "-bLznzpWJe8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-bLznzpWJe8/hqdefault.jpg",
+        "durationInMinutes": 317,
+        "releaseDate": 1559569793000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "de864573-1f9d-4767-87a2-5b02318b7da6",
+  "title": "Acéllövedék",
+  "originalTitle": "Full Metal Jacket",
+  "overview": "A pragmatic U.S. Marine observes the dehumanizing effects the U.S.-Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+  "backdropPath": "/3k2TRmqMjgt7tcwkYwZQdctnty3.jpg",
+  "posterPath": "/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg",
+  "releaseDate": "1987-06-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9ef268c7-9bdf-4e30-b02a-0ee1ac644f26",
+      "title": "Acéllövedék",
+      "subtitle": null,
+      "timestampString": "02:09:40",
+      "timestampInSeconds": 7780,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #172",
+        "youtubeId": "ahOskajDN8o",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ahOskajDN8o/hqdefault.jpg",
+        "durationInMinutes": 250,
+        "releaseDate": 1564145413000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "c5f69ba1-9a0a-4bda-b259-4b551f0a5369",
+  "title": "Cthulhu hívása",
+  "originalTitle": "The Call of Cthulhu",
+  "overview": "A dying professor leaves his great-nephew a collection of documents pertaining to the Cthulhu Cult. The nephew begins to learn why the study of the cult so fascinated his grandfather. Bit-by-bit he begins piecing together the dread implications of his grandfather's inquiries, and soon he takes on investigating the Cthulhu cult as a crusade of his own.",
+  "backdropPath": "/bH0HBG088hmtPutVaUpjpOvZw8f.jpg",
+  "posterPath": "/dCrOkzrWs8ux31oVCc1R8tt6zTC.jpg",
+  "releaseDate": "2006-04-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7fc9f206-0be6-4054-a6a0-6d8e2868138b",
+      "title": "Cthulhu hívása",
+      "subtitle": null,
+      "timestampString": "04:04:20",
+      "timestampInSeconds": 14660,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #222",
+        "youtubeId": "KUigEmDa7Nc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/KUigEmDa7Nc/hqdefault.jpg",
+        "durationInMinutes": 265,
+        "releaseDate": 1637694008000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "11cc5f4b-737e-47b3-acac-ce4bdedc27a1",
+  "title": "Mindhunter",
+  "originalTitle": "MINDHUNTER",
+  "overview": "Az 1970-es évek végén két FBI-ügynök továbbgyarapítja a kriminalisztika tudományát a gyilkosság pszichológiájával és valóságos szörnyek közeli vizsgálatával.",
+  "backdropPath": "/lpDVJuIro21gtMj9iXMFKHuroZN.jpg",
+  "posterPath": "/27aScFmEnT9DdPCyjtSbFHbo5O7.jpg",
+  "releaseDate": "2017-10-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d7555701-3979-4cf9-bcca-00d3a248cb7a",
+      "title": "Mindhunter",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Mindhunter",
+        "youtubeId": "9NkZYzGejj8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9NkZYzGejj8/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1566312638000,
+        "participants": [
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

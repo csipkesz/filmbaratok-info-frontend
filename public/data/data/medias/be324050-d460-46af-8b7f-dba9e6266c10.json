@@ -1,0 +1,45 @@
+{
+  "id": "be324050-d460-46af-8b7f-dba9e6266c10",
+  "title": "Sly",
+  "originalTitle": "Sly",
+  "overview": "His love of film began as an escape from a rocky childhood. From underdog to Hollywood legend, Sylvester Stallone tells his story in this documentary.",
+  "backdropPath": "/eca3tlO1vtnua8LUK70ISDMYcwF.jpg",
+  "posterPath": "/1utWajLPvv1R9ZwkD98s2ZEngS.jpg",
+  "releaseDate": "2023-09-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fdba1c66-e63c-485c-b496-56d81b2f6774",
+      "title": "Sly",
+      "subtitle": null,
+      "timestampString": "00:17:05",
+      "timestampInSeconds": 1025,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #268",
+        "youtubeId": "9TmBeKJi0og",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9TmBeKJi0og/hqdefault.jpg",
+        "durationInMinutes": 211,
+        "releaseDate": 1702918793000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

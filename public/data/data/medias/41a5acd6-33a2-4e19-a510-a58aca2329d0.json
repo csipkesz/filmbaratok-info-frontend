@@ -1,0 +1,45 @@
+{
+  "id": "41a5acd6-33a2-4e19-a510-a58aca2329d0",
+  "title": "Az utolsó akcióhős",
+  "originalTitle": "Last Action Hero",
+  "overview": "After his father's death, a young boy finds solace in action movies featuring an indestructible cop. Given a magic ticket by a theater manager, he is transported into the film and teams up with the cop to stop a villain who escapes into the real world.",
+  "backdropPath": "/bumIpNTKmLY380bruTgIDTrXfpZ.jpg",
+  "posterPath": "/vkhEaWAv5j3qgrOGp3BgMeiYPKj.jpg",
+  "releaseDate": "1993-06-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f3477357-646b-43df-a495-39763b1a4d3e",
+      "title": "Az utolsó akcióhős",
+      "subtitle": null,
+      "timestampString": "02:33:33",
+      "timestampInSeconds": 9213,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #279",
+        "youtubeId": "xiW0oPdZsx4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/xiW0oPdZsx4/hqdefault.jpg",
+        "durationInMinutes": 209,
+        "releaseDate": 1717092028000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

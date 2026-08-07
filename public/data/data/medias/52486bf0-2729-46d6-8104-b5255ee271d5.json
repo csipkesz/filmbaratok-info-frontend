@@ -1,0 +1,45 @@
+{
+  "id": "52486bf0-2729-46d6-8104-b5255ee271d5",
+  "title": "Sully",
+  "originalTitle": "Sully",
+  "overview": "On 15 January 2009, the world witnessed the 'Miracle on the Hudson' when Captain 'Sully' Sullenberger glided his disabled plane onto the Hudson River, saving the lives of all 155 souls aboard. However, even as Sully was being heralded by the public and the media for his unprecedented feat of aviation skill, an investigation was unfolding that threatened to destroy his reputation and career.",
+  "backdropPath": "/oQ024BtJgArg8WI4zfuc2vkCJno.jpg",
+  "posterPath": "/4vs83YcJ8TsabADDtaeCJ6ZTjYY.jpg",
+  "releaseDate": "2016-09-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2ac07b0d-52c0-4d72-8a14-9bc538f8a52c",
+      "title": "Sully",
+      "subtitle": null,
+      "timestampString": "00:26:48",
+      "timestampInSeconds": 1608,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #107",
+        "youtubeId": "nil8BrN67hQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nil8BrN67hQ/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1475265113000,
+        "participants": [
+          {
+            "id": "0d9dd4b7-cf61-495d-9e4c-ee24abb25d28",
+            "name": "Emese"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

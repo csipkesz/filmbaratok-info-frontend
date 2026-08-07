@@ -1,0 +1,45 @@
+{
+  "id": "937107c8-b9f5-4aa2-9bed-87105d96daae",
+  "title": "Sátántangó",
+  "originalTitle": "Sátántangó",
+  "overview": "Inhabitants of a small village in Hungary deal with the effects of the fall of Communism. The town's source of revenue, a factory, has closed, and the locals, who include a doctor and three couples, await a cash payment offered in the wake of the shuttering. Irimias, a villager thought to be dead, returns and, unbeknownst to the locals, is a police informant. In a scheme, he persuades the villagers to form a commune with him.",
+  "backdropPath": "/5a4Gmk2HNeefI4Rmwdmbyoy79oy.jpg",
+  "posterPath": "/y38z0v4HJ12MHiKddLEoFlvPiBt.jpg",
+  "releaseDate": "1994-02-08T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3bc8dae8-911c-4a91-90d2-a78d75d5b46e",
+      "title": "Sátántangó",
+      "subtitle": null,
+      "timestampString": "02:20:22",
+      "timestampInSeconds": 8422,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #178",
+        "youtubeId": "9GYtmUHS9Wg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9GYtmUHS9Wg/hqdefault.jpg",
+        "durationInMinutes": 253,
+        "releaseDate": 1573139236000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

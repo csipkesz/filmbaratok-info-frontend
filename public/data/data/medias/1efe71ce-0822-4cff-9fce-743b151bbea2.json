@@ -1,0 +1,41 @@
+{
+  "id": "1efe71ce-0822-4cff-9fce-743b151bbea2",
+  "title": "A hó társadalma",
+  "originalTitle": "La sociedad de la nieve",
+  "overview": "On October 13, 1972, Uruguayan Air Force Flight 571, chartered to take a rugby team to Chile, crashes into a glacier in the heart of the Andes.",
+  "backdropPath": "/md848EEPm3dHZOqwGxxTVwH2vu5.jpg",
+  "posterPath": "/2e853FDVSIso600RqAMunPxiZjq.jpg",
+  "releaseDate": "2023-12-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b1372458-ad31-463c-9d50-29f109486e50",
+      "title": "A hó társadalma",
+      "subtitle": null,
+      "timestampString": "02:33:00",
+      "timestampInSeconds": 9180,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #270",
+        "youtubeId": "Hk6gv0cu8TY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Hk6gv0cu8TY/hqdefault.jpg",
+        "durationInMinutes": 222,
+        "releaseDate": 1705227394000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

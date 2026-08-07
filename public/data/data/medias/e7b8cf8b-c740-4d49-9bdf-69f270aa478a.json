@@ -1,0 +1,45 @@
+{
+  "id": "e7b8cf8b-c740-4d49-9bdf-69f270aa478a",
+  "title": "Thor: Ragnarök",
+  "originalTitle": "Thor: Ragnarok",
+  "overview": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of a powerful new threat, the ruthless Hela.",
+  "backdropPath": "/vLmHH8jAy8Jq8uBsLucd3592WGh.jpg",
+  "posterPath": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+  "releaseDate": "2017-10-02T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2e0f47be-81d4-4436-a909-9731903b6d6f",
+      "title": "Thor: Ragnarök",
+      "subtitle": null,
+      "timestampString": "00:41:40",
+      "timestampInSeconds": 2500,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #132",
+        "youtubeId": "L3ZeRV5UySI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/L3ZeRV5UySI/hqdefault.jpg",
+        "durationInMinutes": 193,
+        "releaseDate": 1510856171000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

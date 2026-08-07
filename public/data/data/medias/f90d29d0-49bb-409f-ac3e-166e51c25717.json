@@ -1,0 +1,41 @@
+{
+  "id": "f90d29d0-49bb-409f-ac3e-166e51c25717",
+  "title": "IT - Welcome to Derry",
+  "originalTitle": "IT: Welcome to Derry",
+  "overview": "1962-ben egy házaspár fiukkal Derrybe, Maine államba költözik, éppen akkor, amikor egy kisfiú eltűnik. Érkezésükkel nagyon rossz dolgok kezdenek történni a városban. Pennywise, a bohóc eredetéről is szól. Az IT (\"AZ\") előzmény sorozata.",
+  "backdropPath": "/2fOKVDoc2O3eZmBZesWPuE5kgPN.jpg",
+  "posterPath": "/xyc4ejlDvpFebUDyTG2Tf95kfHy.jpg",
+  "releaseDate": "2025-10-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "392a7844-bc51-4a5a-a7a9-83202aae09c1",
+      "title": "IT - Welcome to Derry",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: IT - Welcome to Derry",
+        "youtubeId": "DzTOs2kXnk8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/DzTOs2kXnk8/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1766741642000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "46065118-d6ff-4270-a64e-9696fae580c6",
+            "name": "Krisztián"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

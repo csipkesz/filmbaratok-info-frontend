@@ -1,0 +1,41 @@
+{
+  "id": "1d7b6ab2-091f-41bf-a2e2-4cabaec54ab7",
+  "title": "Borgman",
+  "originalTitle": "Borgman",
+  "overview": "An enigmatic vagrant cons himself into the home life of an arrogant upper-class family, turning their lives into a psychological nightmare in the process.",
+  "backdropPath": "/d6ZaqMPzteFbvUvIZce9cTYUcn.jpg",
+  "posterPath": "/kasPhXDk4BI4FUS3ku5Y4GrgBJY.jpg",
+  "releaseDate": "2013-08-29T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7647e554-d299-4c74-a0b2-843158fb59e9",
+      "title": "Borgman",
+      "subtitle": null,
+      "timestampString": "01:59:40",
+      "timestampInSeconds": 7180,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #50",
+        "youtubeId": "3fU-zjKUKtc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3fU-zjKUKtc/hqdefault.jpg",
+        "durationInMinutes": 195,
+        "releaseDate": 1399567403000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

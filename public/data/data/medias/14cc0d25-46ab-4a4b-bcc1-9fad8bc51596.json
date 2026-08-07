@@ -1,0 +1,45 @@
+{
+  "id": "14cc0d25-46ab-4a4b-bcc1-9fad8bc51596",
+  "title": "A Sunset Limited",
+  "originalTitle": "The Sunset Limited",
+  "overview": "A deeply religious black ex-con thwarts the suicide attempt of an asocial white college professor who tries to throw himself in front of an oncoming subway train, 'The Sunset Limited.' As the one attempts to connect on a rational, spiritual and emotional level, the other remains steadfast in his hard-earned despair. Locked in a philosophical debate, both passionately defend their personal credos and try to convert the other.",
+  "backdropPath": "/iraunnwrss2DJy4xayyntWHaAZR.jpg",
+  "posterPath": "/8cwqylJVbCfMflcjXQ71CwsXdpf.jpg",
+  "releaseDate": "2011-02-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7fe9d35d-8966-410a-92a9-eded5252994b",
+      "title": "A Sunset Limited",
+      "subtitle": null,
+      "timestampString": "02:22:03",
+      "timestampInSeconds": 8523,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #63",
+        "youtubeId": "PgKECs1kHoY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/PgKECs1kHoY/hqdefault.jpg",
+        "durationInMinutes": 195,
+        "releaseDate": 1418847403000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

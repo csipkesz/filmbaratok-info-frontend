@@ -1,0 +1,37 @@
+{
+  "id": "cf3e915b-4562-4219-9c3f-7f524436758e",
+  "title": "I,mint Ikarusz",
+  "originalTitle": "I… comme Icare",
+  "overview": "Following the assassination of President Marc Jarry, a member of the investigation committee refuses to sign off on the committee's final findings.",
+  "backdropPath": "/w9IdCHryST0DuiYoiGs98m2Prnn.jpg",
+  "posterPath": "/q3t1r7zabpfUDTzpbN7ecsl0Rp2.jpg",
+  "releaseDate": "1979-12-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0a54b102-3bd2-4a22-b3ab-dfe93bcc2705",
+      "title": "I,mint Ikarusz",
+      "subtitle": null,
+      "timestampString": "01:37:58",
+      "timestampInSeconds": 5878,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #52",
+        "youtubeId": "z5hnMqJSVxs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z5hnMqJSVxs/hqdefault.jpg",
+        "durationInMinutes": 121,
+        "releaseDate": 1403347391000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

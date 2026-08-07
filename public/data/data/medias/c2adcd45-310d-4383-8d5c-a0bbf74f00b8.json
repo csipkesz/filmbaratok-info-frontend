@@ -1,0 +1,41 @@
+{
+  "id": "c2adcd45-310d-4383-8d5c-a0bbf74f00b8",
+  "title": "Békeharcos",
+  "originalTitle": "Peacemaker",
+  "overview": "Az öngyilkos osztag című 2021-es film történetének folytatása, középpontjában Peacemaker karakterével, ezzel a lenyűgözően öntelt figurával, aki bármi áron kivívja a békét, és nem érdekli, hogy hány embert kell megölnie érte.",
+  "backdropPath": "/aJcUU3LMlqMKBi8L3eaxGfAbd4G.jpg",
+  "posterPath": "/szVLxyeWkxVCtxW9ab6r8LxvfNZ.jpg",
+  "releaseDate": "2022-01-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5d0a3420-a2af-4b23-b8fd-a18367d9b98a",
+      "title": "Békeharcos (2. évad)",
+      "subtitle": "2. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Békeharcos (2. évad)",
+        "youtubeId": "hj401FSEKPw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/hj401FSEKPw/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1761235146000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "b58a918c-16ec-4387-a959-c8a6d2afa38d",
+            "name": "Shirin"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

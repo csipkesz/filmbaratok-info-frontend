@@ -1,0 +1,45 @@
+{
+  "id": "944fc9c8-aca7-4ae3-a7ab-730069ad1075",
+  "title": "Bosszúvágy [2018]",
+  "originalTitle": "Death Wish",
+  "overview": "A mild-mannered father is transformed into a killing machine after his family is torn apart by a violent act.",
+  "backdropPath": "/uQqQvmptJLPTcWDrZXn22p7j7s3.jpg",
+  "posterPath": "/g0eEEZAqMf98ULQnoiORuazjOpn.jpg",
+  "releaseDate": "2018-03-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "03db894e-7539-4e7e-8b21-17e9abd514f2",
+      "title": "Bosszúvágy [2018]",
+      "subtitle": null,
+      "timestampString": "01:50:25",
+      "timestampInSeconds": 6625,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #173",
+        "youtubeId": "JMHD67V99Tw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JMHD67V99Tw/hqdefault.jpg",
+        "durationInMinutes": 178,
+        "releaseDate": 1565982605000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

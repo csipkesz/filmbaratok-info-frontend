@@ -1,0 +1,41 @@
+{
+  "id": "09196621-9c20-40f5-af41-9351a6be613d",
+  "title": "Kedves ellenségem",
+  "originalTitle": "Enemy Mine",
+  "overview": "A soldier from Earth crashlands on an alien world after sustaining battle damage. Eventually he encounters another survivor, but from the enemy species he was fighting; they band together to survive on this hostile world. In the end the human finds himself caring for his enemy in a completely unexpected way.",
+  "backdropPath": "/dMjNyPk3aBwXYYfAuSAwSRz1ewa.jpg",
+  "posterPath": "/a3dr9L8VIjhEvivzQ2M12VQDere.jpg",
+  "releaseDate": "1985-12-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "bfe7535c-f312-4aab-8f6d-980cf98902fe",
+      "title": "Kedves ellenségem",
+      "subtitle": null,
+      "timestampString": "02:55:22",
+      "timestampInSeconds": 10522,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #137",
+        "youtubeId": "TmsK4Kf-Bj8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/TmsK4Kf-Bj8/hqdefault.jpg",
+        "durationInMinutes": 228,
+        "releaseDate": 1518110484000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

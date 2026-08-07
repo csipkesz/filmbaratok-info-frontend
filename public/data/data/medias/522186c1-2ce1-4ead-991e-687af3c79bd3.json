@@ -1,0 +1,45 @@
+{
+  "id": "522186c1-2ce1-4ead-991e-687af3c79bd3",
+  "title": "Káosz",
+  "originalTitle": "乱",
+  "overview": "Shakespeare's King Lear is reimagined as a singular historical epic set in sixteenth-century Japan where an aging warlord divides his kingdom between his three sons.",
+  "backdropPath": "/3ssNAWypRl47iriwBFNx7RUEUub.jpg",
+  "posterPath": "/dGgiXMWDcS5aJTBEFu7bmaQPNox.jpg",
+  "releaseDate": "1985-06-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5603b15e-73bc-4912-91d7-2ab108f75822",
+      "title": "Káosz",
+      "subtitle": null,
+      "timestampString": "03:45:22",
+      "timestampInSeconds": 13522,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #138",
+        "youtubeId": "nNL55zk0j6I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nNL55zk0j6I/hqdefault.jpg",
+        "durationInMinutes": 255,
+        "releaseDate": 1519187400000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

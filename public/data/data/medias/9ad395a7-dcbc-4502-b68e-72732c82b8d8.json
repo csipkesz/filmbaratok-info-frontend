@@ -1,0 +1,45 @@
+{
+  "id": "9ad395a7-dcbc-4502-b68e-72732c82b8d8",
+  "title": "Aliens /A bolygó neve: Halál",
+  "originalTitle": "Aliens",
+  "overview": "Ripley, the sole survivor of the Nostromo's deadly encounter with the monstrous Alien, returns to Earth after drifting through space in hypersleep for 57 years. Although her story is initially met with skepticism, she agrees to accompany a team of Colonial Marines back to LV-426.",
+  "backdropPath": "/4kix6fAblJIH6eMs0Ku2loyZJXK.jpg",
+  "posterPath": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+  "releaseDate": "1986-07-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "061564a5-02e5-4863-9e53-e2845804772b",
+      "title": "Aliens /A bolygó neve: Halál",
+      "subtitle": null,
+      "timestampString": "02:06:43",
+      "timestampInSeconds": 7603,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #66",
+        "youtubeId": "E4v-47u65NI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E4v-47u65NI/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1422556505000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

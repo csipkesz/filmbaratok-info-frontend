@@ -1,0 +1,45 @@
+{
+  "id": "d23612ac-7db7-4c50-a375-6e5f7aee766c",
+  "title": "Véres hármas",
+  "originalTitle": "Triple Threat",
+  "overview": "A crime syndicate places a hit on a billionaire's daughter, making her the target of an elite assassin squad. A small band of down-and-out mercenaries protects her, fighting tooth and nail to stop the assassins from reaching their target.",
+  "backdropPath": "/AukoTjDSvjB4g0YTDxRNVwS4uFR.jpg",
+  "posterPath": "/cSpM3QxmoSLp4O1WAMQpUDcaB7R.jpg",
+  "releaseDate": "2019-03-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "22e09f73-1854-40e7-afe9-aae5036dffbb",
+      "title": "Véres hármas",
+      "subtitle": null,
+      "timestampString": "02:30:50",
+      "timestampInSeconds": 9050,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #172",
+        "youtubeId": "ahOskajDN8o",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ahOskajDN8o/hqdefault.jpg",
+        "durationInMinutes": 250,
+        "releaseDate": 1564145413000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

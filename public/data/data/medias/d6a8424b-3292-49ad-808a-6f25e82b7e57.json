@@ -1,0 +1,45 @@
+{
+  "id": "d6a8424b-3292-49ad-808a-6f25e82b7e57",
+  "title": "Deadpool & Rozsomák",
+  "originalTitle": "Deadpool & Wolverine",
+  "overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+  "backdropPath": "/by8z9Fe8y7p4jo2YlW2SZDnptyT.jpg",
+  "posterPath": "/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+  "releaseDate": "2024-07-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2729b7b3-28c1-42b7-8e37-49799b10ed4a",
+      "title": "Deadpool & Rozsomák [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "02:33:22",
+      "timestampInSeconds": 9202,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #283",
+        "youtubeId": "jv6k7bsDWQo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/jv6k7bsDWQo/hqdefault.jpg",
+        "durationInMinutes": 210,
+        "releaseDate": 1722538833000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

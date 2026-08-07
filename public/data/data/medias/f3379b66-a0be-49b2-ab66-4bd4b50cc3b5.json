@@ -1,0 +1,45 @@
+{
+  "id": "f3379b66-a0be-49b2-ab66-4bd4b50cc3b5",
+  "title": "Enemy / Ellenség",
+  "originalTitle": "Enemy",
+  "overview": "A mild-mannered college professor discovers a look-alike actor and delves into the other man's private affairs.",
+  "backdropPath": "/deYWtXTc56YdXyIuuMuA8dvBY16.jpg",
+  "posterPath": "/vf40tyDRKZsBmaLsYeopzfFLzLx.jpg",
+  "releaseDate": "2014-03-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a32a2b1e-af3f-4c1a-814b-3390abb98f12",
+      "title": "Enemy / Ellenség",
+      "subtitle": null,
+      "timestampString": "01:46:00",
+      "timestampInSeconds": 6360,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #82",
+        "youtubeId": "g8wdyUhhVtI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/g8wdyUhhVtI/hqdefault.jpg",
+        "durationInMinutes": 170,
+        "releaseDate": 1443630602000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

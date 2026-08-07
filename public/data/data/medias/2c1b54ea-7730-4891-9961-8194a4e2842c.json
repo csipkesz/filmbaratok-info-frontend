@@ -1,0 +1,41 @@
+{
+  "id": "2c1b54ea-7730-4891-9961-8194a4e2842c",
+  "title": "Mindvégig Agatha",
+  "originalTitle": "Agatha All Along",
+  "overview": "Agatha Harkness boszorkányokat gyűjt a kovenjébe, és elindul a Boszorkányúton.",
+  "backdropPath": "/tYLXJW1sZQU09VWY1BhSVPKGIwc.jpg",
+  "posterPath": "/gGumOsnpkOrciXHxIGleXoDToP1.jpg",
+  "releaseDate": "2024-09-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3dff8d3e-0f71-414e-a336-07c7e38c3101",
+      "title": "Mindvégig Agatha",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Mindvégig Agatha",
+        "youtubeId": "yXQP3HT0sQs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/yXQP3HT0sQs/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1732132461000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "b58a918c-16ec-4387-a959-c8a6d2afa38d",
+            "name": "Shirin"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

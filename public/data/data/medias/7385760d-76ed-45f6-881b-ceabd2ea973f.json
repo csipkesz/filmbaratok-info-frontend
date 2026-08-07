@@ -1,0 +1,41 @@
+{
+  "id": "7385760d-76ed-45f6-881b-ceabd2ea973f",
+  "title": "Tyler Rake - A kimenekítés / Extraction",
+  "originalTitle": "Extraction",
+  "overview": "A hardened gun-for-hire's latest mission becomes a soul-searching race to survive when he's sent into Bangladesh to rescue a drug lord's kidnapped son.",
+  "backdropPath": "/1R6cvRtZgsYCkh8UFuWFN33xBP4.jpg",
+  "posterPath": "/nygOUcBKPHFTbxsYRFZVePqgPK6.jpg",
+  "releaseDate": "2020-04-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f6de4afd-535b-4f66-95b7-ed6a29549ce9",
+      "title": "Tyler Rake - A kimenekítés / Extraction",
+      "subtitle": null,
+      "timestampString": "01:29:33",
+      "timestampInSeconds": 5373,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #190",
+        "youtubeId": "w7oFnCSc3u4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/w7oFnCSc3u4/hqdefault.jpg",
+        "durationInMinutes": 188,
+        "releaseDate": 1590603790000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

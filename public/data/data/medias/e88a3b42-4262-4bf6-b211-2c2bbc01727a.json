@@ -1,0 +1,45 @@
+{
+  "id": "e88a3b42-4262-4bf6-b211-2c2bbc01727a",
+  "title": "Babylon",
+  "originalTitle": "Babylon",
+  "overview": "A tale of outsized ambition and outrageous excess, tracing the rise and fall of multiple characters in an era of unbridled decadence and depravity during Hollywood's transition from silent films to sound films in the late 1920s.",
+  "backdropPath": "/5fxTB08O7CW1hAcN2MWOKodp1h1.jpg",
+  "posterPath": "/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",
+  "releaseDate": "2022-12-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "856d71f2-f162-4127-8794-0df69b58c97a",
+      "title": "Babylon",
+      "subtitle": null,
+      "timestampString": "01:00:50",
+      "timestampInSeconds": 3650,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #249",
+        "youtubeId": "1greFyKaw1M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/1greFyKaw1M/hqdefault.jpg",
+        "durationInMinutes": 296,
+        "releaseDate": 1676703823000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

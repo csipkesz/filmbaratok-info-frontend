@@ -1,0 +1,45 @@
+{
+  "id": "206d64a0-efb2-49fe-9f75-f7994bd681a3",
+  "title": "A kutya karmai közt",
+  "originalTitle": "The Power of the Dog",
+  "overview": "A domineering but charismatic rancher wages a war of intimidation on his brother's new wife and her teen son, until long-hidden secrets come to light.",
+  "backdropPath": "/gAsHuCQMN7mv4uFIvM4ACQ09hPr.jpg",
+  "posterPath": "/kEy48iCzGnp0ao1cZbNeWR6yIhC.jpg",
+  "releaseDate": "2021-10-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "787579ce-8f0c-45a4-b2f1-4edf3a26d60c",
+      "title": "A kutya karmai közt",
+      "subtitle": null,
+      "timestampString": "03:06:02",
+      "timestampInSeconds": 11162,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #227",
+        "youtubeId": "aLZRPLtke70",
+        "thumbnailUrl": "https://i.ytimg.com/vi/aLZRPLtke70/hqdefault.jpg",
+        "durationInMinutes": 275,
+        "releaseDate": 1645191276000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

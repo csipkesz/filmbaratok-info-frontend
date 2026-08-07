@@ -1,0 +1,45 @@
+{
+  "id": "12db8c45-dd09-4652-a649-cc0e4a1794f9",
+  "title": "Peppermint: A bosszú angyala",
+  "originalTitle": "Peppermint",
+  "overview": "A grieving mother transforms herself into a vigilante following the murders of her husband and daughter, eluding the authorities to deliver her own personal brand of justice.",
+  "backdropPath": "/14HPHJnNUVAdbYKnG46WnBh4OD6.jpg",
+  "posterPath": "/jrzxS0vcbzIIay1sdYm0rgI2QfJ.jpg",
+  "releaseDate": "2018-09-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4c156441-b17d-4438-9f3f-3c1cf772c852",
+      "title": "Peppermint: A bosszú angyala",
+      "subtitle": null,
+      "timestampString": "02:01:25",
+      "timestampInSeconds": 7285,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #153",
+        "youtubeId": "o2r_oHM2CEM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/o2r_oHM2CEM/hqdefault.jpg",
+        "durationInMinutes": 239,
+        "releaseDate": 1539286396000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

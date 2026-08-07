@@ -1,0 +1,41 @@
+{
+  "id": "5885a200-232d-424a-a69c-e58d1d502f32",
+  "title": "Egy szent szarvas meggyilkolása",
+  "originalTitle": "The Killing of a Sacred Deer",
+  "overview": "Dr. Steven Murphy is a renowned cardiovascular surgeon who presides over a spotless household with his wife and two children. Lurking at the margins of his idyllic suburban existence is Martin, a fatherless teen who insinuates himself into the doctor's life in gradually unsettling ways.",
+  "backdropPath": "/kJwQXgAk440l2vZOspUJee6inim.jpg",
+  "posterPath": "/e4DGlsc9g0h5AyoyvvAuIRnofN7.jpg",
+  "releaseDate": "2017-10-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "da8c5e82-9c48-499e-b6a7-e735f8b9bd6b",
+      "title": "Egy szent szarvas meggyilkolása",
+      "subtitle": null,
+      "timestampString": "00:44:50",
+      "timestampInSeconds": 2690,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #137",
+        "youtubeId": "TmsK4Kf-Bj8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/TmsK4Kf-Bj8/hqdefault.jpg",
+        "durationInMinutes": 228,
+        "releaseDate": 1518110484000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

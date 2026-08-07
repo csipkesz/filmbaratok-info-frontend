@@ -1,0 +1,41 @@
+{
+  "id": "4bf75626-5d45-41d9-987d-00027d24b43d",
+  "title": "A nő",
+  "originalTitle": "Her",
+  "overview": "In the not so distant future, Theodore, a lonely writer, purchases a newly developed operating system designed to meet the user's every need. To Theodore's surprise, a romantic relationship develops between him and his operating system. This unconventional love story blends science fiction and romance in a sweet tale that explores the nature of love and the ways that technology isolates and connects us all.",
+  "backdropPath": "/sPPsR9f4K0movWVQ99u4uMqFzEL.jpg",
+  "posterPath": "/eCOtqtfvn7mxGl6nfmq4b1exJRc.jpg",
+  "releaseDate": "2013-12-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9a213f94-b451-4f84-90bc-a6f85299e052",
+      "title": "A nő",
+      "subtitle": null,
+      "timestampString": "00:30:07",
+      "timestampInSeconds": 1807,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #45",
+        "youtubeId": "9hNSnIZK61I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9hNSnIZK61I/hqdefault.jpg",
+        "durationInMinutes": 145,
+        "releaseDate": 1392563971000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

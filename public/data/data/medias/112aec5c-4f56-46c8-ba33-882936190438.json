@@ -1,0 +1,41 @@
+{
+  "id": "112aec5c-4f56-46c8-ba33-882936190438",
+  "title": "A felejtés virágai",
+  "originalTitle": "Harrison's Flowers",
+  "overview": "1991. Harrison Lloyd, a renowned photojournalist covering the war in Yugoslavia, is reported missing. Sarah, his wife, convinced that he is not dead, decides to go to Bosnia to find him.",
+  "backdropPath": "/tknIuEAueIh4yKnRdTF1O4p3uFE.jpg",
+  "posterPath": "/3L560a4NGBelJyRyutk41lzChCx.jpg",
+  "releaseDate": "2000-09-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "563dd030-9534-4c52-920c-d39f154a2580",
+      "title": "A felejtés virágai",
+      "subtitle": null,
+      "timestampString": "02:34:00",
+      "timestampInSeconds": 9240,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #320",
+        "youtubeId": "JOlQcUNht4E",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JOlQcUNht4E/hqdefault.jpg",
+        "durationInMinutes": 181,
+        "releaseDate": 1771072699000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

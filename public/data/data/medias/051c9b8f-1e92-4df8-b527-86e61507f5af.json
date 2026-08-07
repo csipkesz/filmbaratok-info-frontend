@@ -1,0 +1,75 @@
+{
+  "id": "051c9b8f-1e92-4df8-b527-86e61507f5af",
+  "title": "A szoba",
+  "originalTitle": "Room",
+  "overview": "Held captive for 7 years in an enclosed space, a woman and her young son finally gain their freedom, allowing the boy to experience the outside world for the first time.",
+  "backdropPath": "/cGV6R2vzT4TYIabf3JgmrOISQ0y.jpg",
+  "posterPath": "/2hHDMeYyZjbGWn0BeNH1cTMxuM7.jpg",
+  "releaseDate": "2015-10-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "912b738f-ea5a-47e1-b2b3-9e3174a60f33",
+      "title": "A szoba",
+      "subtitle": null,
+      "timestampString": "01:37:20",
+      "timestampInSeconds": 5840,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #134",
+        "youtubeId": "gB5CFdGY70M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gB5CFdGY70M/hqdefault.jpg",
+        "durationInMinutes": 218,
+        "releaseDate": 1513874512000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "962abf4b-091b-488d-bbce-fea9e8ea0783",
+      "title": "A szoba",
+      "subtitle": null,
+      "timestampString": "01:06:00",
+      "timestampInSeconds": 3960,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #92",
+        "youtubeId": "TLrrzuetTk0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/TLrrzuetTk0/hqdefault.jpg",
+        "durationInMinutes": 156,
+        "releaseDate": 1455295114000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

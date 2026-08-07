@@ -1,0 +1,41 @@
+{
+  "id": "b343582d-0b7b-46a7-8cda-9e577d2b9b64",
+  "title": "Egy tökéletes nap",
+  "originalTitle": "A Perfect Day",
+  "overview": "Somewhere in the Balkans, 1995. A team of aid workers must solve an apparently simple problem in an almost completely pacified territory that has been devastated by a cruel war, but some of the local inhabitants, the retreating combatants, the UN forces, many cows and an absurd bureaucracy will not cease to put obstacles in their way.",
+  "backdropPath": "/fTnBp9hqcnKfZ56ccwxxZ2iogGZ.jpg",
+  "posterPath": "/musAGdMpfvxhNvEnxXgmzcjBxWL.jpg",
+  "releaseDate": "2015-08-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f40decd4-12a5-4813-a082-4c85a3367420",
+      "title": "Egy tökéletes nap",
+      "subtitle": null,
+      "timestampString": "01:43:05",
+      "timestampInSeconds": 6185,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #92",
+        "youtubeId": "TLrrzuetTk0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/TLrrzuetTk0/hqdefault.jpg",
+        "durationInMinutes": 156,
+        "releaseDate": 1455295114000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

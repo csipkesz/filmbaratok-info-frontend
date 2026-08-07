@@ -1,0 +1,84 @@
+{
+  "id": "249ad4ce-445e-4188-a062-5c15574d334f",
+  "title": "Vaják",
+  "originalTitle": "The Witcher",
+  "overview": "Ríviai Geralt, a felbérelhető, mutálódott szörnyvadász végzete felé sodródik egy vészterhes világban, ahol az emberek gyakran gonoszabbak a szörnyeknél.",
+  "backdropPath": "/foGkPxpw9h8zln81j63mix5B7m8.jpg",
+  "posterPath": "/qJU4px38JAEF4iN5sh41EkO2n7x.jpg",
+  "releaseDate": "2019-12-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "03b44813-1890-4b91-a64c-757d58099fa9",
+      "title": "The witcher 3. évad [SPOILERES]",
+      "subtitle": "3. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": true,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: The witcher 3. évad [SPOILERES]",
+        "youtubeId": "fjZetXyRYh4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fjZetXyRYh4/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1696533310000,
+        "participants": [
+          {
+            "id": "b58a918c-16ec-4387-a959-c8a6d2afa38d",
+            "name": "Shirin"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "423d585a-e437-41f3-bb0d-0835bfc997b2",
+      "title": "The Witcher 2. évad",
+      "subtitle": "2. évad",
+      "timestampString": "00:38:30",
+      "timestampInSeconds": 2310,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Sorozatok (Sólyomszem, Witcher, Squid Game, Ted Lasso)",
+        "youtubeId": "LphtMncKXkI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/LphtMncKXkI/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1646982902000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "b58a918c-16ec-4387-a959-c8a6d2afa38d",
+            "name": "Shirin"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "db5066f5-69cf-480b-a126-43fff0e26fe1",
+      "title": "The Witcher / Vaják (4. évad)",
+      "subtitle": "4. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: The Witcher / Vaják (4. évad)",
+        "youtubeId": "zD4qoWgh7R8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/zD4qoWgh7R8/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1765036224000,
+        "participants": []
+      }
+    }
+  ]
+}

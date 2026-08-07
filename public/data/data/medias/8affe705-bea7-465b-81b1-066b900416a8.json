@@ -1,0 +1,45 @@
+{
+  "id": "8affe705-bea7-465b-81b1-066b900416a8",
+  "title": "Vészjelzés",
+  "originalTitle": "Blink Twice",
+  "overview": "When tech billionaire Slater King meets cocktail waitress Frida at his fundraising gala, he invites her to join him and his friends on a dream vacation on his private island. But despite the epic setting, beautiful people, ever-flowing champagne, and late-night dance parties, Frida can sense that there’s something sinister hiding beneath the island’s lush façade.",
+  "backdropPath": "/NqqLef2ITlK8olXT4iFuUXFwSh.jpg",
+  "posterPath": "/lZGOK0I2DJSRlEPNOAFTSNxSjDD.jpg",
+  "releaseDate": "2024-08-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5a9db0fa-a5d8-4fa1-bd23-19fc5ff6263a",
+      "title": "Vészjelzés",
+      "subtitle": null,
+      "timestampString": "00:55:33",
+      "timestampInSeconds": 3333,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #286",
+        "youtubeId": "ZbuQSmPb5sM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ZbuQSmPb5sM/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1726511195000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "10d28c4b-7231-4260-b4a3-e93a6fa950ea",
+  "title": "A Hangya és a Darázs: Kvantumánia",
+  "originalTitle": "Ant-Man and the Wasp: Quantumania",
+  "overview": "Super-Hero partners Scott Lang and Hope van Dyne, along with with Hope's parents Janet van Dyne and Hank Pym, and Scott's daughter Cassie Lang, find themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that will push them beyond the limits of what they thought possible.",
+  "backdropPath": "/m8JTwHFwX7I7JY5fPe4SjqejWag.jpg",
+  "posterPath": "/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg",
+  "releaseDate": "2023-02-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d2847f28-e625-4949-ae01-c7569fafdc94",
+      "title": "A Hangya és a Darázs: Kvantumánia",
+      "subtitle": null,
+      "timestampString": "03:55:35",
+      "timestampInSeconds": 14135,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #249",
+        "youtubeId": "1greFyKaw1M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/1greFyKaw1M/hqdefault.jpg",
+        "durationInMinutes": 296,
+        "releaseDate": 1676703823000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

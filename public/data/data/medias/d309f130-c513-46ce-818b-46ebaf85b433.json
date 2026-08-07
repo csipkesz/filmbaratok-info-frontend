@@ -1,0 +1,45 @@
+{
+  "id": "d309f130-c513-46ce-818b-46ebaf85b433",
+  "title": "Énekelj",
+  "originalTitle": "Sing",
+  "overview": "A koala named Buster recruits his best friend to help him drum up business for his theater by hosting a singing competition.",
+  "backdropPath": "/z9ft5HYHzWcasR6SGcgeluxTznB.jpg",
+  "posterPath": "/rwopfpHqPCYBSgBuZwkaXXqHp14.jpg",
+  "releaseDate": "2016-11-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "708c923c-8877-4f79-89a0-5111f02cf919",
+      "title": "Énekelj",
+      "subtitle": null,
+      "timestampString": "01:04:40",
+      "timestampInSeconds": 3880,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #114",
+        "youtubeId": "-MXopm_I1eY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-MXopm_I1eY/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1484786554000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

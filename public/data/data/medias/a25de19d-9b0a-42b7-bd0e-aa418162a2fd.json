@@ -1,0 +1,41 @@
+{
+  "id": "a25de19d-9b0a-42b7-bd0e-aa418162a2fd",
+  "title": "Éjféli etetés",
+  "originalTitle": "The Midnight Meat Train",
+  "overview": "A photographer's obsessive pursuit of dark subject matter leads him into the path of a serial killer who stalks late night commuters, ultimately butchering them in the most gruesome ways.",
+  "backdropPath": "/tcV7eCdGFN3RzB2ByWRrH5Xf7cU.jpg",
+  "posterPath": "/x5YbfyUA8huK0shr008xwzNVJ5Y.jpg",
+  "releaseDate": "2008-08-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4a5b6381-2af3-41fc-8881-03301b72c55a",
+      "title": "Éjféli etetés",
+      "subtitle": null,
+      "timestampString": "01:35:12",
+      "timestampInSeconds": 5712,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #71",
+        "youtubeId": "K9mj59Uot1I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/K9mj59Uot1I/hqdefault.jpg",
+        "durationInMinutes": 176,
+        "releaseDate": 1428520974000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

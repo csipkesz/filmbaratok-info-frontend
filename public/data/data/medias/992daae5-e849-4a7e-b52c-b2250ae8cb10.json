@@ -1,0 +1,45 @@
+{
+  "id": "992daae5-e849-4a7e-b52c-b2250ae8cb10",
+  "title": "Hellboy [2019]",
+  "originalTitle": "Hellboy",
+  "overview": "Hellboy comes to England, where he must defeat Nimue, Merlin's consort and the Blood Queen. But their battle will bring about the end of the world, a fate he desperately tries to turn away.",
+  "backdropPath": "/djiDKVB07xTy7tDFbWb9k7KLI3E.jpg",
+  "posterPath": "/bk8LyaMqUtaQ9hUShuvFznQYQKR.jpg",
+  "releaseDate": "2019-04-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6769ea9b-ee8b-4496-ac74-fa97905f3f09",
+      "title": "Hellboy [2019]",
+      "subtitle": null,
+      "timestampString": "01:55:00",
+      "timestampInSeconds": 6900,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #166",
+        "youtubeId": "NaqCtn_eZNI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/NaqCtn_eZNI/hqdefault.jpg",
+        "durationInMinutes": 241,
+        "releaseDate": 1555772517000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

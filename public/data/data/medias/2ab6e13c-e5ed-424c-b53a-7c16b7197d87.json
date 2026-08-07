@@ -1,0 +1,45 @@
+{
+  "id": "2ab6e13c-e5ed-424c-b53a-7c16b7197d87",
+  "title": "Philadelphia",
+  "originalTitle": "Philadelphia",
+  "overview": "Two competing lawyers join forces to sue a prestigious law firm for AIDS discrimination. As their unlikely friendship develops, their courage overcomes the prejudice and corruption of their powerful adversaries.",
+  "backdropPath": "/nWO4sGqH950N2fij8X0Pwumqe9k.jpg",
+  "posterPath": "/tFe5Yoo5zT495okA49bq1vPPkiV.jpg",
+  "releaseDate": "1993-12-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5065058f-b689-4232-9731-9a5c9f73860b",
+      "title": "Philadelphia",
+      "subtitle": null,
+      "timestampString": "03:06:15",
+      "timestampInSeconds": 11175,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #226",
+        "youtubeId": "g-SEAVbxOlA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/g-SEAVbxOlA/hqdefault.jpg",
+        "durationInMinutes": 224,
+        "releaseDate": 1643475639000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

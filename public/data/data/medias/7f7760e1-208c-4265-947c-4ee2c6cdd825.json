@@ -1,0 +1,45 @@
+{
+  "id": "7f7760e1-208c-4265-947c-4ee2c6cdd825",
+  "title": "Csuklyások – BlacKkKlansman",
+  "originalTitle": "BlacKkKlansman",
+  "overview": "Colorado Springs, late 1970s. Ron Stallworth, an African American police officer, and Flip Zimmerman, his Jewish colleague, run an undercover operation to infiltrate the Ku Klux Klan.",
+  "backdropPath": "/ot3eZ9XfOF42a3zFWluMPWkfCHB.jpg",
+  "posterPath": "/8jxqAvSDoneSKRczaK8v9X5gqBp.jpg",
+  "releaseDate": "2018-08-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "cdd3c06a-68bc-466f-85f5-3932278586f1",
+      "title": "Csuklyások – BlacKkKlansman",
+      "subtitle": null,
+      "timestampString": "00:40:58",
+      "timestampInSeconds": 2458,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #153",
+        "youtubeId": "o2r_oHM2CEM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/o2r_oHM2CEM/hqdefault.jpg",
+        "durationInMinutes": 239,
+        "releaseDate": 1539286396000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

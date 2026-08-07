@@ -1,0 +1,41 @@
+{
+  "id": "240554bf-1eab-4121-87f6-68773235afeb",
+  "title": "Egykutya",
+  "originalTitle": "Egykutya",
+  "overview": "Patika unexpectedly invites her former university classmates to her newly inherited apartment for a get-together for apparently no reason, after eight years without contact.  As a good host, Patika prepares dinner, and thanks to the old campus heart-throb Honda, there’s plenty of wine. Once everyone has arrived—including Vica, now a turbo-charged mother of two, and Nóra, a successful artist freshly returned from abroad—it becomes clear that their host does have a pressing reason for gathering them. A very pressing one.",
+  "backdropPath": "/cDCUWrxokhp7vAfIlV7DtcMmI0C.jpg",
+  "posterPath": "/cESQtMZyTx7OijlP5sUh0xy32Ll.jpg",
+  "releaseDate": "2025-09-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "eda684d2-9e85-450f-808e-c6f6569a15dc",
+      "title": "Egykutya",
+      "subtitle": null,
+      "timestampString": "01:12:50",
+      "timestampInSeconds": 4370,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #312",
+        "youtubeId": "D9M4DcSbjik",
+        "thumbnailUrl": "https://i.ytimg.com/vi/D9M4DcSbjik/hqdefault.jpg",
+        "durationInMinutes": 187,
+        "releaseDate": 1760711928000,
+        "participants": [
+          {
+            "id": "46065118-d6ff-4270-a64e-9696fae580c6",
+            "name": "Krisztián"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5efa3cfa-9469-491d-b609-4d69789beabd",
+  "title": "Mosolyogj 2",
+  "originalTitle": "Smile 2",
+  "overview": "About to embark on a new world tour, global pop sensation Skye Riley begins experiencing increasingly terrifying and inexplicable events. Overwhelmed by the escalating horrors and the pressures of fame, Skye is forced to face her dark past to regain control of her life before it spirals out of control.",
+  "backdropPath": "/iR79ciqhtaZ9BE7YFA1HpCHQgX4.jpg",
+  "posterPath": "/ht8Uv9QPv9y7K0RvUyJIaXOZTfd.jpg",
+  "releaseDate": "2024-10-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3281d722-724e-4f0f-8ac2-f2cfdbabfc9a",
+      "title": "Mosolyogj 2",
+      "subtitle": null,
+      "timestampString": "00:52:00",
+      "timestampInSeconds": 3120,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #289",
+        "youtubeId": "25swweCqsZY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/25swweCqsZY/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1730401855000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "92e28349-8308-4bb0-9688-95c512b4f34c",
+  "title": "Star Wars: Skywalker kora",
+  "originalTitle": "Star Wars: The Rise of Skywalker",
+  "overview": "The surviving Resistance faces the First Order once again as the journey of Rey, Finn and Poe Dameron continues. With the power and knowledge of generations behind them, the final battle begins.",
+  "backdropPath": "/jOzrELAzFxtMx2I4uDGHOotdfsS.jpg",
+  "posterPath": "/db32LaOibwEliAmSL2jjDF6oDdj.jpg",
+  "releaseDate": "2019-12-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2670ea93-8b47-4738-aebc-daa168f99164",
+      "title": "Star Wars: Skywalker kora [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "00:36:48",
+      "timestampInSeconds": 2208,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #181",
+        "youtubeId": "z9U8kAhpH0E",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z9U8kAhpH0E/hqdefault.jpg",
+        "durationInMinutes": 313,
+        "releaseDate": 1577711730000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

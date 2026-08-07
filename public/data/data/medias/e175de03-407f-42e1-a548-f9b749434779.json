@@ -1,0 +1,49 @@
+{
+  "id": "e175de03-407f-42e1-a548-f9b749434779",
+  "title": "Air",
+  "originalTitle": "Air",
+  "overview": "Discover the game-changing partnership between a then undiscovered Michael Jordan and Nike's fledgling basketball division which revolutionized the world of sports and culture with the Air Jordan brand.",
+  "backdropPath": "/aT3sRVqgpkyCo23fp9myVfKPWbA.jpg",
+  "posterPath": "/76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg",
+  "releaseDate": "2023-04-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "60bcb17d-7c30-41ed-bab1-de144be16ce8",
+      "title": "Air",
+      "subtitle": null,
+      "timestampString": "03:22:09",
+      "timestampInSeconds": 12129,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #253",
+        "youtubeId": "qh8K0plyKrk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/qh8K0plyKrk/hqdefault.jpg",
+        "durationInMinutes": 284,
+        "releaseDate": 1682442009000,
+        "participants": [
+          {
+            "id": "2a3a072c-0cc4-4088-b3d9-ac7ef73e889a",
+            "name": "ChatGPT"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

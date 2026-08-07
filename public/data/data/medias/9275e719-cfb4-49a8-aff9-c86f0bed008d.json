@@ -1,0 +1,41 @@
+{
+  "id": "9275e719-cfb4-49a8-aff9-c86f0bed008d",
+  "title": "Alvilági játékok",
+  "originalTitle": "Lucky Number Slevin",
+  "overview": "Slevin is mistakenly put in the middle of a personal war between the city’s biggest criminal bosses. Under constant watch, Slevin must try not to get killed by an infamous assassin and come up with an idea of how to get out of his current dilemma.",
+  "backdropPath": "/ShDHEWiJ4NL6ldn4W2m3bEkIBr.jpg",
+  "posterPath": "/x21s3p5wPww534nYj1cWakTcqz4.jpg",
+  "releaseDate": "2006-02-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c85193df-a6cd-433a-8354-a621f10e9d09",
+      "title": "Alvilági játékok",
+      "subtitle": null,
+      "timestampString": "01:54:00",
+      "timestampInSeconds": 6840,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #81",
+        "youtubeId": "jxVu-FT-Qv8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/jxVu-FT-Qv8/hqdefault.jpg",
+        "durationInMinutes": 158,
+        "releaseDate": 1442306890000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

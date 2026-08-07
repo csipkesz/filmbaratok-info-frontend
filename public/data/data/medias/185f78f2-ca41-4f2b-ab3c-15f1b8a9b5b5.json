@@ -1,0 +1,45 @@
+{
+  "id": "185f78f2-ca41-4f2b-ab3c-15f1b8a9b5b5",
+  "title": "Pulykavadászat",
+  "originalTitle": "Turkey Shoot",
+  "overview": "In the near future, after an unspecified holocaust, survivors are herded into prison camps. There, they are hunted for sport by the leaders of the camp. Paul, one of the newest prisoners, is determined not to go down as quietly as the others.",
+  "backdropPath": "/f7zZNswz2YEGd8HgKCFGPAO3Imx.jpg",
+  "posterPath": "/837jSfdQYvhqToMPfAGdci6zszG.jpg",
+  "releaseDate": "1982-03-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ee64288c-67d3-41a1-8652-0fc66ff1f42d",
+      "title": "Pulykavadászat",
+      "subtitle": null,
+      "timestampString": "01:38:23",
+      "timestampInSeconds": 5903,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #157",
+        "youtubeId": "IAfkWR4qRU4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IAfkWR4qRU4/hqdefault.jpg",
+        "durationInMinutes": 222,
+        "releaseDate": 1545146746000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

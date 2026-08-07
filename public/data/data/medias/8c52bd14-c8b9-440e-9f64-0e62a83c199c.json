@@ -1,0 +1,41 @@
+{
+  "id": "8c52bd14-c8b9-440e-9f64-0e62a83c199c",
+  "title": "Többesélyes szerelem",
+  "originalTitle": "Materialists",
+  "overview": "A young, ambitious New York City matchmaker finds herself torn between the perfect match and her imperfect ex.",
+  "backdropPath": "/lqwwGkwJHtz9QgKtz4zeY19YgDg.jpg",
+  "posterPath": "/eDo0pNruy0Qgj6BdTyHIR4cxHY8.jpg",
+  "releaseDate": "2025-06-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4daec7da-5381-4214-b4a5-8c6ec4e748af",
+      "title": "Többesélyes szerelem",
+      "subtitle": null,
+      "timestampString": "01:18:53",
+      "timestampInSeconds": 4733,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #309",
+        "youtubeId": "yH7NkqL8uXA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/yH7NkqL8uXA/hqdefault.jpg",
+        "durationInMinutes": 148,
+        "releaseDate": 1756490346000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

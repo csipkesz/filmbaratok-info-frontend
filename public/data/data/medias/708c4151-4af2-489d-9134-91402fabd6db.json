@@ -1,0 +1,45 @@
+{
+  "id": "708c4151-4af2-489d-9134-91402fabd6db",
+  "title": "Alma a fájától",
+  "originalTitle": "Nothing in Common",
+  "overview": "A successful advertising executive finds his freewheeling life crashing to a halt when his parents end their longtime marriage.",
+  "backdropPath": "/tMH0vpz9s0GfA4rnl7k1x3nyRdl.jpg",
+  "posterPath": "/m2G6Idl1CKJwOt8aFsnJk08sfDP.jpg",
+  "releaseDate": "1986-07-29T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "728f7320-42fc-4629-90a0-8c73f59cf4f7",
+      "title": "Alma a fájától",
+      "subtitle": null,
+      "timestampString": "02:37:35",
+      "timestampInSeconds": 9455,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #252",
+        "youtubeId": "BAb0S4ADaoM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/BAb0S4ADaoM/hqdefault.jpg",
+        "durationInMinutes": 219,
+        "releaseDate": 1680329169000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

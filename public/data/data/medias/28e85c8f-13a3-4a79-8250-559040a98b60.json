@@ -1,0 +1,45 @@
+{
+  "id": "28e85c8f-13a3-4a79-8250-559040a98b60",
+  "title": "Spring",
+  "originalTitle": "Spring",
+  "overview": "",
+  "backdropPath": "/AqQSLAo4laNbUlDoZuKqwLmnh14.jpg",
+  "posterPath": "/Rf2tzfQPHooSlVbxI2EScuJcN6.jpg",
+  "releaseDate": "2002-12-02T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fe4ebbce-6404-4fe7-a62b-d6ecbe486531",
+      "title": "Spring",
+      "subtitle": null,
+      "timestampString": "01:56:44",
+      "timestampInSeconds": 7004,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #88",
+        "youtubeId": "wEd9ZOCpPII",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wEd9ZOCpPII/hqdefault.jpg",
+        "durationInMinutes": 226,
+        "releaseDate": 1450458682000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

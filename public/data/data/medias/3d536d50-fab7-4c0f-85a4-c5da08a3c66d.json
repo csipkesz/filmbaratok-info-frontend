@@ -1,0 +1,45 @@
+{
+  "id": "3d536d50-fab7-4c0f-85a4-c5da08a3c66d",
+  "title": "Csütörtöki nyomozóklub",
+  "originalTitle": "The Thursday Murder Club",
+  "overview": "A group of senior sleuths passionate about solving cold cases get plunged into a real-life murder mystery in this comic crime caper.",
+  "backdropPath": "/4KN06gns94rQFoYQWDGunK7Cob4.jpg",
+  "posterPath": "/jbnazCHr8S2l2glyvjPTpa4NbEw.jpg",
+  "releaseDate": "2025-08-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "aabb485e-18fe-4221-b03a-914c2e59198c",
+      "title": "Csütörtöki nyomozóklub",
+      "subtitle": null,
+      "timestampString": "02:15:00",
+      "timestampInSeconds": 8100,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #310",
+        "youtubeId": "snN5b4JzNgw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/snN5b4JzNgw/hqdefault.jpg",
+        "durationInMinutes": 230,
+        "releaseDate": 1758218455000,
+        "participants": [
+          {
+            "id": "18bb710d-2755-4eaa-875b-48c695315171",
+            "name": "Márk"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

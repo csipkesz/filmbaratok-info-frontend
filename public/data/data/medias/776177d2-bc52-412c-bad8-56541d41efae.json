@@ -1,0 +1,41 @@
+{
+  "id": "776177d2-bc52-412c-bad8-56541d41efae",
+  "title": "A hosszú menetelés",
+  "originalTitle": "The Long Walk",
+  "overview": "In a dystopian 1970s America, fifty teenage boys take part in a deadly annual walking contest, forced to maintain a minimum pace or be executed, until only one survivor remains.",
+  "backdropPath": "/2dlt9I2ga6hweywz9zsFUz1PVii.jpg",
+  "posterPath": "/wobVTa99eW0ht6c1rNNzLkazPtR.jpg",
+  "releaseDate": "2025-09-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b465ad42-b949-4c8a-ae51-30eadc0c7b67",
+      "title": "A hosszú menetelés [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "00:55:55",
+      "timestampInSeconds": 3355,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #311",
+        "youtubeId": "Q-eXASxeAjo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Q-eXASxeAjo/hqdefault.jpg",
+        "durationInMinutes": 217,
+        "releaseDate": 1759337946000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

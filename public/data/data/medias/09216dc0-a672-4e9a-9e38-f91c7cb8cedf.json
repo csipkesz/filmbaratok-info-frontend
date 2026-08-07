@@ -1,0 +1,41 @@
+{
+  "id": "09216dc0-a672-4e9a-9e38-f91c7cb8cedf",
+  "title": "Polar Expressz",
+  "originalTitle": "The Polar Express",
+  "overview": "When a doubting young boy takes an extraordinary train ride to the North Pole, he embarks on a journey of self-discovery that shows him that the wonder of life never fades for those who believe.",
+  "backdropPath": "/jtOvTVlkF8TlaOq94oNXRc9u2yp.jpg",
+  "posterPath": "/eOoCzH0MqeGr2taUZO4SwG416PF.jpg",
+  "releaseDate": "2004-11-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5cdedf9e-1253-45b1-9752-628e368dd101",
+      "title": "Polar Expressz",
+      "subtitle": null,
+      "timestampString": "03:24:20",
+      "timestampInSeconds": 12260,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #231",
+        "youtubeId": "GwvFCLoE8cY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GwvFCLoE8cY/hqdefault.jpg",
+        "durationInMinutes": 252,
+        "releaseDate": 1650126613000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

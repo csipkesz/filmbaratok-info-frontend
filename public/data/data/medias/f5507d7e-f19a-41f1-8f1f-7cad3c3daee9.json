@@ -1,0 +1,41 @@
+{
+  "id": "f5507d7e-f19a-41f1-8f1f-7cad3c3daee9",
+  "title": "Fekete táska",
+  "originalTitle": "Black Bag",
+  "overview": "When intelligence agent Kathryn Woodhouse is suspected of betraying the nation, her husband – also a legendary agent – faces the ultimate test of whether to be loyal to his marriage, or his country.",
+  "backdropPath": "/gxO51FVgADhYGGnnRPIlutVqb30.jpg",
+  "posterPath": "/hHPovtU4b96LHcoeEwRkGHI5btw.jpg",
+  "releaseDate": "2025-03-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "972116b1-5635-4f66-b921-aa8971e3233f",
+      "title": "Fekete táska",
+      "subtitle": null,
+      "timestampString": "01:03:52",
+      "timestampInSeconds": 3832,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #302",
+        "youtubeId": "3K4xdZiHI_w",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3K4xdZiHI_w/hqdefault.jpg",
+        "durationInMinutes": 235,
+        "releaseDate": 1747414746000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

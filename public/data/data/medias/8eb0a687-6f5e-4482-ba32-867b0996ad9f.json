@@ -1,0 +1,45 @@
+{
+  "id": "8eb0a687-6f5e-4482-ba32-867b0996ad9f",
+  "title": "Instant család",
+  "originalTitle": "Instant Family",
+  "overview": "When Pete and Ellie decide to start a family, they stumble into the world of foster care adoption. They hope to take in one small child but when they meet three siblings, including a rebellious 15 year old girl, they find themselves speeding from zero to three kids overnight.",
+  "backdropPath": "/hgESQ2sK21j22Yode4w99jfwj44.jpg",
+  "posterPath": "/xYV1mODz99w7AjKDSQ7h2mzZhVe.jpg",
+  "releaseDate": "2018-11-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7029f649-81bf-424f-8a49-bd1310c56321",
+      "title": "Instant család",
+      "subtitle": null,
+      "timestampString": "01:10:49",
+      "timestampInSeconds": 4249,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #162",
+        "youtubeId": "Pm_3kToMJek",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Pm_3kToMJek/hqdefault.jpg",
+        "durationInMinutes": 231,
+        "releaseDate": 1550070901000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

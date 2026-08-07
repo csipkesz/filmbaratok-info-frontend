@@ -1,0 +1,45 @@
+{
+  "id": "c72fc45b-4fc9-426f-a8cd-1a59409750d1",
+  "title": "Detroit",
+  "originalTitle": "Detroit",
+  "overview": "A police raid in Detroit in 1967 results in one of the largest citizens' uprisings in the history of the United States.",
+  "backdropPath": "/5C01GuAmEJp951X7fm66SPBlsxU.jpg",
+  "posterPath": "/r0ldqSFASpqSM5xTrpcZGO6Ef2G.jpg",
+  "releaseDate": "2017-07-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b86aab2c-1074-4ca2-b887-08ff990fcd81",
+      "title": "Detroit",
+      "subtitle": null,
+      "timestampString": "01:27:00",
+      "timestampInSeconds": 5220,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #141",
+        "youtubeId": "gWd3V1HCpWA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gWd3V1HCpWA/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1522558409000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

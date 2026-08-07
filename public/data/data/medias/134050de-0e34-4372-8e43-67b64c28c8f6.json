@@ -1,0 +1,28 @@
+{
+  "id": "134050de-0e34-4372-8e43-67b64c28c8f6",
+  "title": "A szakadár",
+  "originalTitle": null,
+  "overview": null,
+  "backdropPath": null,
+  "posterPath": null,
+  "releaseDate": null,
+  "topics": [
+    {
+      "id": "1eda4ec1-b7ad-48e1-a0b6-924b9a6f99a5",
+      "title": "A szakadár",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: A szakadár",
+        "youtubeId": "XZGund-bHaQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/XZGund-bHaQ/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1636577763000,
+        "participants": []
+      }
+    }
+  ]
+}

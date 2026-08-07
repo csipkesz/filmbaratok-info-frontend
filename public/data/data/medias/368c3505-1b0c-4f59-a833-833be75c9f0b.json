@@ -1,0 +1,45 @@
+{
+  "id": "368c3505-1b0c-4f59-a833-833be75c9f0b",
+  "title": "Haverok harca",
+  "originalTitle": "Tag",
+  "overview": "For one month every year, five highly competitive friends hit the ground running in a no-holds-barred game of tag they’ve been playing since the first grade. This year, the game coincides with the wedding of their only undefeated player, which should finally make him an easy target. But he knows they’re coming...and he’s ready.",
+  "backdropPath": "/n8UzZ7gd3lmsBeYAH539pfnwGwu.jpg",
+  "posterPath": "/eXXpuW2xaq5Aen9N5prFlARVIvr.jpg",
+  "releaseDate": "2018-05-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7c602a8f-8232-42d2-9971-a89072223df6",
+      "title": "Haverok harca",
+      "subtitle": null,
+      "timestampString": "02:39:01",
+      "timestampInSeconds": 9541,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #147",
+        "youtubeId": "VFKKYddusFg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VFKKYddusFg/hqdefault.jpg",
+        "durationInMinutes": 235,
+        "releaseDate": 1531561740000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

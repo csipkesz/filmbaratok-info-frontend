@@ -1,0 +1,41 @@
+{
+  "id": "4840f32a-4294-4fd1-a61a-3fce521aea40",
+  "title": "Lenyúlsz, vagy kinyúlsz",
+  "originalTitle": "Suckers",
+  "overview": "A fiercely dishonest car salesman hires a new employee who owes a serious debt to loan sharks.",
+  "backdropPath": "/olHG1FoAatrJhqt75CGpbJwZajM.jpg",
+  "posterPath": "/zJf4KTQWnOAs7t78T0xfTpiKHpE.jpg",
+  "releaseDate": "1999-12-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "990bf24f-cb44-4c57-9282-c14bb14ee080",
+      "title": "Lenyúlsz, vagy kinyúlsz",
+      "subtitle": null,
+      "timestampString": "01:44:56",
+      "timestampInSeconds": 6296,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #76",
+        "youtubeId": "wnZh6qcfn4E",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wnZh6qcfn4E/hqdefault.jpg",
+        "durationInMinutes": 128,
+        "releaseDate": 1435731107000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "58e60506-f44a-4547-9322-c1edf0a5f93b",
+  "title": "Vaksötét",
+  "originalTitle": "Don't Breathe",
+  "overview": "A group of teens break into a blind man's home thinking they'll get away with the perfect crime. They're wrong.",
+  "backdropPath": "/3mIVOqDbYeucnw09TpjgHvSjXfu.jpg",
+  "posterPath": "/dSxHyPZ2nipSfvdft4IhQKjk5eZ.jpg",
+  "releaseDate": "2016-06-08T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d40a8ddb-aa78-40d6-9635-cb7f6982cb3a",
+      "title": "Vaksötét",
+      "subtitle": null,
+      "timestampString": "00:42:32",
+      "timestampInSeconds": 2552,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #106",
+        "youtubeId": "HldVi4TfJ9Y",
+        "thumbnailUrl": "https://i.ytimg.com/vi/HldVi4TfJ9Y/hqdefault.jpg",
+        "durationInMinutes": 146,
+        "releaseDate": 1473495633000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

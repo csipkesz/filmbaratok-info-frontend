@@ -1,0 +1,41 @@
+{
+  "id": "475cd507-2b11-4679-a238-ba888a02921e",
+  "title": "Zack Snyder: Az Igazság Ligája",
+  "originalTitle": "Zack Snyder's Justice League",
+  "overview": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
+  "backdropPath": "/13Nz8EchKRdCgJcKdEoJAnpiVn2.jpg",
+  "posterPath": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+  "releaseDate": "2021-03-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "015a4bac-e72a-465c-88b0-1fc937c78c39",
+      "title": "Zack Snyder: Az Igazság Ligája",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #209 [Snyder Cut]",
+        "youtubeId": "HKEsbhR6TAU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/HKEsbhR6TAU/hqdefault.jpg",
+        "durationInMinutes": 153,
+        "releaseDate": 1617252301000,
+        "participants": [
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b58a918c-16ec-4387-a959-c8a6d2afa38d",
+            "name": "Shirin"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

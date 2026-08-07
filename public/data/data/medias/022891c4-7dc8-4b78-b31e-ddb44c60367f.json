@@ -1,0 +1,41 @@
+{
+  "id": "022891c4-7dc8-4b78-b31e-ddb44c60367f",
+  "title": "Szövetségesek",
+  "originalTitle": "Allied",
+  "overview": "In 1942, an intelligence officer in North Africa encounters a female French Resistance fighter on a deadly mission behind enemy lines. When they reunite in London, their relationship is tested by the pressures of war.",
+  "backdropPath": "/cdR0qwyaMfuZRfTYEixUmRnmdop.jpg",
+  "posterPath": "/sV4lXM32quwminL3TP36nlNPp7Q.jpg",
+  "releaseDate": "2016-11-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fc69461c-3448-44ff-98f3-e92e4333a2a9",
+      "title": "Szövetségesek",
+      "subtitle": null,
+      "timestampString": "00:38:55",
+      "timestampInSeconds": 2335,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #112",
+        "youtubeId": "M7gzW5_pVZk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/M7gzW5_pVZk/hqdefault.jpg",
+        "durationInMinutes": 160,
+        "releaseDate": 1481731219000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "fc68cd1d-a1ca-4929-aed4-1ecc19f7bb3e",
+  "title": "Jégvarázs",
+  "originalTitle": "Frozen",
+  "overview": "Young princess Anna of Arendelle dreams about finding true love at her sister Elsa’s coronation. Fate takes her on a dangerous journey in an attempt to end the eternal winter that has fallen over the kingdom. She's accompanied by ice delivery man Kristoff, his reindeer Sven, and snowman Olaf. On an adventure where she will find out what friendship, courage, family, and true love really means.",
+  "backdropPath": "/rj58WQ9ImI0mYDptXdM7euX1Wjt.jpg",
+  "posterPath": "/itAKcobTYGpYT8Phwjd8c9hleTo.jpg",
+  "releaseDate": "2013-11-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3341f96b-83b3-4e91-bdda-37e5b75ca836",
+      "title": "Jégvarázs",
+      "subtitle": null,
+      "timestampString": "00:30:52",
+      "timestampInSeconds": 1852,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #46 (Oscar 2014)",
+        "youtubeId": "BjIg8Ny1Bfg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/BjIg8Ny1Bfg/hqdefault.jpg",
+        "durationInMinutes": 145,
+        "releaseDate": 1393580650000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

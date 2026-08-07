@@ -1,0 +1,41 @@
+{
+  "id": "d3d6a1c6-c493-44f9-ba2b-8aff041c2b7a",
+  "title": "A halott menyasszony",
+  "originalTitle": "Corpse Bride",
+  "overview": "In a 19th-century European village, a young man about to be married is whisked away to the underworld and wed to a mysterious corpse bride, while his real bride waits bereft in the land of the living.",
+  "backdropPath": "/v23fWgJUEt8EMmvn19btIacxP8E.jpg",
+  "posterPath": "/3RAoVTxUk1OzZClscAsynuu670p.jpg",
+  "releaseDate": "2005-09-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "534ca477-c743-4a3f-a417-1f7a4d1b1036",
+      "title": "A halott menyasszony",
+      "subtitle": null,
+      "timestampString": "02:16:15",
+      "timestampInSeconds": 8175,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #81",
+        "youtubeId": "jxVu-FT-Qv8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/jxVu-FT-Qv8/hqdefault.jpg",
+        "durationInMinutes": 158,
+        "releaseDate": 1442306890000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

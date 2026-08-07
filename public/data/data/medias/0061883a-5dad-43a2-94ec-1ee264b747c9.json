@@ -1,0 +1,41 @@
+{
+  "id": "0061883a-5dad-43a2-94ec-1ee264b747c9",
+  "title": "A fehér király",
+  "originalTitle": "The White King",
+  "overview": "Djata is a care-free 12-year-old growing up in a brutal dictatorship shut off from the outside world. When the government imprisons his father, Peter, and Djata and his mother Hannah are labeled traitors, the boy will not rest until he sees his father again.",
+  "backdropPath": "/ssmjSDtQ2qI49evzLU8GY5PHKAC.jpg",
+  "posterPath": "/cmMQKG8ca4xZLy9BtpXMfLXoIR2.jpg",
+  "releaseDate": "2016-06-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e0a20850-724b-457e-8396-dc989dcc08a5",
+      "title": "A fehér király",
+      "subtitle": null,
+      "timestampString": "03:01:13",
+      "timestampInSeconds": 10873,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #118",
+        "youtubeId": "tsYYwq3fdTw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tsYYwq3fdTw/hqdefault.jpg",
+        "durationInMinutes": 239,
+        "releaseDate": 1490634596000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

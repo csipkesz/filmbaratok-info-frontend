@@ -1,0 +1,45 @@
+{
+  "id": "e204a31c-a27e-48b1-b070-24791d2da3e9",
+  "title": "Longlegs - A rém",
+  "originalTitle": "Longlegs",
+  "overview": "FBI Agent Lee Harker is a gifted new recruit assigned to the unsolved case of an elusive serial killer. As the case takes complex turns, unearthing evidence of the occult, Harker discovers a personal connection to the merciless killer and must race against time to stop him before he claims the lives of another innocent family.",
+  "backdropPath": "/6ToGkmqn0KG0UGGGUAC1Ww0e5CM.jpg",
+  "posterPath": "/1EwNyiiNFd863H4e8nWEzutnZD7.jpg",
+  "releaseDate": "2024-07-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "34ec9fa0-a169-440b-b433-7277e7d0cbc8",
+      "title": "Longlegs - A rém",
+      "subtitle": null,
+      "timestampString": "00:33:00",
+      "timestampInSeconds": 1980,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #284",
+        "youtubeId": "dLG-a7fBRaY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/dLG-a7fBRaY/hqdefault.jpg",
+        "durationInMinutes": 239,
+        "releaseDate": 1723568433000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

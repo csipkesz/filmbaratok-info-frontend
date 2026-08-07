@@ -1,0 +1,45 @@
+{
+  "id": "031cee37-839c-47f2-af30-0567c668386e",
+  "title": "Az aszfalt királyai",
+  "originalTitle": "Ford v Ferrari",
+  "overview": "American car designer Carroll Shelby and the British-born driver Ken Miles work together to battle corporate interference, the laws of physics, and their own personal demons to build a revolutionary race car for Ford Motor Company and take on the dominating race cars of Enzo Ferrari at the 24 Hours of Le Mans in France in 1966.",
+  "backdropPath": "/2vq5GTJOahE03mNYZGxIynlHcWr.jpg",
+  "posterPath": "/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg",
+  "releaseDate": "2019-11-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "217f430e-ac21-422f-bfea-1dad09cf6535",
+      "title": "Az aszfalt királyai",
+      "subtitle": null,
+      "timestampString": "01:40:28",
+      "timestampInSeconds": 6028,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #179",
+        "youtubeId": "xquBnjUaMAg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/xquBnjUaMAg/hqdefault.jpg",
+        "durationInMinutes": 206,
+        "releaseDate": 1574800160000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "df3a34ef-9aba-4da2-81e1-677d7ba3487d",
+            "name": "Anna"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

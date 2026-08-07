@@ -1,0 +1,45 @@
+{
+  "id": "668db0f9-5912-4ce4-b501-cff8e9049145",
+  "title": "Kanyar",
+  "originalTitle": "Curve",
+  "overview": "A soon-to-be bride on her way to a wedding rehearsal is having second thoughts and decides to take a detour. Her car breaks down and a hitch-hiker offers help. Could it be fate?",
+  "backdropPath": "/54WscT5majJBU3MbeHLc2BOywdZ.jpg",
+  "posterPath": "/9AGJMNrUfBMIGkCeKNccQbj0Nyg.jpg",
+  "releaseDate": "2015-08-31T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f70e7c38-3665-4be5-8a36-103c3bf68306",
+      "title": "Kanyar",
+      "subtitle": null,
+      "timestampString": "02:30:05",
+      "timestampInSeconds": 9005,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #162",
+        "youtubeId": "Pm_3kToMJek",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Pm_3kToMJek/hqdefault.jpg",
+        "durationInMinutes": 231,
+        "releaseDate": 1550070901000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5dab7fb1-895b-4e6c-8055-8802563264ac",
+  "title": "Sicario",
+  "originalTitle": "Sicario",
+  "overview": "An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico.",
+  "backdropPath": "/fKPgObonYgPgCdu88yjV7Hpn7Dp.jpg",
+  "posterPath": "/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg",
+  "releaseDate": "2015-09-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "33e03622-b6dc-4b04-9c70-5aacc309477e",
+      "title": "Sicario",
+      "subtitle": null,
+      "timestampString": "01:11:27",
+      "timestampInSeconds": 4287,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #84",
+        "youtubeId": "s9vFywEHs8Y",
+        "thumbnailUrl": "https://i.ytimg.com/vi/s9vFywEHs8Y/hqdefault.jpg",
+        "durationInMinutes": 172,
+        "releaseDate": 1445961315000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

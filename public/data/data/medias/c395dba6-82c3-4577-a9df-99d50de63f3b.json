@@ -1,0 +1,45 @@
+{
+  "id": "c395dba6-82c3-4577-a9df-99d50de63f3b",
+  "title": "I origins",
+  "originalTitle": "I Origins",
+  "overview": "A molecular biologist's study of the human eye has far-reaching implications about humanity's scientific and spiritual beliefs.",
+  "backdropPath": "/cr8pv3Iel9T5Z3WTJX5VqvdIpAm.jpg",
+  "posterPath": "/2P31jhd1dWUAPD8dmnSrwkQ8CNN.jpg",
+  "releaseDate": "2014-07-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6588ab02-65cf-4a90-b656-3b75c754f114",
+      "title": "I origins",
+      "subtitle": null,
+      "timestampString": "02:23:17",
+      "timestampInSeconds": 8597,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #88",
+        "youtubeId": "wEd9ZOCpPII",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wEd9ZOCpPII/hqdefault.jpg",
+        "durationInMinutes": 226,
+        "releaseDate": 1450458682000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "0c5100ff-1d3b-48db-8029-a0e1a7c4d01c",
+  "title": "A komédia királya",
+  "originalTitle": "The King of Comedy",
+  "overview": "Aspiring comic Rupert Pupkin attempts to achieve success in show business by stalking his idol, a late night talk-show host who craves his own privacy.",
+  "backdropPath": "/7Mh1DM4kCMbN93C2MlUavYbH5YM.jpg",
+  "posterPath": "/m24EbHxT9NGYEkOlu29YcLOgjgK.jpg",
+  "releaseDate": "1982-12-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8ad8b69b-d597-4f80-921e-00c0bf28de80",
+      "title": "A komédia királya",
+      "subtitle": null,
+      "timestampString": "01:44:30",
+      "timestampInSeconds": 6270,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #79",
+        "youtubeId": "MFtdt9e1-5Y",
+        "thumbnailUrl": "https://i.ytimg.com/vi/MFtdt9e1-5Y/hqdefault.jpg",
+        "durationInMinutes": 158,
+        "releaseDate": 1439397604000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a8ff7d0e-72b0-45a3-9f9f-2337e8758a6a",
+      "title": "A komédia királya",
+      "subtitle": null,
+      "timestampString": "00:26:12",
+      "timestampInSeconds": 1572,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #180",
+        "youtubeId": "jgXB2dSNVBA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/jgXB2dSNVBA/hqdefault.jpg",
+        "durationInMinutes": 286,
+        "releaseDate": 1576606373000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

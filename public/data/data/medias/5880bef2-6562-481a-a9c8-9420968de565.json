@@ -1,0 +1,45 @@
+{
+  "id": "5880bef2-6562-481a-a9c8-9420968de565",
+  "title": "22 mérföld",
+  "originalTitle": "Mile 22",
+  "overview": "An elite group of American operatives, aided by a top-secret tactical command team, must transport an asset who holds life-threatening information to an extraction point 22 miles away through the hostile streets of an Asian city.",
+  "backdropPath": "/2nOMUnQ4OtsKVTmpp3og7MYt4oG.jpg",
+  "posterPath": "/2L8ehd95eSW9x7KINYtZmRkAlrZ.jpg",
+  "releaseDate": "2018-08-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "35cc31a7-545e-4ec3-a66f-11d7a789dd7a",
+      "title": "22 mérföld",
+      "subtitle": null,
+      "timestampString": "00:31:03",
+      "timestampInSeconds": 1863,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #154",
+        "youtubeId": "8kJ3-leKXJo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/8kJ3-leKXJo/hqdefault.jpg",
+        "durationInMinutes": 220,
+        "releaseDate": 1541001500000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

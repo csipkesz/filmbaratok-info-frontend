@@ -1,0 +1,37 @@
+{
+  "id": "5668ebb0-e6c7-465a-8385-d8c38927cb2d",
+  "title": "Sohasevolt Glória",
+  "originalTitle": "Sohasevolt Glória",
+  "overview": "A team of gangsters plan to rob a savings and loan post office, while two good friends with no serious plans for their lives meet a mysterious girl named Gloria. The two story lines slowly intersect.",
+  "backdropPath": null,
+  "posterPath": "/kcl31mQScWTvnRPUn7uEFoaDkeH.jpg",
+  "releaseDate": "2001-02-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "13512c0b-3c95-4fb2-8de6-05fd90c62017",
+      "title": "Sohasevolt Glória (+interjú)",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "AUDIO_COMMENTARY",
+        "title": "Filmbarátok Audiokommentár: Sohasevolt Glória (+interjú)",
+        "youtubeId": "uHY3CYvt2Yk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uHY3CYvt2Yk/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1614164432000,
+        "participants": [
+          {
+            "id": "3da49de0-82ec-4704-a57a-3643fbf7ed43",
+            "name": "Szöllőskei Gábor"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

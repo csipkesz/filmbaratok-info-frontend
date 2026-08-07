@@ -1,0 +1,41 @@
+{
+  "id": "bc38ae1d-5498-4f47-a6bd-2e2ac66209a0",
+  "title": "Szörnyella",
+  "originalTitle": "Cruella",
+  "overview": "In 1970s London amidst the punk rock revolution, a young grifter named Estella is determined to make a name for herself with her designs. She befriends a pair of young thieves who appreciate her appetite for mischief, and together they are able to build a life for themselves on the London streets. One day, Estella’s flair for fashion catches the eye of the Baroness von Hellman, a fashion legend who is devastatingly chic and terrifyingly haute. But their relationship sets in motion a course of events and revelations that will cause Estella to embrace her wicked side and become the raucous, fashionable and revenge-bent Cruella.",
+  "backdropPath": "/6MKr3KgOLmzOP6MSuZERO41Lpkt.jpg",
+  "posterPath": "/hjS9mH8KvRiGHgjk6VUZH7OT0Ng.jpg",
+  "releaseDate": "2021-05-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fb774f1e-e70b-4de1-b5ad-9c77209b4b6a",
+      "title": "Szörnyella",
+      "subtitle": null,
+      "timestampString": "01:28:45",
+      "timestampInSeconds": 5325,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #213",
+        "youtubeId": "JtzuuNOeIxc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JtzuuNOeIxc/hqdefault.jpg",
+        "durationInMinutes": 200,
+        "releaseDate": 1624372656000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

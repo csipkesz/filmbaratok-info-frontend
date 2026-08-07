@@ -1,0 +1,71 @@
+{
+  "id": "16d5153b-8d49-41a7-9ee1-ff4c7fe6ff76",
+  "title": "Aquaman",
+  "originalTitle": "Aquaman",
+  "overview": "Half-human, half-Atlantean Arthur Curry is taken on the journey of his lifetime to discover if he is worth of being a king.",
+  "backdropPath": "/9QusGjxcYvfPD1THg6oW3RLeNn7.jpg",
+  "posterPath": "/ufl63EFcc5XpByEV2Ecdw6WJZAI.jpg",
+  "releaseDate": "2018-12-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "72bd8c35-749d-49d7-9140-0776e0c5393e",
+      "title": "Aquaman",
+      "subtitle": null,
+      "timestampString": "01:59:11",
+      "timestampInSeconds": 7151,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #316",
+        "youtubeId": "tj6Fv2PRYFw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tj6Fv2PRYFw/hqdefault.jpg",
+        "durationInMinutes": 318,
+        "releaseDate": 1765639323000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "88c514b6-12e0-4839-8b82-3de19e0fb730",
+      "title": "Aquaman",
+      "subtitle": null,
+      "timestampString": "00:23:22",
+      "timestampInSeconds": 1402,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #158",
+        "youtubeId": "0hDBNbfAMGU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/0hDBNbfAMGU/hqdefault.jpg",
+        "durationInMinutes": 112,
+        "releaseDate": 1545678001000,
+        "participants": [
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

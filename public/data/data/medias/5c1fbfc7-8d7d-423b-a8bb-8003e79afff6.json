@@ -1,0 +1,41 @@
+{
+  "id": "5c1fbfc7-8d7d-423b-a8bb-8003e79afff6",
+  "title": "Late Night with the Devil",
+  "originalTitle": "Late Night with the Devil",
+  "overview": "A live broadcast of a late-night talk show in 1977 goes horribly wrong, unleashing evil into the nation's living rooms.",
+  "backdropPath": "/umyOinNa6vqqnqoVc9QqzyaapUz.jpg",
+  "posterPath": "/mu8LRWT9GHkfiyHm7kgxT6YNvMW.jpg",
+  "releaseDate": "2024-03-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "aa7a5189-c413-4b9f-b605-b726094261bb",
+      "title": "Late Night with the Devil",
+      "subtitle": null,
+      "timestampString": "02:47:36",
+      "timestampInSeconds": 10056,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #277",
+        "youtubeId": "VVHLdlqq_xY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VVHLdlqq_xY/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1714501831000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

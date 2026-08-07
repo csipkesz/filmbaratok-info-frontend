@@ -1,0 +1,45 @@
+{
+  "id": "b165c50e-7670-417c-9db9-005bb8ff66f4",
+  "title": "Shazam!",
+  "originalTitle": "Shazam!",
+  "overview": "A boy is given the ability to become an adult superhero in times of need with a single magic word.",
+  "backdropPath": "/o7JVhqMmrex1TPbmuxl8YXVlcfl.jpg",
+  "posterPath": "/xnopI5Xtky18MPhK40cZAGAOVeV.jpg",
+  "releaseDate": "2019-03-29T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e2154b2f-4b94-4c97-bce9-c55140548095",
+      "title": "Shazam!",
+      "subtitle": null,
+      "timestampString": "01:07:27",
+      "timestampInSeconds": 4047,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #166",
+        "youtubeId": "NaqCtn_eZNI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/NaqCtn_eZNI/hqdefault.jpg",
+        "durationInMinutes": 241,
+        "releaseDate": 1555772517000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

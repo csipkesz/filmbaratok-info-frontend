@@ -1,0 +1,71 @@
+{
+  "id": "e3c558b6-57ee-4f32-babd-7991d0d7c907",
+  "title": "The Raid 2",
+  "originalTitle": "The Raid 2: Berandal",
+  "overview": "After fighting his way through an apartment building populated by an army of dangerous criminals and escaping with his life, SWAT team member Rama goes undercover, joining a powerful Indonesian crime syndicate to protect his family and uncover corrupt members of his own force.",
+  "backdropPath": "/wJD1VaO6XMkOSAacUGLkzOKAd4D.jpg",
+  "posterPath": "/mlGuKlIDLdPhYjz1QBXi0FmyYik.jpg",
+  "releaseDate": "2014-03-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "16e2731f-5481-427d-84a5-61cecacc9f54",
+      "title": "The Raid 2",
+      "subtitle": null,
+      "timestampString": "01:29:40",
+      "timestampInSeconds": 5380,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #54",
+        "youtubeId": "z2MBRvmBR0k",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z2MBRvmBR0k/hqdefault.jpg",
+        "durationInMinutes": 188,
+        "releaseDate": 1406308806000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "75633450-630e-4667-8b5f-8fe316f90c87",
+      "title": "The Raid 2",
+      "subtitle": null,
+      "timestampString": "01:46:54",
+      "timestampInSeconds": 6414,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #53",
+        "youtubeId": "m4ZV-tpyiqU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/m4ZV-tpyiqU/hqdefault.jpg",
+        "durationInMinutes": 174,
+        "releaseDate": 1404572612000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

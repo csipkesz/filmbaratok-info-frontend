@@ -1,0 +1,41 @@
+{
+  "id": "8eea6988-9f21-4155-b266-958386663077",
+  "title": "Csobbanás",
+  "originalTitle": "Splash",
+  "overview": "A successful businessman falls in love with the girl of his dreams. There's one big complication though; he's fallen hook, line and sinker for a mermaid.",
+  "backdropPath": "/nvz6Bu17ipOHGHpWRm3ezpE76j2.jpg",
+  "posterPath": "/7FutTsMWBwVhjk1Ujf1wtndUVZh.jpg",
+  "releaseDate": "1984-03-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "cb310dbd-55ac-4757-b9a6-8b1c3ffd98bf",
+      "title": "Csobbanás",
+      "subtitle": null,
+      "timestampString": "02:59:17",
+      "timestampInSeconds": 10757,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #234",
+        "youtubeId": "IyLcC8Sig7I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IyLcC8Sig7I/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1655823277000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

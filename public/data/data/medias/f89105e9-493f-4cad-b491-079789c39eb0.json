@@ -1,0 +1,41 @@
+{
+  "id": "f89105e9-493f-4cad-b491-079789c39eb0",
+  "title": "Disturbia",
+  "originalTitle": "Disturbia",
+  "overview": "Kale has a life most teenagers would envy. He spends his days endlessly playing video games, surfing the net, eating junk food and watching cable. He has complete free reign of the house, and a beautiful young hottie named Ashley has just moved in next door. There’s only one problem—he’s not allowed to leave the house. Kale’s under court-ordered house arrest for three months, and if he takes one step beyond a 100-foot perimeter of the house, his next confinement will be in a real prison.",
+  "backdropPath": "/ve38VxE3qVdk5xbEluWTqFa9oGd.jpg",
+  "posterPath": "/3f9KwSrieczuH9nRrwfOsoMoMNd.jpg",
+  "releaseDate": "2007-03-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "64baded1-043e-497d-96ca-a4e30200dfb3",
+      "title": "Disturbia",
+      "subtitle": null,
+      "timestampString": "01:39:40",
+      "timestampInSeconds": 5980,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #44",
+        "youtubeId": "_NwJoO7yxrE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_NwJoO7yxrE/hqdefault.jpg",
+        "durationInMinutes": 137,
+        "releaseDate": 1391206083000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "5f77279a-e8eb-46c6-a31e-8031e2e28e62",
+            "name": "Émi"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

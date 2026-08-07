@@ -1,0 +1,45 @@
+{
+  "id": "4d0e3c84-e656-4924-820f-d115736bd954",
+  "title": "Botrány",
+  "originalTitle": "Scandal",
+  "overview": "Titkos szerelmi viszonyok, végletekig menő hatalmi harcok, gyilkosság, vesztegetés. Minden, ami bűnös és botrányt ígér. Azonban van egy ember, aki csapatával minden piszkos ügyet képes kezelni, hogy a legfelsőbb tízezer kényes titkai semmiképpen ne lássanak napvilágot. Ő Olivia Pope. A Botrány egy krízis-kommunikációból élő cég életét mutatja be a Grace klinika alkotójának jóvoltából.",
+  "backdropPath": "/hpvw89Vq6rYx1bzrE3zdnWBGLfS.jpg",
+  "posterPath": "/wJbNqV6yg6w38NWo8YImVjdAPY6.jpg",
+  "releaseDate": "2012-04-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7dc648c4-8463-4078-9fb4-1b5f2eae2f01",
+      "title": "Botrány",
+      "subtitle": null,
+      "timestampString": "03:50:26",
+      "timestampInSeconds": 13826,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #183",
+        "youtubeId": "uA5tRdykPyw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uA5tRdykPyw/hqdefault.jpg",
+        "durationInMinutes": 277,
+        "releaseDate": 1579802407000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

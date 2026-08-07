@@ -1,0 +1,41 @@
+{
+  "id": "0656c4da-ece6-4d90-883c-7bae34bfe0fa",
+  "title": "Bye Bye Man",
+  "originalTitle": "The Bye Bye Man",
+  "overview": "When three college students move into an old house off campus, they unwittingly unleash a supernatural entity known as The Bye Bye Man, who comes to prey upon them once they discover his name. The friends must try to save each other, all the while keeping The Bye Bye Man's existence a secret to save others from the same deadly fate.",
+  "backdropPath": "/9NHAlsuQkMv4IyAR1gLkGrE7XoU.jpg",
+  "posterPath": "/bape74Eeli5NJ6x4UKuUr604xXh.jpg",
+  "releaseDate": "2017-01-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9efd651b-fd49-41a4-bdc9-4b62886ea059",
+      "title": "Bye Bye Man",
+      "subtitle": null,
+      "timestampString": "01:47:35",
+      "timestampInSeconds": 6455,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #120",
+        "youtubeId": "-3teFOfAauw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-3teFOfAauw/hqdefault.jpg",
+        "durationInMinutes": 251,
+        "releaseDate": 1493646027000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

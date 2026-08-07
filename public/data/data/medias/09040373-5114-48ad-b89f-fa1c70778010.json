@@ -1,0 +1,45 @@
+{
+  "id": "09040373-5114-48ad-b89f-fa1c70778010",
+  "title": "Az ajándék",
+  "originalTitle": "The Gift",
+  "overview": "Simon and Robyn are a young married couple whose life is going as planned until a chance run-in with Simon's high school acquaintance sends their world into a tailspin.",
+  "backdropPath": "/vc3gKcF1yAV7KNc4AkQ85ekCYSn.jpg",
+  "posterPath": "/kH3qLP8pn68Xq5XwvmPkCyaAU7W.jpg",
+  "releaseDate": "2015-07-31T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "91998bfc-3b2a-45f3-b4eb-a15c0757736c",
+      "title": "Az ajándék",
+      "subtitle": null,
+      "timestampString": "01:04:46",
+      "timestampInSeconds": 3886,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #80",
+        "youtubeId": "z4DzygJMKgc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z4DzygJMKgc/hqdefault.jpg",
+        "durationInMinutes": 227,
+        "releaseDate": 1440780590000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

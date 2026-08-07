@@ -1,0 +1,75 @@
+{
+  "id": "4a5bb22d-d949-49dc-b19d-d7804558724f",
+  "title": "A Wall Street farkasa",
+  "originalTitle": "The Wolf of Wall Street",
+  "overview": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
+  "backdropPath": "/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg",
+  "posterPath": "/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+  "releaseDate": "2013-12-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9925b733-1d57-4093-8685-816723aaa05e",
+      "title": "A Wall Street farkasa",
+      "subtitle": null,
+      "timestampString": "02:40:47",
+      "timestampInSeconds": 9647,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #55",
+        "youtubeId": "QgGmQw_m1m8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/QgGmQw_m1m8/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1407941546000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c739a2c5-bd03-482b-b6c0-4b5279acfeb1",
+      "title": "A Wall Street farkasa",
+      "subtitle": null,
+      "timestampString": "00:44:48",
+      "timestampInSeconds": 2688,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #43",
+        "youtubeId": "WupIquHhCt0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/WupIquHhCt0/hqdefault.jpg",
+        "durationInMinutes": 164,
+        "releaseDate": 1389645501000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

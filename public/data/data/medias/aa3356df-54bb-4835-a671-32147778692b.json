@@ -1,0 +1,41 @@
+{
+  "id": "aa3356df-54bb-4835-a671-32147778692b",
+  "title": "A bestia",
+  "originalTitle": "Anjo Mau",
+  "overview": "",
+  "backdropPath": "/285rIXbeW5cpbFmZDrCr2XpmDWl.jpg",
+  "posterPath": "/hN9pF4XjjpUE6Ik1VFdCB9baWyv.jpg",
+  "releaseDate": "1997-09-08T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fe0437e5-64ef-4726-9af3-853952accb1a",
+      "title": "A bestia",
+      "subtitle": null,
+      "timestampString": "01:26:10",
+      "timestampInSeconds": 5170,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #119",
+        "youtubeId": "y4ke6vT4qms",
+        "thumbnailUrl": "https://i.ytimg.com/vi/y4ke6vT4qms/hqdefault.jpg",
+        "durationInMinutes": 111,
+        "releaseDate": 1491032632000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "13320c69-6c1e-4880-915d-c1d1fafe6f25",
+  "title": "Bőrpofa",
+  "originalTitle": "Leatherface",
+  "overview": "A young nurse is kidnapped by a group of violent teens who escape from a mental hospital and take her on the road trip from hell. Pursued by an equally deranged lawman out for revenge, one of the teens is destined for tragedy and horrors that will destroy his mind, moulding him into a monster named Leatherface.",
+  "backdropPath": "/fIOqJeHs4iHUCwSap7wIvgRCwDl.jpg",
+  "posterPath": "/nV7LPlyhUxKn5y0nuItCr8D1OSu.jpg",
+  "releaseDate": "2017-09-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "cff732e7-eef9-4840-9817-6dd14d6afb95",
+      "title": "Bőrpofa",
+      "subtitle": null,
+      "timestampString": "01:51:47",
+      "timestampInSeconds": 6707,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #136",
+        "youtubeId": "4b51e0H7UII",
+        "thumbnailUrl": "https://i.ytimg.com/vi/4b51e0H7UII/hqdefault.jpg",
+        "durationInMinutes": 187,
+        "releaseDate": 1516893789000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

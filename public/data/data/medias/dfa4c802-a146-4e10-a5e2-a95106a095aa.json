@@ -1,0 +1,45 @@
+{
+  "id": "dfa4c802-a146-4e10-a5e2-a95106a095aa",
+  "title": "Eltűnt",
+  "originalTitle": "Missing",
+  "overview": "When her mother disappears while on vacation in Colombia with her new boyfriend, June’s search for answers is hindered by international red tape. Stuck thousands of miles away in Los Angeles, June creatively uses all the latest technology at her fingertips to try and find her before it’s too late. But as she digs deeper, her digital sleuthing raises more questions than answers... and when June unravels secrets about her mom, she discovers that she never really knew her at all.",
+  "backdropPath": "/tVH1qEFyKiCpP6kNDFyXKW2Tiif.jpg",
+  "posterPath": "/wEOUYSU5Uf8J7152PT6jdb5233Y.jpg",
+  "releaseDate": "2023-01-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8816d0fd-54b7-44cd-ae82-c057f1d67d54",
+      "title": "Eltűnt",
+      "subtitle": null,
+      "timestampString": "02:01:35",
+      "timestampInSeconds": 7295,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #251",
+        "youtubeId": "sMMPgkRN14I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/sMMPgkRN14I/hqdefault.jpg",
+        "durationInMinutes": 273,
+        "releaseDate": 1678475107000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

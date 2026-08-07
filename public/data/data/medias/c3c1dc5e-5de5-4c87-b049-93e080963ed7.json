@@ -1,0 +1,45 @@
+{
+  "id": "c3c1dc5e-5de5-4c87-b049-93e080963ed7",
+  "title": "Foxcatcher",
+  "originalTitle": "Foxcatcher",
+  "overview": "The greatest Olympic Wrestling Champion brother team joins Team Foxcatcher led by multimillionaire sponsor John E. du Pont as they train for the 1988 games in Seoul - a union that leads to unlikely circumstances.",
+  "backdropPath": "/tT8vexYdyHG0nHyXQkhzt8tbFkt.jpg",
+  "posterPath": "/w6Sl079QtUcQ9dVQ2RP6aN9NBXx.jpg",
+  "releaseDate": "2014-11-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b0edef29-543a-4152-8ca9-3d66cc51eed9",
+      "title": "Foxcatcher",
+      "subtitle": null,
+      "timestampString": "01:45:18",
+      "timestampInSeconds": 6318,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #67",
+        "youtubeId": "FATQkJjmAQg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/FATQkJjmAQg/hqdefault.jpg",
+        "durationInMinutes": 206,
+        "releaseDate": 1424108444000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

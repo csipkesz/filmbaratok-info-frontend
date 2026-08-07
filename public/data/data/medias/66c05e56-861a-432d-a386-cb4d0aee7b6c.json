@@ -1,0 +1,41 @@
+{
+  "id": "66c05e56-861a-432d-a386-cb4d0aee7b6c",
+  "title": "Mennydörgők*",
+  "originalTitle": "Thunderbolts*",
+  "overview": "After finding themselves ensnared in a death trap, seven disillusioned castoffs must embark on a dangerous mission that will force them to confront the darkest corners of their pasts.",
+  "backdropPath": "/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg",
+  "posterPath": "/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg",
+  "releaseDate": "2025-04-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "56023667-d7b8-443c-aebb-d97d6ee40e8b",
+      "title": "Mennydörgők*",
+      "subtitle": null,
+      "timestampString": "02:36:30",
+      "timestampInSeconds": 9390,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #302",
+        "youtubeId": "3K4xdZiHI_w",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3K4xdZiHI_w/hqdefault.jpg",
+        "durationInMinutes": 235,
+        "releaseDate": 1747414746000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

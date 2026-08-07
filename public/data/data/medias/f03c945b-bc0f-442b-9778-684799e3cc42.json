@@ -1,0 +1,41 @@
+{
+  "id": "f03c945b-bc0f-442b-9778-684799e3cc42",
+  "title": "A halál csöndje",
+  "originalTitle": "Il grande silenzio",
+  "overview": "A mute gunslinger fights in the defense of a group of outlaws and a vengeful young widow, against a group of ruthless bounty hunters.",
+  "backdropPath": "/ksGuopH0XgXLNHJMvoqZMl3lHTT.jpg",
+  "posterPath": "/3kpxS7SZMyYSXvhDnmxQXOOxiTM.jpg",
+  "releaseDate": "1968-11-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1d425c2d-590c-4c9b-b4a9-526bec056c53",
+      "title": "A halál csöndje",
+      "subtitle": null,
+      "timestampString": "02:05:35",
+      "timestampInSeconds": 7535,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #81",
+        "youtubeId": "jxVu-FT-Qv8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/jxVu-FT-Qv8/hqdefault.jpg",
+        "durationInMinutes": 158,
+        "releaseDate": 1442306890000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

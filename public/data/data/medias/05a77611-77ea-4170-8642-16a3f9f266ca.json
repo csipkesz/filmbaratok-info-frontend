@@ -1,0 +1,45 @@
+{
+  "id": "05a77611-77ea-4170-8642-16a3f9f266ca",
+  "title": "A barátaim mind halottak / All my friends are dead",
+  "originalTitle": "Wszyscy moi przyjaciele nie żyją",
+  "overview": "A group of friends at a New Year’s Eve party go through a whirlwind of events that exposes secrets, breaks hearts — and leads to a shocking outcome.",
+  "backdropPath": "/cGJUnIquDE7SZpCS7YDG29roLwL.jpg",
+  "posterPath": "/4GGF9oW3b8qqjvig3n8Qftl4P1Q.jpg",
+  "releaseDate": "2020-12-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e079536a-dfc7-434c-9c39-3b78ac0c30a2",
+      "title": "A barátaim mind halottak / All my friends are dead",
+      "subtitle": null,
+      "timestampString": "02:40:52",
+      "timestampInSeconds": 9652,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #245",
+        "youtubeId": "thnBmMbVpOo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/thnBmMbVpOo/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1671033623000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

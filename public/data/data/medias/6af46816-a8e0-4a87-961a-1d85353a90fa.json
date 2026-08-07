@@ -1,0 +1,45 @@
+{
+  "id": "6af46816-a8e0-4a87-961a-1d85353a90fa",
+  "title": "Sonic, a sündisznó 3",
+  "originalTitle": "Sonic the Hedgehog 3",
+  "overview": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
+  "backdropPath": "/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
+  "posterPath": "/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
+  "releaseDate": "2024-12-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "684f804b-81b0-439c-9e7e-e2969936215c",
+      "title": "Sonic, a sündisznó 3",
+      "subtitle": null,
+      "timestampString": "00:38:05",
+      "timestampInSeconds": 2285,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #294",
+        "youtubeId": "MjMjFJlwupc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/MjMjFJlwupc/hqdefault.jpg",
+        "durationInMinutes": 207,
+        "releaseDate": 1737058478000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

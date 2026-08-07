@@ -1,0 +1,41 @@
+{
+  "id": "3c866bd6-1a14-4f08-a688-f10f4b505836",
+  "title": "Jókislány",
+  "originalTitle": "Babygirl",
+  "overview": "A high-powered CEO puts her career and family on the line when she begins a torrid affair with her much younger intern.",
+  "backdropPath": "/s7vWRjcfRVMW8tBIxhC3UhKxRoo.jpg",
+  "posterPath": "/ilwO6elz3mLV9CToT7C8pjVeKX0.jpg",
+  "releaseDate": "2024-12-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "40d37364-c580-413f-81d3-1a2b76c430f7",
+      "title": "Jókislány",
+      "subtitle": null,
+      "timestampString": "00:32:45",
+      "timestampInSeconds": 1965,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #296",
+        "youtubeId": "2X4YekH4jj4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/2X4YekH4jj4/hqdefault.jpg",
+        "durationInMinutes": 189,
+        "releaseDate": 1739562524000,
+        "participants": [
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

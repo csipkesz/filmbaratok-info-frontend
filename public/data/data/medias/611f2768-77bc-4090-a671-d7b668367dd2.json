@@ -1,0 +1,49 @@
+{
+  "id": "611f2768-77bc-4090-a671-d7b668367dd2",
+  "title": "A zűrhajó",
+  "originalTitle": "(T)Raumschiff Surprise - Periode 1",
+  "overview": "Hundreds of years after humans have settled on Mars, Regulator Rogul and Lord Jens Maul, lead a force of Martians to Earth in order to conquer the planet. Queen Metaphor looks to the gay heroes aboard the spaceship Surprise -- Captain Kork, Mr. Spuck, and first engineer Schrotty -- for help.",
+  "backdropPath": "/wrTM20Hh6rc0Gzw6AkIF0sVBnOc.jpg",
+  "posterPath": "/60YgMkDDwobP4JXwc2hOFa2VmGg.jpg",
+  "releaseDate": "2004-07-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "98430418-97e0-4945-a350-9fbf794739f7",
+      "title": "A zűrhajó",
+      "subtitle": null,
+      "timestampString": "03:50:05",
+      "timestampInSeconds": 13805,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #280",
+        "youtubeId": "hOuoPd65teo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/hOuoPd65teo/hqdefault.jpg",
+        "durationInMinutes": 259,
+        "releaseDate": 1718650807000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

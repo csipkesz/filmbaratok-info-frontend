@@ -1,0 +1,41 @@
+{
+  "id": "d9dcfc2d-218f-4c86-a4d9-b2481edf49b8",
+  "title": "Bűnösök",
+  "originalTitle": "Sinners",
+  "overview": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+  "backdropPath": "/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
+  "posterPath": "/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
+  "releaseDate": "2025-04-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f85294bd-011b-44d2-b861-4c11d235a29d",
+      "title": "Bűnösök",
+      "subtitle": null,
+      "timestampString": "01:51:27",
+      "timestampInSeconds": 6687,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #302",
+        "youtubeId": "3K4xdZiHI_w",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3K4xdZiHI_w/hqdefault.jpg",
+        "durationInMinutes": 235,
+        "releaseDate": 1747414746000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

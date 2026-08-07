@@ -1,0 +1,41 @@
+{
+  "id": "ca058351-9f76-4e98-afe3-9a7442ec1ac8",
+  "title": "Napóleon",
+  "originalTitle": "Napoleon",
+  "overview": "An epic that details the checkered rise and fall of French Emperor Napoleon Bonaparte and his relentless journey to power through the prism of his addictive, volatile relationship with his wife, Josephine.",
+  "backdropPath": "/33pMXav77ICRnceEBLhL8lXTywv.jpg",
+  "posterPath": "/ytFOXyghxLzAM4KZyazDdEkM66q.jpg",
+  "releaseDate": "2023-11-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6381f435-49b2-43ce-936d-d38f4ff7c9cc",
+      "title": "Napóleon",
+      "subtitle": null,
+      "timestampString": "01:17:20",
+      "timestampInSeconds": 4640,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #267",
+        "youtubeId": "fjGmqt2DQZg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fjGmqt2DQZg/hqdefault.jpg",
+        "durationInMinutes": 201,
+        "releaseDate": 1701380416000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

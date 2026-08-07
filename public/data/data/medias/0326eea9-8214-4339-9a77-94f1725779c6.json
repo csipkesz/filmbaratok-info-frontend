@@ -1,0 +1,45 @@
+{
+  "id": "0326eea9-8214-4339-9a77-94f1725779c6",
+  "title": "47 méter mélyen",
+  "originalTitle": "47 Meters Down",
+  "overview": "Two sisters on Mexican vacation are trapped in a shark observation cage at the bottom of the ocean, with oxygen running low and great whites circling nearby, they have less than an hour of air left to figure out how to get to the surface.",
+  "backdropPath": "/5JIdbM1SPymEge4f0pMy23Zj26m.jpg",
+  "posterPath": "/2IgdRUTdHyoI3nFORcnnYEKOGIH.jpg",
+  "releaseDate": "2017-05-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6929d1eb-2395-4360-b815-416416436019",
+      "title": "47 méter mélyen",
+      "subtitle": null,
+      "timestampString": "01:01:25",
+      "timestampInSeconds": 3685,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #130",
+        "youtubeId": "gU3ro-u6uQ4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gU3ro-u6uQ4/hqdefault.jpg",
+        "durationInMinutes": 174,
+        "releaseDate": 1507212990000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

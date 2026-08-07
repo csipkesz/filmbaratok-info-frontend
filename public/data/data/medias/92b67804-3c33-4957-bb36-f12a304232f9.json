@@ -1,0 +1,41 @@
+{
+  "id": "92b67804-3c33-4957-bb36-f12a304232f9",
+  "title": "Nebraska",
+  "originalTitle": "Nebraska",
+  "overview": "An aging, booze-addled father takes a trip from Montana to Nebraska with his estranged son in order to claim what he believes to be a million-dollar sweepstakes prize.",
+  "backdropPath": "/yePsFcldyZ6VnxaBr8ZbVEaOt4W.jpg",
+  "posterPath": "/o1t2Mw18EEBnl8v4Nby3PFjxnM1.jpg",
+  "releaseDate": "2013-09-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "cb138c90-6000-4609-8b31-0c0641337d09",
+      "title": "Nebraska",
+      "subtitle": null,
+      "timestampString": "00:23:18",
+      "timestampInSeconds": 1398,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #46 (Oscar 2014)",
+        "youtubeId": "BjIg8Ny1Bfg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/BjIg8Ny1Bfg/hqdefault.jpg",
+        "durationInMinutes": 145,
+        "releaseDate": 1393580650000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

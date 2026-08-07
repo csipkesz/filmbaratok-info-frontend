@@ -1,0 +1,45 @@
+{
+  "id": "33166d71-0245-4cba-9d10-61ce9ed16b02",
+  "title": "Halálsíp",
+  "originalTitle": "Whistle",
+  "overview": "A misfit group of unwitting high school students stumble upon a cursed object, an ancient Aztec Death Whistle. They discover that blowing the whistle and the terrifying sound it emits will summon their future deaths to hunt them down.",
+  "backdropPath": "/rfawRNnOrpqlvTi3Xn4XRjkxx66.jpg",
+  "posterPath": "/vgonf5kGsiijUBjzxKTvechhT28.jpg",
+  "releaseDate": "2026-01-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "882754ad-e504-45a9-a083-5f18295139b0",
+      "title": "Halálsíp",
+      "subtitle": null,
+      "timestampString": "01:36:00",
+      "timestampInSeconds": 5760,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #323",
+        "youtubeId": "1Y8m-2qsHhw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/1Y8m-2qsHhw/hqdefault.jpg",
+        "durationInMinutes": 209,
+        "releaseDate": 1775020201000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "8e862923-72e4-48b2-9e93-7803d5062667",
+            "name": "Zétény"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

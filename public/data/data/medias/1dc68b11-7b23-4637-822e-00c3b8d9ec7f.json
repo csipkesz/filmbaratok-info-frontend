@@ -1,0 +1,45 @@
+{
+  "id": "1dc68b11-7b23-4637-822e-00c3b8d9ec7f",
+  "title": "Six Underground – Hatan az alvilágból",
+  "originalTitle": "6 Underground",
+  "overview": "After faking his death, a tech billionaire recruits a team of international operatives for a bold and bloody mission to take down a brutal dictator.",
+  "backdropPath": "/eFw5YSorHidsajLTayo1noueIxI.jpg",
+  "posterPath": "/lnWkyG3LLgbbrIEeyl5mK5VRFe4.jpg",
+  "releaseDate": "2019-12-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "dd1d712c-b90f-4cf1-90d2-eefdeda132fe",
+      "title": "Six Underground – Hatan az alvilágból",
+      "subtitle": null,
+      "timestampString": "01:16:38",
+      "timestampInSeconds": 4598,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #183",
+        "youtubeId": "uA5tRdykPyw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uA5tRdykPyw/hqdefault.jpg",
+        "durationInMinutes": 277,
+        "releaseDate": 1579802407000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

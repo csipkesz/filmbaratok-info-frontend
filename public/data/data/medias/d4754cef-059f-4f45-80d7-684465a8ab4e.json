@@ -1,0 +1,45 @@
+{
+  "id": "d4754cef-059f-4f45-80d7-684465a8ab4e",
+  "title": "A világítótorony",
+  "originalTitle": "The Lighthouse",
+  "overview": "Two lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s.",
+  "backdropPath": "/sYLzRuEcwSz0L1Z92wQNrETHU9O.jpg",
+  "posterPath": "/yAKNmpcUweGH6WMCEWenwU9PsbE.jpg",
+  "releaseDate": "2019-10-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3bf9c3e5-dc7f-4e3c-85db-b6aa0a002873",
+      "title": "A világítótorony",
+      "subtitle": null,
+      "timestampString": "02:05:00",
+      "timestampInSeconds": 7500,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #183",
+        "youtubeId": "uA5tRdykPyw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uA5tRdykPyw/hqdefault.jpg",
+        "durationInMinutes": 277,
+        "releaseDate": 1579802407000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

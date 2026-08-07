@@ -1,0 +1,37 @@
+{
+  "id": "60dfbe1c-0943-4fba-a43a-083436a679bb",
+  "title": "Beépített hiba",
+  "originalTitle": "Inherent Vice",
+  "overview": "In Los Angeles at the turn of the 1970s, drug-fueled detective Larry \"Doc\" Sportello investigates the disappearance of an ex-girlfriend.",
+  "backdropPath": "/cwytQHRHSrMnsSEowcY4Z6jIEeb.jpg",
+  "posterPath": "/pfVua7TzzttOh3RTOuBqT7xN0oY.jpg",
+  "releaseDate": "2014-12-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7c967ba1-3b2b-47b4-9fc0-0d1d206f06fd",
+      "title": "Beépített hiba",
+      "subtitle": null,
+      "timestampString": "02:16:00",
+      "timestampInSeconds": 8160,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #79",
+        "youtubeId": "MFtdt9e1-5Y",
+        "thumbnailUrl": "https://i.ytimg.com/vi/MFtdt9e1-5Y/hqdefault.jpg",
+        "durationInMinutes": 158,
+        "releaseDate": 1439397604000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

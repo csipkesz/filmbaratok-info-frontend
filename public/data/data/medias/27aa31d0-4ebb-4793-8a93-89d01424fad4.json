@@ -1,0 +1,75 @@
+{
+  "id": "27aa31d0-4ebb-4793-8a93-89d01424fad4",
+  "title": "Paterson",
+  "originalTitle": "Paterson",
+  "overview": "A week in the life of Paterson, a poet bus driver, and his wife Laura, a very creative artist, who live in Paterson, New Jersey, hometown of many famous poets and artists.",
+  "backdropPath": "/5Bk7kYSKAuNrxI5BXpDqlsln2P0.jpg",
+  "posterPath": "/AuJ1ZlfqwuAr9H5Qr1U9KILylse.jpg",
+  "releaseDate": "2016-11-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4c7e36c3-e6dd-42ed-a1e5-350adf47a59e",
+      "title": "Paterson",
+      "subtitle": null,
+      "timestampString": "01:52:35",
+      "timestampInSeconds": 6755,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #118",
+        "youtubeId": "tsYYwq3fdTw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tsYYwq3fdTw/hqdefault.jpg",
+        "durationInMinutes": 239,
+        "releaseDate": 1490634596000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ae1e1793-af9b-4257-9b1d-6fd437458d3e",
+      "title": "Paterson",
+      "subtitle": null,
+      "timestampString": "00:48:40",
+      "timestampInSeconds": 2920,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #134",
+        "youtubeId": "gB5CFdGY70M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gB5CFdGY70M/hqdefault.jpg",
+        "durationInMinutes": 218,
+        "releaseDate": 1513874512000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

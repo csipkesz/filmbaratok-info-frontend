@@ -1,0 +1,45 @@
+{
+  "id": "ca1e8c7d-f621-4d88-899e-3409fd9c44dc",
+  "title": "Perfect blue",
+  "originalTitle": "PERFECT BLUE",
+  "overview": "Rising pop star Mima Kirigoe quits singing to pursue a career as an actress. After she takes up a role on a popular detective show, her handlers and collaborators begin turning up murdered. Harboring feelings of guilt and haunted by visions of her former self, Mima's reality and fantasy meld into a frenzied paranoia.",
+  "backdropPath": "/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
+  "posterPath": "/6WTiOCfDPP8XV4jqfloiVWf7KHq.jpg",
+  "releaseDate": "1998-02-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0bfb7167-75d4-4856-ae2a-00664fa0381b",
+      "title": "Perfect blue",
+      "subtitle": null,
+      "timestampString": "03:32:55",
+      "timestampInSeconds": 12775,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #316",
+        "youtubeId": "tj6Fv2PRYFw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tj6Fv2PRYFw/hqdefault.jpg",
+        "durationInMinutes": 318,
+        "releaseDate": 1765639323000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

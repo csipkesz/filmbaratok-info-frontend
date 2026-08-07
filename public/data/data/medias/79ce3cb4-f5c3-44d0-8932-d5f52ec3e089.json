@@ -1,0 +1,41 @@
+{
+  "id": "79ce3cb4-f5c3-44d0-8932-d5f52ec3e089",
+  "title": "Az alapító",
+  "originalTitle": "The Founder",
+  "overview": "The true story of how Ray Kroc, a salesman from Illinois, met Mac and Dick McDonald, who were running a burger operation in 1950s Southern California. Kroc was impressed by the brothers’ speedy system of making the food and saw franchise potential. He maneuvered himself into a position to be able to pull the company from the brothers and create a billion-dollar empire.",
+  "backdropPath": "/5WparwIlAtSZW0tcWbK2NHEZJC6.jpg",
+  "posterPath": "/8gLIksu5ggdfBL1UbeTeonHquxl.jpg",
+  "releaseDate": "2016-11-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3f658354-7463-4996-af49-7bf7089d9587",
+      "title": "Az alapító",
+      "subtitle": null,
+      "timestampString": "01:07:33",
+      "timestampInSeconds": 4053,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #116",
+        "youtubeId": "z6ZDT1e89XY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z6ZDT1e89XY/hqdefault.jpg",
+        "durationInMinutes": 146,
+        "releaseDate": 1487003611000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

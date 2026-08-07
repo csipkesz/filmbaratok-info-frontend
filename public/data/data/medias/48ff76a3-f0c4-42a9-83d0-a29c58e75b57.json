@@ -1,0 +1,45 @@
+{
+  "id": "48ff76a3-f0c4-42a9-83d0-a29c58e75b57",
+  "title": "A gyilkos",
+  "originalTitle": "The Killer",
+  "overview": "After a fateful miss, an assassin battles his employers, and himself, on an international manhunt he insists isn't personal.",
+  "backdropPath": "/f9Atch0jlzcOT9RbF8UccqfNOpd.jpg",
+  "posterPath": "/ipkcgvN7h3yZnbYowthloHLKsf4.jpg",
+  "releaseDate": "2023-10-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "587dc8e5-b6e8-4269-a737-1805afe0d37d",
+      "title": "A gyilkos",
+      "subtitle": null,
+      "timestampString": "01:35:10",
+      "timestampInSeconds": 5710,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #266",
+        "youtubeId": "N4U228aSkd8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/N4U228aSkd8/hqdefault.jpg",
+        "durationInMinutes": 221,
+        "releaseDate": 1700081301000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "b8189e72-9fa0-48fa-bdc0-722ee94af0aa",
+  "title": "Marty Supreme",
+  "originalTitle": "Marty Supreme",
+  "overview": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
+  "backdropPath": "/6h7w8R4BA7vubEmEEW5vYEjuoz6.jpg",
+  "posterPath": "/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+  "releaseDate": "2025-12-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "33034b04-f472-4151-818e-eaf1b4992fa2",
+      "title": "Marty Supreme",
+      "subtitle": null,
+      "timestampString": "01:41:20",
+      "timestampInSeconds": 6080,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #320",
+        "youtubeId": "JOlQcUNht4E",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JOlQcUNht4E/hqdefault.jpg",
+        "durationInMinutes": 181,
+        "releaseDate": 1771072699000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

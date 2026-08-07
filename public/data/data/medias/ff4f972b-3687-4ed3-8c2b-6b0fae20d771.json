@@ -1,0 +1,45 @@
+{
+  "id": "ff4f972b-3687-4ed3-8c2b-6b0fae20d771",
+  "title": "A rettegés autója / The car",
+  "originalTitle": "The Car",
+  "overview": "The Utah community of Santa Ynez is being terrorized by a mysterious black coupe that appears out of nowhere and begins running people down. After the car kills off the town sheriff, Captain Wade Parent is determined to stop the murderous driver.",
+  "backdropPath": "/4wmT2KQrxA6pT6R4mN6kx8cqdFI.jpg",
+  "posterPath": "/gFM9yMrO4fQMiG440Lx6bazB517.jpg",
+  "releaseDate": "1977-05-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a48c048e-d5ee-4e59-9204-3306a3e01ec1",
+      "title": "A rettegés autója / The car",
+      "subtitle": null,
+      "timestampString": "03:05:07",
+      "timestampInSeconds": 11107,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #157",
+        "youtubeId": "IAfkWR4qRU4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IAfkWR4qRU4/hqdefault.jpg",
+        "durationInMinutes": 222,
+        "releaseDate": 1545146746000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

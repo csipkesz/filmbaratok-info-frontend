@@ -1,0 +1,45 @@
+{
+  "id": "b6ddf4b3-3915-4ef9-9a8b-f94314f40f3d",
+  "title": "Larry Crowne",
+  "originalTitle": "Larry Crowne",
+  "overview": "When he suddenly finds himself without his long-standing blue-collar job, Larry Crowne enrolls at his local college to start over. There, he becomes part of an eclectic community of students and develops a crush on his teacher.",
+  "backdropPath": "/1kgIEwNkT5XxFgHy5glFHmNL7Dc.jpg",
+  "posterPath": "/8GDM7RqM6J1vNUdlU94rmtlNa3e.jpg",
+  "releaseDate": "2011-06-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "511ac66a-bb33-4a18-b81b-8f9312db3f3f",
+      "title": "Larry Crowne",
+      "subtitle": null,
+      "timestampString": "02:37:50",
+      "timestampInSeconds": 9470,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #251",
+        "youtubeId": "sMMPgkRN14I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/sMMPgkRN14I/hqdefault.jpg",
+        "durationInMinutes": 273,
+        "releaseDate": 1678475107000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "41e23c51-c327-43d7-b438-4d8cd4f9b0d7",
+  "title": "A majmok bolygója – Háború",
+  "originalTitle": "War for the Planet of the Apes",
+  "overview": "Caesar and his apes are forced into a deadly conflict with an army of humans led by a ruthless Colonel. After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind. As the journey finally brings them face to face, Caesar and the Colonel are pitted against each other in an epic battle that will determine the fate of both their species and the future of the planet.",
+  "backdropPath": "/ulMscezy9YX0bhknvJbZoUgQxO5.jpg",
+  "posterPath": "/3vYhLLxrTtZLysXtIWktmd57Snv.jpg",
+  "releaseDate": "2017-07-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "237944a9-b1b1-471b-a182-8d65a7eaa096",
+      "title": "A majmok bolygója – Háború",
+      "subtitle": null,
+      "timestampString": "01:23:23",
+      "timestampInSeconds": 5003,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #125",
+        "youtubeId": "4TEl2okYMLY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/4TEl2okYMLY/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1500394983000,
+        "participants": [
+          {
+            "id": "3da49de0-82ec-4704-a57a-3643fbf7ed43",
+            "name": "Szöllőskei Gábor"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

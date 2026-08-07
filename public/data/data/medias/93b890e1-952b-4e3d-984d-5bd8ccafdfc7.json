@@ -1,0 +1,45 @@
+{
+  "id": "93b890e1-952b-4e3d-984d-5bd8ccafdfc7",
+  "title": "A Wall Street pillangói",
+  "originalTitle": "Hustlers",
+  "overview": "A crew of savvy former strip club employees band together to turn the tables on their Wall Street clients.",
+  "backdropPath": "/jTab4cf4X1dJJVS4F8UOGuesvPd.jpg",
+  "posterPath": "/zBhv8rsLOfpFW2M5b6wW78Uoojs.jpg",
+  "releaseDate": "2019-09-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c3bac5e8-d3e3-427c-b438-b16d27bf0dea",
+      "title": "A Wall Street pillangói",
+      "subtitle": null,
+      "timestampString": "01:00:00",
+      "timestampInSeconds": 3600,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #176",
+        "youtubeId": "IBv2w6mBz1s",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IBv2w6mBz1s/hqdefault.jpg",
+        "durationInMinutes": 267,
+        "releaseDate": 1570124501000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

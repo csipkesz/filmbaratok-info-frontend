@@ -1,0 +1,45 @@
+{
+  "id": "f83b2998-4a91-4049-addd-46bfb35aee2f",
+  "title": "Konstrukció",
+  "originalTitle": "Hypnotic",
+  "overview": "A detective becomes entangled in a mystery involving his missing daughter and a secret government program while investigating a string of reality-bending crimes.",
+  "backdropPath": "/d1Vu0DRCeJ43YX98UKMi9xJNwrR.jpg",
+  "posterPath": "/3IhGkkalwXguTlceGSl8XUJZOVI.jpg",
+  "releaseDate": "2023-05-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ab90902d-e9ab-4d36-a9bc-8478d9b47cf0",
+      "title": "Konstrukció [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "01:38:53",
+      "timestampInSeconds": 5933,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #256",
+        "youtubeId": "yK5fnD61khw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/yK5fnD61khw/hqdefault.jpg",
+        "durationInMinutes": 224,
+        "releaseDate": 1686942465000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "a7254ee7-b711-4f4e-9bbb-5a5f73ef6c5a",
+  "title": "Rokonszenvedés",
+  "originalTitle": "A Real Pain",
+  "overview": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the pair's old tensions resurface against the backdrop of their family history.",
+  "backdropPath": "/fViElUGfdoZjtnVxvSpJX8TwxY6.jpg",
+  "posterPath": "/67xRIXm5TxXRT4nV2V4AEJ9yq2d.jpg",
+  "releaseDate": "2024-11-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5d955e0e-e227-4cbf-88a5-23ad357c5562",
+      "title": "Rokonszenvedés",
+      "subtitle": null,
+      "timestampString": "02:15:28",
+      "timestampInSeconds": 8128,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #297",
+        "youtubeId": "3hKlobo8elk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3hKlobo8elk/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1740760443000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

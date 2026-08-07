@@ -1,0 +1,89 @@
+{
+  "id": "57b9e944-1e9a-49b6-8864-ea22b709dab4",
+  "title": "Legyőzhetetlen",
+  "originalTitle": "INVINCIBLE",
+  "overview": "Mark Grayson normális tinédzser, kivéve azt a tényt, hogy az apja a bolygó legerősebb szuperhőse. Röviddel tizenhetedik születésnapja után Mark kezdi fejleszteni saját erejét, és apja gondozásába lép.",
+  "backdropPath": "/9qrroces8C6R9aKr08hACNPVXdZ.jpg",
+  "posterPath": "/47E8aZB4C22rPte303TP77ZL9gp.jpg",
+  "releaseDate": "2021-03-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "062a6460-949c-45b7-b52a-38055fd663ff",
+      "title": "Legyőzhetetlen (2. évad)",
+      "subtitle": "2. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Legyőzhetetlen (2. évad)",
+        "youtubeId": "TyZ6ocAxWcg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/TyZ6ocAxWcg/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1713895207000,
+        "participants": [
+          {
+            "id": "b58a918c-16ec-4387-a959-c8a6d2afa38d",
+            "name": "Shirin"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4988fa0b-f1d0-448a-8dc3-977b768103af",
+      "title": "Legyőzhetetlen (3. évad)",
+      "subtitle": "3. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Legyőzhetetlen (3. évad)",
+        "youtubeId": "Qmt1sz28vQ8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Qmt1sz28vQ8/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1743960606000,
+        "participants": [
+          {
+            "id": "b58a918c-16ec-4387-a959-c8a6d2afa38d",
+            "name": "Shirin"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c6da556e-e90a-4b3d-beb2-3e800714d340",
+      "title": "Legyőzhetetlen (4. évad)",
+      "subtitle": "4. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Legyőzhetetlen (4. évad)",
+        "youtubeId": "vGsj5Q3BCF8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/vGsj5Q3BCF8/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1778133124000,
+        "participants": [
+          {
+            "id": "b58a918c-16ec-4387-a959-c8a6d2afa38d",
+            "name": "Shirin"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

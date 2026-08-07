@@ -1,0 +1,41 @@
+{
+  "id": "fd41980f-137e-4374-b1bd-8375ecd9100e",
+  "title": "Agymanók 2",
+  "originalTitle": "Inside Out 2",
+  "overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.",
+  "backdropPath": "/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
+  "posterPath": "/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+  "releaseDate": "2024-06-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b5608b00-0a1a-4774-9b8d-08e53e2e745f",
+      "title": "Agymanók 2",
+      "subtitle": null,
+      "timestampString": "01:03:30",
+      "timestampInSeconds": 3810,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #281",
+        "youtubeId": "ov4eiYi-ekw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ov4eiYi-ekw/hqdefault.jpg",
+        "durationInMinutes": 248,
+        "releaseDate": 1719661725000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

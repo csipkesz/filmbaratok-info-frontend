@@ -1,0 +1,45 @@
+{
+  "id": "8f42ee3f-ea67-4417-8d1b-49fe5e4e35c4",
+  "title": "Elektronikus állam",
+  "originalTitle": "The Electric State",
+  "overview": "An orphaned teen hits the road with a mysterious robot to find her long-lost brother, teaming up with a smuggler and his wisecracking sidekick.",
+  "backdropPath": "/2n7lYEeIbucsEQCswRcVB6ZYmMP.jpg",
+  "posterPath": "/sI2NiMU8o65hmIMY0JI9CjJ0p7f.jpg",
+  "releaseDate": "2025-02-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f7435b03-fe17-4847-8499-3cb370235263",
+      "title": "Elektronikus állam",
+      "subtitle": null,
+      "timestampString": "00:56:30",
+      "timestampInSeconds": 3390,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #299",
+        "youtubeId": "xjwmsXHThGE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/xjwmsXHThGE/hqdefault.jpg",
+        "durationInMinutes": 200,
+        "releaseDate": 1742750106000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

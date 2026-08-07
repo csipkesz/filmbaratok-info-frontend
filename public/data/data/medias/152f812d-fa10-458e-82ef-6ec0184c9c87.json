@@ -1,0 +1,41 @@
+{
+  "id": "152f812d-fa10-458e-82ef-6ec0184c9c87",
+  "title": "Joe és a vulkán",
+  "originalTitle": "Joe Versus the Volcano",
+  "overview": "Hypochondriac Joe Banks finds out he has six months to live, quits his dead end job, musters the courage to ask his co-worker out on a date, and is then hired to jump into a volcano by a mysterious visitor.",
+  "backdropPath": "/qZ8t05qidOjhSSsaByxxpu6CKOH.jpg",
+  "posterPath": "/fwjMUuDZUxedfsUpVQKQN8cYfzB.jpg",
+  "releaseDate": "1990-03-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6c8a3a74-1250-463e-b43f-1215bff33044",
+      "title": "Joe és a vulkán",
+      "subtitle": null,
+      "timestampString": "02:09:09",
+      "timestampInSeconds": 7749,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #205",
+        "youtubeId": "GcqE0JN9mNg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GcqE0JN9mNg/hqdefault.jpg",
+        "durationInMinutes": 170,
+        "releaseDate": 1612351186000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

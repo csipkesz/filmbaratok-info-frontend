@@ -1,0 +1,45 @@
+{
+  "id": "aa468816-5259-41f2-923c-548e409a9a74",
+  "title": "Két magányos farkas / Wolfs",
+  "originalTitle": "Wolfs",
+  "overview": "Hired to cover up a high-profile crime, a fixer soon finds his night spiralling out of control when he's forced to work with an unexpected counterpart.",
+  "backdropPath": "/nSVwus6Vcnw06zqKAa1ioacrpUF.jpg",
+  "posterPath": "/vOX1Zng472PC2KnS0B9nRfM8aaZ.jpg",
+  "releaseDate": "2024-09-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4c5730c5-371b-4b21-8ab0-9b3d270c12e9",
+      "title": "Két magányos farkas / Wolfs",
+      "subtitle": null,
+      "timestampString": "00:47:12",
+      "timestampInSeconds": 2832,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #288",
+        "youtubeId": "y8PRwmbTmMM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/y8PRwmbTmMM/hqdefault.jpg",
+        "durationInMinutes": 241,
+        "releaseDate": 1729192342000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

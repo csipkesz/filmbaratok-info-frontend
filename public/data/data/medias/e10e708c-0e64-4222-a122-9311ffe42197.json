@@ -1,0 +1,41 @@
+{
+  "id": "e10e708c-0e64-4222-a122-9311ffe42197",
+  "title": "A fiú",
+  "originalTitle": "The Boy",
+  "overview": "A young American woman takes a job as a nanny in a remote English village, soon discovering that the family's eight-year-old son is a life-sized doll that comes with a list of strict rules.",
+  "backdropPath": "/mRUW8rmpCS2kH22eihPbbMIbFxU.jpg",
+  "posterPath": "/kW2vgzhyWXQu5UxNzebPokipBqH.jpg",
+  "releaseDate": "2016-01-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6c820e33-2926-4a06-8d87-d6deb47c455a",
+      "title": "A fiú [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "01:51:19",
+      "timestampInSeconds": 6679,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #287",
+        "youtubeId": "t0z5SbpHLjU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/t0z5SbpHLjU/hqdefault.jpg",
+        "durationInMinutes": 151,
+        "releaseDate": 1727611956000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

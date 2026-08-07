@@ -1,0 +1,41 @@
+{
+  "id": "f68b5fe2-a20f-47f7-b1dd-507f6e4d28f1",
+  "title": "Segítség!",
+  "originalTitle": "Send Help",
+  "overview": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
+  "backdropPath": "/bpp58yHuQmpt6xwggI63mVRw7po.jpg",
+  "posterPath": "/zbJWVHOtj3ljBzWgL1P8pxP03Up.jpg",
+  "releaseDate": "2026-01-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "83129ae5-0ad1-4491-a259-701e33da451d",
+      "title": "Segítség!",
+      "subtitle": null,
+      "timestampString": "00:37:35",
+      "timestampInSeconds": 2255,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #320",
+        "youtubeId": "JOlQcUNht4E",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JOlQcUNht4E/hqdefault.jpg",
+        "durationInMinutes": 181,
+        "releaseDate": 1771072699000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

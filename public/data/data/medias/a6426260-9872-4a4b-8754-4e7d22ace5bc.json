@@ -1,0 +1,41 @@
+{
+  "id": "a6426260-9872-4a4b-8754-4e7d22ace5bc",
+  "title": "Tesó",
+  "originalTitle": "Tesó",
+  "overview": "There is the housing estate. There's Artin, a music geek with the mentality of a teenager at twenty-three, and his brother Nate, a sex-crazed porn writer on the run from hole to hole. And then there are a few other possessions: a second-hand large apartment, an inherited small apartment, and a second-hand inherited woman. But which one goes to whom?",
+  "backdropPath": null,
+  "posterPath": "/vwrW5qCHRnDk0JBxFiIs9mS4JQs.jpg",
+  "releaseDate": "2003-05-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a7fdee88-3193-4017-b83c-ae17698891d2",
+      "title": "Tesó",
+      "subtitle": null,
+      "timestampString": "02:24:13",
+      "timestampInSeconds": 8653,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #149",
+        "youtubeId": "VBEVVw6KCTg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VBEVVw6KCTg/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1534514845000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

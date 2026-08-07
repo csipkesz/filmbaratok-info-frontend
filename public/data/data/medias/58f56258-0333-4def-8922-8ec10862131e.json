@@ -1,0 +1,45 @@
+{
+  "id": "58f56258-0333-4def-8922-8ec10862131e",
+  "title": "Robin Hood [2018]",
+  "originalTitle": "Robin Hood",
+  "overview": "A war-hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown.",
+  "backdropPath": "/9KKT8qPAII0VJMpviThOTMLN0Wt.jpg",
+  "posterPath": "/AiRfixFcfTkNbn2A73qVJPlpkUo.jpg",
+  "releaseDate": "2018-11-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4b93055b-45c2-4616-ae71-89c331fbf36b",
+      "title": "Robin Hood [2018]",
+      "subtitle": null,
+      "timestampString": "00:04:55",
+      "timestampInSeconds": 295,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #157",
+        "youtubeId": "IAfkWR4qRU4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IAfkWR4qRU4/hqdefault.jpg",
+        "durationInMinutes": 222,
+        "releaseDate": 1545146746000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

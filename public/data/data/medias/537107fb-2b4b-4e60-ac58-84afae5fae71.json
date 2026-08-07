@@ -1,0 +1,45 @@
+{
+  "id": "537107fb-2b4b-4e60-ac58-84afae5fae71",
+  "title": "Tánc a sivatagban [Sirat]",
+  "originalTitle": "Sirāt",
+  "overview": "A man and his son arrive at a rave lost in the mountains of Morocco. They are looking for Marina, their daughter and sister, who disappeared months ago at another rave. Driven by fate, they decide to follow a group of ravers in search of one last party, in hopes Marina will be there.",
+  "backdropPath": "/kOUV5WbisWMg56d8eB45ZHEVxYq.jpg",
+  "posterPath": "/bzBtsLi17rK4G6kDvOXfUZfAhca.jpg",
+  "releaseDate": "2025-06-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "74106792-8d7b-400f-836b-250ce4f739b1",
+      "title": "Tánc a sivatagban [Sirat]",
+      "subtitle": null,
+      "timestampString": "02:07:18",
+      "timestampInSeconds": 7638,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #323",
+        "youtubeId": "1Y8m-2qsHhw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/1Y8m-2qsHhw/hqdefault.jpg",
+        "durationInMinutes": 209,
+        "releaseDate": 1775020201000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "8e862923-72e4-48b2-9e93-7803d5062667",
+            "name": "Zétény"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

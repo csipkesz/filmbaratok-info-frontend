@@ -1,0 +1,41 @@
+{
+  "id": "4d9a1b2d-4f01-4d7b-916a-cb67339b18bf",
+  "title": "Fegyverek",
+  "originalTitle": "Weapons",
+  "overview": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+  "backdropPath": "/8VyTWJrNEyV2MTWvniDVp0MpOAe.jpg",
+  "posterPath": "/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
+  "releaseDate": "2025-08-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b4c88ad1-d099-4c7d-b674-e5b92176d519",
+      "title": "Fegyverek [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "02:55:30",
+      "timestampInSeconds": 10530,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #308",
+        "youtubeId": "JX8Yhmv3ho0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JX8Yhmv3ho0/hqdefault.jpg",
+        "durationInMinutes": 210,
+        "releaseDate": 1755468901000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "d9778050-b7de-4963-911d-8c04bc496b8c",
+  "title": "Dínó tesó",
+  "originalTitle": "The Good Dinosaur",
+  "overview": "An epic journey into the world of dinosaurs where an Apatosaurus named Arlo makes an unlikely human friend.",
+  "backdropPath": "/cF3H9pyUF6dsvqlYUcH0TyBAMTG.jpg",
+  "posterPath": "/8RSkxOO80btfKjyiC5ZiTaCHIT8.jpg",
+  "releaseDate": "2015-11-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d32b54c5-182d-41c6-8d50-0d1900f9c4da",
+      "title": "Dínó tesó",
+      "subtitle": null,
+      "timestampString": "00:57:31",
+      "timestampInSeconds": 3451,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #88",
+        "youtubeId": "wEd9ZOCpPII",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wEd9ZOCpPII/hqdefault.jpg",
+        "durationInMinutes": 226,
+        "releaseDate": 1450458682000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "172686b9-17cd-48fd-80aa-da84dedc613f",
+  "title": "Az örökbeadás",
+  "originalTitle": "Nowhere Special",
+  "overview": "John, a 35-year-old window cleaner, has dedicated his life to bringing up his 4-year-old son, Michael, after the child's mother left them soon after giving birth. When John is given only a few months left to live, he attempts to find a new, perfect family for Michael, determined to shield him from the terrible reality of the situation.",
+  "backdropPath": "/wrEbKIbW1q6AOaZrpiscjTgfBvp.jpg",
+  "posterPath": "/tqLI37bbDZP9um0Xu9AFWWYvXzB.jpg",
+  "releaseDate": "2020-09-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0ee1ed6a-6660-46ae-92e9-a90006f7d045",
+      "title": "Az örökbeadás",
+      "subtitle": null,
+      "timestampString": "01:24:30",
+      "timestampInSeconds": 5070,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #226",
+        "youtubeId": "g-SEAVbxOlA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/g-SEAVbxOlA/hqdefault.jpg",
+        "durationInMinutes": 224,
+        "releaseDate": 1643475639000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

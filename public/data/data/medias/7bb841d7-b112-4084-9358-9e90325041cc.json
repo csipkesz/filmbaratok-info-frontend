@@ -1,0 +1,41 @@
+{
+  "id": "7bb841d7-b112-4084-9358-9e90325041cc",
+  "title": "A mandalóri és Grogu",
+  "originalTitle": "The Mandalorian and Grogu",
+  "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+  "backdropPath": "/MJcERawyqGqJdPsOBc0C449hQ9.jpg",
+  "posterPath": "/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
+  "releaseDate": "2026-05-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "cbefa75f-a937-4122-8474-01405ef35570",
+      "title": "A mandalóri és Grogu",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: A mandalóri és Grogu",
+        "youtubeId": "1M7omgY_2eU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/1M7omgY_2eU/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1779969606000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "b58a918c-16ec-4387-a959-c8a6d2afa38d",
+            "name": "Shirin"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

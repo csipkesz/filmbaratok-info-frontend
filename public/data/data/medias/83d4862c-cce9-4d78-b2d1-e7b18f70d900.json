@@ -1,0 +1,45 @@
+{
+  "id": "83d4862c-cce9-4d78-b2d1-e7b18f70d900",
+  "title": "A Pokol angyala",
+  "originalTitle": "Beyond the Law",
+  "overview": "Dan Saxon is an undercover cop who infiltrates a biker gang to nail the scum behind a drug-smuggling operation. In order to maintain the trust of the gang's leader, he must commit ever more dangerous and heinous crimes. Just how far 'beyond the law' will Saxon go?",
+  "backdropPath": "/AtwCUHplhgV00C9xpFMqtv60bKO.jpg",
+  "posterPath": "/vzlSfPrQDExlb8y8TAfjiYuk3hN.jpg",
+  "releaseDate": "1993-04-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1dfbe6fc-cb00-47cd-ac30-fab66ef1417c",
+      "title": "A Pokol angyala",
+      "subtitle": null,
+      "timestampString": "03:19:30",
+      "timestampInSeconds": 11970,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #307",
+        "youtubeId": "VKMsNci80C8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VKMsNci80C8/hqdefault.jpg",
+        "durationInMinutes": 233,
+        "releaseDate": 1753986708000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

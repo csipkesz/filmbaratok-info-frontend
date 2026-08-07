@@ -1,0 +1,45 @@
+{
+  "id": "9fa2f825-25fd-4b3b-b4ea-0ebca49ffc33",
+  "title": "Vaskarom",
+  "originalTitle": "The Iron Claw",
+  "overview": "The true story of the inseparable Von Erich brothers, who made history in the intensely competitive world of professional wrestling in the early 1980s. Through tragedy and triumph, under the shadow of their domineering father and coach, the brothers seek larger-than-life immortality on the biggest stage in sports.",
+  "backdropPath": "/4l65BWqJBl7hBwdIwp2nQdwsOuw.jpg",
+  "posterPath": "/s2VLjcykJfwplJNGT5iEeCA0mRx.jpg",
+  "releaseDate": "2023-12-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "31cc6fd9-ad71-48b0-a0fd-079339b8aab3",
+      "title": "Vaskarom",
+      "subtitle": null,
+      "timestampString": "01:48:01",
+      "timestampInSeconds": 6481,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #276",
+        "youtubeId": "ozdxgj2AwCk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ozdxgj2AwCk/hqdefault.jpg",
+        "durationInMinutes": 248,
+        "releaseDate": 1713292727000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

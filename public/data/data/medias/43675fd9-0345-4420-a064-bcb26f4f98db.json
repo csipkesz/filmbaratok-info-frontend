@@ -1,0 +1,45 @@
+{
+  "id": "43675fd9-0345-4420-a064-bcb26f4f98db",
+  "title": "Wallace és Gromit: A szárnyas bosszúja",
+  "originalTitle": "Wallace & Gromit: Vengeance Most Fowl",
+  "overview": "Gromit’s concern that Wallace is becoming too dependent on his inventions proves justified, when Wallace invents a “smart” gnome that seems to develop a mind of its own. When it emerges that a vengeful figure from the past might be masterminding things, it falls to Gromit to battle sinister forces and save his master… or Wallace may never be able to invent again!",
+  "backdropPath": "/XNVdWNgiAHu8y4BsJv5ndUHXxN.jpg",
+  "posterPath": "/jUWFSBxTOiCinPdTOh3IDUXVemZ.jpg",
+  "releaseDate": "2024-12-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f6614b93-b302-46ec-8717-9ddffe917ff4",
+      "title": "Wallace és Gromit: A szárnyas bosszúja",
+      "subtitle": null,
+      "timestampString": "01:57:20",
+      "timestampInSeconds": 7040,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #294",
+        "youtubeId": "MjMjFJlwupc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/MjMjFJlwupc/hqdefault.jpg",
+        "durationInMinutes": 207,
+        "releaseDate": 1737058478000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

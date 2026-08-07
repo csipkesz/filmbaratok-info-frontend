@@ -1,0 +1,45 @@
+{
+  "id": "dbf0ec66-8d30-408f-ab64-57b065f843d7",
+  "title": "Préda",
+  "originalTitle": "Quarry",
+  "overview": "Mac Conway megjárta a poklot, a fiatalember tengerészgyalogosként harcolt a vietnami háborúban 1972-ben. Miután visszatér a hazájába, a Tennessee állambeli szülővárosába, Memphisbe, azon találja magát, hogy minden megváltozott körülötte. A közösség eltaszította magától, még azok is, akik szerették, messze elkerülik. Miközben megpróbálja feldolgozni a dzsungelháborúban átélt, megtapasztalt szörnyűségeket, gyilkosság és korrupció ördögi hálójába kerül, ami átszövi az egész államot.",
+  "backdropPath": "/iqWy5vtos77hgs7poBjb6GMKM0v.jpg",
+  "posterPath": "/xwMe48lnOx9qJ3bYky4pY91ygn5.jpg",
+  "releaseDate": "2016-09-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "211d53de-54d3-4aa6-9882-bb9aad9f0692",
+      "title": "Préda",
+      "subtitle": null,
+      "timestampString": "01:36:55",
+      "timestampInSeconds": 5815,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #237",
+        "youtubeId": "c2QWiknBzts",
+        "thumbnailUrl": "https://i.ytimg.com/vi/c2QWiknBzts/hqdefault.jpg",
+        "durationInMinutes": 246,
+        "releaseDate": 1660371499000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

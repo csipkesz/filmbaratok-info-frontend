@@ -1,0 +1,45 @@
+{
+  "id": "d5fac716-9d85-4473-8088-4b389738ebdb",
+  "title": "Az univerzum védelmezői",
+  "originalTitle": "Masters of the Universe",
+  "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+  "backdropPath": "/yQIdU11DYQQp0neGtGtGxbGfRer.jpg",
+  "posterPath": "/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
+  "releaseDate": "2026-06-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "564a1f11-6a7c-4127-990b-31f174da74d7",
+      "title": "Az univerzum védelmezői",
+      "subtitle": null,
+      "timestampString": "02:59:00",
+      "timestampInSeconds": 10740,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #328",
+        "youtubeId": "f89B62DScOs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/f89B62DScOs/hqdefault.jpg",
+        "durationInMinutes": 253,
+        "releaseDate": 1781722805000,
+        "participants": [
+          {
+            "id": "18bb710d-2755-4eaa-875b-48c695315171",
+            "name": "Márk"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

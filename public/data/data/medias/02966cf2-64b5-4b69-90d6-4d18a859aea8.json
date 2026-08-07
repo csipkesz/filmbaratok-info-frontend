@@ -1,0 +1,45 @@
+{
+  "id": "02966cf2-64b5-4b69-90d6-4d18a859aea8",
+  "title": "Ami sok, az sokk",
+  "originalTitle": "The 'Burbs",
+  "overview": "When secretive new neighbors move in next door, suburbanite Ray Peterson and his friends let their paranoia get the best of them as they start to suspect the newcomers of evildoings and commence an investigation. But it's hardly how Ray, who much prefers drinking beer, reading his newspaper and watching a ball game on the tube expected to spend his vacation.",
+  "backdropPath": "/pyeknyOKRLBd4ROOeYL6kV103ov.jpg",
+  "posterPath": "/jwYKzJS0C3A711hmg1G4ptI0InF.jpg",
+  "releaseDate": "1989-02-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "962e4cd1-de27-4263-85d2-3209fd8aa66a",
+      "title": "Ami sok, az sokk",
+      "subtitle": null,
+      "timestampString": "03:28:02",
+      "timestampInSeconds": 12482,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #192",
+        "youtubeId": "U-r1xMhFqug",
+        "thumbnailUrl": "https://i.ytimg.com/vi/U-r1xMhFqug/hqdefault.jpg",
+        "durationInMinutes": 257,
+        "releaseDate": 1593098527000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

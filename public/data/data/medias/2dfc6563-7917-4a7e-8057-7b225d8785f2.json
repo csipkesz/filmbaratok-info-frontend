@@ -1,0 +1,45 @@
+{
+  "id": "2dfc6563-7917-4a7e-8057-7b225d8785f2",
+  "title": "The green knight",
+  "originalTitle": "The Green Knight",
+  "overview": "An epic fantasy adventure based on the timeless Arthurian legend, The Green Knight tells the story of Sir Gawain, King Arthur's reckless and headstrong nephew, who embarks on a daring quest to confront the eponymous Green Knight, a gigantic emerald-skinned stranger and tester of men.",
+  "backdropPath": "/kIQc0kkqIYTo65x5XjlKgqdDQ6a.jpg",
+  "posterPath": "/if4hw3Ou5Sav9Em7WWHj66mnywp.jpg",
+  "releaseDate": "2021-07-29T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "37c679a9-0f49-4ccb-81d3-11fb9b858aee",
+      "title": "The green knight",
+      "subtitle": null,
+      "timestampString": "01:37:47",
+      "timestampInSeconds": 5867,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #218",
+        "youtubeId": "c2D577gQ6vU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/c2D577gQ6vU/hqdefault.jpg",
+        "durationInMinutes": 196,
+        "releaseDate": 1631901622000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

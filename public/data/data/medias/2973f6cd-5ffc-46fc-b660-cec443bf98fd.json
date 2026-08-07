@@ -1,0 +1,45 @@
+{
+  "id": "2973f6cd-5ffc-46fc-b660-cec443bf98fd",
+  "title": "The Way Back",
+  "originalTitle": "The Way Back",
+  "overview": "A small band of multicultural convicts stages a daring escape from a WWII-era Siberian gulag, and embarks on a treacherous journey across five countries in a desperate race for freedom and survival.",
+  "backdropPath": "/jcQfgcq1j7Vit4wQ54niXiLfvE8.jpg",
+  "posterPath": "/xQ6hxfpD5XQGJz0ekVle5zegam7.jpg",
+  "releaseDate": "2010-11-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fbe3d0df-dd4f-4255-bd61-1b4df01251bb",
+      "title": "The Way Back",
+      "subtitle": null,
+      "timestampString": "03:22:06",
+      "timestampInSeconds": 12126,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #77",
+        "youtubeId": "GxURCHDmpLM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GxURCHDmpLM/hqdefault.jpg",
+        "durationInMinutes": 246,
+        "releaseDate": 1437150395000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "96c3d55b-413e-44db-be4a-56bd71767a65",
+  "title": "Oppenheimer",
+  "originalTitle": "Oppenheimer",
+  "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+  "backdropPath": "/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg",
+  "posterPath": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+  "releaseDate": "2023-07-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1a138ee7-eb06-43a6-8293-0728593eae04",
+      "title": "Oppenheimer",
+      "subtitle": null,
+      "timestampString": "01:47:30",
+      "timestampInSeconds": 6450,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #259",
+        "youtubeId": "pSiJphe8S5U",
+        "thumbnailUrl": "https://i.ytimg.com/vi/pSiJphe8S5U/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1690581661000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "df3a34ef-9aba-4da2-81e1-677d7ba3487d",
+            "name": "Anna"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

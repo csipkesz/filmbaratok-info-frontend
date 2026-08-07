@@ -1,0 +1,45 @@
+{
+  "id": "eefb49d7-b4bd-4a01-8a4f-fdd1a40e7ed0",
+  "title": "Zootropolis 2",
+  "originalTitle": "Zootopia 2",
+  "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
+  "backdropPath": "/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
+  "posterPath": "/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+  "releaseDate": "2025-11-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "300c6781-9bcf-434e-88a2-726f12c9678c",
+      "title": "Zootropolis 2",
+      "subtitle": null,
+      "timestampString": "00:29:55",
+      "timestampInSeconds": 1795,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #316",
+        "youtubeId": "tj6Fv2PRYFw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tj6Fv2PRYFw/hqdefault.jpg",
+        "durationInMinutes": 318,
+        "releaseDate": 1765639323000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

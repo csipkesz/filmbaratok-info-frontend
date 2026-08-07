@@ -1,0 +1,37 @@
+{
+  "id": "3a9e00ae-4b05-48c4-94d0-b9d5c97f425b",
+  "title": "Bright",
+  "originalTitle": "Bright",
+  "overview": "In an alternate present-day where magical creatures live among us, two L.A. cops become embroiled in a prophesied turf battle.",
+  "backdropPath": "/hu4psJoKxDYezvvS4GlLF531fom.jpg",
+  "posterPath": "/whkT53Sv2vKAUiknQ13pqcWaPXB.jpg",
+  "releaseDate": "2017-12-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e2f886b8-6552-45db-a585-ba8a2751f26e",
+      "title": "Bright",
+      "subtitle": null,
+      "timestampString": "02:09:55",
+      "timestampInSeconds": 7795,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #136",
+        "youtubeId": "4b51e0H7UII",
+        "thumbnailUrl": "https://i.ytimg.com/vi/4b51e0H7UII/hqdefault.jpg",
+        "durationInMinutes": 187,
+        "releaseDate": 1516893789000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

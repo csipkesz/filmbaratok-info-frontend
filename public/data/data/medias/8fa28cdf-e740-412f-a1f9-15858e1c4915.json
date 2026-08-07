@@ -1,0 +1,45 @@
+{
+  "id": "8fa28cdf-e740-412f-a1f9-15858e1c4915",
+  "title": "Üres lovak",
+  "originalTitle": "Üres lovak",
+  "overview": "If this is heaven, bring on the afterlife! The spirits of legendary Hungarian filmmakers Michael Curtiz and Gábor Bódy meet in a metaphysical screening room, while on the screen footage plays of classic twentieth-century films.",
+  "backdropPath": null,
+  "posterPath": "/ddYsXNgAohtvHiEYYZcrRUOuDl3.jpg",
+  "releaseDate": "2019-03-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ff89d466-e3a4-4ed7-bd2e-38ac3b2519a4",
+      "title": "Üres lovak",
+      "subtitle": null,
+      "timestampString": "03:09:00",
+      "timestampInSeconds": 11340,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #245",
+        "youtubeId": "thnBmMbVpOo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/thnBmMbVpOo/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1671033623000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

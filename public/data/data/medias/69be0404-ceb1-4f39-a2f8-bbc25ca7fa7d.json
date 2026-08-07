@@ -1,0 +1,45 @@
+{
+  "id": "69be0404-ceb1-4f39-a2f8-bbc25ca7fa7d",
+  "title": "Metropolis",
+  "originalTitle": "Metropolis",
+  "overview": "In a futuristic city sharply divided between the rich and the poor, the son of the city's mastermind meets a prophet who predicts the coming of a savior to mediate their differences.",
+  "backdropPath": "/eeMoFKxjjiCi6iep2GEZtSAMYIr.jpg",
+  "posterPath": "/kr9wXRN23zLuWJIelahas1mtnYj.jpg",
+  "releaseDate": "1927-01-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "50f2b02f-9cd2-443f-a8ec-91ef0b3bb070",
+      "title": "Metropolis",
+      "subtitle": null,
+      "timestampString": "03:34:20",
+      "timestampInSeconds": 12860,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #207",
+        "youtubeId": "nRj4p0apAgo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nRj4p0apAgo/hqdefault.jpg",
+        "durationInMinutes": 247,
+        "releaseDate": 1614949852000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

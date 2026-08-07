@@ -1,0 +1,45 @@
+{
+  "id": "6b9f53f6-7830-4576-9185-f717f71d7c8c",
+  "title": "A majom",
+  "originalTitle": "The Monkey",
+  "overview": "When twin brothers find a mysterious wind-up monkey, a series of outrageous deaths tear their family apart. Twenty-five years later, the monkey begins a new killing spree forcing the estranged brothers to confront the cursed toy.",
+  "backdropPath": "/cjZ7No0DX2L3ielLSoUOMYPw7C.jpg",
+  "posterPath": "/aGDekyIb0yfmnuLZciCozRPk2TE.jpg",
+  "releaseDate": "2025-02-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "09da00bf-6ea4-4dc1-9457-204ca0fa9d0f",
+      "title": "A majom",
+      "subtitle": null,
+      "timestampString": "00:49:32",
+      "timestampInSeconds": 2972,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #298",
+        "youtubeId": "3I1VL7x6j0A",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3I1VL7x6j0A/hqdefault.jpg",
+        "durationInMinutes": 195,
+        "releaseDate": 1742031565000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

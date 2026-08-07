@@ -1,0 +1,41 @@
+{
+  "id": "9b700524-52ca-4bfc-8be4-bba7d3ec02dd",
+  "title": "Az elnémultak",
+  "originalTitle": "The Quiet Ones",
+  "overview": "A professor and his students perform a dangerous experiment that causes a young woman to lose her sanity.",
+  "backdropPath": "/fme0BJIU46w1aGfOYXcUTDnLTQF.jpg",
+  "posterPath": "/wLULlJrFzhWhJhmjgBTUw0OYv3P.jpg",
+  "releaseDate": "2014-04-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e43f7990-050e-472a-bda6-8585e03bb836",
+      "title": "Az elnémultak",
+      "subtitle": null,
+      "timestampString": "01:34:08",
+      "timestampInSeconds": 5648,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #50",
+        "youtubeId": "3fU-zjKUKtc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3fU-zjKUKtc/hqdefault.jpg",
+        "durationInMinutes": 195,
+        "releaseDate": 1399567403000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

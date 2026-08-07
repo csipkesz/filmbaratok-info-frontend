@@ -1,0 +1,45 @@
+{
+  "id": "3c031737-6819-4541-b1fe-9ecaba7e6540",
+  "title": "X-Men: Az eljövendõ múlt napjai",
+  "originalTitle": "X-Men: Days of Future Past",
+  "overview": "The ultimate X-Men ensemble fights a war for the survival of the species across two time periods as they join forces with their younger selves in an epic battle that must change the past – to save our future.",
+  "backdropPath": "/3czpqXzFy5UcNuD1AubecRLWkwD.jpg",
+  "posterPath": "/tYfijzolzgoMOtegh1Y7j2Enorg.jpg",
+  "releaseDate": "2014-05-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3896d2cb-c840-4bef-882d-882068385de2",
+      "title": "X-Men: Az eljövendõ múlt napjai",
+      "subtitle": null,
+      "timestampString": "01:30:00",
+      "timestampInSeconds": 5400,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #51",
+        "youtubeId": "E9iOfzIEJFU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E9iOfzIEJFU/hqdefault.jpg",
+        "durationInMinutes": 176,
+        "releaseDate": 1401305269000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

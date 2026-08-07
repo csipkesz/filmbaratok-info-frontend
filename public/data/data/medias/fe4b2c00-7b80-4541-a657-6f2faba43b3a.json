@@ -1,0 +1,41 @@
+{
+  "id": "fe4b2c00-7b80-4541-a657-6f2faba43b3a",
+  "title": "Shelby Oaks",
+  "originalTitle": "Shelby Oaks",
+  "overview": "A woman's obsessive search for her missing sister leads her into a terrifying mystery at the hands of an unknown evil.",
+  "backdropPath": "/jOuu4mEBOuJVb6CkkmRDpjnrZed.jpg",
+  "posterPath": "/i3omY4P6QUzFQlEeclWY92RuXCH.jpg",
+  "releaseDate": "2025-10-02T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ac53510c-4dab-4c9c-95fc-9422f400eb00",
+      "title": "Shelby Oaks",
+      "subtitle": null,
+      "timestampString": "01:08:40",
+      "timestampInSeconds": 4120,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #314",
+        "youtubeId": "tV5E0wGOsV8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tV5E0wGOsV8/hqdefault.jpg",
+        "durationInMinutes": 217,
+        "releaseDate": 1763147106000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

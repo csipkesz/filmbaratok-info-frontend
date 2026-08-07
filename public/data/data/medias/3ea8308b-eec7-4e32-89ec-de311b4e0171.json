@@ -1,0 +1,45 @@
+{
+  "id": "3ea8308b-eec7-4e32-89ec-de311b4e0171",
+  "title": "Only the brave",
+  "originalTitle": "Only the Brave",
+  "overview": "Members of the Granite Mountain Hotshots battle deadly wildfires to save an Arizona town.",
+  "backdropPath": "/zaX6d5GCtb2CmOH9jrHBl58xxBY.jpg",
+  "posterPath": "/db5IkOJu9UHktrKroNktw1Z8ARY.jpg",
+  "releaseDate": "2017-09-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ebe8e688-6e33-4e6b-9e3e-93ddc3fea79f",
+      "title": "Only the brave",
+      "subtitle": null,
+      "timestampString": "01:45:33",
+      "timestampInSeconds": 6333,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #141",
+        "youtubeId": "gWd3V1HCpWA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gWd3V1HCpWA/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1522558409000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

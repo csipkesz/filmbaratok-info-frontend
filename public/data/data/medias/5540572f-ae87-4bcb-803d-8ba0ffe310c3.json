@@ -1,0 +1,45 @@
+{
+  "id": "5540572f-ae87-4bcb-803d-8ba0ffe310c3",
+  "title": "Anna",
+  "originalTitle": "Anna",
+  "overview": "Beneath Anna Poliatova's striking beauty lies a secret that will unleash her indelible strength and skill to become one of the world's most feared government assassins.",
+  "backdropPath": "/xavGKawUyXPWAa6JTUkFzaRXMPF.jpg",
+  "posterPath": "/2U0oAVAE0lDRhNmJPPYhDW9kQ8t.jpg",
+  "releaseDate": "2019-06-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2b79d5bd-6351-45e5-993f-af3681da540b",
+      "title": "Anna",
+      "subtitle": null,
+      "timestampString": "01:15:25",
+      "timestampInSeconds": 4525,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #172",
+        "youtubeId": "ahOskajDN8o",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ahOskajDN8o/hqdefault.jpg",
+        "durationInMinutes": 250,
+        "releaseDate": 1564145413000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

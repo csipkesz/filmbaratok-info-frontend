@@ -1,0 +1,45 @@
+{
+  "id": "7cd9416e-a486-4fde-ae8a-8262d8d0490c",
+  "title": "Dumb és Dumber Kettyó",
+  "originalTitle": "Dumb and Dumber To",
+  "overview": "20 years since their first adventure, Lloyd and Harry go on a road trip to find Harry's newly discovered daughter, who was given up for adoption.",
+  "backdropPath": "/rYaADjAB6trEToo452FfVMoAdgl.jpg",
+  "posterPath": "/cvEi0xV7TUkabJGuzulhvbMjrHi.jpg",
+  "releaseDate": "2014-11-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3fde8d6e-51bf-4403-8970-009c93b047b9",
+      "title": "Dumb és Dumber Kettyó",
+      "subtitle": null,
+      "timestampString": "00:44:50",
+      "timestampInSeconds": 2690,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #63",
+        "youtubeId": "PgKECs1kHoY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/PgKECs1kHoY/hqdefault.jpg",
+        "durationInMinutes": 195,
+        "releaseDate": 1418847403000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

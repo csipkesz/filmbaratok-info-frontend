@@ -1,0 +1,45 @@
+{
+  "id": "214903fa-91cf-4fff-8066-adc86a94040b",
+  "title": "Öt éjjel Freddy pizzázójában",
+  "originalTitle": "Five Nights at Freddy's",
+  "overview": "Recently fired and desperate for work, a troubled young man named Mike agrees to take a position as a night security guard at an abandoned theme restaurant: Freddy Fazbear's Pizzeria. But he soon discovers that nothing at Freddy's is what it seems.",
+  "backdropPath": "/7NRGAtu8E4343NSKwhkgmVRDINw.jpg",
+  "posterPath": "/7BpNtNfxuocYEVREzVMO75hso1l.jpg",
+  "releaseDate": "2023-10-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "055e4f9e-b642-44c2-927a-369b4788c9b4",
+      "title": "Öt éjjel Freddy pizzázójában",
+      "subtitle": null,
+      "timestampString": "00:48:55",
+      "timestampInSeconds": 2935,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #266",
+        "youtubeId": "N4U228aSkd8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/N4U228aSkd8/hqdefault.jpg",
+        "durationInMinutes": 221,
+        "releaseDate": 1700081301000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

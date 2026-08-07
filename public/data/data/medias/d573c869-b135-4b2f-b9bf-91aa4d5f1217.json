@@ -1,0 +1,41 @@
+{
+  "id": "d573c869-b135-4b2f-b9bf-91aa4d5f1217",
+  "title": "Maestro",
+  "originalTitle": "Maestro",
+  "overview": "Egy zenész egy festői szépségű szigeten készül fesztivált rendezni, ahol nem várt románcba bonyolódik, ráadásul mások gondjainak sűrűjében találja magát.",
+  "backdropPath": "/lMIIAqdNUOiyIDlqs8p9H3SHj0G.jpg",
+  "posterPath": "/6lacPlstK6mcdu3tYAj5GXmJJZR.jpg",
+  "releaseDate": "2022-10-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9afe4cb3-447a-4190-b675-35f12229e695",
+      "title": "Maestro",
+      "subtitle": null,
+      "timestampString": "01:05:30",
+      "timestampInSeconds": 3930,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #270",
+        "youtubeId": "Hk6gv0cu8TY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Hk6gv0cu8TY/hqdefault.jpg",
+        "durationInMinutes": 222,
+        "releaseDate": 1705227394000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

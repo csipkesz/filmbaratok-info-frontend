@@ -1,0 +1,49 @@
+{
+  "id": "2660547a-5ffe-4840-802e-88aa6ac007f3",
+  "title": "Boogie Nights",
+  "originalTitle": "Boogie Nights",
+  "overview": "In 1977, an idealistic porn producer and his promising protege try to catch up with the end of an era before their never-ending party collides with cold, hard reality.",
+  "backdropPath": "/ArpTzQZHWh4UVsgUvV6S7WjTq1n.jpg",
+  "posterPath": "/wnE24UPCPQsQnbBOu4zVE2qaDNm.jpg",
+  "releaseDate": "1997-10-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a395af0d-03dd-4ca2-a499-6cca3a6918cb",
+      "title": "Boogie Nights",
+      "subtitle": null,
+      "timestampString": "03:09:00",
+      "timestampInSeconds": 11340,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #236",
+        "youtubeId": "amde_-Gdpc4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/amde_-Gdpc4/hqdefault.jpg",
+        "durationInMinutes": 262,
+        "releaseDate": 1658250003000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

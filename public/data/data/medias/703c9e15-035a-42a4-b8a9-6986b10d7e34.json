@@ -1,0 +1,41 @@
+{
+  "id": "703c9e15-035a-42a4-b8a9-6986b10d7e34",
+  "title": "Nyelés",
+  "originalTitle": "Swallow",
+  "overview": "Hunter, a newly pregnant housewife, finds herself increasingly compelled to consume dangerous objects. As her husband and his family tighten their control over her life, she must confront the dark secret behind her new obsession.",
+  "backdropPath": "/cJNsnbaQnR3Be86gXbwm1oFmH5V.jpg",
+  "posterPath": "/40Zrwud1EVxNvcjQkotZo7jmr4L.jpg",
+  "releaseDate": "2020-01-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "edcc1fd1-88fd-4820-858c-a3e4a3bc3300",
+      "title": "Nyelés",
+      "subtitle": null,
+      "timestampString": "02:05:12",
+      "timestampInSeconds": 7512,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #190",
+        "youtubeId": "w7oFnCSc3u4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/w7oFnCSc3u4/hqdefault.jpg",
+        "durationInMinutes": 188,
+        "releaseDate": 1590603790000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

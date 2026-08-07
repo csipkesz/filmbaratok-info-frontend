@@ -1,0 +1,45 @@
+{
+  "id": "8a55b1a3-9dc3-4d73-9b6d-70a446a1135b",
+  "title": "Megaagy",
+  "originalTitle": "Megamind",
+  "overview": "After Megamind, a highly intelligent alien supervillain, defeats his long-time nemesis Metro Man, Megamind creates a new hero to fight, but must act to save the city when his \"creation\" becomes an even worse villain than he was.",
+  "backdropPath": "/irpJXGiVr539uuspcQcNdkhS2lq.jpg",
+  "posterPath": "/uZ9ytt3sPTx62XTfN56ILSuYWRe.jpg",
+  "releaseDate": "2010-10-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b4e4f102-fc96-4c04-b044-33041d0f9e9c",
+      "title": "Megaagy",
+      "subtitle": null,
+      "timestampString": "03:44:10",
+      "timestampInSeconds": 13450,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #276",
+        "youtubeId": "ozdxgj2AwCk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ozdxgj2AwCk/hqdefault.jpg",
+        "durationInMinutes": 248,
+        "releaseDate": 1713292727000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

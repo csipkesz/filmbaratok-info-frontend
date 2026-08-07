@@ -1,0 +1,41 @@
+{
+  "id": "7395fc37-9933-4f31-82d2-e9fd1fa1017b",
+  "title": "Kiéhezettek",
+  "originalTitle": "The Girl with All the Gifts",
+  "overview": "In the future, a strange fungus has changed nearly everyone into thoughtless, flesh-eating monsters. When a scientist and a teacher find a girl who seems to be immune to the fungus, they all begin a journey to save humanity.",
+  "backdropPath": "/rrAMFTuTFHYI6INtyPnOYyoGTO2.jpg",
+  "posterPath": "/vdCD8z55a4RNmHQDPIpuMFqoY2B.jpg",
+  "releaseDate": "2016-09-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "489f4536-5ee1-4ff6-b0b9-f21aebe41472",
+      "title": "Kiéhezettek",
+      "subtitle": null,
+      "timestampString": "01:00:35",
+      "timestampInSeconds": 3635,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #108",
+        "youtubeId": "zNzDplhnvlg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/zNzDplhnvlg/hqdefault.jpg",
+        "durationInMinutes": 175,
+        "releaseDate": 1476476267000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "1de6c7dc-f4c1-4d0e-9f13-4b3f1ce1aa18",
+  "title": "Kim Dotcom: Caught in the Web",
+  "originalTitle": "Kim Dotcom: Caught in the Web",
+  "overview": "The larger-than-life story of Kim Dotcom, the 'most wanted man online', is extraordinary enough, but the battle between Dotcom and the US Government and entertainment industry—being fought in New Zealand—is one that goes to the heart of ownership, privacy and piracy in the digital age.",
+  "backdropPath": "/ht9MCD7zFQ1Wav5zKdZmZ7wp0GR.jpg",
+  "posterPath": "/lXEUqP9TmWvbnq8VcbJY7qMv7oD.jpg",
+  "releaseDate": "2017-03-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "238b729d-aa73-4ba7-ab21-0b7bdd93672d",
+      "title": "Kim Dotcom: Caught in the Web",
+      "subtitle": null,
+      "timestampString": "03:35:10",
+      "timestampInSeconds": 12910,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #128",
+        "youtubeId": "YoKRZAg1KR0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/YoKRZAg1KR0/hqdefault.jpg",
+        "durationInMinutes": 252,
+        "releaseDate": 1505410953000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

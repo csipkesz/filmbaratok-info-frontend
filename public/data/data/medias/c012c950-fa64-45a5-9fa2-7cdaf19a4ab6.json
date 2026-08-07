@@ -1,0 +1,45 @@
+{
+  "id": "c012c950-fa64-45a5-9fa2-7cdaf19a4ab6",
+  "title": "Fehér éjszaka [2011]",
+  "originalTitle": "Nuit blanche",
+  "overview": "Vincent, a police officer, and his partner Manuel steal a large amount of cocaine from José Marciano, a ruthless crime lord who is quick to seek revenge, endangering Vincent's life, career and family.",
+  "backdropPath": "/xOdeUl9RO1VmetM7uRrudcqSOWv.jpg",
+  "posterPath": "/tuqivhp6bF6hEqrBtTBi1QYX9dP.jpg",
+  "releaseDate": "2011-11-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "69aef94a-c60c-4b7a-ad40-bd1017700453",
+      "title": "Fehér éjszaka [2011]",
+      "subtitle": null,
+      "timestampString": "03:42:40",
+      "timestampInSeconds": 13360,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #322",
+        "youtubeId": "f696VdP9-xg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/f696VdP9-xg/hqdefault.jpg",
+        "durationInMinutes": 273,
+        "releaseDate": 1773775641000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

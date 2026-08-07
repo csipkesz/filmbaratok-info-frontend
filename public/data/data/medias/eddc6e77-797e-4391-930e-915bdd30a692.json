@@ -1,0 +1,41 @@
+{
+  "id": "eddc6e77-797e-4391-930e-915bdd30a692",
+  "title": "Kincsem",
+  "originalTitle": "Kincsem",
+  "overview": "The new owner of a brilliant race horse finds love while carrying out his revenge on the man who murdered his father.",
+  "backdropPath": "/dBDdg3o8hqMcAJ9l9t3JIuONRxw.jpg",
+  "posterPath": "/cqNp7KbfoKENdLOEJQggvGGUepJ.jpg",
+  "releaseDate": "2017-03-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "90550307-7e15-4bf5-9044-58bb641bef59",
+      "title": "Kincsem",
+      "subtitle": null,
+      "timestampString": "00:32:35",
+      "timestampInSeconds": 1955,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #119",
+        "youtubeId": "y4ke6vT4qms",
+        "thumbnailUrl": "https://i.ytimg.com/vi/y4ke6vT4qms/hqdefault.jpg",
+        "durationInMinutes": 111,
+        "releaseDate": 1491032632000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

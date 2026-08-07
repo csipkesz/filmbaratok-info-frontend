@@ -1,0 +1,45 @@
+{
+  "id": "894d34b5-d08d-4515-b816-75faaffacc26",
+  "title": "Kedvencek temetője",
+  "originalTitle": "Pet Sematary",
+  "overview": "Dr. Louis Creed and his wife, Rachel, move from Boston to Ludlow, in rural Maine, with their two young children. Hidden in the woods near the new family home, Ellie, their eldest daughter, discovers a mysterious cemetery where the pets of community members are buried.",
+  "backdropPath": "/8iZjnNSIH4teZERl0VjUeHHVrec.jpg",
+  "posterPath": "/7SPhr7Qj39vbnfF9O2qHRYaKHAL.jpg",
+  "releaseDate": "2019-04-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f8554207-7866-42f8-b76a-502367b525be",
+      "title": "Kedvencek temetője",
+      "subtitle": null,
+      "timestampString": "01:29:44",
+      "timestampInSeconds": 5384,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #166",
+        "youtubeId": "NaqCtn_eZNI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/NaqCtn_eZNI/hqdefault.jpg",
+        "durationInMinutes": 241,
+        "releaseDate": 1555772517000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

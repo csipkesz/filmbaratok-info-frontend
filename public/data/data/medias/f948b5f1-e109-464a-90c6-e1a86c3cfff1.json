@@ -1,0 +1,45 @@
+{
+  "id": "f948b5f1-e109-464a-90c6-e1a86c3cfff1",
+  "title": "Expedíció / Annihilation",
+  "originalTitle": "Annihilation",
+  "overview": "A biologist signs up for a dangerous, secret expedition into a mysterious zone where the laws of nature don't apply.",
+  "backdropPath": "/9trZvBr44UGedUOiGo3jgSUw13e.jpg",
+  "posterPath": "/4YRplSk6BhH6PRuE9gfyw9byUJ6.jpg",
+  "releaseDate": "2018-02-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7dfad2eb-5750-4200-8533-d2313a63086c",
+      "title": "Expedíció / Annihilation",
+      "subtitle": null,
+      "timestampString": "02:38:47",
+      "timestampInSeconds": 9527,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #141",
+        "youtubeId": "gWd3V1HCpWA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gWd3V1HCpWA/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1522558409000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

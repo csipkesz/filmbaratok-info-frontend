@@ -1,0 +1,41 @@
+{
+  "id": "975a5a27-bb3c-4845-9c9b-2a9924a01e77",
+  "title": "Valami követ",
+  "originalTitle": "It Follows",
+  "overview": "A young woman is followed by an unknown supernatural force after a sexual encounter.",
+  "backdropPath": "/ikaRI4yMxKOje5SmOlAhOBUnicL.jpg",
+  "posterPath": "/iwnQ1JH1wdWrGYkgWySptJ5284A.jpg",
+  "releaseDate": "2015-02-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3ff3ba23-f475-4b2c-a78b-b63dcf6ff9ce",
+      "title": "Valami követ (Nyomokban spoilert tartalmaz)",
+      "subtitle": null,
+      "timestampString": "00:53:27",
+      "timestampInSeconds": 3207,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #76",
+        "youtubeId": "wnZh6qcfn4E",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wnZh6qcfn4E/hqdefault.jpg",
+        "durationInMinutes": 128,
+        "releaseDate": 1435731107000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

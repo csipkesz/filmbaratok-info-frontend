@@ -1,0 +1,45 @@
+{
+  "id": "b61f9099-1f6f-4367-a342-1c92ec7b9120",
+  "title": "Rossz versek",
+  "originalTitle": "Rossz versek",
+  "overview": "33-years old Tamás Merthner is heartbroken, after his girlfriend Anna, who is on a scholarship in Paris, breaks up with him. While wallowing in self-pity, Tamás takes a trip down memory lane to figure out if love only exists when it's practically gone. As he's trying to pick up the pieces, he begins to realize what makes this current society so confused, which gives us a highly subjective view of Hungary's present.",
+  "backdropPath": "/br8v4aVxpVg1g9oP9ISTlXV23cT.jpg",
+  "posterPath": "/2F4ZJdpvY9ZKfWsWQIYBBa08t24.jpg",
+  "releaseDate": "2018-12-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f56cc25c-5566-4f6b-8651-7150b2fc5318",
+      "title": "Rossz versek",
+      "subtitle": null,
+      "timestampString": "02:16:00",
+      "timestampInSeconds": 8160,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #161",
+        "youtubeId": "c8SMgflP8R4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/c8SMgflP8R4/hqdefault.jpg",
+        "durationInMinutes": 262,
+        "releaseDate": 1548928591000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

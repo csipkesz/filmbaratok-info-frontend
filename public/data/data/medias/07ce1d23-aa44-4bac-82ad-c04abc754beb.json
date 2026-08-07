@@ -1,0 +1,45 @@
+{
+  "id": "07ce1d23-aa44-4bac-82ad-c04abc754beb",
+  "title": "Milli Vanilli : Az évszázad botránya",
+  "originalTitle": "Girl You Know It's True",
+  "overview": "The rise and fall of Milli Vanilli, a studio group assembled by German producer Frank Farian and fronted by nightclub dancers Robert Pilatus and Fabrice Morvan. After a string of worldwide hit singles, awards and performances, it was revealed that the duo never sang a note of their songs, leading to one of the biggest scandals in music history.",
+  "backdropPath": "/muG1Inh2Eawg8MoAElROpwHGtur.jpg",
+  "posterPath": "/yKYSHULhVfFzibLmWyJfUiwsFkR.jpg",
+  "releaseDate": "2023-12-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c258a781-2d07-4ca1-aeca-bde2605d78aa",
+      "title": "Milli Vanilli : Az évszázad botránya",
+      "subtitle": null,
+      "timestampString": "02:23:30",
+      "timestampInSeconds": 8610,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #279",
+        "youtubeId": "xiW0oPdZsx4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/xiW0oPdZsx4/hqdefault.jpg",
+        "durationInMinutes": 209,
+        "releaseDate": 1717092028000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

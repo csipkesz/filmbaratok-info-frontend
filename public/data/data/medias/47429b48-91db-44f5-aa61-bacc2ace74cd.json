@@ -1,0 +1,41 @@
+{
+  "id": "47429b48-91db-44f5-aa61-bacc2ace74cd",
+  "title": "Ami nem öl meg",
+  "originalTitle": "The Girl in the Spider's Web",
+  "overview": "After being enlisted to recover a dangerous computer program, hacker Lisbeth Salander and journalist Mikael Blomkvist find themselves caught in a web of spies, cybercriminals and corrupt government officials.",
+  "backdropPath": "/ejmwCnlgWXkpDLsrhsnB8Mn6dcu.jpg",
+  "posterPath": "/w4ibr8R702DCjwYniry1D1XwQXj.jpg",
+  "releaseDate": "2018-10-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "80c525db-d947-4098-a73f-d9873f643ac4",
+      "title": "Ami nem öl meg",
+      "subtitle": null,
+      "timestampString": "01:25:48",
+      "timestampInSeconds": 5148,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #155",
+        "youtubeId": "Htjp4x7Tcgg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Htjp4x7Tcgg/hqdefault.jpg",
+        "durationInMinutes": 165,
+        "releaseDate": 1542194035000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "df3a34ef-9aba-4da2-81e1-677d7ba3487d",
+            "name": "Anna"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "d7003032-9a8b-41bf-9012-4f6e051eb633",
+  "title": "Nevem: Thomas",
+  "originalTitle": "Il mio nome è Thomas",
+  "overview": "The story of a man who sets out on his motorcycle from Italy on a trip to the Spanish desert to find himself there. But the encounter with the young Maryam changes the plans of the adventure sustainable.",
+  "backdropPath": "/iO2tUBjXUsz5o4mPtfYgl9i3VJf.jpg",
+  "posterPath": "/vVNwARMJvMHc737pgXzyVFF3GPE.jpg",
+  "releaseDate": "2018-04-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "cc465731-7974-4ed2-bcc3-8a06ed66fb46",
+      "title": "Nevem: Thomas",
+      "subtitle": null,
+      "timestampString": "01:19:00",
+      "timestampInSeconds": 4740,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #152",
+        "youtubeId": "1ER_tqoHZVM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/1ER_tqoHZVM/hqdefault.jpg",
+        "durationInMinutes": 208,
+        "releaseDate": 1537972086000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "1f4645ef-422a-466e-9efd-6db348a9d6cb",
+  "title": "Mickey 17",
+  "originalTitle": "Mickey 17",
+  "overview": "Unlikely hero Mickey Barnes finds himself in the extraordinary circumstance of working for an employer who demands the ultimate commitment to the job… to die, for a living.",
+  "backdropPath": "/9PRKAdrDvAdCfg3EcApLTfzGsEt.jpg",
+  "posterPath": "/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg",
+  "releaseDate": "2025-02-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fdb567bb-6ad0-4ba8-9be6-47a9819d98ae",
+      "title": "Mickey 17",
+      "subtitle": null,
+      "timestampString": "01:10:30",
+      "timestampInSeconds": 4230,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #298",
+        "youtubeId": "3I1VL7x6j0A",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3I1VL7x6j0A/hqdefault.jpg",
+        "durationInMinutes": 195,
+        "releaseDate": 1742031565000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "34bdcf6a-6588-4f9a-9bbf-83f7bead3f55",
+  "title": "Elit játszma",
+  "originalTitle": "Molly's Game",
+  "overview": "Molly Bloom, a young skier and former Olympic hopeful becomes a successful entrepreneur (and a target of an FBI investigation) when she establishes a high-stakes, international poker game.",
+  "backdropPath": "/rHcBZ6ZKCe4FalWHyvBGsyMsh0k.jpg",
+  "posterPath": "/zrGQwKNmAz5awZI2V1k5M4eTTTN.jpg",
+  "releaseDate": "2017-12-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8aa89791-9467-457a-9a7e-0c51815fea19",
+      "title": "Elit játszma",
+      "subtitle": null,
+      "timestampString": "01:25:10",
+      "timestampInSeconds": 5110,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #136",
+        "youtubeId": "4b51e0H7UII",
+        "thumbnailUrl": "https://i.ytimg.com/vi/4b51e0H7UII/hqdefault.jpg",
+        "durationInMinutes": 187,
+        "releaseDate": 1516893789000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

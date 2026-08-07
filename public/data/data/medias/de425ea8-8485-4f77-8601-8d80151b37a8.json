@@ -1,0 +1,41 @@
+{
+  "id": "de425ea8-8485-4f77-8601-8d80151b37a8",
+  "title": "Apolló 13",
+  "originalTitle": "Apollo 13",
+  "overview": "The true story of technical troubles that scuttle the Apollo 13 lunar mission in 1970, risking the lives of astronaut Jim Lovell and his crew, with the failed journey turning into a thrilling saga of heroism. Drifting more than 200,000 miles from Earth, the astronauts work furiously with the ground crew to avert tragedy.",
+  "backdropPath": "/n0FDJI9c0uWiZwm8wgXVjaMBn96.jpg",
+  "posterPath": "/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg",
+  "releaseDate": "1995-06-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "85c404c9-cd3b-4029-9e66-41a355b7ce1c",
+      "title": "Apolló 13",
+      "subtitle": null,
+      "timestampString": "03:33:37",
+      "timestampInSeconds": 12817,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #216",
+        "youtubeId": "30tV_qEGOIE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/30tV_qEGOIE/hqdefault.jpg",
+        "durationInMinutes": 291,
+        "releaseDate": 1629219607000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

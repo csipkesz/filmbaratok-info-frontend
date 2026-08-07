@@ -1,0 +1,41 @@
+{
+  "id": "499ce324-43ef-4a60-8b12-65a178839dee",
+  "title": "Mélytengeri pokol",
+  "originalTitle": "Deepwater Horizon",
+  "overview": "A story set on the offshore drilling rig Deepwater Horizon, which exploded during April 2010 and created the worst oil spill in U.S. history.",
+  "backdropPath": "/fRT76SSQzAuZljogpsWyKphUxYX.jpg",
+  "posterPath": "/jgBIYCZACe3iaS9TL2XzVGkO5p5.jpg",
+  "releaseDate": "2016-09-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "bea5c812-0087-4003-a402-6205ebfa880e",
+      "title": "Mélytengeri pokol",
+      "subtitle": null,
+      "timestampString": "00:26:00",
+      "timestampInSeconds": 1560,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #108",
+        "youtubeId": "zNzDplhnvlg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/zNzDplhnvlg/hqdefault.jpg",
+        "durationInMinutes": 175,
+        "releaseDate": 1476476267000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

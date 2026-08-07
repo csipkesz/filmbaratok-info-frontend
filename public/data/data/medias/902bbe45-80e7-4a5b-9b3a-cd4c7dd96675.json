@@ -1,0 +1,45 @@
+{
+  "id": "902bbe45-80e7-4a5b-9b3a-cd4c7dd96675",
+  "title": "Gyilkos Halloween",
+  "originalTitle": "Halloween Kills",
+  "overview": "Michael manages to free himself from Laurie Strode's trap to resume his ritual bloodbath. As she fights for her life from injuries from their last encounter, she inspires her daughter Karen, her granddaughter Allyson, and all of Haddonfield to rise up against the unstoppable monster.",
+  "backdropPath": "/fuuZFPc8x6gQ8mLGoBp9vrmcQMT.jpg",
+  "posterPath": "/ir9eyz1mtgsohjvo7UYtqUfFuES.jpg",
+  "releaseDate": "2021-10-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "bf93c37e-d6e3-4bf8-a48e-5237b535e7a5",
+      "title": "Gyilkos Halloween",
+      "subtitle": null,
+      "timestampString": "02:38:50",
+      "timestampInSeconds": 9530,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #221",
+        "youtubeId": "BjeQjRFvXcM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/BjeQjRFvXcM/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1635519858000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

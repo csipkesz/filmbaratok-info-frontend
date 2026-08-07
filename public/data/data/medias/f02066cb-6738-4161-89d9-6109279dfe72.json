@@ -1,0 +1,45 @@
+{
+  "id": "f02066cb-6738-4161-89d9-6109279dfe72",
+  "title": "A tenger dala",
+  "originalTitle": "Song of the Sea",
+  "overview": "The story of the last Seal Child’s journey home. After their mother’s disappearance, Ben and Saoirse are sent to live with Granny in the city. When they resolve to return to their home by the sea, their journey becomes a race against time as they are drawn into a world Ben knows only from his mother’s folktales. But this is no bedtime story; these fairy folk have been in our world far too long. It soon becomes clear to Ben that Saoirse is the key to their survival.",
+  "backdropPath": "/mVLZvSe1Aa8CFKx0cInTamVZJrW.jpg",
+  "posterPath": "/16LQC6zpqB0l74mVWb93a2oMFnX.jpg",
+  "releaseDate": "2014-06-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b3c515a0-fa25-431e-a62b-7329586bcf32",
+      "title": "A tenger dala",
+      "subtitle": null,
+      "timestampString": "02:14:38",
+      "timestampInSeconds": 8078,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #72",
+        "youtubeId": "Mkw8rsdw7bc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Mkw8rsdw7bc/hqdefault.jpg",
+        "durationInMinutes": 199,
+        "releaseDate": 1430242149000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

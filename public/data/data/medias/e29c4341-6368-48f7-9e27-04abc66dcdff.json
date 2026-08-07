@@ -1,0 +1,49 @@
+{
+  "id": "e29c4341-6368-48f7-9e27-04abc66dcdff",
+  "title": "Captain Fantastic",
+  "originalTitle": "Captain Fantastic",
+  "overview": "Deep in the forests of the Pacific Northwest, a father devoted to raising his six kids with a rigorous physical and intellectual education is forced to leave his paradise and enter the world, beginning a journey that challenges his idea of what it means to be a parent.",
+  "backdropPath": "/d84M69u6Q202dm6EvhVxbiqrK9f.jpg",
+  "posterPath": "/2sFME73GaD8UsUxPUKe60cPdLif.jpg",
+  "releaseDate": "2016-07-08T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "74e594c3-44e4-4469-b404-43999997cf67",
+      "title": "Captain Fantastic",
+      "subtitle": null,
+      "timestampString": "00:50:20",
+      "timestampInSeconds": 3020,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #117",
+        "youtubeId": "pgzo-WxFTbU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/pgzo-WxFTbU/hqdefault.jpg",
+        "durationInMinutes": 176,
+        "releaseDate": 1487953222000,
+        "participants": [
+          {
+            "id": "3da49de0-82ec-4704-a57a-3643fbf7ed43",
+            "name": "Szöllőskei Gábor"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

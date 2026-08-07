@@ -1,0 +1,45 @@
+{
+  "id": "3a1ca814-4070-4223-acb9-ed0cf8514977",
+  "title": "Szürke senkik",
+  "originalTitle": "Szürke senkik",
+  "overview": "During World War I, an Austrian-Hungarian-Romanian reconnaissance team embarks on a treacherous mission beyond enemy lines to destroy an Italian post.",
+  "backdropPath": "/mOvo3Cmp4sb7NftHjth2Nal35b0.jpg",
+  "posterPath": "/gSJayeiQIZAV3o68TlTS17FSaVd.jpg",
+  "releaseDate": "2016-12-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e58cf90e-3cef-4fdf-ab3f-fe9c7ab0fb24",
+      "title": "Szürke senkik",
+      "subtitle": null,
+      "timestampString": "01:13:44",
+      "timestampInSeconds": 4424,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #114",
+        "youtubeId": "-MXopm_I1eY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-MXopm_I1eY/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1484786554000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "e8023744-47d2-4146-b8b9-895eb3473504",
+  "title": "Űrkamionosok",
+  "originalTitle": "Space Truckers",
+  "overview": "John Canyon is one of the last independent space transport entrepreneurs. Rough times force him to carry suspicious cargo to Earth without questions being asked. During the flight the cargo turns out to be a multitude of unstoppable killer robots.",
+  "backdropPath": "/ArrbOtK8WcXueDNlz7HbkbAMHNb.jpg",
+  "posterPath": "/f0NNTJxBzAwC0wvqmBgD9pPiHnG.jpg",
+  "releaseDate": "1996-10-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "67f1ab1d-88e7-448b-8ede-799af9052f9c",
+      "title": "Űrkamionosok",
+      "subtitle": null,
+      "timestampString": "02:16:30",
+      "timestampInSeconds": 8190,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #282",
+        "youtubeId": "gcFN31mIkUo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gcFN31mIkUo/hqdefault.jpg",
+        "durationInMinutes": 188,
+        "releaseDate": 1720893631000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

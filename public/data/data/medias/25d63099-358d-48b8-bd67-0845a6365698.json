@@ -1,0 +1,45 @@
+{
+  "id": "25d63099-358d-48b8-bd67-0845a6365698",
+  "title": "Érdekvédelmi terület",
+  "originalTitle": "The Zone of Interest",
+  "overview": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
+  "backdropPath": "/pnTSOKcYnvdpQNQElAtJM1rWOxH.jpg",
+  "posterPath": "/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg",
+  "releaseDate": "2023-12-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b92a3151-d996-425d-88ec-13ef3aed3f81",
+      "title": "Érdekvédelmi terület",
+      "subtitle": null,
+      "timestampString": "00:30:20",
+      "timestampInSeconds": 1820,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #273",
+        "youtubeId": "ZOD86br7KhY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ZOD86br7KhY/hqdefault.jpg",
+        "durationInMinutes": 136,
+        "releaseDate": 1709069976000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

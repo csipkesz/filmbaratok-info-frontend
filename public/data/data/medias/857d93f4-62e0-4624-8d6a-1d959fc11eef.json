@@ -1,0 +1,45 @@
+{
+  "id": "857d93f4-62e0-4624-8d6a-1d959fc11eef",
+  "title": "Szárnyas fejvadász",
+  "originalTitle": "Blade Runner",
+  "overview": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
+  "backdropPath": "/hJ5R9d6QuH3tzr8L8neZZTuzNXm.jpg",
+  "posterPath": "/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
+  "releaseDate": "1982-06-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0d4b8a98-7050-4ab6-9180-91b2f0b3070a",
+      "title": "Szárnyas fejvadász",
+      "subtitle": null,
+      "timestampString": "02:10:18",
+      "timestampInSeconds": 7818,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #131",
+        "youtubeId": "QymLKg2wvV4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/QymLKg2wvV4/hqdefault.jpg",
+        "durationInMinutes": 230,
+        "releaseDate": 1509033085000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

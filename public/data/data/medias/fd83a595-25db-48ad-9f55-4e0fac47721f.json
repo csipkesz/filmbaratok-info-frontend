@@ -1,0 +1,45 @@
+{
+  "id": "fd83a595-25db-48ad-9f55-4e0fac47721f",
+  "title": "Az öldöklés istene",
+  "originalTitle": "Carnage",
+  "overview": "Two pairs of parents hold a cordial meeting after their sons are involved in a fight, though as their time together progresses, increasingly childish behavior throws the discussion into chaos.",
+  "backdropPath": "/mntBeW6TRgm7GkYJwRDy3oJnKtn.jpg",
+  "posterPath": "/3Imx53XV3T02ADlMxYazYXVNysZ.jpg",
+  "releaseDate": "2011-09-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "098b6c62-b52a-4025-82de-7930bc1706bd",
+      "title": "Az öldöklés istene",
+      "subtitle": null,
+      "timestampString": "02:12:53",
+      "timestampInSeconds": 7973,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #141",
+        "youtubeId": "gWd3V1HCpWA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gWd3V1HCpWA/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1522558409000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

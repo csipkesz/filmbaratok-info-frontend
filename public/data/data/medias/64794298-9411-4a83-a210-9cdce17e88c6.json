@@ -1,0 +1,45 @@
+{
+  "id": "64794298-9411-4a83-a210-9cdce17e88c6",
+  "title": "Koldus és a királylány",
+  "originalTitle": "La principessa e il povero",
+  "overview": "A fairy tale about a twin princess and a prince who where seperated after their birth.",
+  "backdropPath": "/n0hsrkF0H2j5wjxlJ2UXAxqSrsY.jpg",
+  "posterPath": "/p40LVLkfAl5rGNaZM6X7cBD90gd.jpg",
+  "releaseDate": "1997-12-02T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "474a2929-3ccf-42e5-a45b-8ff74a3bdab2",
+      "title": "Koldus és a királylány",
+      "subtitle": null,
+      "timestampString": "02:13:21",
+      "timestampInSeconds": 8001,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #198",
+        "youtubeId": "A61oXuDlUgE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/A61oXuDlUgE/hqdefault.jpg",
+        "durationInMinutes": 168,
+        "releaseDate": 1601560074000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

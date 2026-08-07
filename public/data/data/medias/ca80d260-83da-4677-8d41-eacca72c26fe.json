@@ -1,0 +1,41 @@
+{
+  "id": "ca80d260-83da-4677-8d41-eacca72c26fe",
+  "title": "Utóhatás",
+  "originalTitle": "The Fallout",
+  "overview": "In the wake of a school tragedy, Vada, Mia and Quinton form a unique and dynamic bond as they navigate the never linear, often confusing journey to heal in a world that feels forever changed.",
+  "backdropPath": "/2vDftymNaVXhRULlc2ZGHHDsdnD.jpg",
+  "posterPath": "/4ByHl9XRKR2iXbvF0ZilMRD1RcL.jpg",
+  "releaseDate": "2021-03-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4889783b-f9c5-4248-8625-6088aac0d6ae",
+      "title": "Utóhatás",
+      "subtitle": null,
+      "timestampString": "01:10:59",
+      "timestampInSeconds": 4259,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #123",
+        "youtubeId": "bURb6dAUghs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/bURb6dAUghs/hqdefault.jpg",
+        "durationInMinutes": 147,
+        "releaseDate": 1497253469000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "efec0a3c-d630-4446-b003-f752293c98f1",
+  "title": "A kedvenc",
+  "originalTitle": "The Favourite",
+  "overview": "England, early 18th century. The close relationship between Queen Anne and Sarah Churchill is threatened by the arrival of Sarah's cousin, Abigail Hill, resulting in a bitter rivalry between the two cousins to be the Queen's favourite.",
+  "backdropPath": "/iSskYDN193CJfTbSpFfscSwZ9Sx.jpg",
+  "posterPath": "/cwBq0onfmeilU5xgqNNjJAMPfpw.jpg",
+  "releaseDate": "2018-11-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c10ee5c3-8f94-415a-ab77-fcfcba100e6b",
+      "title": "A kedvenc",
+      "subtitle": null,
+      "timestampString": "01:25:10",
+      "timestampInSeconds": 5110,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #162",
+        "youtubeId": "Pm_3kToMJek",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Pm_3kToMJek/hqdefault.jpg",
+        "durationInMinutes": 231,
+        "releaseDate": 1550070901000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

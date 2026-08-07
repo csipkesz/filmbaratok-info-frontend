@@ -1,0 +1,41 @@
+{
+  "id": "668fb070-cc89-44f0-90fd-99df244fb633",
+  "title": "Polgárháború",
+  "originalTitle": "Civil War",
+  "overview": "In the near future, a group of war journalists attempt to survive while reporting the truth as the United States stands on the brink of civil war.",
+  "backdropPath": "/t2SXZ7KLriaLyf5QT8Iar6fSOGp.jpg",
+  "posterPath": "/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg",
+  "releaseDate": "2024-04-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f592680b-1960-4ae7-835a-460e806a77ca",
+      "title": "Polgárháború",
+      "subtitle": null,
+      "timestampString": "01:50:30",
+      "timestampInSeconds": 6630,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #277",
+        "youtubeId": "VVHLdlqq_xY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VVHLdlqq_xY/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1714501831000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "6a78a805-adde-4687-9355-34023a1b45d1",
+  "title": "Borg/McEnroe",
+  "originalTitle": "Borg vs McEnroe",
+  "overview": "The Swedish Björn Borg and the American John McEnroe, the best tennis players in the world, maintain a legendary duel during the 1980 Wimbledon tournament.",
+  "backdropPath": "/led6mPvEAMsF5fpJUqiUy07ZPty.jpg",
+  "posterPath": "/vIQqjcrSnyCqLpqwScnvFY1bpkL.jpg",
+  "releaseDate": "2017-09-08T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "cf0d43bd-5083-4230-86c8-1240319f09ba",
+      "title": "Borg/McEnroe",
+      "subtitle": null,
+      "timestampString": "02:03:47",
+      "timestampInSeconds": 7427,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #131",
+        "youtubeId": "QymLKg2wvV4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/QymLKg2wvV4/hqdefault.jpg",
+        "durationInMinutes": 230,
+        "releaseDate": 1509033085000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

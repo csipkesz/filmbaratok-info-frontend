@@ -1,0 +1,41 @@
+{
+  "id": "6c421f5d-f1f3-42e8-861d-433110b761c9",
+  "title": "Insidious – Gonosz lélek",
+  "originalTitle": "Insidious: Chapter 3",
+  "overview": "A twisted new tale of terror begins for a teenage girl and her family, and revealing more mysteries of the otherworldly realm, 'The Further'.",
+  "backdropPath": "/1fpwEe2GvNjAq2MN2xxdifNZLBT.jpg",
+  "posterPath": "/iDdGfdNvY1EX0uDdA4Ru77fwMfc.jpg",
+  "releaseDate": "2015-05-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "92284096-c444-40a7-9f11-3fbdfcf6473d",
+      "title": "Insidious – Gonosz lélek",
+      "subtitle": null,
+      "timestampString": "02:07:49",
+      "timestampInSeconds": 7669,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #75",
+        "youtubeId": "5hqAh129dAE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/5hqAh129dAE/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1434729270000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

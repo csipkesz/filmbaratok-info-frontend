@@ -1,0 +1,45 @@
+{
+  "id": "607f64a7-d5c3-4a4a-817d-fd09ab5834a9",
+  "title": "Tomb Raider",
+  "originalTitle": "Tomb Raider",
+  "overview": "Lara Croft, the fiercely independent daughter of a missing adventurer, must push herself beyond her limits when she finds herself on the island where her father disappeared.",
+  "backdropPath": "/ohijjhvNqAPKTURQr6VIF7xuAjY.jpg",
+  "posterPath": "/s4Qn5LF6OwK4rIifmthIDtbqDSs.jpg",
+  "releaseDate": "2018-03-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e126709f-4b2d-4303-a7fb-b6f90e48e472",
+      "title": "Tomb Raider",
+      "subtitle": null,
+      "timestampString": "00:22:40",
+      "timestampInSeconds": 1360,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #141",
+        "youtubeId": "gWd3V1HCpWA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gWd3V1HCpWA/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1522558409000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

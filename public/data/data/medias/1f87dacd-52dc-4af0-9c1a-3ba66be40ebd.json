@@ -1,0 +1,41 @@
+{
+  "id": "1f87dacd-52dc-4af0-9c1a-3ba66be40ebd",
+  "title": "Kong: Koponya-sziget",
+  "originalTitle": "Kong: Skull Island",
+  "overview": "Explore the mysterious and dangerous home of the king of the apes as a team of explorers ventures deep inside the treacherous, primordial island.",
+  "backdropPath": "/nVodCGKYLpqNC8YwQAbivKlWCgZ.jpg",
+  "posterPath": "/r2517Vz9EhDhj88qwbDVj8DCRZN.jpg",
+  "releaseDate": "2017-03-08T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8fdea87f-e62e-41cf-9319-2f18d0f94e4c",
+      "title": "Kong: Koponya-sziget",
+      "subtitle": null,
+      "timestampString": "01:28:36",
+      "timestampInSeconds": 5316,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #118",
+        "youtubeId": "tsYYwq3fdTw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tsYYwq3fdTw/hqdefault.jpg",
+        "durationInMinutes": 239,
+        "releaseDate": 1490634596000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

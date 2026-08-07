@@ -1,0 +1,45 @@
+{
+  "id": "4b1ca601-4ce5-48f5-ba21-aba7cbcc4d91",
+  "title": "Old dads / Vén csókák",
+  "originalTitle": "Old Dads",
+  "overview": "A cranky middle-aged dad and his two best friends find themselves out of step in a changing world of millennial CEOs and powerful preschool principals.",
+  "backdropPath": "/8G50Gbincsi1WYJXTyqsFuXNyK.jpg",
+  "posterPath": "/krA2iXd1PK1vhg4jeWfbSD4fSJi.jpg",
+  "releaseDate": "2023-10-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d65032cb-58ed-4f50-9588-cc261b58a749",
+      "title": "Old dads / Vén csókák",
+      "subtitle": null,
+      "timestampString": "02:03:20",
+      "timestampInSeconds": 7400,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #266",
+        "youtubeId": "N4U228aSkd8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/N4U228aSkd8/hqdefault.jpg",
+        "durationInMinutes": 221,
+        "releaseDate": 1700081301000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

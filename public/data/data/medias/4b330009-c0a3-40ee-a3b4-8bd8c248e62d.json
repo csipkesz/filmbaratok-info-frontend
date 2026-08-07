@@ -1,0 +1,49 @@
+{
+  "id": "4b330009-c0a3-40ee-a3b4-8bd8c248e62d",
+  "title": "Kettes számú esküdt",
+  "originalTitle": "Juror #2",
+  "overview": "While serving as a juror in a high profile murder trial, family man Justin Kemp finds himself struggling with a serious moral dilemma…one he could use to sway the jury verdict and potentially convict—or free—the accused killer.",
+  "backdropPath": "/9Qq8InnodUYs8zdam8Zj967i6RO.jpg",
+  "posterPath": "/ugQkpGajKFQ8eyOEhGheR0HfWQ.jpg",
+  "releaseDate": "2024-10-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f5e206ab-f5dc-4e90-a83e-8a169ee494c9",
+      "title": "Kettes számú esküdt",
+      "subtitle": null,
+      "timestampString": "01:14:14",
+      "timestampInSeconds": 4454,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #293 (Évösszegző 2024)",
+        "youtubeId": "iOhSHlbaR58",
+        "thumbnailUrl": "https://i.ytimg.com/vi/iOhSHlbaR58/hqdefault.jpg",
+        "durationInMinutes": 273,
+        "releaseDate": 1735592826000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

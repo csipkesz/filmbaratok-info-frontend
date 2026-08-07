@@ -1,0 +1,45 @@
+{
+  "id": "cd368540-4abb-40af-880a-8c96fedf9585",
+  "title": "Sicario 2: A zsoldos",
+  "originalTitle": "Sicario: Day of the Soldado",
+  "overview": "Agent Matt Graver teams up with operative Alejandro Gillick to prevent Mexican drug cartels from smuggling terrorists across the United States border.",
+  "backdropPath": "/tnwMCH4yLBY4qpe6Nr4n66u4U3f.jpg",
+  "posterPath": "/qcLYofEhNh51Sk1jUWjmKHLzkqw.jpg",
+  "releaseDate": "2018-06-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5392965a-8124-4ffc-964e-cd43e628ef62",
+      "title": "Sicario 2: A zsoldos",
+      "subtitle": null,
+      "timestampString": "00:47:11",
+      "timestampInSeconds": 2831,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #147",
+        "youtubeId": "VFKKYddusFg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VFKKYddusFg/hqdefault.jpg",
+        "durationInMinutes": 235,
+        "releaseDate": 1531561740000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

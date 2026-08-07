@@ -1,0 +1,45 @@
+{
+  "id": "d57a71e1-fb03-478a-be38-b69753f9e60a",
+  "title": "A cipőbűvölő",
+  "originalTitle": "The Cobbler",
+  "overview": "Max Simkin repairs shoes in the same New York shop that has been in his family for generations. Disenchanted with the grind of daily life, Max stumbles upon a magical heirloom that allows him to step into the lives of his customers and see the world in a new way. Sometimes walking in another man's shoes is the only way one can discover who they really are.",
+  "backdropPath": "/ysSUDoBeG5oIz7e4vkTtsuGBXfe.jpg",
+  "posterPath": "/oMgBX4uqF1VIz95tD4iJggz6Ceh.jpg",
+  "releaseDate": "2014-09-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "11c9540b-aa86-4b77-89d4-264a27fa8c41",
+      "title": "A cipőbűvölő",
+      "subtitle": null,
+      "timestampString": "01:22:32",
+      "timestampInSeconds": 4952,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #73",
+        "youtubeId": "CojqY6DJFQM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/CojqY6DJFQM/hqdefault.jpg",
+        "durationInMinutes": 197,
+        "releaseDate": 1431625186000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

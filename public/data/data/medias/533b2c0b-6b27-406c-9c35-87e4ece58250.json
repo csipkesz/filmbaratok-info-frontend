@@ -1,0 +1,45 @@
+{
+  "id": "533b2c0b-6b27-406c-9c35-87e4ece58250",
+  "title": "A fantasztikus négyes",
+  "originalTitle": "Fantastic Four: Rise of the Silver Surfer",
+  "overview": "The Fantastic Four return to the big screen as a new and all powerful enemy threatens the Earth. The seemingly unstoppable 'Silver Surfer', but all is not what it seems and there are old and new enemies that pose a greater threat than the intrepid superheroes realize.",
+  "backdropPath": "/o2wYH40zW0JIYiYUTu6L4gsNy7E.jpg",
+  "posterPath": "/9wRfzTcMyyzkQxVDqBHv8RwuZOv.jpg",
+  "releaseDate": "2007-06-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "44ab3932-7a8c-45a5-b70a-24203e709a36",
+      "title": "A fantasztikus négyes",
+      "subtitle": null,
+      "timestampString": "01:39:22",
+      "timestampInSeconds": 5962,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #80",
+        "youtubeId": "z4DzygJMKgc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z4DzygJMKgc/hqdefault.jpg",
+        "durationInMinutes": 227,
+        "releaseDate": 1440780590000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

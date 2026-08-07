@@ -1,0 +1,45 @@
+{
+  "id": "0eba06cd-e36e-48e0-be34-83800b809eea",
+  "title": "Suspiria / Sóhajok (1977)",
+  "originalTitle": "Suspiria",
+  "overview": "An American newcomer to a prestigious German ballet academy comes to realize that the school is a front for something sinister amid a series of grisly murders.",
+  "backdropPath": "/9uXGLBPIJkPqmVwiyh3FI0iAe6n.jpg",
+  "posterPath": "/sEcvc9h1X3hYZdFgtiiKMm6RB3f.jpg",
+  "releaseDate": "1977-02-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6f9a2195-77e0-4011-b1f5-ff03b3a52692",
+      "title": "Suspiria / Sóhajok (1977)",
+      "subtitle": null,
+      "timestampString": "03:17:30",
+      "timestampInSeconds": 11850,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #156",
+        "youtubeId": "cklwRxW_tOo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/cklwRxW_tOo/hqdefault.jpg",
+        "durationInMinutes": 258,
+        "releaseDate": 1543425795000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

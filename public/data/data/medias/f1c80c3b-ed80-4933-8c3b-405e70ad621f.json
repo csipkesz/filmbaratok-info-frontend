@@ -1,0 +1,63 @@
+{
+  "id": "f1c80c3b-ed80-4933-8c3b-405e70ad621f",
+  "title": "Nincs Alku",
+  "originalTitle": "The Negotiator",
+  "overview": "The police try to arrest expert hostage negotiator Danny Roman, who insists he's being framed for his partner's murder in what he believes is an elaborate conspiracy. Thinking there's evidence in the Internal Affairs offices that might clear him, he takes everyone in the office hostage and demands that another well-known negotiator be brought in to handle the situation and secretly investigate the conspiracy.",
+  "backdropPath": "/y4TbQOC9DCzZop9HwKuX73rKbYO.jpg",
+  "posterPath": "/dUMHEymATOGbs2K3E4dmNSVBgFQ.jpg",
+  "releaseDate": "1998-07-29T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8df277a0-cb45-48fd-864f-793f33cc557b",
+      "title": "Nincs Alku (Blacksheep)",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Nincs Alku (Blacksheep)",
+        "youtubeId": "RY-gkBbPdwY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/RY-gkBbPdwY/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1406308816000,
+        "participants": [
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    },
+    {
+      "id": "947f895c-a0ce-45f6-9dda-b65e5e747cee",
+      "title": "Nincs alku",
+      "subtitle": null,
+      "timestampString": "02:47:08",
+      "timestampInSeconds": 10028,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #54",
+        "youtubeId": "z2MBRvmBR0k",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z2MBRvmBR0k/hqdefault.jpg",
+        "durationInMinutes": 188,
+        "releaseDate": 1406308806000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

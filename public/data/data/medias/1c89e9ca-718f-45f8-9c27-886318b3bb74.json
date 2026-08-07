@@ -1,0 +1,45 @@
+{
+  "id": "1c89e9ca-718f-45f8-9c27-886318b3bb74",
+  "title": "A tenger szívében",
+  "originalTitle": "In the Heart of the Sea",
+  "overview": "In the winter of 1820, the New England whaling ship Essex is assaulted by something no one could believe—a whale of mammoth size and will, and an almost human sense of vengeance.",
+  "backdropPath": "/4LRLz2V63TSwuQhBVNXsbnHxgoY.jpg",
+  "posterPath": "/weVvNPfk6FM9vBg3BXtRtNAmiYM.jpg",
+  "releaseDate": "2015-12-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8f59f80f-b155-40fe-abbb-d3048c9f279b",
+      "title": "A tenger szívében",
+      "subtitle": null,
+      "timestampString": "00:37:06",
+      "timestampInSeconds": 2226,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #88",
+        "youtubeId": "wEd9ZOCpPII",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wEd9ZOCpPII/hqdefault.jpg",
+        "durationInMinutes": 226,
+        "releaseDate": 1450458682000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

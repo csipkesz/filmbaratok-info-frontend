@@ -1,0 +1,49 @@
+{
+  "id": "0f0b4866-3448-48e9-b325-ac9127e7faab",
+  "title": "Senki többet",
+  "originalTitle": "La migliore offerta",
+  "overview": "Virgil Oldman is a world renowned antiques expert and auctioneer. An eccentric genius, he leads a solitary life, going to extreme lengths to keep his distance from the messiness of human relationships. When appointed by the beautiful but emotionally damaged Claire to oversee the valuation and sale of her family’s priceless art collection, Virgil allows himself to form an attachment to her – and soon he is engulfed by a passion which will rock his bland existence to the core.",
+  "backdropPath": "/4EdN5rIT43xcqi4IVRrhxiDOz6z.jpg",
+  "posterPath": "/ibDGPgUZn6vxHiSgt2xeQyFp8Np.jpg",
+  "releaseDate": "2013-01-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "89aebd1c-64f0-46f1-8aa9-8f76e2244f92",
+      "title": "Senki többet",
+      "subtitle": null,
+      "timestampString": "05:04:00",
+      "timestampInSeconds": 18240,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #187",
+        "youtubeId": "Jy2n7Zw18FQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Jy2n7Zw18FQ/hqdefault.jpg",
+        "durationInMinutes": 339,
+        "releaseDate": 1585709102000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

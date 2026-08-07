@@ -1,0 +1,45 @@
+{
+  "id": "7b7ae4be-83a0-4e2b-9a95-cbc998edf900",
+  "title": "Predator: Gyilkosok gyilkosa",
+  "originalTitle": "Predator: Killer of Killers",
+  "overview": "While three of the fiercest warriors in human history—a Viking raider, a ninja in feudal Japan, and a WWII pilot—are killers in their own right, they are merely prey for their new opponent: the ultimate killer of killers.",
+  "backdropPath": "/3AGZKVr2DPT9H53gYtkSEC1tK1E.jpg",
+  "posterPath": "/2XDQa6EmFHSA37j1t0w88vpWqj9.jpg",
+  "releaseDate": "2025-06-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "57f43df8-ed66-4205-9c04-ebdf02fcbd19",
+      "title": "Predator: Gyilkosok gyilkosa",
+      "subtitle": null,
+      "timestampString": "02:31:42",
+      "timestampInSeconds": 9102,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #304",
+        "youtubeId": "ok8JUwMUPIA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ok8JUwMUPIA/hqdefault.jpg",
+        "durationInMinutes": 212,
+        "releaseDate": 1749920369000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "d33aed8d-bfbb-454f-8a1a-8d700c541d6f",
+  "title": "Oats Studios - Volume 1 - Kapture: Fluke",
+  "originalTitle": "Kapture: Fluke",
+  "overview": "Welcome to Kapture Technologies, where Gary and Jeff test the latest new gadgets.",
+  "backdropPath": "/zWOpxIIK3WjLjQFdUzdFmb5m5zP.jpg",
+  "posterPath": "/mPmDlymBvRCBoXyTZsp0646zIh4.jpg",
+  "releaseDate": "2017-08-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1c1437e1-2893-42ed-995a-a56fb3803448",
+      "title": "Oats Studios - Volume 1 - Kapture: Fluke",
+      "subtitle": null,
+      "timestampString": "02:56:10",
+      "timestampInSeconds": 10570,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #127",
+        "youtubeId": "XWuPbD-kRic",
+        "thumbnailUrl": "https://i.ytimg.com/vi/XWuPbD-kRic/hqdefault.jpg",
+        "durationInMinutes": 241,
+        "releaseDate": 1503602035000,
+        "participants": [
+          {
+            "id": "3da49de0-82ec-4704-a57a-3643fbf7ed43",
+            "name": "Szöllőskei Gábor"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

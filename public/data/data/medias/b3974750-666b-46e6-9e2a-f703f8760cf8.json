@@ -1,0 +1,41 @@
+{
+  "id": "b3974750-666b-46e6-9e2a-f703f8760cf8",
+  "title": "A méhész",
+  "originalTitle": "The Beekeeper",
+  "overview": "One man's campaign for vengeance takes on national stakes after he is revealed to be a former operative of a powerful and clandestine organization known as Beekeepers.",
+  "backdropPath": "/f0ACHVpV707zqu4etZrXnWNdSgL.jpg",
+  "posterPath": "/A7EByudX0eOzlkQ2FIbogzyazm2.jpg",
+  "releaseDate": "2024-01-08T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b218624d-93cd-4f7d-a221-a1c035a1218d",
+      "title": "A méhész [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "00:57:05",
+      "timestampInSeconds": 3425,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #271",
+        "youtubeId": "vCypCwFTSIU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/vCypCwFTSIU/hqdefault.jpg",
+        "durationInMinutes": 227,
+        "releaseDate": 1706733909000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

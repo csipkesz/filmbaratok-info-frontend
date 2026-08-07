@@ -1,0 +1,49 @@
+{
+  "id": "28b55fc2-5240-46ee-8fa0-a6656eca1a08",
+  "title": "Wonka",
+  "originalTitle": "Wonka",
+  "overview": "Willy Wonka – chock-full of ideas and determined to change the world one delectable bite at a time – is proof that the best things in life begin with a dream, and if you’re lucky enough to meet Willy Wonka, anything is possible.",
+  "backdropPath": "/uIk2g2bRkNwNywKZIhC5oIU94Kh.jpg",
+  "posterPath": "/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
+  "releaseDate": "2023-12-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "685aad1d-0ffa-4a9d-8a1c-7c203b7d9e1b",
+      "title": "Wonka",
+      "subtitle": null,
+      "timestampString": "00:37:20",
+      "timestampInSeconds": 2240,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #269 (Évösszegző 2023)",
+        "youtubeId": "UqrJRJtzjJs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/UqrJRJtzjJs/hqdefault.jpg",
+        "durationInMinutes": 276,
+        "releaseDate": 1703966409000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

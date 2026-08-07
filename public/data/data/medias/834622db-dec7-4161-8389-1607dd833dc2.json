@@ -1,0 +1,41 @@
+{
+  "id": "834622db-dec7-4161-8389-1607dd833dc2",
+  "title": "Mission: Impossible – Utóhatás",
+  "originalTitle": "Mission: Impossible - Fallout",
+  "overview": "When an IMF mission ends badly, the world is faced with dire consequences. As Ethan Hunt takes it upon himself to fulfill his original briefing, the CIA begin to question his loyalty and his motives. The IMF team find themselves in a race against time, hunted by assassins while trying to prevent a global catastrophe.",
+  "backdropPath": "/3IzR3VhZAyhxVnuRRUHFLkfK4hT.jpg",
+  "posterPath": "/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg",
+  "releaseDate": "2018-07-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6ea89a9c-f4d4-458f-9825-e80c98af41db",
+      "title": "Mission: Impossible – Utóhatás",
+      "subtitle": null,
+      "timestampString": "00:44:45",
+      "timestampInSeconds": 2685,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #149",
+        "youtubeId": "VBEVVw6KCTg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VBEVVw6KCTg/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1534514845000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

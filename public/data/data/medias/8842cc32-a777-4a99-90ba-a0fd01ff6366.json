@@ -1,0 +1,45 @@
+{
+  "id": "8842cc32-a777-4a99-90ba-a0fd01ff6366",
+  "title": "9 - A szám hatalma",
+  "originalTitle": "The Nines",
+  "overview": "A troubled actor, a television show runner, and an acclaimed videogame designer find their lives intertwining in mysterious and unsettling ways.",
+  "backdropPath": "/cR39VUrIKWrv9TfoiOzfim5D9p9.jpg",
+  "posterPath": "/AkIyPzbxBnR815XNCKH5D9T4RaE.jpg",
+  "releaseDate": "2007-01-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "22cbca43-76d4-413c-9338-8c15065ae737",
+      "title": "9 - A szám hatalma",
+      "subtitle": null,
+      "timestampString": "04:13:00",
+      "timestampInSeconds": 15180,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #316",
+        "youtubeId": "tj6Fv2PRYFw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tj6Fv2PRYFw/hqdefault.jpg",
+        "durationInMinutes": 318,
+        "releaseDate": 1765639323000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

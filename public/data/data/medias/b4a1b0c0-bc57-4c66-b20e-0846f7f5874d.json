@@ -1,0 +1,41 @@
+{
+  "id": "b4a1b0c0-bc57-4c66-b20e-0846f7f5874d",
+  "title": "Komfortos mennyország",
+  "originalTitle": "The Lovely Bones",
+  "overview": "After being brutally murdered, 14-year-old Susie Salmon watches from heaven over her grief-stricken family -- and her killer. As she observes their daily lives, she must balance her thirst for revenge with her desire for her family to heal.",
+  "backdropPath": "/vmonG9lV1s3CtmOQmmWUO206Xay.jpg",
+  "posterPath": "/sn0iDphRxQ7I6aLd9igIgACITak.jpg",
+  "releaseDate": "2009-12-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1b09e531-4ab5-4f63-a6dd-767216c026a9",
+      "title": "Komfortos mennyország",
+      "subtitle": null,
+      "timestampString": "02:03:59",
+      "timestampInSeconds": 7439,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #155",
+        "youtubeId": "Htjp4x7Tcgg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Htjp4x7Tcgg/hqdefault.jpg",
+        "durationInMinutes": 165,
+        "releaseDate": 1542194035000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "df3a34ef-9aba-4da2-81e1-677d7ba3487d",
+            "name": "Anna"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

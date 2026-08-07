@@ -1,0 +1,45 @@
+{
+  "id": "d9148ae4-3291-47d0-aa8b-90e309d312e7",
+  "title": "Tár",
+  "originalTitle": "TÁR",
+  "overview": "As celebrated conductor Lydia Tár starts rehearsals for a career-defining symphony, the consequences of her past choices begin to echo in the present.",
+  "backdropPath": "/84XcRwKHAw4VXdKOYTSW5ARxFEt.jpg",
+  "posterPath": "/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg",
+  "releaseDate": "2022-10-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5b8d9cc6-20c7-488e-ab6d-25945857aae7",
+      "title": "Tár",
+      "subtitle": null,
+      "timestampString": "00:46:50",
+      "timestampInSeconds": 2810,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #251",
+        "youtubeId": "sMMPgkRN14I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/sMMPgkRN14I/hqdefault.jpg",
+        "durationInMinutes": 273,
+        "releaseDate": 1678475107000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

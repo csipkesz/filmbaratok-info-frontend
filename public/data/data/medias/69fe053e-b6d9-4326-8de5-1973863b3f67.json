@@ -1,0 +1,45 @@
+{
+  "id": "69fe053e-b6d9-4326-8de5-1973863b3f67",
+  "title": "Becsületes tolvaj",
+  "originalTitle": "Honest Thief",
+  "overview": "A bank robber tries to turn himself in because he's falling in love and wants to live an honest life...but when he realizes the Feds are more corrupt than him, he must fight back to clear his name.",
+  "backdropPath": "/2M2JxEv3HSpjnZWjY9NOdGgfUd.jpg",
+  "posterPath": "/zeD4PabP6099gpE0STWJrJrCBCs.jpg",
+  "releaseDate": "2020-09-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "591933ce-aa91-412e-9f6c-a7b161183999",
+      "title": "Becsületes tolvaj",
+      "subtitle": null,
+      "timestampString": "02:08:02",
+      "timestampInSeconds": 7682,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #199",
+        "youtubeId": "fQW3yV4nVGM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fQW3yV4nVGM/hqdefault.jpg",
+        "durationInMinutes": 264,
+        "releaseDate": 1603214829000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

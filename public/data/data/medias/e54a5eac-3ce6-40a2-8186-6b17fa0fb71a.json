@@ -1,0 +1,41 @@
+{
+  "id": "e54a5eac-3ce6-40a2-8186-6b17fa0fb71a",
+  "title": "Meg fognak ölni",
+  "originalTitle": "They Will Kill You",
+  "overview": "A woman answers a help wanted ad to be a housekeeper in a mysterious New York City high-rise, unaware that she is entering a community that has seen a number of disappearances over the years and may be under the grip of a Satanic cult.",
+  "backdropPath": "/7IwBgIwoHtkQ0lYGbBbqKintSWx.jpg",
+  "posterPath": "/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
+  "releaseDate": "2026-03-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "03286bad-2879-4646-9ad0-e74d33845fb6",
+      "title": "Meg fognak ölni",
+      "subtitle": null,
+      "timestampString": "01:09:00",
+      "timestampInSeconds": 4140,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #324",
+        "youtubeId": "Df6QbCuxjIs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Df6QbCuxjIs/hqdefault.jpg",
+        "durationInMinutes": 174,
+        "releaseDate": 1776433338000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

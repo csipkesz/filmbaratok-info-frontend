@@ -1,0 +1,41 @@
+{
+  "id": "a1364b2f-7886-4036-af4c-299123fbbdbb",
+  "title": "A híd túl messze van",
+  "originalTitle": "A Bridge Too Far",
+  "overview": "The story of Operation Market Garden—a failed attempt by the allies in the latter stages of WWII to end the war quickly by securing three bridges in Holland allowing access over the Rhine into Germany. A combination of poor allied intelligence and the presence of two crack German panzer divisions meant that the final part of this operation (the bridge in Arnhem over the Rhine) was doomed to failure.",
+  "backdropPath": "/1oRug23GWxgyQmqQGbX7ke974lp.jpg",
+  "posterPath": "/lszOk3Xmh7qpLaM9J4K9E6ADLk1.jpg",
+  "releaseDate": "1977-06-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "eb889350-ed06-4abf-91d7-69ff6fe53943",
+      "title": "A híd túl messze van",
+      "subtitle": null,
+      "timestampString": "02:01:50",
+      "timestampInSeconds": 7310,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #146",
+        "youtubeId": "sfip_5w7OMc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/sfip_5w7OMc/hqdefault.jpg",
+        "durationInMinutes": 163,
+        "releaseDate": 1530162133000,
+        "participants": [
+          {
+            "id": "3da49de0-82ec-4704-a57a-3643fbf7ed43",
+            "name": "Szöllőskei Gábor"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

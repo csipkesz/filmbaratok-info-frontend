@@ -1,0 +1,41 @@
+{
+  "id": "d89e1501-377d-403d-85da-34f60fd9776d",
+  "title": "Kramer kontra Kramer",
+  "originalTitle": "Kramer vs. Kramer",
+  "overview": "Ted Kramer is a career man for whom his work comes before his family. His wife Joanna cannot take this anymore, so she decides to leave him. Ted is now faced with the tasks of housekeeping and taking care of himself and their young son Billy.",
+  "backdropPath": "/9pUh1fC8TqVtYPeKpdfNyVK0qnn.jpg",
+  "posterPath": "/3CUP5V5SWfHSK4qvkZF7lMNyugY.jpg",
+  "releaseDate": "1979-12-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "76094ed0-6634-4b1d-bb26-54b7da251625",
+      "title": "Kramer kontra Kramer",
+      "subtitle": null,
+      "timestampString": "02:07:55",
+      "timestampInSeconds": 7675,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #318",
+        "youtubeId": "97jsp1z7nD4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/97jsp1z7nD4/hqdefault.jpg",
+        "durationInMinutes": 190,
+        "releaseDate": 1768489534000,
+        "participants": [
+          {
+            "id": "18bb710d-2755-4eaa-875b-48c695315171",
+            "name": "Márk"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

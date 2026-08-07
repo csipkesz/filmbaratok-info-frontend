@@ -1,0 +1,49 @@
+{
+  "id": "ed50432d-50ae-4a3c-8bfc-8582aca84986",
+  "title": "Deadpool 2",
+  "originalTitle": "Deadpool 2",
+  "overview": "Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.",
+  "backdropPath": "/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
+  "posterPath": "/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
+  "releaseDate": "2018-05-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b6be91b1-e152-4003-856b-3eae5c69bafb",
+      "title": "Deadpool 2",
+      "subtitle": null,
+      "timestampString": "01:28:00",
+      "timestampInSeconds": 5280,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #144",
+        "youtubeId": "7oPd5jzdemY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/7oPd5jzdemY/hqdefault.jpg",
+        "durationInMinutes": 182,
+        "releaseDate": 1527255570000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

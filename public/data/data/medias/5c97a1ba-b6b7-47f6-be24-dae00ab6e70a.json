@@ -1,0 +1,41 @@
+{
+  "id": "5c97a1ba-b6b7-47f6-be24-dae00ab6e70a",
+  "title": "Chip és Dale: A Csipet Csapat",
+  "originalTitle": "Chip 'n Dale: Rescue Rangers",
+  "overview": "Decades since their successful television series was canceled, Chip has succumbed to a life of suburban domesticity as an insurance salesman. Dale, meanwhile, has had CGI surgery and works the nostalgia convention circuit, desperate to relive his glory days. When a former cast mate mysteriously disappears, Chip and Dale must repair their broken friendship and take on their Rescue Rangers detective personas once again to save their friend’s life.",
+  "backdropPath": "/qK7Ssnrfvrt65F66A1thvehfQg2.jpg",
+  "posterPath": "/7UGmn8TyWPPzkjhLUW58cOUHjPS.jpg",
+  "releaseDate": "2022-05-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ef2a2363-a1d5-4ed5-9f31-875133044b88",
+      "title": "Chip és Dale: A Csipet Csapat",
+      "subtitle": null,
+      "timestampString": "02:04:23",
+      "timestampInSeconds": 7463,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #234",
+        "youtubeId": "IyLcC8Sig7I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IyLcC8Sig7I/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1655823277000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

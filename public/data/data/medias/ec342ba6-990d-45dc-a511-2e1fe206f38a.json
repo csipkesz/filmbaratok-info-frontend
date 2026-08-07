@@ -1,0 +1,45 @@
+{
+  "id": "ec342ba6-990d-45dc-a511-2e1fe206f38a",
+  "title": "Nightbreed (Az éjszaka szülöttei)",
+  "originalTitle": "Nightbreed",
+  "overview": "A troubled young man is drawn to a mythical place called Midian where a variety of friendly monsters are hiding from humanity. Meanwhile, a sadistic serial killer is looking for a patsy.",
+  "backdropPath": "/vt7ZQ38ZLOpq63DXu7pi3Rf5T24.jpg",
+  "posterPath": "/1ChluYH0BEvJo3gtYoFHnMZI660.jpg",
+  "releaseDate": "1990-02-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2e29343a-d2f2-4eb8-b9a6-4d54412f0cde",
+      "title": "Nightbreed (Az éjszaka szülöttei)",
+      "subtitle": null,
+      "timestampString": "01:28:44",
+      "timestampInSeconds": 5324,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #65",
+        "youtubeId": "Nho9twpqK9c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Nho9twpqK9c/hqdefault.jpg",
+        "durationInMinutes": 210,
+        "releaseDate": 1420868167000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

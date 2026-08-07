@@ -1,0 +1,49 @@
+{
+  "id": "037e5b88-1ee2-4a04-9896-e10169d7f91e",
+  "title": "A győztes gól",
+  "originalTitle": "Next Goal Wins",
+  "overview": "Dutch coach Thomas Rongen attempts the nearly impossible task of turning the American Samoa soccer team from perennial losers into winners.",
+  "backdropPath": "/j4TnCy7lNPrE8mX5n5ydCoLA7xW.jpg",
+  "posterPath": "/xTQCL1zGugIck8MgvJ2lXSrxENR.jpg",
+  "releaseDate": "2023-11-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0c329e80-f5a2-448b-8770-f95be7ff3b87",
+      "title": "A győztes gól",
+      "subtitle": null,
+      "timestampString": "01:01:15",
+      "timestampInSeconds": 3675,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #269 (Évösszegző 2023)",
+        "youtubeId": "UqrJRJtzjJs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/UqrJRJtzjJs/hqdefault.jpg",
+        "durationInMinutes": 276,
+        "releaseDate": 1703966409000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

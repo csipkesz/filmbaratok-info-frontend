@@ -1,0 +1,41 @@
+{
+  "id": "44a7ed71-fa33-4a66-8566-e7ffe5b3f464",
+  "title": "Ígéretes fiatal nő",
+  "originalTitle": "Promising Young Woman",
+  "overview": "A young woman, traumatized by a tragic event in her past, seeks out vengeance against those who crossed her path.",
+  "backdropPath": "/gESm6yc2MZpSXakgqLF0OlLaRn1.jpg",
+  "posterPath": "/73QoFJFmUrJfDG2EynFjNc5gJxk.jpg",
+  "releaseDate": "2020-12-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "06d6192e-c531-4f3a-9cf6-64aa0c2dc2d7",
+      "title": "Ígéretes fiatal nő",
+      "subtitle": null,
+      "timestampString": "01:18:00",
+      "timestampInSeconds": 4680,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #205",
+        "youtubeId": "GcqE0JN9mNg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GcqE0JN9mNg/hqdefault.jpg",
+        "durationInMinutes": 170,
+        "releaseDate": 1612351186000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

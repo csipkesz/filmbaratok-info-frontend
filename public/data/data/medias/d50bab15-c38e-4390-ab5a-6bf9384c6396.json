@@ -1,0 +1,41 @@
+{
+  "id": "d50bab15-c38e-4390-ab5a-6bf9384c6396",
+  "title": "Superhero movie",
+  "originalTitle": "Superhero Movie",
+  "overview": "Rick Riker is a nerdy teen imbued with superpowers by a radioactive dragonfly. And because every hero needs a nemesis, enter Lou Landers, aka the villainously goofy Hourglass.",
+  "backdropPath": "/iA5yYNAclwXWGe46T7gatzGYcRu.jpg",
+  "posterPath": "/nAzo5OOmoE9SXOv4mHTuiu58QXA.jpg",
+  "releaseDate": "2008-03-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7141f783-c876-412b-a8a2-0f4eb3e1daea",
+      "title": "Superhero movie",
+      "subtitle": null,
+      "timestampString": "02:40:50",
+      "timestampInSeconds": 9650,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #282",
+        "youtubeId": "gcFN31mIkUo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gcFN31mIkUo/hqdefault.jpg",
+        "durationInMinutes": 188,
+        "releaseDate": 1720893631000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

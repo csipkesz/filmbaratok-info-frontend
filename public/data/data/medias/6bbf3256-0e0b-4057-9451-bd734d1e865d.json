@@ -1,0 +1,45 @@
+{
+  "id": "6bbf3256-0e0b-4057-9451-bd734d1e865d",
+  "title": "Szürke zóna",
+  "originalTitle": "In the Grey",
+  "overview": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.",
+  "backdropPath": "/qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
+  "posterPath": "/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
+  "releaseDate": "2026-05-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "521308f8-3ba6-4da4-9cbe-2e3963064e81",
+      "title": "Szürke zóna",
+      "subtitle": null,
+      "timestampString": "01:52:50",
+      "timestampInSeconds": 6770,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #329",
+        "youtubeId": "mMxJ3JAYZY4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/mMxJ3JAYZY4/hqdefault.jpg",
+        "durationInMinutes": 212,
+        "releaseDate": 1782846925000,
+        "participants": [
+          {
+            "id": "18bb710d-2755-4eaa-875b-48c695315171",
+            "name": "Márk"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

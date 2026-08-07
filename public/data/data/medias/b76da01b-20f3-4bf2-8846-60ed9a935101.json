@@ -1,0 +1,37 @@
+{
+  "id": "b76da01b-20f3-4bf2-8846-60ed9a935101",
+  "title": "Star Wars: A Rossz Osztag",
+  "originalTitle": "Star Wars: The Bad Batch",
+  "overview": "A Bad Batch elit kísérleti klónokról szól, akik boldogulni akarnak a Clone Wars utáni időkben. Mindegyikük egy különleges képességgel bír, így lesznek verhetetlenek csapatként, akik különböző zsoldos bevetéseken vesznek részt, miközben új célt igyekeznek találni maguknak.",
+  "backdropPath": "/sjxtIUCWR74yPPcZFfTsToepfWm.jpg",
+  "posterPath": "/cVZyNgRWfwdYmAOOU107zYqTmK.jpg",
+  "releaseDate": "2021-05-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3c73a5ac-252d-4d24-88d8-52d63a77d8d1",
+      "title": "Star Wars: A Rossz Osztag (1-2. évad)",
+      "subtitle": "1-2. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Star Wars: A Rossz Osztag (1-2. évad)",
+        "youtubeId": "1VLbPzT-bHM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/1VLbPzT-bHM/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1683353508000,
+        "participants": [
+          {
+            "id": "b58a918c-16ec-4387-a959-c8a6d2afa38d",
+            "name": "Shirin"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

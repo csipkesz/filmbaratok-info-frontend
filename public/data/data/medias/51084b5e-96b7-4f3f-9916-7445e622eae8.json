@@ -1,0 +1,45 @@
+{
+  "id": "51084b5e-96b7-4f3f-9916-7445e622eae8",
+  "title": "Mindörökké Elvis",
+  "originalTitle": "Elvis Has Left the Building",
+  "overview": "Harmony had an encounter early in life with the young Elvis, and can't seem to shake his influence. Now a Pink Lady selling cosmetics, she seems to inadvertently bring harm to any Elvis impersonators she encounters. After a bizarre car accident leaves a slew of them dead, Harmony goes on the run from the authorities, hooking up with a downtrodden ad exec who has Elvis troubles of his own.",
+  "backdropPath": "/14yjn1iQVYVYZU086DFa0Ic1Keu.jpg",
+  "posterPath": "/yfIRJpLwR0yGAj6PmWMHZVU8mB1.jpg",
+  "releaseDate": "2004-08-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fa15996b-de10-4134-b3c3-b091cd5f56cc",
+      "title": "Mindörökké Elvis",
+      "subtitle": null,
+      "timestampString": "02:45:35",
+      "timestampInSeconds": 9935,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #248",
+        "youtubeId": "VCD8rEWrtzs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VCD8rEWrtzs/hqdefault.jpg",
+        "durationInMinutes": 221,
+        "releaseDate": 1674626980000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

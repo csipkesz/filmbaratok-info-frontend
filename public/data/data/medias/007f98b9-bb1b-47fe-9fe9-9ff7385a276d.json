@@ -1,0 +1,45 @@
+{
+  "id": "007f98b9-bb1b-47fe-9fe9-9ff7385a276d",
+  "title": "Action Point - Extrém vidámpark",
+  "originalTitle": "Action Point",
+  "overview": "A daredevil designs and operates his own theme park with his friends.",
+  "backdropPath": "/3ldiRRggT4CC38jEE4gqVgTUhVM.jpg",
+  "posterPath": "/5lqJx0uNKrD1cEKgaqF1LBsLAoi.jpg",
+  "releaseDate": "2018-06-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6091da66-3cb8-4382-8fb1-9e01ba88e523",
+      "title": "Action Point - Extrém vidámpark",
+      "subtitle": null,
+      "timestampString": "02:46:24",
+      "timestampInSeconds": 9984,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #166",
+        "youtubeId": "NaqCtn_eZNI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/NaqCtn_eZNI/hqdefault.jpg",
+        "durationInMinutes": 241,
+        "releaseDate": 1555772517000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

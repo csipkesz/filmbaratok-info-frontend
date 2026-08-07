@@ -1,0 +1,45 @@
+{
+  "id": "ae9c5ab4-2c72-48d9-becc-7d280a5cfeb4",
+  "title": "The white tiger",
+  "originalTitle": "The White Tiger",
+  "overview": "An ambitious Indian driver uses his wit and cunning to escape from poverty and rise to the top. An epic journey based on the New York Times bestseller.",
+  "backdropPath": "/wz4BoW7k5LNluY4PmxHBU1IS5Bc.jpg",
+  "posterPath": "/5JnmseS3DZ6ad2VMbrnbGCs8Rst.jpg",
+  "releaseDate": "2021-01-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e42823b9-c606-406e-83f5-666a57301834",
+      "title": "The white tiger",
+      "subtitle": null,
+      "timestampString": "01:19:10",
+      "timestampInSeconds": 4750,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #207",
+        "youtubeId": "nRj4p0apAgo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nRj4p0apAgo/hqdefault.jpg",
+        "durationInMinutes": 247,
+        "releaseDate": 1614949852000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

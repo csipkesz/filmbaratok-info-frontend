@@ -1,0 +1,41 @@
+{
+  "id": "170a3497-378e-4c47-bcf1-c3159d4ff107",
+  "title": "Forráspont",
+  "originalTitle": "Boiling Point",
+  "overview": "A head chef balances multiple personal and professional crises at a popular restaurant in London.",
+  "backdropPath": "/he0XbwtxDiRnPERvboWMkvXFdAJ.jpg",
+  "posterPath": "/kdkk7OBnIL1peW2zwcAAp6O54Jo.jpg",
+  "releaseDate": "2021-07-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b239d122-ef4f-43ee-814f-03d76fed055b",
+      "title": "Forráspont",
+      "subtitle": null,
+      "timestampString": "01:33:16",
+      "timestampInSeconds": 5596,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #234",
+        "youtubeId": "IyLcC8Sig7I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IyLcC8Sig7I/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1655823277000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

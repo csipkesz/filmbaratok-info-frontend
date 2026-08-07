@@ -1,0 +1,45 @@
+{
+  "id": "3d64eff7-454a-45cb-ab1b-5b8ed6fa96f9",
+  "title": "Az asszisztens",
+  "originalTitle": "The Assistant",
+  "overview": "A searing look at a day in the life of an assistant to a powerful executive. As Jane follows her daily routine, she grows increasingly aware of the insidious abuse that threatens every aspect of her position.",
+  "backdropPath": "/fFJQYhnjKfgweZCbRNOE1E015DF.jpg",
+  "posterPath": "/zJpJkVgezsR7dp6KQwyxtGIAOZv.jpg",
+  "releaseDate": "2020-01-31T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4556c80a-f681-43cf-be4d-334a6b3054b2",
+      "title": "Az asszisztens",
+      "subtitle": null,
+      "timestampString": "03:05:50",
+      "timestampInSeconds": 11150,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #214",
+        "youtubeId": "aARrCL30caA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/aARrCL30caA/hqdefault.jpg",
+        "durationInMinutes": 264,
+        "releaseDate": 1625845165000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

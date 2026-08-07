@@ -1,0 +1,45 @@
+{
+  "id": "9671102e-c3fc-4380-a71b-e99362ccaf29",
+  "title": "A beszéd",
+  "originalTitle": "Le Discours",
+  "overview": "Meet Adrien! He's 35. He's stuck in a mid-life crisis. He's neurotic and hypochondriac. Tonight he's stuck in an endless family dinner and his girlfriend is not answering his texts. On top of that, his dumb brother-in-law asks him to prepare a speech for his wedding. Could it get even worse?",
+  "backdropPath": "/w3sqSIZDQLthCPpOCkcN5CkLRYM.jpg",
+  "posterPath": "/i2G0QrM10xCkrJmzgky53DlNjn2.jpg",
+  "releaseDate": "2020-09-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6f65d6c7-8fe9-4244-bc70-eb7112cfaa4d",
+      "title": "A beszéd",
+      "subtitle": null,
+      "timestampString": "02:56:44",
+      "timestampInSeconds": 10604,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #192",
+        "youtubeId": "U-r1xMhFqug",
+        "thumbnailUrl": "https://i.ytimg.com/vi/U-r1xMhFqug/hqdefault.jpg",
+        "durationInMinutes": 257,
+        "releaseDate": 1593098527000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

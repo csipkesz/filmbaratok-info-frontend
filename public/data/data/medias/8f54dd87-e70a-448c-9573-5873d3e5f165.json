@@ -1,0 +1,41 @@
+{
+  "id": "8f54dd87-e70a-448c-9573-5873d3e5f165",
+  "title": "A szépség és a szörnyeteg (2017)",
+  "originalTitle": "Beauty and the Beast",
+  "overview": "A live-action adaptation of Disney's version of the classic tale of a cursed prince and a beautiful young woman who helps him break the spell.",
+  "backdropPath": "/uU1Mt4JWhDvl4vKb3AfxNsorkoM.jpg",
+  "posterPath": "/hKegSKIDep2ewJWPUQD7u0KqFIp.jpg",
+  "releaseDate": "2017-03-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "105f193a-1c2f-4a10-85b2-b2c32b1720b3",
+      "title": "A szépség és a szörnyeteg (2017)",
+      "subtitle": null,
+      "timestampString": "02:41:20",
+      "timestampInSeconds": 9680,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #118",
+        "youtubeId": "tsYYwq3fdTw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tsYYwq3fdTw/hqdefault.jpg",
+        "durationInMinutes": 239,
+        "releaseDate": 1490634596000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

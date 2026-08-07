@@ -1,0 +1,41 @@
+{
+  "id": "856b9e6f-8c3c-4c47-b91e-7dcf870201c2",
+  "title": "A Simpson család - A film",
+  "originalTitle": "The Simpsons Movie",
+  "overview": "After Homer accidentally pollutes the town's water supply, Springfield is encased in a gigantic dome by the EPA and the Simpsons are declared fugitives.",
+  "backdropPath": "/8ln5VUVk7gnNGIb2VNgw8nICDVt.jpg",
+  "posterPath": "/s3b8TZWwmkYc2KoJ5zk77qB6PzY.jpg",
+  "releaseDate": "2007-07-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9328f861-86d2-467b-bc3f-4048d5368aea",
+      "title": "A Simpson család - A film",
+      "subtitle": null,
+      "timestampString": "01:48:54",
+      "timestampInSeconds": 6534,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #309",
+        "youtubeId": "yH7NkqL8uXA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/yH7NkqL8uXA/hqdefault.jpg",
+        "durationInMinutes": 148,
+        "releaseDate": 1756490346000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

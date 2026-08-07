@@ -1,0 +1,45 @@
+{
+  "id": "a19f7756-daed-400f-8e1b-a38d98e8c846",
+  "title": "Bosszúállók: Ultron kora",
+  "originalTitle": "Avengers: Age of Ultron",
+  "overview": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth’s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.",
+  "backdropPath": "/kIBK5SKwgqIIuRKhhWrJn3XkbPq.jpg",
+  "posterPath": "/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
+  "releaseDate": "2015-04-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3b3791a0-18e1-45ab-b68d-ce776c04b0d7",
+      "title": "Bosszúállók: Ultron kora",
+      "subtitle": null,
+      "timestampString": "00:24:13",
+      "timestampInSeconds": 1453,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #73",
+        "youtubeId": "CojqY6DJFQM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/CojqY6DJFQM/hqdefault.jpg",
+        "durationInMinutes": 197,
+        "releaseDate": 1431625186000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

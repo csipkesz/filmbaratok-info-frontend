@@ -1,0 +1,45 @@
+{
+  "id": "0edfa88a-7ed2-45bc-8c97-58ef0215f529",
+  "title": "Furiosa: Történet a Mad Maxből",
+  "originalTitle": "Furiosa: A Mad Max Saga",
+  "overview": "As the world falls, young Furiosa is snatched from the Green Place of Many Mothers into the hands of a great biker horde led by the warlord Dementus. Sweeping through the wasteland, they encounter the citadel presided over by Immortan Joe. The two tyrants wage war for dominance, and Furiosa must survive many trials as she puts together the means to find her way home.",
+  "backdropPath": "/raph7qjAGTMXaIjVxt6ZDSXRzUr.jpg",
+  "posterPath": "/iADOJ8Zymht2JPMoy3R7xceZprc.jpg",
+  "releaseDate": "2024-05-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3c59d8ae-d0a5-442b-95ac-71e8820dfe54",
+      "title": "Furiosa: Történet a Mad Maxből",
+      "subtitle": null,
+      "timestampString": "01:26:30",
+      "timestampInSeconds": 5190,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #279",
+        "youtubeId": "xiW0oPdZsx4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/xiW0oPdZsx4/hqdefault.jpg",
+        "durationInMinutes": 209,
+        "releaseDate": 1717092028000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

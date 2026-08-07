@@ -1,0 +1,41 @@
+{
+  "id": "49e506c3-e1c8-445e-81ef-91ec3300bd44",
+  "title": "Free Guy",
+  "originalTitle": "Free Guy",
+  "overview": "A bank teller discovers he is actually a background player in an open-world video game, and decides to become the hero of his own story. Now, in a world where there are no limits, he is determined to be the guy who saves his world his way before it's too late.",
+  "backdropPath": "/rOJb0yQOCny0bPjg8bCLw8DyAD7.jpg",
+  "posterPath": "/dxraF0qPr1OEgJk17ltQTO84kQF.jpg",
+  "releaseDate": "2021-08-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "13fc68ae-10bf-47d7-b1c6-d113e0f24aac",
+      "title": "Free Guy",
+      "subtitle": null,
+      "timestampString": "02:48:45",
+      "timestampInSeconds": 10125,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #216",
+        "youtubeId": "30tV_qEGOIE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/30tV_qEGOIE/hqdefault.jpg",
+        "durationInMinutes": 291,
+        "releaseDate": 1629219607000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "26234ba5-39ee-44d5-ba5b-510a1041f639",
+  "title": "Gemini Man",
+  "originalTitle": "Gemini Man",
+  "overview": "Henry Brogan is an elite 51-year-old assassin who's ready to call it quits after completing his 72nd job. His plans get turned upside down when he becomes the target of a mysterious operative who can seemingly predict his every move. To his horror, Brogan soon learns that the man who's trying to kill him is a younger, faster, cloned version of himself.",
+  "backdropPath": "/hmv300bqfZmxvdXCtCsruDH0ycT.jpg",
+  "posterPath": "/uTALxjQU8e1lhmNjP9nnJ3t2pRU.jpg",
+  "releaseDate": "2019-10-02T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e6931beb-4e5e-4543-9418-8c6646572e5e",
+      "title": "Gemini Man",
+      "subtitle": null,
+      "timestampString": "01:16:50",
+      "timestampInSeconds": 4610,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #177",
+        "youtubeId": "SiiouPY48NM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/SiiouPY48NM/hqdefault.jpg",
+        "durationInMinutes": 237,
+        "releaseDate": 1571926127000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

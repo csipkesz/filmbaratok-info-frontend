@@ -1,0 +1,45 @@
+{
+  "id": "36a4079d-03ec-4fa1-b416-bded1b7bd006",
+  "title": "Hologram a királynak",
+  "originalTitle": "A Hologram for the King",
+  "overview": "Alan Clay, a struggling American businessman, travels to Saudi Arabia to sell a new technology to the King, only to be challenged by endless Middle Eastern bureaucracy, a perpetually absent monarch, and a suspicious growth on his back.",
+  "backdropPath": "/AbZZz3QwbCrF1hpJfvtl0uZBGGN.jpg",
+  "posterPath": "/wmjWGb2tqtOA4XPnK1tpIfzRtSQ.jpg",
+  "releaseDate": "2016-04-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "897f4c6b-d58d-4d72-ae61-3663d92aa964",
+      "title": "Hologram a királynak",
+      "subtitle": null,
+      "timestampString": "01:58:30",
+      "timestampInSeconds": 7110,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #218",
+        "youtubeId": "c2D577gQ6vU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/c2D577gQ6vU/hqdefault.jpg",
+        "durationInMinutes": 196,
+        "releaseDate": 1631901622000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

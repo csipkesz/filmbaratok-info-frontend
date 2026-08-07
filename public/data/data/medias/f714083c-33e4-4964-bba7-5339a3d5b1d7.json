@@ -1,0 +1,49 @@
+{
+  "id": "f714083c-33e4-4964-bba7-5339a3d5b1d7",
+  "title": "A martfűi rém",
+  "originalTitle": "A martfűi rém",
+  "overview": "A psychotic killer is on the prowl, who continues to slaughter young women while an innocent man is wrongly accused and sentenced for crimes he could never have committed. A determined detective arrives on the scene and soon becomes obsessed with the case while under pressure from the prosecutor to see a man hang.",
+  "backdropPath": "/iYTWSplMqEuUTZt85jKvNFlmzPH.jpg",
+  "posterPath": "/hYj4YNq8Pfmqj8lJvhtA7ooiULr.jpg",
+  "releaseDate": "2016-11-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9f41dbc7-5bad-4497-8add-60acac9f4039",
+      "title": "A martfűi rém",
+      "subtitle": null,
+      "timestampString": "02:30:03",
+      "timestampInSeconds": 9003,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #110",
+        "youtubeId": "8krx-cw6vdg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/8krx-cw6vdg/hqdefault.jpg",
+        "durationInMinutes": 260,
+        "releaseDate": 1479296565000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

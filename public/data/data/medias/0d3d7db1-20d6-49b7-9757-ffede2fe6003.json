@@ -1,0 +1,45 @@
+{
+  "id": "0d3d7db1-20d6-49b7-9757-ffede2fe6003",
+  "title": "Szólíts a neveden",
+  "originalTitle": "Call Me by Your Name",
+  "overview": "In the summer of 1983, a 17-year-old Elio spends his days in his family's villa in Italy. One day Oliver, a graduate student, arrives to assist Elio's father, a professor of Greco-Roman culture. Soon, Elio and Oliver discover a summer that will alter their lives forever.",
+  "backdropPath": "/4Xh2a1WeTp6b8Ksvug0pAMbX3dT.jpg",
+  "posterPath": "/mZ4gBdfkhP9tvLH1DO4m4HYtiyi.jpg",
+  "releaseDate": "2017-10-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2ec7b596-f2c5-4d90-8cdd-1d53756f2425",
+      "title": "Szólíts a neveden",
+      "subtitle": null,
+      "timestampString": "01:06:23",
+      "timestampInSeconds": 3983,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #139 (Oscar 2018)",
+        "youtubeId": "o7DTWukNCDc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/o7DTWukNCDc/hqdefault.jpg",
+        "durationInMinutes": 181,
+        "releaseDate": 1519882297000,
+        "participants": [
+          {
+            "id": "3da49de0-82ec-4704-a57a-3643fbf7ed43",
+            "name": "Szöllőskei Gábor"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

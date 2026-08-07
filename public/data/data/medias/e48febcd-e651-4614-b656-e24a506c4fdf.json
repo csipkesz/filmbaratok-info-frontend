@@ -1,0 +1,45 @@
+{
+  "id": "e48febcd-e651-4614-b656-e24a506c4fdf",
+  "title": "A szörfös",
+  "originalTitle": "The Surfer",
+  "overview": "A man returns to the idyllic beach of his childhood to surf with his son. When he is humiliated by a group of locals, the man is drawn into a conflict that keeps rising and pushes him to his breaking point.",
+  "backdropPath": "/iuW4CPRcaTZzTRDr8iLg2KYdKCM.jpg",
+  "posterPath": "/gm9Ou0dkxhb1vcrkB6uRhoifcHC.jpg",
+  "releaseDate": "2025-04-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6a68f987-1108-4725-8179-f98d49887f2a",
+      "title": "A szörfös",
+      "subtitle": null,
+      "timestampString": "02:07:15",
+      "timestampInSeconds": 7635,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #304",
+        "youtubeId": "ok8JUwMUPIA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ok8JUwMUPIA/hqdefault.jpg",
+        "durationInMinutes": 212,
+        "releaseDate": 1749920369000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

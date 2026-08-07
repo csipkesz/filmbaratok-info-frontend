@@ -1,0 +1,41 @@
+{
+  "id": "28fd0612-6053-4cbf-921f-e1dcd19be6b0",
+  "title": "Az amatőr",
+  "originalTitle": "The Amateur",
+  "overview": "After his life is turned upside down when his wife is killed in a London terrorist attack, a brilliant but introverted CIA decoder takes matters into his own hands when his supervisors refuse to take action.",
+  "backdropPath": "/aD7FXrm2GErTmzrIFBntPyhAqS9.jpg",
+  "posterPath": "/SNEoUInCa5fAgwuEBMIMBGvkkh.jpg",
+  "releaseDate": "2025-04-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7c413a4e-4eae-4e8f-9b0d-cdf826a7bea2",
+      "title": "Az amatőr",
+      "subtitle": null,
+      "timestampString": "01:30:15",
+      "timestampInSeconds": 5415,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #302",
+        "youtubeId": "3K4xdZiHI_w",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3K4xdZiHI_w/hqdefault.jpg",
+        "durationInMinutes": 235,
+        "releaseDate": 1747414746000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

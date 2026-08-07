@@ -1,0 +1,37 @@
+{
+  "id": "9781d615-533a-44f0-8467-7211b546cd4b",
+  "title": "Europa Report",
+  "originalTitle": "Europa Report",
+  "overview": "A crew travels to Europa, Jupiter’s icy moon, to investigate signs of life in its subsurface ocean, but disaster cuts them off from Earth, leading to a tense and dangerous exploration.",
+  "backdropPath": "/nnGluGp4Bowcy7STdDAEScQcwzV.jpg",
+  "posterPath": "/tbsfaBjiAW5vfrV06R8KCOzVOYy.jpg",
+  "releaseDate": "2013-06-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "474479df-2a3d-496c-8a45-0d108e675174",
+      "title": "Europa Report",
+      "subtitle": null,
+      "timestampString": "01:39:03",
+      "timestampInSeconds": 5943,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #33",
+        "youtubeId": "IomFNhWRQNA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IomFNhWRQNA/hqdefault.jpg",
+        "durationInMinutes": 148,
+        "releaseDate": 1375255137000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

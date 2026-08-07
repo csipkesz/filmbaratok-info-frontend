@@ -1,0 +1,79 @@
+{
+  "id": "0c3e20c0-06ac-4b4d-a6a7-5c20e7937868",
+  "title": "Szárnyas fejvadász 2049",
+  "originalTitle": "Blade Runner 2049",
+  "overview": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
+  "backdropPath": "/gNdLJU9TxrpGx4dkZidjys3fyy0.jpg",
+  "posterPath": "/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+  "releaseDate": "2017-10-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2f69f1a5-94a4-47cd-b075-343e1c81fd39",
+      "title": "Szárnyas fejvadász 2049 [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "02:30:45",
+      "timestampInSeconds": 9045,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #131",
+        "youtubeId": "QymLKg2wvV4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/QymLKg2wvV4/hqdefault.jpg",
+        "durationInMinutes": 230,
+        "releaseDate": 1509033085000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c7c29a7a-183d-4bad-a35d-de291c8a88e4",
+      "title": "Szárnyas fejvadász 2049",
+      "subtitle": null,
+      "timestampString": "02:22:40",
+      "timestampInSeconds": 8560,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #131",
+        "youtubeId": "QymLKg2wvV4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/QymLKg2wvV4/hqdefault.jpg",
+        "durationInMinutes": 230,
+        "releaseDate": 1509033085000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

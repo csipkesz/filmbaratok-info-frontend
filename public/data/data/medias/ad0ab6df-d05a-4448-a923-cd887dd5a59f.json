@@ -1,0 +1,49 @@
+{
+  "id": "ad0ab6df-d05a-4448-a923-cd887dd5a59f",
+  "title": "Összeomlás",
+  "originalTitle": "Falling Down",
+  "overview": "An ordinary man frustrated with the various flaws he sees in society begins to psychotically and violently lash out against them.",
+  "backdropPath": "/cS45swrlrTJijH1RblBLe8LlW2p.jpg",
+  "posterPath": "/7ujqyF96Zg3rfrsh9M0cEF0Yzqj.jpg",
+  "releaseDate": "1993-02-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5088ae51-2b33-4a9a-b099-4f69c93ce165",
+      "title": "Összeomlás",
+      "subtitle": null,
+      "timestampString": "02:41:00",
+      "timestampInSeconds": 9660,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #193",
+        "youtubeId": "WZrbCRuXQqU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/WZrbCRuXQqU/hqdefault.jpg",
+        "durationInMinutes": 250,
+        "releaseDate": 1594492684000,
+        "participants": [
+          {
+            "id": "3da49de0-82ec-4704-a57a-3643fbf7ed43",
+            "name": "Szöllőskei Gábor"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

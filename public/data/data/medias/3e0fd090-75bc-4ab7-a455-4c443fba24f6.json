@@ -1,0 +1,41 @@
+{
+  "id": "3e0fd090-75bc-4ab7-a455-4c443fba24f6",
+  "title": "A nagy dobás",
+  "originalTitle": "Big Shot",
+  "overview": "Egy temperamentumos középiskolai kosárlabda-edzőt kirúgnak munkahelyéről, ezért arra kényszerül, hogy egy csak lányokat foglalkoztató magánsuliban tanítson.",
+  "backdropPath": "/oNw5yVJLF8ouKHjXZlIVhseVcyv.jpg",
+  "posterPath": "/n3oYTuAyMBnpSgsb5hfVDtxCNTq.jpg",
+  "releaseDate": "2021-04-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f0006328-fa6e-4996-83f2-505d8cbdc370",
+      "title": "A nagy dobás",
+      "subtitle": null,
+      "timestampString": "00:36:46",
+      "timestampInSeconds": 2206,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #92",
+        "youtubeId": "TLrrzuetTk0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/TLrrzuetTk0/hqdefault.jpg",
+        "durationInMinutes": 156,
+        "releaseDate": 1455295114000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

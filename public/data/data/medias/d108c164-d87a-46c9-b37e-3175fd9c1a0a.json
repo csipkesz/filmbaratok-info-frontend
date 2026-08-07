@@ -1,0 +1,41 @@
+{
+  "id": "d108c164-d87a-46c9-b37e-3175fd9c1a0a",
+  "title": "Bebukottak",
+  "originalTitle": "Bebukottak",
+  "overview": "The documentary was shot in the prison for juvenile delinquents in Hungary. It does not aim at judging whether the perpetrators were convicted rightly or not but, given the burden they carry, how they can reintegrate into society after they are released.",
+  "backdropPath": null,
+  "posterPath": "/qwW0GUtXLkBHF9dREnlJ6P96ej9.jpg",
+  "releaseDate": "1985-04-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9ba92a86-eff2-4ddd-9c4b-92615cf4fc64",
+      "title": "Bebukottak",
+      "subtitle": null,
+      "timestampString": "02:26:30",
+      "timestampInSeconds": 8790,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #108",
+        "youtubeId": "zNzDplhnvlg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/zNzDplhnvlg/hqdefault.jpg",
+        "durationInMinutes": 175,
+        "releaseDate": 1476476267000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

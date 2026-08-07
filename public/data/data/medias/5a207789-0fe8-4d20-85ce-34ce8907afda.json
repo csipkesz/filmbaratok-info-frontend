@@ -1,0 +1,45 @@
+{
+  "id": "5a207789-0fe8-4d20-85ce-34ce8907afda",
+  "title": "Whiplash",
+  "originalTitle": "Whiplash",
+  "overview": "Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.",
+  "backdropPath": "/wbQa0EnWUyRzQ5d1pHLNRlmsCUP.jpg",
+  "posterPath": "/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
+  "releaseDate": "2014-10-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "59fcd64b-d87d-4e28-82e5-56f7aaa4a801",
+      "title": "Whiplash",
+      "subtitle": null,
+      "timestampString": "01:00:26",
+      "timestampInSeconds": 3626,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #67",
+        "youtubeId": "FATQkJjmAQg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/FATQkJjmAQg/hqdefault.jpg",
+        "durationInMinutes": 206,
+        "releaseDate": 1424108444000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

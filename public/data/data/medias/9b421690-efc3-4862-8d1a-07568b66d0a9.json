@@ -1,0 +1,41 @@
+{
+  "id": "9b421690-efc3-4862-8d1a-07568b66d0a9",
+  "title": "4x4",
+  "originalTitle": "4x4",
+  "overview": "Buenos Aires, Argentina. A luxurious van is parked on the sidewalk. A man enters with the purpose of stealing whatever he can find, but when he wants to leave, he cannot. The doors do not open, the control panel does not respond: the van has become an armored box and he is trapped like a mouse.",
+  "backdropPath": "/kZBvpOwql0yJv76TmCx4q3LhlfT.jpg",
+  "posterPath": "/4o3Wr0zrYot5Q3rVS7c3YlFOpYJ.jpg",
+  "releaseDate": "2019-04-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5a7129f2-7386-4810-9210-7ae53d88cad6",
+      "title": "4x4",
+      "subtitle": null,
+      "timestampString": "01:51:45",
+      "timestampInSeconds": 6705,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #195",
+        "youtubeId": "ub7UnLmmwMA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ub7UnLmmwMA/hqdefault.jpg",
+        "durationInMinutes": 217,
+        "releaseDate": 1597415274000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

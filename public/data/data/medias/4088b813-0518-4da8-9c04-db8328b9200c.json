@@ -1,0 +1,41 @@
+{
+  "id": "4088b813-0518-4da8-9c04-db8328b9200c",
+  "title": "A Manderley-ház asszonya",
+  "originalTitle": "Rebecca",
+  "overview": "Story of a young woman who marries a fascinating widower only to find out that she must live in the shadow of his former wife, Rebecca, who died mysteriously several years earlier. The young wife must come to grips with the terrible secret of her handsome, cold husband, Max De Winter. She must also deal with the jealous, obsessed Mrs. Danvers, the housekeeper, who will not accept her as the mistress of the house.",
+  "backdropPath": "/46p36NyMO6f25YtSqSYiwz4mKbW.jpg",
+  "posterPath": "/1qz3qUOHnVy7dL7M7G8jSErxE4b.jpg",
+  "releaseDate": "1940-03-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9ef9dec2-dafd-4813-bb5c-18eff4197176",
+      "title": "A Manderley-ház asszonya",
+      "subtitle": null,
+      "timestampString": "01:53:20",
+      "timestampInSeconds": 6800,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #121",
+        "youtubeId": "-73qLSZm328",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-73qLSZm328/hqdefault.jpg",
+        "durationInMinutes": 130,
+        "releaseDate": 1494559801000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

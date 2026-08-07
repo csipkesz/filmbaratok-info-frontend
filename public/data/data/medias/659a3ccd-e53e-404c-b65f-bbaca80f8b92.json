@@ -1,0 +1,45 @@
+{
+  "id": "659a3ccd-e53e-404c-b65f-bbaca80f8b92",
+  "title": "Evil Dead (2013)",
+  "originalTitle": "Evil Dead",
+  "overview": "Mia, a drug addict, is determined to kick the habit. To that end, she asks her brother, David, his girlfriend, Natalie and their friends Olivia and Eric to accompany her to their family's remote forest cabin to help her through withdrawal. Eric finds a mysterious Book of the Dead at the cabin and reads aloud from it, awakening an ancient demon. All hell breaks loose when the malevolent entity possesses Mia.",
+  "backdropPath": "/6RDgtEBzjuF7W25DVziXRABchpX.jpg",
+  "posterPath": "/1gDV0Lm9y8ufIKzyf0h0GBgb9Zj.jpg",
+  "releaseDate": "2013-04-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f5eeafa9-5df4-4583-8ed2-57785c5a73d0",
+      "title": "Evil Dead (2013)",
+      "subtitle": null,
+      "timestampString": "00:27:20",
+      "timestampInSeconds": 1640,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #32",
+        "youtubeId": "6P4PZX3FJGA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/6P4PZX3FJGA/hqdefault.jpg",
+        "durationInMinutes": 125,
+        "releaseDate": 1373643280000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "cdccbabe-35db-4f00-b12e-fc2a4d381979",
+            "name": "DreamerInstinct"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

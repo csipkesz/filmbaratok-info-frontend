@@ -1,0 +1,41 @@
+{
+  "id": "a175daeb-5469-4823-b132-216443c91f73",
+  "title": "Mortal Kombat II",
+  "originalTitle": "Mortal Kombat II",
+  "overview": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
+  "backdropPath": "/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
+  "posterPath": "/hwRdDFIhaEmpRgoki805YvyyjZf.jpg",
+  "releaseDate": "2026-05-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "48562117-851a-41cc-8cb2-90b199bf851e",
+      "title": "Mortal Kombat II",
+      "subtitle": null,
+      "timestampString": "02:26:50",
+      "timestampInSeconds": 8810,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #326",
+        "youtubeId": "PyX_W5BWsXo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/PyX_W5BWsXo/hqdefault.jpg",
+        "durationInMinutes": 236,
+        "releaseDate": 1778948292000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

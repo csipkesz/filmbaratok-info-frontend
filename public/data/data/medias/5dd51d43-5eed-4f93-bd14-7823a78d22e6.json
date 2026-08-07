@@ -1,0 +1,41 @@
+{
+  "id": "5dd51d43-5eed-4f93-bd14-7823a78d22e6",
+  "title": "Az ifjúság forrása / Fountain of youth",
+  "originalTitle": "Fountain of Youth",
+  "overview": "A treasure-hunting mastermind assembles a team for a life-changing adventure. But to outwit and outrun threats at every turn, he'll need someone even smarter than he is: his estranged sister.",
+  "backdropPath": "/arGs8D4RfUfsk7vMiMjDi6Mtabv.jpg",
+  "posterPath": "/4iWjGghUj2uyHo2Hyw8NFBvsNGm.jpg",
+  "releaseDate": "2025-05-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b9d270f9-07b0-4efd-8b75-95ac35cb9272",
+      "title": "Az ifjúság forrása / Fountain of youth",
+      "subtitle": null,
+      "timestampString": "03:07:04",
+      "timestampInSeconds": 11224,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #303",
+        "youtubeId": "4E-63IAlyvU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/4E-63IAlyvU/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1748626806000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "59b8cd9b-0c76-4cbb-abb1-3c31337d5fd6",
+            "name": "Ódor Kristóf"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

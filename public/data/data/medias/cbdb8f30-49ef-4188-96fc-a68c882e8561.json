@@ -1,0 +1,45 @@
+{
+  "id": "cbdb8f30-49ef-4188-96fc-a68c882e8561",
+  "title": "Austin Powers - Aranyszerszám",
+  "originalTitle": "Austin Powers in Goldmember",
+  "overview": "The world's most shagadelic spy continues his fight against Dr. Evil. This time, the diabolical doctor and his clone, Mini-Me, team up with a new foe—'70s kingpin Goldmember. While pursuing the team of villains to stop them from world domination, Austin gets help from his dad and an old girlfriend.",
+  "backdropPath": "/kuPpElzfYnzsCye0hF8EbJSrvwo.jpg",
+  "posterPath": "/n8V61f1v7idya4WJzGEJNoIp9iL.jpg",
+  "releaseDate": "2002-07-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ee4a6801-7837-4f8a-ac33-04e1a0fd8c6e",
+      "title": "Austin Powers - Aranyszerszám",
+      "subtitle": null,
+      "timestampString": "02:30:45",
+      "timestampInSeconds": 9045,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #261",
+        "youtubeId": "riCSpLjExWo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/riCSpLjExWo/hqdefault.jpg",
+        "durationInMinutes": 207,
+        "releaseDate": 1693369891000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

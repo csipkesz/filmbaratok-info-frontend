@@ -1,0 +1,45 @@
+{
+  "id": "75e21daa-80af-44b5-9be5-b0094e7f7f4c",
+  "title": "28 évvel később",
+  "originalTitle": "28 Years Later",
+  "overview": "Twenty-eight years after the Rage virus outbreak, a heavily-defended island survives connected to the mainland by a single causeway. When one of the group leaves the island into the dark heart of the mainland, he discovers secrets, wonders, and horrors that have mutated not only the infected but other survivors as well.",
+  "backdropPath": "/6WqqEjiycNvDLjbEClM1zCwIbDD.jpg",
+  "posterPath": "/n5FygjEppOvac6yEaowi26nTyw3.jpg",
+  "releaseDate": "2025-06-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a07cfbdc-7621-41fb-9b46-ab8a98c9a6e7",
+      "title": "28 évvel később [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "02:07:54",
+      "timestampInSeconds": 7674,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #306",
+        "youtubeId": "fhwjWo2MiYI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fhwjWo2MiYI/hqdefault.jpg",
+        "durationInMinutes": 272,
+        "releaseDate": 1752602894000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

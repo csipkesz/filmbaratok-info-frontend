@@ -1,0 +1,45 @@
+{
+  "id": "cd98a942-8a02-4f32-8066-b09e129acabd",
+  "title": "Bill & Ted face the music",
+  "originalTitle": "Bill & Ted Face the Music",
+  "overview": "Yet to fulfill their rock and roll destiny, the stakes are higher than ever for the now middle-aged Bill and Ted who set out on a new adventure when a visitor from the future warns them that only their song can save life as we know it.",
+  "backdropPath": "/ceVaixg5VUfx8j0N81FT0hRayRm.jpg",
+  "posterPath": "/4V2nTPfeB59TcqJcUfQ9ziTi7VN.jpg",
+  "releaseDate": "2020-08-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d33c12bd-d0c7-4cc0-a8cd-7460b23d3474",
+      "title": "Bill & Ted face the music",
+      "subtitle": null,
+      "timestampString": "03:13:16",
+      "timestampInSeconds": 11596,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #197",
+        "youtubeId": "j1hyfnPoTyg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/j1hyfnPoTyg/hqdefault.jpg",
+        "durationInMinutes": 296,
+        "releaseDate": 1600408834000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

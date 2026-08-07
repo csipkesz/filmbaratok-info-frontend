@@ -1,0 +1,45 @@
+{
+  "id": "e938811f-ba6e-4cb9-8174-435a1663ebbc",
+  "title": "Nem félünk a farkastól",
+  "originalTitle": "Who's Afraid of Virginia Woolf?",
+  "overview": "A history professor and his wife entertain a young couple who are new to the university's faculty. As the drinks flow, secrets come to light, and the middle-aged couple unload onto their guests the full force of the bitterness, dysfunction, and animosity that defines their marriage.",
+  "backdropPath": "/sZxPKiNCK8piKBtXAbm3Ucj6RQk.jpg",
+  "posterPath": "/wF7ihB5V5gSm6zxjv3ZhHOpgREI.jpg",
+  "releaseDate": "1966-06-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1f22066e-50d6-4107-b5f3-d6c2b187acd8",
+      "title": "Nem félünk a farkastól",
+      "subtitle": null,
+      "timestampString": "02:56:28",
+      "timestampInSeconds": 10588,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #327",
+        "youtubeId": "UYCI_LATeS8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/UYCI_LATeS8/hqdefault.jpg",
+        "durationInMinutes": 221,
+        "releaseDate": 1780218018000,
+        "participants": [
+          {
+            "id": "464eed79-882c-48cd-94ba-4511df05b6b6",
+            "name": "Szabolcs"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

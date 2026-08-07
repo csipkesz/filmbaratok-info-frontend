@@ -1,0 +1,45 @@
+{
+  "id": "7528b580-99ff-4a26-9129-9faf63c1f423",
+  "title": "Hullajó (Braindead)",
+  "originalTitle": "Braindead",
+  "overview": "When a Sumatran rat-monkey bites Lionel Cosgrove's mother, she's transformed into a zombie and begins killing (and transforming) the entire town while Lionel races to keep things under control.",
+  "backdropPath": "/ecZ6MQ3Y63dtn35km6odO0e39aQ.jpg",
+  "posterPath": "/pa39D8TQs6aNw3hiUs4jLjHVUB0.jpg",
+  "releaseDate": "1992-08-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6e4feca6-90f1-4ce0-a6e4-74976335f2d1",
+      "title": "Hullajó (Braindead)",
+      "subtitle": null,
+      "timestampString": "01:06:15",
+      "timestampInSeconds": 3975,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #32",
+        "youtubeId": "6P4PZX3FJGA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/6P4PZX3FJGA/hqdefault.jpg",
+        "durationInMinutes": 125,
+        "releaseDate": 1373643280000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "cdccbabe-35db-4f00-b12e-fc2a4d381979",
+            "name": "DreamerInstinct"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

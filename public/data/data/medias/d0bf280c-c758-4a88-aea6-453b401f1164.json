@@ -1,0 +1,53 @@
+{
+  "id": "d0bf280c-c758-4a88-aea6-453b401f1164",
+  "title": "Johnny háborúba megy",
+  "originalTitle": "Johnny Got His Gun",
+  "overview": "A young American soldier, rendered in pseudocoma from an artillery shell from WWI, recalls his life leading up to that point.",
+  "backdropPath": "/cnf41Zu7ue1VgYdJEIYRC9w5yhS.jpg",
+  "posterPath": "/ryIY3FPmTtXu9g6W4I69qCdkxKj.jpg",
+  "releaseDate": "1971-08-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7277a264-36ef-4cfd-9f30-4dacb602ca34",
+      "title": "Johnny háborúba megy",
+      "subtitle": null,
+      "timestampString": "02:27:13",
+      "timestampInSeconds": 8833,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #165",
+        "youtubeId": "RSBwJungF40",
+        "thumbnailUrl": "https://i.ytimg.com/vi/RSBwJungF40/hqdefault.jpg",
+        "durationInMinutes": 274,
+        "releaseDate": 1554109205000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "6a6700d9-3d36-4010-b59c-ea0ebaf8c7bc",
+            "name": "Károly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

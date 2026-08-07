@@ -1,0 +1,45 @@
+{
+  "id": "7c2f96a9-076b-45bc-bc5d-88d12d4c01a3",
+  "title": "Utolsó éjszaka a Sohóban",
+  "originalTitle": "Last Night in Soho",
+  "overview": "A young girl, passionate about fashion design, is mysteriously able to enter the 1960s where she encounters her idol, a dazzling wannabe singer. But 1960s London is not what it seems, and time seems to be falling apart with shady consequences.",
+  "backdropPath": "/nPWy5KISy7BbUOQcg588dflKzTL.jpg",
+  "posterPath": "/n1ZRmjlk1BJTY7aASqACfPAaLn2.jpg",
+  "releaseDate": "2021-10-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3929bf0b-6b92-4173-ae28-8742c4276334",
+      "title": "Utolsó éjszaka a Sohóban",
+      "subtitle": null,
+      "timestampString": "01:33:50",
+      "timestampInSeconds": 5630,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #222",
+        "youtubeId": "KUigEmDa7Nc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/KUigEmDa7Nc/hqdefault.jpg",
+        "durationInMinutes": 265,
+        "releaseDate": 1637694008000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

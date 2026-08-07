@@ -1,0 +1,45 @@
+{
+  "id": "dc6790d8-93f8-4ebf-bc29-38f00346f83d",
+  "title": "Transformers: A fenevadak kora",
+  "originalTitle": "Transformers: Rise of the Beasts",
+  "overview": "When a new threat capable of destroying the entire planet emerges, Optimus Prime and the Autobots must team up with a powerful faction known as the Maximals. With the fate of humanity hanging in the balance, humans Noah and Elena will do whatever it takes to help the Transformers as they engage in the ultimate battle to save Earth.",
+  "backdropPath": "/2vFuG6bWGyQUzYS9d69E5l85nIz.jpg",
+  "posterPath": "/gPbM0MK8CP8A174rmUwGsADNYKD.jpg",
+  "releaseDate": "2023-06-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "af31ab72-058a-4c09-adc5-8deab2f996f6",
+      "title": "Transformers: A fenevadak kora",
+      "subtitle": null,
+      "timestampString": "02:12:44",
+      "timestampInSeconds": 7964,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #256",
+        "youtubeId": "yK5fnD61khw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/yK5fnD61khw/hqdefault.jpg",
+        "durationInMinutes": 224,
+        "releaseDate": 1686942465000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

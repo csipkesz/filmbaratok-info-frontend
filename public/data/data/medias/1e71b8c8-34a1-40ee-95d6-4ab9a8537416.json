@@ -1,0 +1,45 @@
+{
+  "id": "1e71b8c8-34a1-40ee-95d6-4ab9a8537416",
+  "title": "Tenet",
+  "originalTitle": "Tenet",
+  "overview": "Armed with only one word - Tenet - and fighting for the survival of the entire world, the Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.",
+  "backdropPath": "/mQOUyqDybTqxl73hO5LujCZsM1o.jpg",
+  "posterPath": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+  "releaseDate": "2020-08-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fb88a959-a835-46a3-bf54-29bcf8f7c676",
+      "title": "Tenet [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "00:52:50",
+      "timestampInSeconds": 3170,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #197",
+        "youtubeId": "j1hyfnPoTyg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/j1hyfnPoTyg/hqdefault.jpg",
+        "durationInMinutes": 296,
+        "releaseDate": 1600408834000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

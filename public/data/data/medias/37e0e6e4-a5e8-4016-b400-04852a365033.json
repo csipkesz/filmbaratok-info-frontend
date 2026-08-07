@@ -1,0 +1,45 @@
+{
+  "id": "37e0e6e4-a5e8-4016-b400-04852a365033",
+  "title": "Fura világ",
+  "originalTitle": "Strange World",
+  "overview": "A journey deep into an uncharted and treacherous land, where fantastical creatures await the legendary Clades—a family of explorers whose differences threaten to topple their latest, and by far most crucial, mission.",
+  "backdropPath": "/5wDBVictj4wUYZ31gR5WzCM9dLD.jpg",
+  "posterPath": "/a9x70QUXs6uEwtin1SGNKoFXoia.jpg",
+  "releaseDate": "2022-11-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "50a9daf2-7e51-43a2-add1-67da7a55c409",
+      "title": "Fura világ",
+      "subtitle": null,
+      "timestampString": "00:25:05",
+      "timestampInSeconds": 1505,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #245",
+        "youtubeId": "thnBmMbVpOo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/thnBmMbVpOo/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1671033623000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "1a2f306f-6210-4cd5-9151-ac94a8bb6ff3",
+  "title": "Wind River - Gyilkos nyomon",
+  "originalTitle": "Wind River",
+  "overview": "An FBI agent teams with the town's veteran game tracker to investigate a murder that occurred on a Native American reservation.",
+  "backdropPath": "/zcbb4XArMpGSNUQUZTdemp2WOTs.jpg",
+  "posterPath": "/pySivdR845Hom4u4T2WNkJxe6Ad.jpg",
+  "releaseDate": "2017-08-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "bdc8c3cc-83f5-4c87-b5ec-caaddd9dfaaa",
+      "title": "Wind River - Gyilkos nyomon",
+      "subtitle": null,
+      "timestampString": "01:49:10",
+      "timestampInSeconds": 6550,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #128",
+        "youtubeId": "YoKRZAg1KR0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/YoKRZAg1KR0/hqdefault.jpg",
+        "durationInMinutes": 252,
+        "releaseDate": 1505410953000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

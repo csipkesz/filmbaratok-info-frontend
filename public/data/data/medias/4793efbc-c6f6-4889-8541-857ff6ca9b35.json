@@ -1,0 +1,45 @@
+{
+  "id": "4793efbc-c6f6-4889-8541-857ff6ca9b35",
+  "title": "Számkivetett a holdon",
+  "originalTitle": "김씨 표류기",
+  "overview": "Mr. Kim is jobless, lost in debt and has been dumped by his girlfriend. He decides to end it all by jumping into the Han River – only to find himself washed up on a small, mid-river island. He soon abandons thoughts of suicide or rescue and begins a new life as a castaway. His antics catch the attention of a young woman whose apartment overlooks the river. Her discovery changes both their lives.",
+  "backdropPath": "/t9T6jKk2TqDqzpWTCMSeMNjYcX7.jpg",
+  "posterPath": "/gGzovvmOEyNVUu4WEHtw9wfDsqI.jpg",
+  "releaseDate": "2009-05-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "027c34d1-84b9-4722-aaf5-a3f675256783",
+      "title": "Számkivetett a holdon",
+      "subtitle": null,
+      "timestampString": "02:43:20",
+      "timestampInSeconds": 9800,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #140",
+        "youtubeId": "LQ8tU4s4F2M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/LQ8tU4s4F2M/hqdefault.jpg",
+        "durationInMinutes": 184,
+        "releaseDate": 1521209750000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "849404b6-a4a6-401b-8440-a21b82b28e52",
+  "title": "Katonadolog",
+  "originalTitle": "Dog",
+  "overview": "An army ranger and his dog embark on a road trip along the Pacific Coast Highway to attend a friend's funeral.",
+  "backdropPath": "/cGnaZm6EQOJESde3Vv4v53Zk4gN.jpg",
+  "posterPath": "/zHQy4h36WwuCetKS7C3wcT1hkgA.jpg",
+  "releaseDate": "2022-02-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e80c58c7-4855-4e0a-b9a3-229c51d47e6a",
+      "title": "Katonadolog",
+      "subtitle": null,
+      "timestampString": "01:00:00",
+      "timestampInSeconds": 3600,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #230",
+        "youtubeId": "RCepaQRbkuA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/RCepaQRbkuA/hqdefault.jpg",
+        "durationInMinutes": 119,
+        "releaseDate": 1648791357000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

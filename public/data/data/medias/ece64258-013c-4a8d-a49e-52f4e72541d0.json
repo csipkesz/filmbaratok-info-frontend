@@ -1,0 +1,45 @@
+{
+  "id": "ece64258-013c-4a8d-a49e-52f4e72541d0",
+  "title": "Tortúra",
+  "originalTitle": "Misery",
+  "overview": "After an accident, acclaimed novelist Paul Sheldon is rescued by a nurse who claims to be his biggest fan.  Her obsession takes a dark turn when she holds him captive in her remote Colorado home and forces him to write back to life the popular literary character he killed off.",
+  "backdropPath": "/rUAn3Ul1tL7JXMjZ951UOI3F0UA.jpg",
+  "posterPath": "/klPO5oh1LOxiPpdDXZo1ADgpKcw.jpg",
+  "releaseDate": "1990-11-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e12bf71a-bc69-456d-a4ef-57ade7592d49",
+      "title": "Tortúra",
+      "subtitle": null,
+      "timestampString": "03:08:33",
+      "timestampInSeconds": 11313,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #192",
+        "youtubeId": "U-r1xMhFqug",
+        "thumbnailUrl": "https://i.ytimg.com/vi/U-r1xMhFqug/hqdefault.jpg",
+        "durationInMinutes": 257,
+        "releaseDate": 1593098527000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

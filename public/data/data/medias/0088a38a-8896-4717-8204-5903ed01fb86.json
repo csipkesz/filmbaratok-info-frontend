@@ -1,0 +1,49 @@
+{
+  "id": "0088a38a-8896-4717-8204-5903ed01fb86",
+  "title": "Életem a kabaré",
+  "originalTitle": "Punchline",
+  "overview": "Lilah Krytsick is a mother and housewife who's always believed she could be a stand-up comedian. Steven Gold is an experienced stand-up seemingly on the cusp of success. When the two meet, they form an unlikely friendship, and Steven tries to help the untried Lilah develop her stage act. Despite the objections of her family and some very wobbly beginnings, Lilah improves, and soon she finds herself competing with Steven for a coveted television spot.",
+  "backdropPath": "/sjeuEHadWkWu7Yyvxhnpdey65fh.jpg",
+  "posterPath": "/dgbLnnEJIGldXOMt6OWy3X1l0AC.jpg",
+  "releaseDate": "1988-10-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e2d2dd38-cf3b-4c32-922b-301cbfa4c1b3",
+      "title": "Életem a kabaré",
+      "subtitle": null,
+      "timestampString": "04:06:16",
+      "timestampInSeconds": 14776,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #253",
+        "youtubeId": "qh8K0plyKrk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/qh8K0plyKrk/hqdefault.jpg",
+        "durationInMinutes": 284,
+        "releaseDate": 1682442009000,
+        "participants": [
+          {
+            "id": "2a3a072c-0cc4-4088-b3d9-ac7ef73e889a",
+            "name": "ChatGPT"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

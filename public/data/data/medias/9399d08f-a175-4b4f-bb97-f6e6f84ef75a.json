@@ -1,0 +1,41 @@
+{
+  "id": "9399d08f-a175-4b4f-bb97-f6e6f84ef75a",
+  "title": "Creed 2",
+  "originalTitle": "Creed II",
+  "overview": "Between personal obligations and training for his next big fight against an opponent with ties to his family's past, Adonis Creed is up against the challenge of his life.",
+  "backdropPath": "/9il7qNbeYnPMYlutsVYDsj4hRyb.jpg",
+  "posterPath": "/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg",
+  "releaseDate": "2018-11-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3f66f6d2-34d4-4c02-b893-ef38f8f84caf",
+      "title": "Creed 2 [Enyhén spoileres]",
+      "subtitle": null,
+      "timestampString": "00:40:55",
+      "timestampInSeconds": 2455,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #160",
+        "youtubeId": "_a3zVw9qNvs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_a3zVw9qNvs/hqdefault.jpg",
+        "durationInMinutes": 196,
+        "releaseDate": 1547731556000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

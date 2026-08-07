@@ -1,0 +1,45 @@
+{
+  "id": "d5ea9568-c43e-42c0-82e1-5a88a6cb9ef0",
+  "title": "Kapj el, ha tudsz",
+  "originalTitle": "Catch Me If You Can",
+  "overview": "A true story about Frank Abagnale Jr. who, before his 19th birthday, successfully conned millions of dollars worth of checks as a Pan Am pilot, doctor, and legal prosecutor. An FBI agent makes it his mission to put him behind bars. But Frank not only eludes capture, he revels in the pursuit.",
+  "backdropPath": "/sfW8gtA6Bz2F4zK1FoCKbMqTF8Z.jpg",
+  "posterPath": "/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg",
+  "releaseDate": "2002-12-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "db7fd488-f6d0-4f18-af24-1589974c94a6",
+      "title": "Kapj el, ha tudsz",
+      "subtitle": null,
+      "timestampString": "02:35:00",
+      "timestampInSeconds": 9300,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #217",
+        "youtubeId": "Od1GuNVVFjI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Od1GuNVVFjI/hqdefault.jpg",
+        "durationInMinutes": 218,
+        "releaseDate": 1630552500000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

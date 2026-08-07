@@ -1,0 +1,37 @@
+{
+  "id": "3270bf8b-7dbb-4be7-9a35-b767dd075257",
+  "title": "A holnap határa",
+  "originalTitle": "Edge of Tomorrow",
+  "overview": "Major Bill Cage is an officer who has never seen a day of combat when he is unceremoniously demoted and dropped into combat. Cage is killed within minutes, managing to take an alpha alien down with him. He awakens back at the beginning of the same day and is forced to fight and die again... and again - as physical contact with the alien has thrown him into a time loop.",
+  "backdropPath": "/4V1yIoAKPMRQwGBaSses8Bp2nsi.jpg",
+  "posterPath": "/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg",
+  "releaseDate": "2014-05-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "39f52f0e-ab50-4449-a66d-b68ca6dbe3f3",
+      "title": "A holnap határa",
+      "subtitle": null,
+      "timestampString": "00:27:30",
+      "timestampInSeconds": 1650,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #52",
+        "youtubeId": "z5hnMqJSVxs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z5hnMqJSVxs/hqdefault.jpg",
+        "durationInMinutes": 121,
+        "releaseDate": 1403347391000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

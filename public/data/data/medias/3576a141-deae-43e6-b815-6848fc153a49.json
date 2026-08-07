@@ -1,0 +1,63 @@
+{
+  "id": "3576a141-deae-43e6-b815-6848fc153a49",
+  "title": "Remélem legközelebb sikerül meghalnod :)",
+  "originalTitle": "Remélem legközelebb sikerül meghalnod :)",
+  "overview": "Eszter, 16, is secretly in love with her English teacher, while Peter, also 16, is hopelessly in love with Eszter. One day, the teacher announces that he is leaving the school to move to London. That same day, Eszter receives a farewell e-mail message from him. An online affair begins and spirals into sexual abuse.",
+  "backdropPath": "/fdcJQ4SmSZmNfJfZu7hAOO3AQR2.jpg",
+  "posterPath": "/mNnvRSwW6k7MsZoBoZ6ScC3ZRo.jpg",
+  "releaseDate": "2018-09-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "34ace942-f6c3-46da-ae81-3ad111c17861",
+      "title": "Remélem legközelebb sikerül meghalnod :)",
+      "subtitle": null,
+      "timestampString": "01:32:43",
+      "timestampInSeconds": 5563,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #151",
+        "youtubeId": "hcylcX_kgM0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/hcylcX_kgM0/hqdefault.jpg",
+        "durationInMinutes": 234,
+        "releaseDate": 1537428229000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "edc6136c-bbda-48df-a034-6f40f0d60d41",
+      "title": "Remélem legközelebb sikerül meghalnod :)",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "AUDIO_COMMENTARY",
+        "title": "Filmbarátok Audiokommentár: Remélem legközelebb sikerül meghalnod :)",
+        "youtubeId": "YOOttqnEDrc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/YOOttqnEDrc/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1579366452000,
+        "participants": [
+          {
+            "id": "05f8f659-4681-4a5b-8dea-51a903b3f6af",
+            "name": "Schwechtje Mihály"
+          }
+        ]
+      }
+    }
+  ]
+}

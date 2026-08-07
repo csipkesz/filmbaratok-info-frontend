@@ -1,0 +1,45 @@
+{
+  "id": "1ae6fb35-a396-49ac-a235-4c3117456970",
+  "title": "Üveg",
+  "originalTitle": "Glass",
+  "overview": "In a series of escalating encounters, former security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.",
+  "backdropPath": "/rzsMWXQ7GaN60wIpg3yf01iBmXy.jpg",
+  "posterPath": "/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg",
+  "releaseDate": "2019-01-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c64e165f-8082-4a32-8103-0f7e34994674",
+      "title": "Üveg [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "03:33:38",
+      "timestampInSeconds": 12818,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #161",
+        "youtubeId": "c8SMgflP8R4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/c8SMgflP8R4/hqdefault.jpg",
+        "durationInMinutes": 262,
+        "releaseDate": 1548928591000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

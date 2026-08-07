@@ -1,0 +1,45 @@
+{
+  "id": "e83c0213-86a6-4b5f-9f64-2b2758b27c72",
+  "title": "Inferno",
+  "originalTitle": "Inferno",
+  "overview": "After waking up in a hospital with amnesia, professor Robert Langdon and a doctor must race against time to foil a deadly global plot.",
+  "backdropPath": "/bYSzeJpAHOBMRNJStaubwWwKI72.jpg",
+  "posterPath": "/smaWxdIMH24gD96lKNe1a036LVG.jpg",
+  "releaseDate": "2016-10-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d811ade1-6174-4169-96cc-d87080b1ca2c",
+      "title": "Inferno",
+      "subtitle": null,
+      "timestampString": "00:34:57",
+      "timestampInSeconds": 2097,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #109",
+        "youtubeId": "J8Vj2ckmHM4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/J8Vj2ckmHM4/hqdefault.jpg",
+        "durationInMinutes": 132,
+        "releaseDate": 1477582510000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

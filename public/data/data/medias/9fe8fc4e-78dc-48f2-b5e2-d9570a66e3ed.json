@@ -1,0 +1,45 @@
+{
+  "id": "9fe8fc4e-78dc-48f2-b5e2-d9570a66e3ed",
+  "title": "Szörny Egyetem",
+  "originalTitle": "Monsters University",
+  "overview": "A look at the relationship between Mike and Sulley during their days at Monsters University — when they weren't necessarily the best of friends.",
+  "backdropPath": "/mIpCxBWNz6SHCQBe2K2PFr5MB7f.jpg",
+  "posterPath": "/y7thwJ7z5Bplv6vwl6RI0yteaDD.jpg",
+  "releaseDate": "2013-06-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0472374d-835a-416c-ae97-2e6928fe4650",
+      "title": "Szörny Egyetem",
+      "subtitle": null,
+      "timestampString": "00:17:05",
+      "timestampInSeconds": 1025,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #32",
+        "youtubeId": "6P4PZX3FJGA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/6P4PZX3FJGA/hqdefault.jpg",
+        "durationInMinutes": 125,
+        "releaseDate": 1373643280000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "cdccbabe-35db-4f00-b12e-fc2a4d381979",
+            "name": "DreamerInstinct"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

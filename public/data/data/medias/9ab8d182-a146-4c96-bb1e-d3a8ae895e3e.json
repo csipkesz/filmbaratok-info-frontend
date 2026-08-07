@@ -1,0 +1,45 @@
+{
+  "id": "9ab8d182-a146-4c96-bb1e-d3a8ae895e3e",
+  "title": "Belfast",
+  "originalTitle": "Belfast",
+  "overview": "Buddy is a young boy on the cusp of adolescence, whose life is filled with familial love, childhood hijinks, and a blossoming romance. Yet, with his beloved hometown caught up in increasing turmoil, his family faces a momentous choice: hope the conflict will pass or leave everything they know behind for a new life.",
+  "backdropPath": "/l1Z9PLy8AXiqlZmFEgiGWeSFdSX.jpg",
+  "posterPath": "/3mInLZyPOVLsZRsBwNHi3UJXXnm.jpg",
+  "releaseDate": "2021-11-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "bd45055d-943e-4add-bf40-5cc9cca12e31",
+      "title": "Belfast",
+      "subtitle": null,
+      "timestampString": "01:14:35",
+      "timestampInSeconds": 4475,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #228",
+        "youtubeId": "lv3ZpY859Dw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/lv3ZpY859Dw/hqdefault.jpg",
+        "durationInMinutes": 218,
+        "releaseDate": 1646480502000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

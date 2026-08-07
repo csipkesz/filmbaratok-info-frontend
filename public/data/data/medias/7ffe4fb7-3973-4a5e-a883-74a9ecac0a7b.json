@@ -1,0 +1,45 @@
+{
+  "id": "7ffe4fb7-3973-4a5e-a883-74a9ecac0a7b",
+  "title": "Willy's Wonderland",
+  "originalTitle": "Willy's Wonderland",
+  "overview": "When his car breaks down, a quiet loner agrees to clean an abandoned family fun center in exchange for repairs. He soon finds himself waging war against possessed animatronic mascots while trapped inside Willy's Wonderland.",
+  "backdropPath": "/jFINtstDUh0vHOGImpMAmLrPcXy.jpg",
+  "posterPath": "/keEnkeAvifw8NSEC4f6WsqeLJgF.jpg",
+  "releaseDate": "2021-02-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a95749aa-304d-46df-9d35-c08d61b05dad",
+      "title": "Willy's Wonderland [Spoileres]",
+      "subtitle": null,
+      "timestampString": "01:38:00",
+      "timestampInSeconds": 5880,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #207",
+        "youtubeId": "nRj4p0apAgo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nRj4p0apAgo/hqdefault.jpg",
+        "durationInMinutes": 247,
+        "releaseDate": 1614949852000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

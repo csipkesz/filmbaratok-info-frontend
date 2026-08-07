@@ -1,0 +1,41 @@
+{
+  "id": "74936617-9093-4e67-aed1-466fedd52399",
+  "title": "Időzített bomba",
+  "originalTitle": "Fuze",
+  "overview": "An unexploded WWII bomb is discovered on a busy construction site in the centre of London. Chaos ensues as the military and police begin a mass evacuation against a ticking clock.",
+  "backdropPath": "/8wIaBCeGv3UhIn5CJOWQGHT1Cif.jpg",
+  "posterPath": "/oMFdQE5hMJ9JjhNORegwTo0GKmh.jpg",
+  "releaseDate": "2026-03-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8c6f770d-e102-4c81-ace2-2091c6f0385d",
+      "title": "Időzített bomba",
+      "subtitle": null,
+      "timestampString": "01:16:50",
+      "timestampInSeconds": 4610,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #326",
+        "youtubeId": "PyX_W5BWsXo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/PyX_W5BWsXo/hqdefault.jpg",
+        "durationInMinutes": 236,
+        "releaseDate": 1778948292000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

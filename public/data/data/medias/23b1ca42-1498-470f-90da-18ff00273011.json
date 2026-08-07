@@ -1,0 +1,45 @@
+{
+  "id": "23b1ca42-1498-470f-90da-18ff00273011",
+  "title": "Amerika kapitány",
+  "originalTitle": "Captain America",
+  "overview": "During World War II, a brave, patriotic American Soldier undergoes experiments to become a new supersoldier, \"Captain America\". Racing to Germany to sabotage the rockets of Nazi baddie \"Red Skull\", Captain America winds up frozen until the 1990s. He reawakens to find that the Red Skull has changed identities and is now planning to kidnap the President of the United States.",
+  "backdropPath": "/a7nEljKws5sgtCndAkJtdpGz9pe.jpg",
+  "posterPath": "/vdHrLFfHcJX9nlvUfG3LK2a2hq4.jpg",
+  "releaseDate": "1990-12-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "40361767-8b9c-4e9e-bf0c-5f0d48fe4dbb",
+      "title": "Amerika kapitány",
+      "subtitle": null,
+      "timestampString": "02:12:40",
+      "timestampInSeconds": 7960,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #316",
+        "youtubeId": "tj6Fv2PRYFw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tj6Fv2PRYFw/hqdefault.jpg",
+        "durationInMinutes": 318,
+        "releaseDate": 1765639323000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7b02ddf4-36e2-4860-8004-b3a5a04fff2e",
+  "title": "A platform 2",
+  "originalTitle": "El hoyo 2",
+  "overview": "After a mysterious leader imposes his law in a brutal system of vertical cells, a new arrival battles against a dubious food distribution method.",
+  "backdropPath": "/3m0j3hCS8kMAaP9El6Vy5Lqnyft.jpg",
+  "posterPath": "/tvIpBg12IIA5Dr9Sjn38ygS1vQp.jpg",
+  "releaseDate": "2024-09-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3d8371c7-fa0d-4fd3-bb54-d80d13436628",
+      "title": "A platform 2",
+      "subtitle": null,
+      "timestampString": "02:38:20",
+      "timestampInSeconds": 9500,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #289",
+        "youtubeId": "25swweCqsZY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/25swweCqsZY/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1730401855000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

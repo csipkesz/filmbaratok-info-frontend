@@ -1,0 +1,28 @@
+{
+  "id": "9258e746-e2f5-49ba-b2f5-34f163005476",
+  "title": "Riki-Oh: The Story of Ricky",
+  "originalTitle": null,
+  "overview": null,
+  "backdropPath": null,
+  "posterPath": null,
+  "releaseDate": null,
+  "topics": [
+    {
+      "id": "134b51da-e733-4cd6-9417-b2368c3c35b1",
+      "title": "Riki-Oh: The Story of Ricky",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "AUDIO_COMMENTARY",
+        "title": "Filmbarátok Audiokommentár: Riki-Oh: The Story of Ricky",
+        "youtubeId": "LIjtG59hPuU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/LIjtG59hPuU/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1586602667000,
+        "participants": []
+      }
+    }
+  ]
+}

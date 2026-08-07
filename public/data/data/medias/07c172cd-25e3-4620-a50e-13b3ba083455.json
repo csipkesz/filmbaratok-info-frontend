@@ -1,0 +1,45 @@
+{
+  "id": "07c172cd-25e3-4620-a50e-13b3ba083455",
+  "title": "Hiúságok máglyája",
+  "originalTitle": "The Bonfire of the Vanities",
+  "overview": "After his mistress runs over a black teen, a Wall Street hotshot sees his life unravel in the spotlight; A down-and-out reporter breaks the story and opportunists clamber to use it to their advantage.",
+  "backdropPath": "/uSInqX82oDeEHSDUwekneCJ2HLc.jpg",
+  "posterPath": "/pdrPrygZ5dVKi8UxrUXMmq1k2iO.jpg",
+  "releaseDate": "1990-12-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "73498bcb-67ef-4699-a0ad-5b0f8c1b6e8a",
+      "title": "Hiúságok máglyája",
+      "subtitle": null,
+      "timestampString": "03:23:05",
+      "timestampInSeconds": 12185,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #214",
+        "youtubeId": "aARrCL30caA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/aARrCL30caA/hqdefault.jpg",
+        "durationInMinutes": 264,
+        "releaseDate": 1625845165000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

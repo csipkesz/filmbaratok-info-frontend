@@ -1,0 +1,45 @@
+{
+  "id": "fb279785-383e-404c-abaf-1d1c3c9521d1",
+  "title": "Meglógtam a Ferrarival",
+  "originalTitle": "Ferris Bueller's Day Off",
+  "overview": "After high school slacker Ferris Bueller successfully fakes an illness in order to skip school for the day, he goes on a series of adventures throughout Chicago with his girlfriend Sloane and best friend Cameron, all the while trying to outwit his wily school principal and fed-up sister.",
+  "backdropPath": "/leehjwM57DKJ79XMUll4oAF0kin.jpg",
+  "posterPath": "/9LTQNCvoLsKXP0LtaKAaYVtRaQL.jpg",
+  "releaseDate": "1986-06-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b328cc96-4dec-4f73-99f0-bc012eb9b9e2",
+      "title": "Meglógtam a Ferrarival",
+      "subtitle": null,
+      "timestampString": "03:15:25",
+      "timestampInSeconds": 11725,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #211",
+        "youtubeId": "e7FpksPcoKY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/e7FpksPcoKY/hqdefault.jpg",
+        "durationInMinutes": 232,
+        "releaseDate": 1621526653000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

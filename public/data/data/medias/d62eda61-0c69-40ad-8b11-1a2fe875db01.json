@@ -1,0 +1,41 @@
+{
+  "id": "d62eda61-0c69-40ad-8b11-1a2fe875db01",
+  "title": "A Karib-tenger kalózai: Salazar bosszúja",
+  "originalTitle": "Pirates of the Caribbean: Dead Men Tell No Tales",
+  "overview": "Thrust into an all-new adventure, a down-on-his-luck Capt. Jack Sparrow feels the winds of ill-fortune blowing even more strongly when deadly ghost sailors led by his old nemesis, the evil Capt. Salazar, escape from the Devil's Triangle. Jack's only hope of survival lies in seeking out the legendary Trident of Poseidon, but to find it, he must forge an uneasy alliance with a brilliant and beautiful astronomer and a headstrong young man in the British navy.",
+  "backdropPath": "/7C921eWK06n12c1miRXnYoEu5Yv.jpg",
+  "posterPath": "/6lAPOAFYFWIO3SQRemEY2wInQMC.jpg",
+  "releaseDate": "2017-05-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "41903e4a-afde-4b7b-a4c2-12988c038537",
+      "title": "A Karib-tenger kalózai: Salazar bosszúja",
+      "subtitle": null,
+      "timestampString": "00:33:40",
+      "timestampInSeconds": 2020,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #123",
+        "youtubeId": "bURb6dAUghs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/bURb6dAUghs/hqdefault.jpg",
+        "durationInMinutes": 147,
+        "releaseDate": 1497253469000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

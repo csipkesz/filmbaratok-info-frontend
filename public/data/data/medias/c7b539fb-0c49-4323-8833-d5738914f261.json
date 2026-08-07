@@ -1,0 +1,41 @@
+{
+  "id": "c7b539fb-0c49-4323-8833-d5738914f261",
+  "title": "Sin City: Ölni tudnál érte",
+  "originalTitle": "Sin City: A Dame to Kill For",
+  "overview": "Some of Sin City's most hard-boiled citizens cross paths with a few of its more reviled inhabitants.",
+  "backdropPath": "/rxMnmklIpunsNsRkQ7hw61ZJa84.jpg",
+  "posterPath": "/50kALxDX4mmzIRljbNbPY0u4cie.jpg",
+  "releaseDate": "2014-08-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5f54f655-18f8-4e5f-8d4b-49ca24ff46e7",
+      "title": "Sin City: Ölni tudnál érte",
+      "subtitle": null,
+      "timestampString": "00:31:50",
+      "timestampInSeconds": 1910,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #56",
+        "youtubeId": "IGq19Ebu3DU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IGq19Ebu3DU/hqdefault.jpg",
+        "durationInMinutes": 199,
+        "releaseDate": 1409327568000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

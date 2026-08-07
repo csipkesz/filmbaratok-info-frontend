@@ -1,0 +1,37 @@
+{
+  "id": "db4819b7-c743-4133-b795-00a8ff35fd6d",
+  "title": "Csúnya, gonosz bácsik",
+  "originalTitle": "מי מפחד מהזאב הרע",
+  "overview": "The twisted paths of three very different men brutally collide due to a chain of unspeakable murders: a grieving father who has been doomed to seek vengeance and a police detective who boldly crosses the narrow boundary between law and crime meet a religion teacher suspected of being the murderer.",
+  "backdropPath": "/fnaSMLGuwyErLTA7D7MAfCFhnLO.jpg",
+  "posterPath": "/7SEdoH6qBIYNhIV7H9cFSRe3wO1.jpg",
+  "releaseDate": "2013-04-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "78c6d55b-5d63-4490-b0e0-1b1eb5118a16",
+      "title": "Csúnya, gonosz bácsik",
+      "subtitle": null,
+      "timestampString": "00:54:40",
+      "timestampInSeconds": 3280,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #52",
+        "youtubeId": "z5hnMqJSVxs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z5hnMqJSVxs/hqdefault.jpg",
+        "durationInMinutes": 121,
+        "releaseDate": 1403347391000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

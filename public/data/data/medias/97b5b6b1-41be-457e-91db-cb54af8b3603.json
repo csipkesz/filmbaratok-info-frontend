@@ -1,0 +1,71 @@
+{
+  "id": "97b5b6b1-41be-457e-91db-cb54af8b3603",
+  "title": "Blackfish",
+  "originalTitle": "Blackfish",
+  "overview": "Notorious killer whale Tilikum is responsible for the deaths of three individuals, including a top killer whale trainer. Blackfish shows the sometimes devastating consequences of keeping such intelligent and sentient creatures in captivity.",
+  "backdropPath": "/tCW0uGWwfZzRkupNFdI0yUo4A0w.jpg",
+  "posterPath": "/kCk4mDFE96Mn1AYfEcbxkIiw7ND.jpg",
+  "releaseDate": "2013-06-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "080ee332-c3eb-476c-9d7f-568c6fc14ea7",
+      "title": "Blackfish",
+      "subtitle": null,
+      "timestampString": "01:08:54",
+      "timestampInSeconds": 4134,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #44",
+        "youtubeId": "_NwJoO7yxrE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_NwJoO7yxrE/hqdefault.jpg",
+        "durationInMinutes": 137,
+        "releaseDate": 1391206083000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "5f77279a-e8eb-46c6-a31e-8031e2e28e62",
+            "name": "Émi"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "24061d17-280e-44bc-af95-77843b6de5a4",
+      "title": "Blackfish",
+      "subtitle": null,
+      "timestampString": "02:07:33",
+      "timestampInSeconds": 7653,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #50",
+        "youtubeId": "3fU-zjKUKtc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3fU-zjKUKtc/hqdefault.jpg",
+        "durationInMinutes": 195,
+        "releaseDate": 1399567403000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

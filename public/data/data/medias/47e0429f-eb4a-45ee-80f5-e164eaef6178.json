@@ -1,0 +1,45 @@
+{
+  "id": "47e0429f-eb4a-45ee-80f5-e164eaef6178",
+  "title": "Apostle",
+  "originalTitle": "Apostle",
+  "overview": "In 1905, a man travels to a remote island in search of his missing sister who has been kidnapped by a mysterious religious cult.",
+  "backdropPath": "/tvGTSdLjKJgFHTcF4x9HSxoTIgW.jpg",
+  "posterPath": "/rd269f2Yftxxam3EOJPYVwrvjIJ.jpg",
+  "releaseDate": "2018-09-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "149c3b3e-a885-4c65-b0e4-49839dfc2f61",
+      "title": "Apostle",
+      "subtitle": null,
+      "timestampString": "02:39:10",
+      "timestampInSeconds": 9550,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #154",
+        "youtubeId": "8kJ3-leKXJo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/8kJ3-leKXJo/hqdefault.jpg",
+        "durationInMinutes": 220,
+        "releaseDate": 1541001500000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

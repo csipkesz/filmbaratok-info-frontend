@@ -1,0 +1,41 @@
+{
+  "id": "149eacd2-c428-4c07-a996-eea2a680fe91",
+  "title": "Transformers: A kihalás kora",
+  "originalTitle": "Transformers: Age of Extinction",
+  "overview": "As humanity picks up the pieces after the battle of Chicago, a shadowy group reveals itself in an attempt to control the direction of history…while an ancient, powerful new menace sets Earth in its crosshairs. With help from Cade Yeager, Optimus Prime and the Autobots rise to meet their most fearsome challenge yet.",
+  "backdropPath": "/wxr4Z6E83h14CogsZOzDm1vuDX3.jpg",
+  "posterPath": "/jyzrfx2WaeY60kYZpPYepSjGz4S.jpg",
+  "releaseDate": "2014-06-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c27efa2e-98ed-422a-bbe1-c12771827f05",
+      "title": "Transformers: A kihalás kora",
+      "subtitle": null,
+      "timestampString": "00:29:25",
+      "timestampInSeconds": 1765,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #53",
+        "youtubeId": "m4ZV-tpyiqU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/m4ZV-tpyiqU/hqdefault.jpg",
+        "durationInMinutes": 174,
+        "releaseDate": 1404572612000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

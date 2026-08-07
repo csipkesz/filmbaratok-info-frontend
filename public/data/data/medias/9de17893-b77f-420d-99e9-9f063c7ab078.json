@@ -1,0 +1,45 @@
+{
+  "id": "9de17893-b77f-420d-99e9-9f063c7ab078",
+  "title": "Batman kezdődik",
+  "originalTitle": "Batman Begins",
+  "overview": "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+  "backdropPath": "/9IIBboV7MCT0bTxzXHmWK1Hq558.jpg",
+  "posterPath": "/sPX89Td70IDDjVr85jdSBb4rWGr.jpg",
+  "releaseDate": "2005-06-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "45bda820-adaf-497c-b111-89279797cce6",
+      "title": "Batman kezdődik",
+      "subtitle": null,
+      "timestampString": "02:46:52",
+      "timestampInSeconds": 10012,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #299",
+        "youtubeId": "xjwmsXHThGE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/xjwmsXHThGE/hqdefault.jpg",
+        "durationInMinutes": 200,
+        "releaseDate": 1742750106000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

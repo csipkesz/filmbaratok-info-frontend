@@ -1,0 +1,45 @@
+{
+  "id": "0a229cc9-9e98-430b-9556-5c8d7f4b939c",
+  "title": "Terminátor: Sötét végzet",
+  "originalTitle": "Terminator: Dark Fate",
+  "overview": "Decades after Sarah Connor prevented Judgment Day, a lethal new Terminator is sent to eliminate the future leader of the resistance. In a fight to save mankind, battle-hardened Sarah Connor teams up with an unexpected ally and an enhanced super soldier to stop the deadliest Terminator yet.",
+  "backdropPath": "/a6cDxdwaQIFjSkXf7uskg78ZyTq.jpg",
+  "posterPath": "/vqzNJRH4YyquRiWxCCOH0aXggHI.jpg",
+  "releaseDate": "2019-10-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "838b75fd-7052-42ef-b16e-b01e2e870381",
+      "title": "Terminátor: Sötét végzet [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "03:04:15",
+      "timestampInSeconds": 11055,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #178",
+        "youtubeId": "9GYtmUHS9Wg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9GYtmUHS9Wg/hqdefault.jpg",
+        "durationInMinutes": 253,
+        "releaseDate": 1573139236000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7f59cf50-109e-49b9-9a3a-9708ee297e94",
+  "title": "A szomorúság háromszöge",
+  "originalTitle": "Triangle of Sadness",
+  "overview": "A celebrity model couple are invited on a luxury cruise for the uber-rich, helmed by an unhinged, alcoholic captain. What first appears Instagrammable ends catastrophically, leaving the survivors stranded on a desert island in a struggle of hierarchy.",
+  "backdropPath": "/vNPY4oCSUp7CxbHkKJNRx1fmCl0.jpg",
+  "posterPath": "/k9eLozCgCed5FGTSdHu0bBElAV8.jpg",
+  "releaseDate": "2022-09-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6efb8878-f35c-44d6-96f2-1fbc9cce2965",
+      "title": "A szomorúság háromszöge",
+      "subtitle": null,
+      "timestampString": "01:00:50",
+      "timestampInSeconds": 3650,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #242",
+        "youtubeId": "aT0O2kW4N38",
+        "thumbnailUrl": "https://i.ytimg.com/vi/aT0O2kW4N38/hqdefault.jpg",
+        "durationInMinutes": 223,
+        "releaseDate": 1667206800000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

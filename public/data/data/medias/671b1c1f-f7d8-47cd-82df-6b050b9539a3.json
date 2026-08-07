@@ -1,0 +1,41 @@
+{
+  "id": "671b1c1f-f7d8-47cd-82df-6b050b9539a3",
+  "title": "Pénznyelő",
+  "originalTitle": "The Money Pit",
+  "overview": "After being evicted from their Manhattan apartment, a couple buy what looks like the home of their dreams—only to find themselves saddled with a bank-account-draining nightmare. Struggling to keep their relationship together as their rambling mansion falls to pieces around them, the two watch in hilarious horror as everything—including the kitchen sink—disappears into the Money Pit.",
+  "backdropPath": "/2C2kUFxhs5u2G9xeg4KQ0FZvFFA.jpg",
+  "posterPath": "/bohhidIi1WWU5NNYF9l5wLQu3Ii.jpg",
+  "releaseDate": "1986-03-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8f2d393c-b70d-49af-a174-ea00887944b8",
+      "title": "Pénznyelő",
+      "subtitle": null,
+      "timestampString": "02:24:20",
+      "timestampInSeconds": 8660,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #190",
+        "youtubeId": "w7oFnCSc3u4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/w7oFnCSc3u4/hqdefault.jpg",
+        "durationInMinutes": 188,
+        "releaseDate": 1590603790000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

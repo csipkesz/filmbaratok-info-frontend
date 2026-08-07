@@ -1,0 +1,41 @@
+{
+  "id": "e36ba6d6-60a1-4477-b42d-33afc11446cb",
+  "title": "A búcsú",
+  "originalTitle": "The Farewell",
+  "overview": "A headstrong Chinese-American woman returns to China when her beloved grandmother is given a terminal diagnosis. Billi struggles with her family's decision to keep grandma in the dark about her own illness as they all stage an impromptu wedding to see grandma one last time.",
+  "backdropPath": "/5INPBiKVRsyp9kgHfsC0cTfvKFH.jpg",
+  "posterPath": "/7ht2IMGynDSVQGvAXhAb83DLET8.jpg",
+  "releaseDate": "2019-07-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "78d01f8b-288e-43fc-bdf9-17ac50fb6a26",
+      "title": "A búcsú",
+      "subtitle": null,
+      "timestampString": "01:34:40",
+      "timestampInSeconds": 5680,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #186",
+        "youtubeId": "LvzEUgrbuec",
+        "thumbnailUrl": "https://i.ytimg.com/vi/LvzEUgrbuec/hqdefault.jpg",
+        "durationInMinutes": 214,
+        "releaseDate": 1584373994000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

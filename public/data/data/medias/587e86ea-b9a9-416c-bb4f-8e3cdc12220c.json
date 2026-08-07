@@ -1,0 +1,45 @@
+{
+  "id": "587e86ea-b9a9-416c-bb4f-8e3cdc12220c",
+  "title": "Spiritwalker",
+  "originalTitle": "유체이탈자",
+  "overview": "Unable to remember anything about his life, a man begins regaining consciousness in a new body every 12 hours. Now, he must piece together his identity, all while evading attacks from pursuing agents and dangerous criminals alike.",
+  "backdropPath": "/9GVaQMfv8uhIKWQdDUxP02intKW.jpg",
+  "posterPath": "/pufGxcWEyADFcoqeDcJlAAVX0Fl.jpg",
+  "releaseDate": "2021-10-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "233fc15c-81c8-4423-83d2-a25af07f7ecf",
+      "title": "Spiritwalker",
+      "subtitle": null,
+      "timestampString": "02:11:00",
+      "timestampInSeconds": 7860,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #245",
+        "youtubeId": "thnBmMbVpOo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/thnBmMbVpOo/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1671033623000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "6043f30a-25c1-4d1d-8e78-21d285e63db8",
+  "title": "A Titanic éjszakája",
+  "originalTitle": "A Night to Remember",
+  "overview": "The sinking of the Titanic is presented in a highly realistic fashion in this tense British drama. The disaster is portrayed largely from the perspective of the ocean liner's second officer, Charles Lightoller. Despite numerous warnings about ice, the ship sails on, with Capt. Edward John Smith keeping it going at a steady clip. When the doomed vessel finally hits an iceberg, the crew and passengers discover that they lack enough lifeboats, and tragedy follows.",
+  "backdropPath": "/gHWnnV2n9eS1aQKRmg6JSpj6bsC.jpg",
+  "posterPath": "/6fDhJAz6AuYWj3hAnvUL42Xlxfj.jpg",
+  "releaseDate": "1958-07-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b7093353-4cf9-46ab-ab24-ddfcd001ee9d",
+      "title": "A Titanic éjszakája",
+      "subtitle": null,
+      "timestampString": "03:24:00",
+      "timestampInSeconds": 12240,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #147",
+        "youtubeId": "VFKKYddusFg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VFKKYddusFg/hqdefault.jpg",
+        "durationInMinutes": 235,
+        "releaseDate": 1531561740000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

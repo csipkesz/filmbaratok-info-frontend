@@ -1,0 +1,45 @@
+{
+  "id": "e5dbabea-a123-4005-b136-5907660867fb",
+  "title": "Lajkó, cigány az űrben",
+  "originalTitle": "Lajkó – Cigány az űrben",
+  "overview": "In 1957 the Soviet Union decides to give Hungary the chance to choose the world's first cosmonaut, who can be the very first person in space. It seems like the best candidate is Lajkó, the gypsy spraying pilot.",
+  "backdropPath": "/c4c7w4S0HWUkmS4Is7rxPA3NmgE.jpg",
+  "posterPath": "/b3urrk25jk0amzNCX9j8vrV17JC.jpg",
+  "releaseDate": "2018-03-29T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4310f57f-4bb6-4f1c-ad02-00a524b5833f",
+      "title": "Lajkó, cigány az űrben",
+      "subtitle": null,
+      "timestampString": "01:40:30",
+      "timestampInSeconds": 6030,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #142",
+        "youtubeId": "9S7p7P1Y2po",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9S7p7P1Y2po/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1525105433000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "5ddf54ef-9766-42f9-891d-aff470eef7b4",
+  "title": "Bridget Jones babát vár",
+  "originalTitle": "Bridget Jones's Baby",
+  "overview": "After breaking up, Bridget Jones' happily-ever-after hasn't quite gone according to plan. Fortysomething and single again, she decides to focus on her job and surround herself with old friends and new. For once, Bridget has everything completely under control. Then her love life takes a turn when she meets Jack. A week later, she runs into Mark before she finds herself pregnant, but with one hitch - she's not sure of the identity of her baby's father - Mark or Jack.",
+  "backdropPath": "/hTReEn9kCeZLxgQmC46hQszLKSq.jpg",
+  "posterPath": "/5hHomngoPZrNoXOPlyaHV6eXaQW.jpg",
+  "releaseDate": "2016-09-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b555d520-a6eb-4a08-963a-664aa143fc3b",
+      "title": "Bridget Jones babát vár",
+      "subtitle": null,
+      "timestampString": "02:34:20",
+      "timestampInSeconds": 9260,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #107",
+        "youtubeId": "nil8BrN67hQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nil8BrN67hQ/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1475265113000,
+        "participants": [
+          {
+            "id": "0d9dd4b7-cf61-495d-9e4c-ee24abb25d28",
+            "name": "Emese"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

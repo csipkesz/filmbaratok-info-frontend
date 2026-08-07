@@ -1,0 +1,45 @@
+{
+  "id": "81321d8c-b804-432b-9f03-2bd07bd4eb5d",
+  "title": "Brightburn – A lángoló fiú",
+  "originalTitle": "Brightburn",
+  "overview": "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
+  "backdropPath": "/j3w3lT3ABvJsVE3byNOMCYmnGMB.jpg",
+  "posterPath": "/sJWwkYc9ajwnPRSkqj8Aue5JbKz.jpg",
+  "releaseDate": "2019-05-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9222644b-7f60-4114-b42c-48ea42ba8488",
+      "title": "Brightburn – A lángoló fiú",
+      "subtitle": null,
+      "timestampString": "03:45:44",
+      "timestampInSeconds": 13544,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #169",
+        "youtubeId": "-bLznzpWJe8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-bLznzpWJe8/hqdefault.jpg",
+        "durationInMinutes": 317,
+        "releaseDate": 1559569793000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

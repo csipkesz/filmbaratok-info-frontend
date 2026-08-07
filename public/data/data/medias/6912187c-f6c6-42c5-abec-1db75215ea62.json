@@ -1,0 +1,41 @@
+{
+  "id": "6912187c-f6c6-42c5-abec-1db75215ea62",
+  "title": "Tűnj el!",
+  "originalTitle": "Get Out",
+  "overview": "Chris and his girlfriend Rose go upstate to visit her parents for the weekend. At first, Chris reads the family's overly accommodating behavior as nervous attempts to deal with their daughter's interracial relationship, but as the weekend progresses, a series of increasingly disturbing discoveries lead him to a truth that he never could have imagined.",
+  "backdropPath": "/o8dPH0ZSIyyViP6rjRX1djwCUwI.jpg",
+  "posterPath": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+  "releaseDate": "2017-02-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6a8c468d-ebd9-46d9-b5cb-e63ba3d4f11e",
+      "title": "Tűnj el!",
+      "subtitle": null,
+      "timestampString": "03:35:13",
+      "timestampInSeconds": 12913,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #120",
+        "youtubeId": "-3teFOfAauw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-3teFOfAauw/hqdefault.jpg",
+        "durationInMinutes": 251,
+        "releaseDate": 1493646027000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

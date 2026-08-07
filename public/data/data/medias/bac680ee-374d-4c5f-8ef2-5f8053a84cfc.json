@@ -1,0 +1,45 @@
+{
+  "id": "bac680ee-374d-4c5f-8ef2-5f8053a84cfc",
+  "title": "Az Igazság Ligája",
+  "originalTitle": "Justice League",
+  "overview": "Fuelled by his restored faith in humanity and inspired by Superman's selfless act, Bruce Wayne and Diana Prince assemble a team of metahumans consisting of Barry Allen, Arthur Curry and Victor Stone to face the catastrophic threat of Steppenwolf and the Parademons who are on the hunt for three Mother Boxes on Earth.",
+  "backdropPath": "/2nyaeISu2xIxIgZYNpX4UayY8PN.jpg",
+  "posterPath": "/eifGNCSDuxJeS1loAXil5bIGgvC.jpg",
+  "releaseDate": "2017-11-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "bdabfc7c-ee14-419c-b0b9-abc0ec5b826e",
+      "title": "Az Igazság Ligája",
+      "subtitle": null,
+      "timestampString": "01:31:00",
+      "timestampInSeconds": 5460,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #133",
+        "youtubeId": "HByKV2iRM34",
+        "thumbnailUrl": "https://i.ytimg.com/vi/HByKV2iRM34/hqdefault.jpg",
+        "durationInMinutes": 235,
+        "releaseDate": 1512135779000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

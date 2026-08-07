@@ -1,0 +1,45 @@
+{
+  "id": "dc1b2056-9da7-4976-84ee-405c812f6a5f",
+  "title": "Éretlenségi",
+  "originalTitle": "Booksmart",
+  "overview": "Two academic teenage superstars realize, on the eve of their high school graduation, that they should have worked less and played more. Determined to never fall short of their peers, the girls set out on a mission to cram four years of fun into one night.",
+  "backdropPath": "/cheDSO3mYmsAFQlRM91o7MK6Wcc.jpg",
+  "posterPath": "/2aSxRDmisJP90H3S0aocyuQIe4z.jpg",
+  "releaseDate": "2019-05-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4f0d2c61-f708-4147-843e-2cbd41318980",
+      "title": "Éretlenségi",
+      "subtitle": null,
+      "timestampString": "01:54:00",
+      "timestampInSeconds": 6840,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #170",
+        "youtubeId": "tw65hAXphtM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tw65hAXphtM/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1561124178000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

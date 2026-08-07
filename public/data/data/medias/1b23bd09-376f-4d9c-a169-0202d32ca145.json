@@ -1,0 +1,37 @@
+{
+  "id": "1b23bd09-376f-4d9c-a169-0202d32ca145",
+  "title": "Akihez beszél a föld",
+  "originalTitle": "The Water Diviner",
+  "overview": "In 1919, Australian farmer Joshua Connor travels to Turkey to discover the fate of his three sons, reported missing in action. Holding on to hope, Joshua must travel across the war-torn landscape to find the truth and his own peace.",
+  "backdropPath": "/ixJQ8u7lnCO1j7ldHAOzv3UF5Hz.jpg",
+  "posterPath": "/kIlVtC22BDNiiAiCvSZoOS7FhY9.jpg",
+  "releaseDate": "2014-12-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5c497247-4f8d-4956-a92b-04810095c3e1",
+      "title": "Akihez beszél a föld",
+      "subtitle": null,
+      "timestampString": "01:13:57",
+      "timestampInSeconds": 4437,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #79",
+        "youtubeId": "MFtdt9e1-5Y",
+        "thumbnailUrl": "https://i.ytimg.com/vi/MFtdt9e1-5Y/hqdefault.jpg",
+        "durationInMinutes": 158,
+        "releaseDate": 1439397604000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

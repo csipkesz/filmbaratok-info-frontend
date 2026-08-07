@@ -1,0 +1,45 @@
+{
+  "id": "9c7ab642-b30f-4bc7-ba34-41418a0a2844",
+  "title": "Kötéltánc",
+  "originalTitle": "The Walk",
+  "overview": "The story of French high-wire artist Philippe Petit's attempt to cross the Twin Towers of the World Trade Center in 1974.",
+  "backdropPath": "/q2Ev0aXGXm5Hnm12TVtvdgNhMnv.jpg",
+  "posterPath": "/tiESRqurrZwAC0hpERogOsBhjeg.jpg",
+  "releaseDate": "2015-09-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e20bc3cd-3e0f-4df0-89bb-c16ecffc88c6",
+      "title": "Kötéltánc",
+      "subtitle": null,
+      "timestampString": "01:42:40",
+      "timestampInSeconds": 6160,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #83",
+        "youtubeId": "hnUVtArlE_k",
+        "thumbnailUrl": "https://i.ytimg.com/vi/hnUVtArlE_k/hqdefault.jpg",
+        "durationInMinutes": 177,
+        "releaseDate": 1445005790000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

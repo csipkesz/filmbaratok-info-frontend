@@ -1,0 +1,41 @@
+{
+  "id": "446d6847-cc24-4d6d-a76f-8f93e79ee2f6",
+  "title": "Kim Dzsongil bemutatja",
+  "originalTitle": "The Lovers and the Despot",
+  "overview": "Hong Kong, 1978. South Korean actress Choi Eun-hee is kidnapped by North Korean operatives following orders from dictator Kim Jong-il.",
+  "backdropPath": "/82DuNnn0uJjM1BW8abVulbqPfMM.jpg",
+  "posterPath": "/sHrGyxpPL6rsJpPY9qz7GZ3qjqA.jpg",
+  "releaseDate": "2016-09-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "07525402-584d-4614-a367-4f1139b6567b",
+      "title": "Kim Dzsongil bemutatja",
+      "subtitle": null,
+      "timestampString": "01:49:48",
+      "timestampInSeconds": 6588,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #146",
+        "youtubeId": "sfip_5w7OMc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/sfip_5w7OMc/hqdefault.jpg",
+        "durationInMinutes": 163,
+        "releaseDate": 1530162133000,
+        "participants": [
+          {
+            "id": "3da49de0-82ec-4704-a57a-3643fbf7ed43",
+            "name": "Szöllőskei Gábor"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

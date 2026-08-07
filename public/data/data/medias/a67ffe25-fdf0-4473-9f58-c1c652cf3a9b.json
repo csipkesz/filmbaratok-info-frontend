@@ -1,0 +1,41 @@
+{
+  "id": "a67ffe25-fdf0-4473-9f58-c1c652cf3a9b",
+  "title": "Sisu",
+  "originalTitle": "Sisu",
+  "overview": "When an ex-soldier who discovers gold in the Lapland wilderness tries to take the loot into the city, German soldiers led by a brutal SS officer battle him.",
+  "backdropPath": "/pBdQ4iorzRV2G38mdS6rzrmUfMA.jpg",
+  "posterPath": "/xgb30M1wL4nibyFvlHh3w4XlDYq.jpg",
+  "releaseDate": "2022-09-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ed01dacf-8cea-42bf-bb1a-d64bd177095d",
+      "title": "Sisu",
+      "subtitle": null,
+      "timestampString": "01:56:45",
+      "timestampInSeconds": 7005,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #258",
+        "youtubeId": "sLW3E8Fk1Lk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/sLW3E8Fk1Lk/hqdefault.jpg",
+        "durationInMinutes": 200,
+        "releaseDate": 1689285300000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

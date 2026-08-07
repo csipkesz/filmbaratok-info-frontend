@@ -1,0 +1,45 @@
+{
+  "id": "5ba06c0e-a4a6-49f2-8795-7c141252f9d9",
+  "title": "A Fantasztikus 4-es: Első lépések",
+  "originalTitle": "The Fantastic 4: First Steps",
+  "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
+  "backdropPath": "/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
+  "posterPath": "/nf5qaSEvyYSNeFH0YhSs5EsBLX9.jpg",
+  "releaseDate": "2025-07-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d42da302-d69c-4fe9-a80a-1bb2749ff1f2",
+      "title": "A Fantasztikus 4-es: Első lépések",
+      "subtitle": null,
+      "timestampString": "02:17:05",
+      "timestampInSeconds": 8225,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #307",
+        "youtubeId": "VKMsNci80C8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VKMsNci80C8/hqdefault.jpg",
+        "durationInMinutes": 233,
+        "releaseDate": 1753986708000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

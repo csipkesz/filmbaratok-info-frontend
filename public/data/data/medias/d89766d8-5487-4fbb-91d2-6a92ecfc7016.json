@@ -1,0 +1,49 @@
+{
+  "id": "d89766d8-5487-4fbb-91d2-6a92ecfc7016",
+  "title": "Egy Minecraft film",
+  "originalTitle": "A Minecraft Movie",
+  "overview": "Four misfits find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld: a bizarre, cubic wonderland that thrives on imagination. To get back home, they'll have to master this world while embarking on a magical quest with an unexpected, expert crafter, Steve.",
+  "backdropPath": "/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
+  "posterPath": "/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
+  "releaseDate": "2025-03-31T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4fda1cc0-7678-405c-ad60-ac2c701636de",
+      "title": "Egy Minecraft film",
+      "subtitle": null,
+      "timestampString": "00:31:28",
+      "timestampInSeconds": 1888,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #301 [Videojáték megfilmesítések Stökivel]",
+        "youtubeId": "b-yzUkXog24",
+        "thumbnailUrl": "https://i.ytimg.com/vi/b-yzUkXog24/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1745990091000,
+        "participants": [
+          {
+            "id": "0213e12d-9f0a-4cf5-a957-21f4bd519824",
+            "name": "Stöckert Gábor"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

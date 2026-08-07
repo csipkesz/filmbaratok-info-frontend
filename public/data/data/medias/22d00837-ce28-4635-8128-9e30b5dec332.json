@@ -1,0 +1,41 @@
+{
+  "id": "22d00837-ce28-4635-8128-9e30b5dec332",
+  "title": "Alien vs. Predator",
+  "originalTitle": "Alien vs Predator",
+  "overview": "A black blob of viscous bodily material. An unknown organism of undifferentiated tissue. The dark web and dark tech as an internet based contagion and a new species of dark matter.",
+  "backdropPath": null,
+  "posterPath": "/7pp460bxrRLpFFOCXwsb1e94VAE.jpg",
+  "releaseDate": "2022-05-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "33a8b7d8-9d83-4aa4-8f60-43c0777d3404",
+      "title": "Alien vs. Predator",
+      "subtitle": null,
+      "timestampString": "00:06:40",
+      "timestampInSeconds": 400,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #230",
+        "youtubeId": "RCepaQRbkuA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/RCepaQRbkuA/hqdefault.jpg",
+        "durationInMinutes": 119,
+        "releaseDate": 1648791357000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

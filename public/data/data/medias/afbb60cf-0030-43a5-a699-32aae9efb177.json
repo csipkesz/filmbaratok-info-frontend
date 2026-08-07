@@ -1,0 +1,41 @@
+{
+  "id": "afbb60cf-0030-43a5-a699-32aae9efb177",
+  "title": "Popstar Never Stop Never Stopping",
+  "originalTitle": "Popstar: Never Stop Never Stopping",
+  "overview": "When his new album fails to sell records, pop/rap superstar Conner4real goes into a major tailspin and watches his celebrity high life begin to collapse. He'll try anything to bounce back, anything except reuniting with his old rap group The Style Boyz.",
+  "backdropPath": "/nUUKoiMSRa82cxoltjhSpVNpFXO.jpg",
+  "posterPath": "/jBZeZZNjYBUU21zFvBnin5n62bv.jpg",
+  "releaseDate": "2016-06-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "eeeba3af-e16c-4bc0-92f8-251a9ad1c05d",
+      "title": "Popstar Never Stop Never Stopping",
+      "subtitle": null,
+      "timestampString": "01:34:47",
+      "timestampInSeconds": 5687,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #106",
+        "youtubeId": "HldVi4TfJ9Y",
+        "thumbnailUrl": "https://i.ytimg.com/vi/HldVi4TfJ9Y/hqdefault.jpg",
+        "durationInMinutes": 146,
+        "releaseDate": 1473495633000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

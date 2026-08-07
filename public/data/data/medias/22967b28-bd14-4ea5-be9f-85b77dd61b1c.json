@@ -1,0 +1,45 @@
+{
+  "id": "22967b28-bd14-4ea5-be9f-85b77dd61b1c",
+  "title": "A Madagaszkár pingvinjei",
+  "originalTitle": "The Penguins of Madagascar",
+  "overview": "A szuperkémek nem az égből pottyannak, hanem a tojásból bújnak elő. Íme, a nemzetközi kémvilág legtitkosabb, legizgalmasabb és legviccesebb madarai: Kapitány, Kowalski, Rico és Közlegény. A győzhetetlen csapat ezúttal rendkívüli kaland felé totyog: Dr. Octavius Vízagy világuralomra törő főgonosz keze egyre messzebbre ér el - talán mert nyolc van neki. A pingvinek kénytelenek egyesíti erőiket egy földalatti szervezettel, az Északi Széllel, hogy együtt szálljanak harcba a közös ellenség ellen.\n\nA két cég munkamódszerei meglehetősen különböznek, de ha le akarják győzni ravasz ellenségüket, akkor mégis vállt vállnak, szárnyat szügynek vetve kell harcolniuk. Különben a világ furcsa változásokon mehet keresztül.",
+  "backdropPath": "/tdDRR3qnwwicr2DJbaaF8CDW168.jpg",
+  "posterPath": "/2NSvLm0M4X8J4yf7RgeXTAzZJ5Q.jpg",
+  "releaseDate": "2008-11-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d6c6bbc8-18cb-497b-ad80-b920dded53ff",
+      "title": "A Madagaszkár pingvinjei",
+      "subtitle": null,
+      "timestampString": "01:51:49",
+      "timestampInSeconds": 6709,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #63",
+        "youtubeId": "PgKECs1kHoY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/PgKECs1kHoY/hqdefault.jpg",
+        "durationInMinutes": 195,
+        "releaseDate": 1418847403000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

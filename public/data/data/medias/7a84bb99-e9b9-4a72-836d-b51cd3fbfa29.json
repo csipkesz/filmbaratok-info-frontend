@@ -1,0 +1,45 @@
+{
+  "id": "7a84bb99-e9b9-4a72-836d-b51cd3fbfa29",
+  "title": "Shadow in the cloud",
+  "originalTitle": "Shadow in the Cloud",
+  "overview": "A WWII pilot traveling with top secret documents on a B-17 Flying Fortress encounters an evil presence on board the flight.",
+  "backdropPath": "/aHYUj0hICtWZ5tPiCIm6pWUcjYK.jpg",
+  "posterPath": "/t7EUMSlfUN3jUSZUJOLURAzJzZs.jpg",
+  "releaseDate": "2021-01-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b63be13c-0d4a-45ec-8f32-2e4b7b6561fc",
+      "title": "Shadow in the cloud",
+      "subtitle": null,
+      "timestampString": "01:28:30",
+      "timestampInSeconds": 5310,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #204",
+        "youtubeId": "uCWG2Ku59nQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uCWG2Ku59nQ/hqdefault.jpg",
+        "durationInMinutes": 207,
+        "releaseDate": 1610723034000,
+        "participants": [
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "df3a34ef-9aba-4da2-81e1-677d7ba3487d",
+            "name": "Anna"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

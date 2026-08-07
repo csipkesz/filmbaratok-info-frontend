@@ -1,0 +1,45 @@
+{
+  "id": "92816b15-9930-4dfe-9569-c1b418a37c78",
+  "title": "Amerikai pite",
+  "originalTitle": "American Pie",
+  "overview": "At a high-school party, four friends find that losing their collective virginity isn't as easy as they had thought. But they still believe that they need to do so before college. To motivate themselves, they enter a pact to all \"score\" by their senior prom.",
+  "backdropPath": "/z9DFGaWj4G4kZUWLZ6ESs1NP1Fp.jpg",
+  "posterPath": "/5P68by2Thn8wHAziyWGEw2O7hco.jpg",
+  "releaseDate": "1999-07-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ab54b8d2-a793-44a8-8926-bbb9f8edf1d0",
+      "title": "Amerikai pite",
+      "subtitle": null,
+      "timestampString": "01:41:39",
+      "timestampInSeconds": 6099,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #285 (1999-es filmek)",
+        "youtubeId": "9AOI1V1MgRI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9AOI1V1MgRI/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1725038107000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "66cd9d24-d4e8-4e34-afca-1fc510288976",
+  "title": "Oldboy (2013)",
+  "originalTitle": "Oldboy",
+  "overview": "A man has only three and a half days and limited resources to discover why he was imprisoned in a nondescript room for 20 years without any explanation.",
+  "backdropPath": "/yl9waUJoMTp1NnraBn4KWHuUSsx.jpg",
+  "posterPath": "/iX93YdBrZA1EpGbphmjf4ARj1Za.jpg",
+  "releaseDate": "2013-11-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "713c7000-154c-450a-97e4-04aae6deb439",
+      "title": "Oldboy (2013)",
+      "subtitle": null,
+      "timestampString": "01:38:40",
+      "timestampInSeconds": 5920,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #45",
+        "youtubeId": "9hNSnIZK61I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9hNSnIZK61I/hqdefault.jpg",
+        "durationInMinutes": 145,
+        "releaseDate": 1392563971000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

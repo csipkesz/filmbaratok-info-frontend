@@ -1,0 +1,45 @@
+{
+  "id": "6dbd2e72-1d5f-4722-be5f-dc5fd420c941",
+  "title": "Lucy",
+  "originalTitle": "Lucy",
+  "overview": "A woman, accidentally caught in a dark deal, turns the tables on her captors and transforms into a merciless warrior evolved beyond human logic.",
+  "backdropPath": "/1hzH1Wu2xhXBNOWzw3RMwNTJX5q.jpg",
+  "posterPath": "/kRbpUTRNm6QbLQFPFWUcNC4czEm.jpg",
+  "releaseDate": "2014-07-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1e9ad71a-dd88-4a3b-abc9-7210117a1060",
+      "title": "Lucy",
+      "subtitle": null,
+      "timestampString": "00:59:52",
+      "timestampInSeconds": 3592,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #55",
+        "youtubeId": "QgGmQw_m1m8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/QgGmQw_m1m8/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1407941546000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

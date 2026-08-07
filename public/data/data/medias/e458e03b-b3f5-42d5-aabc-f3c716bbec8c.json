@@ -1,0 +1,45 @@
+{
+  "id": "e458e03b-b3f5-42d5-aabc-f3c716bbec8c",
+  "title": "Sing Street",
+  "originalTitle": "Sing Street",
+  "overview": "A boy growing up in Dublin during the 1980s escapes his strained family life by starting a band to impress the mysterious girl he likes.",
+  "backdropPath": "/zArKQrtZRb4lqjYXepBMLdegiDz.jpg",
+  "posterPath": "/sUWpVlrvzU2SJbnVZqIeKulPKwk.jpg",
+  "releaseDate": "2016-03-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "41a33fab-9527-4f9a-abdb-92aa3f109908",
+      "title": "Sing Street",
+      "subtitle": null,
+      "timestampString": "02:44:48",
+      "timestampInSeconds": 9888,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #107",
+        "youtubeId": "nil8BrN67hQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nil8BrN67hQ/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1475265113000,
+        "participants": [
+          {
+            "id": "0d9dd4b7-cf61-495d-9e4c-ee24abb25d28",
+            "name": "Emese"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

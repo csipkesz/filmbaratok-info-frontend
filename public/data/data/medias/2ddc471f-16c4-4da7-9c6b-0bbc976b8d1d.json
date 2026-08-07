@@ -1,0 +1,45 @@
+{
+  "id": "2ddc471f-16c4-4da7-9c6b-0bbc976b8d1d",
+  "title": "Asterix és Obelix: A középső birodalom",
+  "originalTitle": "Astérix & Obélix : L'Empire du Milieu",
+  "overview": "Gallic heroes and forever friends Asterix and Obelix journey to China to help Princess Sa See save the Empress and her land from a nefarious prince.",
+  "backdropPath": "/n9wlAmb4vEgZHghtqsXXj95PocJ.jpg",
+  "posterPath": "/ifOqT5SmA4ANjmyEacLw3KAFKUd.jpg",
+  "releaseDate": "2023-02-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "65f88e66-0cde-414d-8082-dec3381a697f",
+      "title": "Asterix és Obelix: A középső birodalom",
+      "subtitle": null,
+      "timestampString": "02:26:20",
+      "timestampInSeconds": 8780,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #251",
+        "youtubeId": "sMMPgkRN14I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/sMMPgkRN14I/hqdefault.jpg",
+        "durationInMinutes": 273,
+        "releaseDate": 1678475107000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

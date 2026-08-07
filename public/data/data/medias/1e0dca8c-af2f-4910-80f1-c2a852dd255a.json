@@ -1,0 +1,45 @@
+{
+  "id": "1e0dca8c-af2f-4910-80f1-c2a852dd255a",
+  "title": "The Jack and Triumph Show",
+  "originalTitle": "The Jack and Triumph Show",
+  "overview": "",
+  "backdropPath": "/8K501Vx4io8usbjIu71pjyYO78T.jpg",
+  "posterPath": "/t5ucaWt5M4YoSWxSbfcN0nKJ1Gb.jpg",
+  "releaseDate": "2015-02-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8ab166f4-43ce-4f70-b4b7-19fb7e584cf9",
+      "title": "The Jack and Triumph Show",
+      "subtitle": null,
+      "timestampString": "02:40:21",
+      "timestampInSeconds": 9621,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #72",
+        "youtubeId": "Mkw8rsdw7bc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Mkw8rsdw7bc/hqdefault.jpg",
+        "durationInMinutes": 199,
+        "releaseDate": 1430242149000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

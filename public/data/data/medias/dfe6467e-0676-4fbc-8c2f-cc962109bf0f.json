@@ -1,0 +1,45 @@
+{
+  "id": "dfe6467e-0676-4fbc-8c2f-cc962109bf0f",
+  "title": "A felbujtók [The instigators]",
+  "originalTitle": "The Instigators",
+  "overview": "Rory and Cobby are unlikely partners thrown together for a heist. But when it goes awry, they team up with an unusual accomplice — Rory's therapist — to outrun police, backward bureaucrats, and a vengeful crime boss.",
+  "backdropPath": "/aA5B2OsN6rccwnhn8TEG4m4V3jI.jpg",
+  "posterPath": "/dnYWsIFDmygCjNg65rY3uBymx81.jpg",
+  "releaseDate": "2024-08-02T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "96fae97a-8767-459c-86e4-ae095475af70",
+      "title": "A felbujtók [The instigators]",
+      "subtitle": null,
+      "timestampString": "01:41:00",
+      "timestampInSeconds": 6060,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #284",
+        "youtubeId": "dLG-a7fBRaY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/dLG-a7fBRaY/hqdefault.jpg",
+        "durationInMinutes": 239,
+        "releaseDate": 1723568433000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

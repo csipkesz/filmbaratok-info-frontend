@@ -1,0 +1,41 @@
+{
+  "id": "c1e974b9-6c85-42f1-a9ff-228910bc065c",
+  "title": "Legénylakás",
+  "originalTitle": "The Apartment",
+  "overview": "Bud Baxter is a minor clerk in a huge New York insurance company, until he discovers a quick way to climb the corporate ladder. He lends out his apartment to the executives as a place to take their mistresses. Although he often has to deal with the aftermath of their visits, one night he's left with a major problem to solve.",
+  "backdropPath": "/2L8U8rUyWeFTb6n1egTNeJsEsvj.jpg",
+  "posterPath": "/hhSRt1KKfRT0yEhEtRW3qp31JFU.jpg",
+  "releaseDate": "1960-06-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "29d656e1-d482-4e37-804a-876750df0eb5",
+      "title": "Legénylakás",
+      "subtitle": null,
+      "timestampString": "02:14:44",
+      "timestampInSeconds": 8084,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #49",
+        "youtubeId": "KInB1pvzVo0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/KInB1pvzVo0/hqdefault.jpg",
+        "durationInMinutes": 177,
+        "releaseDate": 1397986559000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

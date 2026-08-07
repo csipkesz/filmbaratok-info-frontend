@@ -1,0 +1,45 @@
+{
+  "id": "5ab8f1cf-2ac0-4b53-ab6c-84c6b17ef8e4",
+  "title": "Karate kölyök - Legendák",
+  "originalTitle": "Karate Kid: Legends",
+  "overview": "After a family tragedy, kung fu prodigy Li Fong is uprooted from his home in Beijing and forced to move to New York City with his mother. When a new friend needs his help, Li enters a karate competition – but his skills alone aren't enough. Li's kung fu teacher Mr. Han enlists original Karate Kid Daniel LaRusso for help, and Li learns a new way to fight, merging their two styles into one for the ultimate martial arts showdown.",
+  "backdropPath": "/7Q2CmqIVJuDAESPPp76rWIiA0AD.jpg",
+  "posterPath": "/c90Lt7OQGsOmhv6x4JoFdoHzw5l.jpg",
+  "releaseDate": "2025-05-08T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4ad90f21-f79b-439d-8fa0-96eca0f4fd44",
+      "title": "Karate kölyök - Legendák",
+      "subtitle": null,
+      "timestampString": "00:40:52",
+      "timestampInSeconds": 2452,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #304",
+        "youtubeId": "ok8JUwMUPIA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ok8JUwMUPIA/hqdefault.jpg",
+        "durationInMinutes": 212,
+        "releaseDate": 1749920369000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

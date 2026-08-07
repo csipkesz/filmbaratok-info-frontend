@@ -1,0 +1,45 @@
+{
+  "id": "08cca610-ff4e-4305-8e9c-9f09ed95ef24",
+  "title": "Doom: Annihilation",
+  "originalTitle": "Doom: Annihilation",
+  "overview": "A group of UAC Marines responds to a distress call from a top-secret scientific base on Phobos, a Martian moon, only to discover it's been overrun by demons.",
+  "backdropPath": "/iODdFR98xOeOzj95ptMKnCkhniN.jpg",
+  "posterPath": "/b7pEmwnayMZCVlnSq33izWcOlPI.jpg",
+  "releaseDate": "2019-09-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d64a8d34-965f-4a88-9024-84c28595eace",
+      "title": "Doom: Annihilation",
+      "subtitle": null,
+      "timestampString": "03:07:55",
+      "timestampInSeconds": 11275,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #176",
+        "youtubeId": "IBv2w6mBz1s",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IBv2w6mBz1s/hqdefault.jpg",
+        "durationInMinutes": 267,
+        "releaseDate": 1570124501000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

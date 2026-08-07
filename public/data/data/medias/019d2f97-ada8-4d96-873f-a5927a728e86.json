@@ -1,0 +1,45 @@
+{
+  "id": "019d2f97-ada8-4d96-873f-a5927a728e86",
+  "title": "Biciklitolvajok",
+  "originalTitle": "Ladri di biciclette",
+  "overview": "Unemployed Antonio is elated when he finally finds work hanging posters around war-torn Rome. However on his first day, his bicycle—essential to his work—gets stolen. His job is doomed unless he can find the thief. With the help of his son, Antonio combs the city, becoming desperate for justice.",
+  "backdropPath": "/nd6ItWuWGmTKhHXuxVC8kp86CmQ.jpg",
+  "posterPath": "/iPdVqIpmR3bRvOQJPrn4pr2KR3q.jpg",
+  "releaseDate": "1948-07-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c0fdc74b-1aa3-4e16-8997-028764f788f2",
+      "title": "Biciklitolvajok",
+      "subtitle": null,
+      "timestampString": "01:10:08",
+      "timestampInSeconds": 4208,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #88",
+        "youtubeId": "wEd9ZOCpPII",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wEd9ZOCpPII/hqdefault.jpg",
+        "durationInMinutes": 226,
+        "releaseDate": 1450458682000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

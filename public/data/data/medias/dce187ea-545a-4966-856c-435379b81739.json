@@ -1,0 +1,41 @@
+{
+  "id": "dce187ea-545a-4966-856c-435379b81739",
+  "title": "Végképp eltörölni",
+  "originalTitle": "Eraser",
+  "overview": "John \"The Eraser\" Kruger is the top gun in the US Marshall Witness Protection Program; he protects witnesses by erasing their pasts. His latest assignment is whistle-blower Dr. Lee Cullen, who has evidence that her employer, a major arms corporation, is entangled in a conspiracy involving a high-tech railgun, but there is danger lurking closer to home for Kruger, from within his own department.",
+  "backdropPath": "/8n6ZCFJWwK7UiX7NYuIEvHLRPYG.jpg",
+  "posterPath": "/uu2gBpFElDfxTI6BI9bT4pZ4kvw.jpg",
+  "releaseDate": "1996-06-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ba9b3d64-b96e-4215-9b8d-df0570028b67",
+      "title": "Végképp eltörölni",
+      "subtitle": null,
+      "timestampString": "01:46:00",
+      "timestampInSeconds": 6360,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #71",
+        "youtubeId": "K9mj59Uot1I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/K9mj59Uot1I/hqdefault.jpg",
+        "durationInMinutes": 176,
+        "releaseDate": 1428520974000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

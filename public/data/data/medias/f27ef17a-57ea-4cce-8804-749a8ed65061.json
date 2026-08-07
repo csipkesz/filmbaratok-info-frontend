@@ -1,0 +1,49 @@
+{
+  "id": "f27ef17a-57ea-4cce-8804-749a8ed65061",
+  "title": "Mátrix - Forradalmak",
+  "originalTitle": "The Matrix Revolutions",
+  "overview": "The human city of Zion defends itself against the massive invasion of the machines as Neo fights to end the war at another front while also opposing the rogue Agent Smith.",
+  "backdropPath": "/533xAMhhVyjTy8hwMUFEt5TuDfR.jpg",
+  "posterPath": "/bkkS61w94ZVMNVd8KEyyJl2tnY5.jpg",
+  "releaseDate": "2003-11-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "735a4420-956e-46f0-adaf-e6ca69ba586f",
+      "title": "Mátrix trilógia",
+      "subtitle": null,
+      "timestampString": "02:41:49",
+      "timestampInSeconds": 9709,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #78",
+        "youtubeId": "MfKijNw0U44",
+        "thumbnailUrl": "https://i.ytimg.com/vi/MfKijNw0U44/hqdefault.jpg",
+        "durationInMinutes": 236,
+        "releaseDate": 1438367365000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "978fd006-6c8d-4646-b1a1-34b6a37f4a85",
+            "name": "Kvízmester"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

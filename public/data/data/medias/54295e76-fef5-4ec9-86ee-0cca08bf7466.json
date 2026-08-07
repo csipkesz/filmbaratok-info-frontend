@@ -1,0 +1,45 @@
+{
+  "id": "54295e76-fef5-4ec9-86ee-0cca08bf7466",
+  "title": "Midway",
+  "originalTitle": "Midway",
+  "overview": "This war drama depicts the U.S. and Japanese forces in the naval Battle of Midway, which became a turning point for Americans during World War II.",
+  "backdropPath": "/2QCwYIcWkRcGMNSqHFrbdppZgX6.jpg",
+  "posterPath": "/vCzGV28YFmWubUn1jh8ytagYocR.jpg",
+  "releaseDate": "1976-06-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "204ec566-96f7-4794-a8d0-d6ac2203d189",
+      "title": "Midway",
+      "subtitle": null,
+      "timestampString": "01:26:25",
+      "timestampInSeconds": 5185,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #179",
+        "youtubeId": "xquBnjUaMAg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/xquBnjUaMAg/hqdefault.jpg",
+        "durationInMinutes": 206,
+        "releaseDate": 1574800160000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "df3a34ef-9aba-4da2-81e1-677d7ba3487d",
+            "name": "Anna"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

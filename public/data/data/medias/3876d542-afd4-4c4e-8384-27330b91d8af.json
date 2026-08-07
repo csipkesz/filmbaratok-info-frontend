@@ -1,0 +1,45 @@
+{
+  "id": "3876d542-afd4-4c4e-8384-27330b91d8af",
+  "title": "Ready Player One",
+  "originalTitle": "Ready Player One",
+  "overview": "When the creator of a popular video game system dies, a virtual contest is created to compete for his fortune.",
+  "backdropPath": "/5a7lMDn3nAj2ByO0X1fg6BhUphR.jpg",
+  "posterPath": "/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
+  "releaseDate": "2018-03-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "580b9f07-871a-412e-96d2-cfcaec0a813c",
+      "title": "Ready Player One",
+      "subtitle": null,
+      "timestampString": "00:29:00",
+      "timestampInSeconds": 1740,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #142",
+        "youtubeId": "9S7p7P1Y2po",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9S7p7P1Y2po/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1525105433000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

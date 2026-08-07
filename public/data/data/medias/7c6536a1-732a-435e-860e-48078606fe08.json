@@ -1,0 +1,45 @@
+{
+  "id": "7c6536a1-732a-435e-860e-48078606fe08",
+  "title": "VFW",
+  "originalTitle": "VFW",
+  "overview": "A typical night for veterans at a VFW turns into an all-out battle for survival when a desperate teen runs into the bar with a bag of stolen drugs. When a gang of violent punks come looking for her, the vets use every weapon at their disposal to protect the girl and themselves from an unrelenting attack.",
+  "backdropPath": "/qhGHcg1RxrAObpabDu03MkxCI1G.jpg",
+  "posterPath": "/AnVD7Gn14uOTQhcc5xYZGQ9DRvS.jpg",
+  "releaseDate": "2019-09-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "01874eaf-5f8b-46ca-915e-b63565ce11ea",
+      "title": "VFW",
+      "subtitle": null,
+      "timestampString": "01:28:00",
+      "timestampInSeconds": 5280,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #223",
+        "youtubeId": "uKeMDPapOJE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uKeMDPapOJE/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1639837304000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

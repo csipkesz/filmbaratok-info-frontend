@@ -1,0 +1,41 @@
+{
+  "id": "471ea55b-5983-4b1f-9895-4a4ef43a7410",
+  "title": "Nincs kettő négy nélkül",
+  "originalTitle": "Non c'è due senza quattro",
+  "overview": "A stuntman and a saxophonist stand in for two billionaires threatened by killers.",
+  "backdropPath": "/ualoh6ldiiAZU4A1thzmF58mGaW.jpg",
+  "posterPath": "/eARQ5FY1Z1mSPgoyLJKJdl75RxJ.jpg",
+  "releaseDate": "1984-10-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7127e25d-9f90-4dfa-bc77-49034f1d1355",
+      "title": "Nincs kettő négy nélkül",
+      "subtitle": null,
+      "timestampString": "02:16:20",
+      "timestampInSeconds": 8180,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #104",
+        "youtubeId": "OY96XihUHYY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/OY96XihUHYY/hqdefault.jpg",
+        "durationInMinutes": 230,
+        "releaseDate": 1469739871000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

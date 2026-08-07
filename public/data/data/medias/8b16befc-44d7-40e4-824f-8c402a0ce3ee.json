@@ -1,0 +1,45 @@
+{
+  "id": "8b16befc-44d7-40e4-824f-8c402a0ce3ee",
+  "title": "21 Bridges",
+  "originalTitle": "21 Bridges",
+  "overview": "An embattled NYPD detective, is thrust into a citywide manhunt for a pair of cop killers after uncovering a massive and unexpected conspiracy. As the night unfolds, lines become blurred on who he is pursuing, and who is in pursuit of him.",
+  "backdropPath": "/3pMU7OGlcksMb7YkMthj5A1Y08B.jpg",
+  "posterPath": "/kDlmrGZROewneCoSwPjKx6Qfown.jpg",
+  "releaseDate": "2019-10-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "bdf46a98-fd42-4afb-aa9e-d938b1bc3b07",
+      "title": "21 Bridges",
+      "subtitle": null,
+      "timestampString": "03:21:36",
+      "timestampInSeconds": 12096,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #202",
+        "youtubeId": "E2b82odyb3w",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E2b82odyb3w/hqdefault.jpg",
+        "durationInMinutes": 223,
+        "releaseDate": 1608135119000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

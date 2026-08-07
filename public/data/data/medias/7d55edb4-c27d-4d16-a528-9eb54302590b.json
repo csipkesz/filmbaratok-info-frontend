@@ -1,0 +1,45 @@
+{
+  "id": "7d55edb4-c27d-4d16-a528-9eb54302590b",
+  "title": "Ragadozó madarak (és egy bizonyos Harley Quinn csodasztikus felszabadulása)",
+  "originalTitle": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+  "overview": "Harley Quinn joins forces with a singer, an assassin and a police detective to help a young girl who had a hit placed on her after she stole a rare diamond from a crime lord.",
+  "backdropPath": "/uozb2VeD87YmhoUP1RrGWfzuCrr.jpg",
+  "posterPath": "/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg",
+  "releaseDate": "2020-02-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0d930a0d-bb30-417b-9ddb-b734493df370",
+      "title": "Ragadozó madarak (és egy bizonyos Harley Quinn csodasztikus felszabadulása)",
+      "subtitle": null,
+      "timestampString": "01:33:15",
+      "timestampInSeconds": 5595,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #185",
+        "youtubeId": "eq07jUces30",
+        "thumbnailUrl": "https://i.ytimg.com/vi/eq07jUces30/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1582698378000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

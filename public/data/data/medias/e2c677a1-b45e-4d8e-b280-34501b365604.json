@@ -1,0 +1,41 @@
+{
+  "id": "e2c677a1-b45e-4d8e-b280-34501b365604",
+  "title": "Transzcendens",
+  "originalTitle": "Transcendence",
+  "overview": "Two leading computer scientists work toward their goal of Technological Singularity,  as a radical anti-technology organization fights to prevent them from creating a world where computers can transcend the abilities of the human brain.",
+  "backdropPath": "/ypuD6ZsupyVV1ElNSIPz2BooIlX.jpg",
+  "posterPath": "/i3JqPtiJWnidaif3UA2K2Eng0hp.jpg",
+  "releaseDate": "2014-04-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "91c67df5-2087-4ed1-a933-f7bc3729eab3",
+      "title": "Transzcendens",
+      "subtitle": null,
+      "timestampString": "01:07:45",
+      "timestampInSeconds": 4065,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #50",
+        "youtubeId": "3fU-zjKUKtc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3fU-zjKUKtc/hqdefault.jpg",
+        "durationInMinutes": 195,
+        "releaseDate": 1399567403000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

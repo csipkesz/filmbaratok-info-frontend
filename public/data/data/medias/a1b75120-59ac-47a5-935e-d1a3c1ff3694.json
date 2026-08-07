@@ -1,0 +1,41 @@
+{
+  "id": "a1b75120-59ac-47a5-935e-d1a3c1ff3694",
+  "title": "Silent Hill: Visszatérés",
+  "originalTitle": "Return to Silent Hill",
+  "overview": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill—a once-familiar town now consumed by darkness. As he searches for her, James faces monstrous creatures and unravels a terrifying truth that will push him to the edge of his sanity.",
+  "backdropPath": "/v0NEB75SZjxY8GS3ho8WeEvjIT3.jpg",
+  "posterPath": "/mdw7bSnE11WpwWf3ViXtnavuqiT.jpg",
+  "releaseDate": "2026-01-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "40caa7b1-a636-480b-9eac-db0ddf561198",
+      "title": "Silent Hill: Visszatérés",
+      "subtitle": null,
+      "timestampString": "01:26:00",
+      "timestampInSeconds": 5160,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #321",
+        "youtubeId": "ASzT3k0iUdk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ASzT3k0iUdk/hqdefault.jpg",
+        "durationInMinutes": 176,
+        "releaseDate": 1772128964000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6aa13f64-8435-4f5f-a5f0-cab126311e7d",
+  "title": "MEG: Az őscápa",
+  "originalTitle": "The Meg",
+  "overview": "A deep sea submersible pilot revisits his past fears in the Mariana Trench, and accidentally unleashes the seventy foot ancestor of the Great White Shark believed to be extinct.",
+  "backdropPath": "/ibKeXahq4JD63z6uWQphqoJLvNw.jpg",
+  "posterPath": "/eyWICPcxOuTcDDDbTMOZawoOn8d.jpg",
+  "releaseDate": "2018-08-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3201fcae-6cef-44d2-8445-2ad4cd1649e1",
+      "title": "MEG: Az őscápa",
+      "subtitle": null,
+      "timestampString": "01:31:00",
+      "timestampInSeconds": 5460,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #149",
+        "youtubeId": "VBEVVw6KCTg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VBEVVw6KCTg/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1534514845000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

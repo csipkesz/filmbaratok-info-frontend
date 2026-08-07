@@ -1,0 +1,41 @@
+{
+  "id": "72f10a2e-9149-491e-bc82-e99309041c67",
+  "title": "Pingvin",
+  "originalTitle": "The Penguin",
+  "overview": "A Batman-univerzum következő fejezetéből feltárul Oswald „Oz” Cobb története, ahogy magához ragadta a hatalmat Gotham Cityben.",
+  "backdropPath": "/4TdmuuwiIiKw3JOjIuhdgYxRXnN.jpg",
+  "posterPath": "/2rkXHbaHWfCOHWWEmVdxFA8NL4E.jpg",
+  "releaseDate": "2024-09-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0bd55c62-e55f-41d2-b42e-aa34e1d4e8ae",
+      "title": "Pingvin",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Pingvin",
+        "youtubeId": "wb7j-QbTsWU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wb7j-QbTsWU/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1732392006000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "b58a918c-16ec-4387-a959-c8a6d2afa38d",
+            "name": "Shirin"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

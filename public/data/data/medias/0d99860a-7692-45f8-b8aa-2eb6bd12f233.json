@@ -1,0 +1,49 @@
+{
+  "id": "0d99860a-7692-45f8-b8aa-2eb6bd12f233",
+  "title": "Annabelle 2 – A teremtés",
+  "originalTitle": "Annabelle: Creation",
+  "overview": "Several years after the tragic death of their little girl, a doll maker and his wife welcome a nun and several girls from a shuttered orphanage into their home, soon becoming the target of the doll maker's possessed creation—Annabelle.",
+  "backdropPath": "/o8u0NyEigCEaZHBdCYTRfXR8U4i.jpg",
+  "posterPath": "/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg",
+  "releaseDate": "2017-08-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "83a6a75c-e92a-434c-8a7a-71825d7c19d7",
+      "title": "Annabelle 2 – A teremtés",
+      "subtitle": null,
+      "timestampString": "01:31:05",
+      "timestampInSeconds": 5465,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #127",
+        "youtubeId": "XWuPbD-kRic",
+        "thumbnailUrl": "https://i.ytimg.com/vi/XWuPbD-kRic/hqdefault.jpg",
+        "durationInMinutes": 241,
+        "releaseDate": 1503602035000,
+        "participants": [
+          {
+            "id": "3da49de0-82ec-4704-a57a-3643fbf7ed43",
+            "name": "Szöllőskei Gábor"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "53059b98-f63e-4d08-bea0-6ad083619145",
+  "title": "Így neveld a sárkányodat 1",
+  "originalTitle": "How to Train Your Dragon",
+  "overview": "As the son of a Viking leader on the cusp of manhood, shy Hiccup Horrendous Haddock III faces a rite of passage: he must kill a dragon to prove his warrior mettle. But after downing a feared dragon, he realizes that he no longer wants to destroy it, and instead befriends the beast – which he names Toothless – much to the chagrin of his warrior father.",
+  "backdropPath": "/59vDC1BuEQvti24OMr0ZvtAK6R1.jpg",
+  "posterPath": "/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg",
+  "releaseDate": "2010-03-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2d34488b-c3d9-481a-aaa5-c772110c9a04",
+      "title": "Így neveld a sárkányodat 1 & 2",
+      "subtitle": null,
+      "timestampString": "01:20:26",
+      "timestampInSeconds": 4826,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #71",
+        "youtubeId": "K9mj59Uot1I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/K9mj59Uot1I/hqdefault.jpg",
+        "durationInMinutes": 176,
+        "releaseDate": 1428520974000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "64122254-225a-4e0f-b2f4-e3ee01654ceb",
+  "title": "Irány a Mississippi (A csodaszer)",
+  "originalTitle": "The Cure",
+  "overview": "Erik, a loner, finds a friend in Dexter, an eleven-year-old boy with AIDS. They vow to find a cure for AIDS together and save Dexter's life in an eventful summer.",
+  "backdropPath": "/cXliQvK1xSi9lSqP7qaBUyED1Az.jpg",
+  "posterPath": "/wHX2Yik29eBKW4l7Wt0DRIcUO78.jpg",
+  "releaseDate": "1995-04-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fa9fdd18-64db-491e-b383-210505a6b565",
+      "title": "Irány a Mississippi (A csodaszer)",
+      "subtitle": null,
+      "timestampString": "02:30:34",
+      "timestampInSeconds": 9034,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #66",
+        "youtubeId": "E4v-47u65NI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E4v-47u65NI/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1422556505000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

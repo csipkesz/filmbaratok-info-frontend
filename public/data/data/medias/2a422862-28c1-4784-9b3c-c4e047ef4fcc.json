@@ -1,0 +1,45 @@
+{
+  "id": "2a422862-28c1-4784-9b3c-c4e047ef4fcc",
+  "title": "Amerikába jöttem 2",
+  "originalTitle": "Coming 2 America",
+  "overview": "Prince Akeem Joffer is set to become King of Zamunda when he discovers he has a son he never knew about in America – a street savvy Queens native named Lavelle. Honoring his royal father's dying wish to groom this son as the crown prince, Akeem and Semmi set off to America once again.",
+  "backdropPath": "/vKzbIoHhk1z9DWYi8kyFe9Gg0HF.jpg",
+  "posterPath": "/nWBPLkqNApY5pgrJFMiI9joSI30.jpg",
+  "releaseDate": "2021-03-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "be1b9fc6-df8c-404b-8fd9-e62dafee1112",
+      "title": "Amerikába jöttem 2",
+      "subtitle": null,
+      "timestampString": "01:22:56",
+      "timestampInSeconds": 4976,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #208",
+        "youtubeId": "VmpaZBFyHfg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VmpaZBFyHfg/hqdefault.jpg",
+        "durationInMinutes": 205,
+        "releaseDate": 1616583355000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

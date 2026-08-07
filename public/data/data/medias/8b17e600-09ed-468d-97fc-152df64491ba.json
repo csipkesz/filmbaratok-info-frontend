@@ -1,0 +1,45 @@
+{
+  "id": "8b17e600-09ed-468d-97fc-152df64491ba",
+  "title": "44. gyermek",
+  "originalTitle": "Child 44",
+  "overview": "Set in Stalin-era Soviet Union, a disgraced MGB agent is dispatched to investigate a series of child murders -- a case that begins to connect with the very top of party leadership.",
+  "backdropPath": "/sjsaxwNsgBbrWrJIXtCT5DNo9Mt.jpg",
+  "posterPath": "/p8uTx2xm72vXqI0H4W5kU3ku9ND.jpg",
+  "releaseDate": "2015-03-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "cec8be22-6f0c-49b2-98d2-496fa74466fb",
+      "title": "44. gyermek",
+      "subtitle": null,
+      "timestampString": "00:31:11",
+      "timestampInSeconds": 1871,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #72",
+        "youtubeId": "Mkw8rsdw7bc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Mkw8rsdw7bc/hqdefault.jpg",
+        "durationInMinutes": 199,
+        "releaseDate": 1430242149000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "10f334e0-6245-4ac8-80d1-618aafc13650",
+  "title": "A hitetlen",
+  "originalTitle": "The Believer",
+  "overview": "A hardcore US racist skinhead who, because of his intelligence, leads a gang dedicated to fighting the enemy: the supposed American-Jewish conspiracy for domination. However, he's hiding a secret: he's Jewish-born, a brilliant scholar whose questioning of the tenets of his faith has left him angry and confused, turning against those who he thinks have a tragic history of their own making.",
+  "backdropPath": "/cDTDGNaF5zu4LYD4gZjkaZ8DjjY.jpg",
+  "posterPath": "/doe1zmrCRCSRkC3EdalFiUZhMxn.jpg",
+  "releaseDate": "2001-08-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e144f98a-5b83-4d7a-b8fc-5022d1cae1e1",
+      "title": "A hitetlen",
+      "subtitle": null,
+      "timestampString": "04:00:14",
+      "timestampInSeconds": 14414,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #236",
+        "youtubeId": "amde_-Gdpc4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/amde_-Gdpc4/hqdefault.jpg",
+        "durationInMinutes": 262,
+        "releaseDate": 1658250003000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

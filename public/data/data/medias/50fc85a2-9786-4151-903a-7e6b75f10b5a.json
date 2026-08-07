@@ -1,0 +1,49 @@
+{
+  "id": "50fc85a2-9786-4151-903a-7e6b75f10b5a",
+  "title": "Cry macho",
+  "originalTitle": "Cry Macho",
+  "overview": "A one-time rodeo star and washed-up horse breeder takes a job from an ex-boss to bring the man's young son home from Mexico.",
+  "backdropPath": "/g6wufgtycJCP508tlC3crSYFCgC.jpg",
+  "posterPath": "/esrzqq7Ud8yoslFTu3J5HqTJVOQ.jpg",
+  "releaseDate": "2021-09-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "12088948-486b-4fba-b900-264c11741d73",
+      "title": "Cry macho",
+      "subtitle": null,
+      "timestampString": "03:11:00",
+      "timestampInSeconds": 11460,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #220",
+        "youtubeId": "V6uGh9dBdAw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/V6uGh9dBdAw/hqdefault.jpg",
+        "durationInMinutes": 284,
+        "releaseDate": 1634383916000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

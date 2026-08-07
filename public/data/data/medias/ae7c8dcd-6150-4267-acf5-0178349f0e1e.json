@@ -1,0 +1,45 @@
+{
+  "id": "ae7c8dcd-6150-4267-acf5-0178349f0e1e",
+  "title": "Icarus",
+  "originalTitle": "Icarus",
+  "overview": "While investigating the furtive world of illegal doping in sports, director Bryan Fogel connects with renegade Russian scientist Dr. Grigory Rodchenkov—a pillar of his country’s “anti-doping” program. Over dozens of Skype calls, urine samples, and badly administered hormone injections, Fogel and Rodchenkov grow closer despite shocking allegations that place Rodchenkov at the center of Russia’s state-sponsored Olympic doping program.",
+  "backdropPath": "/ambKXAJYrDPJK9wBJlIVVWbQbar.jpg",
+  "posterPath": "/x5azMi1KvZWbBbfjmGqpHNGqjH.jpg",
+  "releaseDate": "2017-06-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1860c2d7-bc90-41d7-aef7-7cd5bd93e5e4",
+      "title": "Icarus",
+      "subtitle": null,
+      "timestampString": "03:26:17",
+      "timestampInSeconds": 12377,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #128",
+        "youtubeId": "YoKRZAg1KR0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/YoKRZAg1KR0/hqdefault.jpg",
+        "durationInMinutes": 252,
+        "releaseDate": 1505410953000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

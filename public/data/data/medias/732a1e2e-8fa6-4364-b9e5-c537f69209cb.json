@@ -1,0 +1,41 @@
+{
+  "id": "732a1e2e-8fa6-4364-b9e5-c537f69209cb",
+  "title": "Vakáció",
+  "originalTitle": "Vakáció",
+  "overview": "A motherless family tries to go on a vacation.",
+  "backdropPath": null,
+  "posterPath": "/5Qz7fDtmLqJFugJqaMFT6h7HeRv.jpg",
+  "releaseDate": "2023-09-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0acf9655-12af-498b-8724-9c124d77cf4a",
+      "title": "Vakáció",
+      "subtitle": null,
+      "timestampString": "00:32:44",
+      "timestampInSeconds": 1964,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #81",
+        "youtubeId": "jxVu-FT-Qv8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/jxVu-FT-Qv8/hqdefault.jpg",
+        "durationInMinutes": 158,
+        "releaseDate": 1442306890000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "5647ce47-82f5-4dfd-9c5d-ace29c8b584d",
+  "title": "Édes kislányom",
+  "originalTitle": "Sweet Girl",
+  "overview": "A man vows to bring justice to those responsible for his wife's death while protecting the only family he has left, his daughter.",
+  "backdropPath": "/nprqOIEfiMMQx16lgKeLf3rmPrR.jpg",
+  "posterPath": "/cP7odDzzFBD9ycxj2laTeFWGLjD.jpg",
+  "releaseDate": "2021-08-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b6e2485b-5936-4061-8058-13fcb1d09073",
+      "title": "Édes kislányom",
+      "subtitle": null,
+      "timestampString": "02:40:30",
+      "timestampInSeconds": 9630,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #219",
+        "youtubeId": "h8nzJYoqTuY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/h8nzJYoqTuY/hqdefault.jpg",
+        "durationInMinutes": 195,
+        "releaseDate": 1632931799000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

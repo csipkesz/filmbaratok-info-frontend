@@ -1,0 +1,45 @@
+{
+  "id": "dc01dc17-34e6-4a56-8891-8cec305f8166",
+  "title": "Szupercella 2: Hades",
+  "originalTitle": "Escape Plan 2: Hades",
+  "overview": "Ray Breslin manages an elite team of security specialists trained in the art of breaking people out of the world's most impenetrable prisons. When his most trusted operative, Shu Ren, is kidnapped and disappears inside the most elaborate prison ever built, Ray must track him down with the help of some of his former friends.",
+  "backdropPath": "/xIAaN3AQqaJiN5RJ0WsmBady8Hq.jpg",
+  "posterPath": "/A6tb8JNrie2qT8JC2tGqshayuck.jpg",
+  "releaseDate": "2018-06-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3d2bedae-d8f4-44ba-a5fa-268289c1364f",
+      "title": "Szupercella 2: Hades",
+      "subtitle": null,
+      "timestampString": "02:05:00",
+      "timestampInSeconds": 7500,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #147",
+        "youtubeId": "VFKKYddusFg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VFKKYddusFg/hqdefault.jpg",
+        "durationInMinutes": 235,
+        "releaseDate": 1531561740000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

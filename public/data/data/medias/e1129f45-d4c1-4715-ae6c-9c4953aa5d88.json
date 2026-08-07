@@ -1,0 +1,41 @@
+{
+  "id": "e1129f45-d4c1-4715-ae6c-9c4953aa5d88",
+  "title": "Csúcsragadozó",
+  "originalTitle": "Apex",
+  "overview": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
+  "backdropPath": "/9nzfyiYbmTUXWC4B2kwjl4NAlqO.jpg",
+  "posterPath": "/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
+  "releaseDate": "2026-04-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e722fdb0-3ce3-4ce9-aceb-2dd7492adb40",
+      "title": "Csúcsragadozó [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "03:12:00",
+      "timestampInSeconds": 11520,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #326",
+        "youtubeId": "PyX_W5BWsXo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/PyX_W5BWsXo/hqdefault.jpg",
+        "durationInMinutes": 236,
+        "releaseDate": 1778948292000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

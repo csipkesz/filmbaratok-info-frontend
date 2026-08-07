@@ -1,0 +1,45 @@
+{
+  "id": "117d77ee-fe2f-432c-8b19-164ea545b4c2",
+  "title": "Odüsszeia",
+  "originalTitle": "The Odyssey",
+  "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+  "backdropPath": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+  "posterPath": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+  "releaseDate": "2026-07-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3b0c7659-9e0c-4cc6-bf37-f53480bd9182",
+      "title": "Odüsszeia",
+      "subtitle": null,
+      "timestampString": "00:49:45",
+      "timestampInSeconds": 2985,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #331",
+        "youtubeId": "cygAIMZOaYA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/cygAIMZOaYA/hqdefault.jpg",
+        "durationInMinutes": 229,
+        "releaseDate": 1785534622000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

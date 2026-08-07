@@ -1,0 +1,41 @@
+{
+  "id": "ab38863a-0516-4497-be66-b4b666cc1d58",
+  "title": "A texasi láncfűrészes - Az örökség",
+  "originalTitle": "Texas Chainsaw 3D",
+  "overview": "A young woman learns that she has inherited a Texas estate from her deceased grandmother. After embarking on a road trip with friends to uncover her roots, she finds she is the sole owner of a lavish, isolated Victorian mansion. But her newfound wealth comes at a price as she stumbles upon a horror that awaits her in the mansion’s dank cellars.",
+  "backdropPath": "/w5T2Avx3FCyqhzHxzQPeIli91BJ.jpg",
+  "posterPath": "/dwIQ7WDCSiIcNdbferTcU7uI0KV.jpg",
+  "releaseDate": "2013-01-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2866d60d-228e-4ea5-bdfe-9c0da676d4e4",
+      "title": "A texasi láncfűrészes - Az örökség",
+      "subtitle": null,
+      "timestampString": "02:39:35",
+      "timestampInSeconds": 9575,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #54",
+        "youtubeId": "z2MBRvmBR0k",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z2MBRvmBR0k/hqdefault.jpg",
+        "durationInMinutes": 188,
+        "releaseDate": 1406308806000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

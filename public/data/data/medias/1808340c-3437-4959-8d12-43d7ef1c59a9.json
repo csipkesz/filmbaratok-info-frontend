@@ -1,0 +1,45 @@
+{
+  "id": "1808340c-3437-4959-8d12-43d7ef1c59a9",
+  "title": "Uncharted",
+  "originalTitle": "Uncharted",
+  "overview": "A young street-smart, Nathan Drake and his wisecracking partner Victor “Sully” Sullivan embark on a dangerous pursuit of “the greatest treasure never found” while also tracking clues that may lead to Nathan’s long-lost brother.",
+  "backdropPath": "/fwrqW8Lp5VQuppFrODd4iJ8LySE.jpg",
+  "posterPath": "/rJHC1RUORuUhtfNb4Npclx0xnOf.jpg",
+  "releaseDate": "2022-02-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "622163a5-e451-4142-aba2-ab72d616844a",
+      "title": "Uncharted",
+      "subtitle": null,
+      "timestampString": "02:09:25",
+      "timestampInSeconds": 7765,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #227",
+        "youtubeId": "aLZRPLtke70",
+        "thumbnailUrl": "https://i.ytimg.com/vi/aLZRPLtke70/hqdefault.jpg",
+        "durationInMinutes": 275,
+        "releaseDate": 1645191276000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

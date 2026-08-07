@@ -1,0 +1,41 @@
+{
+  "id": "20a7e01d-8870-4551-b1fd-2c671c93dea1",
+  "title": "Floridai álom",
+  "originalTitle": "The Florida Project",
+  "overview": "The story of a precocious six year-old and her ragtag group of friends whose summer break is filled with childhood wonder, possibility and a sense of adventure while the adults around them struggle with hard times.",
+  "backdropPath": "/GOwNU7Z9G3ORjNxdZnURfuIGS6.jpg",
+  "posterPath": "/5QnDxdJg1fi6uMSkSi4x8tHsltm.jpg",
+  "releaseDate": "2017-10-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c28214f6-b755-497a-96c4-442676a4aaca",
+      "title": "Floridai álom",
+      "subtitle": null,
+      "timestampString": "01:10:30",
+      "timestampInSeconds": 4230,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #137",
+        "youtubeId": "TmsK4Kf-Bj8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/TmsK4Kf-Bj8/hqdefault.jpg",
+        "durationInMinutes": 228,
+        "releaseDate": 1518110484000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

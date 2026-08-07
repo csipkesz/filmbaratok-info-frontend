@@ -1,0 +1,41 @@
+{
+  "id": "097533a5-6169-484d-baac-726735ec303e",
+  "title": "Legénybúcsú [1984]",
+  "originalTitle": "Bachelor Party",
+  "overview": "On the eve of his wedding to his longtime girlfriend, unassuming nice guy Rick is dragged out for a night of debauchery by his friends.",
+  "backdropPath": "/ff1y897CAnQpLQ2QiyfDJtX9Qcq.jpg",
+  "posterPath": "/dZf3UpPZDvJYTODSUJQy7wYEop.jpg",
+  "releaseDate": "1984-06-29T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2dbc518e-f32c-4155-ae4b-4b7acc907e9b",
+      "title": "Legénybúcsú [1984]",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "AUDIO_COMMENTARY",
+        "title": "Filmbarátok Audiokommentár: Legénybúcsú [1984]",
+        "youtubeId": "KbKoolukVhQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/KbKoolukVhQ/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1783789206000,
+        "participants": [
+          {
+            "id": "18bb710d-2755-4eaa-875b-48c695315171",
+            "name": "Márk"
+          },
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

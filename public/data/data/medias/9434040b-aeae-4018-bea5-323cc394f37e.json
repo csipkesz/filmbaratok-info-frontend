@@ -1,0 +1,45 @@
+{
+  "id": "9434040b-aeae-4018-bea5-323cc394f37e",
+  "title": "Jackass bemutatja: Rossz nagyapó",
+  "originalTitle": "Jackass Presents: Bad Grandpa",
+  "overview": "86-year-old Irving Zisman is on a journey across America with the most unlikely companion: his 8 year-old grandson, Billy.",
+  "backdropPath": "/1rNQG7LOjZheSN1iLGGxaey2254.jpg",
+  "posterPath": "/dDSMzBEaM0LYSy9Muo0zsCo77Vh.jpg",
+  "releaseDate": "2013-10-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5da1051a-1695-474c-a581-3d795318167f",
+      "title": "Jackass bemutatja: Rossz nagyapó",
+      "subtitle": null,
+      "timestampString": "00:20:56",
+      "timestampInSeconds": 1256,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #51",
+        "youtubeId": "E9iOfzIEJFU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E9iOfzIEJFU/hqdefault.jpg",
+        "durationInMinutes": 176,
+        "releaseDate": 1401305269000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

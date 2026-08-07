@@ -1,0 +1,45 @@
+{
+  "id": "726135c8-149d-45e6-b547-25e158a7913d",
+  "title": "A Gucci-ház",
+  "originalTitle": "House of Gucci",
+  "overview": "When Patrizia Reggiani, an outsider from humble beginnings, marries into the Gucci family, her unbridled ambition begins to unravel the family legacy and triggers a reckless spiral of betrayal, decadence, revenge, and ultimately… murder.",
+  "backdropPath": "/6VZF8JVNOgJX56WCapYaqcVQiAw.jpg",
+  "posterPath": "/oJCQjD2byiVF1EG408F9dBn9ndU.jpg",
+  "releaseDate": "2021-11-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e65df629-47d4-4f69-91d2-4797ebb22972",
+      "title": "A Gucci-ház",
+      "subtitle": null,
+      "timestampString": "00:15:15",
+      "timestampInSeconds": 915,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #223",
+        "youtubeId": "uKeMDPapOJE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uKeMDPapOJE/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1639837304000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

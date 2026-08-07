@@ -1,0 +1,41 @@
+{
+  "id": "e5a0a2c0-7947-4a7c-bdab-c2312446e2ec",
+  "title": "A nagy fogás [The Rip]",
+  "originalTitle": "The Rip",
+  "overview": "Trust frays when a team of Miami cops discovers millions in cash inside a run-down stash house, calling everyone — and everything — into question.",
+  "backdropPath": "/kwNIQW7egAmI66sb0zIugMbpCfU.jpg",
+  "posterPath": "/4wsYWH73Hb1B6noGIFaRQSAkuXj.jpg",
+  "releaseDate": "2026-01-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8da754db-4860-4f35-a90f-65d714f30b02",
+      "title": "A nagy fogás [The Rip]",
+      "subtitle": null,
+      "timestampString": "02:14:36",
+      "timestampInSeconds": 8076,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #319",
+        "youtubeId": "WElfYZiSFrk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/WElfYZiSFrk/hqdefault.jpg",
+        "durationInMinutes": 210,
+        "releaseDate": 1769866830000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

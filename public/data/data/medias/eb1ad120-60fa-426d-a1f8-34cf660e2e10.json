@@ -1,0 +1,41 @@
+{
+  "id": "eb1ad120-60fa-426d-a1f8-34cf660e2e10",
+  "title": "Camp X-Ray",
+  "originalTitle": "Camp X-Ray",
+  "overview": "A young woman joins the military to be part of something bigger than herself and her small-town roots. Instead, she ends up as a new guard at Guantanamo Bay, where her mission is far from black and white. Surrounded by hostile jihadists and aggressive squadmates, she strikes up an unusual friendship with one of the detainees.",
+  "backdropPath": "/54VZRYfpnAf0yRUFTjTIP34djLQ.jpg",
+  "posterPath": "/aqNzRiaEsfv567Ji9njJofblRBE.jpg",
+  "releaseDate": "2014-10-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "601fefb0-e8e4-4fc2-8fd6-c410b880ad63",
+      "title": "Camp X-Ray",
+      "subtitle": null,
+      "timestampString": "03:41:33",
+      "timestampInSeconds": 13293,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #151",
+        "youtubeId": "hcylcX_kgM0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/hcylcX_kgM0/hqdefault.jpg",
+        "durationInMinutes": 234,
+        "releaseDate": 1537428229000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

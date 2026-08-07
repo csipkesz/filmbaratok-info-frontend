@@ -1,0 +1,41 @@
+{
+  "id": "406d383f-1bd2-4bfa-986c-970ff318caf5",
+  "title": "A feltaláló",
+  "originalTitle": "A feltaláló",
+  "overview": "This biopic traces the life of Dr. József Béres from the development of the \"Béres drops\" to his struggles under the Communist regime in Hungary.",
+  "backdropPath": "/6HP36764fOx3OD8dMSSHxZaXRsY.jpg",
+  "posterPath": "/lhorI4bvmV8zG22Hw9hJAr9ZSeI.jpg",
+  "releaseDate": "2020-02-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e43dd9e8-189e-4657-aa2a-56ce9e64fd00",
+      "title": "A feltaláló",
+      "subtitle": null,
+      "timestampString": "01:03:45",
+      "timestampInSeconds": 3825,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #190",
+        "youtubeId": "w7oFnCSc3u4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/w7oFnCSc3u4/hqdefault.jpg",
+        "durationInMinutes": 188,
+        "releaseDate": 1590603790000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

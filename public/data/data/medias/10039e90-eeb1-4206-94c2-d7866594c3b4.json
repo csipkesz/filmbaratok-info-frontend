@@ -1,0 +1,41 @@
+{
+  "id": "10039e90-eeb1-4206-94c2-d7866594c3b4",
+  "title": "A 17-es fogolytábor",
+  "originalTitle": "Stalag 17",
+  "overview": "After two American prisoners are killed by guards in the act of escaping from a German POW camp in World War II, barracks black marketeer J.J. Sefton is suspected of being an informer.",
+  "backdropPath": "/rM3C9s0b9oiOQDdrfLSOoE0sjWl.jpg",
+  "posterPath": "/lfve9FDKjT7JPbWI9NCs5340F79.jpg",
+  "releaseDate": "1953-05-29T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "bdbcaf43-15ff-4ecd-807b-f11a98fc2c64",
+      "title": "A 17-es fogolytábor",
+      "subtitle": null,
+      "timestampString": "01:41:20",
+      "timestampInSeconds": 6080,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #106",
+        "youtubeId": "HldVi4TfJ9Y",
+        "thumbnailUrl": "https://i.ytimg.com/vi/HldVi4TfJ9Y/hqdefault.jpg",
+        "durationInMinutes": 146,
+        "releaseDate": 1473495633000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

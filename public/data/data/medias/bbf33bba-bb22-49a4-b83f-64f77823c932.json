@@ -1,0 +1,49 @@
+{
+  "id": "bbf33bba-bb22-49a4-b83f-64f77823c932",
+  "title": "Műanyag égbolt",
+  "originalTitle": "Műanyag égbolt",
+  "overview": "2123. Faced with diminishing resources, the human race can only survive through a trade-off: at the age of 50, every citizen is gradually turned into a tree. When Stefan discovers that his beloved wife Nora has voluntarily signed up for donating her own body before her time, he sets out on an adventurous journey to save her at all costs.",
+  "backdropPath": "/tIw0BWPKJSfkEHcj2tT3EIQNwXx.jpg",
+  "posterPath": "/qLQh0vlLZSR5VmFlO3AIuuaekei.jpg",
+  "releaseDate": "2023-03-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c8d2c769-2bb9-447f-b9ae-c6105771a40e",
+      "title": "Műanyag égbolt",
+      "subtitle": null,
+      "timestampString": "03:56:48",
+      "timestampInSeconds": 14208,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #253",
+        "youtubeId": "qh8K0plyKrk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/qh8K0plyKrk/hqdefault.jpg",
+        "durationInMinutes": 284,
+        "releaseDate": 1682442009000,
+        "participants": [
+          {
+            "id": "2a3a072c-0cc4-4088-b3d9-ac7ef73e889a",
+            "name": "ChatGPT"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

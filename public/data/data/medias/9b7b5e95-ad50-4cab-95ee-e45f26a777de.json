@@ -1,0 +1,75 @@
+{
+  "id": "9b7b5e95-ad50-4cab-95ee-e45f26a777de",
+  "title": "A múmia",
+  "originalTitle": "The Mummy",
+  "overview": "Though safely entombed in a crypt deep beneath the unforgiving desert, an ancient queen whose destiny was unjustly taken from her is awakened in our current day, bringing with her malevolence grown over millennia, and terrors that defy human comprehension.",
+  "backdropPath": "/i4ZougHEyBAboDpi6jsaTUDTjUl.jpg",
+  "posterPath": "/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg",
+  "releaseDate": "2017-06-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0ceed994-df05-44a2-942d-5b392c3563f7",
+      "title": "A múmia",
+      "subtitle": null,
+      "timestampString": "01:27:55",
+      "timestampInSeconds": 5275,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #123",
+        "youtubeId": "bURb6dAUghs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/bURb6dAUghs/hqdefault.jpg",
+        "durationInMinutes": 147,
+        "releaseDate": 1497253469000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b03231ce-a528-4087-8da8-d126c746d61e",
+      "title": "A múmia",
+      "subtitle": null,
+      "timestampString": "01:12:12",
+      "timestampInSeconds": 4332,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #285 (1999-es filmek)",
+        "youtubeId": "9AOI1V1MgRI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9AOI1V1MgRI/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1725038107000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

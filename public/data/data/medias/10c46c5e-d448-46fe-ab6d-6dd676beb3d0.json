@@ -1,0 +1,75 @@
+{
+  "id": "10c46c5e-d448-46fe-ab6d-6dd676beb3d0",
+  "title": "The Star Wars Holiday Special",
+  "originalTitle": "The Star Wars Holiday Special",
+  "overview": "Luke Skywalker and Han Solo battle evil Imperial forces to help Chewbacca reach his imperiled family on the Wookiee planet - in time for Life Day, their most important day of the year!",
+  "backdropPath": "/sPD0PDHStJo619mJzCrBuuYrN1o.jpg",
+  "posterPath": "/lGJDx7RCgyMMa3owtp150umMnnJ.jpg",
+  "releaseDate": "1978-11-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2ddcc523-4585-4f90-bd9d-abfb3f826b74",
+      "title": "The Star Wars Holiday Special",
+      "subtitle": null,
+      "timestampString": "02:17:05",
+      "timestampInSeconds": 8225,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #123",
+        "youtubeId": "bURb6dAUghs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/bURb6dAUghs/hqdefault.jpg",
+        "durationInMinutes": 147,
+        "releaseDate": 1497253469000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bb2e3c38-fa64-4c98-bacf-7943c1e165b6",
+      "title": "The Star Wars Holiday Special",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "AUDIO_COMMENTARY",
+        "title": "Filmbarátok Audiokommentár: The Star Wars Holiday Special",
+        "youtubeId": "nT99LQIhFUQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nT99LQIhFUQ/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1497253279000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

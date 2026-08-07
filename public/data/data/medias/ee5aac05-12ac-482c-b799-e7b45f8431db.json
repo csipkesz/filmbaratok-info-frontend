@@ -1,0 +1,45 @@
+{
+  "id": "ee5aac05-12ac-482c-b799-e7b45f8431db",
+  "title": "A texasi láncfűrészes mészárlás [2022]",
+  "originalTitle": "Texas Chainsaw Massacre",
+  "overview": "After nearly 50 years of hiding, Leatherface returns to terrorize a group of idealistic influencers who accidentally disrupt his carefully shielded world in a remote Texas town.",
+  "backdropPath": "/aTSA5zMWlVFTYBIZxTCMbLkfOtb.jpg",
+  "posterPath": "/7sKiGNWFM15WNyY7LYd5vmb3brO.jpg",
+  "releaseDate": "2022-02-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4288d954-c12d-4753-9603-e0ca4ff2e0eb",
+      "title": "A texasi láncfűrészes mészárlás [2022]",
+      "subtitle": null,
+      "timestampString": "02:01:53",
+      "timestampInSeconds": 7313,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #228",
+        "youtubeId": "lv3ZpY859Dw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/lv3ZpY859Dw/hqdefault.jpg",
+        "durationInMinutes": 218,
+        "releaseDate": 1646480502000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

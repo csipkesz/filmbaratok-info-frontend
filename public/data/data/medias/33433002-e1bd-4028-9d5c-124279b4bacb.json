@@ -1,0 +1,45 @@
+{
+  "id": "33433002-e1bd-4028-9d5c-124279b4bacb",
+  "title": "Barbie",
+  "originalTitle": "Barbie",
+  "overview": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+  "backdropPath": "/3N5QNUqS76GFYNoEayfkkJyAyTN.jpg",
+  "posterPath": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+  "releaseDate": "2023-07-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "10bbbcb4-485f-48ad-a168-2b0d8aa2a26a",
+      "title": "Barbie",
+      "subtitle": null,
+      "timestampString": "01:07:35",
+      "timestampInSeconds": 4055,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #259",
+        "youtubeId": "pSiJphe8S5U",
+        "thumbnailUrl": "https://i.ytimg.com/vi/pSiJphe8S5U/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1690581661000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "df3a34ef-9aba-4da2-81e1-677d7ba3487d",
+            "name": "Anna"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

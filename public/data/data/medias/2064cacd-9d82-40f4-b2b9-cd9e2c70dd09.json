@@ -1,0 +1,41 @@
+{
+  "id": "2064cacd-9d82-40f4-b2b9-cd9e2c70dd09",
+  "title": "Karate kölyök",
+  "originalTitle": "The Karate Kid",
+  "overview": "New Jersey teen Daniel LaRusso moves to Los Angeles with his mother, and soon strikes up a relationship with Ali. He quickly finds himself the target of bullying by a group of thugs, led by Ali's ex-boyfriend Johnny, who study karate at the Cobra Kai dojo under ruthless sensei John Kreese. Fortunately, Daniel befriends Mr. Miyagi, an unassuming repairman who just happens to be a martial arts master himself. Miyagi takes Daniel under his wing, training him in a more compassionate form of karate for self-defense and, later, preparing him to compete against the brutal Cobra Kai.",
+  "backdropPath": "/j1xaeJZOEOiVBD1rk3dg4YaAk23.jpg",
+  "posterPath": "/1mp4ViklKvA0WXXsNvNx0RBuiit.jpg",
+  "releaseDate": "1984-06-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6a83f047-8a9b-4e27-ba31-94f9373bf69d",
+      "title": "Karate kölyök",
+      "subtitle": null,
+      "timestampString": "01:52:20",
+      "timestampInSeconds": 6740,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #196",
+        "youtubeId": "FsFQg0igAJI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/FsFQg0igAJI/hqdefault.jpg",
+        "durationInMinutes": 181,
+        "releaseDate": 1598446254000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

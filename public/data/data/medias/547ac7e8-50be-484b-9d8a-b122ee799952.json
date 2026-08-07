@@ -1,0 +1,45 @@
+{
+  "id": "547ac7e8-50be-484b-9d8a-b122ee799952",
+  "title": "Kalózok: A kétballábas banda",
+  "originalTitle": "The Pirates! In an Adventure with Scientists!",
+  "overview": "The enthusiastic Pirate Captain, along with his rag-tag crew, sets out to beat his bitter rivals. The chaotic adventure takes them from exotic shores to Victorian London, and from a haplessly smitten scientist to a diabolical queen.",
+  "backdropPath": "/9UZnCIeUVHzZQLDXN7lht2T4ndB.jpg",
+  "posterPath": "/bkLeXPDP6sramrTiF5W7TzUl4t0.jpg",
+  "releaseDate": "2012-03-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "bb3b78cd-d53f-4dd6-9366-a41934ac78f6",
+      "title": "Kalózok: A kétballábas banda",
+      "subtitle": null,
+      "timestampString": "01:56:51",
+      "timestampInSeconds": 7011,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #63",
+        "youtubeId": "PgKECs1kHoY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/PgKECs1kHoY/hqdefault.jpg",
+        "durationInMinutes": 195,
+        "releaseDate": 1418847403000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

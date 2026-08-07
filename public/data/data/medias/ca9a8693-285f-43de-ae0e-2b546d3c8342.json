@@ -1,0 +1,41 @@
+{
+  "id": "ca9a8693-285f-43de-ae0e-2b546d3c8342",
+  "title": "Vérző olaj",
+  "originalTitle": "There Will Be Blood",
+  "overview": "Ruthless silver miner, turned oil prospector, Daniel Plainview, moves to oil-rich California. Using his son to project a trustworthy, family-man image, Plainview cons local landowners into selling him their valuable properties for a pittance. However, local preacher Eli Sunday suspects Plainview's motives and intentions, starting a slow-burning feud that threatens both their lives.",
+  "backdropPath": "/9UAKA6ceZi6TgQwTAAMt7DWwYPI.jpg",
+  "posterPath": "/fa0RDkAlCec0STeMNAhPaF89q6U.jpg",
+  "releaseDate": "2007-12-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a81d3927-1804-48f2-8fec-8b9cb386d65b",
+      "title": "Vérző olaj",
+      "subtitle": null,
+      "timestampString": "03:55:05",
+      "timestampInSeconds": 14105,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #216",
+        "youtubeId": "30tV_qEGOIE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/30tV_qEGOIE/hqdefault.jpg",
+        "durationInMinutes": 291,
+        "releaseDate": 1629219607000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

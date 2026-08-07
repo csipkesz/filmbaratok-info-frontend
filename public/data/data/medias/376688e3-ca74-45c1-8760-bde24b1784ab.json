@@ -1,0 +1,45 @@
+{
+  "id": "376688e3-ca74-45c1-8760-bde24b1784ab",
+  "title": "A szer",
+  "originalTitle": "The Substance",
+  "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+  "backdropPath": "/8ODNt5olCeIqBYTP3GgXEQYTfeX.jpg",
+  "posterPath": "/uYJvxMWMb9W4zIY3cbM50sj3dpC.jpg",
+  "releaseDate": "2024-09-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f6e753e9-96c3-411f-81ac-9b647bd73510",
+      "title": "A szer",
+      "subtitle": null,
+      "timestampString": "02:25:35",
+      "timestampInSeconds": 8735,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #288",
+        "youtubeId": "y8PRwmbTmMM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/y8PRwmbTmMM/hqdefault.jpg",
+        "durationInMinutes": 241,
+        "releaseDate": 1729192342000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

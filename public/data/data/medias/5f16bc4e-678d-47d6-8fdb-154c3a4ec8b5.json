@@ -1,0 +1,45 @@
+{
+  "id": "5f16bc4e-678d-47d6-8fdb-154c3a4ec8b5",
+  "title": "Shang-Chi és a tíz gyűrű legendája",
+  "originalTitle": "Shang-Chi and the Legend of the Ten Rings",
+  "overview": "Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.",
+  "backdropPath": "/r7K6Xt0RX4Mw0cAbZVw5cyb1Tux.jpg",
+  "posterPath": "/9f2Q0U3IOsLgrI2HkvldwSABZy5.jpg",
+  "releaseDate": "2021-09-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4c8f3f2a-d072-4d3f-825e-ebe3616c1534",
+      "title": "Shang-Chi és a tíz gyűrű legendája",
+      "subtitle": null,
+      "timestampString": "00:30:00",
+      "timestampInSeconds": 1800,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #218",
+        "youtubeId": "c2D577gQ6vU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/c2D577gQ6vU/hqdefault.jpg",
+        "durationInMinutes": 196,
+        "releaseDate": 1631901622000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

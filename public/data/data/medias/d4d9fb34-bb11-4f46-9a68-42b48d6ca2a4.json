@@ -1,0 +1,45 @@
+{
+  "id": "d4d9fb34-bb11-4f46-9a68-42b48d6ca2a4",
+  "title": "John Wick: 4. felvonás",
+  "originalTitle": "John Wick: Chapter 4",
+  "overview": "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+  "backdropPath": "/7I6VUdPj6tQECNHdviJkUHD2u89.jpg",
+  "posterPath": "/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+  "releaseDate": "2023-03-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3083b261-9137-4fa7-91ed-b6c72f8d8425",
+      "title": "John Wick: 4. felvonás",
+      "subtitle": null,
+      "timestampString": "02:00:45",
+      "timestampInSeconds": 7245,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #252",
+        "youtubeId": "BAb0S4ADaoM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/BAb0S4ADaoM/hqdefault.jpg",
+        "durationInMinutes": 219,
+        "releaseDate": 1680329169000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

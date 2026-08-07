@@ -1,0 +1,45 @@
+{
+  "id": "8d9c0fff-c78f-44b9-ab91-7edc2a6be054",
+  "title": "Cherry: Az elveszett ártatlanság",
+  "originalTitle": "Cherry",
+  "overview": "Cherry drifts from college dropout to army medic in Iraq—anchored only by his one true love, Emily. But after returning from the war with PTSD, his life spirals into drugs and crime as he struggles to find his place in the world.",
+  "backdropPath": "/kzXUQnrUnHUGHuwWbgf9KpoU3qr.jpg",
+  "posterPath": "/pwDvkDyaHEU9V7cApQhbcSJMG1w.jpg",
+  "releaseDate": "2021-02-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "bef51fdb-73a2-4f99-b388-c9f04b4f15bf",
+      "title": "Cherry: Az elveszett ártatlanság",
+      "subtitle": null,
+      "timestampString": "02:06:52",
+      "timestampInSeconds": 7612,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #208",
+        "youtubeId": "VmpaZBFyHfg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VmpaZBFyHfg/hqdefault.jpg",
+        "durationInMinutes": 205,
+        "releaseDate": 1616583355000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

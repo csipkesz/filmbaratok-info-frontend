@@ -1,0 +1,33 @@
+{
+  "id": "718e59f2-8d28-417f-bf11-57ca74c4b85e",
+  "title": "Sajtóvadászat",
+  "originalTitle": "Sajtóvadászat",
+  "overview": "A daily newspaper is in a huge crisis. Keszeg, the editor in chief charges his best journalist, Rezso to find a recently kidnapped accountant, who worked for the local mob before. Keszeg expects that this guy can debunk many famous politician very easily. Andras is a bung and alcoholic character, but he's the only one who can help Rezso on his desperate search. Rezso and Andras doesn't like each other, but they're forced to liaise for the purpose. This is only a one day story, because the evening and the deadline are approaching.",
+  "backdropPath": null,
+  "posterPath": null,
+  "releaseDate": "2006-12-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "763ede69-91b2-40cf-91a4-179e505fbeb7",
+      "title": "Sajtóvadászat (Gábor filmje)",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "AUDIO_COMMENTARY",
+        "title": "Filmbarátok Audiokommentár: Sajtóvadászat (Gábor filmje)",
+        "youtubeId": "k8erPqIZmuM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/k8erPqIZmuM/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1681538407000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          }
+        ]
+      }
+    }
+  ]
+}

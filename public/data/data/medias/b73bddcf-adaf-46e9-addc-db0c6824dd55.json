@@ -1,0 +1,45 @@
+{
+  "id": "b73bddcf-adaf-46e9-addc-db0c6824dd55",
+  "title": "Kánikulai délután",
+  "originalTitle": "Dog Day Afternoon",
+  "overview": "Based on the true story of would-be Brooklyn bank robbers John Wojtowicz and Salvatore Naturile. Sonny and Sal attempt a bank heist which quickly turns sour and escalates into a hostage situation and stand-off with the police. As Sonny's motives for the robbery are slowly revealed and things become more complicated, the heist turns into a media circus.",
+  "backdropPath": "/m10uqk0HI5JcITAbxNJIIiGA8HP.jpg",
+  "posterPath": "/mavrhr0ig2aCRR8d48yaxtD5aMQ.jpg",
+  "releaseDate": "1975-09-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "16e0e056-4ce2-4a1e-bec5-ada74d8b866f",
+      "title": "Kánikulai délután",
+      "subtitle": null,
+      "timestampString": "03:06:30",
+      "timestampInSeconds": 11190,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #266",
+        "youtubeId": "N4U228aSkd8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/N4U228aSkd8/hqdefault.jpg",
+        "durationInMinutes": 221,
+        "releaseDate": 1700081301000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

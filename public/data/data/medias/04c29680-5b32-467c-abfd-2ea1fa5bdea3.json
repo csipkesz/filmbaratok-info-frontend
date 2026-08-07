@@ -1,0 +1,41 @@
+{
+  "id": "04c29680-5b32-467c-abfd-2ea1fa5bdea3",
+  "title": "McMilliók",
+  "originalTitle": "McMillion$",
+  "overview": "Az 1990-es években, a McDonald’s Monopoly játékkal kapcsolatos elképesztő csalássorozat hihetetlen, de valós története. Megszólalnak az ügy egykori résztvevői, beleértve a nyerteseket és az FBI ügynököket, akik lebuktatták a csalókat.",
+  "backdropPath": "/jfBxBOGZX1hqpVHvLM3J571PPAy.jpg",
+  "posterPath": "/eXATbfNSUJTyA3XLMumosVHzLJ2.jpg",
+  "releaseDate": "2020-02-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d9d17d3e-da0b-4d70-93ce-11a5631903ce",
+      "title": "McMilliók",
+      "subtitle": null,
+      "timestampString": "02:31:28",
+      "timestampInSeconds": 9088,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #186",
+        "youtubeId": "LvzEUgrbuec",
+        "thumbnailUrl": "https://i.ytimg.com/vi/LvzEUgrbuec/hqdefault.jpg",
+        "durationInMinutes": 214,
+        "releaseDate": 1584373994000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

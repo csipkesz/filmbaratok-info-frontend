@@ -1,0 +1,49 @@
+{
+  "id": "3d671d70-a291-478a-90c3-611a3dc14158",
+  "title": "Super Mario Bros.: A film",
+  "originalTitle": "The Super Mario Bros. Movie",
+  "overview": "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
+  "backdropPath": "/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
+  "posterPath": "/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+  "releaseDate": "2023-04-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f08c6936-bd31-4ca3-819d-f6fa603c8dc2",
+      "title": "Super Mario Bros.: A film",
+      "subtitle": null,
+      "timestampString": "02:02:05",
+      "timestampInSeconds": 7325,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #253",
+        "youtubeId": "qh8K0plyKrk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/qh8K0plyKrk/hqdefault.jpg",
+        "durationInMinutes": 284,
+        "releaseDate": 1682442009000,
+        "participants": [
+          {
+            "id": "2a3a072c-0cc4-4088-b3d9-ac7ef73e889a",
+            "name": "ChatGPT"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

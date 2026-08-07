@@ -1,0 +1,45 @@
+{
+  "id": "d76b9b74-de7f-4972-8475-8f612c6a4112",
+  "title": "A holnap háborúja",
+  "originalTitle": "The Tomorrow War",
+  "overview": "The world is stunned when a group of time travelers arrive from the year 2051 to deliver an urgent message: Thirty years in the future, mankind is losing a global war against a deadly alien species. The only hope for survival is for soldiers and civilians from the present to be transported to the future and join the fight. Among those recruited is high school teacher and family man Dan Forester. Determined to save the world for his young daughter, Dan teams up with a brilliant scientist and his estranged father in a desperate quest to rewrite the fate of the planet.",
+  "backdropPath": "/yizL4cEKsVvl17Wc1mGEIrQtM2F.jpg",
+  "posterPath": "/34nDCQZwaEvsy4CFO5hkGRFDCVU.jpg",
+  "releaseDate": "2021-09-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3d1d6ad8-9655-4006-ba9a-6bba049feb00",
+      "title": "A holnap háborúja",
+      "subtitle": null,
+      "timestampString": "03:18:44",
+      "timestampInSeconds": 11924,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #215",
+        "youtubeId": "J6qemr4xa1Y",
+        "thumbnailUrl": "https://i.ytimg.com/vi/J6qemr4xa1Y/hqdefault.jpg",
+        "durationInMinutes": 287,
+        "releaseDate": 1627662350000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "8b4fb1ab-92b0-415b-ab50-7ad858a01b68",
+  "title": "Démonok között – Utolsó rítusok",
+  "originalTitle": "The Conjuring: Last Rites",
+  "overview": "Paranormal investigators Ed and Lorraine Warren take on one last terrifying case involving mysterious entities they must confront.",
+  "backdropPath": "/i8MupUe4xgmYXoRNAQMYvuoexSU.jpg",
+  "posterPath": "/byWgphT74ClOVa8EOGzYDkl8DVL.jpg",
+  "releaseDate": "2025-09-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1989354c-d99c-4a9d-b1ad-223f1e562bb4",
+      "title": "Démonok között – Utolsó rítusok",
+      "subtitle": null,
+      "timestampString": "01:53:15",
+      "timestampInSeconds": 6795,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #310",
+        "youtubeId": "snN5b4JzNgw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/snN5b4JzNgw/hqdefault.jpg",
+        "durationInMinutes": 230,
+        "releaseDate": 1758218455000,
+        "participants": [
+          {
+            "id": "18bb710d-2755-4eaa-875b-48c695315171",
+            "name": "Márk"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

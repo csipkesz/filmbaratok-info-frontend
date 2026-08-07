@@ -1,0 +1,28 @@
+{
+  "id": "250aaabd-85c1-4b1c-94b2-3f0339233406",
+  "title": "Dark Side of the Ring",
+  "originalTitle": "Dark Side of the Ring",
+  "overview": "",
+  "backdropPath": "/uocPngbcY9rEBWblzLY2SbJkNLF.jpg",
+  "posterPath": "/gHBKjBzCSHdraabjSnAFOMEf4Uf.jpg",
+  "releaseDate": "2019-04-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "74b44d4a-5364-4c3c-9619-c5fa94b21687",
+      "title": "Dark Side of the Ring",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Dark Side of the Ring",
+        "youtubeId": "M9bSsBDZG04",
+        "thumbnailUrl": "https://i.ytimg.com/vi/M9bSsBDZG04/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1592591549000,
+        "participants": []
+      }
+    }
+  ]
+}

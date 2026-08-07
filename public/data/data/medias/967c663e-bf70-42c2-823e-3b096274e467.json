@@ -1,0 +1,41 @@
+{
+  "id": "967c663e-bf70-42c2-823e-3b096274e467",
+  "title": "Elhagyott szoba",
+  "originalTitle": "Vacancy",
+  "overview": "A young married couple becomes stranded at an isolated motel and find hidden video cameras in their room. They realize that unless they escape, they'll be the next victims of a snuff film.",
+  "backdropPath": "/oD5hzb3lb6iwMWWTtiNzFKmey3Y.jpg",
+  "posterPath": "/1DdfXaXzi1sJysZ800GOUAwlLR4.jpg",
+  "releaseDate": "2007-04-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a55feb2a-6478-4d64-84fe-8a9f0de9d395",
+      "title": "Elhagyott szoba",
+      "subtitle": null,
+      "timestampString": "01:29:15",
+      "timestampInSeconds": 5355,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #35",
+        "youtubeId": "iZP3HzNbpJk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/iZP3HzNbpJk/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1378351959000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

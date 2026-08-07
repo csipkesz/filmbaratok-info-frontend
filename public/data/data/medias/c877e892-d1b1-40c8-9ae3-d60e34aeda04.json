@@ -1,0 +1,41 @@
+{
+  "id": "c877e892-d1b1-40c8-9ae3-d60e34aeda04",
+  "title": "Ben-Hur (2016)",
+  "originalTitle": "Ben-Hur",
+  "overview": "A falsely accused nobleman survives years of slavery to take vengeance on his best friend who betrayed him.",
+  "backdropPath": "/qcquSEEdkKeXDmyKvrAKWznk2Cs.jpg",
+  "posterPath": "/c9CoGrBA5yw8A7YBMz0hGzfzpNq.jpg",
+  "releaseDate": "2016-08-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b4ee37ef-4c41-4614-9f34-25b45162665b",
+      "title": "Ben-Hur (2016)",
+      "subtitle": null,
+      "timestampString": "01:05:12",
+      "timestampInSeconds": 3912,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #106",
+        "youtubeId": "HldVi4TfJ9Y",
+        "thumbnailUrl": "https://i.ytimg.com/vi/HldVi4TfJ9Y/hqdefault.jpg",
+        "durationInMinutes": 146,
+        "releaseDate": 1473495633000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

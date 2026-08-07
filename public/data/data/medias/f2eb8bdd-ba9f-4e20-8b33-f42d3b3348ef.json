@@ -1,0 +1,41 @@
+{
+  "id": "f2eb8bdd-ba9f-4e20-8b33-f42d3b3348ef",
+  "title": "Csillagközi Invázió / Starship Troopers",
+  "originalTitle": "Starship Troopers",
+  "overview": "Set in the future, the story follows a young soldier named Johnny Rico and his exploits in the Mobile Infantry. Rico's military career progresses from recruit to non-commissioned officer and finally to officer against the backdrop of an interstellar war between mankind and an arachnoid species known as \"the Bugs.\"",
+  "backdropPath": "/7iEfnj3rfyunky6BzvnlwqfoEF0.jpg",
+  "posterPath": "/cxCmv23O7p3hyHwqoktHYkZcGsY.jpg",
+  "releaseDate": "1997-11-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d521157c-064f-4a1e-95ab-ef461f2dab92",
+      "title": "Csillagközi Invázió / Starship Troopers",
+      "subtitle": null,
+      "timestampString": "00:34:41",
+      "timestampInSeconds": 2081,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #48",
+        "youtubeId": "fLYUOAN5_3c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fLYUOAN5_3c/hqdefault.jpg",
+        "durationInMinutes": 56,
+        "releaseDate": 1396323815000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

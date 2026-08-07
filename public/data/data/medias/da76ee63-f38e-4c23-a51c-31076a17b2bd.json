@@ -1,0 +1,45 @@
+{
+  "id": "da76ee63-f38e-4c23-a51c-31076a17b2bd",
+  "title": "Bombabiztos (2000)",
+  "originalTitle": "Fail Safe",
+  "overview": "Cold War tensions climb to a fever pitch when a U.S. bomber is accidentally ordered to drop a nuclear warhead on Moscow.",
+  "backdropPath": "/hf5STxQfmXIXu18U6iZVvJlqGYE.jpg",
+  "posterPath": "/hg2R1TllSeXGeHYJjIqWuIJ6SKF.jpg",
+  "releaseDate": "2000-04-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c2ff62e4-dc92-4ac9-8f92-6e91e5d500dc",
+      "title": "Bombabiztos (2000)",
+      "subtitle": null,
+      "timestampString": "02:48:40",
+      "timestampInSeconds": 10120,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #134",
+        "youtubeId": "gB5CFdGY70M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gB5CFdGY70M/hqdefault.jpg",
+        "durationInMinutes": 218,
+        "releaseDate": 1513874512000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

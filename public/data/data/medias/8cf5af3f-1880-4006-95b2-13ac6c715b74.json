@@ -1,0 +1,45 @@
+{
+  "id": "8cf5af3f-1880-4006-95b2-13ac6c715b74",
+  "title": "Volt egyszer egy Hollywood",
+  "originalTitle": "Once Upon a Time... in Hollywood",
+  "overview": "Los Angeles, 1969. TV star Rick Dalton, a struggling actor specializing in westerns, and stuntman Cliff Booth, his best friend, try to survive in a constantly changing movie industry. Dalton is the neighbor of the young and promising actress and model Sharon Tate, who has just married the prestigious Polish director Roman Polanski…",
+  "backdropPath": "/xwgBHC2FgoIrQitl8jZwXXdsR9u.jpg",
+  "posterPath": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+  "releaseDate": "2019-07-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0abc80d4-1df8-4311-ae04-37f8a7c1cfc2",
+      "title": "Volt egyszer egy Hollywood",
+      "subtitle": null,
+      "timestampString": "00:13:55",
+      "timestampInSeconds": 835,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #174",
+        "youtubeId": "SKngLJZbCLc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/SKngLJZbCLc/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1567606261000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

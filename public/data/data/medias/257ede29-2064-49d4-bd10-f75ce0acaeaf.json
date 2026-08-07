@@ -1,0 +1,45 @@
+{
+  "id": "257ede29-2064-49d4-bd10-f75ce0acaeaf",
+  "title": "Kálmán-nap",
+  "originalTitle": "Kálmán-nap",
+  "overview": "It’s a beautiful sunny autumn morning in a cosy house near a quiet lake. Kálmán doesn't know what love means anymore. His asexual wife Olga suggests redecorating in another attempt to save the relationship. Olga’s sister Zita comes to celebrate Kalman's name day with her husband Levente, who has a terrible pain in his stomach. Then, sensitive widower Erno knocks on the door. Olga has a strange dream where she sees misfortune for Zita and Levente. Trouble never comes alone.",
+  "backdropPath": "/9QQgeSC6eSXrc7gpwfUtghZYdzV.jpg",
+  "posterPath": "/ksuEuIsEvs1d2WWI1F2PV8OYuam.jpg",
+  "releaseDate": "2023-11-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9100359e-81ed-481d-b12b-49fc1cf204c7",
+      "title": "Kálmán-nap",
+      "subtitle": null,
+      "timestampString": "01:40:00",
+      "timestampInSeconds": 6000,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #276",
+        "youtubeId": "ozdxgj2AwCk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ozdxgj2AwCk/hqdefault.jpg",
+        "durationInMinutes": 248,
+        "releaseDate": 1713292727000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

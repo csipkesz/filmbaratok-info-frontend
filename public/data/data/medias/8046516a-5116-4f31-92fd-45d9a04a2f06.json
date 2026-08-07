@@ -1,0 +1,41 @@
+{
+  "id": "8046516a-5116-4f31-92fd-45d9a04a2f06",
+  "title": "A sas leszállt",
+  "originalTitle": "The Eagle Has Landed",
+  "overview": "When the Nazi high command learns in late 1943 that Winston Churchill will be spending time at a country estate in Norfolk, it hatches an audacious scheme to kidnap the prime minister and spirit him to Germany for enforced negotiations with Hitler.",
+  "backdropPath": "/kk1EDdwnERVB89VRuqlJjPGHexu.jpg",
+  "posterPath": "/dxLuj7VIv0ZRdvaIB6eY5fApONF.jpg",
+  "releaseDate": "1976-12-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f4f5714f-290e-4ced-bad9-82348119faf1",
+      "title": "A sas leszállt",
+      "subtitle": null,
+      "timestampString": "01:47:55",
+      "timestampInSeconds": 6475,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #35",
+        "youtubeId": "iZP3HzNbpJk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/iZP3HzNbpJk/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1378351959000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

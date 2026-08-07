@@ -1,0 +1,45 @@
+{
+  "id": "c0ea4cd8-dcd6-41ec-a8d6-35cb11308ce1",
+  "title": "Az alkotó",
+  "originalTitle": "The Creator",
+  "overview": "Amid a future war between the human race and the forces of artificial intelligence, a hardened ex-special forces agent grieving the disappearance of his wife, is recruited to hunt down and kill the Creator, the elusive architect of advanced AI who has developed a mysterious weapon with the power to end the war—and mankind itself.",
+  "backdropPath": "/kjQBrc00fB2RjHZB3PGR4w9ibpz.jpg",
+  "posterPath": "/3dSivDtOuyxLDxPH4v2tcNG1fP7.jpg",
+  "releaseDate": "2023-09-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4fe32b7b-d19b-4c6e-b1c5-1e6cc9c216cc",
+      "title": "Az alkotó",
+      "subtitle": null,
+      "timestampString": "00:26:10",
+      "timestampInSeconds": 1570,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #265",
+        "youtubeId": "W7K_jzS7pPg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/W7K_jzS7pPg/hqdefault.jpg",
+        "durationInMinutes": 254,
+        "releaseDate": 1698781502000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

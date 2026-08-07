@@ -1,0 +1,37 @@
+{
+  "id": "417866d5-cb9b-485c-bcb5-331ffb89d5ba",
+  "title": "88 perc",
+  "originalTitle": "88 Minutes",
+  "overview": "Famed forensic psychiatrist Dr. Jack Gramm enjoys a reputation as one of the most sought-after profilers around. His expert testimony has resulted in the conviction of many criminals, including serial killer Jon Forster. On the eve of Forster's execution, one of Gramm's students is murdered in a vicious copycat crime, and Gramm himself receives an ominous message informing him that he has less than 90 minutes to live.",
+  "backdropPath": "/lEimZXv1tMve0VG9Oox8dfongto.jpg",
+  "posterPath": "/bSrmBJ2Png69Qnb5L1KHYZMsDP7.jpg",
+  "releaseDate": "2007-02-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a7bf81a1-8692-460d-a556-a38449ce3388",
+      "title": "88 perc",
+      "subtitle": null,
+      "timestampString": "01:30:40",
+      "timestampInSeconds": 5440,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #52",
+        "youtubeId": "z5hnMqJSVxs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z5hnMqJSVxs/hqdefault.jpg",
+        "durationInMinutes": 121,
+        "releaseDate": 1403347391000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

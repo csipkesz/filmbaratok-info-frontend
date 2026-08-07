@@ -1,0 +1,45 @@
+{
+  "id": "24e83051-4f59-472a-8093-2c31d1363d14",
+  "title": "Citizenfour",
+  "originalTitle": "Citizenfour",
+  "overview": "In June 2013, Laura Poitras and reporter Glenn Greenwald flew to Hong Kong for the first of many meetings with Edward Snowden. She brought her camera with her.",
+  "backdropPath": "/godZeVdLEH6YFOBPajdLkAvhy5l.jpg",
+  "posterPath": "/nOVhX69EAxtSKEEnr5UcSd5UVci.jpg",
+  "releaseDate": "2014-10-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c97e2743-e5ac-4523-bd4a-e2e37cc001c4",
+      "title": "Citizenfour",
+      "subtitle": null,
+      "timestampString": "03:07:12",
+      "timestampInSeconds": 11232,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #67",
+        "youtubeId": "FATQkJjmAQg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/FATQkJjmAQg/hqdefault.jpg",
+        "durationInMinutes": 206,
+        "releaseDate": 1424108444000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0ac1fa09-cdac-4d69-9bf4-3c73e192435e",
+  "title": "Virsliparti",
+  "originalTitle": "Sausage Party",
+  "overview": "Hot dog Frank leads a group of supermarket products on a quest to discover the truth about their existence and what really happens when they're chosen to leave the grocery store.",
+  "backdropPath": "/hsb8nNBt3emvWqBs7Xv5IKlz6Im.jpg",
+  "posterPath": "/vNgdPJQ5CI60oEiiHLKRNrsDhMy.jpg",
+  "releaseDate": "2016-07-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f69a1a0f-847e-400f-953a-35296658a579",
+      "title": "Virsliparti",
+      "subtitle": null,
+      "timestampString": "00:43:00",
+      "timestampInSeconds": 2580,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #108",
+        "youtubeId": "zNzDplhnvlg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/zNzDplhnvlg/hqdefault.jpg",
+        "durationInMinutes": 175,
+        "releaseDate": 1476476267000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

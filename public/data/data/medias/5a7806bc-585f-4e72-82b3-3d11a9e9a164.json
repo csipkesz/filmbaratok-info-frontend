@@ -1,0 +1,49 @@
+{
+  "id": "5a7806bc-585f-4e72-82b3-3d11a9e9a164",
+  "title": "Thor: Szerelem és mennydörgés",
+  "originalTitle": "Thor: Love and Thunder",
+  "overview": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor Odinson enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
+  "backdropPath": "/jsoz1HlxczSuTx0mDl2h0lxy36l.jpg",
+  "posterPath": "/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+  "releaseDate": "2022-07-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "dd5e7176-5446-443a-aa23-738a52d914cd",
+      "title": "Thor: Szerelem és mennydörgés",
+      "subtitle": null,
+      "timestampString": "02:03:45",
+      "timestampInSeconds": 7425,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #236",
+        "youtubeId": "amde_-Gdpc4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/amde_-Gdpc4/hqdefault.jpg",
+        "durationInMinutes": 262,
+        "releaseDate": 1658250003000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

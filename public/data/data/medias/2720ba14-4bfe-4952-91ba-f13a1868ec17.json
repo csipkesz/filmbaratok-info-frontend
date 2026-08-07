@@ -1,0 +1,45 @@
+{
+  "id": "2720ba14-4bfe-4952-91ba-f13a1868ec17",
+  "title": "A Viszkis",
+  "originalTitle": "A Viszkis",
+  "overview": "Between 1993 and 1999, one man robbed 29 financial institutions in Budapest. Banks, post offices and even travel agencies fell victim to his crime spree. The police had no leads and no hope of finding him during his six-year stint. The only clue left behind at the crime scenes was the distinct aroma of whiskey. The media christened him the “Whiskey Bandit”. Never physically harming anyone, many began to eagerly follow his escapades through the media. A Transylvanian immigrant, who also happened to be a goalie for one of the city's largest hockey teams, named Attila Ambrus, was finally identified as the “Whiskey Bandit”. The police had finally captured him... or so they thought.",
+  "backdropPath": "/qLIcg7J94StYDFqTU5tPlQifNI.jpg",
+  "posterPath": "/uaL59BF0jcHsvqxx3SSho3ZLAiY.jpg",
+  "releaseDate": "2017-11-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f409766e-c484-47bb-a523-b58ff7aae728",
+      "title": "A Viszkis",
+      "subtitle": null,
+      "timestampString": "00:37:18",
+      "timestampInSeconds": 2238,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #133",
+        "youtubeId": "HByKV2iRM34",
+        "thumbnailUrl": "https://i.ytimg.com/vi/HByKV2iRM34/hqdefault.jpg",
+        "durationInMinutes": 235,
+        "releaseDate": 1512135779000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

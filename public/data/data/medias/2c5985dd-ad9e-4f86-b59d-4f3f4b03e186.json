@@ -1,0 +1,45 @@
+{
+  "id": "2c5985dd-ad9e-4f86-b59d-4f3f4b03e186",
+  "title": "Kurszk",
+  "originalTitle": "Kursk",
+  "overview": "Barents Sea, August 12th, 2000. During a Russian naval exercise, and after suffering a serious accident, the K-141 Kursk submarine sinks with 118 crew members on board. While the few sailors who are still alive barely manage to survive, their families push for accurate information and a British officer struggles to obtain from the Russian government a permit to attempt a rescue before it is late. But general incompetence are against all their efforts.",
+  "backdropPath": "/tpn4FbxL6oeZh8YtanV1a0k7dLB.jpg",
+  "posterPath": "/1Y09MkMJ8CESSPW4fcbDm9s5cAS.jpg",
+  "releaseDate": "2018-11-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "aef09096-96ee-4ebb-b043-f6315d6039f5",
+      "title": "Kurszk",
+      "subtitle": null,
+      "timestampString": "01:19:45",
+      "timestampInSeconds": 4785,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #161",
+        "youtubeId": "c8SMgflP8R4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/c8SMgflP8R4/hqdefault.jpg",
+        "durationInMinutes": 262,
+        "releaseDate": 1548928591000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

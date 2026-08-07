@@ -1,0 +1,53 @@
+{
+  "id": "65c996b8-d164-4ba1-a791-7376d6ed12be",
+  "title": "Elrabolt világ",
+  "originalTitle": "Captive State",
+  "overview": "Nearly a decade after occupation by an extraterrestrial force, the lives of a Chicago neighborhood on both sides of the conflict are explored. In a working-class Chicago neighborhood occupied by an alien force for nine years, increased surveillance and the restriction of civil rights have given rise to an authoritarian system -- and dissent among the populace.",
+  "backdropPath": "/xnz8kkRvqpzzDbRXONwVEjT78t7.jpg",
+  "posterPath": "/u2ccL7X3osXwn3txIuXENRHmYQ5.jpg",
+  "releaseDate": "2019-03-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e4aca5f0-e387-4866-b0f8-a873ee621106",
+      "title": "Elrabolt világ",
+      "subtitle": null,
+      "timestampString": "02:11:42",
+      "timestampInSeconds": 7902,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #165",
+        "youtubeId": "RSBwJungF40",
+        "thumbnailUrl": "https://i.ytimg.com/vi/RSBwJungF40/hqdefault.jpg",
+        "durationInMinutes": 274,
+        "releaseDate": 1554109205000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "6a6700d9-3d36-4010-b59c-ea0ebaf8c7bc",
+            "name": "Károly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

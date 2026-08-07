@@ -1,0 +1,45 @@
+{
+  "id": "355b36ec-6fb3-4912-9547-0194ec6aafc2",
+  "title": "The fanatic",
+  "originalTitle": "The Fanatic",
+  "overview": "A rabid film fan stalks his favorite action hero and destroys the star's life.",
+  "backdropPath": "/c4UbjY6n3YvsRLbAPd8gK04Ag7Q.jpg",
+  "posterPath": "/nojx83s8JWyYpI9oeKdQXniWMu6.jpg",
+  "releaseDate": "2019-08-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b2517329-8129-48c6-b628-ca62eaf7e6fa",
+      "title": "The fanatic [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "03:28:30",
+      "timestampInSeconds": 12510,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #176",
+        "youtubeId": "IBv2w6mBz1s",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IBv2w6mBz1s/hqdefault.jpg",
+        "durationInMinutes": 267,
+        "releaseDate": 1570124501000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

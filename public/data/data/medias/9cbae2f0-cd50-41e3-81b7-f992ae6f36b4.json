@@ -1,0 +1,41 @@
+{
+  "id": "9cbae2f0-cd50-41e3-81b7-f992ae6f36b4",
+  "title": "Wheelman",
+  "originalTitle": "Wheelman",
+  "overview": "A getaway driver for a bank robbery realizes he has been double crossed and races to find out who betrayed him.",
+  "backdropPath": "/zABLkisR5i0HQgpBcyWwQGVk89c.jpg",
+  "posterPath": "/qitUsN1Ea8Bsg8R0QtBB35H2xgB.jpg",
+  "releaseDate": "2017-10-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8f5491d2-065a-4348-9092-bab83563e6c8",
+      "title": "Wheelman",
+      "subtitle": null,
+      "timestampString": "01:28:30",
+      "timestampInSeconds": 5310,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #137",
+        "youtubeId": "TmsK4Kf-Bj8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/TmsK4Kf-Bj8/hqdefault.jpg",
+        "durationInMinutes": 228,
+        "releaseDate": 1518110484000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

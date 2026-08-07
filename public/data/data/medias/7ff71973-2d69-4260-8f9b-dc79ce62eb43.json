@@ -1,0 +1,53 @@
+{
+  "id": "7ff71973-2d69-4260-8f9b-dc79ce62eb43",
+  "title": "Jurassic World: Bukott birodalom",
+  "originalTitle": "Jurassic World: Fallen Kingdom",
+  "overview": "Three years after Jurassic World was destroyed, Isla Nublar now sits abandoned. When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event.",
+  "backdropPath": "/6WA9stUMbIkEPxn3D5SWlA8FIi7.jpg",
+  "posterPath": "/x2Us3jR6ToMJjbcPbLimYoxf6xr.jpg",
+  "releaseDate": "2018-06-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "89b3dbe5-c631-4d20-8e0f-d4f3c8ee236c",
+      "title": "Jurassic World: Bukott birodalom [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "02:31:44",
+      "timestampInSeconds": 9104,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #145",
+        "youtubeId": "oIN5otdDLXA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/oIN5otdDLXA/hqdefault.jpg",
+        "durationInMinutes": 299,
+        "releaseDate": 1528994767000,
+        "participants": [
+          {
+            "id": "3da49de0-82ec-4704-a57a-3643fbf7ed43",
+            "name": "Szöllőskei Gábor"
+          },
+          {
+            "id": "48717e27-89f9-4064-8249-c9623fdb4cc7",
+            "name": "Gábor (Videodrome)"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

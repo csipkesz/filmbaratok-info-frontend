@@ -1,0 +1,41 @@
+{
+  "id": "219aeae0-f6ec-4f2c-85b5-71f4388cf27d",
+  "title": "Felelsz vagy mersz",
+  "originalTitle": "Truth or Dare",
+  "overview": "A harmless game of \"Truth or Dare\" among friends turns deadly when someone—or something—begins to punish those who tell a lie—or refuse the dare.",
+  "backdropPath": "/eQ5xu2pQ5Kergubto5PbbUzey28.jpg",
+  "posterPath": "/ei2waWQAG8NP244WShIFgGu9IOu.jpg",
+  "releaseDate": "2018-04-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f1b6a132-ba64-4fe9-9e74-10e51b7a7670",
+      "title": "Felelsz vagy mersz",
+      "subtitle": null,
+      "timestampString": "01:19:20",
+      "timestampInSeconds": 4760,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #146",
+        "youtubeId": "sfip_5w7OMc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/sfip_5w7OMc/hqdefault.jpg",
+        "durationInMinutes": 163,
+        "releaseDate": 1530162133000,
+        "participants": [
+          {
+            "id": "3da49de0-82ec-4704-a57a-3643fbf7ed43",
+            "name": "Szöllőskei Gábor"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

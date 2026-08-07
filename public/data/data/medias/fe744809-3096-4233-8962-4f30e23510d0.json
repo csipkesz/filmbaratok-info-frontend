@@ -1,0 +1,41 @@
+{
+  "id": "fe744809-3096-4233-8962-4f30e23510d0",
+  "title": "Sulihuligánok",
+  "originalTitle": "Old School",
+  "overview": "Three friends attempt to recapture their glory days by opening up a fraternity near their alma mater.",
+  "backdropPath": "/2tZVYiosztNM1DAYUF59VPsNp9L.jpg",
+  "posterPath": "/nYtuwNHpEoIbTgS3aFPSEwZNN6l.jpg",
+  "releaseDate": "2003-02-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0884cc45-3d8a-404b-b70f-615d9ebe6b54",
+      "title": "Sulihuligánok",
+      "subtitle": null,
+      "timestampString": "02:59:18",
+      "timestampInSeconds": 10758,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #160",
+        "youtubeId": "_a3zVw9qNvs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_a3zVw9qNvs/hqdefault.jpg",
+        "durationInMinutes": 196,
+        "releaseDate": 1547731556000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

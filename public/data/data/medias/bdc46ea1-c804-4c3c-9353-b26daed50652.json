@@ -1,0 +1,45 @@
+{
+  "id": "bdc46ea1-c804-4c3c-9353-b26daed50652",
+  "title": "Spencer",
+  "originalTitle": "All American",
+  "overview": "Spencer Paysinger, amerikai focista élete alapján egy menő, középiskolás amerikai foci játékosról, aki egy Los Angeles-i gettóból egy Beverly Hills-i középiskolába igazol utóbbi focicsapatának edzője, akinél a srác lakni is fog – szerencsére az edző lányában barátra lel, az iskolában pedig szerelemre, illetve féltékenységre is. A sorozat két, nagyon különböző világból származó család sikereit és kudarcait, valamint megpróbáltatásait mutatja be.",
+  "backdropPath": "/w9c2tuwPGF1f219fFqhUMpqpOfw.jpg",
+  "posterPath": "/24VehMP915egIyiTuGX6mb1TgLu.jpg",
+  "releaseDate": "2018-10-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "627e95ba-e519-49d2-bef4-2031e1db14cf",
+      "title": "Spencer",
+      "subtitle": null,
+      "timestampString": "02:01:54",
+      "timestampInSeconds": 7314,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #222",
+        "youtubeId": "KUigEmDa7Nc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/KUigEmDa7Nc/hqdefault.jpg",
+        "durationInMinutes": 265,
+        "releaseDate": 1637694008000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

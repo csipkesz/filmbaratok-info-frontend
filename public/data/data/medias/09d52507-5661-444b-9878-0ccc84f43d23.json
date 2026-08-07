@@ -1,0 +1,45 @@
+{
+  "id": "09d52507-5661-444b-9878-0ccc84f43d23",
+  "title": "Surviving R. Kelly",
+  "originalTitle": "Surviving R. Kelly",
+  "overview": "",
+  "backdropPath": "/gjjmMzp5JyiUkJ4Vz5b1xve1xFR.jpg",
+  "posterPath": "/nH0q0ePjZKfqXRe70oueVJ5rDDS.jpg",
+  "releaseDate": "2019-01-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "535d3891-e85b-439c-afb1-b7e6001a5fe9",
+      "title": "Surviving R. Kelly",
+      "subtitle": null,
+      "timestampString": "02:45:07",
+      "timestampInSeconds": 9907,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #162",
+        "youtubeId": "Pm_3kToMJek",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Pm_3kToMJek/hqdefault.jpg",
+        "durationInMinutes": 231,
+        "releaseDate": 1550070901000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

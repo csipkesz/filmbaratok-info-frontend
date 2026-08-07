@@ -1,0 +1,45 @@
+{
+  "id": "ff1ddbbf-ce9a-420a-8c64-fc93120af2b9",
+  "title": "Tiszta szívvel",
+  "originalTitle": "Amor Real",
+  "overview": "Joaquín Fuentes-Guerra halála előtt elismeri törvénytelen fiát, a szegények orvosaként ismert Manuelt. Az arisztokrata származású Matilde szerelmes Adolfóba, aki szegény katonatiszt, és a lány reménykedik benne, hogy apja megengedi, hogy összeházasodjanak.",
+  "backdropPath": "/hl1wdvtyD3Z44pbkRJlcjbGFbYa.jpg",
+  "posterPath": "/mOJvN5aEZ13a2E029O2StAYuOHZ.jpg",
+  "releaseDate": "2003-06-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c4ef1b47-3b0b-4469-98e5-1f1fe8f34314",
+      "title": "Tiszta szívvel",
+      "subtitle": null,
+      "timestampString": "01:41:45",
+      "timestampInSeconds": 6105,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #98",
+        "youtubeId": "5mDA3_R1VRw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/5mDA3_R1VRw/hqdefault.jpg",
+        "durationInMinutes": 152,
+        "releaseDate": 1463075301000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

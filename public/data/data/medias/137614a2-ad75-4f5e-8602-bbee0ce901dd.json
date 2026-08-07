@@ -1,0 +1,45 @@
+{
+  "id": "137614a2-ad75-4f5e-8602-bbee0ce901dd",
+  "title": "Zsákolj, ha tudsz",
+  "originalTitle": "White Men Can't Jump",
+  "overview": "Two street basketball hustlers try to con each other, then team up for a bigger score.",
+  "backdropPath": "/rqtJyKamFSYm1Z0pLdjgmHbwoi7.jpg",
+  "posterPath": "/jnI05Z2Cm9ACEJo8FGen7tdHKLl.jpg",
+  "releaseDate": "1992-03-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "de2405c1-2271-4419-8596-405a779edcaf",
+      "title": "Zsákolj, ha tudsz",
+      "subtitle": null,
+      "timestampString": "03:22:50",
+      "timestampInSeconds": 12170,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #272",
+        "youtubeId": "KpeK1-FjITs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/KpeK1-FjITs/hqdefault.jpg",
+        "durationInMinutes": 253,
+        "releaseDate": 1708456799000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

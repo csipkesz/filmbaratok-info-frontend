@@ -1,0 +1,41 @@
+{
+  "id": "be57a442-0dea-4910-a962-f9f0fbb4071c",
+  "title": "Halálos Iramban 8",
+  "originalTitle": "The Fate of the Furious",
+  "overview": "When a mysterious woman seduces Dom into the world of crime and a betrayal of those closest to him, the crew face trials that will test them as never before.",
+  "backdropPath": "/3IJ8kG8i84PncXkSovu0PaZQfjM.jpg",
+  "posterPath": "/dImWM7GJqryWJO9LHa3XQ8DD5NH.jpg",
+  "releaseDate": "2017-04-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6ce3e07b-5011-4d9c-bd2d-07436cb27b00",
+      "title": "Halálos Iramban 8",
+      "subtitle": null,
+      "timestampString": "01:25:45",
+      "timestampInSeconds": 5145,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #120",
+        "youtubeId": "-3teFOfAauw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-3teFOfAauw/hqdefault.jpg",
+        "durationInMinutes": 251,
+        "releaseDate": 1493646027000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

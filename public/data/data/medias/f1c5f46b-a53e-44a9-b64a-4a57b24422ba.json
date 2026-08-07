@@ -1,0 +1,45 @@
+{
+  "id": "f1c5f46b-a53e-44a9-b64a-4a57b24422ba",
+  "title": "28 héttel később",
+  "originalTitle": "28 Weeks Later",
+  "overview": "Twenty-eight weeks after the spread of a deadly rage virus, the inhabitants of the British Isles have lost their battle against the onslaught, as the virus has killed everyone there. Six months later, a group of Americans dare to set foot on the Isles, convinced the danger has passed. But it soon becomes all too clear that the scourge continues to live, waiting to pounce on its next victims.",
+  "backdropPath": "/83ownpZPvBHJD5UVNShzQfa3LaW.jpg",
+  "posterPath": "/oix0aNv1lvW3nUGspUyvSIBlpbs.jpg",
+  "releaseDate": "2007-04-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d6b28b20-d606-4024-9ae8-e135f0dc33d4",
+      "title": "28 héttel később [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "01:33:27",
+      "timestampInSeconds": 5607,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #306",
+        "youtubeId": "fhwjWo2MiYI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fhwjWo2MiYI/hqdefault.jpg",
+        "durationInMinutes": 272,
+        "releaseDate": 1752602894000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

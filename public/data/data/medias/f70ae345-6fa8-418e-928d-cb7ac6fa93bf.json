@@ -1,0 +1,49 @@
+{
+  "id": "f70ae345-6fa8-418e-928d-cb7ac6fa93bf",
+  "title": "Égi tűz / Fire in the sky",
+  "originalTitle": "Fire in the Sky",
+  "overview": "After clearing brush for the government, a group of men return to town claiming their friend was abducted. Despite no apparent motive or evidence of foul play, no-one believes their story and his disappearance is treated as murder.",
+  "backdropPath": "/rG8rGUrK3Ur6N2DuTVvjrtpV44l.jpg",
+  "posterPath": "/rTFrjAp1YV49DSTUGCyKSkaEHC8.jpg",
+  "releaseDate": "1993-03-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "dcc9f7cf-9b40-4b09-b7cb-93b22d190215",
+      "title": "Égi tűz / Fire in the sky",
+      "subtitle": null,
+      "timestampString": "03:47:00",
+      "timestampInSeconds": 13620,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #193",
+        "youtubeId": "WZrbCRuXQqU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/WZrbCRuXQqU/hqdefault.jpg",
+        "durationInMinutes": 250,
+        "releaseDate": 1594492684000,
+        "participants": [
+          {
+            "id": "3da49de0-82ec-4704-a57a-3643fbf7ed43",
+            "name": "Szöllőskei Gábor"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "6dc98687-5376-494f-b527-4219b0d385c2",
+  "title": "Halálsoron",
+  "originalTitle": "The Green Mile",
+  "overview": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+  "backdropPath": "/amZavErrjrdgDwhsIdpWxHNenIx.jpg",
+  "posterPath": "/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+  "releaseDate": "1999-12-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0f20d961-cfd1-4117-b259-e32db74b727a",
+      "title": "Halálsoron",
+      "subtitle": null,
+      "timestampString": "02:56:30",
+      "timestampInSeconds": 10590,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #212",
+        "youtubeId": "mV_Pe_oXmww",
+        "thumbnailUrl": "https://i.ytimg.com/vi/mV_Pe_oXmww/hqdefault.jpg",
+        "durationInMinutes": 226,
+        "releaseDate": 1622736018000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

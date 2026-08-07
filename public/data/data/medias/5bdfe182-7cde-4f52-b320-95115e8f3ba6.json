@@ -1,0 +1,41 @@
+{
+  "id": "5bdfe182-7cde-4f52-b320-95115e8f3ba6",
+  "title": "A nyughatatlan",
+  "originalTitle": "Walk the Line",
+  "overview": "A chronicle of country music legend Johnny Cash's life, from his early days on an Arkansas cotton farm to his rise to fame with Sun Records in Memphis, where he recorded alongside Elvis Presley, Jerry Lee Lewis and Carl Perkins.",
+  "backdropPath": "/pMBKzEotLUzk3NuQiyVjZEDlH70.jpg",
+  "posterPath": "/iIXy2T3fIxfKCBCJqkAnVBFPO8o.jpg",
+  "releaseDate": "2005-09-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b588cb24-75cf-4ecf-bbf2-7390b9014404",
+      "title": "A nyughatatlan",
+      "subtitle": null,
+      "timestampString": "02:27:46",
+      "timestampInSeconds": 8866,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #71",
+        "youtubeId": "K9mj59Uot1I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/K9mj59Uot1I/hqdefault.jpg",
+        "durationInMinutes": 176,
+        "releaseDate": 1428520974000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

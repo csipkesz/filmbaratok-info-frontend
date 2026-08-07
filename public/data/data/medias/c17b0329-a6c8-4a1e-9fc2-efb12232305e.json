@@ -1,0 +1,41 @@
+{
+  "id": "c17b0329-a6c8-4a1e-9fc2-efb12232305e",
+  "title": "Bíborhegy",
+  "originalTitle": "Crimson Peak",
+  "overview": "In the aftermath of a family tragedy, an aspiring author is torn between love for her childhood friend and the temptation of a mysterious outsider. Trying to escape the ghosts of her past, she is swept away to a house that breathes, bleeds… and remembers.",
+  "backdropPath": "/nQQIUwEEqa6sjPvnqcGbjJxbdit.jpg",
+  "posterPath": "/f9TOb5anVwZeSbYjU1qNxPk3KUk.jpg",
+  "releaseDate": "2015-10-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "049fb2da-2ae5-4522-99dd-fe11240aeb14",
+      "title": "Bíborhegy",
+      "subtitle": null,
+      "timestampString": "01:28:00",
+      "timestampInSeconds": 5280,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #84",
+        "youtubeId": "s9vFywEHs8Y",
+        "thumbnailUrl": "https://i.ytimg.com/vi/s9vFywEHs8Y/hqdefault.jpg",
+        "durationInMinutes": 172,
+        "releaseDate": 1445961315000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

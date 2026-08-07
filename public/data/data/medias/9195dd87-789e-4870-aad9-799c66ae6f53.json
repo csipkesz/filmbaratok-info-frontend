@@ -1,0 +1,41 @@
+{
+  "id": "9195dd87-789e-4870-aad9-799c66ae6f53",
+  "title": "Straight story - Az igaz történet",
+  "originalTitle": "The Straight Story",
+  "overview": "Retired farmer and widower Alvin Straight learns one day that his estranged brother Lyle has suffered a severe stroke. Alvin is determined to make things right with Lyle while he still can, but his brother lives in Wisconsin, while Alvin is stuck in Iowa with no car and no driver's license. He then has the idea of making the trip on his old lawnmower, thus beginning a picturesque and at times deeply spiritual odyssey.",
+  "backdropPath": "/1S81PpyGwS8eVx4W75uSKzMw4B0.jpg",
+  "posterPath": "/tT9cMiVDdtlcdZxOoFy3VRmEoKk.jpg",
+  "releaseDate": "1999-10-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a038939a-441e-4424-8222-fc100deda7f3",
+      "title": "Straight story - Az igaz történet",
+      "subtitle": null,
+      "timestampString": "02:47:00",
+      "timestampInSeconds": 10020,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #295",
+        "youtubeId": "GjY5Xs-Vbyc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GjY5Xs-Vbyc/hqdefault.jpg",
+        "durationInMinutes": 231,
+        "releaseDate": 1738346406000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

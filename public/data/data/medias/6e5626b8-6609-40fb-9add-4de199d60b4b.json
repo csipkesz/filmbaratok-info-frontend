@@ -1,0 +1,41 @@
+{
+  "id": "6e5626b8-6609-40fb-9add-4de199d60b4b",
+  "title": "Jackie",
+  "originalTitle": "Jackie",
+  "overview": "An account of the days of First Lady, Jacqueline Kennedy, in the immediate aftermath of John F. Kennedy's assassination in 1963.",
+  "backdropPath": "/lF41LYBSLVpZ61rZci471pqi6UW.jpg",
+  "posterPath": "/nF9N33PfhizMEzbfxHoxXBo2vx9.jpg",
+  "releaseDate": "2016-12-02T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c0b3e131-58f4-4605-9f9b-2051e5f46398",
+      "title": "Jackie",
+      "subtitle": null,
+      "timestampString": "00:22:57",
+      "timestampInSeconds": 1377,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #116",
+        "youtubeId": "z6ZDT1e89XY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z6ZDT1e89XY/hqdefault.jpg",
+        "durationInMinutes": 146,
+        "releaseDate": 1487003611000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

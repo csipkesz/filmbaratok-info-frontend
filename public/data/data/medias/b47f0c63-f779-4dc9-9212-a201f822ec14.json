@@ -1,0 +1,41 @@
+{
+  "id": "b47f0c63-f779-4dc9-9212-a201f822ec14",
+  "title": "A bérgyilkos, aki nem is volt",
+  "originalTitle": "Hit Man",
+  "overview": "A mild-mannered professor moonlighting as a fake hit man in police stings ignites a chain reaction of trouble when he falls for a potential client.",
+  "backdropPath": "/nv6F6tz7r61DUhE7zgHwLJFcTYp.jpg",
+  "posterPath": "/oil3EZwKFp3CWxZnfGfGglesvm9.jpg",
+  "releaseDate": "2024-05-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a136e1f8-d6ff-4f61-a64e-1f7aa01fbb75",
+      "title": "A bérgyilkos, aki nem is volt",
+      "subtitle": null,
+      "timestampString": "01:46:10",
+      "timestampInSeconds": 6370,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #281",
+        "youtubeId": "ov4eiYi-ekw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ov4eiYi-ekw/hqdefault.jpg",
+        "durationInMinutes": 248,
+        "releaseDate": 1719661725000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

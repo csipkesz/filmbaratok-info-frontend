@@ -1,0 +1,41 @@
+{
+  "id": "88abd6f4-9813-469d-880f-fe4161d522b6",
+  "title": "Palackposta",
+  "originalTitle": "Flaskepost fra P",
+  "overview": "Denmark, 2016. A blurred note is found in a bottle that has traveled across the ocean for a long time. After deciphering the cryptic note, Department Q follow a sinister trail that leads them to investigate a case that occurred in 2008. At the same time, new tragic events take place that test their faith and deepest beliefs.",
+  "backdropPath": "/vDSDu2okecJy1gcmPf26bJBMhhV.jpg",
+  "posterPath": "/72T8HXXAHEkhM46t63PAtDUndof.jpg",
+  "releaseDate": "2016-03-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "eabcffe2-f890-4b88-8662-991603eab662",
+      "title": "Palackposta",
+      "subtitle": null,
+      "timestampString": "01:20:56",
+      "timestampInSeconds": 4856,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #106",
+        "youtubeId": "HldVi4TfJ9Y",
+        "thumbnailUrl": "https://i.ytimg.com/vi/HldVi4TfJ9Y/hqdefault.jpg",
+        "durationInMinutes": 146,
+        "releaseDate": 1473495633000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

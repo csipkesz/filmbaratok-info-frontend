@@ -1,0 +1,45 @@
+{
+  "id": "221b4565-e8fc-476d-bbad-4ab7448c12b5",
+  "title": "Megszállottság",
+  "originalTitle": "Obsession",
+  "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+  "backdropPath": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+  "posterPath": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+  "releaseDate": "2026-05-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1afec5ca-3889-4922-981e-c594430347c4",
+      "title": "Megszállottság",
+      "subtitle": null,
+      "timestampString": "01:09:00",
+      "timestampInSeconds": 4140,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #328",
+        "youtubeId": "f89B62DScOs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/f89B62DScOs/hqdefault.jpg",
+        "durationInMinutes": 253,
+        "releaseDate": 1781722805000,
+        "participants": [
+          {
+            "id": "18bb710d-2755-4eaa-875b-48c695315171",
+            "name": "Márk"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

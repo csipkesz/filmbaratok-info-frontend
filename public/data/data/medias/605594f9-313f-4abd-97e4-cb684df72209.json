@@ -1,0 +1,41 @@
+{
+  "id": "605594f9-313f-4abd-97e4-cb684df72209",
+  "title": "A könyvelő 2",
+  "originalTitle": "The Accountant²",
+  "overview": "When an old acquaintance is murdered, Wolff is compelled to solve the case. Realizing more extreme measures are necessary, Wolff recruits his estranged and highly lethal brother, Brax, to help. In partnership with Marybeth Medina, they uncover a deadly conspiracy, becoming targets of a ruthless network of killers who will stop at nothing to keep their secrets buried.",
+  "backdropPath": "/yBDvgpyynDsbMyK21FoQu1c2wYR.jpg",
+  "posterPath": "/lUvfTcOZiK0sdcX0WNLPbMyKjGm.jpg",
+  "releaseDate": "2025-04-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f47658d6-94de-43a0-ae8f-188633ed1f5d",
+      "title": "A könyvelő 2",
+      "subtitle": null,
+      "timestampString": "01:36:30",
+      "timestampInSeconds": 5790,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #302",
+        "youtubeId": "3K4xdZiHI_w",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3K4xdZiHI_w/hqdefault.jpg",
+        "durationInMinutes": 235,
+        "releaseDate": 1747414746000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

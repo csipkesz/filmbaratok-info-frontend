@@ -1,0 +1,45 @@
+{
+  "id": "3dea5cb1-7424-476a-86a3-a0e6e1804cd5",
+  "title": "Kojot",
+  "originalTitle": "Kojot",
+  "overview": "Muggy heat, small-town bleakness, unspoken social problems, hierarchy fights. This is Tuzko town, somewhere in Hungary, nowadays. Here comes Misi who inherits his grandfather's house and his property. Misi is a disillusioned, frustrated, constantly refugee young man. He can't find his role in his life, his job and relationship. He starts to build and renovate the house with some men from the town, but it violates the local oligarch's interests. Hard struggle begins for the property, for the love and for the life.",
+  "backdropPath": "/fjZGYRe0Up1lZsEmQ4G22UywUJw.jpg",
+  "posterPath": "/wbUSLK71Jv4RqaSrdBKMaUVcPnc.jpg",
+  "releaseDate": "2017-02-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0b7288d3-427e-4d95-8814-6a1dd92ff4e4",
+      "title": "Kojot",
+      "subtitle": null,
+      "timestampString": "02:55:47",
+      "timestampInSeconds": 10547,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #147",
+        "youtubeId": "VFKKYddusFg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VFKKYddusFg/hqdefault.jpg",
+        "durationInMinutes": 235,
+        "releaseDate": 1531561740000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

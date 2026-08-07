@@ -1,0 +1,45 @@
+{
+  "id": "a6b2f638-987b-4b76-92e5-c77c4033adf6",
+  "title": "A paradicsom",
+  "originalTitle": "A paradicsom",
+  "overview": "Early Hungarian silent feature from Michael Curtiz",
+  "backdropPath": null,
+  "posterPath": null,
+  "releaseDate": "1915-03-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "504ef567-b213-4d87-b20d-ea06b9cfae5c",
+      "title": "A paradicsom",
+      "subtitle": null,
+      "timestampString": "01:23:50",
+      "timestampInSeconds": 5030,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #61",
+        "youtubeId": "lu3n5Wpq2k0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/lu3n5Wpq2k0/hqdefault.jpg",
+        "durationInMinutes": 185,
+        "releaseDate": 1415901482000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

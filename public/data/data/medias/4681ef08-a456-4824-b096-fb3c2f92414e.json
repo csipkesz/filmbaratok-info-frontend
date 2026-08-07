@@ -1,0 +1,45 @@
+{
+  "id": "4681ef08-a456-4824-b096-fb3c2f92414e",
+  "title": "Tremors",
+  "originalTitle": "Tremors",
+  "overview": "Perfection Valley egy meglehetősen különös kisváros Nevada-ban. Az emberek zavartalanul élik nyugodt kis életüket, többnyire.\n\nUgyanis éppen ez a kisváros szolgál otthonául egy hatalmas El Branco nevű földalatti lénynek. Ez a borzalmas méretű, gilisztaszerű teremtmény a város teljes alapterületét elfoglalja. A szörny nem is akármilyen képességekkel megáldott lény. Különleges tulajdonságai közül az egyik legérdekesebb, hogy a legapróbb rezgéseket is megérzi a föld felszínéről. Így nem csoda, hogy a menekülés előle szinte lehetetlen, ráadásul még veszélyeztetett fajnak is számít.\n\nAz embereknek tehát, más lehetőségük nem lévén, békét kell kötniük El Branco-val, és túl kell élniük a nem éppen kellemes és gyakran váratlan helyzeteket! ",
+  "backdropPath": "/3zc9y0y8iSdB81OFcltusVqEasN.jpg",
+  "posterPath": "/uJXjZ3OgU8v0HKUPbHk1DZUW3m9.jpg",
+  "releaseDate": "2003-03-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "eadefab6-7294-4209-9989-21b71a47d78b",
+      "title": "Tremors",
+      "subtitle": null,
+      "timestampString": "03:22:15",
+      "timestampInSeconds": 12135,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #276",
+        "youtubeId": "ozdxgj2AwCk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ozdxgj2AwCk/hqdefault.jpg",
+        "durationInMinutes": 248,
+        "releaseDate": 1713292727000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

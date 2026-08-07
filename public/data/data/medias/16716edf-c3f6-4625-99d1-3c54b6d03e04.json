@@ -1,0 +1,45 @@
+{
+  "id": "16716edf-c3f6-4625-99d1-3c54b6d03e04",
+  "title": "Amerikai graffiti",
+  "originalTitle": "More American Graffiti",
+  "overview": "College graduates deal with Vietnam and other issues of the late '60s.",
+  "backdropPath": "/goSQIulkk8E4VEV6MjKHJCLSlIg.jpg",
+  "posterPath": "/dnHmQgxeHqgc1A78hE3AdzhlJsW.jpg",
+  "releaseDate": "1979-08-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a444f592-af21-4d21-8270-25400f8ba0be",
+      "title": "Amerikai graffiti",
+      "subtitle": null,
+      "timestampString": "02:43:48",
+      "timestampInSeconds": 9828,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #172",
+        "youtubeId": "ahOskajDN8o",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ahOskajDN8o/hqdefault.jpg",
+        "durationInMinutes": 250,
+        "releaseDate": 1564145413000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

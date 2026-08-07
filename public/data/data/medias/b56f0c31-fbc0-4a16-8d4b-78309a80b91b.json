@@ -1,0 +1,67 @@
+{
+  "id": "b56f0c31-fbc0-4a16-8d4b-78309a80b91b",
+  "title": "Jackass 3",
+  "originalTitle": "Jackass 3D",
+  "overview": "Johnny Knoxville, Bam Margera, Steve-O, Wee Man and the rest of their fearless and foolhardy friends take part in another round of outrageous pranks and stunts. In addition to standing in the path of a charging bull, launching themselves into the air and crashing through various objects, the guys perform in segments such as \"Sweatsuit Cocktail,\" \"Beehive Tetherball\" and \"Lamborghini Tooth Pull.\"",
+  "backdropPath": "/2RmJI0jfXMFF0br3pXQsHiy3lgh.jpg",
+  "posterPath": "/uPirN07su7LFixyZyLrNMMQ9u1E.jpg",
+  "releaseDate": "2010-10-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4c4fdb4d-b93c-4cb0-85ed-802c900bdc2f",
+      "title": "Jackass 3",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "AUDIO_COMMENTARY",
+        "title": "Filmbarátok Audiokommentár: Jackass 3",
+        "youtubeId": "X5HrkW_HwIo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/X5HrkW_HwIo/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1608135225000,
+        "participants": [
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b52f32eb-5c04-4365-a9bb-3f9a27a2d864",
+      "title": "Jackass 3",
+      "subtitle": null,
+      "timestampString": "01:27:15",
+      "timestampInSeconds": 5235,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #202",
+        "youtubeId": "E2b82odyb3w",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E2b82odyb3w/hqdefault.jpg",
+        "durationInMinutes": 223,
+        "releaseDate": 1608135119000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

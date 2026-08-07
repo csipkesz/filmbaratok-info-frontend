@@ -1,0 +1,45 @@
+{
+  "id": "938327bb-29c7-4bc7-b937-7ae565cfbafe",
+  "title": "Az igazság bajnokai",
+  "originalTitle": "Retfærdighedens ryttere",
+  "overview": "Markus returns home to care for his daughter when his wife dies in a tragic train accident. However, when a survivor of the wreck surfaces and claims foul play, Markus suspects his wife was murdered and embarks on a mission to find those responsible.",
+  "backdropPath": "/7XZsVVnqTsMJXg3J4CHzeV2Lro9.jpg",
+  "posterPath": "/sshNnwmQLk720iBQ0dZg3GVGKfK.jpg",
+  "releaseDate": "2020-11-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e66b30d8-6378-4a89-9ef7-13ba2369294a",
+      "title": "Az igazság bajnokai",
+      "subtitle": null,
+      "timestampString": "01:15:16",
+      "timestampInSeconds": 4516,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #222",
+        "youtubeId": "KUigEmDa7Nc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/KUigEmDa7Nc/hqdefault.jpg",
+        "durationInMinutes": 265,
+        "releaseDate": 1637694008000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

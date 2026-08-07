@@ -1,0 +1,45 @@
+{
+  "id": "e7b9837f-f7b9-41ea-8b3a-61b6240c9c98",
+  "title": "F1",
+  "originalTitle": "F1",
+  "overview": "Racing legend Sonny Hayes is coaxed out of retirement to lead a struggling Formula 1 team—and mentor a young hotshot driver—while chasing one more chance at glory.",
+  "backdropPath": "/lkDYN0whyE82mcM20rwtwjbniKF.jpg",
+  "posterPath": "/9PXZIUsSDh4alB80jheWX4fhZmy.jpg",
+  "releaseDate": "2025-06-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4209e41e-a6f5-4b6b-b5a4-e1bdb68ffb15",
+      "title": "F1",
+      "subtitle": null,
+      "timestampString": "03:20:10",
+      "timestampInSeconds": 12010,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #306",
+        "youtubeId": "fhwjWo2MiYI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fhwjWo2MiYI/hqdefault.jpg",
+        "durationInMinutes": 272,
+        "releaseDate": 1752602894000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

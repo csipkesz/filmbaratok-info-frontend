@@ -1,0 +1,41 @@
+{
+  "id": "c0dd22e8-61a5-4c2a-933a-2654462d62bd",
+  "title": "Egy különc srác feljegyzései",
+  "originalTitle": "The Perks of Being a Wallflower",
+  "overview": "Pittsburgh, Pennsylvania, 1991. High school freshman Charlie is a wallflower, always watching life from the sidelines, until two senior students, Sam and her stepbrother Patrick, become his mentors, helping him discover the joys of friendship, music and love.",
+  "backdropPath": "/aM6E4DBP6588q3tEr9hz41ls80q.jpg",
+  "posterPath": "/aKCvdFFF5n80P2VdS7d8YBwbCjh.jpg",
+  "releaseDate": "2012-09-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "92983491-6eeb-4b31-8b73-08c5901b1652",
+      "title": "Egy különc srác feljegyzései",
+      "subtitle": null,
+      "timestampString": "02:28:59",
+      "timestampInSeconds": 8939,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #205",
+        "youtubeId": "GcqE0JN9mNg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GcqE0JN9mNg/hqdefault.jpg",
+        "durationInMinutes": 170,
+        "releaseDate": 1612351186000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

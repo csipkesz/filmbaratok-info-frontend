@@ -1,0 +1,41 @@
+{
+  "id": "4d027ad6-09e8-4300-a985-ebc5bb9e6224",
+  "title": "Társ",
+  "originalTitle": "Companion",
+  "overview": "During a weekend getaway at a secluded lakeside estate, a group of friends finds themselves entangled in a web of secrets, deception, and advanced technology. As tensions rise and loyalties are tested, they uncover unsettling truths about themselves and the world around them.",
+  "backdropPath": "/qA6MHDGDY0LyutjLUgFJRbPXLpW.jpg",
+  "posterPath": "/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg",
+  "releaseDate": "2025-01-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c3e752b7-c623-433c-8f45-9961ece1a38b",
+      "title": "Társ",
+      "subtitle": null,
+      "timestampString": "01:53:40",
+      "timestampInSeconds": 6820,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #296",
+        "youtubeId": "2X4YekH4jj4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/2X4YekH4jj4/hqdefault.jpg",
+        "durationInMinutes": 189,
+        "releaseDate": 1739562524000,
+        "participants": [
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2bfd7cda-77dc-4388-9697-90959c8d6e57",
+  "title": "Meghallgatás",
+  "originalTitle": "オーディション",
+  "overview": "Seven years after the death of his wife, widower Shigeharu seeks advice on how to find a new wife from a colleague. Taking advantage of their position as a film company, they stage an audition. Interviewing a series of women, Shigeharu is enchanted by the quiet Asami. But soon things take a twisted turn as Asami isn’t what she seems to be.",
+  "backdropPath": "/xmtmZc5aylqDMRKYlU8pmsgG0HF.jpg",
+  "posterPath": "/zwGaUMm0wAqi0wkO7LJDlwoA5LP.jpg",
+  "releaseDate": "2000-03-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0c08d2f4-78a7-4f2a-8461-5c56bfcfdeb7",
+      "title": "Meghallgatás",
+      "subtitle": null,
+      "timestampString": "02:14:31",
+      "timestampInSeconds": 8071,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #285 (1999-es filmek)",
+        "youtubeId": "9AOI1V1MgRI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9AOI1V1MgRI/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1725038107000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

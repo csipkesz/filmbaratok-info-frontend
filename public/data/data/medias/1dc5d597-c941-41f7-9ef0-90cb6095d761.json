@@ -1,0 +1,45 @@
+{
+  "id": "1dc5d597-c941-41f7-9ef0-90cb6095d761",
+  "title": "Homokkavicsok",
+  "originalTitle": "The Sand Pebbles",
+  "overview": "Engineer Jake Holman arrives aboard the gunboat USS San Pablo, assigned to patrol a tributary of the Yangtze in the middle of exploited and revolution-torn 1926 China. His iconoclasm and cynical nature soon clash with the 'rice-bowl' system which runs the ship and the uneasy symbiosis between Chinese and foreigner on the river. Hostility towards the gunboat's presence reaches a climax when the boat must crash through a river-boom and rescue missionaries upriver at China Light Mission.",
+  "backdropPath": "/9r9AaYJrV2oIhwPKRUsZdF10Bwy.jpg",
+  "posterPath": "/muZyCXWoayEtwVkxc0ql48X1h6L.jpg",
+  "releaseDate": "1966-12-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d23af38a-392e-4e3c-96f2-e51dd411ebc8",
+      "title": "Homokkavicsok",
+      "subtitle": null,
+      "timestampString": "02:36:40",
+      "timestampInSeconds": 9400,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #65",
+        "youtubeId": "Nho9twpqK9c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Nho9twpqK9c/hqdefault.jpg",
+        "durationInMinutes": 210,
+        "releaseDate": 1420868167000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

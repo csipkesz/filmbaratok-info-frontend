@@ -1,0 +1,45 @@
+{
+  "id": "915d57ab-5de7-424b-bc52-bcf401ba7991",
+  "title": "A sziget szellemei",
+  "originalTitle": "The Banshees of Inisherin",
+  "overview": "Two lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them.",
+  "backdropPath": "/1vXD5HXqkhvsXFHE7KmCPZGPR1e.jpg",
+  "posterPath": "/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg",
+  "releaseDate": "2022-10-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "466f61c8-85e7-4619-96c8-ee388b9b2053",
+      "title": "A sziget szellemei",
+      "subtitle": null,
+      "timestampString": "02:05:05",
+      "timestampInSeconds": 7505,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #249",
+        "youtubeId": "1greFyKaw1M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/1greFyKaw1M/hqdefault.jpg",
+        "durationInMinutes": 296,
+        "releaseDate": 1676703823000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "b0bea319-4f72-4954-bd84-1dae578e9e71",
+  "title": "Hardcore Henry",
+  "originalTitle": "Hardcore Henry",
+  "overview": "Henry, a newly resurrected cyborg who must save his wife/creator from the clutches of a psychotic tyrant with telekinetic powers, AKAN, and his army of mercenaries. Fighting alongside Henry is Jimmy, who is Henry's only hope to make it through the day. Hardcore Henry takes place over the course of one day, in Moscow, Russia.",
+  "backdropPath": "/agxzi8QIXWnZgLxwHck8wdjfYk7.jpg",
+  "posterPath": "/ik1uZyiMSxF9HqrgRKUNfMCfr3z.jpg",
+  "releaseDate": "2015-09-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8b6f7235-3b5e-408d-8bdd-73982524c3bb",
+      "title": "Hardcore Henry",
+      "subtitle": null,
+      "timestampString": "01:22:18",
+      "timestampInSeconds": 4938,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #97",
+        "youtubeId": "544nF31uOsc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/544nF31uOsc/hqdefault.jpg",
+        "durationInMinutes": 219,
+        "releaseDate": 1461517994000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

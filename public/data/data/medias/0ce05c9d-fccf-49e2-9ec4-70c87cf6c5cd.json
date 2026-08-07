@@ -1,0 +1,45 @@
+{
+  "id": "0ce05c9d-fccf-49e2-9ec4-70c87cf6c5cd",
+  "title": "Számkivetett",
+  "originalTitle": "Cast Away",
+  "overview": "Chuck Noland, a top international manager for FedEx, and Kelly, a Ph.D. student, are in love and heading towards marriage. Then Chuck's plane to Malaysia crashes at sea during a terrible storm. He's the only survivor, and finds himself marooned on a desolate island. With no way to escape, Chuck must find ways to survive in his new home.",
+  "backdropPath": "/oCFVYPXI4IfhtF3GapU2jkDicDI.jpg",
+  "posterPath": "/7lLJgKnAicAcR5UEuo8xhSMj18w.jpg",
+  "releaseDate": "2000-12-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c609504c-0b7c-4728-ac3c-848a212b0d2f",
+      "title": "Számkivetett [SPOILERS]",
+      "subtitle": null,
+      "timestampString": "03:50:18",
+      "timestampInSeconds": 13818,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #227",
+        "youtubeId": "aLZRPLtke70",
+        "thumbnailUrl": "https://i.ytimg.com/vi/aLZRPLtke70/hqdefault.jpg",
+        "durationInMinutes": 275,
+        "releaseDate": 1645191276000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

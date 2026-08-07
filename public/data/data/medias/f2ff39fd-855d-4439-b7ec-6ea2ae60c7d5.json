@@ -1,0 +1,45 @@
+{
+  "id": "f2ff39fd-855d-4439-b7ec-6ea2ae60c7d5",
+  "title": "Top Gun: Maverick",
+  "originalTitle": "Top Gun: Maverick",
+  "overview": "After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him, Pete “Maverick” Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
+  "backdropPath": "/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg",
+  "posterPath": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+  "releaseDate": "2022-05-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e0439d5f-ee22-4568-b344-db30c4b01c9e",
+      "title": "Top Gun: Maverick",
+      "subtitle": null,
+      "timestampString": "00:52:20",
+      "timestampInSeconds": 3140,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #233",
+        "youtubeId": "YF7Jep8cRvw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/YF7Jep8cRvw/hqdefault.jpg",
+        "durationInMinutes": 256,
+        "releaseDate": 1654016337000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

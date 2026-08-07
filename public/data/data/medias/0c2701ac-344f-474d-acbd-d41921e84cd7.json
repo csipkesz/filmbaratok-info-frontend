@@ -1,0 +1,45 @@
+{
+  "id": "0c2701ac-344f-474d-acbd-d41921e84cd7",
+  "title": "Holt költők társasága",
+  "originalTitle": "Dead Poets Society",
+  "overview": "At an elite, old-fashioned boarding school in New England, a passionate English teacher inspires his students to rebel against convention and seize the potential of every day, courting the disdain of the stern headmaster.",
+  "backdropPath": "/lFIXZpwwlF9hg8NM3RazaIJDuaj.jpg",
+  "posterPath": "/tNvKkSnnn4Z6RCBThyK1gfCSSvv.jpg",
+  "releaseDate": "1989-06-02T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "febff80d-1948-4ea2-9bb3-ba7fc4c9efae",
+      "title": "Holt költők társasága",
+      "subtitle": null,
+      "timestampString": "04:35:15",
+      "timestampInSeconds": 16515,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #197",
+        "youtubeId": "j1hyfnPoTyg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/j1hyfnPoTyg/hqdefault.jpg",
+        "durationInMinutes": 296,
+        "releaseDate": 1600408834000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

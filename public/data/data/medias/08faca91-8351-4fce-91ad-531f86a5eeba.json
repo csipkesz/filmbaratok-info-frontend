@@ -1,0 +1,45 @@
+{
+  "id": "08faca91-8351-4fce-91ad-531f86a5eeba",
+  "title": "Harry Potter 20. évforduló - Visszatérés Roxfortba",
+  "originalTitle": "Harry Potter 20th Anniversary: Return to Hogwarts",
+  "overview": "An enchanting making-of story told through all-new in-depth interviews and cast conversations, inviting fans on a magical first-person journey through one of the most beloved film franchises of all time.",
+  "backdropPath": "/8rft8A9nH43IReybFtYt21ezfMK.jpg",
+  "posterPath": "/jntLBq0MLR3hrwKaTQswxACRPMs.jpg",
+  "releaseDate": "2022-01-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c624f5bf-562d-4447-9a7e-33541e671a92",
+      "title": "Harry Potter 20. évforduló - Visszatérés Roxfortba",
+      "subtitle": null,
+      "timestampString": "02:29:20",
+      "timestampInSeconds": 8960,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #226",
+        "youtubeId": "g-SEAVbxOlA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/g-SEAVbxOlA/hqdefault.jpg",
+        "durationInMinutes": 224,
+        "releaseDate": 1643475639000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

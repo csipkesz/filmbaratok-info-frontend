@@ -1,0 +1,75 @@
+{
+  "id": "b3db68eb-f0f8-4faf-82c7-a76efe01937e",
+  "title": "Ernelláék Farkaséknál",
+  "originalTitle": "Ernelláék Farkaséknál",
+  "overview": "Eszter, her husband Farkas, and their five-year-old son Bruno are paid an unexpected visit in the middle of the night. Eszter’s sister Ernella, her husband Albert and daughter Laura have returned from a year spent in Scotland where, contrary to expectations, they weren’t able to settle down. It soon becomes clear that the two families had never really been in tune with one another.",
+  "backdropPath": null,
+  "posterPath": "/qELIdC7zVxDw7DfPbsUev7qNCSd.jpg",
+  "releaseDate": "2016-10-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7dd03ef5-22b7-4c22-b08a-219f65a22c92",
+      "title": "Ernelláék Farkaséknál",
+      "subtitle": null,
+      "timestampString": "02:09:29",
+      "timestampInSeconds": 7769,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #107",
+        "youtubeId": "nil8BrN67hQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nil8BrN67hQ/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1475265113000,
+        "participants": [
+          {
+            "id": "0d9dd4b7-cf61-495d-9e4c-ee24abb25d28",
+            "name": "Emese"
+          },
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b6914e9e-369e-4902-a981-2c2f19e94053",
+      "title": "Ernelláék Farkaséknál",
+      "subtitle": null,
+      "timestampString": "01:59:25",
+      "timestampInSeconds": 7165,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #108",
+        "youtubeId": "zNzDplhnvlg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/zNzDplhnvlg/hqdefault.jpg",
+        "durationInMinutes": 175,
+        "releaseDate": 1476476267000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

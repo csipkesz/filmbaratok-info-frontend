@@ -1,0 +1,45 @@
+{
+  "id": "c984563a-772c-4372-8767-7db60f7c588e",
+  "title": "Mosolyogj",
+  "originalTitle": "Smile",
+  "overview": "After witnessing a bizarre, traumatic incident involving a patient, Dr. Rose Cotter starts experiencing frightening occurrences that she can't explain.",
+  "backdropPath": "/kMZIMqEXO5MFd5Y1Ha2jZZF4pvF.jpg",
+  "posterPath": "/aPqcQwu4VGEewPhagWNncDbJ9Xp.jpg",
+  "releaseDate": "2022-09-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "dfc84aee-176a-4c96-8abc-1377e3907407",
+      "title": "Mosolyogj",
+      "subtitle": null,
+      "timestampString": "01:39:24",
+      "timestampInSeconds": 5964,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #241",
+        "youtubeId": "wkIRMrjPzTE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wkIRMrjPzTE/hqdefault.jpg",
+        "durationInMinutes": 228,
+        "releaseDate": 1665676839000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

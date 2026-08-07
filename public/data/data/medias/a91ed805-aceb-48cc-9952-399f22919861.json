@@ -1,0 +1,33 @@
+{
+  "id": "a91ed805-aceb-48cc-9952-399f22919861",
+  "title": "FUBAR",
+  "originalTitle": "FUBAR",
+  "overview": "Amikor apa és lánya rájön, hogy titokban mindketten a CIA-nak dolgoznak, kockázatos küldetésüket egyre-másra megzavarják a kínos családi jelenetek.",
+  "backdropPath": "/cgA0ffyHviUaRw0Fj9OgRv2xzUj.jpg",
+  "posterPath": "/6fM34tcGFp3A0csyxJJomknZB4b.jpg",
+  "releaseDate": "2023-05-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3454f49c-1fb0-46c1-9d0c-2662be2ddf96",
+      "title": "FUBAR (1. évad)",
+      "subtitle": "1. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: FUBAR (1. évad)",
+        "youtubeId": "L5LOKmDgaIw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/L5LOKmDgaIw/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1686544353000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          }
+        ]
+      }
+    }
+  ]
+}

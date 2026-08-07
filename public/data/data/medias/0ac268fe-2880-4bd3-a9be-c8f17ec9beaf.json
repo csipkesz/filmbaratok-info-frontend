@@ -1,0 +1,45 @@
+{
+  "id": "0ac268fe-2880-4bd3-a9be-c8f17ec9beaf",
+  "title": "The dawn wall",
+  "originalTitle": "The Dawn Wall",
+  "overview": "The definitive film on the climb that captured headlines and ignited imaginations worldwide. Tommy Caldwell and Kevin Jorgeson ascend the hardest big wall of all time: a 19 day ascent of The Dawn Wall, on the 3,000 foot vertical face of El Capitan, in Yosemite National Park. The film travels deeper than the climb, digging into the history of the climbers and painting an intimate portrait of Caldwell's harrowing life experiences that culminated in a single-minded drive to complete this impossible climb. The Dawn Wall is a heart-warming and inspiring movie that celebrates perseverance, camaraderie, and the universal spirit of dreaming big, and never giving up.",
+  "backdropPath": "/ipXrm6SEjfNkD8FKfj9VLUE9fUU.jpg",
+  "posterPath": "/bZQCNGb1II5eWASBhEgJBGxOPUM.jpg",
+  "releaseDate": "2017-11-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "802d86f5-f2dc-4756-aa24-109ef91f90a6",
+      "title": "The dawn wall",
+      "subtitle": null,
+      "timestampString": "02:49:23",
+      "timestampInSeconds": 10163,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #265",
+        "youtubeId": "W7K_jzS7pPg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/W7K_jzS7pPg/hqdefault.jpg",
+        "durationInMinutes": 254,
+        "releaseDate": 1698781502000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "3ec68491-9bce-4beb-b7d0-96fd9f0c8b97",
+  "title": "A hihetetlen család 2",
+  "originalTitle": "Incredibles 2",
+  "overview": "Elastigirl springs into action to save the day, while Mr. Incredible faces his greatest challenge yet – taking care of the problems of his three children.",
+  "backdropPath": "/mabuNsGJgRuCTuGqjFkWe1xdu19.jpg",
+  "posterPath": "/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg",
+  "releaseDate": "2018-06-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "daff91a5-0ac5-4790-bfbf-ce80d6272ddf",
+      "title": "A hihetetlen család 2",
+      "subtitle": null,
+      "timestampString": "01:20:00",
+      "timestampInSeconds": 4800,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #147",
+        "youtubeId": "VFKKYddusFg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VFKKYddusFg/hqdefault.jpg",
+        "durationInMinutes": 235,
+        "releaseDate": 1531561740000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

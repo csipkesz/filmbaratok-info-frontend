@@ -1,0 +1,41 @@
+{
+  "id": "1b7a16b4-18ce-4f1a-ab3b-dc9a12b358ed",
+  "title": "All this mayhem",
+  "originalTitle": "All This Mayhem",
+  "overview": "A searing account of what happens when raw talent and extreme personalities collide. In this unflinching, never-before-seen account of drugs and the dark side of professional skateboarding, brothers Tas and Ben Pappas' intense bond and charisma take them from the pinnacle of their sport into a spiraling world of self-destruction.",
+  "backdropPath": "/3bHvhii2t12hClH0uCZZj9YLe3G.jpg",
+  "posterPath": "/6jbwLGjsy2vvWAabKBtXBr8Hhnc.jpg",
+  "releaseDate": "2014-07-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7e6140c9-c810-40e5-a53d-d417bf75abf1",
+      "title": "All this mayhem",
+      "subtitle": null,
+      "timestampString": "02:52:23",
+      "timestampInSeconds": 10343,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #75",
+        "youtubeId": "5hqAh129dAE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/5hqAh129dAE/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1434729270000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

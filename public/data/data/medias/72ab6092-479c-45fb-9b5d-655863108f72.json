@@ -1,0 +1,37 @@
+{
+  "id": "72ab6092-479c-45fb-9b5d-655863108f72",
+  "title": "Rooster",
+  "originalTitle": "Rooster",
+  "overview": "Egy egyetemi kampuszon játszódó vígjáték, melynek középpontjában egy író és lánya bonyolult kapcsolata áll.\n\nA sikeres író, Greg Russo megérkezik a Ludlow College-ba lányához, akinek a házassága a széthullás szélén áll férje, Archie hűtlensége miatt. Míg Katie próbálja védeni magát az egyetemi pletykáktól, Greg megismerkedik az angol tanszék vezetőjével.",
+  "backdropPath": "/mhZAT8ktiNi7YwuL50kmumsau69.jpg",
+  "posterPath": "/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg",
+  "releaseDate": "2026-03-08T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1534c2c1-f562-49bf-bf7d-94490178f0a9",
+      "title": "Rooster (1. évad)",
+      "subtitle": "1. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Rooster (1. évad)",
+        "youtubeId": "OOTLbvBlUYM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/OOTLbvBlUYM/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1781286087000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "b58a918c-16ec-4387-a959-c8a6d2afa38d",
+            "name": "Shirin"
+          }
+        ]
+      }
+    }
+  ]
+}

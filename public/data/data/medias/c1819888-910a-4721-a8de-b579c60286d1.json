@@ -1,0 +1,45 @@
+{
+  "id": "c1819888-910a-4721-a8de-b579c60286d1",
+  "title": "Godzilla (2014)",
+  "originalTitle": "Godzilla",
+  "overview": "Ford Brody, a Navy bomb expert, has just reunited with his family in San Francisco when he is forced to go to Japan to help his estranged father, Joe. Soon, both men are swept up in an escalating crisis when an ancient alpha predator arises from the sea to combat malevolent adversaries that threaten the survival of humanity. The creatures leave colossal destruction in their wake, as they make their way toward their final battleground: San Francisco.",
+  "backdropPath": "/cHvwgJPaT59H1HiQsvBrGD5I46g.jpg",
+  "posterPath": "/z0CpCYiaUikJrcftPnb0jYCYmoo.jpg",
+  "releaseDate": "2014-05-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "769233ac-b4d4-4f73-a309-39d4428e082a",
+      "title": "Godzilla (2014)",
+      "subtitle": null,
+      "timestampString": "01:50:55",
+      "timestampInSeconds": 6655,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #51",
+        "youtubeId": "E9iOfzIEJFU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E9iOfzIEJFU/hqdefault.jpg",
+        "durationInMinutes": 176,
+        "releaseDate": 1401305269000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

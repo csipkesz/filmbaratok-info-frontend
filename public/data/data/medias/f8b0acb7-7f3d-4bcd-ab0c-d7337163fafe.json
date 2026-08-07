@@ -1,0 +1,45 @@
+{
+  "id": "f8b0acb7-7f3d-4bcd-ab0c-d7337163fafe",
+  "title": "Csak egy kis pánik",
+  "originalTitle": "Analyze This",
+  "overview": "Countless wiseguy films are spoofed in this film that centers on the neuroses and angst of a powerful Mafia racketeer who suffers from panic attacks. When Paul Vitti needs help dealing with his role in the \"family,\" unlucky shrink Dr. Ben Sobel is given just days to resolve Vitti's emotional crisis and turn him into a happy, well-adjusted gangster.",
+  "backdropPath": "/oas0DvvhhaMncvn805LjepxeoZh.jpg",
+  "posterPath": "/eqa4TEgkx63WRhqyD8eTwmL7bUi.jpg",
+  "releaseDate": "1999-03-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "992e9be1-a5ed-481c-b5fd-c2f8a773cdde",
+      "title": "Csak egy kis pánik",
+      "subtitle": null,
+      "timestampString": "03:32:40",
+      "timestampInSeconds": 12760,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #147",
+        "youtubeId": "VFKKYddusFg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VFKKYddusFg/hqdefault.jpg",
+        "durationInMinutes": 235,
+        "releaseDate": 1531561740000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

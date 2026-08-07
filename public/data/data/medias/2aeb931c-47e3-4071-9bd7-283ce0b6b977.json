@@ -1,0 +1,45 @@
+{
+  "id": "2aeb931c-47e3-4071-9bd7-283ce0b6b977",
+  "title": "Jumanji - A következő szint",
+  "originalTitle": "Jumanji: The Next Level",
+  "overview": "As the gang return to Jumanji to rescue one of their own, they discover that nothing is as they expect. The players will have to brave parts unknown and unexplored in order to escape the world’s most dangerous game.",
+  "backdropPath": "/qgch2rFskIxDMgwrD5lWTaB4nBl.jpg",
+  "posterPath": "/jyw8VKYEiM1UDzPB7NsisUgBeJ8.jpg",
+  "releaseDate": "2019-12-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8ed2498e-66b4-42f0-86ae-ffb3e5c26241",
+      "title": "Jumanji - A következő szint",
+      "subtitle": null,
+      "timestampString": "01:55:23",
+      "timestampInSeconds": 6923,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #183",
+        "youtubeId": "uA5tRdykPyw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uA5tRdykPyw/hqdefault.jpg",
+        "durationInMinutes": 277,
+        "releaseDate": 1579802407000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

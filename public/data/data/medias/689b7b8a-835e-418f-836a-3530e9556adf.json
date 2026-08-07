@@ -1,0 +1,45 @@
+{
+  "id": "689b7b8a-835e-418f-836a-3530e9556adf",
+  "title": "Az unoka",
+  "originalTitle": "Az unoka",
+  "overview": "Rudi, a polite and quiet office hand, shares a special bond with his elderly grandpa. When Grandpa falls victim to a uniquely heartless phone scam that breaks his spirit and his health, Rudi decides he’s not going to let the petty criminals get away with it. But in order to get close to them, he needs to step far out of his comfort zone and turn into a different person. With a band of grey-haired allies on his side, he might just get to the scammers before it’s too late…",
+  "backdropPath": "/wlPSzVY8Ttn9K5MT6rcyjUrecqh.jpg",
+  "posterPath": "/izwRjEfdxI9en3QmzDAjfSZVqlt.jpg",
+  "releaseDate": "2022-01-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3547bdbe-58bc-4410-a107-22c725f05087",
+      "title": "Az unoka",
+      "subtitle": null,
+      "timestampString": "00:45:37",
+      "timestampInSeconds": 2737,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #227",
+        "youtubeId": "aLZRPLtke70",
+        "thumbnailUrl": "https://i.ytimg.com/vi/aLZRPLtke70/hqdefault.jpg",
+        "durationInMinutes": 275,
+        "releaseDate": 1645191276000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

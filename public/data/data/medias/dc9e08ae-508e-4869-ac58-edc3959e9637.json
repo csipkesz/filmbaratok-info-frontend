@@ -1,0 +1,41 @@
+{
+  "id": "dc9e08ae-508e-4869-ac58-edc3959e9637",
+  "title": "28 évvel később - A csonttemplom",
+  "originalTitle": "28 Years Later: The Bone Temple",
+  "overview": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with Jimmy Crystal becomes a nightmare he can't escape.",
+  "backdropPath": "/hHDNOlATHhre4eZ7aYz5cdyJLik.jpg",
+  "posterPath": "/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
+  "releaseDate": "2026-01-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "01069fe6-5bd1-4fc9-b40e-a03a4ba6f3f1",
+      "title": "28 évvel később - A csonttemplom",
+      "subtitle": null,
+      "timestampString": "00:42:50",
+      "timestampInSeconds": 2570,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #319",
+        "youtubeId": "WElfYZiSFrk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/WElfYZiSFrk/hqdefault.jpg",
+        "durationInMinutes": 210,
+        "releaseDate": 1769866830000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

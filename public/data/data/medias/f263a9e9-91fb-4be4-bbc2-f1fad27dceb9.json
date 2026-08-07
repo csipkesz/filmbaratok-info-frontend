@@ -1,0 +1,41 @@
+{
+  "id": "f263a9e9-91fb-4be4-bbc2-f1fad27dceb9",
+  "title": "Párbaj",
+  "originalTitle": "Párbaj",
+  "overview": "Cannes Jury Prize-winning short film.",
+  "backdropPath": null,
+  "posterPath": "/3YWeaZJbm4cKrZGJP57FkSuuPdd.jpg",
+  "releaseDate": "1961-05-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1e3b792f-4279-4005-82c9-debe7da87778",
+      "title": "Párbaj",
+      "subtitle": null,
+      "timestampString": "02:02:58",
+      "timestampInSeconds": 7378,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #53",
+        "youtubeId": "m4ZV-tpyiqU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/m4ZV-tpyiqU/hqdefault.jpg",
+        "durationInMinutes": 174,
+        "releaseDate": 1404572612000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

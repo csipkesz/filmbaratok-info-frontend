@@ -1,0 +1,45 @@
+{
+  "id": "4198eeb9-d942-4da5-b8f8-f39d29e9f5ee",
+  "title": "Szupermanus / Blankman",
+  "originalTitle": "Blankman",
+  "overview": "Darryl is a childlike man with a genius for inventing various gadgets out of junk. When he stumbles on a method to make his clothes bulletproof, he decides to use his skills to be the lowest budgeted superhero of all.",
+  "backdropPath": "/59cmxJwHdTofw5tDBMNm3sej0Nj.jpg",
+  "posterPath": "/9b1zje1Yp3kaJOn8pJqaQ1WLmoj.jpg",
+  "releaseDate": "1994-08-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5e044367-8e8b-4703-aabb-971df532045c",
+      "title": "Szupermanus / Blankman",
+      "subtitle": null,
+      "timestampString": "02:17:50",
+      "timestampInSeconds": 8270,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #157",
+        "youtubeId": "IAfkWR4qRU4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IAfkWR4qRU4/hqdefault.jpg",
+        "durationInMinutes": 222,
+        "releaseDate": 1545146746000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

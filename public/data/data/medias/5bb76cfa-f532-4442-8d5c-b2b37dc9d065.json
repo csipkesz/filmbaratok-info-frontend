@@ -1,0 +1,79 @@
+{
+  "id": "5bb76cfa-f532-4442-8d5c-b2b37dc9d065",
+  "title": "Anyám!",
+  "originalTitle": "mother!",
+  "overview": "A couple's relationship is tested when uninvited guests arrive at their home, disrupting their tranquil existence.",
+  "backdropPath": "/2wS8pMZgvzq7kaZb5LHX54poQnA.jpg",
+  "posterPath": "/fjny9chXPx69ln1LMJxbwi5yHMt.jpg",
+  "releaseDate": "2017-09-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "35890a29-d31e-4ca3-8b47-46409dc1b672",
+      "title": "Anyám!",
+      "subtitle": null,
+      "timestampString": "03:02:10",
+      "timestampInSeconds": 10930,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #131",
+        "youtubeId": "QymLKg2wvV4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/QymLKg2wvV4/hqdefault.jpg",
+        "durationInMinutes": 230,
+        "releaseDate": 1509033085000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a353f706-03d6-4b3f-ad95-1c148d61b95b",
+      "title": "Anyám! [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "03:17:50",
+      "timestampInSeconds": 11870,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #131",
+        "youtubeId": "QymLKg2wvV4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/QymLKg2wvV4/hqdefault.jpg",
+        "durationInMinutes": 230,
+        "releaseDate": 1509033085000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "071db3a6-fb3b-4700-b88e-8ef85d1d9ba4",
+  "title": "X akták: A film",
+  "originalTitle": "The X-Files",
+  "overview": "Mulder and Scully, now taken off the FBI's X Files cases, must find a way to fight the shadowy elements of the government to find out the truth about a conspiracy that might mean the alien colonization of Earth.",
+  "backdropPath": "/2YIzEKCMfexbLIoeVUkR8MPayB2.jpg",
+  "posterPath": "/yLIw6shz2WC3W3iI0jROsF4B2ha.jpg",
+  "releaseDate": "1998-06-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ac7f7eb7-fed8-436c-a682-354ba9665872",
+      "title": "X akták: A film",
+      "subtitle": null,
+      "timestampString": "01:16:11",
+      "timestampInSeconds": 4571,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #47",
+        "youtubeId": "48-yuKdU7cg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/48-yuKdU7cg/hqdefault.jpg",
+        "durationInMinutes": 147,
+        "releaseDate": 1394966291000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

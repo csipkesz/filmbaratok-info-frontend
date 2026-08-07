@@ -1,0 +1,45 @@
+{
+  "id": "f90ea09d-1b3b-4fe6-8685-f6ff156b6432",
+  "title": "Annie Hall",
+  "originalTitle": "Annie Hall",
+  "overview": "New York comedian Alvy Singer falls in love with the ditsy Annie Hall.",
+  "backdropPath": "/8n9dYsTbXTykzm2Nuy7R2ftapXQ.jpg",
+  "posterPath": "/dEtjPywhDbAXYjoFfhBC4U9unU7.jpg",
+  "releaseDate": "1977-04-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a859da8a-ac0a-4430-a85d-52e81e7452e5",
+      "title": "Annie Hall",
+      "subtitle": null,
+      "timestampString": "02:14:21",
+      "timestampInSeconds": 8061,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #73",
+        "youtubeId": "CojqY6DJFQM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/CojqY6DJFQM/hqdefault.jpg",
+        "durationInMinutes": 197,
+        "releaseDate": 1431625186000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

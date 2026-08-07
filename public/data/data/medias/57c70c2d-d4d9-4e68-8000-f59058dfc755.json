@@ -1,0 +1,41 @@
+{
+  "id": "57c70c2d-d4d9-4e68-8000-f59058dfc755",
+  "title": "Grease (Pomádé)",
+  "originalTitle": "Grease 2",
+  "overview": "It's 1961, two years after the original Grease gang graduated, and there's a new crop of seniors and new members of the coolest cliques on campus, the Pink Ladies and T-Birds. Michael Carrington is the new kid in school - but he's been branded a brainiac. Can he fix up an old motorcycle, don a leather jacket, avoid a rumble with the leader of the T-Birds, and win the heart of Pink Lady Stephanie?",
+  "backdropPath": "/oScpMm0gmUMf7EY6vKomi7tboc6.jpg",
+  "posterPath": "/ufWc8AR5D66lwB2UZvZ9xvGcDSD.jpg",
+  "releaseDate": "1982-06-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "057b6f3c-e373-4b16-85ec-ed14b90bc99c",
+      "title": "Grease (Pomádé)",
+      "subtitle": null,
+      "timestampString": "02:52:00",
+      "timestampInSeconds": 10320,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #104",
+        "youtubeId": "OY96XihUHYY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/OY96XihUHYY/hqdefault.jpg",
+        "durationInMinutes": 230,
+        "releaseDate": 1469739871000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

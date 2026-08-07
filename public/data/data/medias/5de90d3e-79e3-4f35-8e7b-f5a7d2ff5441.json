@@ -1,0 +1,45 @@
+{
+  "id": "5de90d3e-79e3-4f35-8e7b-f5a7d2ff5441",
+  "title": "Szemtől szemben",
+  "originalTitle": "Heat",
+  "overview": "Obsessive master thief Neil McCauley leads a top-notch crew on various daring heists throughout Los Angeles while determined detective Vincent Hanna pursues him without rest. Each man recognizes and respects the ability and the dedication of the other even though they are aware their cat-and-mouse game may end in violence.",
+  "backdropPath": "/xKsnZDERG1dk95wuZ5q9iks3OL3.jpg",
+  "posterPath": "/umSVjVdbVwtx5ryCA2QXL44Durm.jpg",
+  "releaseDate": "1995-12-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e6ec0b19-6625-4f28-be88-2880f05edaa6",
+      "title": "Szemtől szemben",
+      "subtitle": null,
+      "timestampString": "01:33:52",
+      "timestampInSeconds": 5632,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #299",
+        "youtubeId": "xjwmsXHThGE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/xjwmsXHThGE/hqdefault.jpg",
+        "durationInMinutes": 200,
+        "releaseDate": 1742750106000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "bf6c3e4e-fcf7-4fd9-a1fb-1c2f81686245",
+            "name": "Sorter"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

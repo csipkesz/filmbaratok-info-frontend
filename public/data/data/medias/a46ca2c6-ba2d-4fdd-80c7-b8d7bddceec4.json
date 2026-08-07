@@ -1,0 +1,71 @@
+{
+  "id": "a46ca2c6-ba2d-4fdd-80c7-b8d7bddceec4",
+  "title": "Sárkányok háza",
+  "originalTitle": "House of the Dragon",
+  "overview": "A 200 évvel a Trónok harca eseményei előtt játszódó sorozat a Targaryen-ház történetét meséli el.",
+  "backdropPath": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+  "posterPath": "/nuT3JwAf2MaFXhmvh8EasUzkFUm.jpg",
+  "releaseDate": "2022-08-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "bf470276-6f13-4f04-b3ef-da41f94b16d5",
+      "title": "Sárkányok háza (1. évad)",
+      "subtitle": "1. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Sárkányok háza (1. évad)",
+        "youtubeId": "bnQvloCFZpE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/bnQvloCFZpE/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1666939781000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "b58a918c-16ec-4387-a959-c8a6d2afa38d",
+            "name": "Shirin"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d1a260b9-abc5-469e-8dce-68b0449bf109",
+      "title": "Sárkányok háza (2. évad)",
+      "subtitle": "2. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Sárkányok háza (2. évad)",
+        "youtubeId": "-k-YOxB0bWo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-k-YOxB0bWo/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1724509105000,
+        "participants": [
+          {
+            "id": "38fe6195-f992-493c-b9a3-d9b31717a332",
+            "name": "Gábor"
+          },
+          {
+            "id": "b58a918c-16ec-4387-a959-c8a6d2afa38d",
+            "name": "Shirin"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

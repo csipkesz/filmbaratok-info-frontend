@@ -1,0 +1,41 @@
+{
+  "id": "89e0b839-0fde-456f-a4b0-871329c02961",
+  "title": "Halálos iramban 7",
+  "originalTitle": "Furious 7",
+  "overview": "Deckard Shaw seeks revenge against Dominic Toretto and his family for his comatose brother.",
+  "backdropPath": "/ehzI1mVcnHqB58NqPyQwpMqcVoz.jpg",
+  "posterPath": "/ktofZ9Htrjiy0P6LEowsDaxd3Ri.jpg",
+  "releaseDate": "2015-04-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ac21c6bb-5039-4641-95f2-0441eb759e2c",
+      "title": "Halálos iramban 7",
+      "subtitle": null,
+      "timestampString": "00:43:50",
+      "timestampInSeconds": 2630,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #71",
+        "youtubeId": "K9mj59Uot1I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/K9mj59Uot1I/hqdefault.jpg",
+        "durationInMinutes": 176,
+        "releaseDate": 1428520974000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "58b5601b-1b98-419f-b84d-e9d4b44e8b7d",
+            "name": "Zoly"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

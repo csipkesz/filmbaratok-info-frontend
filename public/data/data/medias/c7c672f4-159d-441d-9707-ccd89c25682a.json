@@ -1,0 +1,41 @@
+{
+  "id": "c7c672f4-159d-441d-9707-ccd89c25682a",
+  "title": "The apprentice – A Trump-sztori",
+  "originalTitle": "The Apprentice",
+  "overview": "A young Donald Trump, eager to make his name as a hungry scion of a wealthy family in 1970s New York, comes under the spell of Roy Cohn, the cutthroat attorney who would help create the Donald Trump we know today. Cohn sees in Trump the perfect protégé—someone with raw ambition, a hunger for success, and a willingness to do whatever it takes to win.",
+  "backdropPath": "/kv9xVrxfLpudBLyYf1QvLCpUQuy.jpg",
+  "posterPath": "/549Hdul2BgPnZMhqFxp6npp2opr.jpg",
+  "releaseDate": "2024-10-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "689ca57e-cd88-4536-b0d6-bf61059b7554",
+      "title": "The apprentice – A Trump-sztori",
+      "subtitle": null,
+      "timestampString": "02:30:53",
+      "timestampInSeconds": 9053,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #290",
+        "youtubeId": "SsQxsH7PCqY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/SsQxsH7PCqY/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1731829298000,
+        "participants": [
+          {
+            "id": "53663efb-3e77-4287-899d-07740eef9421",
+            "name": "freddyD"
+          },
+          {
+            "id": "738dca17-bb35-496c-99a4-e1504d35bbde",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ec46e457-71bf-4bad-9b7b-ab97f3636c72",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}
