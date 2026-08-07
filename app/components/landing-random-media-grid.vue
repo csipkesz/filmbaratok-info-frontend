@@ -106,6 +106,8 @@ const props = defineProps({
 
 const TMDB_POSTER_BASE = 'https://image.tmdb.org/t/p/w500'
 
+const seededRandom = useSeededRandom();
+
 const medias = computed<MediaIndexItem[]>(() => {
   if (!props.indexMedias?.length) {
     return [];
@@ -117,8 +119,9 @@ const medias = computed<MediaIndexItem[]>(() => {
           content.category === FilmbaratokCategory.EXPRESS
       )
   );
-  const shuffled = [...relevantMedias].sort(() => 0.5 - Math.random())
+  // const shuffled = [...relevantMedias].sort(() => 0.5 - Math.random())
 
-  return shuffled.slice(0, 6);
+  const dailyRandomIndex = Math.max(seededRandom.getDailyIndex(relevantMedias.length) - 6, 0);
+  return [...relevantMedias].slice(dailyRandomIndex, dailyRandomIndex + 6);
 })
 </script>

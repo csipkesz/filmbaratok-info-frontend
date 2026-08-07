@@ -96,10 +96,12 @@ const props = defineProps({
   }
 })
 
+const seededRandom = useSeededRandom()
+
 const dailyMedia = ref<MediaIndexItem | null>(null)
 watch(() => props.indexMedias, async (newIndexMedias) => {
-  const commIndex = Math.floor(Math.random() * newIndexMedias.length)
-  dailyMedia.value = newIndexMedias[commIndex] as MediaIndexItem
+  const randomIndex = seededRandom.getDailyIndex(newIndexMedias.length)
+  dailyMedia.value = newIndexMedias[randomIndex] as MediaIndexItem
 })
 </script>
 

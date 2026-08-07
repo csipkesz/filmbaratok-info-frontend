@@ -132,6 +132,8 @@ const props = defineProps({
 const dailyCommentaryMedia = ref<MediaIndexItem | null>(null)
 const dailyCommentaryContent = ref<any | null>(null)
 
+const seededRandom = useSeededRandom()
+
 watch(() => props.indexMedias, async (newIndexMedias) => {
   if (newIndexMedias && newIndexMedias.length > 0) {
     const commentaryMedias = newIndexMedias.filter((media) =>
@@ -141,8 +143,8 @@ watch(() => props.indexMedias, async (newIndexMedias) => {
     )
 
     if (commentaryMedias.length > 0) {
-      const commIndex = Math.floor(Math.random() * commentaryMedias.length)
-      const selectedMedia = commentaryMedias[commIndex] as MediaIndexItem
+      const randomIndex = seededRandom.getDailyIndex(commentaryMedias.length)
+      const selectedMedia = commentaryMedias[randomIndex] as MediaIndexItem
 
       dailyCommentaryMedia.value = selectedMedia
       dailyCommentaryContent.value = selectedMedia.contents?.find(
