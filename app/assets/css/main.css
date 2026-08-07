@@ -1,0 +1,20 @@
+@import "tailwindcss";
+@import "@nuxt/ui";
+
+@theme {
+    --font-display: "Bodoni Moda", Georgia, serif;
+    --font-body: "Inter", system-ui, sans-serif;
+
+    --color-ink: #0b0d13;
+    --color-ink-soft: #14171f;
+    --color-marquee: #f2b84b;
+    --color-marquee-soft: #f6cd7c;
+    --color-fog: #9aa2b1;
+    --color-paper: #f5f1e8;
+}
+
+.marquee-glow {
+    text-shadow: 0 0 8px color-mix(in srgb, var(--color-marquee) 70%, transparent),
+    0 0 24px color-mix(in srgb, var(--color-marquee) 45%, transparent),
+    0 0 56px color-mix(in srgb, var(--color-marquee) 25%, transparent);
+}
