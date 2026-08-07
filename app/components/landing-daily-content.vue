@@ -1,0 +1,50 @@
+<template>
+  <div
+      class="relative overflow-hidden rounded-2xl bg-ink-soft/80 border border-white/10 p-6 sm:p-8 flex flex-col justify-between space-y-6 shadow-xl"
+  >
+    <div class="space-y-4">
+      <div class="flex items-center gap-2 text-xs font-bold uppercase tracking-widest text-amber-400">
+        <UIcon name="i-lucide-radio" class="w-4 h-4"/>
+        <span>A nap adása</span>
+      </div>
+
+      <div class="flex gap-5 items-start pt-2">
+        <div
+            class="w-24 h-36 bg-white/5 rounded-lg shrink-0 border border-white/10 flex items-center justify-center text-fog/50"
+        >
+          <UIcon name="i-lucide-mic" class="w-8 h-8 opacity-40"/>
+        </div>
+
+        <div class="space-y-1.5 flex-1">
+          <h3 class="font-display text-2xl font-bold text-paper">
+            Filmbarátok Podcast #250
+          </h3>
+          <p class="text-xs font-mono text-amber-400/90">
+            2024. 09. 12. • 275 perc
+          </p>
+          <p class="text-xs text-fog line-clamp-3 leading-relaxed pt-2">
+            Adás témái: Mátrix feltámadások, A Dűne 2. része és a legfrissebb filmipari hírek.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="pt-2">
+      <button
+          disabled
+          class="inline-flex items-center gap-2 rounded-xl border border-white/10 bg-white/5 px-5 py-3 text-sm font-medium text-fog/50 cursor-not-allowed opacity-60"
+      >
+        <UIcon name="i-lucide-play-circle" class="w-4 h-4"/>
+        <span>Adás megnyitása (Hamarosan)</span>
+      </button>
+    </div>
+  </div>
+</template>
+
+<script setup lang="ts">
+
+</script>
+
+<style scoped>
+
+</style>
