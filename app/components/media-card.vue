@@ -49,7 +49,7 @@
           v-if="media.contents?.length"
           class="absolute bottom-2 right-2 rounded-md bg-ink/80 backdrop-blur px-2 py-0.5 text-xs font-mono text-fog border border-white/10"
       >
-        {{ media.contents.length }} adás
+        {{ media.contents.length }} alkalom
       </span>
     </div>
 
@@ -93,7 +93,7 @@ const uniqueCategories = computed(() => {
   if (!props.media.contents) {
     return []
   }
-  
+
   const categories = props.media.contents.map(c => c.category)
   return Array.from(new Set(categories))
 })

@@ -16,4 +16,5 @@ export interface MediaIndexItemContent {
     youtubeId: string;
     timestampInSeconds?: number;
     participants: string[];
+    isSpoiler: boolean;
 }
