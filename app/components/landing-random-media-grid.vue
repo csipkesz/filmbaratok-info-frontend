@@ -11,7 +11,7 @@
       </div>
 
       <NuxtLink
-          to="/"
+          to="/media"
           class="hidden sm:flex items-center gap-1 text-sm font-medium text-marquee hover:underline"
       >
         Összes böngészése
@@ -19,7 +19,6 @@
       </NuxtLink>
     </div>
 
-    <!-- BETÖLTÖTT TARTALOM -->
     <UScrollArea
         v-if="medias.length > 0"
         v-slot="{ item: media }"
@@ -28,46 +27,8 @@
         class="w-full"
         :ui="{ viewport: 'flex gap-2 sm:gap-3 pb-2' }"
     >
-      <div
-          class="group relative flex w-40 sm:w-48 shrink-0 flex-col overflow-hidden rounded-xl bg-ink-soft/40 border border-white/5 hover:border-white/20 transition-all duration-300 hover:-translate-y-1 cursor-pointer select-none"
-      >
-        <div class="aspect-[2/3] w-full overflow-hidden bg-ink-soft relative shrink-0">
-          <img
-              v-if="media.posterPath"
-              :src="`${TMDB_POSTER_BASE}${media.posterPath}`"
-              :alt="media.title"
-              class="h-full w-full object-cover group-hover:scale-105 transition-transform duration-500"
-              loading="lazy"
-          />
-          <div
-              v-else
-              class="h-full w-full flex flex-col items-center justify-center p-4 text-center bg-white/5 border-b border-white/5"
-          >
-            <UIcon name="i-lucide-film" class="w-8 h-8 text-fog/40 mb-2 shrink-0"/>
-            <span class="font-body text-xs font-semibold text-paper/90 line-clamp-3 leading-snug">
-              {{ media.title }}
-            </span>
-          </div>
-
-          <div
-              class="absolute inset-0 bg-gradient-to-t from-ink via-transparent to-transparent opacity-80 pointer-events-none"/>
-
-          <span
-              v-if="media.contents?.length"
-              class="absolute bottom-2 right-2 rounded-md bg-ink/80 backdrop-blur px-2 py-0.5 text-xs font-mono text-fog border border-white/10"
-          >
-            {{ media.contents.length }} adás
-          </span>
-        </div>
-
-        <div class="p-3 flex flex-col justify-start min-h-[4.25rem]">
-          <h3 class="font-body text-sm font-semibold text-paper line-clamp-1 group-hover:text-marquee transition-colors">
-            {{ media.title }}
-          </h3>
-          <p v-if="media.originalTitle" class="text-xs text-fog italic line-clamp-1 mt-0.5">
-            {{ media.originalTitle }}
-          </p>
-        </div>
+      <div class="w-40 sm:w-48 shrink-0">
+        <MediaCard :media="media" @select="handleMediaSelect"/>
       </div>
     </UScrollArea>
 
@@ -90,12 +51,17 @@
         </div>
       </div>
     </div>
+
+    <MediaContentModal v-model="isModalOpen" :media="selectedMedia"/>
   </section>
 </template>
 
 <script setup lang="ts">
-import type {MediaIndexItem} from "~/models/indexes/media-index-item.ts";
-import {FilmbaratokCategory} from "~/models/enums.ts";
+import {computed, ref} from 'vue'
+import type {MediaIndexItem} from '~/models/indexes/media-index-item.ts'
+import {FilmbaratokCategory} from '~/models/enums.ts'
+import MediaCard from '~/components/media-card.vue'
+import MediaContentModal from '~/components/media-content-modal.vue'
 
 const props = defineProps({
   indexMedias: {
@@ -104,13 +70,13 @@ const props = defineProps({
   }
 })
 
-const TMDB_POSTER_BASE = 'https://image.tmdb.org/t/p/w500'
-
-const seededRandom = useSeededRandom();
+const seededRandom = useSeededRandom()
+const selectedMedia = ref<MediaIndexItem | null>(null)
+const isModalOpen = ref(false)
 
 const medias = computed<MediaIndexItem[]>(() => {
   if (!props.indexMedias?.length) {
-    return [];
+    return []
   }
 
   const relevantMedias = props.indexMedias.filter(media =>
@@ -118,10 +84,31 @@ const medias = computed<MediaIndexItem[]>(() => {
           content.category === FilmbaratokCategory.PODCAST ||
           content.category === FilmbaratokCategory.EXPRESS
       )
-  );
-  // const shuffled = [...relevantMedias].sort(() => 0.5 - Math.random())
+  )
 
-  const dailyRandomIndex = Math.max(seededRandom.getDailyIndex(relevantMedias.length) - 6, 0);
-  return [...relevantMedias].slice(dailyRandomIndex, dailyRandomIndex + 6);
+  const numberOfMedia = 10;
+  const dailyRandomIndex = Math.max(seededRandom.getDailyIndex(relevantMedias.length) - numberOfMedia, 0)
+  return [...relevantMedias].slice(dailyRandomIndex, dailyRandomIndex + numberOfMedia)
 })
+
+function handleMediaSelect(media: MediaIndexItem) {
+  if (!media.contents || media.contents.length === 0) {
+    return
+  }
+
+  if (media.contents.length === 1) {
+    const content = media.contents[0]
+    if (content?.youtubeId) {
+      let url = `https://www.youtube.com/watch?v=${content.youtubeId}`
+      if (content.timestampInSeconds) {
+        url += `&t=${content.timestampInSeconds}s`
+      }
+
+      window.open(url, '_blank', 'noopener,noreferrer')
+    }
+  } else {
+    selectedMedia.value = media
+    isModalOpen.value = true
+  }
+}
 </script>

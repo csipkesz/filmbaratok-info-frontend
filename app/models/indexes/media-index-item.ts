@@ -12,8 +12,10 @@ export interface MediaIndexItem {
 export interface MediaIndexItemContent {
     id: string;
     title: string;
+    subtitle: string | null;
     category: FilmbaratokCategory;
     youtubeId: string;
     timestampInSeconds?: number;
     participants: string[];
+    isSpoiler: boolean;
 }
