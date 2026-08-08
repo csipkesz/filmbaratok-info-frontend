@@ -9,6 +9,18 @@ import SearchResultGrid from "~/components/search-result-grid.vue";
 import type {MediaIndexItem} from "~/models/indexes/media-index-item.ts";
 import type {ContentIndexItem} from "~/models/indexes/content-index-item.ts";
 
+/**
+ * TODO:
+ * - Browse all media
+ * - Open media with youtube link (when has multiple content, show a dialog)
+ * - Show spoiler when need on any media card
+ * - Fill footer with:
+ * -- Filmbaratok platforms (yt, spoti etc.)
+ * -- TMDB logo and text
+ * -- A page (create one), how it works and what is this app
+ * -- Text with this is an hobby project, non any official connection with filmbaratok staff etc.
+ */
+
 const indexMedias = ref<MediaIndexItem[]>([])
 const indexContents = ref<ContentIndexItem[]>([])
 
