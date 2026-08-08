@@ -2,19 +2,28 @@
 import {onMounted, ref} from 'vue'
 import LandingHero from "~/components/landing-hero.vue";
 import LandingRandomMediaGrid from "~/components/landing-random-media-grid.vue";
-import type {MediaIndexItem} from "~/models/media-index-item.ts";
+import type {MediaIndexItem} from "~/models/indexes/media-index-item.ts";
 import LandingDailyMediaCommentar from "~/components/landing-daily-media-commentar.vue";
 import LandingDailyMedia from "~/components/landing-daily-media.vue";
 import LandingDailyContent from "~/components/landing-daily-content.vue";
+import type {ContentIndexItem} from "~/models/indexes/content-index-item.ts";
 
 const indexMedias = ref<MediaIndexItem[]>([])
+const indexContents = ref<ContentIndexItem[]>([])
 
 onMounted(async () => {
   try {
     const mediaIndex = await $fetch<MediaIndexItem[]>('/data/index/medias.json')
     indexMedias.value = mediaIndex || [];
-  } catch (err) {
-    console.error('Nem sikerült betölteni a medias.json-t:', err)
+  } catch (e) {
+    console.error('Error loading on medias index: ', e)
+  }
+
+  try {
+    const contentIndex = await $fetch<ContentIndexItem[]>('/data/index/contents.json')
+    indexContents.value = contentIndex || [];
+  } catch (e) {
+    console.error('Error loading on contents index: ', e)
   }
 })
 </script>
@@ -34,7 +43,7 @@ onMounted(async () => {
 
         <LandingDailyMedia :index-medias="indexMedias"/>
 
-        <LandingDailyContent/>
+        <LandingDailyContent :index-contents="indexContents"/>
 
       </div>
     </section>

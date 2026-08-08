@@ -94,7 +94,7 @@
 </template>
 
 <script setup lang="ts">
-import type {MediaIndexItem} from "~/models/media-index-item.ts";
+import type {MediaIndexItem} from "~/models/indexes/media-index-item.ts";
 import {FilmbaratokCategory} from "~/models/enums.ts";
 
 const props = defineProps({

@@ -101,7 +101,7 @@
 </template>
 
 <script setup lang="ts">
-import type {MediaIndexItem} from "~/models/media-index-item.ts";
+import type {MediaIndexItem} from "~/models/indexes/media-index-item.ts";
 import type {MediaDetail} from "~/models/media-detail.ts";
 
 const TMDB_POSTER_BASE = 'https://image.tmdb.org/t/p/w500'

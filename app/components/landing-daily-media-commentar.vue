@@ -116,7 +116,7 @@
 </template>
 
 <script setup lang="ts">
-import type {MediaIndexItem} from "~/models/media-index-item.ts";
+import type {MediaIndexItem} from "~/models/indexes/media-index-item.ts";
 import {FilmbaratokCategory} from "~/models/enums.ts";
 import type {MediaDetail} from "~/models/media-detail.ts";
 import type {ContentDetail} from "~/models/content-detail.ts";
