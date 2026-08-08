@@ -1,15 +1,22 @@
 <script setup lang="ts">
-import {onMounted, ref} from 'vue'
+import {computed, onMounted, ref} from 'vue'
 import LandingHero from "~/components/landing-hero.vue";
 import LandingRandomMediaGrid from "~/components/landing-random-media-grid.vue";
-import type {MediaIndexItem} from "~/models/indexes/media-index-item.ts";
 import LandingDailyMediaCommentar from "~/components/landing-daily-media-commentar.vue";
 import LandingDailyMedia from "~/components/landing-daily-media.vue";
 import LandingDailyContent from "~/components/landing-daily-content.vue";
+import SearchResultGrid from "~/components/search-result-grid.vue";
+import type {MediaIndexItem} from "~/models/indexes/media-index-item.ts";
 import type {ContentIndexItem} from "~/models/indexes/content-index-item.ts";
 
 const indexMedias = ref<MediaIndexItem[]>([])
 const indexContents = ref<ContentIndexItem[]>([])
+
+// Local reactive search query state (NO router synchronization)
+const searchQuery = ref('')
+
+// Keresési állapot detektálása
+const isSearching = computed(() => searchQuery.value.trim().length > 0)
 
 onMounted(async () => {
   try {
@@ -30,23 +37,31 @@ onMounted(async () => {
 
 <template>
   <div class="bg-ink min-h-screen text-paper">
-    <LandingHero/>
+    <LandingHero v-model:search-query="searchQuery"/>
 
-    <LandingRandomMediaGrid
-        :index-medias="indexMedias"
-    />
+    <!-- DYNAMIC SEARCH STATE SWITCH -->
+    <main class="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8">
 
-    <LandingDailyMediaCommentar :index-medias="indexMedias"/>
+      <SearchResultGrid
+          v-if="isSearching"
+          :search-query="searchQuery"
+          :index-medias="indexMedias"
+          @clear="searchQuery = ''"
+      />
 
-    <section class="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8 pb-16">
-      <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+      <template v-else>
+        <LandingRandomMediaGrid :index-medias="indexMedias"/>
 
-        <LandingDailyMedia :index-medias="indexMedias"/>
+        <LandingDailyMediaCommentar :index-medias="indexMedias"/>
 
-        <LandingDailyContent :index-contents="indexContents"/>
+        <section class="py-8 pb-16">
+          <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+            <LandingDailyMedia :index-medias="indexMedias"/>
+            <LandingDailyContent :index-contents="indexContents"/>
+          </div>
+        </section>
+      </template>
 
-      </div>
-    </section>
-
+    </main>
   </div>
 </template>

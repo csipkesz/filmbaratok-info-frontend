@@ -22,21 +22,21 @@
         Fedezd fel az eddig kibeszélt filmeket, sorozatokat.
       </p>
 
-      <form class="mt-8 flex w-full max-w-2xl items-center" @submit.prevent="onSearch">
+      <form class="mt-8 flex w-full max-w-2xl items-center" @submit.prevent>
         <UInput
-            v-model="query"
+            v-model="inputQuery"
             size="xl"
             placeholder="Film, sorozat, vagy podcast szereplő..."
             icon="i-lucide-search"
             class="w-full [&_input]:rounded-full [&_input]:bg-ink-soft/80 [&_input]:backdrop-blur-md [&_input]:border-white/10 [&_input]:text-paper [&_input]:placeholder-fog [&_input]:py-4"
         >
-          <template #trailing>
+          <template v-if="query.length" #trailing>
             <UButton
-                type="submit"
                 size="md"
                 color="warning"
-                class="shrink-0 rounded-full px-6 font-body font-medium"
-                icon="i-lucide-arrow-right"
+                class="shrink-0 rounded-full px-6 font-body font-medium cursor-pointer"
+                icon="i-lsicon-clear-filled"
+                @on-click="resetQuery()"
             />
           </template>
         </UInput>
@@ -48,9 +48,23 @@
 
 <script setup lang="ts">
 
+import {watchDebounced} from "@vueuse/core";
+
 const TMDB_BACKDROP_BASE = 'https://image.tmdb.org/t/p/w1280'
-const query = ref('')
+const query = defineModel<string>('search-query', {default: ''})
 const heroBackdrop = ref('')
+
+const inputQuery = ref('')
+
+function resetQuery() {
+  inputQuery.value = ''
+  query.value = ''
+}
+
+watchDebounced(inputQuery, async (newQuery) => {
+  query.value = newQuery
+}, {debounce: 300})
+
 
 onMounted(async () => {
   try {
@@ -63,15 +77,6 @@ onMounted(async () => {
     console.error('Error landing hero backdrop loading: ', err)
   }
 })
-
-
-function onSearch() {
-  if (!query.value.trim()) {
-    return
-  }
-
-  navigateTo({path: '/', query: {q: query.value.trim()}})
-}
 </script>
 
 <style scoped>
