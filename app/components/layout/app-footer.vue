@@ -34,6 +34,7 @@
           </div>
 
           <!-- Platforms -->
+          <!--          TODO: Optiimze with component and array with icon, title, link-->
           <div class="space-y-3">
             <p class="font-body text-xs font-bold uppercase tracking-widest text-paper">Filmbarátok Platformok</p>
             <div class="flex flex-col space-y-2 text-sm text-fog">
