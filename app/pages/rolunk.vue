@@ -5,10 +5,10 @@
       <!-- HERO FEJLÉC -->
       <div class="text-center space-y-4">
         <div class="flex flex-wrap items-center justify-center gap-2">
-          <UBadge color="warning" variant="subtle" size="md" class="font-mono">
+          <UBadge color="warning" variant="subtle" size="md" class="font-body tracking-wide">
             Hobbi Projekt
           </UBadge>
-          <UBadge color="neutral" variant="subtle" size="md" class="font-mono">
+          <UBadge color="neutral" variant="subtle" size="md" class="font-body tracking-wide">
             90%+ Pontosság
           </UBadge>
           <UBadge color="success" variant="subtle" size="md" class="font-mono">
@@ -19,11 +19,9 @@
         <h1 class="font-display text-4xl sm:text-5xl md:text-6xl font-bold text-paper leading-tight">
           A Filmbarátok Info működése
         </h1>
-        <!--        <p class="font-body text-base sm:text-lg text-fog max-w-3xl mx-auto leading-relaxed">-->
-        <!--        </p>-->
       </div>
 
-      <UCard variant="outline" class="bg-ink-soft/80 border-white/10 shadow-xl">
+      <UCard variant="outline" class="bg-ink-soft/80 border-white/5 shadow-xl">
         <template #header>
           <div class="flex items-center gap-3">
             <div class="p-2 rounded-xl bg-marquee/10 text-marquee border border-marquee/20">
@@ -31,12 +29,12 @@
             </div>
             <div>
               <h2 class="font-display text-2xl font-bold text-paper">Miről szól ez az oldal?</h2>
-              <p class="text-xs text-fog">Az archívum célja és alapötlete</p>
+              <p class="text-xs text-fog font-body">Az archívum célja és alapötlete</p>
             </div>
           </div>
         </template>
 
-        <div class="space-y-4 text-sm text-fog leading-relaxed">
+        <div class="space-y-4 text-sm text-fog leading-relaxed font-body">
           <p>
             A <strong class="text-paper">Filmbarátok Podcast</strong> és a hozzá tartozó adások (Expressz,
             Audiokommentár) több mint egy évtizede szállítják a filmes kibeszélőket. Az adásokban elhangzó több ezer
@@ -54,17 +52,17 @@
       <div class="space-y-6">
         <div class="text-center space-y-2">
           <h2 class="font-display text-3xl font-bold text-paper">Hogyan működik a gépezet?</h2>
-          <p class="text-sm text-fog max-w-xl mx-auto">
+          <p class="text-sm text-fog font-body max-w-xl mx-auto">
             A YouTube adatok kinyerésétől a statikus JSON fájlokig , lépésről lépésre.
           </p>
         </div>
 
         <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
           <!-- Step 1 -->
-          <UCard variant="subtle" class="bg-ink-soft/60 border-white/10">
+          <UCard variant="subtle" class="bg-ink-soft/60 border-white/5">
             <div class="flex items-start gap-4">
               <div
-                  class="w-8 h-8 rounded-full bg-red-600/20 text-red-400 border border-red-500/30 flex items-center justify-center font-mono font-bold text-sm shrink-0">
+                  class="w-8 h-8 rounded-full bg-marquee/10 text-marquee border border-marquee/20 flex items-center justify-center font-display font-bold text-sm shrink-0">
                 1
               </div>
               <div class="space-y-2">
@@ -72,7 +70,7 @@
                   <UIcon name="i-simple-icons-youtube" class="w-4 h-4 text-red-500"/>
                   <h3 class="font-display text-base font-bold text-paper">YouTube Adatlekérés</h3>
                 </div>
-                <p class="text-xs text-fog leading-relaxed">
+                <p class="text-xs text-fog font-body leading-relaxed">
                   A YouTube API végpontjainak segítségével lekértem a Filmbarátok csatorna összes megjelent videójának
                   metaadatait (címek, leírások, közzétételi dátumok).
                 </p>
@@ -81,18 +79,18 @@
           </UCard>
 
           <!-- Step 2 -->
-          <UCard variant="subtle" class="bg-ink-soft/60 border-white/10">
+          <UCard variant="subtle" class="bg-ink-soft/60 border-white/5">
             <div class="flex items-start gap-4">
               <div
-                  class="w-8 h-8 rounded-full bg-amber-500/20 text-amber-400 border border-amber-500/30 flex items-center justify-center font-mono font-bold text-sm shrink-0">
+                  class="w-8 h-8 rounded-full bg-marquee/10 text-marquee border border-marquee/20 flex items-center justify-center font-display font-bold text-sm shrink-0">
                 2
               </div>
               <div class="space-y-2">
                 <div class="flex items-center gap-2">
-                  <UIcon name="i-lucide-code-2" class="w-4 h-4 text-amber-400"/>
+                  <UIcon name="i-lucide-code-2" class="w-4 h-4 text-marquee"/>
                   <h3 class="font-display text-base font-bold text-paper">Regex & Adatbázis Építés</h3>
                 </div>
-                <p class="text-xs text-fog leading-relaxed">
+                <p class="text-xs text-fog font-body leading-relaxed">
                   Köszönet a srácoknak, hogy 10 éve konzisztens formátumot használnak! Egyedi parser szabályokkal
                   kinyertem az adásokból a kibeszélt témákat, időbélyegeket és a megjelölt résztvevőket.
                 </p>
@@ -101,18 +99,18 @@
           </UCard>
 
           <!-- Step 3 -->
-          <UCard variant="subtle" class="bg-ink-soft/60 border-white/10">
+          <UCard variant="subtle" class="bg-ink-soft/60 border-white/5">
             <div class="flex items-start gap-4">
               <div
-                  class="w-8 h-8 rounded-full bg-cyan-500/20 text-cyan-400 border border-cyan-500/30 flex items-center justify-center font-mono font-bold text-sm shrink-0">
+                  class="w-8 h-8 rounded-full bg-marquee/10 text-marquee border border-marquee/20 flex items-center justify-center font-display font-bold text-sm shrink-0">
                 3
               </div>
               <div class="space-y-2">
                 <div class="flex items-center gap-2">
-                  <UIcon name="i-lucide-database" class="w-4 h-4 text-cyan-400"/>
+                  <UIcon name="i-lucide-database" class="w-4 h-4 text-marquee"/>
                   <h3 class="font-display text-base font-bold text-paper">TMDB Film Párosítás</h3>
                 </div>
-                <p class="text-xs text-fog leading-relaxed">
+                <p class="text-xs text-fog font-body leading-relaxed">
                   A kinyert címeket összeillesztettem a TMDB filmadatbázissal (poszterek, háttérképek, eredeti címek).
                   Bár nem 100%-os a gépi egyezés, a találati arány rendkívül magas és idővel manuálisan kikupálható.
                 </p>
@@ -121,18 +119,18 @@
           </UCard>
 
           <!-- Step 4 -->
-          <UCard variant="subtle" class="bg-ink-soft/60 border-white/10">
+          <UCard variant="subtle" class="bg-ink-soft/60 border-white/5">
             <div class="flex items-start gap-4">
               <div
-                  class="w-8 h-8 rounded-full bg-emerald-500/20 text-emerald-400 border border-emerald-500/30 flex items-center justify-center font-mono font-bold text-sm shrink-0">
+                  class="w-8 h-8 rounded-full bg-marquee/10 text-marquee border border-marquee/20 flex items-center justify-center font-display font-bold text-sm shrink-0">
                 4
               </div>
               <div class="space-y-2">
                 <div class="flex items-center gap-2">
-                  <UIcon name="i-lucide-zap" class="w-4 h-4 text-emerald-400"/>
+                  <UIcon name="i-lucide-zap" class="w-4 h-4 text-marquee"/>
                   <h3 class="font-display text-base font-bold text-paper">Statikus JSON Export</h3>
                 </div>
-                <p class="text-xs text-fog leading-relaxed">
+                <p class="text-xs text-fog font-body leading-relaxed">
                   A feldolgozott adatokat statikus JSON fájlokba exportáltam. Így nincs szükség külön futó adatbázisra
                   vagy drága szerverre, a weboldal azonnal, villámgyorsan tölt be bárhol.
                 </p>
@@ -143,39 +141,39 @@
       </div>
 
       <!-- 3. STATISZTIKÁK & LEFEDETTSÉG -->
-      <UCard variant="outline" class="bg-ink-soft/80 border-white/10">
+      <UCard variant="outline" class="bg-ink-soft/80 border-white/5">
         <template #header>
           <div class="flex items-center gap-3">
-            <div class="p-2 rounded-xl bg-cyan-500/10 text-cyan-400 border border-cyan-500/20">
+            <div class="p-2 rounded-xl bg-marquee/10 text-marquee border border-marquee/20">
               <UIcon name="i-lucide-bar-chart-3" class="w-6 h-6"/>
             </div>
             <div>
               <h2 class="font-display text-2xl font-bold text-paper">Milyen a lefedettség?</h2>
-              <p class="text-xs text-fog">Számok és felismerési arányok</p>
+              <p class="text-xs text-fog font-body">Számok és felismerési arányok</p>
             </div>
           </div>
         </template>
 
         <div class="grid grid-cols-2 sm:grid-cols-4 gap-4 mb-6">
           <div class="p-4 rounded-xl bg-white/5 border border-white/5 text-center">
-            <div class="font-mono text-2xl sm:text-3xl font-bold text-marquee">~2200+</div>
-            <div class="text-[11px] text-fog font-medium mt-1">Érzékelt tartalom</div>
+            <div class="font-display text-2xl sm:text-3xl font-bold text-marquee">~2200+</div>
+            <div class="text-[11px] text-fog font-body font-medium mt-1">Érzékelt tartalom</div>
           </div>
           <div class="p-4 rounded-xl bg-white/5 border border-white/5 text-center">
-            <div class="font-mono text-2xl sm:text-3xl font-bold text-emerald-400">~90%</div>
-            <div class="text-[11px] text-fog font-medium mt-1">Automatikus pontosság</div>
+            <div class="font-display text-2xl sm:text-3xl font-bold text-marquee">~90%</div>
+            <div class="text-[11px] text-fog font-body font-medium mt-1">Automatikus pontosság</div>
           </div>
           <div class="p-4 rounded-xl bg-white/5 border border-white/5 text-center">
-            <div class="font-mono text-2xl sm:text-3xl font-bold text-amber-400">100-200</div>
-            <div class="text-[11px] text-fog font-medium mt-1">Manuális pontosításra vár</div>
+            <div class="font-display text-2xl sm:text-3xl font-bold text-paper">100-200</div>
+            <div class="text-[11px] text-fog font-body font-medium mt-1">Manuális pontosításra vár</div>
           </div>
           <div class="p-4 rounded-xl bg-white/5 border border-white/5 text-center">
-            <div class="font-mono text-2xl sm:text-3xl font-bold text-purple-400">10 év</div>
-            <div class="text-[11px] text-fog font-medium mt-1">Feldolgozott adástörténet</div>
+            <div class="font-display text-2xl sm:text-3xl font-bold text-paper">10 év</div>
+            <div class="text-[11px] text-fog font-body font-medium mt-1">Feldolgozott adástörténet</div>
           </div>
         </div>
 
-        <p class="text-xs text-fog leading-relaxed">
+        <p class="text-xs text-fog font-body leading-relaxed">
           Amennyiben a YouTube videók címében és leírásában konzisztensen szerepelnek az adatok, a rendszer
           automatikusan fel tudta azokat dolgozni. A manuális utómunka mértéke jelenleg elenyésző, de a problémásabb
           szituációkra és a 100-200 pontatlanabbul felismert elem finomítására elő lettek készítve a megfelelő
@@ -184,23 +182,23 @@
       </UCard>
 
       <!-- 4. AZ AI ÉS NYELVI MODELLEK SZEREPE -->
-      <UCard variant="outline" class="bg-ink-soft/80 border-white/10">
+      <UCard variant="outline" class="bg-ink-soft/80 border-white/5">
         <template #header>
           <div class="flex items-center gap-3">
-            <div class="p-2 rounded-xl bg-purple-500/10 text-purple-400 border border-purple-500/20">
+            <div class="p-2 rounded-xl bg-marquee/10 text-marquee border border-marquee/20">
               <UIcon name="i-lucide-bot" class="w-6 h-6"/>
             </div>
             <div>
               <h2 class="font-display text-2xl font-bold text-paper">Az AI és Nyelvi Modellek szerepe</h2>
-              <p class="text-xs text-fog">Transzparens információ az AI használatáról</p>
+              <p class="text-xs text-fog font-body">Transzparens információ az AI használatáról</p>
             </div>
           </div>
         </template>
 
-        <div class="space-y-4 text-sm text-fog leading-relaxed">
-          <div class="p-4 rounded-xl bg-purple-950/30 border border-purple-500/20 space-y-2">
-            <div class="flex items-center gap-2 text-purple-300 font-semibold text-xs">
-              <UIcon name="i-lucide-check-circle-2" class="w-4 h-4 text-purple-400"/>
+        <div class="space-y-4 text-sm text-fog leading-relaxed font-body">
+          <div class="p-4 rounded-xl bg-marquee/5 border border-marquee/20 space-y-2">
+            <div class="flex items-center gap-2 text-marquee font-semibold text-xs">
+              <UIcon name="i-lucide-check-circle-2" class="w-4 h-4"/>
               <span>Nem "vibe-coded" projekt, emberi kontroll és ellenőrzés</span>
             </div>
             <p class="text-xs text-fog">
@@ -220,20 +218,20 @@
       </UCard>
 
       <!-- 5. JELENLEGI FUNKCIÓK ÉS NAPI SORSOLÓ -->
-      <UCard variant="outline" class="bg-ink-soft/80 border-white/10">
+      <UCard variant="outline" class="bg-ink-soft/80 border-white/5">
         <template #header>
           <div class="flex items-center gap-3">
-            <div class="p-2 rounded-xl bg-amber-500/10 text-amber-400 border border-amber-500/20">
+            <div class="p-2 rounded-xl bg-marquee/10 text-marquee border border-marquee/20">
               <UIcon name="i-lucide-sparkles" class="w-6 h-6"/>
             </div>
             <div>
               <h2 class="font-display text-2xl font-bold text-paper">Jelenlegi funkciók és képességek</h2>
-              <p class="text-xs text-fog">Mit tud az alkalmazás jelenleg?</p>
+              <p class="text-xs text-fog font-body">Mit tud az alkalmazás jelenleg?</p>
             </div>
           </div>
         </template>
 
-        <ul class="space-y-3 text-xs text-fog">
+        <ul class="space-y-3 text-xs text-fog font-body">
           <li class="flex items-start gap-2.5">
             <UIcon name="i-lucide-check" class="w-4 h-4 text-marquee shrink-0 mt-0.5"/>
             <span><strong class="text-paper">Determinisztikus napi sorsoló:</strong> A kezdőlapon a rendszer minden nap determinisztikusan sorsol ki napi filmeket, sorozatokat és kommentárokat.</span>
@@ -249,34 +247,34 @@
         </ul>
       </UCard>
 
-      <UCard variant="outline" class="bg-ink-soft/80 border-white/10">
+      <UCard variant="outline" class="bg-ink-soft/80 border-white/5">
         <template #header>
           <div class="flex items-center gap-3">
-            <div class="p-2 rounded-xl bg-emerald-500/10 text-emerald-400 border border-emerald-500/20">
+            <div class="p-2 rounded-xl bg-marquee/10 text-marquee border border-marquee/20">
               <UIcon name="i-simple-icons-github" class="w-6 h-6"/>
             </div>
             <div>
               <h2 class="font-display text-2xl font-bold text-paper">Nyílt Forráskód (Open Source)</h2>
-              <p class="text-xs text-fog">Nézd meg a kódkészletet a GitHub-on!</p>
+              <p class="text-xs text-fog font-body">Nézd meg a kódkészletet a GitHub-on!</p>
             </div>
           </div>
         </template>
 
         <div class="space-y-4">
-          <p class="text-xs text-fog leading-relaxed">
+          <p class="text-xs text-fog font-body leading-relaxed">
             A projekt két különálló repository-ból áll: a webes felületért felelős frontendből, valamint az adatokat
             előkészítő backend/parser eszközből.
           </p>
 
           <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-2">
             <!-- Frontend Repo Card -->
-            <div class="p-4 rounded-xl bg-white/5 border border-white/10 flex flex-col justify-between space-y-3">
+            <div class="p-4 rounded-xl bg-white/5 border border-white/5 flex flex-col justify-between space-y-3">
               <div>
-                <div class="flex items-center gap-2 text-paper font-bold text-sm">
+                <div class="flex items-center gap-2 text-paper font-body font-bold text-sm">
                   <UIcon name="i-lucide-layout" class="w-4 h-4 text-marquee"/>
                   <span>Frontend Repository</span>
                 </div>
-                <p class="text-xs text-fog mt-1">
+                <p class="text-xs text-fog font-body mt-1">
                   Nuxt 4, Vue 3, Nuxt UI & TailwindCSS v4 alapú webes felület.
                 </p>
               </div>
@@ -294,13 +292,13 @@
             </div>
 
             <!-- Backend Repo Card -->
-            <div class="p-4 rounded-xl bg-white/5 border border-white/10 flex flex-col justify-between space-y-3">
+            <div class="p-4 rounded-xl bg-white/5 border border-white/5 flex flex-col justify-between space-y-3">
               <div>
-                <div class="flex items-center gap-2 text-paper font-bold text-sm">
-                  <UIcon name="i-lucide-server" class="w-4 h-4 text-cyan-400"/>
+                <div class="flex items-center gap-2 text-paper font-body font-bold text-sm">
+                  <UIcon name="i-lucide-server" class="w-4 h-4 text-marquee"/>
                   <span>Backend / Preprocessor</span>
                 </div>
-                <p class="text-xs text-fog mt-1">
+                <p class="text-xs text-fog font-body mt-1">
                   YouTube adatok kinyerését és TMDB integrációt végző feldolgozó. (Nest.js)
                 </p>
               </div>
@@ -321,10 +319,10 @@
       </UCard>
 
       <!-- 7. HOBBI PROJEKT & JOGI NYILATKOZAT -->
-      <UCard variant="subtle" class="bg-ink-soft/40 border-white/10">
-        <div class="space-y-4 text-xs text-fog leading-relaxed">
+      <UCard variant="subtle" class="bg-ink-soft/40 border-white/5">
+        <div class="space-y-4 text-xs text-fog leading-relaxed font-body">
           <div class="flex items-center gap-2 text-paper font-bold text-sm">
-            <UIcon name="i-lucide-heart" class="w-4 h-4 text-rose-500"/>
+            <UIcon name="i-lucide-heart" class="w-4 h-4 text-marquee"/>
             <span>Hobbi Projekt Nyilatkozat</span>
           </div>
 
@@ -350,15 +348,3 @@
     </div>
   </div>
 </template>
-
-<script setup lang="ts">
-useHead({
-  title: 'Rólunk és Hogyan működik? - Filmbarátok Info',
-  meta: [
-    {
-      name: 'description',
-      content: 'Tudd meg, hogyan épül fel a Filmbarátok Info rajongói archívum, hogyan működik a YouTube és TMDB adatfeldolgozási folyamat.'
-    }
-  ]
-})
-</script>
