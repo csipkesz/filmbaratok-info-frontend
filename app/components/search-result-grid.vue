@@ -83,6 +83,7 @@ import Fuse from 'fuse.js'
 import type {MediaIndexItem} from '~/models/indexes/media-index-item.ts'
 import MediaCard from '~/components/media-card.vue'
 import MediaContentModal from '~/components/media-content-modal.vue'
+import {getYouTubeUrl} from "~/utils/get-youtube-url.ts";
 
 const PAGE_SIZE = 20
 
@@ -146,12 +147,7 @@ function handleMediaSelect(media: MediaIndexItem) {
   if (media.contents.length === 1) {
     const content = media.contents[0]
     if (content?.youtubeId) {
-      let url = 'https://www.youtube.com/watch?v=' + content.youtubeId
-      if (content.timestampInSeconds) {
-        url += `&t=${content.timestampInSeconds}s`
-      }
-
-      window.open(url, '_blank', 'noopener,noreferrer')
+      window.open(getYouTubeUrl(content.youtubeId, content.timestampInSeconds), '_blank', 'noopener,noreferrer')
     }
   } else {
     selectedMedia.value = media

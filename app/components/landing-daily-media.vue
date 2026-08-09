@@ -107,6 +107,7 @@ import type {MediaIndexItem} from "~/models/indexes/media-index-item.ts";
 import type {MediaDetail} from "~/models/media-detail.ts";
 import {ref} from "vue";
 import MediaContentModal from "~/components/media-content-modal.vue";
+import {getYouTubeUrl} from "~/utils/get-youtube-url.ts";
 
 const TMDB_POSTER_BASE = 'https://image.tmdb.org/t/p/w500'
 
@@ -168,12 +169,7 @@ function handleMediaSelect() {
   if (selectedMedia.value.contents.length === 1) {
     const content = selectedMedia.value.contents[0]
     if (content?.youtubeId) {
-      let url = `https://www.youtube.com/watch?v=${content.youtubeId}`
-      if (content.timestampInSeconds) {
-        url += `&t=${content.timestampInSeconds}s`
-      }
-
-      window.open(url, '_blank', 'noopener,noreferrer')
+      window.open(getYouTubeUrl(content.youtubeId, content.timestampInSeconds), '_blank', 'noopener,noreferrer')
     }
   } else {
     isModalOpen.value = true

@@ -98,6 +98,8 @@
 <script setup lang="ts">
 import {computed} from 'vue'
 import type {MediaIndexItem} from '~/models/indexes/media-index-item.ts'
+import {getYouTubeUrl} from "~/utils/get-youtube-url.ts";
+
 
 const TMDB_POSTER_BASE = 'https://image.tmdb.org/t/p/w500'
 
@@ -148,14 +150,5 @@ function formatTimestamp(seconds?: number): string {
     return `${hrs}:${String(mins).padStart(2, '0')}:${String(secs).padStart(2, '0')}`
   }
   return `${mins}:${String(secs).padStart(2, '0')}`
-}
-
-//TODO: Extract to composable or idk
-function getYouTubeUrl(youtubeId: string, timestampInSeconds?: number): string {
-  let url = `https://www.youtube.com/watch?v=${youtubeId}`
-  if (timestampInSeconds && timestampInSeconds > 0) {
-    url += `&t=${timestampInSeconds}s`
-  }
-  return url
 }
 </script>

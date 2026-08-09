@@ -111,6 +111,7 @@ import {computed, onMounted, ref, watch} from 'vue'
 import {useIntersectionObserver} from '@vueuse/core'
 import type {MediaIndexItem} from "~/models/indexes/media-index-item.ts";
 import Fuse from "fuse.js";
+import {getYouTubeUrl} from "~/utils/get-youtube-url.ts";
 
 useHead({
   title: 'Filmbarátok info - Kibeszélt tartalmak',
@@ -226,12 +227,7 @@ function handleMediaSelect(media: MediaIndexItem) {
   if (media.contents.length === 1) {
     const content = media.contents[0]
     if (content?.youtubeId) {
-      let url = `https://www.youtube.com/watch?v=${content.youtubeId}`
-      if (content.timestampInSeconds) {
-        url += `&t=${content.timestampInSeconds}s`
-      }
-
-      window.open(url, '_blank', 'noopener,noreferrer')
+      window.open(getYouTubeUrl(content.youtubeId, content.timestampInSeconds), '_blank', 'noopener,noreferrer')
     }
   } else {
     selectedMedia.value = media
