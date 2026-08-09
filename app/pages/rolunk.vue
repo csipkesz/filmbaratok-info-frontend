@@ -303,7 +303,7 @@
                 </p>
               </div>
               <UButton
-                  to="https://github.com/csipkesz"
+                  to="https://github.com/csipkesz/youtube-info-export"
                   target="_blank"
                   color="neutral"
                   variant="subtle"
