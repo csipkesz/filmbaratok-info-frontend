@@ -44,6 +44,8 @@ AI was used selectively with human oversight to avoid unverified or unmaintainab
 - Manual Corrections Needed: ~100-200 entries
 - Data Sources: YouTube Data API v3 and TMDB API
 
+> Data parsing in the other repository: [youtube-info-export](https://github.com/csipkesz/youtube-info-export)
+
 ---
 
 ## Tech Stack
