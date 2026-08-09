@@ -5,6 +5,7 @@ export default defineNuxtConfig({
     modules: ['@nuxt/icon', '@nuxt/ui'],
     css: ['~/assets/css/main.css'],
     app: {
+        baseURL: '/filmbaratok-info-frontend/',
         head: {
             link: [
                 {rel: 'preconnect', href: 'https://fonts.googleapis.com'},
