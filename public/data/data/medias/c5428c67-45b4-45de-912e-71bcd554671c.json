@@ -1,0 +1,45 @@
+{
+  "id": "c5428c67-45b4-45de-912e-71bcd554671c",
+  "title": "Ítélet Nürnbergben",
+  "originalTitle": "Judgment at Nuremberg",
+  "overview": "In 1947, four German judges who served on the bench during the Nazi regime face a military tribunal to answer charges of crimes against humanity. Chief Justice Haywood hears evidence and testimony not only from lead defendant Ernst Janning and his defense attorney Hans Rolfe, but also from the widow of a Nazi general, an idealistic U.S. Army captain and reluctant witness Irene Wallner.",
+  "backdropPath": "/aSlDcWtKNfRkW0SbsnEjnGBs9jV.jpg",
+  "posterPath": "/b6vYatvui1EXeFYfpDX4rcbueuP.jpg",
+  "releaseDate": "1961-12-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9a20d7f1-ed23-4dbf-939d-9887fd0511a0",
+      "title": "Ítélet Nürnbergben",
+      "subtitle": null,
+      "timestampString": "04:08:30",
+      "timestampInSeconds": 14910,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #91",
+        "youtubeId": "G-6KMqIQhQQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/G-6KMqIQhQQ/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1454001243000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

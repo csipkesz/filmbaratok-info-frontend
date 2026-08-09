@@ -1,0 +1,45 @@
+{
+  "id": "0ab2a005-3b91-4257-9530-00aeedf237ad",
+  "title": "Mad Max 3",
+  "originalTitle": null,
+  "overview": null,
+  "backdropPath": null,
+  "posterPath": null,
+  "releaseDate": null,
+  "topics": [
+    {
+      "id": "61168e46-83aa-4404-985c-adbc17de610e",
+      "title": "Mad Max 3",
+      "subtitle": null,
+      "timestampString": "02:38:40",
+      "timestampInSeconds": 9520,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #266",
+        "youtubeId": "N4U228aSkd8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/N4U228aSkd8/hqdefault.jpg",
+        "durationInMinutes": 221,
+        "releaseDate": 1700081301000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

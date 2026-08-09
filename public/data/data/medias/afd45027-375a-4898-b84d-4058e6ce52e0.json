@@ -1,0 +1,49 @@
+{
+  "id": "afd45027-375a-4898-b84d-4058e6ce52e0",
+  "title": "Bad Boys – Mindent vagy többet",
+  "originalTitle": "Bad Boys: Ride or Die",
+  "overview": "After their late former Captain is framed, Lowrey and Burnett try to clear his name, only to end up on the run themselves.",
+  "backdropPath": "/3q01ACG0MWm0DekhvkPFCXyPZSu.jpg",
+  "posterPath": "/oGythE98MYleE6mZlGs5oBGkux1.jpg",
+  "releaseDate": "2024-06-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "37b2fa1b-bbd4-4e08-bf19-dcb7653d14ff",
+      "title": "Bad Boys – Mindent vagy többet",
+      "subtitle": null,
+      "timestampString": "02:24:36",
+      "timestampInSeconds": 8676,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #280",
+        "youtubeId": "hOuoPd65teo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/hOuoPd65teo/hqdefault.jpg",
+        "durationInMinutes": 259,
+        "releaseDate": 1718650807000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

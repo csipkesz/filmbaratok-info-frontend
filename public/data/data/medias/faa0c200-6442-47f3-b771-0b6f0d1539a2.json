@@ -1,0 +1,45 @@
+{
+  "id": "faa0c200-6442-47f3-b771-0b6f0d1539a2",
+  "title": "Sikoly széria",
+  "originalTitle": null,
+  "overview": null,
+  "backdropPath": null,
+  "posterPath": null,
+  "releaseDate": null,
+  "topics": [
+    {
+      "id": "09efdc53-b17d-4ab0-a2fe-f46fc1433343",
+      "title": "Sikoly széria",
+      "subtitle": null,
+      "timestampString": "01:42:51",
+      "timestampInSeconds": 6171,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #72",
+        "youtubeId": "Mkw8rsdw7bc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Mkw8rsdw7bc/hqdefault.jpg",
+        "durationInMinutes": 199,
+        "releaseDate": 1430242149000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

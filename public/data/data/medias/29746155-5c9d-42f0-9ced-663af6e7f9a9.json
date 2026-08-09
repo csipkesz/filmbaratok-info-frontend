@@ -1,0 +1,41 @@
+{
+  "id": "29746155-5c9d-42f0-9ced-663af6e7f9a9",
+  "title": "A szobalány",
+  "originalTitle": "아가씨",
+  "overview": "1930s Korea, in the period of Japanese occupation, a new girl, Sook-hee, is hired as a handmaiden to a Japanese heiress, Hideko, who lives a secluded life on a large countryside estate with her domineering Uncle Kouzuki. But the maid has a secret. She is a pickpocket recruited by a swindler posing as a Japanese Count to help him seduce the Lady to steal her fortune.",
+  "backdropPath": "/3upEZ0ltY7WwOSFVXrtiP34D48p.jpg",
+  "posterPath": "/dLlH4aNHdnmf62umnInL8xPlPzw.jpg",
+  "releaseDate": "2016-06-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e64058fd-eca4-43f2-b8d1-3356e3f0dfa4",
+      "title": "A szobalány",
+      "subtitle": null,
+      "timestampString": "01:23:13",
+      "timestampInSeconds": 4993,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #116",
+        "youtubeId": "z6ZDT1e89XY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z6ZDT1e89XY/hqdefault.jpg",
+        "durationInMinutes": 146,
+        "releaseDate": 1487003611000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

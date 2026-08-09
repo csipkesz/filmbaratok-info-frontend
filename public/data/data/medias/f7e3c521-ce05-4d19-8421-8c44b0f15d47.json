@@ -1,0 +1,45 @@
+{
+  "id": "f7e3c521-ce05-4d19-8421-8c44b0f15d47",
+  "title": "A blair-i boszorkány átka",
+  "originalTitle": "Curse of the Blair Witch",
+  "overview": "A mockumentary exploring the legend of the Blair Witch and the case of the three missing student filmmakers.",
+  "backdropPath": "/je9wFiDIPg6pp9TWmoyHJNyoRRJ.jpg",
+  "posterPath": "/e7AvQaI3k60HGGEso1t3KNjTuDW.jpg",
+  "releaseDate": "1999-07-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6b10758b-f024-4f30-a734-496a95ba4787",
+      "title": "A blair-i boszorkány átka",
+      "subtitle": null,
+      "timestampString": "03:50:27",
+      "timestampInSeconds": 13827,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #243",
+        "youtubeId": "gCWkf0UnSwY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gCWkf0UnSwY/hqdefault.jpg",
+        "durationInMinutes": 296,
+        "releaseDate": 1668706204000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

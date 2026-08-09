@@ -1,0 +1,41 @@
+{
+  "id": "6c5da1a6-1763-4e58-8b75-33f24c48dc16",
+  "title": "Bűbáj és kéjelgés",
+  "originalTitle": "Las brujas de Zugarramurdi",
+  "overview": "A gang of gold thieves land in a coven of witches who are preparing for an ancient ritual... and in need of a sacrifice.",
+  "backdropPath": "/ekbjXIaXUSACuMHUdTCToZq9IvG.jpg",
+  "posterPath": "/u7w6vghlbz8xDUZRayOXma3Ax96.jpg",
+  "releaseDate": "2013-09-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a58a15c5-a26d-4d66-b950-6e51b2bc1e98",
+      "title": "Bűbáj és kéjelgés",
+      "subtitle": null,
+      "timestampString": "02:12:43",
+      "timestampInSeconds": 7963,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #54",
+        "youtubeId": "z2MBRvmBR0k",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z2MBRvmBR0k/hqdefault.jpg",
+        "durationInMinutes": 188,
+        "releaseDate": 1406308806000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

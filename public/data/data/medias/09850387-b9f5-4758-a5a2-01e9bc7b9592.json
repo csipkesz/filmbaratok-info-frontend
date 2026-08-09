@@ -1,0 +1,75 @@
+{
+  "id": "09850387-b9f5-4758-a5a2-01e9bc7b9592",
+  "title": "A galaxis őrzői",
+  "originalTitle": "Marvel's Guardians of the Galaxy",
+  "overview": "Űrlord, a pimasz kalandor a Világegyetem megmentése érdekében összefog négy elszánt különccel. A csapat tagjai a közönségkedvenc Mordály nevű mosómedve, a Groot névre hallgató élőfára emlékeztető lény, a titokzatos katona, Gamora valamint Drax, a nyers modorú pusztító. Együtt bárkivel megküzdenek, hogy megmentsék a világot.",
+  "backdropPath": "/9yAhhj9toqP9z6CeoMbhJdNhXN3.jpg",
+  "posterPath": "/oXwe3wVhdvvxiixL9UJf6PgBybZ.jpg",
+  "releaseDate": "2015-09-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1d5ef3e2-1b67-49a1-b22a-aaa8c35edcbc",
+      "title": "A galaxis őrzői",
+      "subtitle": null,
+      "timestampString": "01:34:52",
+      "timestampInSeconds": 5692,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #57",
+        "youtubeId": "NItQ0G4BTsQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/NItQ0G4BTsQ/hqdefault.jpg",
+        "durationInMinutes": 177,
+        "releaseDate": 1410890684000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    },
+    {
+      "id": "71b55fee-7711-4890-b255-0c05e6194d61",
+      "title": "A galaxis őrzői",
+      "subtitle": null,
+      "timestampString": "01:02:45",
+      "timestampInSeconds": 3765,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #56",
+        "youtubeId": "IGq19Ebu3DU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IGq19Ebu3DU/hqdefault.jpg",
+        "durationInMinutes": 199,
+        "releaseDate": 1409327568000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

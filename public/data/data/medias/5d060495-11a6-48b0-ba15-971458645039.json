@@ -1,0 +1,45 @@
+{
+  "id": "5d060495-11a6-48b0-ba15-971458645039",
+  "title": "Az ördögűző: A hívő",
+  "originalTitle": "The Exorcist: Believer",
+  "overview": "Since his wife's death, Victor has raised his daughter Angela alone. After she and her friend return from a three-day disappearance with missing memories, they begin displaying frightening behavior reminiscent of the MacNeil possession fifty years prior.",
+  "backdropPath": "/d7zDEW6AkRCvEOT2Cela4h0F3Nb.jpg",
+  "posterPath": "/fFXkAlMH2iQrNknv4eq7LGTkcti.jpg",
+  "releaseDate": "2023-10-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7f4e8d6a-b8d9-419f-be57-ede788bf35a2",
+      "title": "Az ördögűző: A hívő",
+      "subtitle": null,
+      "timestampString": "01:25:36",
+      "timestampInSeconds": 5136,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #265",
+        "youtubeId": "W7K_jzS7pPg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/W7K_jzS7pPg/hqdefault.jpg",
+        "durationInMinutes": 254,
+        "releaseDate": 1698781502000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

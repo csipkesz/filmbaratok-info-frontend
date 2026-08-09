@@ -1,0 +1,45 @@
+{
+  "id": "23afa684-9b67-4be7-86e6-012dca8b0513",
+  "title": "A szent hegy",
+  "originalTitle": "La montaña sagrada",
+  "overview": "The Alchemist assembles together a group of people from all walks of life to represent the planets in the solar system. The occult adept's intention is to put his recruits through strange mystical rites and divest them of their worldly baggage before embarking on a trip to Lotus Island. There they ascend the Holy Mountain to displace the immortal gods who secretly rule the universe.",
+  "backdropPath": "/oUceCsSe255ZKXCMsHhqXM1xuUp.jpg",
+  "posterPath": "/oaOyrFD4ZyZZwjO8wc4b12XHcgZ.jpg",
+  "releaseDate": "1973-11-29T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8d96c9b8-66db-4060-9e24-deb23b0efc28",
+      "title": "A szent hegy",
+      "subtitle": null,
+      "timestampString": "02:31:30",
+      "timestampInSeconds": 9090,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #157",
+        "youtubeId": "IAfkWR4qRU4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IAfkWR4qRU4/hqdefault.jpg",
+        "durationInMinutes": 222,
+        "releaseDate": 1545146746000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

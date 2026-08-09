@@ -1,0 +1,41 @@
+{
+  "id": "540d602f-57eb-4668-ac08-e4d4ae5c7b4f",
+  "title": "A katonaszökevény (Blood & Gold)",
+  "originalTitle": "Blood & Gold",
+  "overview": "At the end of World War II, a German soldier is looking for his daughter while an SS troop is looking for a Jewish treasure.",
+  "backdropPath": "/aCqsz1Wol8QImZPa3AjecpZPCpy.jpg",
+  "posterPath": "/oLRQP5cEjiT1DxeIHUYEV96Ijum.jpg",
+  "releaseDate": "2023-04-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d78f7998-7297-4c45-b642-17ce7f496041",
+      "title": "A katonaszökevény (Blood & Gold)",
+      "subtitle": null,
+      "timestampString": "02:42:00",
+      "timestampInSeconds": 9720,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #270",
+        "youtubeId": "Hk6gv0cu8TY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Hk6gv0cu8TY/hqdefault.jpg",
+        "durationInMinutes": 222,
+        "releaseDate": 1705227394000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

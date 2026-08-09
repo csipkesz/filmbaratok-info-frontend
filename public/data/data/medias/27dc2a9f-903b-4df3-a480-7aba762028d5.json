@@ -1,0 +1,45 @@
+{
+  "id": "27dc2a9f-903b-4df3-a480-7aba762028d5",
+  "title": "Térkép a csillagokhoz",
+  "originalTitle": "Maps to the Stars",
+  "overview": "Driven by an intense need for fame and validation, members of a dysfunctional Hollywood family chase celebrity, one another, and the relentless ghosts of their pasts. Their fragile ecosystem is disrupted by the arrival of Agatha, the scarred and estranged pyromaniac daughter.",
+  "backdropPath": "/ytwTVas9vms9dh510TX5i25gV7e.jpg",
+  "posterPath": "/aoMNfiaMmT7o7wY8oXWCLErZtah.jpg",
+  "releaseDate": "2014-05-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e8138c51-77a8-4dc5-a1b7-3d3f25cc58fe",
+      "title": "Térkép a csillagokhoz",
+      "subtitle": null,
+      "timestampString": "01:58:06",
+      "timestampInSeconds": 7086,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #57",
+        "youtubeId": "NItQ0G4BTsQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/NItQ0G4BTsQ/hqdefault.jpg",
+        "durationInMinutes": 177,
+        "releaseDate": 1410890684000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

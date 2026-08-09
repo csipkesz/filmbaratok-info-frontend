@@ -1,0 +1,45 @@
+{
+  "id": "fe098877-7e97-40a0-b400-8b871e669399",
+  "title": "Ryan közlegény megmentése",
+  "originalTitle": "Saving Private Ryan",
+  "overview": "As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.",
+  "backdropPath": "/bdD39MpSVhKjxarTxLSfX6baoMP.jpg",
+  "posterPath": "/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+  "releaseDate": "1998-07-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "cea83c52-f7d4-4c09-bb20-e8635ac30c84",
+      "title": "Ryan közlegény megmentése",
+      "subtitle": null,
+      "timestampString": "02:40:40",
+      "timestampInSeconds": 9640,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #211",
+        "youtubeId": "e7FpksPcoKY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/e7FpksPcoKY/hqdefault.jpg",
+        "durationInMinutes": 232,
+        "releaseDate": 1621526653000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

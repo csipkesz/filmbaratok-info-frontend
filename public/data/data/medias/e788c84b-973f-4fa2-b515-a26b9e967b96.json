@@ -1,0 +1,45 @@
+{
+  "id": "e788c84b-973f-4fa2-b515-a26b9e967b96",
+  "title": "Amszterdam",
+  "originalTitle": "Amsterdam",
+  "overview": "In the 1930s, three friends—a doctor, a nurse, and an attorney—witness a murder, become suspects themselves and uncover one of the most outrageous plots in American history.",
+  "backdropPath": "/qyI3NAVrzq0THorufGdY91CK0Ea.jpg",
+  "posterPath": "/6sJcVzGCwrDCBMV0DU6eRzA2UxM.jpg",
+  "releaseDate": "2022-09-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e0a36109-cd26-4ceb-8870-0d3bfbe5b3ce",
+      "title": "Amszterdam",
+      "subtitle": null,
+      "timestampString": "01:33:40",
+      "timestampInSeconds": 5620,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #243",
+        "youtubeId": "gCWkf0UnSwY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gCWkf0UnSwY/hqdefault.jpg",
+        "durationInMinutes": 296,
+        "releaseDate": 1668706204000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

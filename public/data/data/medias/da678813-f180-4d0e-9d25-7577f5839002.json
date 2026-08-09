@@ -1,0 +1,45 @@
+{
+  "id": "da678813-f180-4d0e-9d25-7577f5839002",
+  "title": "Hősök szakasza",
+  "originalTitle": "Company of Heroes",
+  "overview": "American soldiers lost behind enemy lines during the WWII make a horrific discovery: Hitler has a super bomb in development. Against all odds, they set out to find the scientist in charge of the program who is looking to defect.",
+  "backdropPath": "/xBfz1YWWj5d7mv6h2iI7yPIZPWP.jpg",
+  "posterPath": "/sWeDlrWPETZpvf04j0Wt0r3I0QJ.jpg",
+  "releaseDate": "2013-02-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "54005564-23fd-47d4-92be-a311cd7462b9",
+      "title": "Hősök szakasza",
+      "subtitle": null,
+      "timestampString": "02:29:35",
+      "timestampInSeconds": 8975,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #274",
+        "youtubeId": "U5btDyv5pPk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/U5btDyv5pPk/hqdefault.jpg",
+        "durationInMinutes": 285,
+        "releaseDate": 1710534459000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "e21a9a0e-ab56-46df-8f43-bcaa552482ac",
+  "title": "Esemény [2021]",
+  "originalTitle": "L'Événement",
+  "overview": "France, 1963. Anne is a bright young student with a promising future ahead of her. But when she falls pregnant, she sees the opportunity to finish her studies and escape the constraints of her social background disappearing. With her final exams fast approaching and her belly growing, Anne resolves to act, even if she has to confront shame and pain, even if she must risk prison to do so.",
+  "backdropPath": "/gJUDmMfeoVopMNwWRmswWJQu4km.jpg",
+  "posterPath": "/f2lTAmLYpWpd8JxtJrMXFFGV9gZ.jpg",
+  "releaseDate": "2021-11-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "bc6e2dec-676a-44e3-b050-ef83deab5773",
+      "title": "Esemény [2021]",
+      "subtitle": null,
+      "timestampString": "02:35:40",
+      "timestampInSeconds": 9340,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #297",
+        "youtubeId": "3hKlobo8elk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3hKlobo8elk/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1740760443000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

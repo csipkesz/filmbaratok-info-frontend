@@ -1,0 +1,41 @@
+{
+  "id": "c2d14f6a-19ee-4dd7-91e3-212201168942",
+  "title": "Mielőtt meghaltam (Dallas Buyers Club)",
+  "originalTitle": "Dallas Buyers Club",
+  "overview": "Loosely based on the true-life tale of Ron Woodroof, a drug-taking, women-loving, homophobic man who in 1986 was diagnosed with HIV/AIDS and given thirty days to live.",
+  "backdropPath": "/sbVKj98cq0FztCukzu47bu0H8o7.jpg",
+  "posterPath": "/7Fdh7gUq3plvQqxRbNYhWvDABXA.jpg",
+  "releaseDate": "2013-11-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6a6c0a09-a09b-49f8-aa7f-cbd7eb344d93",
+      "title": "Mielőtt meghaltam (Dallas Buyers Club)",
+      "subtitle": null,
+      "timestampString": "00:05:31",
+      "timestampInSeconds": 331,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #46 (Oscar 2014)",
+        "youtubeId": "BjIg8Ny1Bfg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/BjIg8Ny1Bfg/hqdefault.jpg",
+        "durationInMinutes": 145,
+        "releaseDate": 1393580650000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

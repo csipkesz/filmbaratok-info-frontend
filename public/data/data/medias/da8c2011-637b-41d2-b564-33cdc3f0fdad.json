@@ -1,0 +1,45 @@
+{
+  "id": "da8c2011-637b-41d2-b564-33cdc3f0fdad",
+  "title": "A hullám",
+  "originalTitle": "Die Welle",
+  "overview": "A school teacher discusses types of government with his class. His students find it too boring to repeatedly go over national socialism and believe that dictatorship cannot be established in modern Germany. He starts an experiment to show how easily the masses can become manipulated.",
+  "backdropPath": "/bxQT6xCjejpGtgKl0QH8WUtrs33.jpg",
+  "posterPath": "/vtJ4u0fpTZhibxAJHzXtcdCxhsL.jpg",
+  "releaseDate": "2008-03-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a44d5e10-7a80-4086-bcc6-ae9c761aefaf",
+      "title": "A hullám",
+      "subtitle": null,
+      "timestampString": "03:07:55",
+      "timestampInSeconds": 11275,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #259",
+        "youtubeId": "pSiJphe8S5U",
+        "thumbnailUrl": "https://i.ytimg.com/vi/pSiJphe8S5U/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1690581661000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "465eb549-2e74-46d4-9d72-df2e21471883",
+            "name": "Anna"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

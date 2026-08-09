@@ -1,0 +1,41 @@
+{
+  "id": "3960e1e2-cbaa-4de4-ab2f-b5f8f5b04fe0",
+  "title": "Dr. Moreau szigete",
+  "originalTitle": "The Island of Dr. Moreau",
+  "overview": "A plane crash surviving attorney stumbles upon a mysterious island and is shocked to discover that a brilliant scientist and his lab assistant have found a way to combine human and animal DNA—with horrific results.",
+  "backdropPath": "/5kAeJB8wR1Be0EFG7QjKdwFfHx7.jpg",
+  "posterPath": "/hOJeQXve8W9rNRhdgC1WV3GQJyA.jpg",
+  "releaseDate": "1996-08-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d0643d66-c5e1-49c5-a748-09f537ca68f5",
+      "title": "Dr. Moreau szigete",
+      "subtitle": null,
+      "timestampString": "02:03:05",
+      "timestampInSeconds": 7385,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #267",
+        "youtubeId": "fjGmqt2DQZg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fjGmqt2DQZg/hqdefault.jpg",
+        "durationInMinutes": 201,
+        "releaseDate": 1701380416000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

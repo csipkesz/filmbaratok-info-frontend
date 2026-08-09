@@ -1,0 +1,45 @@
+{
+  "id": "b1e380da-da67-41f7-87a8-d5241bf828d9",
+  "title": "A dicsőség ösvényei",
+  "originalTitle": "Paths of Glory",
+  "overview": "A commanding officer defends three scapegoats on trial for a failed offensive that occurred within the French Army in 1916.",
+  "backdropPath": "/nbMY2UcNnaAr3jrrowzN0NaxQyr.jpg",
+  "posterPath": "/hGg1UCQSHlXfv2HI9bDHT2OQBam.jpg",
+  "releaseDate": "1957-10-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1e88af9e-2c88-402f-9716-4e5be08f5c24",
+      "title": "A dicsőség ösvényei",
+      "subtitle": null,
+      "timestampString": "03:29:55",
+      "timestampInSeconds": 12595,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #185",
+        "youtubeId": "eq07jUces30",
+        "thumbnailUrl": "https://i.ytimg.com/vi/eq07jUces30/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1582698378000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

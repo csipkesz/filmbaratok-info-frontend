@@ -1,0 +1,45 @@
+{
+  "id": "de4cc8b3-243e-49d7-be3b-cb7770e1aa30",
+  "title": "Freaky",
+  "originalTitle": "Freaky",
+  "overview": "A mystical, ancient dagger causes a notorious serial killer to magically switch bodies with a 17-year-old girl.",
+  "backdropPath": "/ngpC8wikrZDnhjkFQMEjWSh7HAV.jpg",
+  "posterPath": "/8xC6QSyxrpm0D5A6iyHNemEWBVe.jpg",
+  "releaseDate": "2020-11-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c3d8b3a8-277c-4ee5-ab9f-2edd6e7259af",
+      "title": "Freaky",
+      "subtitle": null,
+      "timestampString": "01:35:05",
+      "timestampInSeconds": 5705,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #215",
+        "youtubeId": "J6qemr4xa1Y",
+        "thumbnailUrl": "https://i.ytimg.com/vi/J6qemr4xa1Y/hqdefault.jpg",
+        "durationInMinutes": 287,
+        "releaseDate": 1627662350000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "0e1ddb81-a83e-4a0c-8e88-0ad5fd795ed3",
+  "title": "Vérapó",
+  "originalTitle": "Violent Night",
+  "overview": "When a team of mercenaries breaks into a wealthy family compound on Christmas Eve, taking everyone inside hostage, the team isn’t prepared for a surprise combatant: Santa Claus is on the grounds, and he’s about to show why this Nick is no saint.",
+  "backdropPath": "/sBOenwOZGRN5nZZGw4TxwtnfrEf.jpg",
+  "posterPath": "/e8CpMgdyihz9Td7amQDqubPuzfN.jpg",
+  "releaseDate": "2022-11-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "346b0074-e18e-48fb-b13a-84922017dc2a",
+      "title": "Vérapó",
+      "subtitle": null,
+      "timestampString": "01:35:48",
+      "timestampInSeconds": 5748,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #245",
+        "youtubeId": "thnBmMbVpOo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/thnBmMbVpOo/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1671033623000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

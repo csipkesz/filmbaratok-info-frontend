@@ -1,0 +1,41 @@
+{
+  "id": "53477452-12e0-47fa-94f8-396356c4fb48",
+  "title": "Sötét vizeken",
+  "originalTitle": "Dark Waters",
+  "overview": "A tenacious attorney uncovers a dark secret that connects a growing number of unexplained deaths to one of the world's largest corporations. In the process, he risks everything — his future, his family, and his own life — to expose the truth.",
+  "backdropPath": "/jRqHItD7rORpbB0lx2ke8StSntb.jpg",
+  "posterPath": "/bzvzaHqKBSuGIIWhinTQPHvT0zf.jpg",
+  "releaseDate": "2019-11-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "68c131b5-52a8-4add-aa4b-456f56924add",
+      "title": "Sötét vizeken",
+      "subtitle": null,
+      "timestampString": "00:38:10",
+      "timestampInSeconds": 2290,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #186",
+        "youtubeId": "LvzEUgrbuec",
+        "thumbnailUrl": "https://i.ytimg.com/vi/LvzEUgrbuec/hqdefault.jpg",
+        "durationInMinutes": 214,
+        "releaseDate": 1584373994000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

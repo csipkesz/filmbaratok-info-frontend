@@ -1,0 +1,45 @@
+{
+  "id": "59a4afbb-e927-42f1-a4d7-856f26396637",
+  "title": "Én, Earl és a csaj, aki meg fog halni",
+  "originalTitle": "Me and Earl and the Dying Girl",
+  "overview": "Greg is coasting through senior year of high school as anonymously as possible, avoiding social interactions like the plague while secretly making spirited, bizarre films with Earl, his only friend. But both his anonymity and friendship threaten to unravel when his mother forces him to befriend a classmate with leukemia.",
+  "backdropPath": "/lVxghFSapjwSE6PRMb4IX4PJ834.jpg",
+  "posterPath": "/eLjS2bLMjln2n2I73Xu6TaANPDZ.jpg",
+  "releaseDate": "2015-06-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "43e4ae7b-6609-42b7-a76e-3a8f4a5c9be6",
+      "title": "Én, Earl és a csaj, aki meg fog halni",
+      "subtitle": null,
+      "timestampString": "01:11:25",
+      "timestampInSeconds": 4285,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #82",
+        "youtubeId": "g8wdyUhhVtI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/g8wdyUhhVtI/hqdefault.jpg",
+        "durationInMinutes": 170,
+        "releaseDate": 1443630602000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

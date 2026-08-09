@@ -1,0 +1,45 @@
+{
+  "id": "fb7e85a5-45cd-4bc4-aa5e-2ce2faf5167e",
+  "title": "Megfojtott virágok",
+  "originalTitle": "Killers of the Flower Moon",
+  "overview": "When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one—until the FBI steps in to unravel the mystery.",
+  "backdropPath": "/acvE3RWjDLgvbL2RtcyzkrsAyNV.jpg",
+  "posterPath": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+  "releaseDate": "2023-10-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "58a7f6db-dcb3-4c7f-b9d3-b5730ef84d16",
+      "title": "Megfojtott virágok",
+      "subtitle": null,
+      "timestampString": "01:50:37",
+      "timestampInSeconds": 6637,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #265",
+        "youtubeId": "W7K_jzS7pPg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/W7K_jzS7pPg/hqdefault.jpg",
+        "durationInMinutes": 254,
+        "releaseDate": 1698781502000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

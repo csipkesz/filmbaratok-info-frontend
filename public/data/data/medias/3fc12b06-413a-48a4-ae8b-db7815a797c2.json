@@ -1,0 +1,45 @@
+{
+  "id": "3fc12b06-413a-48a4-ae8b-db7815a797c2",
+  "title": "Deszkások",
+  "originalTitle": "Grind",
+  "overview": "Four skaters follow their idol on his summer tour in an attempt to get noticed, get sponsored, and become stars themselves.",
+  "backdropPath": "/5DSsPOA54cb5ffIqJX9Dp5IKgtb.jpg",
+  "posterPath": "/3ijvfbWQYLaFQ2PaX6hywnMW3Hv.jpg",
+  "releaseDate": "2003-08-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "dd45b351-fbed-4efa-8e33-79cf259827fa",
+      "title": "Deszkások",
+      "subtitle": null,
+      "timestampString": "03:06:06",
+      "timestampInSeconds": 11166,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #248",
+        "youtubeId": "VCD8rEWrtzs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VCD8rEWrtzs/hqdefault.jpg",
+        "durationInMinutes": 221,
+        "releaseDate": 1674626980000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

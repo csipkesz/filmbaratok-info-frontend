@@ -1,0 +1,41 @@
+{
+  "id": "d133e178-9e10-4454-9a74-590154b16f4f",
+  "title": "Blokád",
+  "originalTitle": "Blokád",
+  "overview": "The fresh president of Hungary find himself in trouble with taxi drivers. The taxi drives are disappointed in the democracy and protesting against the drasticly raising gas prices. The drivers build blockades all over the capital.",
+  "backdropPath": "/1xzIPt74OUchBMDCs3CnG70d1JO.jpg",
+  "posterPath": "/ctuglYu60wK26o19kJcf7lmDdwg.jpg",
+  "releaseDate": "2022-10-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e9e66a9c-9c8a-45cb-9c4e-c65288cb3feb",
+      "title": "Blokád",
+      "subtitle": null,
+      "timestampString": "00:41:53",
+      "timestampInSeconds": 2513,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #242",
+        "youtubeId": "aT0O2kW4N38",
+        "thumbnailUrl": "https://i.ytimg.com/vi/aT0O2kW4N38/hqdefault.jpg",
+        "durationInMinutes": 223,
+        "releaseDate": 1667206800000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

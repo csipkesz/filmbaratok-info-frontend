@@ -1,0 +1,45 @@
+{
+  "id": "46f7e292-8c4d-4969-88d2-99e67228a781",
+  "title": "Maradj!",
+  "originalTitle": "Stay",
+  "overview": "Psychiatrist Sam Foster has a new patient, Henry Letham, who claims to be suicidal. In trying to diagnose him, Sam visits Henry's prior therapist and also finds Henry's mother -- even though Henry has said that he murdered both of his parents. As reality starts to contradict fact, Sam spirals into an unstable mental state. Then he finds a clue as to how and when Henry may try to kill himself, and races to try to stop him.",
+  "backdropPath": "/eUNQJ0XKHoGDDQzj1Y4WhE5zAFJ.jpg",
+  "posterPath": "/nrLZVP8jG0KBcabahRPp6UP7Oy2.jpg",
+  "releaseDate": "2005-09-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "16ab1c7a-7760-4588-bd61-d16afb794a69",
+      "title": "Maradj!",
+      "subtitle": null,
+      "timestampString": "01:09:03",
+      "timestampInSeconds": 4143,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #157",
+        "youtubeId": "IAfkWR4qRU4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IAfkWR4qRU4/hqdefault.jpg",
+        "durationInMinutes": 222,
+        "releaseDate": 1545146746000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

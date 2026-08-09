@@ -1,0 +1,58 @@
+{
+  "id": "09d2400e-99dd-47ac-a039-f002a1322fc9",
+  "title": "The Star Wars Holiday Special",
+  "originalTitle": "The Star Wars Holiday Special",
+  "overview": "Luke Skywalker and Han Solo battle evil Imperial forces to help Chewbacca reach his imperiled family on the Wookiee planet - in time for Life Day, their most important day of the year!",
+  "backdropPath": "/sPD0PDHStJo619mJzCrBuuYrN1o.jpg",
+  "posterPath": "/lGJDx7RCgyMMa3owtp150umMnnJ.jpg",
+  "releaseDate": "1978-11-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "40fe4959-3cde-46d9-81e8-13423d73bc89",
+      "title": "The Star Wars Holiday Special",
+      "subtitle": null,
+      "timestampString": "02:17:05",
+      "timestampInSeconds": 8225,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #123",
+        "youtubeId": "bURb6dAUghs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/bURb6dAUghs/hqdefault.jpg",
+        "durationInMinutes": 147,
+        "releaseDate": 1497253469000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cdd3564c-209d-49ea-85e7-9fcadecc2bc3",
+      "title": "The Star Wars Holiday Special",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "AUDIO_COMMENTARY",
+        "title": "Filmbarátok Audiokommentár: The Star Wars Holiday Special",
+        "youtubeId": "nT99LQIhFUQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nT99LQIhFUQ/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1497253279000,
+        "participants": []
+      }
+    }
+  ]
+}

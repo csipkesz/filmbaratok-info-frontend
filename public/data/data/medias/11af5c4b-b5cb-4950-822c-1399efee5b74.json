@@ -1,0 +1,28 @@
+{
+  "id": "11af5c4b-b5cb-4950-822c-1399efee5b74",
+  "title": "Dear Zachary",
+  "originalTitle": null,
+  "overview": null,
+  "backdropPath": null,
+  "posterPath": null,
+  "releaseDate": null,
+  "topics": [
+    {
+      "id": "1add92e2-e891-458d-a7a8-4e40816502b3",
+      "title": "Dear Zachary",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Dear Zachary",
+        "youtubeId": "_tUlH_aH624",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_tUlH_aH624/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1525880973000,
+        "participants": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "0b53982a-3058-44f6-9615-0d6be489ba4d",
+  "title": "Adsz vagy kapsz",
+  "originalTitle": "Trick 'r Treat",
+  "overview": "Four interwoven stories that occur on Halloween: an everyday high school principal has a secret life as a serial killer; a college virgin might have just met the one guy for her; a group of teenagers pull a mean prank, and a bitter old recluse receives an uninvited guest.",
+  "backdropPath": "/wYI3r4DGKhwjPoDpfPfGdLMrPLt.jpg",
+  "posterPath": "/w0nmol4g7n6MFfhfphV7GzHHYjB.jpg",
+  "releaseDate": "2007-12-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "bfc916db-5e09-49f4-9222-968ffff34415",
+      "title": "Adsz vagy kapsz",
+      "subtitle": null,
+      "timestampString": "03:31:42",
+      "timestampInSeconds": 12702,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #241",
+        "youtubeId": "wkIRMrjPzTE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wkIRMrjPzTE/hqdefault.jpg",
+        "durationInMinutes": 228,
+        "releaseDate": 1665676839000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

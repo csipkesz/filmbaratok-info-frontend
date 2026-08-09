@@ -1,0 +1,45 @@
+{
+  "id": "8520bea6-4e1b-4330-af16-736a7ced2afe",
+  "title": "Büntető ököl / Brawl in Cell Block 99",
+  "originalTitle": "Brawl in Cell Block 99",
+  "overview": "After working as a drug courier and getting into a brutal shootout with police, a former boxer finds himself at the mercy of his enemies as they force him to instigate violent acts that turn the prison he resides in into a battleground.",
+  "backdropPath": "/ct2r3CqnA0KtMfib4AvfBU1W9M2.jpg",
+  "posterPath": "/39daqfOgnLjz9alwcNkZAGEbUry.jpg",
+  "releaseDate": "2017-09-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "23a39b55-d721-40c1-9012-02f28b540c9d",
+      "title": "Büntető ököl / Brawl in Cell Block 99",
+      "subtitle": null,
+      "timestampString": "03:59:10",
+      "timestampInSeconds": 14350,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #169",
+        "youtubeId": "-bLznzpWJe8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-bLznzpWJe8/hqdefault.jpg",
+        "durationInMinutes": 317,
+        "releaseDate": 1559569793000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

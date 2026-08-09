@@ -1,0 +1,45 @@
+{
+  "id": "eced064f-b49d-4406-80c9-529c0dcfc02a",
+  "title": "Betörő az albérlőm [2004]",
+  "originalTitle": "The Ladykillers",
+  "overview": "An eccentric, if not charming Southern professor and his crew pose as a band in order to rob a casino, all under the nose of his unsuspecting landlord – a sharp old woman.",
+  "backdropPath": "/mdaBC7yEcorGC4uI9U5CEyfWsvK.jpg",
+  "posterPath": "/l4g9R39NCp6VaYFrw6q8JwKNW9x.jpg",
+  "releaseDate": "2004-03-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "cd9bbb58-4261-45fc-b10f-79981a2ad2ce",
+      "title": "Betörő az albérlőm [2004]",
+      "subtitle": null,
+      "timestampString": "03:05:00",
+      "timestampInSeconds": 11100,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #238",
+        "youtubeId": "B0d915GjLlk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/B0d915GjLlk/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1661879000000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

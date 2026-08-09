@@ -1,0 +1,49 @@
+{
+  "id": "0c574811-3ed1-4e6d-afb7-eea9c96d8fe6",
+  "title": "A pápa ördögűzője",
+  "originalTitle": "The Pope's Exorcist",
+  "overview": "Father Gabriele Amorth, Chief Exorcist of the Vatican, investigates a young boy's terrifying possession and ends up uncovering a centuries-old conspiracy the Vatican has desperately tried to keep hidden.",
+  "backdropPath": "/3oqmk6mNWPatBKcjOOJLp5WW9zN.jpg",
+  "posterPath": "/jFC4LS5qTAT3PinzdEzINfu1CV9.jpg",
+  "releaseDate": "2023-04-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d828b3e0-03da-4639-80a4-95bcbd44f97e",
+      "title": "A pápa ördögűzője",
+      "subtitle": null,
+      "timestampString": "01:23:25",
+      "timestampInSeconds": 5005,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #253",
+        "youtubeId": "qh8K0plyKrk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/qh8K0plyKrk/hqdefault.jpg",
+        "durationInMinutes": 284,
+        "releaseDate": 1682442009000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          },
+          {
+            "id": "c304360d-e258-40c8-bf92-0d3d24111a33",
+            "name": "ChatGPT"
+          }
+        ]
+      }
+    }
+  ]
+}

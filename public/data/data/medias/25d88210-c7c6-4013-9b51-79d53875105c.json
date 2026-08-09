@@ -1,0 +1,41 @@
+{
+  "id": "25d88210-c7c6-4013-9b51-79d53875105c",
+  "title": "Bukós szakasz",
+  "originalTitle": "CHiPs",
+  "overview": "The adventures of two California Highway Patrol motorcycle officers as they make their rounds on the freeways of Los Angeles.",
+  "backdropPath": "/nz88EJ2iL1h6K9mpji9RlhYnlWc.jpg",
+  "posterPath": "/mIHA8Xf6WmxbS83ia4vQ5ojvxV8.jpg",
+  "releaseDate": "2017-03-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5b17207f-8b23-4d21-bd00-0a0bf246de51",
+      "title": "Bukós szakasz",
+      "subtitle": null,
+      "timestampString": "02:25:40",
+      "timestampInSeconds": 8740,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #118",
+        "youtubeId": "tsYYwq3fdTw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tsYYwq3fdTw/hqdefault.jpg",
+        "durationInMinutes": 239,
+        "releaseDate": 1490634596000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

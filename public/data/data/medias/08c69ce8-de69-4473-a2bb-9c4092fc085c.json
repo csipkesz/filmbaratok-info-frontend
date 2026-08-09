@@ -1,0 +1,45 @@
+{
+  "id": "08c69ce8-de69-4473-a2bb-9c4092fc085c",
+  "title": "Az ember, akit Ottónak hívnak",
+  "originalTitle": "A Man Called Otto",
+  "overview": "When a lively young family moves in next door, grumpy widower Otto Anderson meets his match in a quick-witted, pregnant woman named Marisol, leading to an unlikely friendship that turns his world upside down.",
+  "backdropPath": "/v2LilmCylr3bL9TCZSj6syjowZh.jpg",
+  "posterPath": "/130H1gap9lFfiTF9iDrqNIkFvC9.jpg",
+  "releaseDate": "2022-12-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "51ab8a54-0bf9-48f8-8f5f-707d57ed4d8c",
+      "title": "Az ember, akit Ottónak hívnak",
+      "subtitle": null,
+      "timestampString": "01:44:15",
+      "timestampInSeconds": 6255,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #249",
+        "youtubeId": "1greFyKaw1M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/1greFyKaw1M/hqdefault.jpg",
+        "durationInMinutes": 296,
+        "releaseDate": 1676703823000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

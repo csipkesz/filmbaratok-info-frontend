@@ -1,0 +1,41 @@
+{
+  "id": "19cf3893-33da-4ce7-9740-4b97422f5451",
+  "title": "Egy igazán dühös ember",
+  "originalTitle": "Wrath of Man",
+  "overview": "A cold and mysterious new security guard for a Los Angeles cash truck company surprises his co-workers when he unleashes precision skills during a heist. The crew is left wondering who he is and where he came from. Soon, the marksman's ultimate motive becomes clear as he takes dramatic and irrevocable steps to settle a score.",
+  "backdropPath": "/70AV2Xx5FQYj20labp0EGdbjI6E.jpg",
+  "posterPath": "/M7SUK85sKjaStg4TKhlAVyGlz3.jpg",
+  "releaseDate": "2021-04-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6575afc8-b848-4a87-9993-b4eb278440da",
+      "title": "Egy igazán dühös ember",
+      "subtitle": null,
+      "timestampString": "02:10:40",
+      "timestampInSeconds": 7840,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #213",
+        "youtubeId": "JtzuuNOeIxc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JtzuuNOeIxc/hqdefault.jpg",
+        "durationInMinutes": 200,
+        "releaseDate": 1624372656000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

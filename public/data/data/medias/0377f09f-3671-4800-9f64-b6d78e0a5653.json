@@ -1,0 +1,41 @@
+{
+  "id": "0377f09f-3671-4800-9f64-b6d78e0a5653",
+  "title": "Hófehérke [2025]",
+  "originalTitle": "Snow White",
+  "overview": "Following the benevolent King's disappearance, the Evil Queen dominated the once fair land with a cruel streak. Princess Snow White flees the castle when the Queen, in her jealousy over Snow White's inner beauty, tries to kill her. Deep into the dark woods, she stumbles upon seven magical dwarves and a young bandit named Jonathan. Together, they strive to survive the Queen's relentless pursuit and aspire to take back the kingdom.",
+  "backdropPath": "/tyfO9jHgkhypUFizRVYD0bytPjP.jpg",
+  "posterPath": "/oLxWocqheC8XbXbxqJ3x422j9PW.jpg",
+  "releaseDate": "2025-03-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3020a6b6-f137-49ce-8370-212e8a63467b",
+      "title": "Hófehérke [2025]",
+      "subtitle": null,
+      "timestampString": "02:50:10",
+      "timestampInSeconds": 10210,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #302",
+        "youtubeId": "3K4xdZiHI_w",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3K4xdZiHI_w/hqdefault.jpg",
+        "durationInMinutes": 235,
+        "releaseDate": 1747414746000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

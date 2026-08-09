@@ -1,0 +1,45 @@
+{
+  "id": "d6dd3f0d-852d-4abc-a1c8-7f3bacd8788b",
+  "title": "I see you",
+  "originalTitle": "I See You",
+  "overview": "When a 12-year-old boy goes missing at a local park, a detective investigates the case to help the boy's family find answers.",
+  "backdropPath": "/nV10fSyR0LlaRae7eFiidG7hw4g.jpg",
+  "posterPath": "/2LwamrHAmxqEHsT9JViFJxT08Ek.jpg",
+  "releaseDate": "2019-09-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1a843a14-f7ba-4366-ac88-80121422ffc5",
+      "title": "I see you [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "02:15:20",
+      "timestampInSeconds": 8120,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #202",
+        "youtubeId": "E2b82odyb3w",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E2b82odyb3w/hqdefault.jpg",
+        "durationInMinutes": 223,
+        "releaseDate": 1608135119000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

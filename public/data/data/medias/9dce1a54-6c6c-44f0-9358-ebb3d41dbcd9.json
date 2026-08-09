@@ -1,0 +1,45 @@
+{
+  "id": "9dce1a54-6c6c-44f0-9358-ebb3d41dbcd9",
+  "title": "Maugli",
+  "originalTitle": null,
+  "overview": null,
+  "backdropPath": null,
+  "posterPath": null,
+  "releaseDate": null,
+  "topics": [
+    {
+      "id": "637621db-d34d-451e-8f3a-e18821d69ba8",
+      "title": "Maugli",
+      "subtitle": null,
+      "timestampString": "02:30:12",
+      "timestampInSeconds": 9012,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #161",
+        "youtubeId": "c8SMgflP8R4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/c8SMgflP8R4/hqdefault.jpg",
+        "durationInMinutes": 262,
+        "releaseDate": 1548928591000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

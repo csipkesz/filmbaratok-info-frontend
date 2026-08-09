@@ -1,0 +1,41 @@
+{
+  "id": "2cda5e4a-de75-46bd-bb73-48fa6a15d98f",
+  "title": "Megtorlás",
+  "originalTitle": "Retribution",
+  "overview": "When a mysterious caller plants a bomb under his car seat, a bank executive begins a high-speed chase across the city to complete a specific series of tasks — all with his kids trapped in the back seat.",
+  "backdropPath": "/yQvjqIvOwpawVZje41Wno365kR.jpg",
+  "posterPath": "/oUmmY7QWWn7OhKlcPOnirHJpP1F.jpg",
+  "releaseDate": "2023-08-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1be0f756-bf39-4f18-ad27-c51a1d5c858b",
+      "title": "Megtorlás",
+      "subtitle": null,
+      "timestampString": "00:33:53",
+      "timestampInSeconds": 2033,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #262",
+        "youtubeId": "vHivX-OmQEI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/vHivX-OmQEI/hqdefault.jpg",
+        "durationInMinutes": 199,
+        "releaseDate": 1695357459000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

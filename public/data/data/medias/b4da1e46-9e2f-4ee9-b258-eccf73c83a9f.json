@@ -1,0 +1,45 @@
+{
+  "id": "b4da1e46-9e2f-4ee9-b258-eccf73c83a9f",
+  "title": "Karácsonyi meglepi",
+  "originalTitle": "Happiest Season",
+  "overview": "A young woman's plans to propose to her girlfriend while at her family's annual holiday party are upended when she discovers her partner hasn't yet come out to her conservative parents.",
+  "backdropPath": "/jOWgFmD1H5t6nL7ChbmX8oDFUZl.jpg",
+  "posterPath": "/vzec9kkOSE93tygyfOktedkeOQ.jpg",
+  "releaseDate": "2020-11-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "50854071-012c-40f6-a472-fe82b417f587",
+      "title": "Karácsonyi meglepi",
+      "subtitle": null,
+      "timestampString": "02:47:00",
+      "timestampInSeconds": 10020,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #223",
+        "youtubeId": "uKeMDPapOJE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uKeMDPapOJE/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1639837304000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

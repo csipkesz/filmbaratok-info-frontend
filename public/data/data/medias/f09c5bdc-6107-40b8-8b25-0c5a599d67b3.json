@@ -1,0 +1,67 @@
+{
+  "id": "f09c5bdc-6107-40b8-8b25-0c5a599d67b3",
+  "title": "Snowpiercer",
+  "originalTitle": "Snowpiercer",
+  "overview": "A fagyott Földön az emberiség utolsó túlélői az egész bolygót megkerülő gigantikus vonaton próbálják fenntartani az együttéléshez szükséges kényes egyensúlyt.",
+  "backdropPath": "/zFJxwXtW3Y7FSDrc2FnVFpQCcY1.jpg",
+  "posterPath": "/2nypUnPFVQjaKGNFU1Krlza6pDd.jpg",
+  "releaseDate": "2020-05-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3e7f4ad2-e2b0-42c4-89e4-309f042ec51a",
+      "title": "Snowpiercer",
+      "subtitle": null,
+      "timestampString": "01:59:55",
+      "timestampInSeconds": 7195,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #49",
+        "youtubeId": "KInB1pvzVo0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/KInB1pvzVo0/hqdefault.jpg",
+        "durationInMinutes": 177,
+        "releaseDate": 1397986559000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    },
+    {
+      "id": "780fc86a-06da-4774-a502-90336d33ac3d",
+      "title": "Snowpiercer",
+      "subtitle": null,
+      "timestampString": "01:21:55",
+      "timestampInSeconds": 4915,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #52",
+        "youtubeId": "z5hnMqJSVxs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z5hnMqJSVxs/hqdefault.jpg",
+        "durationInMinutes": 121,
+        "releaseDate": 1403347391000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

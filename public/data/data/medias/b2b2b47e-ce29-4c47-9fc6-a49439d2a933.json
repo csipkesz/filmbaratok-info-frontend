@@ -1,0 +1,45 @@
+{
+  "id": "b2b2b47e-ce29-4c47-9fc6-a49439d2a933",
+  "title": "Az utolsó bűntény",
+  "originalTitle": "The Last Days of American Crime",
+  "overview": "In the not-too-distant future, as a final response to crime and terrorism, the U.S. government plans to broadcast a signal that will make it impossible for anyone to knowingly break the law.",
+  "backdropPath": "/t93doi7EzoqLFckidrGGnukFPwd.jpg",
+  "posterPath": "/ygCQnDEqUEIamBpdQdDYnFfxvgM.jpg",
+  "releaseDate": "2020-06-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "efe199b5-2bbb-4485-a54c-2e6b6b58a948",
+      "title": "Az utolsó bűntény",
+      "subtitle": null,
+      "timestampString": "01:31:25",
+      "timestampInSeconds": 5485,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #192",
+        "youtubeId": "U-r1xMhFqug",
+        "thumbnailUrl": "https://i.ytimg.com/vi/U-r1xMhFqug/hqdefault.jpg",
+        "durationInMinutes": 257,
+        "releaseDate": 1593098527000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

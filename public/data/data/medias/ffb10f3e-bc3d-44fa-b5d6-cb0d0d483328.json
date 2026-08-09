@@ -1,0 +1,41 @@
+{
+  "id": "ffb10f3e-bc3d-44fa-b5d6-cb0d0d483328",
+  "title": "Bajos csajok",
+  "originalTitle": "Mean Girls",
+  "overview": "Cady Heron is a hit with The Plastics, the A-list girl clique at her new school, until she makes the mistake of falling for Aaron Samuels, the ex-boyfriend of alpha Plastic Regina George.",
+  "backdropPath": "/nP3y0TkR6XniFs9J53qQkg4Bnnk.jpg",
+  "posterPath": "/2ZkuQXvVhh45uSvkBej4S7Ix1NJ.jpg",
+  "releaseDate": "2004-04-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1769c4b9-abf3-44c3-98cc-55712ddc2394",
+      "title": "Bajos csajok",
+      "subtitle": null,
+      "timestampString": "02:28:55",
+      "timestampInSeconds": 8935,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #196",
+        "youtubeId": "FsFQg0igAJI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/FsFQg0igAJI/hqdefault.jpg",
+        "durationInMinutes": 181,
+        "releaseDate": 1598446254000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

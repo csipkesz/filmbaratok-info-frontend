@@ -1,0 +1,45 @@
+{
+  "id": "c5dfdbb3-d189-4244-a397-65929b094556",
+  "title": "Creed 3",
+  "originalTitle": "Creed III",
+  "overview": "After dominating the boxing world, Adonis Creed has thrived in his career and family life. When a childhood friend and former boxing prodigy, Damian Anderson, resurfaces after serving a long sentence in prison, he is eager to prove that he deserves his shot in the ring. The face-off between former friends is more than just a fight. To settle the score, Adonis must put his future on the line to battle Damian — a fighter with nothing to lose.",
+  "backdropPath": "/gOIztYywR291pC4k3IpDq7Vj3Kj.jpg",
+  "posterPath": "/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg",
+  "releaseDate": "2023-03-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e095e75b-6b79-4cb6-8a55-56e525f144b5",
+      "title": "Creed 3",
+      "subtitle": null,
+      "timestampString": "01:16:25",
+      "timestampInSeconds": 4585,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #251",
+        "youtubeId": "sMMPgkRN14I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/sMMPgkRN14I/hqdefault.jpg",
+        "durationInMinutes": 273,
+        "releaseDate": 1678475107000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

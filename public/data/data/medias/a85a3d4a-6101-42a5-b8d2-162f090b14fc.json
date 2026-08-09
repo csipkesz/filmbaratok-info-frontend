@@ -1,0 +1,45 @@
+{
+  "id": "a85a3d4a-6101-42a5-b8d2-162f090b14fc",
+  "title": "Kingsman – A titkos szolgálat",
+  "originalTitle": "Kingsman: The Secret Service",
+  "overview": "The story of a super-secret spy organization that recruits an unrefined but promising street kid into the agency's ultra-competitive training program just as a global threat emerges from a twisted tech genius.",
+  "backdropPath": "/qzUIOTk0E3F1zjvYjcBRTKUTgf9.jpg",
+  "posterPath": "/17i5YPTfHOjXoieArpATWGRhLj1.jpg",
+  "releaseDate": "2015-01-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "819ee3e4-e0ae-4c61-9852-a40a899f8681",
+      "title": "Kingsman – A titkos szolgálat",
+      "subtitle": null,
+      "timestampString": "02:14:48",
+      "timestampInSeconds": 8088,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #67",
+        "youtubeId": "FATQkJjmAQg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/FATQkJjmAQg/hqdefault.jpg",
+        "durationInMinutes": 206,
+        "releaseDate": 1424108444000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

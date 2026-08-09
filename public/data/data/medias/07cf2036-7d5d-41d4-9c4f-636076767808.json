@@ -1,0 +1,49 @@
+{
+  "id": "07cf2036-7d5d-41d4-9c4f-636076767808",
+  "title": "Aranypolgár",
+  "originalTitle": "Citizen Kane",
+  "overview": "Newspaper magnate Charles Foster Kane is taken from his mother as a boy and made the ward of a rich industrialist. As a result, every well-meaning, tyrannical or self-destructive move he makes for the rest of his life appears in some way to be a reaction to that deeply wounding event.",
+  "backdropPath": "/ruF3Lmd4A8MHbnEBE6lxPMbsHGL.jpg",
+  "posterPath": "/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg",
+  "releaseDate": "1941-04-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fba16ba1-92df-4895-abf0-4a849335bcad",
+      "title": "Aranypolgár",
+      "subtitle": null,
+      "timestampString": "00:44:00",
+      "timestampInSeconds": 2640,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #203",
+        "youtubeId": "TH0CGD6FmvQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/TH0CGD6FmvQ/hqdefault.jpg",
+        "durationInMinutes": 297,
+        "releaseDate": 1609408808000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

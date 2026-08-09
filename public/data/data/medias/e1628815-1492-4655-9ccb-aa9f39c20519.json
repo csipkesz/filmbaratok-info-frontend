@@ -1,0 +1,49 @@
+{
+  "id": "e1628815-1492-4655-9ccb-aa9f39c20519",
+  "title": "V mint vérbosszú",
+  "originalTitle": "V for Vendetta",
+  "overview": "In a world in which Great Britain has become a fascist state, a masked vigilante known only as “V” conducts guerrilla warfare against the oppressive British government. When V rescues a young woman from the secret police, he finds in her an ally with whom he can continue his fight to free the people of Britain.",
+  "backdropPath": "/sFEYsEfzTx7hhjetlNrme8B5OUo.jpg",
+  "posterPath": "/1avD1JeaRiJX5M4ahPdZPypGoGN.jpg",
+  "releaseDate": "2006-02-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "04befa24-2709-42f8-894a-442049ce87fc",
+      "title": "V mint vérbosszú",
+      "subtitle": null,
+      "timestampString": "04:21:08",
+      "timestampInSeconds": 15668,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #220",
+        "youtubeId": "V6uGh9dBdAw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/V6uGh9dBdAw/hqdefault.jpg",
+        "durationInMinutes": 284,
+        "releaseDate": 1634383916000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "fac8d7ad-e256-459f-aad0-462d76978720",
+  "title": "Mandy",
+  "originalTitle": "Mandy",
+  "overview": "",
+  "backdropPath": "/43XrVdGcj5bhor5SPMPtFfCLYQT.jpg",
+  "posterPath": "/d8kM8CzRwrwkjqGGdKjSpgvxO8R.jpg",
+  "releaseDate": "2020-08-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c700b0d4-d4e3-4678-9b76-b7f84177a8db",
+      "title": "Mandy",
+      "subtitle": null,
+      "timestampString": "02:59:20",
+      "timestampInSeconds": 10760,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #153",
+        "youtubeId": "o2r_oHM2CEM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/o2r_oHM2CEM/hqdefault.jpg",
+        "durationInMinutes": 239,
+        "releaseDate": 1539286396000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

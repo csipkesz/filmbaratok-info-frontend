@@ -1,0 +1,45 @@
+{
+  "id": "2a1b2987-fea9-4fbd-9077-6c6328d5712a",
+  "title": "A szörny házában",
+  "originalTitle": null,
+  "overview": null,
+  "backdropPath": null,
+  "posterPath": null,
+  "releaseDate": null,
+  "topics": [
+    {
+      "id": "5dd93cff-32ba-489c-add1-66536e1d0c13",
+      "title": "A szörny házában",
+      "subtitle": null,
+      "timestampString": "01:17:40",
+      "timestampInSeconds": 4660,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #279",
+        "youtubeId": "xiW0oPdZsx4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/xiW0oPdZsx4/hqdefault.jpg",
+        "durationInMinutes": 209,
+        "releaseDate": 1717092028000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

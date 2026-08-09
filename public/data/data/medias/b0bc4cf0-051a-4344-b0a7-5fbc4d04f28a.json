@@ -1,0 +1,41 @@
+{
+  "id": "b0bc4cf0-051a-4344-b0a7-5fbc4d04f28a",
+  "title": "Until dawn",
+  "originalTitle": "Until Dawn",
+  "overview": "One year after her sister Melanie mysteriously disappeared, Clover and her friends head into the remote valley where she vanished in search of answers. Exploring an abandoned visitor center, they find themselves stalked by a masked killer and horrifically murdered one by one...only to wake up and find themselves back at the beginning of the same evening.",
+  "backdropPath": "/3xKJ0nyUTlySmMBCpOcsuSnFPI1.jpg",
+  "posterPath": "/bLY5yN4MKVynZ2HMZWElTOGBgBe.jpg",
+  "releaseDate": "2025-04-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0d962647-cd87-4528-855d-fa85db72459a",
+      "title": "Until dawn",
+      "subtitle": null,
+      "timestampString": "01:53:30",
+      "timestampInSeconds": 6810,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #303",
+        "youtubeId": "4E-63IAlyvU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/4E-63IAlyvU/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1748626806000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "77e36baa-ae4b-417f-bdac-aacb64baada6",
+            "name": "Ódor Kristóf"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

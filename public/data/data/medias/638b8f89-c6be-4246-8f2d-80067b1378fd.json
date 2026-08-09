@@ -1,0 +1,45 @@
+{
+  "id": "638b8f89-c6be-4246-8f2d-80067b1378fd",
+  "title": "Itt érzem magam otthon",
+  "originalTitle": "Itt érzem magam otthon",
+  "overview": "Rita, an ordinary, but lonely woman is kidnapped. Her captors are the Árpáds; they claim she is not called Rita but Szilvi, a runaway from their family. Rita eventually understands that the only way out is in - to escape she must impersonate Szilvi. The more she becomes the lost girl the more she finds out about the family - and understands that her life is on the line.",
+  "backdropPath": "/bJv3cwqJvurMZmO3Km42In4lHyv.jpg",
+  "posterPath": "/ckVdzd0E9mVQWqaZrfJo4OKaMzi.jpg",
+  "releaseDate": "2026-02-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "aab73fe4-3d06-48c8-86d5-56e4f2daa557",
+      "title": "Itt érzem magam otthon [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "01:45:30",
+      "timestampInSeconds": 6330,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #322",
+        "youtubeId": "f696VdP9-xg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/f696VdP9-xg/hqdefault.jpg",
+        "durationInMinutes": 273,
+        "releaseDate": 1773775641000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

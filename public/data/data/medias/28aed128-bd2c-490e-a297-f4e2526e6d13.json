@@ -1,0 +1,37 @@
+{
+  "id": "28aed128-bd2c-490e-a297-f4e2526e6d13",
+  "title": "Pixel",
+  "originalTitle": "Pixels",
+  "overview": "Video game experts are recruited by the military to fight 1980s-era video game characters who've attacked New York.",
+  "backdropPath": "/6UFnKzVzFqKDjs4iCVLJdneK3ch.jpg",
+  "posterPath": "/d26S5EfVXLNxRXqyFy1yyl3qRq3.jpg",
+  "releaseDate": "2015-07-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d000ccb7-133d-41eb-b072-5dcb7e169ad3",
+      "title": "Pixel",
+      "subtitle": null,
+      "timestampString": "00:47:50",
+      "timestampInSeconds": 2870,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #79",
+        "youtubeId": "MFtdt9e1-5Y",
+        "thumbnailUrl": "https://i.ytimg.com/vi/MFtdt9e1-5Y/hqdefault.jpg",
+        "durationInMinutes": 158,
+        "releaseDate": 1439397604000,
+        "participants": [
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

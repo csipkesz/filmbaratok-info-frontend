@@ -1,0 +1,41 @@
+{
+  "id": "0c513eac-2e1e-4111-9cfd-35adf54da19c",
+  "title": "Annabelle",
+  "originalTitle": "Annabelle",
+  "overview": "A couple begins to experience terrifying supernatural occurrences involving a vintage doll shortly after their home is invaded by satanic cultists.",
+  "backdropPath": "/pWZ0srAfPx4XyJMlFkKBlmYfx3C.jpg",
+  "posterPath": "/yLsuU2P2SpDYFwtZQ7dtfVAf6TE.jpg",
+  "releaseDate": "2014-10-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c09a0785-0e79-44d3-85d6-22c34843b1b0",
+      "title": "Annabelle",
+      "subtitle": null,
+      "timestampString": "00:44:15",
+      "timestampInSeconds": 2655,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #59",
+        "youtubeId": "xa1Ymms2_9c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/xa1Ymms2_9c/hqdefault.jpg",
+        "durationInMinutes": 189,
+        "releaseDate": 1413978295000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

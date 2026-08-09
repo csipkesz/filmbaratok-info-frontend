@@ -1,0 +1,41 @@
+{
+  "id": "f2e6cce6-20af-49ae-88ae-88e3e7a3e204",
+  "title": "Páncélba zárt szellem [2017]",
+  "originalTitle": "Ghost in the Shell",
+  "overview": "In the near future, Major is the first of her kind: a human saved from a terrible crash, then cyber-enhanced to be a perfect soldier devoted to stopping the world's most dangerous criminals.",
+  "backdropPath": "/dDVqfmCzSy3TKSmiS2pJ9QB5E3P.jpg",
+  "posterPath": "/zCtL3UBgCoZzd7XTVGhvl6XY75E.jpg",
+  "releaseDate": "2017-03-29T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "594cce1a-4516-405f-a6df-fe6b06a10d2b",
+      "title": "Páncélba zárt szellem [2017]",
+      "subtitle": null,
+      "timestampString": "00:25:30",
+      "timestampInSeconds": 1530,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #120",
+        "youtubeId": "-3teFOfAauw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-3teFOfAauw/hqdefault.jpg",
+        "durationInMinutes": 251,
+        "releaseDate": 1493646027000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0434267e-ca0c-4442-b052-275469f2547a",
+  "title": "Segítség, felnőttem",
+  "originalTitle": "Big",
+  "overview": "When a young boy makes a wish at a carnival machine to be big—he wakes up the following morning to find that it has been granted and his body has grown older overnight. But he is still the same 13-year-old boy inside. Now he must learn how to cope with the unfamiliar world of grown-ups including getting a job and having his first romantic encounter with a woman.",
+  "backdropPath": "/bi9ihIMB9DoXs7odkS5oKkHoK2o.jpg",
+  "posterPath": "/eWhCDJiwxvx3YXkAFRiHjimnF0j.jpg",
+  "releaseDate": "1988-06-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "329afa61-cbdf-4e3e-bf0d-04d8662c0ac0",
+      "title": "Segítség, felnőttem",
+      "subtitle": null,
+      "timestampString": "02:22:40",
+      "timestampInSeconds": 8560,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #188",
+        "youtubeId": "0HEzLOYhLD4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/0HEzLOYhLD4/hqdefault.jpg",
+        "durationInMinutes": 184,
+        "releaseDate": 1587743952000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

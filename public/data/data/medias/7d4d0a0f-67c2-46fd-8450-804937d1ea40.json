@@ -1,0 +1,45 @@
+{
+  "id": "7d4d0a0f-67c2-46fd-8450-804937d1ea40",
+  "title": "Csizmás, a kandúr: Az utolsó kívánság",
+  "originalTitle": "Puss in Boots: The Last Wish",
+  "overview": "Puss in Boots discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.",
+  "backdropPath": "/jr8tSoJGj33XLgFBy6lmZhpGQNu.jpg",
+  "posterPath": "/kuf6dutpsT0vSVehic3EZIqkOBt.jpg",
+  "releaseDate": "2022-12-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5515ae53-4765-4eaf-ba47-13814d74613d",
+      "title": "Csizmás, a kandúr: Az utolsó kívánság",
+      "subtitle": null,
+      "timestampString": "00:43:49",
+      "timestampInSeconds": 2629,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #248",
+        "youtubeId": "VCD8rEWrtzs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VCD8rEWrtzs/hqdefault.jpg",
+        "durationInMinutes": 221,
+        "releaseDate": 1674626980000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

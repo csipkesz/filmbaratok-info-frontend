@@ -1,0 +1,45 @@
+{
+  "id": "9fd4cebb-f3b6-4787-ad24-055344d37b0e",
+  "title": "Pókerarcok",
+  "originalTitle": "Rounders",
+  "overview": "Poker addict Mike McDermott knows the game inside out, but loses his money one night in a game to Russian-American gangster Teddy KGB. Promising his partner Jo he'll give up, he meets up with best friend Lester 'Worm' Murphy, just out of prison and owing lots of money to the wrong kind of people. McDermott becomes his co-guarantor and now there's only one way to raise the money, the pair have to get back into the game.",
+  "backdropPath": "/tgRQsrjBKdic7llxhI7pqLJb8kS.jpg",
+  "posterPath": "/mqbMwYGwIChnaCO55h7v8DG8Wwy.jpg",
+  "releaseDate": "1998-09-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2e9323b2-f7ee-4bc0-9cd6-7e812db2003b",
+      "title": "Pókerarcok",
+      "subtitle": null,
+      "timestampString": "00:52:15",
+      "timestampInSeconds": 3135,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #65",
+        "youtubeId": "Nho9twpqK9c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Nho9twpqK9c/hqdefault.jpg",
+        "durationInMinutes": 210,
+        "releaseDate": 1420868167000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

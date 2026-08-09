@@ -1,0 +1,45 @@
+{
+  "id": "c5dfe4ad-97f6-4ea2-9ba5-36fa0c1cbcbd",
+  "title": "Victoria",
+  "originalTitle": "Victoria",
+  "overview": "",
+  "backdropPath": "/7P2k2p7kb1Y0IxpOuoDl07uyRHS.jpg",
+  "posterPath": "/xYB64Umg6dE9Zd4p4AGWKNcpGqD.jpg",
+  "releaseDate": "1987-07-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "85145387-acae-4dd2-bd86-9a6701a46585",
+      "title": "Victoria",
+      "subtitle": null,
+      "timestampString": "02:14:50",
+      "timestampInSeconds": 8090,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #83",
+        "youtubeId": "hnUVtArlE_k",
+        "thumbnailUrl": "https://i.ytimg.com/vi/hnUVtArlE_k/hqdefault.jpg",
+        "durationInMinutes": 177,
+        "releaseDate": 1445005790000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

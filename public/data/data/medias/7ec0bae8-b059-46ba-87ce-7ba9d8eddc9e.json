@@ -1,0 +1,41 @@
+{
+  "id": "7ec0bae8-b059-46ba-87ce-7ba9d8eddc9e",
+  "title": "Power Rangers",
+  "originalTitle": "Power Rangers",
+  "overview": "Saban Power Rangerje 5 különleges tinédzser kalandjainak folytatásos története, akik arra esküdtek fel, hogy bármi áron megakadályozzák az intergalaktikus boszorkányt, Rettenetes Ritát világuralomra törő terveiben. Mindegyik akciódús epizódban az 5 szuperhős félelmetes kalandok sorozatán keresztül küzd Rita és az ő hatalmas, gonosz seregei ellen, mindig egy lépéssel a biztos végzet előtt. A Power Ranger-ek egy interdimenzionális lénytől, Zordontól, Rita ősellenségétől kapott nem e világi technológiát használva lendülnek akcióba. Az ősi dinoszauruszuk szellemétől kapott erő képessé teszi őket arra szuperhősökké alakuljanak. Átalakulásuk után ezek a fiatal titánok irtózatos erő birtokába jutnak. Csatáikban lenyűgöző fegyverarzenál és dinoszaurusz alapú gépezetek segítik őket.",
+  "backdropPath": "/i01wnWz0Z3rMATqbkAVLHEaGbNP.jpg",
+  "posterPath": "/qx3SJlAp2RK656TusqKx1qEqVMW.jpg",
+  "releaseDate": "1993-08-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "80929f7c-0670-45bf-9c9e-0ff11d29f0ef",
+      "title": "Power Rangers",
+      "subtitle": null,
+      "timestampString": "00:59:00",
+      "timestampInSeconds": 3540,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #120",
+        "youtubeId": "-3teFOfAauw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-3teFOfAauw/hqdefault.jpg",
+        "durationInMinutes": 251,
+        "releaseDate": 1493646027000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

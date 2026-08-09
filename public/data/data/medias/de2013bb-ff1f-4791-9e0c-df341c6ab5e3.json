@@ -1,0 +1,45 @@
+{
+  "id": "de2013bb-ff1f-4791-9e0c-df341c6ab5e3",
+  "title": "Aladdin",
+  "originalTitle": "Aladdin",
+  "overview": "A történet főszereplője Aladdin, aki korábban egyszerű csavargó volt, de miután megmentette a szultánt volt tanácsadója, Jafar tombolásától, nemcsak elnyerte a szultán lányának, Jasmine-nak a kezét, hanem a szultáni rendbe is bekerült. Mivel jól ismeri a bűnözők életét, ő vigyáz a császárság biztonságára is. A munkája során le kell győznie a különböző vad tolvajokat, gonosz varázslókat és borzalmas szörnyetegeket is.",
+  "backdropPath": "/jPyKuRjloYkjVWNPtXCrYxtg3Bu.jpg",
+  "posterPath": "/nlaiczW81kY46GBdfIcTrBIqr8I.jpg",
+  "releaseDate": "1994-02-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c7659270-ec3b-4f65-aff6-6fdb81000e43",
+      "title": "Aladdin",
+      "subtitle": null,
+      "timestampString": "01:53:00",
+      "timestampInSeconds": 6780,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #169",
+        "youtubeId": "-bLznzpWJe8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-bLznzpWJe8/hqdefault.jpg",
+        "durationInMinutes": 317,
+        "releaseDate": 1559569793000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

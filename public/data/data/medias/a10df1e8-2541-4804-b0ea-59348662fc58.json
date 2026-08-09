@@ -1,0 +1,45 @@
+{
+  "id": "a10df1e8-2541-4804-b0ea-59348662fc58",
+  "title": "Csillag születik",
+  "originalTitle": "Csillag születik",
+  "overview": "A Csillag születik az RTL Klub tehetségkutató műsora, melyben énekesek, táncosok, humoristák, zsonglőrök, artisták és bűvészek mutatják meg, hogy mire képesek.",
+  "backdropPath": "/kl0nqezVJjddZW7046lrxGPIhso.jpg",
+  "posterPath": "/mIPUapPMJ0C5P0iAmnY1hNu3T7c.jpg",
+  "releaseDate": "2007-11-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b250e78c-902b-43fb-9b0f-9d166ddb7b6f",
+      "title": "Csillag születik",
+      "subtitle": null,
+      "timestampString": "02:39:55",
+      "timestampInSeconds": 9595,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #153",
+        "youtubeId": "o2r_oHM2CEM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/o2r_oHM2CEM/hqdefault.jpg",
+        "durationInMinutes": 239,
+        "releaseDate": 1539286396000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "d642ecde-95b8-457c-80a8-117115ab8d0f",
+  "title": "A hangya és a darázs",
+  "originalTitle": "Ant-Man and the Wasp",
+  "overview": "Just when his time under house arrest is about to end, Scott Lang once again puts his freedom at risk to help Hope van Dyne and Dr. Hank Pym dive into the quantum realm and try to accomplish, against time and any chance of success, a very dangerous rescue mission.",
+  "backdropPath": "/iYdgEUE2W2aJkgqfSjf1x3gFfuV.jpg",
+  "posterPath": "/cFQEO687n1K6umXbInzocxcnAQz.jpg",
+  "releaseDate": "2018-07-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0b88e0fa-0095-487c-aa7c-ad7c0a2091ca",
+      "title": "A hangya és a darázs",
+      "subtitle": null,
+      "timestampString": "00:49:28",
+      "timestampInSeconds": 2968,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #148",
+        "youtubeId": "keV4hpdXcYo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/keV4hpdXcYo/hqdefault.jpg",
+        "durationInMinutes": 206,
+        "releaseDate": 1533062167000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

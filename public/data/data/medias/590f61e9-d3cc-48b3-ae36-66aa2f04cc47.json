@@ -1,0 +1,45 @@
+{
+  "id": "590f61e9-d3cc-48b3-ae36-66aa2f04cc47",
+  "title": "Gran Turismo",
+  "originalTitle": "Gran Turismo",
+  "overview": "The ultimate wish-fulfillment tale of a teenage Gran Turismo player whose gaming skills won him a series of Nissan competitions to become an actual professional racecar driver.",
+  "backdropPath": "/xFYpUmB01nswPgbzi8EOCT1ZYFu.jpg",
+  "posterPath": "/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg",
+  "releaseDate": "2023-08-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "dc7f2c39-a43e-479a-a1a3-38ab5e7d616e",
+      "title": "Gran Turismo",
+      "subtitle": null,
+      "timestampString": "00:49:29",
+      "timestampInSeconds": 2969,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #261",
+        "youtubeId": "riCSpLjExWo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/riCSpLjExWo/hqdefault.jpg",
+        "durationInMinutes": 207,
+        "releaseDate": 1693369891000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

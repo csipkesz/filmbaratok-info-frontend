@@ -1,0 +1,41 @@
+{
+  "id": "09b30ee5-98a9-4602-bdd8-14349f7e37a0",
+  "title": "Saul fia",
+  "originalTitle": "Saul fia",
+  "overview": "In the horror of 1944 Auschwitz, a prisoner forced to burn the corpses of his own people finds moral survival trying to save from the flames the body of a boy he takes for his son, seeking to give him a proper Jewish burial.",
+  "backdropPath": "/5ymJuqUWwQZ7yq63UE8DNpFBELr.jpg",
+  "posterPath": "/9ZcX6NjCJam5uwkooXffhHI29Lj.jpg",
+  "releaseDate": "2015-06-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e917cecf-b98b-4d01-a9cb-129c60d0b78e",
+      "title": "Saul fia",
+      "subtitle": null,
+      "timestampString": "01:28:38",
+      "timestampInSeconds": 5318,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #75",
+        "youtubeId": "5hqAh129dAE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/5hqAh129dAE/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1434729270000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

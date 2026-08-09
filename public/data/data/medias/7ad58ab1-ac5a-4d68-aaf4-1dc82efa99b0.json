@@ -1,0 +1,45 @@
+{
+  "id": "7ad58ab1-ac5a-4d68-aaf4-1dc82efa99b0",
+  "title": "V. Henrik [The King]",
+  "originalTitle": "The King",
+  "overview": "England, 15th century. Hal, a capricious prince who lives among the populace far from court, is forced by circumstances to reluctantly accept the throne and become Henry V.",
+  "backdropPath": "/nOqsmE2tdTDhq4bYawNrtwnpB9a.jpg",
+  "posterPath": "/8u0QBGUbZcBW59VEAdmeFl9g98N.jpg",
+  "releaseDate": "2019-10-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d9c9c0c0-eb95-45d3-a14d-6bc2b3819e6f",
+      "title": "V. Henrik [The King]",
+      "subtitle": null,
+      "timestampString": "01:58:42",
+      "timestampInSeconds": 7122,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #202",
+        "youtubeId": "E2b82odyb3w",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E2b82odyb3w/hqdefault.jpg",
+        "durationInMinutes": 223,
+        "releaseDate": 1608135119000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

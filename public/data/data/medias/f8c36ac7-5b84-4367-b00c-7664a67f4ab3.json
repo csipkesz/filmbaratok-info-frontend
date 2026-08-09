@@ -1,0 +1,45 @@
+{
+  "id": "f8c36ac7-5b84-4367-b00c-7664a67f4ab3",
+  "title": "Téli szünet",
+  "originalTitle": "The Holdovers",
+  "overview": "A curmudgeonly instructor at a New England prep school is forced to remain on campus during Christmas break to babysit the handful of students with nowhere to go. Eventually, he forms an unlikely bond with one of them — a damaged, brainy troublemaker — and with the school’s head cook, who has just lost a son in Vietnam.",
+  "backdropPath": "/A99WMiz0ASpH9coOFrxSEuwTWx0.jpg",
+  "posterPath": "/VHSzNBTwxV8vh7wylo7O9CLdac.jpg",
+  "releaseDate": "2023-10-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fe81e351-65b7-48b3-9663-0335c5f452c4",
+      "title": "Téli szünet",
+      "subtitle": null,
+      "timestampString": "01:02:10",
+      "timestampInSeconds": 3730,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #274",
+        "youtubeId": "U5btDyv5pPk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/U5btDyv5pPk/hqdefault.jpg",
+        "durationInMinutes": 285,
+        "releaseDate": 1710534459000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

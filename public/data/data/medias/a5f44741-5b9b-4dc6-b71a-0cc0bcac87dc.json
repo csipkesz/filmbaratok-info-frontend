@@ -1,0 +1,41 @@
+{
+  "id": "a5f44741-5b9b-4dc6-b71a-0cc0bcac87dc",
+  "title": "Szegény párák",
+  "originalTitle": "Poor Things",
+  "overview": "Brought back to life by an unorthodox scientist, a young woman runs off with a lawyer on a whirlwind adventure across the continents. Free from the prejudices of her times, she grows steadfast in her purpose to stand for equality and liberation.",
+  "backdropPath": "/zh6IdheEYinU4TPtorWsjx6qPQE.jpg",
+  "posterPath": "/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
+  "releaseDate": "2023-12-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e2be559a-c275-4a87-bf6a-261cf9ec0dfe",
+      "title": "Szegény párák",
+      "subtitle": null,
+      "timestampString": "01:53:10",
+      "timestampInSeconds": 6790,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #271",
+        "youtubeId": "vCypCwFTSIU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/vCypCwFTSIU/hqdefault.jpg",
+        "durationInMinutes": 227,
+        "releaseDate": 1706733909000,
+        "participants": [
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

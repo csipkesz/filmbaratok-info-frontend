@@ -1,0 +1,45 @@
+{
+  "id": "c2af18d2-962f-4b5f-a4f8-189cc7caf9ad",
+  "title": "Moonfall",
+  "originalTitle": "Moonfall",
+  "overview": "A mysterious force knocks the moon from its orbit around Earth and sends it hurtling on a collision course with life as we know it.",
+  "backdropPath": "/8QpzqK3nPGxpqpKqhe6QasTGBWQ.jpg",
+  "posterPath": "/odVv1sqVs0KxBXiA8bhIBlPgalx.jpg",
+  "releaseDate": "2022-02-02T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "de7dd469-faf2-4072-a954-651e85ae1c72",
+      "title": "Moonfall",
+      "subtitle": null,
+      "timestampString": "01:14:48",
+      "timestampInSeconds": 4488,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #227",
+        "youtubeId": "aLZRPLtke70",
+        "thumbnailUrl": "https://i.ytimg.com/vi/aLZRPLtke70/hqdefault.jpg",
+        "durationInMinutes": 275,
+        "releaseDate": 1645191276000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

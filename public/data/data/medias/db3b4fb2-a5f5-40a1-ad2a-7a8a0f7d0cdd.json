@@ -1,0 +1,45 @@
+{
+  "id": "db3b4fb2-a5f5-40a1-ad2a-7a8a0f7d0cdd",
+  "title": "Mindig az ördöggel / The Devil all the time",
+  "originalTitle": "The Devil All the Time",
+  "overview": "In Knockemstiff, Ohio and its neighboring backwoods, sinister characters converge around young Arvin Russell as he fights the evil forces that threaten him and his family.",
+  "backdropPath": "/gWPz2ucZxzbnbTQCJHADDCcGi9o.jpg",
+  "posterPath": "/bVL7LGq528h3KzeNI90HOVbV5uW.jpg",
+  "releaseDate": "2020-09-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2a6d0111-a9c0-4918-8d4e-4ea70b5b23fc",
+      "title": "Mindig az ördöggel / The Devil all the time",
+      "subtitle": null,
+      "timestampString": "01:56:34",
+      "timestampInSeconds": 6994,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #198",
+        "youtubeId": "A61oXuDlUgE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/A61oXuDlUgE/hqdefault.jpg",
+        "durationInMinutes": 168,
+        "releaseDate": 1601560074000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

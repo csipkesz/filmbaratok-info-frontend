@@ -1,0 +1,45 @@
+{
+  "id": "74175d98-03f8-46c1-aead-15c8320e9920",
+  "title": "Space Jam - Zűr az űrben",
+  "originalTitle": "Space Jam",
+  "overview": "With their freedom on the line, the Looney Tunes seek the help of NBA superstar Michael Jordan to win a basketball game against a team of moronic aliens.",
+  "backdropPath": "/xIoWDHSA2ymOewcCpoUID4PpDb3.jpg",
+  "posterPath": "/4RN5El3Pj2W4gpwgiAGLVfSJv2g.jpg",
+  "releaseDate": "1996-11-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b9147df3-4cf9-41ff-91de-78f7415227da",
+      "title": "Space Jam - Zűr az űrben",
+      "subtitle": null,
+      "timestampString": "02:19:10",
+      "timestampInSeconds": 8350,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #173",
+        "youtubeId": "JMHD67V99Tw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JMHD67V99Tw/hqdefault.jpg",
+        "durationInMinutes": 178,
+        "releaseDate": 1565982605000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

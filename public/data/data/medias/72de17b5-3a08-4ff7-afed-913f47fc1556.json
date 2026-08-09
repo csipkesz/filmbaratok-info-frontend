@@ -1,0 +1,45 @@
+{
+  "id": "72de17b5-3a08-4ff7-afed-913f47fc1556",
+  "title": "Hasadás",
+  "originalTitle": "The Divide",
+  "overview": "Survivors of a nuclear attack are grouped together for days in the basement of their apartment building, where fear and dwindling supplies wear away at their dynamic.",
+  "backdropPath": "/sFtBsQVPZdR13MQh36Npfx9m9Lw.jpg",
+  "posterPath": "/hnwX5cUuzBDM0OWJB2UtnjkrHDm.jpg",
+  "releaseDate": "2012-01-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b3047bd4-24be-4d23-8fbf-12a69f300393",
+      "title": "Hasadás (SPOILERES résszel is)",
+      "subtitle": null,
+      "timestampString": "02:44:13",
+      "timestampInSeconds": 9853,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #73",
+        "youtubeId": "CojqY6DJFQM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/CojqY6DJFQM/hqdefault.jpg",
+        "durationInMinutes": 197,
+        "releaseDate": 1431625186000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "d6b243c0-6116-4d51-b181-d096d10f60cd",
+  "title": "Idétlen időkig",
+  "originalTitle": "Groundhog Day",
+  "overview": "A cynical TV weatherman, along with his idealistic producer and his sardonic cameraman, is sent to report on Groundhog Day in the small town of Punxsutawney, where he finds himself repeating the same day over and over.",
+  "backdropPath": "/4W6RYDNe4OByNryOCvJprrutm9h.jpg",
+  "posterPath": "/gCgt1WARPZaXnq523ySQEUKinCs.jpg",
+  "releaseDate": "1993-02-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "45dcac4c-fc01-4131-836a-360a66a55aaf",
+      "title": "Idétlen időkig",
+      "subtitle": null,
+      "timestampString": "01:47:09",
+      "timestampInSeconds": 6429,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #54",
+        "youtubeId": "z2MBRvmBR0k",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z2MBRvmBR0k/hqdefault.jpg",
+        "durationInMinutes": 188,
+        "releaseDate": 1406308806000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

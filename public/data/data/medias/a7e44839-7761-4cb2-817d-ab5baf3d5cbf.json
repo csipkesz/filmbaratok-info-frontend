@@ -1,0 +1,41 @@
+{
+  "id": "a7e44839-7761-4cb2-817d-ab5baf3d5cbf",
+  "title": "Mindent egy lapra / Hustle",
+  "originalTitle": "Hustle",
+  "overview": "After discovering a once-in-a-lifetime player with a rocky past abroad, a down on his luck basketball scout takes it upon himself to bring the phenom to the States without his team's approval. Against the odds, they have one final shot to prove they have what it takes to make it in the NBA.",
+  "backdropPath": "/hGr0FrLI74vqpBWTBOPloDBwOAK.jpg",
+  "posterPath": "/xWic7kPq13oRxYjbGLApXCnc7pz.jpg",
+  "releaseDate": "2022-06-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "28a91cff-4234-49bf-bb78-60d78ca7c4cf",
+      "title": "Mindent egy lapra / Hustle",
+      "subtitle": null,
+      "timestampString": "02:32:29",
+      "timestampInSeconds": 9149,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #234",
+        "youtubeId": "IyLcC8Sig7I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IyLcC8Sig7I/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1655823277000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

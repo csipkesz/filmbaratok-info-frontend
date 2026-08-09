@@ -1,0 +1,41 @@
+{
+  "id": "0fe35eda-87a8-475e-9767-db9154872c51",
+  "title": "The Square",
+  "originalTitle": "The Square",
+  "overview": "A prestigious Stockholm museum's chief art curator finds himself in times of both professional and personal crisis as he attempts to set up a controversial new exhibit.",
+  "backdropPath": "/bYZM4DoHrmzY3oq2qrcXAYQmLNp.jpg",
+  "posterPath": "/pefcv5VNspSK4Dt8doei5bJmmln.jpg",
+  "releaseDate": "2017-08-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ca1d4d33-5510-4fbd-b95a-01087b461809",
+      "title": "The Square",
+      "subtitle": null,
+      "timestampString": "01:57:27",
+      "timestampInSeconds": 7047,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #45",
+        "youtubeId": "9hNSnIZK61I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9hNSnIZK61I/hqdefault.jpg",
+        "durationInMinutes": 145,
+        "releaseDate": 1392563971000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

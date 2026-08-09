@@ -1,0 +1,41 @@
+{
+  "id": "9800abd5-c09d-4f04-80d7-654a9df82fbd",
+  "title": "Desierto - Az ördög országútja",
+  "originalTitle": "Desierto",
+  "overview": "A group of Mexican emigrants attempts to cross the Mexican-US border. What begins as a hopeful journey becomes a harrowing, bloody and primal fight for survival when a deranged, rifle-toting vigilante and his loyal Belgian Malinois dog chase the group of unarmed men and women through the treacherous borderland. In the harsh, unforgiving desert terrain, the odds are stacked firmly against them as they discover there’s nowhere to hide from the unrelenting, merciless killer.",
+  "backdropPath": "/rrTKWLU0JBYKWSJd8abzXq3LjyQ.jpg",
+  "posterPath": "/67Ue5or6ZPScqkagC3EJSOYuzyR.jpg",
+  "releaseDate": "2015-04-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b205fd3d-baca-4f87-b44e-9a253b6c140e",
+      "title": "Desierto - Az ördög országútja",
+      "subtitle": null,
+      "timestampString": "00:58:04",
+      "timestampInSeconds": 3484,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #121",
+        "youtubeId": "-73qLSZm328",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-73qLSZm328/hqdefault.jpg",
+        "durationInMinutes": 130,
+        "releaseDate": 1494559801000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

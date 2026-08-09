@@ -1,0 +1,41 @@
+{
+  "id": "e949b1f5-d332-4ff5-b08e-937e6ea0dd31",
+  "title": "Préda [Crawl]",
+  "originalTitle": "Crawl",
+  "overview": "When a huge hurricane hits her hometown in Florida, Haley ignores evacuation orders to look for her father. After finding him badly wounded, both are trapped by the flood. With virtually no time to escape the storm, they discover that rising water levels are the least of their problems.",
+  "backdropPath": "/lm4xH0YwFbVvTgdtau1thNK5S6J.jpg",
+  "posterPath": "/4WH6AZd473lRZ3hUp8TYiv2LfZW.jpg",
+  "releaseDate": "2019-07-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "aad53d7a-195f-4bc6-9e1c-a28278052a0d",
+      "title": "Préda [Crawl]",
+      "subtitle": null,
+      "timestampString": "00:51:40",
+      "timestampInSeconds": 3100,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #188",
+        "youtubeId": "0HEzLOYhLD4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/0HEzLOYhLD4/hqdefault.jpg",
+        "durationInMinutes": 184,
+        "releaseDate": 1587743952000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "e4356e61-50e1-47e3-bb42-6dfd72a53792",
+  "title": "Fekete Párduc 2",
+  "originalTitle": "Black Panther: Wakanda Forever",
+  "overview": "Queen Ramonda, Shuri, M’Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T’Challa’s death.  As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.",
+  "backdropPath": "/83H0C66AcvkwpG2738VCTHMY9uv.jpg",
+  "posterPath": "/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+  "releaseDate": "2022-11-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3a0dc8d2-4dd3-473d-8a68-147ccbcd20c2",
+      "title": "Fekete Párduc 2",
+      "subtitle": null,
+      "timestampString": "00:50:35",
+      "timestampInSeconds": 3035,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #243",
+        "youtubeId": "gCWkf0UnSwY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gCWkf0UnSwY/hqdefault.jpg",
+        "durationInMinutes": 296,
+        "releaseDate": 1668706204000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

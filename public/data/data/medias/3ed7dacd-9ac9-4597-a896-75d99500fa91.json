@@ -1,0 +1,45 @@
+{
+  "id": "3ed7dacd-9ac9-4597-a896-75d99500fa91",
+  "title": "Szeplőtlen",
+  "originalTitle": "Immaculate",
+  "overview": "An American nun embarks on a new journey when she joins a remote convent in the Italian countryside. However, her warm welcome quickly turns into a living nightmare when she discovers her new home harbours a sinister secret and unspeakable horrors.",
+  "backdropPath": "/oC198kEoJIctNCxtFYBzydKULmN.jpg",
+  "posterPath": "/zyopv7D5j7cfswG0NYiA14qAdPC.jpg",
+  "releaseDate": "2024-03-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fd4f0e22-3af8-4550-9d86-95a143e2f762",
+      "title": "Szeplőtlen",
+      "subtitle": null,
+      "timestampString": "02:11:05",
+      "timestampInSeconds": 7865,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #276",
+        "youtubeId": "ozdxgj2AwCk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ozdxgj2AwCk/hqdefault.jpg",
+        "durationInMinutes": 248,
+        "releaseDate": 1713292727000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

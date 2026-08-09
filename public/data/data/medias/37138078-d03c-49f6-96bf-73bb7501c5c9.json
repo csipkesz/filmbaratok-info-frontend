@@ -1,0 +1,79 @@
+{
+  "id": "37138078-d03c-49f6-96bf-73bb7501c5c9",
+  "title": "Én, Tonya",
+  "originalTitle": "I, Tonya",
+  "overview": "Competitive ice skater Tonya Harding rises amongst the ranks at the U.S. Figure Skating Championships, but her future in the sport is thrown into doubt when her ex-husband intervenes.",
+  "backdropPath": "/5owIV2sqdfILBKyOOIkLYVqanZp.jpg",
+  "posterPath": "/6gNXwSHxaksR1PjVZRqNapmkgj3.jpg",
+  "releaseDate": "2017-12-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "36ca477d-db8c-449c-8d89-734eb757d329",
+      "title": "Én, Tonya",
+      "subtitle": null,
+      "timestampString": "02:28:20",
+      "timestampInSeconds": 8900,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #140",
+        "youtubeId": "LQ8tU4s4F2M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/LQ8tU4s4F2M/hqdefault.jpg",
+        "durationInMinutes": 184,
+        "releaseDate": 1521209750000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    },
+    {
+      "id": "560adc33-976d-4f29-a40a-c0d1683d68f8",
+      "title": "Én, Tonya",
+      "subtitle": null,
+      "timestampString": "00:28:00",
+      "timestampInSeconds": 1680,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #138",
+        "youtubeId": "nNL55zk0j6I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nNL55zk0j6I/hqdefault.jpg",
+        "durationInMinutes": 255,
+        "releaseDate": 1519187400000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

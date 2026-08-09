@@ -1,0 +1,45 @@
+{
+  "id": "97f53f34-d790-46ad-aab3-6709a639f405",
+  "title": "Annabelle 3",
+  "originalTitle": "Annabelle Comes Home",
+  "overview": "Determined to keep Annabelle from wreaking more havoc, demonologists Ed and Lorraine Warren bring the possessed doll to the locked artifacts room in their home, placing her “safely” behind sacred glass and enlisting a priest’s holy blessing. But an unholy night of horror awaits as Annabelle awakens the evil spirits in the room, who all set their sights on a new target—the Warrens' ten-year-old daughter, Judy, and her friends.",
+  "backdropPath": "/jB98SrdXAYSbiprjIwc7WfVCuCV.jpg",
+  "posterPath": "/qWsHMrbg9DsBY3bCMk9jyYCRVRs.jpg",
+  "releaseDate": "2019-06-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d37817ca-63a1-4d98-a885-fcf40669dfc8",
+      "title": "Annabelle 3",
+      "subtitle": null,
+      "timestampString": "01:58:16",
+      "timestampInSeconds": 7096,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #172",
+        "youtubeId": "ahOskajDN8o",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ahOskajDN8o/hqdefault.jpg",
+        "durationInMinutes": 250,
+        "releaseDate": 1564145413000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

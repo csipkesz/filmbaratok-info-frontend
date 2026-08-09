@@ -1,0 +1,41 @@
+{
+  "id": "bf40965d-ae3e-4867-82cc-42e37f7d2db2",
+  "title": "Engedj be [2008]",
+  "originalTitle": "Låt den rätte komma in",
+  "overview": "When Oskar, a sensitive, bullied 12-year-old boy, meets his new neighbor, the mysterious and moody Eli, they strike up a friendship. Initially reserved with each other, Oskar and Eli slowly form a close bond, but it soon becomes apparent that she is no ordinary young girl.",
+  "backdropPath": "/gH3lvKcY6EDMXrUtqZEiHPVV91n.jpg",
+  "posterPath": "/7IG4WjaAOVDlLvLUkh513HSwhW8.jpg",
+  "releaseDate": "2008-10-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "74c2ff50-119a-4111-9c8e-99fb7d7e4154",
+      "title": "Engedj be [2008]",
+      "subtitle": null,
+      "timestampString": "03:30:00",
+      "timestampInSeconds": 12600,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #277",
+        "youtubeId": "VVHLdlqq_xY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VVHLdlqq_xY/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1714501831000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

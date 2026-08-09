@@ -1,0 +1,28 @@
+{
+  "id": "1f72fcd0-63ae-4d3e-a9d3-b8d9dafb03f9",
+  "title": "Seinfeld",
+  "originalTitle": "Seinfeld",
+  "overview": "Jerry Seinfeld, a népszerű amerikai komikus a főhőse ennek az innovatív, szokatlan, a szókimondó poénoktól sem mentes félórás vígjátéksorozatnak. Egyedülálló nézőpontból vehetjük szemügyre, hogyan alakulnak át a valóságos eseményekről és problémákról alkotott gondolatok a komikus színpadi alakításává. Férfibarátság, romantika, család, karrier és sport: nagyjából a fenti témák körül zajlanak a barátok, Jerry, George, Elaine és Kramer önálló, felnőtt hétköznapjai a különleges, lüktető metropoliszban, melynek neve New York.",
+  "backdropPath": "/tMRdEsMg9MyXAkcufK9YJEeIaNW.jpg",
+  "posterPath": "/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
+  "releaseDate": "1989-07-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "32b8dae2-bca2-4aef-b8a6-2a9e167699a2",
+      "title": "Seinfeld",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Seinfeld",
+        "youtubeId": "sXU7fbGu_98",
+        "thumbnailUrl": "https://i.ytimg.com/vi/sXU7fbGu_98/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1736539547000,
+        "participants": []
+      }
+    }
+  ]
+}

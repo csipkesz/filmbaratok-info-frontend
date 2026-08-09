@@ -1,0 +1,45 @@
+{
+  "id": "55309c5b-7d37-46f1-a25c-4aefabb34e5b",
+  "title": "Zöld könyv - Útmutató az élethez",
+  "originalTitle": "Green Book",
+  "overview": "Tony Lip, a bouncer in 1962, is hired to drive pianist Don Shirley on a tour through the Deep South in the days when African Americans, forced to find alternate accommodations and services due to segregation laws below the Mason-Dixon Line, relied on a guide called The Negro Motorist Green Book.",
+  "backdropPath": "/5En0fmDagt3Pk8d7P3uTwfeQceg.jpg",
+  "posterPath": "/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+  "releaseDate": "2018-11-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e7f060cb-f8e5-4f3a-a260-801ab01a1004",
+      "title": "Zöld könyv - Útmutató az élethez",
+      "subtitle": null,
+      "timestampString": "00:07:44",
+      "timestampInSeconds": 464,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #163 (Oscar)",
+        "youtubeId": "eQI9z_VhYj4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/eQI9z_VhYj4/hqdefault.jpg",
+        "durationInMinutes": 244,
+        "releaseDate": 1550837351000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "465eb549-2e74-46d4-9d72-df2e21471883",
+            "name": "Anna"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "fad572d7-4b23-4285-955d-223f31dfe495",
+            "name": "Szöllőskei Gábor"
+          }
+        ]
+      }
+    }
+  ]
+}

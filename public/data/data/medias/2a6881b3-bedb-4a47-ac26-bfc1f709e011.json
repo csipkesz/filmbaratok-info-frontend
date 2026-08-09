@@ -1,0 +1,41 @@
+{
+  "id": "2a6881b3-bedb-4a47-ac26-bfc1f709e011",
+  "title": "Ördögűzés",
+  "originalTitle": "The Exorcism",
+  "overview": "A troubled actor begins to unravel while shooting a supernatural horror film, leading his estranged daughter to wonder if he's slipping back into his past addictions or if there's something more sinister at play.",
+  "backdropPath": "/93dDAqtrFQk5zeofDtQGExPlYjC.jpg",
+  "posterPath": "/ar2h87jlTfMlrDZefR3VFz1SfgH.jpg",
+  "releaseDate": "2024-05-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "64d2dda8-1f5f-4915-a163-e03090ec09ac",
+      "title": "Ördögűzés",
+      "subtitle": null,
+      "timestampString": "01:45:06",
+      "timestampInSeconds": 6306,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #282",
+        "youtubeId": "gcFN31mIkUo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gcFN31mIkUo/hqdefault.jpg",
+        "durationInMinutes": 188,
+        "releaseDate": 1720893631000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

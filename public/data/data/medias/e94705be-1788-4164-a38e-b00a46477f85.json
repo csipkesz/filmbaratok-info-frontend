@@ -1,0 +1,45 @@
+{
+  "id": "e94705be-1788-4164-a38e-b00a46477f85",
+  "title": "Lore (2012)",
+  "originalTitle": "Lore",
+  "overview": "After being abandoned by their Nazi parents at the end of World War II, five German siblings embark on a harrowing journey across their war-torn country. Led by the eldest, 14 year-old Lore, the children are forced to confront their parents’ actions and the reality of a new world.",
+  "backdropPath": "/vjvrgGvCvS6crRg5bFcyoubQnZX.jpg",
+  "posterPath": "/1yWoAyREEPDfyVnOgHUVfLVitmZ.jpg",
+  "releaseDate": "2012-09-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "384f37fd-bfdc-40c8-af85-67ce8b22a6bb",
+      "title": "Lore (2012)",
+      "subtitle": null,
+      "timestampString": "02:06:15",
+      "timestampInSeconds": 7575,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #142",
+        "youtubeId": "9S7p7P1Y2po",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9S7p7P1Y2po/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1525105433000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

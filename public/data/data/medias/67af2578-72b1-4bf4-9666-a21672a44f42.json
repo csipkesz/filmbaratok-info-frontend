@@ -1,0 +1,45 @@
+{
+  "id": "67af2578-72b1-4bf4-9666-a21672a44f42",
+  "title": "Vírus",
+  "originalTitle": "Outbreak",
+  "overview": "A deadly airborne virus finds its way into the USA and starts killing off people at an epidemic rate. Col. Sam Daniels' job is to stop the virus spreading from a small town, which must be quarantined, and to prevent an over reaction by the White House.",
+  "backdropPath": "/jwwltwI2uLpxhIUReucyLBkL8dg.jpg",
+  "posterPath": "/4KymNvlWR0XF0sqX2BWRd9Z3yXR.jpg",
+  "releaseDate": "1995-03-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e794d2b6-aa20-40de-998d-584fe133885d",
+      "title": "Vírus",
+      "subtitle": null,
+      "timestampString": "03:24:05",
+      "timestampInSeconds": 12245,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #221",
+        "youtubeId": "BjeQjRFvXcM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/BjeQjRFvXcM/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1635519858000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "74bd0ba3-91a7-4f51-8730-aeb2fe17a1f6",
+  "title": "Halálos fegyver",
+  "originalTitle": "Lethal Weapon",
+  "overview": "Martin Riggs (Clayne Crawford), texasi nyomozó a felesége tragkus halála miatt betegesen veti bele magát a legveszélyesebb helyzetekbe. A veterán nyomozó, Roger Murtaugh (Damon Wayans) társa lesz, aki éppen túl van egy súlyos szívinfarktuson, és ezért minden igyekezetével azon van, hogy izgalmaktól mentes, nyugodt életet éljen. Ám Martin Riggs mellett ez korántsem egyszerű feladat.",
+  "backdropPath": "/yqZ5ACKeNJ30mylUEzvtWZu4pGU.jpg",
+  "posterPath": "/lRRubsEhTsGPVQFy14JmvQ3NWGi.jpg",
+  "releaseDate": "2016-09-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "11f02fae-3fa8-4e3e-80e8-2746e9b81ca2",
+      "title": "Halálos fegyver",
+      "subtitle": null,
+      "timestampString": "02:58:30",
+      "timestampInSeconds": 10710,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #272",
+        "youtubeId": "KpeK1-FjITs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/KpeK1-FjITs/hqdefault.jpg",
+        "durationInMinutes": 253,
+        "releaseDate": 1708456799000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

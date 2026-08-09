@@ -1,0 +1,49 @@
+{
+  "id": "8d8ec7d1-5c27-4360-be9a-b4fc9ef9a805",
+  "title": "Eddie, a sas",
+  "originalTitle": "Eddie the Eagle",
+  "overview": "The feel-good story of Michael 'Eddie' Edwards, an unlikely but courageous British ski-jumper who never stopped believing in himself—even as an entire nation was counting him out. With the help of a rebellious and charismatic coach, Eddie takes on the establishment and wins the hearts of sports fans around the world by making an improbable and historic showing at the 1988 Calgary Winter Olympics.",
+  "backdropPath": "/jbcEWHYpnlZ1aiMCLcRyiIhwUwY.jpg",
+  "posterPath": "/r562gvTRVHnDSvG7MrKHEECSn1V.jpg",
+  "releaseDate": "2016-02-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9682828b-0632-4f8e-b346-639fad83739d",
+      "title": "Eddie, a sas",
+      "subtitle": null,
+      "timestampString": "02:03:05",
+      "timestampInSeconds": 7385,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #97",
+        "youtubeId": "544nF31uOsc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/544nF31uOsc/hqdefault.jpg",
+        "durationInMinutes": 219,
+        "releaseDate": 1461517994000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

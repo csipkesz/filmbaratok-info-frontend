@@ -1,0 +1,45 @@
+{
+  "id": "d2a16a53-f74f-4e4b-adb3-cf8d64d81e48",
+  "title": "Argylle: A szuperkém",
+  "originalTitle": "Argylle",
+  "overview": "When the plots of reclusive author Elly Conway's fictional espionage novels begin to mirror the covert actions of a real-life spy organization, quiet evenings at home become a thing of the past. Accompanied by her cat Alfie and Aidan, a cat-allergic spy, Elly races across the world to stay one step ahead of the killers as the line between Conway's fictional world and her real one begins to blur.",
+  "backdropPath": "/mY3CRicUMaX3Btxv8yspud75UJu.jpg",
+  "posterPath": "/siduVKgOnABO4WH4lOwPQwaGwJp.jpg",
+  "releaseDate": "2024-01-31T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d97fb035-dc1d-4b07-9a9e-37d4cae125ce",
+      "title": "Argylle: A szuperkém",
+      "subtitle": null,
+      "timestampString": "01:51:00",
+      "timestampInSeconds": 6660,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #272",
+        "youtubeId": "KpeK1-FjITs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/KpeK1-FjITs/hqdefault.jpg",
+        "durationInMinutes": 253,
+        "releaseDate": 1708456799000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

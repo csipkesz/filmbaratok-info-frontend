@@ -1,0 +1,45 @@
+{
+  "id": "5c0d5c0d-f1ae-4495-9a10-cd68e9489f96",
+  "title": "Az - Második fejezet",
+  "originalTitle": "It Chapter Two",
+  "overview": "27 years after overcoming the malevolent supernatural entity Pennywise, the former members of the Losers' Club, who have grown up and moved away from Derry, are brought back together by a devastating phone call.",
+  "backdropPath": "/6LVSrgm83UYWlrLTCVGmWhFKYO0.jpg",
+  "posterPath": "/zfE0R94v1E8cuKAerbskfD3VfUt.jpg",
+  "releaseDate": "2019-09-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "065b0972-e47f-41e7-9427-d2bd5c6f599b",
+      "title": "Az - Második fejezet",
+      "subtitle": null,
+      "timestampString": "00:14:47",
+      "timestampInSeconds": 887,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #176",
+        "youtubeId": "IBv2w6mBz1s",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IBv2w6mBz1s/hqdefault.jpg",
+        "durationInMinutes": 267,
+        "releaseDate": 1570124501000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

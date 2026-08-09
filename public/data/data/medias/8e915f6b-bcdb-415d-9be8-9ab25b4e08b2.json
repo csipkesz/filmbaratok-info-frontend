@@ -1,0 +1,41 @@
+{
+  "id": "8e915f6b-bcdb-415d-9be8-9ab25b4e08b2",
+  "title": "Az asztronauta",
+  "originalTitle": "The Astronaut's Wife",
+  "overview": "When astronaut Spencer Armacost returns to Earth after a mission that nearly cost him his life, he decides to take a desk job in order to see his beautiful wife, Jillian, more often. Gradually, Jillian notices that Spencer's personality seems to have changed, but her concerns fade when she discovers that she's pregnant. As Jillian grows closer to becoming a mother, her suspicions about Spencer return. Why does it seem as if he's a different person?",
+  "backdropPath": "/c77Aq23NdM8UAzlH5GuniJBuCPd.jpg",
+  "posterPath": "/54RGJ6INW9ERG8IaalmMKbbDgwH.jpg",
+  "releaseDate": "1999-08-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5cb39194-2cdf-4bd9-a49b-d927e4bf1957",
+      "title": "Az asztronauta",
+      "subtitle": null,
+      "timestampString": "03:28:47",
+      "timestampInSeconds": 12527,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #302",
+        "youtubeId": "3K4xdZiHI_w",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3K4xdZiHI_w/hqdefault.jpg",
+        "durationInMinutes": 235,
+        "releaseDate": 1747414746000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

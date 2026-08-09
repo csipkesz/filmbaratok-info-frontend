@@ -1,0 +1,45 @@
+{
+  "id": "ae0de830-2c72-40a4-80f7-1c39d7c76def",
+  "title": "A csapda / Követés",
+  "originalTitle": "Following",
+  "overview": "Bill, an idle, unemployed aspiring writer, walks the crowded streets of London following randomly chosen strangers, a seemingly innocent entertainment that becomes dangerous when he crosses paths with a mysterious character.",
+  "backdropPath": "/yf5I5VHllK4h5VdbxHfQ40RBTe8.jpg",
+  "posterPath": "/3bX6VVSMf0dvzk5pMT4ALG5A92d.jpg",
+  "releaseDate": "1999-04-02T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b0617b37-b766-4c0a-bf60-19654520d830",
+      "title": "A csapda / Követés",
+      "subtitle": null,
+      "timestampString": "03:11:49",
+      "timestampInSeconds": 11509,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #67",
+        "youtubeId": "FATQkJjmAQg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/FATQkJjmAQg/hqdefault.jpg",
+        "durationInMinutes": 206,
+        "releaseDate": 1424108444000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

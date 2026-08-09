@@ -1,0 +1,45 @@
+{
+  "id": "65aa03ac-76e7-42a7-bbd7-40177c15d0df",
+  "title": "A fekete múmia átka",
+  "originalTitle": "A fekete múmia átka",
+  "overview": "Inside a literary cafe, novelists convene to trade ideas, imagine stories and dream of greatness. Inspired by the works of Hungarian writer Jenő Rejtő.",
+  "backdropPath": "/trBIHJ7Ntz3nbaBVlj04adO085t.jpg",
+  "posterPath": "/sYj8QZoF9BNtoHg3YZwfQzitVHt.jpg",
+  "releaseDate": "2015-09-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0b7387af-d86f-4342-be49-a950abd3cc41",
+      "title": "A fekete múmia átka",
+      "subtitle": null,
+      "timestampString": "01:36:13",
+      "timestampInSeconds": 5773,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #82",
+        "youtubeId": "g8wdyUhhVtI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/g8wdyUhhVtI/hqdefault.jpg",
+        "durationInMinutes": 170,
+        "releaseDate": 1443630602000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

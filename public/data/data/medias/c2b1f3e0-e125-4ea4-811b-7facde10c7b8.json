@@ -1,0 +1,45 @@
+{
+  "id": "c2b1f3e0-e125-4ea4-811b-7facde10c7b8",
+  "title": "Fűrész X",
+  "originalTitle": "Saw X",
+  "overview": "Between the events of 'Saw' and 'Saw II', a sick and desperate John Kramer travels to Mexico for a risky and experimental medical procedure in hopes of a miracle cure for his cancer, only to discover the entire operation is a scam to defraud the most vulnerable. Armed with a newfound purpose, the infamous serial killer returns to his work, turning the tables on the con artists in his signature visceral way through devious, deranged, and ingenious traps.",
+  "backdropPath": "/uUJp5I4IbzuhdUiEx4R9OAoFpbz.jpg",
+  "posterPath": "/u7Lp1Hi8aBS73jv4KRMIv5aK4ax.jpg",
+  "releaseDate": "2023-09-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a0974ead-4466-4dfb-aad2-6d69629f5669",
+      "title": "Fűrész X",
+      "subtitle": null,
+      "timestampString": "00:45:30",
+      "timestampInSeconds": 2730,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #265",
+        "youtubeId": "W7K_jzS7pPg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/W7K_jzS7pPg/hqdefault.jpg",
+        "durationInMinutes": 254,
+        "releaseDate": 1698781502000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

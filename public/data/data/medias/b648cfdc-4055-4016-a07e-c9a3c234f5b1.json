@@ -1,0 +1,58 @@
+{
+  "id": "b648cfdc-4055-4016-a07e-c9a3c234f5b1",
+  "title": "Shaun, a bárány - A film",
+  "originalTitle": "Shaun the Sheep Movie",
+  "overview": "When Shaun decides to take the day off and have some fun, he gets a little more action than he bargained for. A mix up with the Farmer, a caravan and a very steep hill lead them all to the Big City and it's up to Shaun and the flock to return everyone safely to the green grass of home.",
+  "backdropPath": "/sQbpfYoGiEBUnr8tBjHP51heNNT.jpg",
+  "posterPath": "/1GMvKNy2Ht5QwI0oV0ycYnxzWdC.jpg",
+  "releaseDate": "2015-02-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d47be6f7-9e87-41aa-88d0-dee274baa4db",
+      "title": "Shaun, a bárány - A film",
+      "subtitle": null,
+      "timestampString": "00:46:30",
+      "timestampInSeconds": 2790,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #70",
+        "youtubeId": "_vL1V5oablM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_vL1V5oablM/hqdefault.jpg",
+        "durationInMinutes": 182,
+        "releaseDate": 1427860093000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    },
+    {
+      "id": "de1ac799-c22e-4f31-9858-d09a4b4161f6",
+      "title": "Shaun, a bárány - A film",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "AUDIO_COMMENTARY",
+        "title": "Filmbarátok audiokommentár: Shaun, a bárány - A film",
+        "youtubeId": "SY1wPtWIcC0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/SY1wPtWIcC0/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1589701476000,
+        "participants": []
+      }
+    }
+  ]
+}

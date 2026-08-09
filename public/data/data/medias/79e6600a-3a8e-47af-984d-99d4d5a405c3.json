@@ -1,0 +1,41 @@
+{
+  "id": "79e6600a-3a8e-47af-984d-99d4d5a405c3",
+  "title": "Avatar",
+  "originalTitle": "Avatar",
+  "overview": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
+  "backdropPath": "/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
+  "posterPath": "/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+  "releaseDate": "2009-12-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "87366921-6a8c-4114-af4c-ca094580f6c2",
+      "title": "Avatar",
+      "subtitle": null,
+      "timestampString": "02:12:45",
+      "timestampInSeconds": 7965,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #240",
+        "youtubeId": "T9F8CwPjgqQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/T9F8CwPjgqQ/hqdefault.jpg",
+        "durationInMinutes": 249,
+        "releaseDate": 1664376879000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "530d7b4d-0b27-4f77-afd1-161011759db3",
+  "title": "Suburra",
+  "originalTitle": "Suburra",
+  "overview": "A gangster known as \"Samurai\" wants to turn the waterfront of Rome into a new Las Vegas. All the local mob bosses have agreed to work for this common goal. But peace is not to last long.",
+  "backdropPath": "/fGjqCsoJttbTxkrcWfupuT1xLQx.jpg",
+  "posterPath": "/ml6iNvTVrWxDusMhbizphQjCHPw.jpg",
+  "releaseDate": "2015-10-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6d139996-87c2-41af-9614-45a40c888170",
+      "title": "Suburra",
+      "subtitle": null,
+      "timestampString": "01:45:16",
+      "timestampInSeconds": 6316,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #145",
+        "youtubeId": "oIN5otdDLXA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/oIN5otdDLXA/hqdefault.jpg",
+        "durationInMinutes": 299,
+        "releaseDate": 1528994767000,
+        "participants": [
+          {
+            "id": "08c9ac79-2034-4299-9ea2-efc1972b9972",
+            "name": "Gábor (Videodrome)"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          },
+          {
+            "id": "fad572d7-4b23-4285-955d-223f31dfe495",
+            "name": "Szöllőskei Gábor"
+          }
+        ]
+      }
+    }
+  ]
+}

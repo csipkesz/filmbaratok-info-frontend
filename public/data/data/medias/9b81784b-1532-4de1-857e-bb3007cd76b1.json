@@ -1,0 +1,41 @@
+{
+  "id": "9b81784b-1532-4de1-857e-bb3007cd76b1",
+  "title": "Az éhezők viadala: Énekesmadarak és kígyók balladája",
+  "originalTitle": null,
+  "overview": null,
+  "backdropPath": null,
+  "posterPath": null,
+  "releaseDate": null,
+  "topics": [
+    {
+      "id": "3ccc7b2a-b632-40f9-aeab-4fe2eff4195a",
+      "title": "Az éhezők viadala: Énekesmadarak és kígyók balladája [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "00:40:15",
+      "timestampInSeconds": 2415,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #267",
+        "youtubeId": "fjGmqt2DQZg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fjGmqt2DQZg/hqdefault.jpg",
+        "durationInMinutes": 201,
+        "releaseDate": 1701380416000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

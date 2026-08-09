@@ -1,0 +1,41 @@
+{
+  "id": "51b70192-b244-4702-8692-9003f2b615a1",
+  "title": "Szerelemre hangszerelve",
+  "originalTitle": "Begin Again",
+  "overview": "Gretta, a budding songwriter, finds herself alone after her boyfriend Dave ditches her. Her life gains purpose when Dan, a record label executive, notices her talent.",
+  "backdropPath": "/xrSRmL6pXnRfu9vKwayILkNgLP.jpg",
+  "posterPath": "/qx4HXHXt528hS4rwePZbZo20xqZ.jpg",
+  "releaseDate": "2014-06-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f0a2e05c-68fa-4d1c-a0fc-7299fee02025",
+      "title": "Szerelemre hangszerelve",
+      "subtitle": null,
+      "timestampString": "02:00:31",
+      "timestampInSeconds": 7231,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #59",
+        "youtubeId": "xa1Ymms2_9c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/xa1Ymms2_9c/hqdefault.jpg",
+        "durationInMinutes": 189,
+        "releaseDate": 1413978295000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

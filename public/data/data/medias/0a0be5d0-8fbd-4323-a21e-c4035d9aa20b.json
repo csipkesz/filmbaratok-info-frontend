@@ -1,0 +1,45 @@
+{
+  "id": "0a0be5d0-8fbd-4323-a21e-c4035d9aa20b",
+  "title": "Wonder Woman 1984",
+  "originalTitle": "Wonder Woman 1984",
+  "overview": "A botched store robbery places Wonder Woman in a global battle against a powerful and mysterious ancient force that puts her powers in jeopardy.",
+  "backdropPath": "/egg7KFi18TSQc1s24RMmR9i2zO6.jpg",
+  "posterPath": "/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg",
+  "releaseDate": "2020-12-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ffabb134-630b-404c-bf11-d376a2cea31a",
+      "title": "Wonder Woman 1984",
+      "subtitle": null,
+      "timestampString": "00:31:08",
+      "timestampInSeconds": 1868,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #204",
+        "youtubeId": "uCWG2Ku59nQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uCWG2Ku59nQ/hqdefault.jpg",
+        "durationInMinutes": 207,
+        "releaseDate": 1610723034000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "465eb549-2e74-46d4-9d72-df2e21471883",
+            "name": "Anna"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

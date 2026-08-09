@@ -1,0 +1,45 @@
+{
+  "id": "63cc81f1-2184-40cf-bcf4-038386025579",
+  "title": "Rambo V. - Utolsó vér",
+  "originalTitle": "Rambo: Last Blood",
+  "overview": "After fighting his demons for decades, John Rambo now lives in peace on his family ranch in Arizona, but his rest is interrupted when Gabriela, the granddaughter of his housekeeper María, disappears after crossing the border into Mexico to meet her biological father. Rambo, who has become a true father figure for Gabriela over the years, undertakes a desperate and dangerous journey to find her.",
+  "backdropPath": "/spYx9XQFODuqEVoPpvaJI1ksAVt.jpg",
+  "posterPath": "/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg",
+  "releaseDate": "2019-09-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4c13d790-ce11-4264-91e2-e569765749e2",
+      "title": "Rambo V. - Utolsó vér",
+      "subtitle": null,
+      "timestampString": "01:42:47",
+      "timestampInSeconds": 6167,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #176",
+        "youtubeId": "IBv2w6mBz1s",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IBv2w6mBz1s/hqdefault.jpg",
+        "durationInMinutes": 267,
+        "releaseDate": 1570124501000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

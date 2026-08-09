@@ -1,0 +1,49 @@
+{
+  "id": "942df220-0967-45d5-952b-1d95c16b457d",
+  "title": "Az egészség ellenszere",
+  "originalTitle": "A Cure for Wellness",
+  "overview": "An ambitious young executive is sent to retrieve his company's CEO from an idyllic but mysterious \"wellness center\" at a remote location in the Swiss Alps but soon suspects that the spa's miraculous treatments are not what they seem.",
+  "backdropPath": "/uXx9wjfJEzLlfqB8GW67SYBrhVT.jpg",
+  "posterPath": "/8QWJtne0pTsNoJ86KE993aQYTLW.jpg",
+  "releaseDate": "2017-02-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a4c61e31-123f-48f3-b07e-4154d717270b",
+      "title": "Az egészség ellenszere",
+      "subtitle": null,
+      "timestampString": "00:32:24",
+      "timestampInSeconds": 1944,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #117",
+        "youtubeId": "pgzo-WxFTbU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/pgzo-WxFTbU/hqdefault.jpg",
+        "durationInMinutes": 176,
+        "releaseDate": 1487953222000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "fad572d7-4b23-4285-955d-223f31dfe495",
+            "name": "Szöllőskei Gábor"
+          }
+        ]
+      }
+    }
+  ]
+}

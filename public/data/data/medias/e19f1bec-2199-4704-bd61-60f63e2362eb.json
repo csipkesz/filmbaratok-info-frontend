@@ -1,0 +1,41 @@
+{
+  "id": "e19f1bec-2199-4704-bd61-60f63e2362eb",
+  "title": "Virunga",
+  "originalTitle": "Virunga",
+  "overview": "Virunga in the Democratic Republic of the Congo is Africa’s oldest national park, a UNESCO world heritage site, and a contested ground among insurgencies seeking to topple the government that see untold profits in the land. Among this ongoing power struggle, Virunga also happens to be the last natural habitat for the critically endangered mountain gorilla. The only thing standing in the way of the forces closing in around the gorillas: a handful of passionate park rangers and journalists fighting to secure the park’s borders and expose the corruption of its enemies. Filled with shocking footage, and anchored by the surprisingly deep and gentle characters of the gorillas themselves, Virunga is a galvanizing call to action around an ongoing political and environmental crisis in the Congo.",
+  "backdropPath": "/6KDpjoCxlNapSzqUdagloiQqljh.jpg",
+  "posterPath": "/7ULqkiqpxWfQxNHRq5PeZjJQ3f6.jpg",
+  "releaseDate": "2014-11-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "74b8248d-ef20-4f74-9297-e9b65372d6d7",
+      "title": "Virunga",
+      "subtitle": null,
+      "timestampString": "01:42:30",
+      "timestampInSeconds": 6150,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #121",
+        "youtubeId": "-73qLSZm328",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-73qLSZm328/hqdefault.jpg",
+        "durationInMinutes": 130,
+        "releaseDate": 1494559801000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

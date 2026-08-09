@@ -1,0 +1,45 @@
+{
+  "id": "97000a7b-210d-42a6-8ffc-c22c35c35e43",
+  "title": "Portyán",
+  "originalTitle": "Cruising",
+  "overview": "When New York is caught in the grip of a sadistic serial killer who preys on patrons of the city's underground bars, rookie cop Steve Burns infiltrates the S&M subculture to try and lure him out of the shadows.",
+  "backdropPath": "/6Dm3hMRAFJqMS9wGkCY14XbZFrm.jpg",
+  "posterPath": "/bb9CND0WyfwdHOZY5XmP4Qn8taz.jpg",
+  "releaseDate": "1980-02-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "55915143-1744-4792-a336-e2408ec24950",
+      "title": "Portyán",
+      "subtitle": null,
+      "timestampString": "03:49:48",
+      "timestampInSeconds": 13788,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #255",
+        "youtubeId": "z9qYgREOM9c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z9qYgREOM9c/hqdefault.jpg",
+        "durationInMinutes": 258,
+        "releaseDate": 1685482206000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

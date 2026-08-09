@@ -1,0 +1,45 @@
+{
+  "id": "69507b77-991d-40a0-8d87-d0122518c19e",
+  "title": "Rém hangosan és irtó közel",
+  "originalTitle": "Extremely Loud & Incredibly Close",
+  "overview": "A year after his father's death, Oskar, a troubled young boy, discovers a mysterious key he believes was left for him by his father and embarks on a scavenger hunt to find the matching lock.",
+  "backdropPath": "/hTc55dlCPMP4oqrUU66GjKjSblp.jpg",
+  "posterPath": "/6pszViNvKr1r31pP7gJNYDHEx5P.jpg",
+  "releaseDate": "2011-12-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a09e8a81-43e2-47b8-90d3-fdcc2fcb5168",
+      "title": "Rém hangosan és irtó közel",
+      "subtitle": null,
+      "timestampString": "03:02:35",
+      "timestampInSeconds": 10955,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #241",
+        "youtubeId": "wkIRMrjPzTE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wkIRMrjPzTE/hqdefault.jpg",
+        "durationInMinutes": 228,
+        "releaseDate": 1665676839000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

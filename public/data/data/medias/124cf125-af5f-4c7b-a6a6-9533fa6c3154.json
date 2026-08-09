@@ -1,0 +1,41 @@
+{
+  "id": "124cf125-af5f-4c7b-a6a6-9533fa6c3154",
+  "title": "A melós",
+  "originalTitle": "A Working Man",
+  "overview": "Levon Cade left behind a decorated military career in the black ops to live a simple life working construction. But when his boss's daughter, who is like family to him, is taken by human traffickers, his search to bring her home uncovers a world of corruption far greater than he ever could have imagined.",
+  "backdropPath": "/fTrQsdMS2MUw00RnzH0r3JWHhts.jpg",
+  "posterPath": "/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg",
+  "releaseDate": "2025-03-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "70394153-7069-4669-895a-2446d4df357e",
+      "title": "A melós",
+      "subtitle": null,
+      "timestampString": "00:34:02",
+      "timestampInSeconds": 2042,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #302",
+        "youtubeId": "3K4xdZiHI_w",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3K4xdZiHI_w/hqdefault.jpg",
+        "durationInMinutes": 235,
+        "releaseDate": 1747414746000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "4a451822-9206-42d7-8b91-c0bd8bbd6819",
+  "title": "Arany",
+  "originalTitle": "Gold",
+  "overview": "Kenny Wells, a modern-day prospector, hustler, and dreamer, is desperate for a lucky break. Left with few options, Wells teams up with an equally luckless geologist to execute a grandiose, last-ditch effort: to find gold deep in the uncharted jungle of Indonesia.",
+  "backdropPath": "/mDzzAQypU9CaolRyMiDVwlwffBY.jpg",
+  "posterPath": "/ukMXAdr325Tn1mLGkxdG8Lab16l.jpg",
+  "releaseDate": "2016-02-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c1e54db4-00a4-429b-a52a-6abbc36f874a",
+      "title": "Arany",
+      "subtitle": null,
+      "timestampString": "03:27:12",
+      "timestampInSeconds": 12432,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #232",
+        "youtubeId": "9TzGQXyouWk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9TzGQXyouWk/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1651670332000,
+        "participants": [
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

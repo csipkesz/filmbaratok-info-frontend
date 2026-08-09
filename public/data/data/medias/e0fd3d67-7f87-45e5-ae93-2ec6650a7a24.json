@@ -1,0 +1,45 @@
+{
+  "id": "e0fd3d67-7f87-45e5-ae93-2ec6650a7a24",
+  "title": "A Fabelman család",
+  "originalTitle": "The Fabelmans",
+  "overview": "Growing up in post-World War II era Arizona, young Sammy Fabelman aspires to become a filmmaker as he reaches adolescence, but soon discovers a shattering family secret and explores how the power of films can help him see the truth.",
+  "backdropPath": "/xQyGkQ8ICa4lgifGr3oZjkm3AJ2.jpg",
+  "posterPath": "/h7llKkqkkJtJrTOaDLuVeUYDQ7I.jpg",
+  "releaseDate": "2022-11-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3552945a-e51d-4eb3-9d84-0bb169ed31b8",
+      "title": "A Fabelman család",
+      "subtitle": null,
+      "timestampString": "03:26:05",
+      "timestampInSeconds": 12365,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #249",
+        "youtubeId": "1greFyKaw1M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/1greFyKaw1M/hqdefault.jpg",
+        "durationInMinutes": 296,
+        "releaseDate": 1676703823000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

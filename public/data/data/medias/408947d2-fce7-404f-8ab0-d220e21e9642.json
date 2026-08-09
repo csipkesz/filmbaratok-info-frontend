@@ -1,0 +1,45 @@
+{
+  "id": "408947d2-fce7-404f-8ab0-d220e21e9642",
+  "title": "Az oroszlánkirály [2019]",
+  "originalTitle": "The Lion King",
+  "overview": "Simba idolizes his father, King Mufasa, and takes to heart his own royal destiny. But not everyone in the kingdom celebrates the new cub's arrival. Scar, Mufasa's brother—and former heir to the throne—has plans of his own. The battle for Pride Rock is ravaged with betrayal, tragedy and drama, ultimately resulting in Simba's exile. With help from a curious pair of newfound friends, Simba will have to figure out how to grow up and take back what is rightfully his.",
+  "backdropPath": "/1TUg5pO1VZ4B0Q1amk3OlXvlpXV.jpg",
+  "posterPath": "/dzBtMocZuJbjLOXvrl4zGYigDzh.jpg",
+  "releaseDate": "2019-07-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "71ee629a-a935-4261-946f-2afad1093bfb",
+      "title": "Az oroszlánkirály [2019]",
+      "subtitle": null,
+      "timestampString": "00:44:22",
+      "timestampInSeconds": 2662,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #172",
+        "youtubeId": "ahOskajDN8o",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ahOskajDN8o/hqdefault.jpg",
+        "durationInMinutes": 250,
+        "releaseDate": 1564145413000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "3fd79379-057e-4669-b692-bfaf30933d5b",
+  "title": "Napszállta",
+  "originalTitle": "Napszállta",
+  "overview": "In 1913, an orphaned young woman arrives in Budapest to take up employment as a milliner at the hat store that belonged to her late parents but becomes mired in a search for a brother she had never known of.",
+  "backdropPath": "/ipQ78GQapFO1ny2xLh6vIyjZOAp.jpg",
+  "posterPath": "/5kIS2hHxVy3laSWxLjkN5VSibza.jpg",
+  "releaseDate": "2018-09-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0856740b-036a-4f96-afb1-9138f22c3bf4",
+      "title": "Napszállta",
+      "subtitle": null,
+      "timestampString": "02:13:53",
+      "timestampInSeconds": 8033,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #153",
+        "youtubeId": "o2r_oHM2CEM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/o2r_oHM2CEM/hqdefault.jpg",
+        "durationInMinutes": 239,
+        "releaseDate": 1539286396000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

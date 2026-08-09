@@ -1,0 +1,41 @@
+{
+  "id": "e27c1af8-9de7-4e05-9e8f-b5b1ff347bb1",
+  "title": "Dzsungeltúra",
+  "originalTitle": "Jungle Cruise",
+  "overview": "Dr. Lily Houghton enlists the aid of wisecracking skipper Frank Wolff to take her down the Amazon in his dilapidated boat. Together, they search for an ancient tree that holds the power to heal – a discovery that will change the future of medicine.",
+  "backdropPath": "/7WJjFviFBffEJvkAms4uWwbcVUk.jpg",
+  "posterPath": "/yKy9ELL8CON5sqDg4yIvBb5LTZL.jpg",
+  "releaseDate": "2021-07-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "416eaed4-b2e4-477f-9484-6b15d787f421",
+      "title": "Dzsungeltúra",
+      "subtitle": null,
+      "timestampString": "01:50:11",
+      "timestampInSeconds": 6611,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #216",
+        "youtubeId": "30tV_qEGOIE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/30tV_qEGOIE/hqdefault.jpg",
+        "durationInMinutes": 291,
+        "releaseDate": 1629219607000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

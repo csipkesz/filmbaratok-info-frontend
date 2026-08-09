@@ -1,0 +1,45 @@
+{
+  "id": "99f290bb-c271-48e1-95b9-15081c612b66",
+  "title": "A hamis Izabella",
+  "originalTitle": "A Hamis Izabella",
+  "overview": "Végh Márta, the teacher is looking for her student Vadász Ica in the Buda villa, but she only finds the tenant, Mrs. Paár - dead. The investigation reveals that Mrs. Paár was murdered for an invaluable stamp, the \"Fake Isabella\".",
+  "backdropPath": "/Wctx8wQukD7FmW2lKKLqIqB3AJ.jpg",
+  "posterPath": "/xSaaVNj3rSMUy2anLYndfKs6bck.jpg",
+  "releaseDate": "1968-06-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ed0c8c51-31b8-43aa-8051-5616f7efe884",
+      "title": "A hamis Izabella",
+      "subtitle": null,
+      "timestampString": "03:34:16",
+      "timestampInSeconds": 12856,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #194",
+        "youtubeId": "2m4_RXJX-Pw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/2m4_RXJX-Pw/hqdefault.jpg",
+        "durationInMinutes": 236,
+        "releaseDate": 1596041624000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "465eb549-2e74-46d4-9d72-df2e21471883",
+            "name": "Anna"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

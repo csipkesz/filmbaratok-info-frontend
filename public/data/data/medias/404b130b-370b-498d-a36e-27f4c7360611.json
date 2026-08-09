@@ -1,0 +1,41 @@
+{
+  "id": "404b130b-370b-498d-a36e-27f4c7360611",
+  "title": "És mi van Tomival?",
+  "originalTitle": "És mi van Tomival?",
+  "overview": "Sanyi (Szabolcs Thuróczy) is a puppeteer and an alcoholic. Pali (Tamás Polgár) is an elevator mechanic and an alcoholic. Together they search for their friend Tomi, who has already missed several AA meetings. They try to stay sober, which is not easy in a country where drinking is widely accepted as a daily practice. Sanyi's wife and daughter left him five years ago because of his addiction, and since then he has started a new life and stopped drinking, while Pali only needs a little push to drink again. Tomi probably doesn't even need that much. The two friends race against time on the streets of Budapest to find and rescue Tomi.",
+  "backdropPath": "/p6E5nPJVfUXQEyXcmBVEYo1LZx5.jpg",
+  "posterPath": "/3X9riRtfzGbekRHzKX1pyqF9MEq.jpg",
+  "releaseDate": "2024-10-31T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "efae0c78-e4c5-4cb0-85f0-eedd4376d0da",
+      "title": "És mi van Tomival?",
+      "subtitle": null,
+      "timestampString": "01:10:15",
+      "timestampInSeconds": 4215,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #290",
+        "youtubeId": "SsQxsH7PCqY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/SsQxsH7PCqY/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1731829298000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

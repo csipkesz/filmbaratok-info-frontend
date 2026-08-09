@@ -1,0 +1,45 @@
+{
+  "id": "91cd5a9b-2267-43e0-a6ea-632745930a6e",
+  "title": "A felolvasó",
+  "originalTitle": "The Reader",
+  "overview": "The story of Michael Berg, a German lawyer who, as a teenager in the late 1950s, had an affair with an older woman, Hanna, who then disappeared only to resurface years later as one of the defendants in a war crimes trial stemming from her actions as a concentration camp guard late in the war. He alone realizes that Hanna is illiterate and may be concealing that fact at the expense of her freedom.",
+  "backdropPath": "/waMGsUEoHfYj3A1uRMUUgpBa71d.jpg",
+  "posterPath": "/r0WURbmnhgKeBpHcpDULBgRedQM.jpg",
+  "releaseDate": "2008-12-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "18805103-f1d6-4c30-aa63-e3722d058ea3",
+      "title": "A felolvasó",
+      "subtitle": null,
+      "timestampString": "02:49:10",
+      "timestampInSeconds": 10150,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #204",
+        "youtubeId": "uCWG2Ku59nQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uCWG2Ku59nQ/hqdefault.jpg",
+        "durationInMinutes": 207,
+        "releaseDate": 1610723034000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "465eb549-2e74-46d4-9d72-df2e21471883",
+            "name": "Anna"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

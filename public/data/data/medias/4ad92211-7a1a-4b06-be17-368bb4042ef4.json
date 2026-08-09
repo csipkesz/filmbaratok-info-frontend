@@ -1,0 +1,45 @@
+{
+  "id": "4ad92211-7a1a-4b06-be17-368bb4042ef4",
+  "title": "Mennyei királyság",
+  "originalTitle": "Kingdom of Heaven",
+  "overview": "After his wife dies, a blacksmith named Balian is thrust into royalty, political intrigue and bloody holy wars during the Crusades.",
+  "backdropPath": "/8itHQecANtOevcCdr3AhVxFCYkw.jpg",
+  "posterPath": "/rNaBe4TwbMef71sgscqabpGKsxh.jpg",
+  "releaseDate": "2005-05-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c379ebd9-6145-472c-861c-3c53667b44d9",
+      "title": "Mennyei királyság",
+      "subtitle": null,
+      "timestampString": "03:30:35",
+      "timestampInSeconds": 12635,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #226",
+        "youtubeId": "g-SEAVbxOlA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/g-SEAVbxOlA/hqdefault.jpg",
+        "durationInMinutes": 224,
+        "releaseDate": 1643475639000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

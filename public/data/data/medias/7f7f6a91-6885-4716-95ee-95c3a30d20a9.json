@@ -1,0 +1,41 @@
+{
+  "id": "7f7f6a91-6885-4716-95ee-95c3a30d20a9",
+  "title": "Hullaadás",
+  "originalTitle": "Thanksgiving",
+  "overview": "After a Black Friday riot ends in tragedy, a mysterious Thanksgiving-inspired killer terrorizes Plymouth, Massachusetts - the birthplace of the holiday. Picking off residents one by one, what begins as random revenge killings are soon revealed to be part of a larger, sinister holiday plan.",
+  "backdropPath": "/ktHEdqmMWC1wdfPRMRCTZe2OISL.jpg",
+  "posterPath": "/f5f3TEVst1nHHyqgn7Z3tlwnBIH.jpg",
+  "releaseDate": "2023-11-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6b1348ee-2eaa-44f6-8047-cdd7c3bffeac",
+      "title": "Hullaadás",
+      "subtitle": null,
+      "timestampString": "01:51:42",
+      "timestampInSeconds": 6702,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #270",
+        "youtubeId": "Hk6gv0cu8TY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Hk6gv0cu8TY/hqdefault.jpg",
+        "durationInMinutes": 222,
+        "releaseDate": 1705227394000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

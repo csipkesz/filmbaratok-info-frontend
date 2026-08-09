@@ -1,0 +1,41 @@
+{
+  "id": "7fd89982-2221-4fbe-9862-b1a43260d7a4",
+  "title": "Taxidermia",
+  "originalTitle": "Taxidermia",
+  "overview": "Three stories. Three ages. Three men. Grandfather, father, son. One is an orderly, one is a leading sportsman, and one is a master taxidermist. One desires love, the other success, and the third immortality.",
+  "backdropPath": "/iagFTj7kfQ20gAK4vaItMyMaoU0.jpg",
+  "posterPath": "/uRqxKim0Vr1JZPLYcR1rjFtu74p.jpg",
+  "releaseDate": "2006-08-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "70a69dd3-6a34-41f4-a9e8-24ccc107e7a3",
+      "title": "Taxidermia",
+      "subtitle": null,
+      "timestampString": "02:10:00",
+      "timestampInSeconds": 7800,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #43",
+        "youtubeId": "WupIquHhCt0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/WupIquHhCt0/hqdefault.jpg",
+        "durationInMinutes": 164,
+        "releaseDate": 1389645501000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

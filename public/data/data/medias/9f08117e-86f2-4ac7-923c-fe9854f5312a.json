@@ -1,0 +1,49 @@
+{
+  "id": "9f08117e-86f2-4ac7-923c-fe9854f5312a",
+  "title": "Az időutazó felesége",
+  "originalTitle": "The Time Traveler's Wife",
+  "overview": "Henry egy genetikai hiba miatt időutazó - a legrosszabb, hogy ezt a képességét nem tudja befolyásolni. Ez összetetté teszi kapcsolatát Clare-rel, akivel mindent megpróbálnak megtenni azért, hogy szerelmük életben maradjon. A sorozatban megismerhetjük viszonyuk történetét hosszú éveken keresztül.",
+  "backdropPath": "/3MFzsf900Drv8Jv6klv7Qm59YnA.jpg",
+  "posterPath": "/52z9mXfXXqVjmwj6tWcz80zYAVp.jpg",
+  "releaseDate": "2022-05-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6c05128c-3441-442b-8570-855931db2534",
+      "title": "Az időutazó felesége",
+      "subtitle": null,
+      "timestampString": "03:27:40",
+      "timestampInSeconds": 12460,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #127",
+        "youtubeId": "XWuPbD-kRic",
+        "thumbnailUrl": "https://i.ytimg.com/vi/XWuPbD-kRic/hqdefault.jpg",
+        "durationInMinutes": 241,
+        "releaseDate": 1503602035000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          },
+          {
+            "id": "fad572d7-4b23-4285-955d-223f31dfe495",
+            "name": "Szöllőskei Gábor"
+          }
+        ]
+      }
+    }
+  ]
+}

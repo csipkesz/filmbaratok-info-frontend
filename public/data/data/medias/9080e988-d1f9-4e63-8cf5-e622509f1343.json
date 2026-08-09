@@ -1,0 +1,45 @@
+{
+  "id": "9080e988-d1f9-4e63-8cf5-e622509f1343",
+  "title": "Beavis és Butthead lenyomja Amerikát",
+  "originalTitle": "Beavis and Butt-Head Do America",
+  "overview": "Slacker duo Beavis and Butt-Head wake to discover their TV has been stolen. Their search for a new one takes them on a clueless adventure across America, during which they manage to accidentally become America's most wanted.",
+  "backdropPath": "/5B7idCmnzk4tdAc6tR8VgihZaMz.jpg",
+  "posterPath": "/vqdgQiRCSzgpFXLlbxbybfkleBM.jpg",
+  "releaseDate": "1996-12-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "22cc36bc-c783-4f9f-ba02-aafbe4d8ed3c",
+      "title": "Beavis és Butthead lenyomja Amerikát",
+      "subtitle": null,
+      "timestampString": "02:03:30",
+      "timestampInSeconds": 7410,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #223",
+        "youtubeId": "uKeMDPapOJE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uKeMDPapOJE/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1639837304000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

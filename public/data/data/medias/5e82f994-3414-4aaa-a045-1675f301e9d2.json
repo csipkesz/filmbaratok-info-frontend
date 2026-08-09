@@ -1,0 +1,41 @@
+{
+  "id": "5e82f994-3414-4aaa-a045-1675f301e9d2",
+  "title": "Csupasz pisztoly [2025]",
+  "originalTitle": "The Naked Gun",
+  "overview": "Only one man has the particular set of skills... to lead Police Squad and save the world: Lt. Frank Drebin Jr. Following in his father's footsteps, he must solve a murder case to prevent Police Squad from closure.",
+  "backdropPath": "/1wi1hcbl6KYqARjdQ4qrBWZdiau.jpg",
+  "posterPath": "/rwla9vqzrKVVKVKiOuROTIXGsxj.jpg",
+  "releaseDate": "2025-07-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a98fb85c-5e23-4a94-b8fd-ecd31a3ecc5c",
+      "title": "Csupasz pisztoly [2025]",
+      "subtitle": null,
+      "timestampString": "00:37:50",
+      "timestampInSeconds": 2270,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #308",
+        "youtubeId": "JX8Yhmv3ho0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JX8Yhmv3ho0/hqdefault.jpg",
+        "durationInMinutes": 210,
+        "releaseDate": 1755468901000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

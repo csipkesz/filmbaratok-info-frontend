@@ -1,0 +1,45 @@
+{
+  "id": "e18fbd50-b712-44b4-9a90-91b01018cd5a",
+  "title": "Alien: Romulus",
+  "originalTitle": "Alien: Romulus",
+  "overview": "While scavenging the deep ends of a derelict space station, a group of young space colonizers come face to face with the most terrifying life form in the universe.",
+  "backdropPath": "/iYqSQaWDttQIQzsxg9xHyg0bttG.jpg",
+  "posterPath": "/2uSWRTtCG336nuBiG8jOTEUKSy8.jpg",
+  "releaseDate": "2024-08-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f4068da5-df34-4d71-b200-091b2a701c84",
+      "title": "Alien: Romulus [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "03:35:00",
+      "timestampInSeconds": 12900,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #285 (1999-es filmek)",
+        "youtubeId": "9AOI1V1MgRI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9AOI1V1MgRI/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1725038107000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2a410f2d-81df-4915-9ee4-2696cdb9cba9",
+  "title": "Mirai: Lány a jövőből",
+  "originalTitle": "未来のミライ",
+  "overview": "Four-year-old Kun struggles with jealousy after his newborn sister, Mirai, begins receiving most of his family’s attention. Retreating to the garden, he encounters Mirai as a teenager from the future and embarks on extraordinary journeys across his family’s past, gradually discovering new perspectives on love, belonging and what it means to become an older brother.",
+  "backdropPath": "/r2FXILO1vUKXGS9xnPva4kkjdHo.jpg",
+  "posterPath": "/b9XvI4Nehzi0nXyNVD6DtT39P6l.jpg",
+  "releaseDate": "2018-07-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f4b77b3e-25da-469b-86fe-f5f4c4672bad",
+      "title": "Mirai: Lány a jövőből",
+      "subtitle": null,
+      "timestampString": "02:22:13",
+      "timestampInSeconds": 8533,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #160",
+        "youtubeId": "_a3zVw9qNvs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_a3zVw9qNvs/hqdefault.jpg",
+        "durationInMinutes": 196,
+        "releaseDate": 1547731556000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

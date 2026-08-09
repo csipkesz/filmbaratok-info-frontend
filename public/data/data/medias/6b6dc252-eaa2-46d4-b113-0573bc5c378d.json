@@ -1,0 +1,45 @@
+{
+  "id": "6b6dc252-eaa2-46d4-b113-0573bc5c378d",
+  "title": "X-Men : Apokalipszis",
+  "originalTitle": "X-Men: Apocalypse",
+  "overview": "After the re-emergence of the world's first mutant, world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan.",
+  "backdropPath": "/sTQNRqLbfCXolrb5CizAW1dj528.jpg",
+  "posterPath": "/ikA8UhYdTGpqbatFa93nIf6noSr.jpg",
+  "releaseDate": "2016-05-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "78294fdb-3899-467c-b168-d23b246d12c3",
+      "title": "X-Men : Apokalipszis",
+      "subtitle": null,
+      "timestampString": "00:39:38",
+      "timestampInSeconds": 2378,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #99",
+        "youtubeId": "i9LKNH-nFAY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/i9LKNH-nFAY/hqdefault.jpg",
+        "durationInMinutes": 105,
+        "releaseDate": 1464062052000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

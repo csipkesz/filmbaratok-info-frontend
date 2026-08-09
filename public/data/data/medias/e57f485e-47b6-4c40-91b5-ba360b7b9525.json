@@ -1,0 +1,45 @@
+{
+  "id": "e57f485e-47b6-4c40-91b5-ba360b7b9525",
+  "title": "A gyilkos járat",
+  "originalTitle": "Bullet Train",
+  "overview": "Unlucky assassin Ladybug is determined to do his job peacefully after one too many gigs gone off the rails. Fate, however, may have other plans, as Ladybug's latest mission puts him on a collision course with lethal adversaries from around the globe—all with connected, yet conflicting, objectives—on the world's fastest train.",
+  "backdropPath": "/y2Ca1neKke2mGPMaHzlCNDVZqsK.jpg",
+  "posterPath": "/j8szC8OgrejDQjjMKSVXyaAjw3V.jpg",
+  "releaseDate": "2022-08-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3bc32afa-98e8-4c45-bd69-2e36a1b4ac69",
+      "title": "A gyilkos járat",
+      "subtitle": null,
+      "timestampString": "01:20:18",
+      "timestampInSeconds": 4818,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #237",
+        "youtubeId": "c2QWiknBzts",
+        "thumbnailUrl": "https://i.ytimg.com/vi/c2QWiknBzts/hqdefault.jpg",
+        "durationInMinutes": 246,
+        "releaseDate": 1660371499000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

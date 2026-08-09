@@ -1,0 +1,45 @@
+{
+  "id": "e495d94d-c5d5-417c-b9c3-f08bee5041ef",
+  "title": "Félvilág",
+  "originalTitle": "Félvilág",
+  "overview": "The story of three women - a famous prostitute, her housekeeper and their new maid - living in Budapest of 1910s, whose passionate, bizarre and complex relationship can only lead to one thing: murder.",
+  "backdropPath": "/cvOxBnR3IP2YBIvjFGBc0NDYpg6.jpg",
+  "posterPath": "/stfP9IzdfMiWsLFClwKmlmKHFLE.jpg",
+  "releaseDate": "2015-12-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "52bc091d-80c4-45df-84c4-8f37a72dba1c",
+      "title": "Félvilág",
+      "subtitle": null,
+      "timestampString": "03:46:14",
+      "timestampInSeconds": 13574,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #91",
+        "youtubeId": "G-6KMqIQhQQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/G-6KMqIQhQQ/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1454001243000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

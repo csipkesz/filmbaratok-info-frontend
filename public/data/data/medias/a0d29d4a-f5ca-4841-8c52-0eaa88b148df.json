@@ -1,0 +1,45 @@
+{
+  "id": "a0d29d4a-f5ca-4841-8c52-0eaa88b148df",
+  "title": "28 nappal később",
+  "originalTitle": "28 Days Later",
+  "overview": "Twenty-eight days after a killer virus was accidentally unleashed from a British research facility, a small group of London survivors are caught in a desperate struggle to protect themselves from the infected. Carried by animals and humans, the virus turns those it infects into homicidal maniacs -- and it's absolutely impossible to contain.",
+  "backdropPath": "/aJFwk1clMal1prxAvKAgHxKPAf.jpg",
+  "posterPath": "/sQckQRt17VaWbo39GIu0TMOiszq.jpg",
+  "releaseDate": "2002-10-31T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "47207641-33e1-4bd9-a1d3-589fe695db33",
+      "title": "28 nappal később [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "00:56:40",
+      "timestampInSeconds": 3400,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #306",
+        "youtubeId": "fhwjWo2MiYI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fhwjWo2MiYI/hqdefault.jpg",
+        "durationInMinutes": 272,
+        "releaseDate": 1752602894000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

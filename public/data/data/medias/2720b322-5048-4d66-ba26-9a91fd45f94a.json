@@ -1,0 +1,41 @@
+{
+  "id": "2720b322-5048-4d66-ba26-9a91fd45f94a",
+  "title": "Kész katasztrófa",
+  "originalTitle": "Trainwreck",
+  "overview": "Ever since her father drilled into her head that monogamy isn't realistic, magazine writer Amy has made promiscuity her credo. As much as she enjoys an uninhibited life free of commitment, Amy is really in a rut. While writing a profile about charming and successful sports doctor Aaron Conners, she finds herself actually falling in love for the first time -- and what's more, Aaron seems to really like her too. Amy starts to wonder if it's time to clean up her act and face her fears.",
+  "backdropPath": "/9O6pLFE630h7IxslegYR9CV64aE.jpg",
+  "posterPath": "/wrY629UTCUAKLJ4CxQXz6DCE7pr.jpg",
+  "releaseDate": "2015-07-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "06ce88c5-dfc5-4037-b9c9-da1ef85feb04",
+      "title": "Kész katasztrófa",
+      "subtitle": null,
+      "timestampString": "00:53:30",
+      "timestampInSeconds": 3210,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #81",
+        "youtubeId": "jxVu-FT-Qv8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/jxVu-FT-Qv8/hqdefault.jpg",
+        "durationInMinutes": 158,
+        "releaseDate": 1442306890000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

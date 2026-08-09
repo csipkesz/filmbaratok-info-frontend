@@ -1,0 +1,41 @@
+{
+  "id": "07e01dd0-ac89-4f65-a859-f87cf7674c27",
+  "title": "Motorosok",
+  "originalTitle": "The Bikeriders",
+  "overview": "After a chance encounter, headstrong Kathy is drawn to Benny, member of Midwestern motorcycle club the Vandals. As the club transforms into a dangerous underworld of violence, Benny must choose between Kathy and his loyalty to the club.",
+  "backdropPath": "/kwGvFyRtGSSm8AFfnRNXoZTQmJj.jpg",
+  "posterPath": "/ApMuukdDAOR2rgaFDZIcjfigi64.jpg",
+  "releaseDate": "2024-06-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "bbe032f0-aa98-422a-8ec2-e738225db5b0",
+      "title": "Motorosok",
+      "subtitle": null,
+      "timestampString": "02:18:50",
+      "timestampInSeconds": 8330,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #281",
+        "youtubeId": "ov4eiYi-ekw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ov4eiYi-ekw/hqdefault.jpg",
+        "durationInMinutes": 248,
+        "releaseDate": 1719661725000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

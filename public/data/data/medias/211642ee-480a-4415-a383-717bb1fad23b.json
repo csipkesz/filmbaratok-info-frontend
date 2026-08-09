@@ -1,0 +1,45 @@
+{
+  "id": "211642ee-480a-4415-a383-717bb1fad23b",
+  "title": "Aki bújt",
+  "originalTitle": "Ready or Not",
+  "overview": "A young bride's wedding night turns into her worst nightmare when her ridiculously rich in-laws force her to play a gruesome game of hide-and-seek.",
+  "backdropPath": "/oJ1MIABA0WF0a7MDVQnnMvBdex8.jpg",
+  "posterPath": "/oJD9KQFoObZmxAS1je56SIFVNJt.jpg",
+  "releaseDate": "2019-08-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c18d7dd8-4db1-4ea9-9870-f54a7960052a",
+      "title": "Aki bújt",
+      "subtitle": null,
+      "timestampString": "00:56:00",
+      "timestampInSeconds": 3360,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #174",
+        "youtubeId": "SKngLJZbCLc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/SKngLJZbCLc/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1567606261000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "e530580d-4f4f-4412-9751-5f4e30eff8d8",
+  "title": "Pókember - A pókverzumon át",
+  "originalTitle": "Spider-Man: Across the Spider-Verse",
+  "overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse's very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
+  "backdropPath": "/kVd3a9YeLGkoeR50jGEXM6EqseS.jpg",
+  "posterPath": "/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+  "releaseDate": "2023-05-31T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d6d2dfd7-5f5f-4889-8d9f-58a1eb6fd533",
+      "title": "Pókember - A pókverzumon át",
+      "subtitle": null,
+      "timestampString": "00:41:39",
+      "timestampInSeconds": 2499,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #256",
+        "youtubeId": "yK5fnD61khw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/yK5fnD61khw/hqdefault.jpg",
+        "durationInMinutes": 224,
+        "releaseDate": 1686942465000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

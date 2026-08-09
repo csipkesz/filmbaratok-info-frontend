@@ -1,0 +1,45 @@
+{
+  "id": "369f5c36-2098-4524-8be5-0a5b591b71f2",
+  "title": "Halálhajó",
+  "originalTitle": "Event Horizon",
+  "overview": "In 2047, a group of astronauts are sent to investigate and salvage the starship Event Horizon which disappeared mysteriously seven years before on its maiden voyage. However, it soon becomes evident that something sinister resides in its corridors.",
+  "backdropPath": "/nByMcYBhChTs2TF9fEFcTSsjme5.jpg",
+  "posterPath": "/cHoeg3gAD5w63Et5DImY1Jb7HaO.jpg",
+  "releaseDate": "1997-08-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6ac99d21-4538-4bac-bf4d-e5f86c2ac344",
+      "title": "Halálhajó",
+      "subtitle": null,
+      "timestampString": "02:35:27",
+      "timestampInSeconds": 9327,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #57",
+        "youtubeId": "NItQ0G4BTsQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/NItQ0G4BTsQ/hqdefault.jpg",
+        "durationInMinutes": 177,
+        "releaseDate": 1410890684000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

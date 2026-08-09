@@ -1,0 +1,45 @@
+{
+  "id": "38b0605c-da67-4cef-a442-8b55758e45ea",
+  "title": "John Wick: 3. felvonás – Parabellum",
+  "originalTitle": "John Wick: Chapter 3 - Parabellum",
+  "overview": "Super-assassin John Wick returns with a $14 million price tag on his head and an army of bounty-hunting killers on his trail. After killing a member of the shadowy international assassin’s guild, the High Table, John Wick is excommunicado, but the world’s most ruthless hit men and women await his every turn.",
+  "backdropPath": "/vVpEOvdxVBP2aV166j5Xlvb5Cdc.jpg",
+  "posterPath": "/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg",
+  "releaseDate": "2019-05-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "323a8aee-1194-4bc0-a64d-4d85033c64b7",
+      "title": "John Wick: 3. felvonás – Parabellum",
+      "subtitle": null,
+      "timestampString": "00:53:44",
+      "timestampInSeconds": 3224,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #169",
+        "youtubeId": "-bLznzpWJe8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-bLznzpWJe8/hqdefault.jpg",
+        "durationInMinutes": 317,
+        "releaseDate": 1559569793000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

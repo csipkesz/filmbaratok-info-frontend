@@ -1,0 +1,45 @@
+{
+  "id": "8eef82ab-8843-4fdb-bbb7-91a655aff2e9",
+  "title": "Majd, ha fagy",
+  "originalTitle": "Mystery, Alaska",
+  "overview": "In Mystery, Alaska, life revolves around the legendary Saturday hockey game at the local pond. But everything changes when the hometown team unexpectedly gets booked in an exhibition match against the New York Rangers. When quirky small-towners, slick promoters and millionaire athletes come together.",
+  "backdropPath": "/swwCQk5sDGeuVWub4GLyS2YETrT.jpg",
+  "posterPath": "/bmg4sjOQswcrP5mPL9YzNom9cXx.jpg",
+  "releaseDate": "1999-10-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "41478a90-977e-45f3-9aff-3c3ce99ed985",
+      "title": "Majd, ha fagy",
+      "subtitle": null,
+      "timestampString": "02:53:52",
+      "timestampInSeconds": 10432,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #65",
+        "youtubeId": "Nho9twpqK9c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Nho9twpqK9c/hqdefault.jpg",
+        "durationInMinutes": 210,
+        "releaseDate": 1420868167000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

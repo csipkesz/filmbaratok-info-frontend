@@ -1,0 +1,45 @@
+{
+  "id": "49a4e8a0-6e19-407f-967e-7337625a2f85",
+  "title": "Rottweiler – A Halálkutya",
+  "originalTitle": "Rottweiler",
+  "overview": "Dante travels across a desolate, futuristic Spain in search of his girlfriend, Ula. He is pursued by a bloodthirsty, cybernetic Rottweiler.",
+  "backdropPath": "/kqbvDnt9V3tZljvefUn5NQrTlad.jpg",
+  "posterPath": "/uONkXsdAU11mTC8Z6SeJQyuLptC.jpg",
+  "releaseDate": "2004-12-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "92659db5-1167-457a-9d14-b866ecb4d628",
+      "title": "Rottweiler – A Halálkutya",
+      "subtitle": null,
+      "timestampString": "02:52:11",
+      "timestampInSeconds": 10331,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #115",
+        "youtubeId": "kbUqk0bddqo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/kbUqk0bddqo/hqdefault.jpg",
+        "durationInMinutes": 231,
+        "releaseDate": 1485969786000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

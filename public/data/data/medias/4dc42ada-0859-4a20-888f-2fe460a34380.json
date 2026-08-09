@@ -1,0 +1,45 @@
+{
+  "id": "4dc42ada-0859-4a20-888f-2fe460a34380",
+  "title": "A nagy fal",
+  "originalTitle": "The Great Wall",
+  "overview": "European mercenaries searching for black powder become embroiled in the defense of the Great Wall of China against a horde of monstrous creatures.",
+  "backdropPath": "/th26RNksfM9nn7DPH06OqiV6BA2.jpg",
+  "posterPath": "/p70dq1YxabemdZDm5K6Q8G10wSn.jpg",
+  "releaseDate": "2016-12-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "42405879-2b2b-4297-8c6e-0a1beba6437f",
+      "title": "A nagy fal",
+      "subtitle": null,
+      "timestampString": "02:43:55",
+      "timestampInSeconds": 9835,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #114",
+        "youtubeId": "-MXopm_I1eY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-MXopm_I1eY/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1484786554000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

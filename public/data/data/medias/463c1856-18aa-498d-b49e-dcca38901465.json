@@ -1,0 +1,45 @@
+{
+  "id": "463c1856-18aa-498d-b49e-dcca38901465",
+  "title": "Miket nem beszélek",
+  "originalTitle": "I Swear",
+  "overview": "Diagnosed with Tourette Syndrome at 15, John Davidson navigates his way against the odds through troubled teenage years and into adulthood, finding inspiration in the kindness of others to discover his true purpose in life.",
+  "backdropPath": "/4mKczHAW4XPDXGk7V5k7Ui3dgUk.jpg",
+  "posterPath": "/vUwyhNWBKkSwK8ELvEeBRwV724h.jpg",
+  "releaseDate": "2025-09-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5e1639d2-f2ef-4d51-bc42-62ca0055f0e2",
+      "title": "Miket nem beszélek",
+      "subtitle": null,
+      "timestampString": "02:32:40",
+      "timestampInSeconds": 9160,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #328",
+        "youtubeId": "f89B62DScOs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/f89B62DScOs/hqdefault.jpg",
+        "durationInMinutes": 253,
+        "releaseDate": 1781722805000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "723a7ceb-d9b4-406e-aef0-404d26059a4f",
+            "name": "Márk"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

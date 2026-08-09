@@ -1,0 +1,45 @@
+{
+  "id": "6dcb16c0-2287-4017-935a-f39a45a93890",
+  "title": "65",
+  "originalTitle": "65",
+  "overview": "65 million years ago, the only 2 survivors of a spaceship from Somaris that crash-landed on Earth, must fend off dinosaurs to reach the escape vessel in time before an imminent asteroid strike threatens to destroy the planet.",
+  "backdropPath": "/eSVu1FvGPy86TDo4hQbpuHx55DJ.jpg",
+  "posterPath": "/rzRb63TldOKdKydCvWJM8B6EkPM.jpg",
+  "releaseDate": "2023-03-02T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "11a3d4eb-c6a4-46c5-8c44-a3692c357670",
+      "title": "65",
+      "subtitle": null,
+      "timestampString": "01:48:00",
+      "timestampInSeconds": 6480,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #252",
+        "youtubeId": "BAb0S4ADaoM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/BAb0S4ADaoM/hqdefault.jpg",
+        "durationInMinutes": 219,
+        "releaseDate": 1680329169000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

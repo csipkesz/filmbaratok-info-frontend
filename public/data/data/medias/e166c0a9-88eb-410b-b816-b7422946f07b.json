@@ -1,0 +1,41 @@
+{
+  "id": "e166c0a9-88eb-410b-b816-b7422946f07b",
+  "title": "Bérelt család",
+  "originalTitle": "Rental Family",
+  "overview": "An American actor in Tokyo struggles to find purpose until he lands an unusual gig: working for a Japanese 'rental family' agency, playing stand-in roles for strangers. As he immerses himself in his clients' worlds, he begins to form genuine bonds that blur the lines between performance and reality.",
+  "backdropPath": "/euoXeFAOt9o7yAWA9zGZk7DdZWZ.jpg",
+  "posterPath": "/A5lswNlytTUrnMWsuD0NFfhZlf3.jpg",
+  "releaseDate": "2025-11-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fb5950a9-46ae-4de0-ae34-a32b467f634d",
+      "title": "Bérelt család",
+      "subtitle": null,
+      "timestampString": "01:09:34",
+      "timestampInSeconds": 4174,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #321",
+        "youtubeId": "ASzT3k0iUdk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ASzT3k0iUdk/hqdefault.jpg",
+        "durationInMinutes": 176,
+        "releaseDate": 1772128964000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

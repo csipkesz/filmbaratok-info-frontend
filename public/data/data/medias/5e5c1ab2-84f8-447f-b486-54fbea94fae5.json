@@ -1,0 +1,45 @@
+{
+  "id": "5e5c1ab2-84f8-447f-b486-54fbea94fae5",
+  "title": "Free Solo",
+  "originalTitle": "Free Solo",
+  "overview": "Follow Alex Honnold as he attempts to become the first person to ever free solo climb Yosemite's 3,000 foot high El Capitan wall. With no ropes or safety gear, this would arguably be the greatest feat in rock climbing history.",
+  "backdropPath": "/z2uuQasY4gQJ8VDAFki746JWeQJ.jpg",
+  "posterPath": "/v4QfYZMACODlWul9doN9RxE99ag.jpg",
+  "releaseDate": "2018-09-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b5978af3-979a-4fc4-9041-d810f19c23b8",
+      "title": "Free Solo",
+      "subtitle": null,
+      "timestampString": "03:11:00",
+      "timestampInSeconds": 11460,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #265",
+        "youtubeId": "W7K_jzS7pPg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/W7K_jzS7pPg/hqdefault.jpg",
+        "durationInMinutes": 254,
+        "releaseDate": 1698781502000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

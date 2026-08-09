@@ -1,0 +1,45 @@
+{
+  "id": "c286ddf6-7868-4f4c-87f8-24f67769dc1d",
+  "title": "Az ördög dublőre",
+  "originalTitle": "The Devil's Double",
+  "overview": "A chilling vision of the House of Saddam Hussein comes to life through the eyes of the man who was forced to become the double of Hussein's sadistic son.",
+  "backdropPath": "/oInNEEn2qzAAWQkFhfDEKbXv9RR.jpg",
+  "posterPath": "/sDnnV0QbfvXthf8K4cYod4HVlug.jpg",
+  "releaseDate": "2011-02-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4074f466-b192-4dde-a1e4-8dbf55fbcc26",
+      "title": "Az ördög dublőre",
+      "subtitle": null,
+      "timestampString": "01:50:10",
+      "timestampInSeconds": 6610,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #55",
+        "youtubeId": "QgGmQw_m1m8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/QgGmQw_m1m8/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1407941546000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

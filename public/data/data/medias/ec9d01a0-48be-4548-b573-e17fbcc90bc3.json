@@ -1,0 +1,49 @@
+{
+  "id": "ec9d01a0-48be-4548-b573-e17fbcc90bc3",
+  "title": "Ted 2",
+  "originalTitle": "Ted 2",
+  "overview": "Newlywed couple Ted and Tami-Lynn want to have a baby, but in order to qualify to be a parent, Ted will have to prove he's a person in a court of law.",
+  "backdropPath": "/xtHonIIIQXverDQM08TMQXjn9Fe.jpg",
+  "posterPath": "/38C91I7Xft0gyY7BITm8i4yvuRb.jpg",
+  "releaseDate": "2015-06-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ab0c0d26-7d91-4fef-a575-65233cb1e691",
+      "title": "Ted 2",
+      "subtitle": null,
+      "timestampString": "02:04:35",
+      "timestampInSeconds": 7475,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #78",
+        "youtubeId": "MfKijNw0U44",
+        "thumbnailUrl": "https://i.ytimg.com/vi/MfKijNw0U44/hqdefault.jpg",
+        "durationInMinutes": 236,
+        "releaseDate": 1438367365000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "52a076e1-3e87-4cec-bc52-5e4feaf307ea",
+            "name": "Kvízmester"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

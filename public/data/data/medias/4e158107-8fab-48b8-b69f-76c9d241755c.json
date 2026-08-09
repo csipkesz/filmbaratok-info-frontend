@@ -1,0 +1,41 @@
+{
+  "id": "4e158107-8fab-48b8-b69f-76c9d241755c",
+  "title": "Oculus",
+  "originalTitle": "Oculus",
+  "overview": "A woman tries to exonerate her brother's murder conviction by proving that the crime was committed by a supernatural phenomenon.",
+  "backdropPath": "/o0EQmMhHA6Gpf7MS7KxPafWqTPp.jpg",
+  "posterPath": "/yCzR1yKRLiJyTDLgY1ppazXEmdE.jpg",
+  "releaseDate": "2014-04-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "62c0c056-f0cb-4470-94f7-ba72f33b8abb",
+      "title": "Oculus",
+      "subtitle": null,
+      "timestampString": "02:17:22",
+      "timestampInSeconds": 8242,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #56",
+        "youtubeId": "IGq19Ebu3DU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IGq19Ebu3DU/hqdefault.jpg",
+        "durationInMinutes": 199,
+        "releaseDate": 1409327568000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

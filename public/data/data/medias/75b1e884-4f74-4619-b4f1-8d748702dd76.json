@@ -1,0 +1,41 @@
+{
+  "id": "75b1e884-4f74-4619-b4f1-8d748702dd76",
+  "title": "Mars - Az utolsó napok",
+  "originalTitle": "The Last Days on Mars",
+  "overview": "On the last day of the first manned mission to Mars, a crew member of Tantalus Base believes he has made an astounding discovery – fossilized evidence of bacterial life. Unwilling to let the relief crew claim all the glory, he disobeys orders to pack up and goes out on an unauthorized expedition to collect further samples. But a routine excavation turns to disaster when the porous ground collapses and he falls into a deep crevice. His devastated colleagues attempt to recover his body. However, when another vanishes, they start to suspect that the life-form they have discovered is not without danger.",
+  "backdropPath": "/zZUuNeCzA5W6YJweyFLxBN6xTHx.jpg",
+  "posterPath": "/kxcQkAhpn8cvJTsU8PXblI5Qq8F.jpg",
+  "releaseDate": "2013-08-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f6cb4771-ebba-4a7c-8681-23f87d888686",
+      "title": "Mars - Az utolsó napok",
+      "subtitle": null,
+      "timestampString": "01:53:24",
+      "timestampInSeconds": 6804,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #43",
+        "youtubeId": "WupIquHhCt0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/WupIquHhCt0/hqdefault.jpg",
+        "durationInMinutes": 164,
+        "releaseDate": 1389645501000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

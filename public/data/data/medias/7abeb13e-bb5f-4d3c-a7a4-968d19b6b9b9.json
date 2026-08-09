@@ -1,0 +1,41 @@
+{
+  "id": "7abeb13e-bb5f-4d3c-a7a4-968d19b6b9b9",
+  "title": "Kimi",
+  "originalTitle": "Kimi",
+  "overview": "A tech worker with agoraphobia discovers recorded evidence of a violent crime but is met with resistance when she tries to report it. Seeking justice, she must do the thing she fears the most: leave her apartment.",
+  "backdropPath": "/mruT954ve6P1zquaRs6XG0hA5k9.jpg",
+  "posterPath": "/okNgwtxIWzGsNlR3GsOS0i0Qgbn.jpg",
+  "releaseDate": "2022-02-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3a75c0a0-1404-40df-96ed-e9434619bc4c",
+      "title": "Kimi",
+      "subtitle": null,
+      "timestampString": "01:08:40",
+      "timestampInSeconds": 4120,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #231",
+        "youtubeId": "GwvFCLoE8cY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GwvFCLoE8cY/hqdefault.jpg",
+        "durationInMinutes": 252,
+        "releaseDate": 1650126613000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

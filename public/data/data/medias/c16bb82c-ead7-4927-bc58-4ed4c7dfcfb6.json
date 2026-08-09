@@ -1,0 +1,45 @@
+{
+  "id": "c16bb82c-ead7-4927-bc58-4ed4c7dfcfb6",
+  "title": "Júlia szemei",
+  "originalTitle": "Los ojos de Julia",
+  "overview": "Julia, a woman suffering from a degenerative sight disease, finds her blind sister Sara hung in a basement. Despite all signs pointing to suicide, Julia decides to investigate what she intuitively feels is a murder case.",
+  "backdropPath": "/18xaRN1i08zqDJWsVPpSYHLIvGL.jpg",
+  "posterPath": "/p9HqHVdW9oedgRMyZkBov8hDQiW.jpg",
+  "releaseDate": "2010-08-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8cfe5bd1-9007-488b-99cf-b79dee23f01a",
+      "title": "Júlia szemei",
+      "subtitle": null,
+      "timestampString": "03:22:01",
+      "timestampInSeconds": 12121,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #238",
+        "youtubeId": "B0d915GjLlk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/B0d915GjLlk/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1661879000000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

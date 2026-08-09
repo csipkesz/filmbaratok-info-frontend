@@ -1,0 +1,45 @@
+{
+  "id": "ca7e9e4c-7898-4775-9f77-0f3192804d99",
+  "title": "Nyomd, bébi, nyomd",
+  "originalTitle": "Baby Driver",
+  "overview": "After being coerced into working for a crime boss, a young getaway driver finds himself taking part in a heist doomed to fail.",
+  "backdropPath": "/yir5430WblZSZuIMd9C6pIZerfA.jpg",
+  "posterPath": "/tYzFuYXmT8LOYASlFCkaPiAFAl0.jpg",
+  "releaseDate": "2017-06-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1c0a77d3-72b3-4895-b796-6a129b93c95b",
+      "title": "Nyomd, bébi, nyomd",
+      "subtitle": null,
+      "timestampString": "00:32:40",
+      "timestampInSeconds": 1960,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #125",
+        "youtubeId": "4TEl2okYMLY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/4TEl2okYMLY/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1500394983000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "fad572d7-4b23-4285-955d-223f31dfe495",
+            "name": "Szöllőskei Gábor"
+          }
+        ]
+      }
+    }
+  ]
+}

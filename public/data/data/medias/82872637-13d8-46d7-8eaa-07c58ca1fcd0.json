@@ -1,0 +1,41 @@
+{
+  "id": "82872637-13d8-46d7-8eaa-07c58ca1fcd0",
+  "title": "Danny Collins",
+  "originalTitle": "Danny Collins",
+  "overview": "An ageing hard-living 1970s rock star decides to change his life when he discovers a 40-year-old undelivered letter written to him by John Lennon.",
+  "backdropPath": "/6ZzMkCCDX7TbLQySUqW8meYqVPM.jpg",
+  "posterPath": "/sf9ndc9l6alP9DhJF1ZpKz1PaXK.jpg",
+  "releaseDate": "2015-03-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7caba8b4-f9e8-46f0-b679-bdfef45af88e",
+      "title": "Danny Collins",
+      "subtitle": null,
+      "timestampString": "02:17:10",
+      "timestampInSeconds": 8230,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #75",
+        "youtubeId": "5hqAh129dAE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/5hqAh129dAE/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1434729270000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

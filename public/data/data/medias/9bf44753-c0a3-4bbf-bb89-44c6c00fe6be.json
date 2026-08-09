@@ -1,0 +1,41 @@
+{
+  "id": "9bf44753-c0a3-4bbf-bb89-44c6c00fe6be",
+  "title": "Dealer",
+  "originalTitle": "Dealer",
+  "overview": "A drug dealer spends his day pedaling around Budapest visiting friends and clients.",
+  "backdropPath": "/38AF4PBbo0S5gbiLArytkdZ08PH.jpg",
+  "posterPath": "/jnwSc6aB1RSbOIQ1mo5LT8NzQAA.jpg",
+  "releaseDate": "2004-02-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "702cfa01-8fde-4c61-bc94-de6f01e66478",
+      "title": "Dealer",
+      "subtitle": null,
+      "timestampString": "01:29:04",
+      "timestampInSeconds": 5344,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #122",
+        "youtubeId": "-MTE2KExAs0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-MTE2KExAs0/hqdefault.jpg",
+        "durationInMinutes": 192,
+        "releaseDate": 1495810296000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

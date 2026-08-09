@@ -1,0 +1,75 @@
+{
+  "id": "6dbf5ce3-f5ba-4d8f-a1c8-71429703b778",
+  "title": "Időről időre",
+  "originalTitle": "About Time",
+  "overview": "The night after another unsatisfactory New Year's party, Tim's father reveals to him that the men in their family have the ability to travel through time. They can't change history, but they can change what happens and has happened in their own lives. Thus begins the start of a lesson in learning to appreciate life itself as it is, as it comes, and most importantly, the people living alongside us.",
+  "backdropPath": "/einbto9qLXFx9QXxEHylaxDbKPx.jpg",
+  "posterPath": "/ls6zswrOZVhCXQBh96DlbnLBajM.jpg",
+  "releaseDate": "2013-09-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0583ecc8-e10b-4054-a19b-a6a59197dd44",
+      "title": "Időről időre",
+      "subtitle": null,
+      "timestampString": "01:29:00",
+      "timestampInSeconds": 5340,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #43",
+        "youtubeId": "WupIquHhCt0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/WupIquHhCt0/hqdefault.jpg",
+        "durationInMinutes": 164,
+        "releaseDate": 1389645501000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    },
+    {
+      "id": "106cc570-cc74-4d75-b609-c0508b42618a",
+      "title": "Időről időre",
+      "subtitle": null,
+      "timestampString": "02:21:11",
+      "timestampInSeconds": 8471,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #66",
+        "youtubeId": "E4v-47u65NI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E4v-47u65NI/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1422556505000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "79408b47-b9ff-4a3f-8997-f655170e8656",
+  "title": "Ember a magasban",
+  "originalTitle": "Man on Wire",
+  "overview": "On August 7th 1974, French tightrope walker Philippe Petit stepped out on a high wire, illegally rigged between New York's World Trade Center twin towers, then the world's tallest buildings. After nearly an hour of performing on the wire, 1,350 feet above the sidewalks of Manhattan, he was arrested. This fun and spellbinding documentary chronicles Philippe Petit's \"highest\" achievement.",
+  "backdropPath": "/yKEe2nFu4fRYcmVdeAwZxTZvP3g.jpg",
+  "posterPath": "/1mS4rhIgHZcHIvf1beP9Av0Ui33.jpg",
+  "releaseDate": "2008-08-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fd4ec67c-1997-440f-ba1d-c41ddcae7c68",
+      "title": "Ember a magasban",
+      "subtitle": null,
+      "timestampString": "02:03:28",
+      "timestampInSeconds": 7408,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #83",
+        "youtubeId": "hnUVtArlE_k",
+        "thumbnailUrl": "https://i.ytimg.com/vi/hnUVtArlE_k/hqdefault.jpg",
+        "durationInMinutes": 177,
+        "releaseDate": 1445005790000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "6fc650db-eb6b-4bb2-b8f5-74c14506415c",
+  "title": "A szív bajnokai",
+  "originalTitle": "The Blind Side",
+  "overview": "The story of Michael Oher, a homeless and traumatized boy who became an All American football player and first round NFL draft pick with the help of a caring woman and her family.",
+  "backdropPath": "/5P6hWD4zxAMntRuRnB4MmPLijNw.jpg",
+  "posterPath": "/bMgq7VBriuBFknXEe9E9pVBYGZq.jpg",
+  "releaseDate": "2009-11-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e4c0affe-b3cc-4182-a609-79d991e46787",
+      "title": "A szív bajnokai",
+      "subtitle": null,
+      "timestampString": "02:49:18",
+      "timestampInSeconds": 10158,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #294",
+        "youtubeId": "MjMjFJlwupc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/MjMjFJlwupc/hqdefault.jpg",
+        "durationInMinutes": 207,
+        "releaseDate": 1737058478000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

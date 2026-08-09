@@ -1,0 +1,45 @@
+{
+  "id": "8038eef1-98cd-4a55-b05c-2378c3171386",
+  "title": "Az éjféli égbolt",
+  "originalTitle": "The Midnight Sky",
+  "overview": "A lone scientist in the Arctic races to contact a crew of astronauts returning home to a mysterious global catastrophe.",
+  "backdropPath": "/dueiWzWc81UAgnbDAyH4Gjqnh4n.jpg",
+  "posterPath": "/l8lXesOLXKS0VYjzWNZN6gDxv2F.jpg",
+  "releaseDate": "2020-12-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e52a9b97-7f6a-4c02-a01a-259c4dfcaca2",
+      "title": "Az éjféli égbolt",
+      "subtitle": null,
+      "timestampString": "00:59:10",
+      "timestampInSeconds": 3550,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #204",
+        "youtubeId": "uCWG2Ku59nQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uCWG2Ku59nQ/hqdefault.jpg",
+        "durationInMinutes": 207,
+        "releaseDate": 1610723034000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "465eb549-2e74-46d4-9d72-df2e21471883",
+            "name": "Anna"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

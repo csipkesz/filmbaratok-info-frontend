@@ -1,0 +1,41 @@
+{
+  "id": "0f959236-16bc-4020-b2cb-2bd6c55b7ac4",
+  "title": "New Kids Turbo",
+  "originalTitle": "New Kids Turbo",
+  "overview": "Five friends from 'Maaskantje' are getting fired because of the economic crisis. They decide that they won't pay for anything anymore.",
+  "backdropPath": "/fkZFA9SHDijvl2tPxZRWogAJeWm.jpg",
+  "posterPath": "/5nD9368gG2b0uGLHC2vWRTN8PQu.jpg",
+  "releaseDate": "2010-12-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0af1cd1e-f583-4002-b098-b08d073439b2",
+      "title": "New Kids Turbo",
+      "subtitle": null,
+      "timestampString": "02:50:00",
+      "timestampInSeconds": 10200,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #56",
+        "youtubeId": "IGq19Ebu3DU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IGq19Ebu3DU/hqdefault.jpg",
+        "durationInMinutes": 199,
+        "releaseDate": 1409327568000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

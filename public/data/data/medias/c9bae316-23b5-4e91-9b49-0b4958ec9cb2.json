@@ -1,0 +1,45 @@
+{
+  "id": "c9bae316-23b5-4e91-9b49-0b4958ec9cb2",
+  "title": "Az útvesztő",
+  "originalTitle": "The Maze Runner",
+  "overview": "A teenager with no memory of his past finds himself among a group of boys living in a walled enclosure surrounded by a massive, ever-changing maze. As he struggles to adapt to their rules and society, he begins to uncover clues that may lead to escape and the truth behind their confinement.",
+  "backdropPath": "/eTlcNXGv32zkVI7ZDHhfeaKHXKQ.jpg",
+  "posterPath": "/ode14q7WtDugFDp78fo9lCsmay9.jpg",
+  "releaseDate": "2014-09-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "01ae64db-0a8f-46cf-a1e3-520304607c15",
+      "title": "Az útvesztő",
+      "subtitle": null,
+      "timestampString": "01:26:06",
+      "timestampInSeconds": 5166,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #58",
+        "youtubeId": "fTyqWvDVF00",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fTyqWvDVF00/hqdefault.jpg",
+        "durationInMinutes": 178,
+        "releaseDate": 1412093302000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

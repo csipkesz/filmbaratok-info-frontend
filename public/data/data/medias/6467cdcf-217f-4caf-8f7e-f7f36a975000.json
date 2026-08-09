@@ -1,0 +1,45 @@
+{
+  "id": "6467cdcf-217f-4caf-8f7e-f7f36a975000",
+  "title": "Kill Bill",
+  "originalTitle": "Kill Bill: Vol. 1",
+  "overview": "An assassin is shot by her ruthless employer, Bill, and other members of their assassination circle – but she lives to plot her vengeance.",
+  "backdropPath": "/iffzIhuLAO38Po6sh1s6ZEVwlNL.jpg",
+  "posterPath": "/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
+  "releaseDate": "2003-10-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "230b26b3-f8bd-4bc2-979f-e6c4165592ed",
+      "title": "Kill Bill",
+      "subtitle": null,
+      "timestampString": "00:45:55",
+      "timestampInSeconds": 2755,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #327",
+        "youtubeId": "UYCI_LATeS8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/UYCI_LATeS8/hqdefault.jpg",
+        "durationInMinutes": 221,
+        "releaseDate": 1780218018000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          },
+          {
+            "id": "da3d7e32-762b-407e-8d7d-5dd88cec8bdf",
+            "name": "Szabolcs"
+          }
+        ]
+      }
+    }
+  ]
+}

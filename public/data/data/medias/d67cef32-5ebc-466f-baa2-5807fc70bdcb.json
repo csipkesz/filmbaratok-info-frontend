@@ -1,0 +1,45 @@
+{
+  "id": "d67cef32-5ebc-466f-baa2-5807fc70bdcb",
+  "title": "Nosferatu [2024]",
+  "originalTitle": "Nosferatu",
+  "overview": "A gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
+  "backdropPath": "/2gAStVyyv9C3BSEKhP0a1aM3Qy9.jpg",
+  "posterPath": "/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg",
+  "releaseDate": "2024-12-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0e293349-b3b4-4e03-81af-41b140d0d2fe",
+      "title": "Nosferatu [2024]",
+      "subtitle": null,
+      "timestampString": "01:02:55",
+      "timestampInSeconds": 3775,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #294",
+        "youtubeId": "MjMjFJlwupc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/MjMjFJlwupc/hqdefault.jpg",
+        "durationInMinutes": 207,
+        "releaseDate": 1737058478000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

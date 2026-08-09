@@ -1,0 +1,41 @@
+{
+  "id": "afdc9bf4-ed94-401f-9b3d-38d4d01c11ea",
+  "title": "A föld után: Apokalipszis",
+  "originalTitle": "AE: Apocalypse Earth",
+  "overview": "A group of refugees from Earth land on an exotic planet, where they must fight ruthless aliens to survive.",
+  "backdropPath": "/zpWjBqhUT5Zh77wgEhryBD0YQfu.jpg",
+  "posterPath": "/ihAsEjCSn11rJi1fYzf2BC1M83b.jpg",
+  "releaseDate": "2013-05-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e64c759c-cd86-49d7-b816-6187e443da14",
+      "title": "A föld után: Apokalipszis",
+      "subtitle": null,
+      "timestampString": "01:08:10",
+      "timestampInSeconds": 4090,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #47",
+        "youtubeId": "48-yuKdU7cg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/48-yuKdU7cg/hqdefault.jpg",
+        "durationInMinutes": 147,
+        "releaseDate": 1394966291000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

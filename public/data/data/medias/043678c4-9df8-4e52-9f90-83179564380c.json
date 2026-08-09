@@ -1,0 +1,71 @@
+{
+  "id": "043678c4-9df8-4e52-9f90-83179564380c",
+  "title": "Harag",
+  "originalTitle": "Fury",
+  "overview": "April, 1945. As the Allies make their final push in the European Theater, a battle-hardened army sergeant commands a Sherman tank with a five-man crew on a deadly mission behind enemy lines.",
+  "backdropPath": "/95ckrV6wQgbffurAVmETQ5YKASL.jpg",
+  "posterPath": "/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg",
+  "releaseDate": "2014-10-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "28a7f4de-1b97-43de-91d7-739c798b8d84",
+      "title": "Harag [SPOILERESEN]",
+      "subtitle": null,
+      "timestampString": "01:47:00",
+      "timestampInSeconds": 6420,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #60",
+        "youtubeId": "r6yj-sa2ZsA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/r6yj-sa2ZsA/hqdefault.jpg",
+        "durationInMinutes": 125,
+        "releaseDate": 1414771113000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8445717b-97c0-4a11-9327-a9b92b610fca",
+      "title": "Harag",
+      "subtitle": null,
+      "timestampString": "00:26:30",
+      "timestampInSeconds": 1590,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #60",
+        "youtubeId": "r6yj-sa2ZsA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/r6yj-sa2ZsA/hqdefault.jpg",
+        "durationInMinutes": 125,
+        "releaseDate": 1414771113000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

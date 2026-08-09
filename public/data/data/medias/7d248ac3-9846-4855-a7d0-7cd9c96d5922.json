@@ -1,0 +1,41 @@
+{
+  "id": "7d248ac3-9846-4855-a7d0-7cd9c96d5922",
+  "title": "Támadás a Fehér Ház ellen",
+  "originalTitle": "Olympus Has Fallen",
+  "overview": "When the White House (Secret Service Code: \"Olympus\") is captured by a terrorist mastermind and the President is kidnapped, disgraced former Presidential guard Mike Banning finds himself trapped within the building. As the national security team scrambles to respond, they are forced to rely on Banning's inside knowledge to help retake the White House, save the President and avert an even bigger disaster.",
+  "backdropPath": "/mjYU7EwVeOtM39ArdWHZk78VhYm.jpg",
+  "posterPath": "/u3GTFGwesNBNd0t1hiLaEk1iqZU.jpg",
+  "releaseDate": "2013-03-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3c43c265-03b7-4efc-8a9a-3b1aef78de5d",
+      "title": "Támadás a Fehér Ház ellen",
+      "subtitle": null,
+      "timestampString": "01:47:50",
+      "timestampInSeconds": 6470,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #95",
+        "youtubeId": "IB6YAtikVd0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IB6YAtikVd0/hqdefault.jpg",
+        "durationInMinutes": 151,
+        "releaseDate": 1459485369000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

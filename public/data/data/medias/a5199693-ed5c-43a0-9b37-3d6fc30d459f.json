@@ -1,0 +1,45 @@
+{
+  "id": "a5199693-ed5c-43a0-9b37-3d6fc30d459f",
+  "title": "Tyler Rake: A kimenekítés 2",
+  "originalTitle": "Extraction 2",
+  "overview": "Back from the brink of death, highly skilled commando Tyler Rake takes on another dangerous mission: saving the imprisoned family of a ruthless gangster.",
+  "backdropPath": "/wRxLAw4l17LqiFcPLkobriPTZAw.jpg",
+  "posterPath": "/7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg",
+  "releaseDate": "2023-06-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6ed6a769-3249-43b3-85de-f391caf2716d",
+      "title": "Tyler Rake: A kimenekítés 2",
+      "subtitle": null,
+      "timestampString": "01:59:00",
+      "timestampInSeconds": 7140,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #257",
+        "youtubeId": "Jm_IXtsLHnw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Jm_IXtsLHnw/hqdefault.jpg",
+        "durationInMinutes": 280,
+        "releaseDate": 1687629613000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

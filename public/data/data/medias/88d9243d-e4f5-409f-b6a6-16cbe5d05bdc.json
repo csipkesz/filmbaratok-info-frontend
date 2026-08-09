@@ -1,0 +1,45 @@
+{
+  "id": "88d9243d-e4f5-409f-b6a6-16cbe5d05bdc",
+  "title": "Rebel Ridge",
+  "originalTitle": "Rebel Ridge",
+  "overview": "A former Marine confronts corruption in a small town when local law enforcement unjustly seizes the bag of cash he needs to post his cousin's bail.",
+  "backdropPath": "/cyKH7pDFlxIXluqRyNoHHEpxSDX.jpg",
+  "posterPath": "/xEt2GSz9z5rSVpIHMiGdtf0czyf.jpg",
+  "releaseDate": "2024-08-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e9309fe0-ed5e-4d43-ac82-ce7b6fce9117",
+      "title": "Rebel Ridge",
+      "subtitle": null,
+      "timestampString": "02:44:10",
+      "timestampInSeconds": 9850,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #286",
+        "youtubeId": "ZbuQSmPb5sM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ZbuQSmPb5sM/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1726511195000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

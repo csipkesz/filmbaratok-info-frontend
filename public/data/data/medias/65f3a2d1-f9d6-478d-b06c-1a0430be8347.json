@@ -1,0 +1,45 @@
+{
+  "id": "65f3a2d1-f9d6-478d-b06c-1a0430be8347",
+  "title": "A látogatás [Speak no evil]",
+  "originalTitle": "Speak No Evil",
+  "overview": "A Danish family visits a Dutch family they met on a holiday. What was supposed to be an idyllic weekend slowly starts unraveling as the Danes try to stay polite in the face of unpleasantness.",
+  "backdropPath": "/lHhRU3jEnju4pKibOeYOgxaEw2y.jpg",
+  "posterPath": "/ukYuuFzPTumN1QNpQyz863bcNvr.jpg",
+  "releaseDate": "2022-03-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "86c73d2e-2954-4067-97b6-ac3298319d93",
+      "title": "A látogatás [Speak no evil]",
+      "subtitle": null,
+      "timestampString": "02:02:50",
+      "timestampInSeconds": 7370,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #241",
+        "youtubeId": "wkIRMrjPzTE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wkIRMrjPzTE/hqdefault.jpg",
+        "durationInMinutes": 228,
+        "releaseDate": 1665676839000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

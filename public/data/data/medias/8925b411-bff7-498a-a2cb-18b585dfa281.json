@@ -1,0 +1,45 @@
+{
+  "id": "8925b411-bff7-498a-a2cb-18b585dfa281",
+  "title": "I Wanna Dance With Somebody : A Whitney Houston-film",
+  "originalTitle": "Whitney Houston: I Wanna Dance with Somebody",
+  "overview": "The joyous, emotional, heartbreaking celebration of the life and music of Whitney Houston, the greatest female R&B pop vocalist of all time. Tracking her journey from obscurity to musical superstardom.",
+  "backdropPath": "/AcKPLFva3hnfdsArF5bcPTESVCo.jpg",
+  "posterPath": "/oodPJ3Op1pWBhnEFyw5fampRCWf.jpg",
+  "releaseDate": "2022-12-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "afe831ae-448c-4201-92fe-e8171fc93d95",
+      "title": "I Wanna Dance With Somebody : A Whitney Houston-film",
+      "subtitle": null,
+      "timestampString": "01:54:45",
+      "timestampInSeconds": 6885,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #248",
+        "youtubeId": "VCD8rEWrtzs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VCD8rEWrtzs/hqdefault.jpg",
+        "durationInMinutes": 221,
+        "releaseDate": 1674626980000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

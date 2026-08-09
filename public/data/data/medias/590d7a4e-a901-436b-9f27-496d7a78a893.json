@@ -1,0 +1,41 @@
+{
+  "id": "590d7a4e-a901-436b-9f27-496d7a78a893",
+  "title": "Horgonyt fel",
+  "originalTitle": "Anchors Aweigh",
+  "overview": "Two sailors on shore leave head out for four days of partying – only to become involved in the affairs of an aspiring singer and her precocious nephew.",
+  "backdropPath": "/oRw716yj4jgshktF03s2is7HGun.jpg",
+  "posterPath": "/fPa79qA8qaikB0wiloKnfSm9NiJ.jpg",
+  "releaseDate": "1945-08-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f0ce66c7-cb1b-4c56-9cef-44ebb7693941",
+      "title": "Horgonyt fel",
+      "subtitle": null,
+      "timestampString": "03:27:54",
+      "timestampInSeconds": 12474,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #118",
+        "youtubeId": "tsYYwq3fdTw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tsYYwq3fdTw/hqdefault.jpg",
+        "durationInMinutes": 239,
+        "releaseDate": 1490634596000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

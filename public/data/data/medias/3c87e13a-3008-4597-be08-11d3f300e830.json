@@ -1,0 +1,49 @@
+{
+  "id": "3c87e13a-3008-4597-be08-11d3f300e830",
+  "title": "Mátrix - Újratöltve",
+  "originalTitle": "The Matrix Reloaded",
+  "overview": "The Resistance builds in numbers as humans are freed from the Matrix and brought to the city of Zion. Neo discovers his superpowers, including the ability to see the code inside the Matrix. With machine sentinels digging to Zion in 72 hours, Neo, Morpheus and Trinity must find the Keymaker to ultimately reach the Source.",
+  "backdropPath": "/ihOJcrorpDQtHTzIOrobbOhpJsj.jpg",
+  "posterPath": "/aA5qHS0FbSXO8PxcxUIHbDrJyuh.jpg",
+  "releaseDate": "2003-05-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "09f664b2-155d-49bf-94ef-3f70a9717cb9",
+      "title": "Mátrix trilógia",
+      "subtitle": null,
+      "timestampString": "02:41:49",
+      "timestampInSeconds": 9709,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #78",
+        "youtubeId": "MfKijNw0U44",
+        "thumbnailUrl": "https://i.ytimg.com/vi/MfKijNw0U44/hqdefault.jpg",
+        "durationInMinutes": 236,
+        "releaseDate": 1438367365000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "52a076e1-3e87-4cec-bc52-5e4feaf307ea",
+            "name": "Kvízmester"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "342ff1d3-bc3d-4986-94f7-1fe4bd75d8aa",
+  "title": "The Babadook",
+  "originalTitle": "The Babadook",
+  "overview": "A grieving single mother and her child fall into a deep well of paranoia when an eerie children's book manifests in their home.",
+  "backdropPath": "/t18ocAG0cpgC1AP288SseqmXqB5.jpg",
+  "posterPath": "/qt3fqapeo94TfvMyld8P7gkpXLz.jpg",
+  "releaseDate": "2014-05-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1e104988-279d-4289-9be0-9d38a1bfc34f",
+      "title": "The Babadook",
+      "subtitle": null,
+      "timestampString": "01:15:43",
+      "timestampInSeconds": 4543,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #61",
+        "youtubeId": "lu3n5Wpq2k0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/lu3n5Wpq2k0/hqdefault.jpg",
+        "durationInMinutes": 185,
+        "releaseDate": 1415901482000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

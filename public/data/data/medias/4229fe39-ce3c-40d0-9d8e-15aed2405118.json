@@ -1,0 +1,45 @@
+{
+  "id": "4229fe39-ce3c-40d0-9d8e-15aed2405118",
+  "title": "Coco",
+  "originalTitle": "Coco",
+  "overview": "Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
+  "backdropPath": "/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg",
+  "posterPath": "/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
+  "releaseDate": "2017-10-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e15173b7-f4f9-4cf3-87ce-5082ecce025f",
+      "title": "Coco",
+      "subtitle": null,
+      "timestampString": "02:13:07",
+      "timestampInSeconds": 7987,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #133",
+        "youtubeId": "HByKV2iRM34",
+        "thumbnailUrl": "https://i.ytimg.com/vi/HByKV2iRM34/hqdefault.jpg",
+        "durationInMinutes": 235,
+        "releaseDate": 1512135779000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

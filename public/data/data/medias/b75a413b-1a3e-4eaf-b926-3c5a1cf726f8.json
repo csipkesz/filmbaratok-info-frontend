@@ -1,0 +1,41 @@
+{
+  "id": "b75a413b-1a3e-4eaf-b926-3c5a1cf726f8",
+  "title": "Vademberek hajszája",
+  "originalTitle": "Hunt for the Wilderpeople",
+  "overview": "Ricky is a defiant young city kid who finds himself on the run with his cantankerous foster uncle in the wild New Zealand bush. A national manhunt ensues, and the two are forced to put aside their differences and work together to survive.",
+  "backdropPath": "/ixpUtvrZNwk6LBObXaNH8fh4FYf.jpg",
+  "posterPath": "/hkmz9rxgcweizXNElozGeKwmAJE.jpg",
+  "releaseDate": "2016-01-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a381fcfa-46b4-4140-8e71-6d701d3157e6",
+      "title": "Vademberek hajszája",
+      "subtitle": null,
+      "timestampString": "00:40:00",
+      "timestampInSeconds": 2400,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #122",
+        "youtubeId": "-MTE2KExAs0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-MTE2KExAs0/hqdefault.jpg",
+        "durationInMinutes": 192,
+        "releaseDate": 1495810296000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

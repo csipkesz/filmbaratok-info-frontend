@@ -1,0 +1,45 @@
+{
+  "id": "7fc26239-ffd5-4ff5-a0fa-824645e23726",
+  "title": "Fenevad",
+  "originalTitle": "Beast",
+  "overview": "A recently widowed man and his two teenage daughters travel to a game reserve in South Africa. However, their journey of healing soon turns into a fight for survival when a bloodthirsty lion starts to stalk them.",
+  "backdropPath": "/pz7bGOUNJXyPKJ2GcJN6nhwBnCs.jpg",
+  "posterPath": "/f18rGcLlawKjNC5KRh36S0mvRlY.jpg",
+  "releaseDate": "2022-08-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2010f081-23d2-4ac2-a2cf-9dc969729965",
+      "title": "Fenevad",
+      "subtitle": null,
+      "timestampString": "01:51:07",
+      "timestampInSeconds": 6667,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #238",
+        "youtubeId": "B0d915GjLlk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/B0d915GjLlk/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1661879000000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

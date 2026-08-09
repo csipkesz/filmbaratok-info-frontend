@@ -1,0 +1,45 @@
+{
+  "id": "0da3a2dd-0e38-48cf-9116-d00a6c70b784",
+  "title": "Oscar (1991)",
+  "originalTitle": "Oscar",
+  "overview": "Angelo \"Snaps\" Provolone made his dying father a promise on his deathbed: he would leave the world of crime and become an honest businessman. Despite having no experience in making money in a legal fashion, Snaps sets about to keep his promise.",
+  "backdropPath": "/6fAIKXVzkIil9NEyYuwvSivWvV9.jpg",
+  "posterPath": "/rGJOzUwHlkx8MKy2oR2qEiT7g4G.jpg",
+  "releaseDate": "1991-04-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "527e1d2b-9c88-41d3-9e92-2c0bf9f1b62f",
+      "title": "Oscar (1991)",
+      "subtitle": null,
+      "timestampString": "02:14:04",
+      "timestampInSeconds": 8044,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #142",
+        "youtubeId": "9S7p7P1Y2po",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9S7p7P1Y2po/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1525105433000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "461b667b-5eee-4731-8230-41de1bb87cc7",
+  "title": "Ong-bak - A thai boksz harcosa",
+  "originalTitle": "องค์บาก",
+  "overview": "When the head of a statue sacred to a village is stolen, a young martial artist goes to the big city and finds himself taking on the underworld to retrieve it.",
+  "backdropPath": "/A7WpMBH6N1T0pPIEXsq9w4tu0oB.jpg",
+  "posterPath": "/oagqAwp48dMPoCT94yDJUDOCVPi.jpg",
+  "releaseDate": "2003-01-31T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "831dfc7d-7ae1-4c5b-80f0-1e31c2c3fe48",
+      "title": "Ong-bak - A thai boksz harcosa",
+      "subtitle": null,
+      "timestampString": "04:14:15",
+      "timestampInSeconds": 15255,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #215",
+        "youtubeId": "J6qemr4xa1Y",
+        "thumbnailUrl": "https://i.ytimg.com/vi/J6qemr4xa1Y/hqdefault.jpg",
+        "durationInMinutes": 287,
+        "releaseDate": 1627662350000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

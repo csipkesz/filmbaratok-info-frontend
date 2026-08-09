@@ -1,0 +1,45 @@
+{
+  "id": "a022e717-5a58-4818-b8bf-b2b0e0de20e0",
+  "title": "Rajtakapva",
+  "originalTitle": "Caught Stealing",
+  "overview": "Burned-out ex-baseball player Hank Thompson unexpectedly finds himself embroiled in a dangerous struggle for survival amidst the criminal underbelly of late 1990s New York City, forced to navigate a treacherous underworld he never imagined.",
+  "backdropPath": "/41043LV7mfluH8iXEUPVseCDAv5.jpg",
+  "posterPath": "/cvda8s5J8YaHjTyEyXQpvD6f3iV.jpg",
+  "releaseDate": "2025-08-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "10380565-f012-49f7-9ec5-e76ec55d41f9",
+      "title": "Rajtakapva",
+      "subtitle": null,
+      "timestampString": "01:33:00",
+      "timestampInSeconds": 5580,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #310",
+        "youtubeId": "snN5b4JzNgw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/snN5b4JzNgw/hqdefault.jpg",
+        "durationInMinutes": 230,
+        "releaseDate": 1758218455000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "723a7ceb-d9b4-406e-aef0-404d26059a4f",
+            "name": "Márk"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

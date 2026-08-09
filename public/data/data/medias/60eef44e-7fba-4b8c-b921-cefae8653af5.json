@@ -1,0 +1,45 @@
+{
+  "id": "60eef44e-7fba-4b8c-b921-cefae8653af5",
+  "title": "Csillagok között",
+  "originalTitle": "Interstellar",
+  "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+  "backdropPath": "/5XNQBqnBwPA9yT0jZ0p3s8bbLh0.jpg",
+  "posterPath": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+  "releaseDate": "2014-11-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8cc72114-dd65-4ba4-ba12-6aae26e439d8",
+      "title": "Csillagok között (SPOILERES)",
+      "subtitle": null,
+      "timestampString": "01:34:45",
+      "timestampInSeconds": 5685,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #61",
+        "youtubeId": "lu3n5Wpq2k0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/lu3n5Wpq2k0/hqdefault.jpg",
+        "durationInMinutes": 185,
+        "releaseDate": 1415901482000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

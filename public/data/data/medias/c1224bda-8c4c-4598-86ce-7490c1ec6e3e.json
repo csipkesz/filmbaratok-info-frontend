@@ -1,0 +1,45 @@
+{
+  "id": "c1224bda-8c4c-4598-86ce-7490c1ec6e3e",
+  "title": "Aljas Nyolcas",
+  "originalTitle": "The Hateful Eight",
+  "overview": "Bounty hunters seek shelter from a raging blizzard and get caught up in a plot of betrayal and deception.",
+  "backdropPath": "/7g1zO5t0bd27Iqn5ZUDJmksOGPJ.jpg",
+  "posterPath": "/jIywvdPjia2t3eKYbjVTcwBQlG8.jpg",
+  "releaseDate": "2015-12-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fe0bc533-f95a-4d59-b3c3-d9247ea4eb38",
+      "title": "Aljas Nyolcas",
+      "subtitle": null,
+      "timestampString": "01:40:02",
+      "timestampInSeconds": 6002,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #91",
+        "youtubeId": "G-6KMqIQhQQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/G-6KMqIQhQQ/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1454001243000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

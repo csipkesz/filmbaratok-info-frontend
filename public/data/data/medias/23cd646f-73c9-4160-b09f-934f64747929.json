@@ -1,0 +1,71 @@
+{
+  "id": "23cd646f-73c9-4160-b09f-934f64747929",
+  "title": "12 év rabszolgaság",
+  "originalTitle": "12 Years a Slave",
+  "overview": "In the pre-Civil War United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery. Facing cruelty as well as unexpected kindnesses Solomon struggles not only to stay alive, but to retain his dignity. In the twelfth year of his unforgettable odyssey, Solomon’s chance meeting with a Canadian abolitionist will forever alter his life.",
+  "backdropPath": "/4Bb1kMIfrT2tYRZ9M6Jhqy6gkeF.jpg",
+  "posterPath": "/xdANQijuNrJaw1HA61rDccME4Tm.jpg",
+  "releaseDate": "2013-10-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "259fa9a1-f23d-48fc-8eb3-c07b6e99445b",
+      "title": "12 év rabszolgaság",
+      "subtitle": null,
+      "timestampString": "00:43:58",
+      "timestampInSeconds": 2638,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #44",
+        "youtubeId": "_NwJoO7yxrE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_NwJoO7yxrE/hqdefault.jpg",
+        "durationInMinutes": 137,
+        "releaseDate": 1391206083000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "5f5a21a8-945a-424d-ac94-a14f1c84ca49",
+            "name": "Émi"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    },
+    {
+      "id": "79223aac-8c70-4ef5-9abc-f51064af6e17",
+      "title": "12 év rabszolgaság",
+      "subtitle": null,
+      "timestampString": "01:13:40",
+      "timestampInSeconds": 4420,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #43",
+        "youtubeId": "WupIquHhCt0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/WupIquHhCt0/hqdefault.jpg",
+        "durationInMinutes": 164,
+        "releaseDate": 1389645501000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

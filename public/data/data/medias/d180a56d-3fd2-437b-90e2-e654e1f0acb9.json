@@ -1,0 +1,45 @@
+{
+  "id": "d180a56d-3fd2-437b-90e2-e654e1f0acb9",
+  "title": "Pinokkió [2022]",
+  "originalTitle": "Pinocchio",
+  "overview": "A wooden puppet embarks on a thrilling adventure to become a real boy.",
+  "backdropPath": "/nnUQqlVZeEGuCRx8SaoCU4XVHJN.jpg",
+  "posterPath": "/zaZhjKrJeWczQ3AotKoQObppEbH.jpg",
+  "releaseDate": "2022-09-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "836dfc00-d37f-4525-aab2-1c14c5281af5",
+      "title": "Pinokkió [2022]",
+      "subtitle": null,
+      "timestampString": "01:55:10",
+      "timestampInSeconds": 6910,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #239",
+        "youtubeId": "fLgXm-yTEGg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fLgXm-yTEGg/hqdefault.jpg",
+        "durationInMinutes": 259,
+        "releaseDate": 1663259409000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

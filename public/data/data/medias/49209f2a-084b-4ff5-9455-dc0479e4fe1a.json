@@ -1,0 +1,45 @@
+{
+  "id": "49209f2a-084b-4ff5-9455-dc0479e4fe1a",
+  "title": "Brake",
+  "originalTitle": "Brake",
+  "overview": "A Secret Service Agent is held captive in the trunk of a car and endures high-speed mental and physical torture as terrorists attempt to extract needed information for their sinister plot.",
+  "backdropPath": "/6FoFRkXraYPvSNqlzobE4bgL8rJ.jpg",
+  "posterPath": "/qKDoK8hUt8fGGXKpvAnt3AQVUvy.jpg",
+  "releaseDate": "2012-03-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0f411b43-9670-4b37-8759-a7a37f2811db",
+      "title": "Brake",
+      "subtitle": null,
+      "timestampString": "02:32:35",
+      "timestampInSeconds": 9155,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #166",
+        "youtubeId": "NaqCtn_eZNI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/NaqCtn_eZNI/hqdefault.jpg",
+        "durationInMinutes": 241,
+        "releaseDate": 1555772517000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

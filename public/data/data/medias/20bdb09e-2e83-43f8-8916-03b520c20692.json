@@ -1,0 +1,45 @@
+{
+  "id": "20bdb09e-2e83-43f8-8916-03b520c20692",
+  "title": "Egy maréknyi dollárért",
+  "originalTitle": "Per un pugno di dollari",
+  "overview": "The Man With No Name enters the Mexican village of San Miguel in the midst of a power struggle among the three Rojo brothers and sheriff John Baxter. When a regiment of Mexican soldiers bearing gold intended to pay for new weapons is waylaid by the Rojo brothers, the stranger inserts himself into the middle of the long-simmering battle, selling false information to both sides for his own benefit.",
+  "backdropPath": "/9gMkOYzk7P9QXwndhLRAC8cMZcJ.jpg",
+  "posterPath": "/lBwOEpwVeUAmrmglcstnaGcJq3Y.jpg",
+  "releaseDate": "1964-09-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9afb9179-ddfe-43d9-a340-d2e8dd89b841",
+      "title": "Egy maréknyi dollárért",
+      "subtitle": null,
+      "timestampString": "01:59:20",
+      "timestampInSeconds": 7160,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #274",
+        "youtubeId": "U5btDyv5pPk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/U5btDyv5pPk/hqdefault.jpg",
+        "durationInMinutes": 285,
+        "releaseDate": 1710534459000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

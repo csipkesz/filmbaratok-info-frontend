@@ -1,0 +1,49 @@
+{
+  "id": "98c97148-8f8e-40dd-aecc-6537a750004c",
+  "title": "Mortal Kombat [1995]",
+  "originalTitle": "Mortal Kombat",
+  "overview": "For nine generations an evil sorcerer has been victorious in hand-to-hand battle against his mortal enemies. If he wins a tenth Mortal Kombat tournament, desolation and evil will reign over the multiverse forever. To save Earth, three warriors must overcome seemingly insurmountable odds, their own inner demons, and superhuman foes.",
+  "backdropPath": "/dfU9xyEEyLxvZ5unTn05Whm9Lce.jpg",
+  "posterPath": "/9YhpvhhvLrtL1wlwEfpVL16GI9d.jpg",
+  "releaseDate": "1995-08-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6cc72bcc-11dc-4a99-946f-d9a516c34518",
+      "title": "Mortal Kombat [1995]",
+      "subtitle": null,
+      "timestampString": "02:12:55",
+      "timestampInSeconds": 7975,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #301 [Videojáték megfilmesítések Stökivel]",
+        "youtubeId": "b-yzUkXog24",
+        "thumbnailUrl": "https://i.ytimg.com/vi/b-yzUkXog24/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1745990091000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "19adae63-d910-4330-aa6c-5b841c0e1211",
+            "name": "Stöckert Gábor"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

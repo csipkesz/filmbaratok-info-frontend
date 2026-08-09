@@ -1,0 +1,45 @@
+{
+  "id": "ee43ba5b-aee8-43dd-8aa5-f89aa29d63f1",
+  "title": "Dark Skies – Sötét égboltok",
+  "originalTitle": "Dark Skies",
+  "overview": "From the producers of Paranormal Activity, Insidious, and Sinister comes Dark Skies: a supernatural thriller that follows a young family living in the suburbs. As husband and wife Daniel and Lacey Barret witness an escalating series of disturbing events involving their family, their safe and peaceful home quickly unravels. When it becomes clear that the Barret family is being targeted by an unimaginably terrifying and deadly force, Daniel and Lacey take matters in their own hands to solve the mystery of what is after their family.",
+  "backdropPath": "/oLuAgHcYk9UrulfFJCmYfcnvmgB.jpg",
+  "posterPath": "/euLgEo2kvuLjYxbfOekWF3l82t6.jpg",
+  "releaseDate": "2013-02-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b37a2bd1-16bc-4e12-aaab-854bff3dfd69",
+      "title": "Dark Skies – Sötét égboltok",
+      "subtitle": null,
+      "timestampString": "02:54:30",
+      "timestampInSeconds": 10470,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #80",
+        "youtubeId": "z4DzygJMKgc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z4DzygJMKgc/hqdefault.jpg",
+        "durationInMinutes": 227,
+        "releaseDate": 1440780590000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "cefd2521-d6fa-4254-954c-113a8eb4e7c8",
+  "title": "Predator: Halálbolygó",
+  "originalTitle": "Predator: Badlands",
+  "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
+  "backdropPath": "/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg",
+  "posterPath": "/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+  "releaseDate": "2025-11-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "93a2db5f-7c1c-4983-8399-1a6562b99670",
+      "title": "Predator: Halálbolygó",
+      "subtitle": null,
+      "timestampString": "02:22:55",
+      "timestampInSeconds": 8575,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #314",
+        "youtubeId": "tV5E0wGOsV8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tV5E0wGOsV8/hqdefault.jpg",
+        "durationInMinutes": 217,
+        "releaseDate": 1763147106000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

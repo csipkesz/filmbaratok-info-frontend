@@ -1,0 +1,45 @@
+{
+  "id": "3e4e4459-0e49-442d-957a-70d3546b6838",
+  "title": "Góliát",
+  "originalTitle": "Goliath",
+  "overview": "A régen felkapott ügyvéd, Billy McBride mára kiégett, több időt tölt a kocsmában, mint a bíróságon. Vonakodva ugyan, de elfogad egy ügyet: volt ügyvédi irodája ellen kérik fel egy jogtalan haláleset vádjának kivizsgálására. Billy ügyetlen csapatával egy halálos összeesküvést fedez fel, életükkel játszanak a Góliát elleni tárgyaláson.",
+  "backdropPath": "/ypWZ3iWt16kOoXfaD7KzgPqa8Bl.jpg",
+  "posterPath": "/rUW8gAyJdqCq0CnqzaYQ5DI0Zng.jpg",
+  "releaseDate": "2016-10-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ff6af8a3-557e-465c-a330-f5610247f467",
+      "title": "Góliát",
+      "subtitle": null,
+      "timestampString": "01:41:53",
+      "timestampInSeconds": 6113,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #173",
+        "youtubeId": "JMHD67V99Tw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JMHD67V99Tw/hqdefault.jpg",
+        "durationInMinutes": 178,
+        "releaseDate": 1565982605000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

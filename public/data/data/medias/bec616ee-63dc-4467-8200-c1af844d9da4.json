@@ -1,0 +1,45 @@
+{
+  "id": "bec616ee-63dc-4467-8200-c1af844d9da4",
+  "title": "Visszatérés Epipóba",
+  "originalTitle": "Visszatérés Epipóba",
+  "overview": "25 years after spending their holidays at a summer camp in 1980s socialist Hungary, the campers confont the demons of the past.",
+  "backdropPath": "/xJPhmNRbsTQVema0B7uNp5YXFcb.jpg",
+  "posterPath": "/kmKv5yRdeVPje5deT1fgFojnjsd.jpg",
+  "releaseDate": "2020-03-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "439bf405-d947-4b6e-9431-1689272ab5e5",
+      "title": "Visszatérés Epipóba",
+      "subtitle": null,
+      "timestampString": "01:03:37",
+      "timestampInSeconds": 3817,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #199",
+        "youtubeId": "fQW3yV4nVGM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fQW3yV4nVGM/hqdefault.jpg",
+        "durationInMinutes": 264,
+        "releaseDate": 1603214829000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

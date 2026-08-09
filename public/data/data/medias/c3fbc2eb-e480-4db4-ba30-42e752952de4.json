@@ -1,0 +1,45 @@
+{
+  "id": "c3fbc2eb-e480-4db4-ba30-42e752952de4",
+  "title": "Egy boltkóros naplója",
+  "originalTitle": "Confessions of a Shopaholic",
+  "overview": "In the glamorous world of New York City, Rebecca Bloomwood is a fun-loving girl who is really good at shopping – a little too good, perhaps. She dreams of working for her favorite fashion magazine, but can't quite get her foot in the door – until ironically, she snags a job as an advice columnist for a financial magazine published by the same company.",
+  "backdropPath": "/vTMM4QXG6Jye7yffsOpz24oPNg1.jpg",
+  "posterPath": "/r17R9OIC0pKDqqsNore6atYLCVZ.jpg",
+  "releaseDate": "2009-02-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b041768d-14cb-46ae-b1b4-527e58e4847e",
+      "title": "Egy boltkóros naplója",
+      "subtitle": null,
+      "timestampString": "02:57:35",
+      "timestampInSeconds": 10655,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #172",
+        "youtubeId": "ahOskajDN8o",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ahOskajDN8o/hqdefault.jpg",
+        "durationInMinutes": 250,
+        "releaseDate": 1564145413000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "d5c7ea24-5520-4fa1-ab79-cdddd0854673",
+  "title": "Jurassic World",
+  "originalTitle": "Jurassic World",
+  "overview": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
+  "backdropPath": "/dF6FjTZzRTENfB4R17HDN20jLT2.jpg",
+  "posterPath": "/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg",
+  "releaseDate": "2015-06-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "bb97c7a5-79d9-4d1f-9da6-318f4f0c1985",
+      "title": "Jurassic World",
+      "subtitle": null,
+      "timestampString": "00:35:53",
+      "timestampInSeconds": 2153,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #75",
+        "youtubeId": "5hqAh129dAE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/5hqAh129dAE/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1434729270000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

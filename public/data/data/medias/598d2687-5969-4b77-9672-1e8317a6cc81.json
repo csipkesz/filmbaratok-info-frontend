@@ -1,0 +1,41 @@
+{
+  "id": "598d2687-5969-4b77-9672-1e8317a6cc81",
+  "title": "Good vibrations",
+  "originalTitle": "Good Vibrations",
+  "overview": "The story of music legend Terri Hooley, a key figure in Belfast's punk rock scene. Hooley founded the Good Vibrations store from which a record label sprung, representing bands such as The Undertones, Rudi and The Outcasts.",
+  "backdropPath": "/qaWWVqXZ7JVr7eJGfyQmN7zA9o2.jpg",
+  "posterPath": "/s3C0o05CE1zumEB6XTwLI5yLSA0.jpg",
+  "releaseDate": "2012-05-31T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4b65c166-6bfa-4225-9fa8-a0b747f4c843",
+      "title": "Good vibrations",
+      "subtitle": null,
+      "timestampString": "02:49:05",
+      "timestampInSeconds": 10145,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #296",
+        "youtubeId": "2X4YekH4jj4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/2X4YekH4jj4/hqdefault.jpg",
+        "durationInMinutes": 189,
+        "releaseDate": 1739562524000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

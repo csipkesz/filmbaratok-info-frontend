@@ -1,0 +1,45 @@
+{
+  "id": "c702c034-2bb7-4e72-a2cc-655f2e7c71c6",
+  "title": "Peninsula: Holtak szigete",
+  "originalTitle": "반도",
+  "overview": "A soldier and his team battle hordes of post-apocalyptic zombies in the wastelands of the Korean Peninsula.",
+  "backdropPath": "/gEjNlhZhyHeto6Fy5wWy5Uk3A9D.jpg",
+  "posterPath": "/eeqvAzCccAZOhU3RfbvHB3s44S6.jpg",
+  "releaseDate": "2020-07-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c597e745-bdca-4e8c-9f26-19b39962907c",
+      "title": "Peninsula: Holtak szigete",
+      "subtitle": null,
+      "timestampString": "01:26:20",
+      "timestampInSeconds": 5180,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #198",
+        "youtubeId": "A61oXuDlUgE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/A61oXuDlUgE/hqdefault.jpg",
+        "durationInMinutes": 168,
+        "releaseDate": 1601560074000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

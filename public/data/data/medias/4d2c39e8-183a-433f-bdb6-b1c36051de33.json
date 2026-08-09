@@ -1,0 +1,45 @@
+{
+  "id": "4d2c39e8-183a-433f-bdb6-b1c36051de33",
+  "title": "Jupiter felemelkedése",
+  "originalTitle": "Jupiter Ascending",
+  "overview": "In a universe where human genetic material is the most precious commodity, an impoverished young Earth woman becomes the key to strategic maneuvers and internal strife within a powerful dynasty…",
+  "backdropPath": "/w4hk4QG05nDuSgimpa7XAM6OyPX.jpg",
+  "posterPath": "/2NCcAZ3M3F0FxENYmammBknwpVn.jpg",
+  "releaseDate": "2015-02-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "90b787f8-256b-43f0-b951-6ca276b3d52b",
+      "title": "Jupiter felemelkedése",
+      "subtitle": null,
+      "timestampString": "01:59:36",
+      "timestampInSeconds": 7176,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #67",
+        "youtubeId": "FATQkJjmAQg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/FATQkJjmAQg/hqdefault.jpg",
+        "durationInMinutes": 206,
+        "releaseDate": 1424108444000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

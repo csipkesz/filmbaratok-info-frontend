@@ -1,0 +1,45 @@
+{
+  "id": "4cf47736-0f63-499f-b815-a8b1cf64cf6e",
+  "title": "Egy ropi naplója",
+  "originalTitle": "Diary of a Wimpy Kid",
+  "overview": "Greg Heffley is headed for big things, but first he has to survive the scariest, most humiliating experience of any kid’s life – middle school! That won’t be easy, considering he’s surrounded by hairy-freckled morons, wedgie-loving bullies and a moldy slice of cheese with nuclear cooties!",
+  "backdropPath": "/hCjoIDVSxR2j1qEXKso385v9JgS.jpg",
+  "posterPath": "/iLAGiPnSuODt9cn332bkFElrRig.jpg",
+  "releaseDate": "2010-03-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1e40c9a7-8cc4-40ab-86e9-fc16682549b1",
+      "title": "Egy ropi naplója",
+      "subtitle": null,
+      "timestampString": "02:57:35",
+      "timestampInSeconds": 10655,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #316",
+        "youtubeId": "tj6Fv2PRYFw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tj6Fv2PRYFw/hqdefault.jpg",
+        "durationInMinutes": 318,
+        "releaseDate": 1765639323000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

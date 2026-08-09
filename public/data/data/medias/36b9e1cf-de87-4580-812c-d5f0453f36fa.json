@@ -1,0 +1,41 @@
+{
+  "id": "36b9e1cf-de87-4580-812c-d5f0453f36fa",
+  "title": "Novokain",
+  "originalTitle": "Novocaine",
+  "overview": "When the girl of his dreams is kidnapped, everyman Nate turns his inability to feel pain into an unexpected strength in his fight to get her back.",
+  "backdropPath": "/lyBH2mFFU6qrHwD5QKotL2JnEb6.jpg",
+  "posterPath": "/xmMHGz9dVRaMY6rRAlEX4W0Wdhm.jpg",
+  "releaseDate": "2025-03-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "31ad6d2d-fe4a-4270-922b-b43e70d9a053",
+      "title": "Novokain",
+      "subtitle": null,
+      "timestampString": "01:15:50",
+      "timestampInSeconds": 4550,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #302",
+        "youtubeId": "3K4xdZiHI_w",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3K4xdZiHI_w/hqdefault.jpg",
+        "durationInMinutes": 235,
+        "releaseDate": 1747414746000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

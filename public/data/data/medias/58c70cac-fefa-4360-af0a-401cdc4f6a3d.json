@@ -1,0 +1,45 @@
+{
+  "id": "58c70cac-fefa-4360-af0a-401cdc4f6a3d",
+  "title": "Törés",
+  "originalTitle": "Fracture",
+  "overview": "A husband is on trial for the attempted murder of his wife, in what is seemingly an open/shut case for the ambitious district attorney trying to put him away. However, there are surprises for both around every corner, and, as a suspenseful game of cat-and-mouse is played out, each must manipulate and outwit the other.",
+  "backdropPath": "/mujUrk2diGe5vRCb3kdpHZeobRs.jpg",
+  "posterPath": "/qNen8x5gaikjIg9CFihgxYcJwQe.jpg",
+  "releaseDate": "2007-04-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b6391fea-ac9c-40ee-a84c-5d01d391c811",
+      "title": "Törés",
+      "subtitle": null,
+      "timestampString": "02:10:11",
+      "timestampInSeconds": 7811,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #57",
+        "youtubeId": "NItQ0G4BTsQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/NItQ0G4BTsQ/hqdefault.jpg",
+        "durationInMinutes": 177,
+        "releaseDate": 1410890684000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "160fd9c1-5874-4c21-a8af-22919d46f41f",
+  "title": "Rohammentő",
+  "originalTitle": "Ambulance",
+  "overview": "Decorated veteran Will Sharp, desperate for money to cover his wife's medical bills, asks for help from his adoptive brother Danny. A charismatic career criminal, Danny instead offers him a score: the biggest bank heist in Los Angeles history: $32 million.",
+  "backdropPath": "/peJmavN1H3Js9SiqQbPNs8Hgwgr.jpg",
+  "posterPath": "/hUbgg3mMSbY9PlpTxBo4IFUVSd6.jpg",
+  "releaseDate": "2022-03-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f38b1ffd-a0cc-4616-b8f1-d9296cf05aa8",
+      "title": "Rohammentő",
+      "subtitle": null,
+      "timestampString": "02:42:30",
+      "timestampInSeconds": 9750,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #231",
+        "youtubeId": "GwvFCLoE8cY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GwvFCLoE8cY/hqdefault.jpg",
+        "durationInMinutes": 252,
+        "releaseDate": 1650126613000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

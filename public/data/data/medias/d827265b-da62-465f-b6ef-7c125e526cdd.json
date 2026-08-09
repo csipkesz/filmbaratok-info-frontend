@@ -1,0 +1,45 @@
+{
+  "id": "d827265b-da62-465f-b6ef-7c125e526cdd",
+  "title": "Halál a Níluson [2022]",
+  "originalTitle": "Death on the Nile",
+  "overview": "Belgian sleuth Hercule Poirot's Egyptian vacation aboard a glamorous river steamer turns into a terrifying search for a murderer when a picture-perfect couple's idyllic honeymoon is tragically cut short.",
+  "backdropPath": "/lRbDyjI7HEaXxflFQbYpqHRGFBJ.jpg",
+  "posterPath": "/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg",
+  "releaseDate": "2022-02-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4b6d4a8f-777e-4a12-b56c-38cc9d5cf2f4",
+      "title": "Halál a Níluson [2022]",
+      "subtitle": null,
+      "timestampString": "00:52:00",
+      "timestampInSeconds": 3120,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #228",
+        "youtubeId": "lv3ZpY859Dw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/lv3ZpY859Dw/hqdefault.jpg",
+        "durationInMinutes": 218,
+        "releaseDate": 1646480502000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

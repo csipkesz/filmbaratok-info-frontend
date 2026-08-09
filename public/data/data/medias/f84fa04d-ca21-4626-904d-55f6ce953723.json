@@ -1,0 +1,45 @@
+{
+  "id": "f84fa04d-ca21-4626-904d-55f6ce953723",
+  "title": "Fekete telefon",
+  "originalTitle": "The Black Phone",
+  "overview": "Finney Blake, a shy but clever 13-year-old boy, is abducted by a sadistic killer and trapped in a soundproof basement where screaming is of little use. When a disconnected phone on the wall begins to ring, Finney discovers that he can hear the voices of the killer’s previous victims. And they are dead set on making sure that what happened to them doesn’t happen to Finney.",
+  "backdropPath": "/AfvIjhDu9p64jKcmohS4hsPG95Q.jpg",
+  "posterPath": "/p9ZUzCyy9wRTDuuQexkQ78R2BgF.jpg",
+  "releaseDate": "2022-06-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e395eee4-8120-4e55-b85d-702b8ebe5775",
+      "title": "Fekete telefon",
+      "subtitle": null,
+      "timestampString": "01:41:03",
+      "timestampInSeconds": 6063,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #235",
+        "youtubeId": "E8HgTAqoW8U",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E8HgTAqoW8U/hqdefault.jpg",
+        "durationInMinutes": 220,
+        "releaseDate": 1657007879000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "465eb549-2e74-46d4-9d72-df2e21471883",
+            "name": "Anna"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

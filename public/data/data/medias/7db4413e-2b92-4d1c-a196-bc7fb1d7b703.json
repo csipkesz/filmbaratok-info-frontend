@@ -1,0 +1,45 @@
+{
+  "id": "7db4413e-2b92-4d1c-a196-bc7fb1d7b703",
+  "title": "Guerilla",
+  "originalTitle": "Guerilla",
+  "overview": "In 1849, the liberation war against the Habsburg Empire is close to its end in Hungary. Having hidden from military draft, Barnabás leaves his hometown and walks across the country to find and save his wounded brother who has been hiding with a guerilla group deep in the forest. Despite their exhaustion, lack of food or information, they are still fighting for their cause. Barnabás finds his brother alienated and distrustful. The tension between the boys further increases when they turn out to be attracted to the same nurse in the camp. Hoping he can earn his brother's trust and take him home, Barnabás decides to stay and lie about his past. In the meantime, he has to face the cruelty of war.",
+  "backdropPath": "/fNImEpn90mQQXED1Thw9mbs5WUl.jpg",
+  "posterPath": "/d9J4sWFqP0WOj0NlvMILia8Iy7W.jpg",
+  "releaseDate": "2019-03-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8f3d3d57-c2ef-412e-b76b-fd34c1756097",
+      "title": "Guerilla",
+      "subtitle": null,
+      "timestampString": "02:06:13",
+      "timestampInSeconds": 7573,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #164",
+        "youtubeId": "8dO_Vj7_jg8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/8dO_Vj7_jg8/hqdefault.jpg",
+        "durationInMinutes": 258,
+        "releaseDate": 1553010517000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

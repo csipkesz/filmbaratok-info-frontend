@@ -1,0 +1,45 @@
+{
+  "id": "7fea4d77-1c4a-4e4e-8d89-8cc4ba62914a",
+  "title": "Aki király akart lenni",
+  "originalTitle": "The Man Who Would Be King",
+  "overview": "Tired of life as soldiers, Peachy Carnehan and Danny Dravot travel to the isolated land of Kafiristan, where they are ultimately embraced by the people and revered as rulers. After a series of misunderstandings, the natives come to believe that Dravot is a god, but he and Carnehan can't keep up their deception forever.",
+  "backdropPath": "/1Jgefbg5cKfCrppNbP0nPJm2TdR.jpg",
+  "posterPath": "/xnEhm0CtgJoM9Z1dGGSQAwxU7oJ.jpg",
+  "releaseDate": "1975-12-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1cd1ebb1-ebcb-47c6-a229-b705afc107b3",
+      "title": "Aki király akart lenni",
+      "subtitle": null,
+      "timestampString": "02:49:14",
+      "timestampInSeconds": 10154,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #72",
+        "youtubeId": "Mkw8rsdw7bc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Mkw8rsdw7bc/hqdefault.jpg",
+        "durationInMinutes": 199,
+        "releaseDate": 1430242149000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

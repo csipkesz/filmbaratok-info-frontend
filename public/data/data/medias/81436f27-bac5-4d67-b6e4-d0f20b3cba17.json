@@ -1,0 +1,45 @@
+{
+  "id": "81436f27-bac5-4d67-b6e4-d0f20b3cba17",
+  "title": "Jane Eyre",
+  "originalTitle": "Jane Eyre",
+  "overview": "Charlotte Brontë halhatatlan romantikus szerelmi történetének vadonatúj BBC-adaptációja. Az elárvult kislány, Jane Eyre, kőszívű nagynénje rideg házában cseperedik fel. Iskoláit elvégezvén házvezetői állást nyer a rejtélyes Edward Rochester titkokkal teli birtokán, mely a baljós Thornfield Hall nevet viseli. Egy éjszaka ijesztő zajok szűrődnek ki a ház urának szobájából. Rochester ágya lángokban áll, s a férfi élete hajszálon függ. Gyilkos merénylet történt? S ki lehet a merénylő?",
+  "backdropPath": "/oolJUXleyfiTFul9uwuDMrBztmD.jpg",
+  "posterPath": "/ipeCMscJ8l7Tr214Q4EFrtSe530.jpg",
+  "releaseDate": "2006-09-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8c13353c-611e-416d-ac7f-93615dc97bdc",
+      "title": "Jane Eyre",
+      "subtitle": null,
+      "timestampString": "00:42:59",
+      "timestampInSeconds": 2579,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #32",
+        "youtubeId": "6P4PZX3FJGA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/6P4PZX3FJGA/hqdefault.jpg",
+        "durationInMinutes": 125,
+        "releaseDate": 1373643280000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "456c8b75-1f5c-4b9f-a853-e48b6e8d92e6",
+            "name": "DreamerInstinct"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

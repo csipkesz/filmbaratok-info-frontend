@@ -1,0 +1,45 @@
+{
+  "id": "25fba0e8-6764-4cf5-8a22-1538084da363",
+  "title": "Nappali műszak / Day shift",
+  "originalTitle": "Day Shift",
+  "overview": "An LA vampire hunter has a week to come up with the cash to pay for his kid's tuition and braces. Trying to make a living these days just might kill him.",
+  "backdropPath": "/yjZM4QrgA7PqX18Es6DxvJQH3ba.jpg",
+  "posterPath": "/tkl7n5r542S40hnYDI27lGNCACu.jpg",
+  "releaseDate": "2022-08-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9691ae64-b6bd-4189-85bd-eac8848f5373",
+      "title": "Nappali műszak / Day shift",
+      "subtitle": null,
+      "timestampString": "02:29:49",
+      "timestampInSeconds": 8989,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #238",
+        "youtubeId": "B0d915GjLlk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/B0d915GjLlk/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1661879000000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

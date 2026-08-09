@@ -1,0 +1,45 @@
+{
+  "id": "c473e08e-20f9-4703-ac90-0fa881f5e3fd",
+  "title": "Akasztófa",
+  "originalTitle": "The Gallows",
+  "overview": "20 years after a horrific accident during a small town school play, students at the school resurrect the failed show in a misguided attempt to honor the anniversary of the tragedy - but soon discover that some things are better left alone.",
+  "backdropPath": "/x736Ayub2V1pSldtzigS35owWNN.jpg",
+  "posterPath": "/4oBk2DsYRO0VuloOX52ROmz2QhU.jpg",
+  "releaseDate": "2015-07-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c9fd7844-48fc-4ee5-8ff9-db0b41619e9b",
+      "title": "Akasztófa",
+      "subtitle": null,
+      "timestampString": "01:41:00",
+      "timestampInSeconds": 6060,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #77",
+        "youtubeId": "GxURCHDmpLM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GxURCHDmpLM/hqdefault.jpg",
+        "durationInMinutes": 246,
+        "releaseDate": 1437150395000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

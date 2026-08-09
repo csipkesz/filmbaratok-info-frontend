@@ -1,0 +1,45 @@
+{
+  "id": "0db4b7d6-1565-46d2-a7c1-f14f0cea0ab0",
+  "title": "Logan Lucky",
+  "originalTitle": "Logan Lucky",
+  "overview": "Trying to reverse a family curse, brothers Jimmy and Clyde Logan set out to execute an elaborate robbery during the legendary Coca-Cola 600 race at the Charlotte Motor Speedway.",
+  "backdropPath": "/eszmHIWJHAKdnJcE3KcvVzOb6Jd.jpg",
+  "posterPath": "/mQrhrBaaHvRfBQq0Px3HtVbH9iE.jpg",
+  "releaseDate": "2017-08-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b1e7a898-dc0c-47da-a800-1313839e3536",
+      "title": "Logan Lucky",
+      "subtitle": null,
+      "timestampString": "01:35:57",
+      "timestampInSeconds": 5757,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #128",
+        "youtubeId": "YoKRZAg1KR0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/YoKRZAg1KR0/hqdefault.jpg",
+        "durationInMinutes": 252,
+        "releaseDate": 1505410953000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

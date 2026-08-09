@@ -1,0 +1,45 @@
+{
+  "id": "6c7f713d-a96e-4436-a992-a5c5e6db2985",
+  "title": "The outsider",
+  "originalTitle": "The Outsider",
+  "overview": "Amikor egy alattomos természetfeletti erő egy fiatal fiú félelmetes gyilkosságának látszólag egyértelmű kivizsgálásához vezet, akkor egy tapasztalt rendőr és egy  nyomozó megkérdőjelez mindent, amiben eddig hittek.",
+  "backdropPath": "/lmlsqpAfDZnZumcFhbsTrOy9uNZ.jpg",
+  "posterPath": "/6zjs8uDnp0MV76CD2XnyB57FdNi.jpg",
+  "releaseDate": "2020-01-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5dead373-fc0e-40bb-86f9-512715701fcb",
+      "title": "The outsider",
+      "subtitle": null,
+      "timestampString": "01:59:40",
+      "timestampInSeconds": 7180,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #141",
+        "youtubeId": "gWd3V1HCpWA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gWd3V1HCpWA/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1522558409000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

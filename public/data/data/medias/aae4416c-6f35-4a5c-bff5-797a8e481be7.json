@@ -1,0 +1,75 @@
+{
+  "id": "aae4416c-6f35-4a5c-bff5-797a8e481be7",
+  "title": "Squid Game",
+  "originalTitle": "Squid Game: The Challenge",
+  "overview": "A Nyerd meg az életed alapján készült realityversenyben 456 játékos a képességeit próbára téve ringbe száll a sorsfordító 4,56 millió dolláros díjért.",
+  "backdropPath": "/qgYK2c5Yl6h0K7s0ClLa3lIcKuV.jpg",
+  "posterPath": "/eAjXAgdjPMZH9Ugub7XYPowFoS1.jpg",
+  "releaseDate": "2023-11-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3958cc38-1b20-45dd-b77b-4302bf30eadb",
+      "title": "Squid Game 1. évad",
+      "subtitle": "1. évad",
+      "timestampString": "01:15:50",
+      "timestampInSeconds": 4550,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Sorozatok (Sólyomszem, Witcher, Squid Game, Ted Lasso)",
+        "youtubeId": "LphtMncKXkI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/LphtMncKXkI/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1646982902000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "a993cfe5-8078-49a5-adb0-22dfee58cd0a",
+            "name": "Shirin"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7e8ee0c6-6130-4f05-a4b0-8d9035c444c4",
+      "title": "Squid Game (3. évad)",
+      "subtitle": "3. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Squid Game (3. évad)",
+        "youtubeId": "GEa6fXXft_w",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GEa6fXXft_w/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1752428200000,
+        "participants": []
+      }
+    },
+    {
+      "id": "f17d4395-9189-4a52-8df4-60103105f150",
+      "title": "Squid Game (2. évad)",
+      "subtitle": "2. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Squid Game (2. évad)",
+        "youtubeId": "uja5obpXmww",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uja5obpXmww/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1741113906000,
+        "participants": []
+      }
+    }
+  ]
+}

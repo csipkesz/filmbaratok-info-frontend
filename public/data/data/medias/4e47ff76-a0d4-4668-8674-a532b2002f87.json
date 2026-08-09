@@ -1,0 +1,41 @@
+{
+  "id": "4e47ff76-a0d4-4668-8674-a532b2002f87",
+  "title": "Romlott oktatás",
+  "originalTitle": "Bad Education",
+  "overview": "A superintendent of a school district works for the betterment of the student’s education when an embezzlement scheme is discovered, threatening to destroy everything.",
+  "backdropPath": "/kriOlxu4KVEjd0ZaY3dW7YYyP4z.jpg",
+  "posterPath": "/gizz5FphOtfSnLaGpRALOZgILd5.jpg",
+  "releaseDate": "2019-09-08T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3b68ed7f-06fc-4da8-abb7-83538415700f",
+      "title": "Romlott oktatás",
+      "subtitle": null,
+      "timestampString": "01:15:33",
+      "timestampInSeconds": 4533,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #190",
+        "youtubeId": "w7oFnCSc3u4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/w7oFnCSc3u4/hqdefault.jpg",
+        "durationInMinutes": 188,
+        "releaseDate": 1590603790000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

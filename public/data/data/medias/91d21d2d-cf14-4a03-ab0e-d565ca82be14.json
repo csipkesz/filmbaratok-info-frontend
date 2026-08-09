@@ -1,0 +1,49 @@
+{
+  "id": "91d21d2d-cf14-4a03-ab0e-d565ca82be14",
+  "title": "Tenebris",
+  "originalTitle": "Tenebris",
+  "overview": "A grieving man returns to his hometown to sort through his late mother's belongings, only to become consumed by a brutal murder captured on his Ring camera.",
+  "backdropPath": "/9Y0nqbBriATFvML1SXDyrL698vR.jpg",
+  "posterPath": "/fPZA3j4v73FJHAgCAOkqUBkuIMW.jpg",
+  "releaseDate": null,
+  "topics": [
+    {
+      "id": "7f70b733-fb5b-462c-afc3-5f5158f7ea1c",
+      "title": "Tenebris",
+      "subtitle": null,
+      "timestampString": "02:03:40",
+      "timestampInSeconds": 7420,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #193",
+        "youtubeId": "WZrbCRuXQqU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/WZrbCRuXQqU/hqdefault.jpg",
+        "durationInMinutes": 250,
+        "releaseDate": 1594492684000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          },
+          {
+            "id": "fad572d7-4b23-4285-955d-223f31dfe495",
+            "name": "Szöllőskei Gábor"
+          }
+        ]
+      }
+    }
+  ]
+}

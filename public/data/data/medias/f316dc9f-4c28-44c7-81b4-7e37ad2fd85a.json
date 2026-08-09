@@ -1,0 +1,41 @@
+{
+  "id": "f316dc9f-4c28-44c7-81b4-7e37ad2fd85a",
+  "title": "Evil Genius: The true story of America's most diabolical bank heist",
+  "originalTitle": "Evil Genius",
+  "overview": "",
+  "backdropPath": "/8xPe5b6GsBF9PgkU1kjfdnKfGbq.jpg",
+  "posterPath": "/rXaq7vl7sXynXFBVLPrNzj6CGUp.jpg",
+  "releaseDate": "2018-05-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b2be36f8-3cf6-44f2-9380-ab8859aa49f0",
+      "title": "Evil Genius: The true story of America's most diabolical bank heist",
+      "subtitle": null,
+      "timestampString": "02:13:31",
+      "timestampInSeconds": 8011,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #148",
+        "youtubeId": "keV4hpdXcYo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/keV4hpdXcYo/hqdefault.jpg",
+        "durationInMinutes": 206,
+        "releaseDate": 1533062167000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

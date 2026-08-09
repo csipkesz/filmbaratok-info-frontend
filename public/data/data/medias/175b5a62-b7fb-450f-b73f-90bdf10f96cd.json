@@ -1,0 +1,75 @@
+{
+  "id": "175b5a62-b7fb-450f-b73f-90bdf10f96cd",
+  "title": "A múmia",
+  "originalTitle": "The Mummy",
+  "overview": "Though safely entombed in a crypt deep beneath the unforgiving desert, an ancient queen whose destiny was unjustly taken from her is awakened in our current day, bringing with her malevolence grown over millennia, and terrors that defy human comprehension.",
+  "backdropPath": "/i4ZougHEyBAboDpi6jsaTUDTjUl.jpg",
+  "posterPath": "/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg",
+  "releaseDate": "2017-06-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b9c31b4e-f348-4e2f-9795-a6c566ffe1fc",
+      "title": "A múmia",
+      "subtitle": null,
+      "timestampString": "01:12:12",
+      "timestampInSeconds": 4332,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #285 (1999-es filmek)",
+        "youtubeId": "9AOI1V1MgRI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9AOI1V1MgRI/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1725038107000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fbd1bc8f-8c78-4c44-89ff-cc52df499516",
+      "title": "A múmia",
+      "subtitle": null,
+      "timestampString": "01:27:55",
+      "timestampInSeconds": 5275,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #123",
+        "youtubeId": "bURb6dAUghs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/bURb6dAUghs/hqdefault.jpg",
+        "durationInMinutes": 147,
+        "releaseDate": 1497253469000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

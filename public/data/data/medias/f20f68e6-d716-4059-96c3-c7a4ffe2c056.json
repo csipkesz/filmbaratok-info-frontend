@@ -1,0 +1,45 @@
+{
+  "id": "f20f68e6-d716-4059-96c3-c7a4ffe2c056",
+  "title": "Otthon, biztonságban",
+  "originalTitle": "Right at Your Door",
+  "overview": "A dirty bomb goes off in Los Angeles, jamming freeways and spreading a toxic cloud.",
+  "backdropPath": "/6MRz7SEqTAGYQ2dSvFjyKVr6IYK.jpg",
+  "posterPath": "/sBkCtdpkWRiisQ3vzyNOZ72biCB.jpg",
+  "releaseDate": "2006-01-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e698d95f-6402-4288-9da7-d9dd08e4c245",
+      "title": "Otthon, biztonságban",
+      "subtitle": null,
+      "timestampString": "03:36:31",
+      "timestampInSeconds": 12991,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #77",
+        "youtubeId": "GxURCHDmpLM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GxURCHDmpLM/hqdefault.jpg",
+        "durationInMinutes": 246,
+        "releaseDate": 1437150395000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

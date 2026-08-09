@@ -1,0 +1,45 @@
+{
+  "id": "9905db54-d801-4bcf-81e0-e4edebda3ecd",
+  "title": "A világ legjobb apukája",
+  "originalTitle": "World's Greatest Dad",
+  "overview": "In the wake of a freak accident, Lance suffers the worst tragedy and the greatest opportunity of his life. He is suddenly faced with the possibility of fame, fortune and popularity, if he can only live with the knowledge of how he got there.",
+  "backdropPath": "/tsEVQYXcmvjbMlZO8q2ypRjaajR.jpg",
+  "posterPath": "/1ESsZLvZPIvbCPCh7CPCSnF4EeH.jpg",
+  "releaseDate": "2009-08-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8fc3c902-68f1-4f06-871e-c6e0d14bc25f",
+      "title": "A világ legjobb apukája",
+      "subtitle": null,
+      "timestampString": "03:13:43",
+      "timestampInSeconds": 11623,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #134",
+        "youtubeId": "gB5CFdGY70M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gB5CFdGY70M/hqdefault.jpg",
+        "durationInMinutes": 218,
+        "releaseDate": 1513874512000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

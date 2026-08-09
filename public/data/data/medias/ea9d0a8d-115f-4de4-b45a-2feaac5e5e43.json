@@ -1,0 +1,41 @@
+{
+  "id": "ea9d0a8d-115f-4de4-b45a-2feaac5e5e43",
+  "title": "The killing",
+  "originalTitle": "The Killing",
+  "overview": "Sarah Linden nyomozó arra készül, hogy új életet kezdjen kisfiával együtt egy új városban egy új férfi oldalán, amikor utolsó munkanapján egy erőszakos bűncselekmény helyszínére hívják. Holttest ugyan nincs, csak egy véres női pulóver és egy Stan Larsen nevére szóló bankkártya nyomán indulhat el Linden nyomozó és utódja, a gyilkossági csoporthoz a kábítószeresektől frissen átkerült Stephen Holder. Kiderül, hogy Larsen 17 éves lánya, Rosie nem a barátnőjénél töltötte a hétvégét, ahogy a szülei tudták, vagyis péntek este óta senki sem tud a hollétéről. A rendőrség nyomozásától függetlenül a szülők, Mitch és Stan is lázas keresésbe kezdenek lányuk után... Az Egy gyilkos ügy című világsikerű dán bűnügyi tévéfilmsorozat amerikai remake-je az esős-borús Seattle városában játszódik.",
+  "backdropPath": "/LjXBJaNaBGgAsNHDYfFTwGOUWb.jpg",
+  "posterPath": "/nQaQWR4MO9A2eVxuzwCOthdXiZB.jpg",
+  "releaseDate": "2011-04-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b98cd2a8-fde1-47e2-93d9-e0ca6cf38c4c",
+      "title": "The killing",
+      "subtitle": null,
+      "timestampString": "01:49:15",
+      "timestampInSeconds": 6555,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #106",
+        "youtubeId": "HldVi4TfJ9Y",
+        "thumbnailUrl": "https://i.ytimg.com/vi/HldVi4TfJ9Y/hqdefault.jpg",
+        "durationInMinutes": 146,
+        "releaseDate": 1473495633000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

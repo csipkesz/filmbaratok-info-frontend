@@ -1,0 +1,41 @@
+{
+  "id": "cb7ddd0c-3db7-4f5b-b8c1-8b5500ee9f7d",
+  "title": "Futni mentem",
+  "originalTitle": "Futni mentem",
+  "overview": "After the death of her husband, a mother decides to fulfill his last wish and runs the marathon in relays with her daughters. A small problem is that none of them are physically and mentally prepared for running. Furthermore, the relatives and friends are also unexpectedly affected by the women's seemingly impossible challenge.",
+  "backdropPath": "/iNA964wOcIfJzOHeQRw1iZdc56z.jpg",
+  "posterPath": "/cyL6gH4JuYvZRNtxePNq10HpFyt.jpg",
+  "releaseDate": "2024-11-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9172fe2c-3993-4f89-aff0-cd231b1d94b3",
+      "title": "Futni mentem",
+      "subtitle": null,
+      "timestampString": "01:42:55",
+      "timestampInSeconds": 6175,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #291",
+        "youtubeId": "kkat0CorCLw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/kkat0CorCLw/hqdefault.jpg",
+        "durationInMinutes": 178,
+        "releaseDate": 1732811077000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

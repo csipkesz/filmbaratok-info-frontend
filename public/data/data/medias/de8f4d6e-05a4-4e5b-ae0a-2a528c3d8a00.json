@@ -1,0 +1,45 @@
+{
+  "id": "de8f4d6e-05a4-4e5b-ae0a-2a528c3d8a00",
+  "title": "Életem legjobb száma",
+  "originalTitle": "Power Ballad",
+  "overview": "When Rick, a past-his-prime wedding singer, meets fading boy-band star Danny during a gig, the two bond over music and a late-night jam session. But when Danny turns one of Rick’s songs into the hit that reignites his career, Rick sets out to reclaim the recognition he believes he deserves - even if it means risking everything he cares about.",
+  "backdropPath": "/euUEDjof7fVX2t3nYFvLLN9ADK2.jpg",
+  "posterPath": "/sGgX2K0SJqw90Ju8TONdhDVwlzT.jpg",
+  "releaseDate": "2026-05-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d9d994e6-e102-4b11-9150-45ad56d7245d",
+      "title": "Életem legjobb száma",
+      "subtitle": null,
+      "timestampString": "02:10:55",
+      "timestampInSeconds": 7855,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #329",
+        "youtubeId": "mMxJ3JAYZY4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/mMxJ3JAYZY4/hqdefault.jpg",
+        "durationInMinutes": 212,
+        "releaseDate": 1782846925000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "723a7ceb-d9b4-406e-aef0-404d26059a4f",
+            "name": "Márk"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

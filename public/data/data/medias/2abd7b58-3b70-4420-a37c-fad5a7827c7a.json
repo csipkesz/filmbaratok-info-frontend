@@ -1,0 +1,58 @@
+{
+  "id": "2abd7b58-3b70-4420-a37c-fad5a7827c7a",
+  "title": "A farkas gyermekei",
+  "originalTitle": "Raised by Wolves",
+  "overview": "A világűr gyarmatosításának korai szakaszában két android feladata, hogy emberi gyerekeket neveljenek egy bolygón. Apának és Anyának komoly kihívással kell szembenéznie, amikor a kolóniát széteséssel fenyegeti egy vallási konfliktus.",
+  "backdropPath": "/na2xUduK8HviOFT97TiFG2MkJmY.jpg",
+  "posterPath": "/5nM5qJTgHZPgzfUfZPQazOJB8fA.jpg",
+  "releaseDate": "2020-09-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "64d23e8d-f896-491d-a8e2-06aad6f9a0c3",
+      "title": "A farkas gyermekei 1. évad [SPOILERES]",
+      "subtitle": "1. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": true,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: A farkas gyermekei 1. évad [SPOILERES]",
+        "youtubeId": "33dV3QKrFHw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/33dV3QKrFHw/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1603103916000,
+        "participants": []
+      }
+    },
+    {
+      "id": "811a103e-0785-4f1f-b97b-cff7947f5d60",
+      "title": "A farkas gyermekei 2. évad",
+      "subtitle": "2. évad",
+      "timestampString": "00:31:45",
+      "timestampInSeconds": 1905,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Sorozatok (Békeharcos, A farkas gyermekei 2. évad, Holdlovag)",
+        "youtubeId": "b3LUO08pTFI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/b3LUO08pTFI/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1653110209000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "a993cfe5-8078-49a5-adb0-22dfee58cd0a",
+            "name": "Shirin"
+          }
+        ]
+      }
+    }
+  ]
+}

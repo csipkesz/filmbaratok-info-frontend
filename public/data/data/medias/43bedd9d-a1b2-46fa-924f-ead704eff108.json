@@ -1,0 +1,45 @@
+{
+  "id": "43bedd9d-a1b2-46fa-924f-ead704eff108",
+  "title": "Játssz a túlélésért",
+  "originalTitle": "Surviving the Game",
+  "overview": "A homeless man is hired as a survival guide for a group of wealthy businessmen on a hunting trip in the mountains, unaware that they are killers who hunt humans for sport, and that he is their new prey.",
+  "backdropPath": "/fZIOrSUxZ6f1tODktqdICN3Ky1o.jpg",
+  "posterPath": "/wRtpJFGney5gqHmMb3JjT5WN3FH.jpg",
+  "releaseDate": "1994-04-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "75e5ecfa-0f2d-41f4-ac0b-ea6a6750bbbf",
+      "title": "Játssz a túlélésért",
+      "subtitle": null,
+      "timestampString": "02:59:23",
+      "timestampInSeconds": 10763,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #152",
+        "youtubeId": "1ER_tqoHZVM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/1ER_tqoHZVM/hqdefault.jpg",
+        "durationInMinutes": 208,
+        "releaseDate": 1537972086000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

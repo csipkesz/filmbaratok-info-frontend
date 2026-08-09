@@ -1,0 +1,41 @@
+{
+  "id": "ae520bc5-8a56-4926-a4bf-d36d679454ca",
+  "title": "Senki 2",
+  "originalTitle": "Nobody 2",
+  "overview": "Former assassin Hutch Mansell takes his family on a nostalgic vacation to a small-town theme park, only to be pulled back into violence when they clash with a corrupt operator, a crooked sheriff, and a ruthless crime boss.",
+  "backdropPath": "/82C04rTiXYZ7c8XZv91Nu53w82Y.jpg",
+  "posterPath": "/svXVRoRSu6zzFtCzkRsjZS7Lqpd.jpg",
+  "releaseDate": "2025-08-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c9a88158-4b99-4527-b6ec-6c8a25888dfb",
+      "title": "Senki 2",
+      "subtitle": null,
+      "timestampString": "00:51:00",
+      "timestampInSeconds": 3060,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #309",
+        "youtubeId": "yH7NkqL8uXA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/yH7NkqL8uXA/hqdefault.jpg",
+        "durationInMinutes": 148,
+        "releaseDate": 1756490346000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

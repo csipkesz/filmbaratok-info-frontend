@@ -1,0 +1,41 @@
+{
+  "id": "4f17787f-c008-4e5b-9b21-3083659027c3",
+  "title": "Betolakodók",
+  "originalTitle": "Intruders",
+  "overview": "Though no one can see him, Hollow Face lurks in the corners, desperately desiring love but only knowing how to spread fear and hate. He creeps into the life of John Farrow after Farrow’s beloved 12-year-old daughter Mia is assaulted in their home. The line between the real and the imaginary blurs as fissures start to open within the family unit. It seems that no security measure can keep Hollow Face out.",
+  "backdropPath": "/5xkUNp36OqJLm7ERfVIEinZrxQW.jpg",
+  "posterPath": "/erGjRCwzKOGHxJ32fR5ObGYtBBK.jpg",
+  "releaseDate": "2011-09-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "485a56f4-3389-4b2c-9d8c-ae4127b80c86",
+      "title": "Betolakodók",
+      "subtitle": null,
+      "timestampString": "00:48:31",
+      "timestampInSeconds": 2911,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #46 (Oscar 2014)",
+        "youtubeId": "BjIg8Ny1Bfg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/BjIg8Ny1Bfg/hqdefault.jpg",
+        "durationInMinutes": 145,
+        "releaseDate": 1393580650000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "d6c0dfbb-6e90-42a2-a185-41ec7252db14",
+  "title": "Casino Royale",
+  "originalTitle": "Casino Royale",
+  "overview": "Le Chiffre, a banker to the world's terrorists, is scheduled to participate in a high-stakes poker game in Montenegro, where he intends to use his winnings to establish his financial grip on the terrorist market. M sends Bond—on his maiden mission as a 00 Agent—to attend this game and prevent Le Chiffre from winning. With the help of Vesper Lynd and Felix Leiter, Bond enters the most important poker game in his already dangerous career.",
+  "backdropPath": "/klJMCIblHLFwCuGjKz7tyOpekIC.jpg",
+  "posterPath": "/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg",
+  "releaseDate": "2006-11-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ca2592c3-f1cd-4bd9-8308-9151e85e6ceb",
+      "title": "Casino Royale",
+      "subtitle": null,
+      "timestampString": "01:10:30",
+      "timestampInSeconds": 4230,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #112",
+        "youtubeId": "M7gzW5_pVZk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/M7gzW5_pVZk/hqdefault.jpg",
+        "durationInMinutes": 160,
+        "releaseDate": 1481731219000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

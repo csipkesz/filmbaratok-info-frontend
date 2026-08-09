@@ -1,0 +1,45 @@
+{
+  "id": "eb745f41-4ec0-48a8-a40f-90cc255a5614",
+  "title": "Tini Nindzsa Teknőcök: Mutáns káosz",
+  "originalTitle": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+  "overview": "After years of being sheltered from the human world, the Turtle brothers set out to win the hearts of New Yorkers and be accepted as normal teenagers through heroic acts. Their new friend April O'Neil helps them take on a mysterious crime syndicate, but they soon get in over their heads when an army of mutants is unleashed upon them.",
+  "backdropPath": "/2Cpg8hUn60PK9CW9d5SWf605Ah8.jpg",
+  "posterPath": "/gyh0eECE2IqrW8GWl3KoHBfc45j.jpg",
+  "releaseDate": "2023-07-31T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "bd74041e-817f-4a4c-9f57-34c4692eb405",
+      "title": "Tini Nindzsa Teknőcök: Mutáns káosz",
+      "subtitle": null,
+      "timestampString": "01:49:33",
+      "timestampInSeconds": 6573,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #261",
+        "youtubeId": "riCSpLjExWo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/riCSpLjExWo/hqdefault.jpg",
+        "durationInMinutes": 207,
+        "releaseDate": 1693369891000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

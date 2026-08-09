@@ -1,0 +1,49 @@
+{
+  "id": "b779f499-316b-4c76-b7db-b67381de1391",
+  "title": "Hivatali patkányok",
+  "originalTitle": "Office Space",
+  "overview": "A depressed white-collar worker tries hypnotherapy, only to find himself in a perpetual state of devil-may-care bliss that prompts him to start living by his own rules, and hatch a hapless attempt to embezzle money from his soul-killing employers.",
+  "backdropPath": "/g7o5O6xRWkMiwHXiYMPC690YEL4.jpg",
+  "posterPath": "/iEmTwOkUaLziMQCUZii5wPQBIAO.jpg",
+  "releaseDate": "1999-02-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "19145a25-d895-4e80-bbe9-520e909de14c",
+      "title": "Hivatali patkányok",
+      "subtitle": null,
+      "timestampString": "02:54:50",
+      "timestampInSeconds": 10490,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #97",
+        "youtubeId": "544nF31uOsc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/544nF31uOsc/hqdefault.jpg",
+        "durationInMinutes": 219,
+        "releaseDate": 1461517994000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

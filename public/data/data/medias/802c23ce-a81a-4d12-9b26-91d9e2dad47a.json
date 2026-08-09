@@ -1,0 +1,41 @@
+{
+  "id": "802c23ce-a81a-4d12-9b26-91d9e2dad47a",
+  "title": "Gyilkos randi",
+  "originalTitle": "Drop",
+  "overview": "Violet, a widowed mother on her first date in years, arrives at an upscale restaurant where she is relieved that her date, Henry, is more charming and handsome than she expected. But their chemistry begins to curdle as Violet begins being irritated and then terrorized by a series of anonymous drops to her phone.",
+  "backdropPath": "/akBGSguhkAj1TXOdZUcL11e1hpH.jpg",
+  "posterPath": "/hSQPSW8aLjsMBfwqGjgJ6HozTkp.jpg",
+  "releaseDate": "2025-04-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6f131c37-0ebd-4619-9483-f98b23d73533",
+      "title": "Gyilkos randi",
+      "subtitle": null,
+      "timestampString": "00:47:22",
+      "timestampInSeconds": 2842,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #302",
+        "youtubeId": "3K4xdZiHI_w",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3K4xdZiHI_w/hqdefault.jpg",
+        "durationInMinutes": 235,
+        "releaseDate": 1747414746000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

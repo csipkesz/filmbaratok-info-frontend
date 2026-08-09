@@ -1,0 +1,45 @@
+{
+  "id": "481a7409-4df5-4b51-883e-30034c79b4d5",
+  "title": "A visszatérő",
+  "originalTitle": "The Revenant",
+  "overview": "In the 1820s, a frontiersman, Hugh Glass, sets out on a path of vengeance against those who left him for dead after a bear mauling.",
+  "backdropPath": "/hEQYZq2CDB2LSJVxxlazdBOKeyW.jpg",
+  "posterPath": "/ji3ecJphATlVgWNY0B0RVXZizdf.jpg",
+  "releaseDate": "2015-12-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "173eb5d9-91a4-49f5-b881-69c0d1b4db84",
+      "title": "A visszatérő",
+      "subtitle": null,
+      "timestampString": "01:04:35",
+      "timestampInSeconds": 3875,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #91",
+        "youtubeId": "G-6KMqIQhQQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/G-6KMqIQhQQ/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1454001243000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

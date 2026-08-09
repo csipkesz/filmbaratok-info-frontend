@@ -1,0 +1,71 @@
+{
+  "id": "ea6ab4bb-d1c4-482c-a037-a69e4899987b",
+  "title": "A Lego-kaland",
+  "originalTitle": "The Lego Movie",
+  "overview": "An ordinary Lego mini-figure, mistakenly thought to be the extraordinary MasterBuilder, is recruited to join a quest to stop an evil Lego tyrant from conquering the universe.",
+  "backdropPath": "/6gI1dAkOaUQ6659OdRPsTLlsem5.jpg",
+  "posterPath": "/lbctonEnewCYZ4FYoTZhs8cidAl.jpg",
+  "releaseDate": "2014-02-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "79336dba-1ce8-4a4e-b227-176847aa2d53",
+      "title": "A Lego-Kaland",
+      "subtitle": null,
+      "timestampString": "01:11:36",
+      "timestampInSeconds": 4296,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #45",
+        "youtubeId": "9hNSnIZK61I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9hNSnIZK61I/hqdefault.jpg",
+        "durationInMinutes": 145,
+        "releaseDate": 1392563971000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bf5385d4-48b0-4a59-8f50-cddcc97702b8",
+      "title": "A LEGO kaland",
+      "subtitle": null,
+      "timestampString": "01:07:51",
+      "timestampInSeconds": 4071,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #54",
+        "youtubeId": "z2MBRvmBR0k",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z2MBRvmBR0k/hqdefault.jpg",
+        "durationInMinutes": 188,
+        "releaseDate": 1406308806000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

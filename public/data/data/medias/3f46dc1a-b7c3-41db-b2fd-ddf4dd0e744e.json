@@ -1,0 +1,45 @@
+{
+  "id": "3f46dc1a-b7c3-41db-b2fd-ddf4dd0e744e",
+  "title": "Final Cut",
+  "originalTitle": "FINAL CUT",
+  "overview": "",
+  "backdropPath": "/f5cpo8YSto6ENOv71YhQ0UOfCqS.jpg",
+  "posterPath": "/uiYXEuEkol39mQlOiju5Kd6h9ud.jpg",
+  "releaseDate": "2018-01-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9c93e331-9e0a-4ae6-8c50-d546a4d1ed56",
+      "title": "Final Cut",
+      "subtitle": null,
+      "timestampString": "00:45:43",
+      "timestampInSeconds": 2743,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #51",
+        "youtubeId": "E9iOfzIEJFU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E9iOfzIEJFU/hqdefault.jpg",
+        "durationInMinutes": 176,
+        "releaseDate": 1401305269000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

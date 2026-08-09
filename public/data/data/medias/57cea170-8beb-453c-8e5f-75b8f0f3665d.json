@@ -1,0 +1,45 @@
+{
+  "id": "57cea170-8beb-453c-8e5f-75b8f0f3665d",
+  "title": "Törvényre törve",
+  "originalTitle": "Out for Justice",
+  "overview": "Gino Felino is an NYPD detective from Brooklyn who knows everyone and everything in his neighborhood. Killing his partner was someone's big mistake... because he's now out for justice.",
+  "backdropPath": "/vh4b3D4SOTAQzuPVrZPiETQuUlW.jpg",
+  "posterPath": "/nmfM1diysOyrX4JbvwS7uOomyes.jpg",
+  "releaseDate": "1991-04-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "117e490a-e23f-4a59-8971-c68722aeb542",
+      "title": "Törvényre törve",
+      "subtitle": null,
+      "timestampString": "00:42:12",
+      "timestampInSeconds": 2532,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #202",
+        "youtubeId": "E2b82odyb3w",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E2b82odyb3w/hqdefault.jpg",
+        "durationInMinutes": 223,
+        "releaseDate": 1608135119000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ca5b1244-4883-4413-ae43-31c2b4f35875",
+  "title": "Hős6os",
+  "originalTitle": "Big Hero 6",
+  "overview": "A special bond develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.",
+  "backdropPath": "/4s2d3xdyqotiVNHTlTlJjrr3q0H.jpg",
+  "posterPath": "/2mxS4wUimwlLmI1xp6QW6NSU361.jpg",
+  "releaseDate": "2014-10-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "cd7a2b1a-0648-44ba-a034-6f4c540659fe",
+      "title": "Hős6os",
+      "subtitle": null,
+      "timestampString": "01:20:55",
+      "timestampInSeconds": 4855,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #64",
+        "youtubeId": "vMZFtpkoCfs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/vMZFtpkoCfs/hqdefault.jpg",
+        "durationInMinutes": 229,
+        "releaseDate": 1420013879000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

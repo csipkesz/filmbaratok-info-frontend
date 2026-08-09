@@ -1,0 +1,49 @@
+{
+  "id": "0e8dfaa3-c4e8-4ca1-a6ca-4d33c7bbf3a7",
+  "title": "Hárman a slamasztikában",
+  "originalTitle": "Seems Like Old Times",
+  "overview": "After being falsely accused of robbing a bank, a writer seeks the help of his lawyer ex-wife to clear his name. However, hilarity ensues when he must hide from her husband, who’s throwing a party for law enforcement officials.",
+  "backdropPath": "/wqtK1JgJ1n5BB1cWu8PzOuBcrXn.jpg",
+  "posterPath": "/mT6l2TO3kbeG7olZV5Zmd8MqSh8.jpg",
+  "releaseDate": "1980-12-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3a804801-16ca-4c25-9800-ba2189ee1564",
+      "title": "Hárman a slamasztikában",
+      "subtitle": null,
+      "timestampString": "04:23:20",
+      "timestampInSeconds": 15800,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #253",
+        "youtubeId": "qh8K0plyKrk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/qh8K0plyKrk/hqdefault.jpg",
+        "durationInMinutes": 284,
+        "releaseDate": 1682442009000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          },
+          {
+            "id": "c304360d-e258-40c8-bf92-0d3d24111a33",
+            "name": "ChatGPT"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "3cb5d84b-d1ec-41a3-9ea7-319cb822469f",
+  "title": "The Clovehitch Killer",
+  "originalTitle": "The Clovehitch Killer",
+  "overview": "A picture-perfect family is torn apart after Tyler finds a cache of disturbing images in his father's possession. He begins to suspect that the man he trusts most in the world may be responsible for the murder of 13 women ten years prior.",
+  "backdropPath": "/vSPUZQr6bsvFOJPsd6NPxGkDd2v.jpg",
+  "posterPath": "/6NmsbUJqnopbnLun2E4KvtVNj8T.jpg",
+  "releaseDate": "2018-11-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8b5a5f85-10a4-43c6-8149-f4843dafac61",
+      "title": "The Clovehitch Killer",
+      "subtitle": null,
+      "timestampString": "04:02:10",
+      "timestampInSeconds": 14530,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #316",
+        "youtubeId": "tj6Fv2PRYFw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tj6Fv2PRYFw/hqdefault.jpg",
+        "durationInMinutes": 318,
+        "releaseDate": 1765639323000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

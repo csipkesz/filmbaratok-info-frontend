@@ -1,0 +1,49 @@
+{
+  "id": "9b59c859-2ead-44c6-9bad-e4b3061324f0",
+  "title": "A két pápa",
+  "originalTitle": "The Two Popes",
+  "overview": "Frustrated with the direction of the church, Cardinal Bergoglio requests permission to retire in 2012 from Pope Benedict. Instead, facing scandal and self-doubt, the introspective Pope Benedict summons his harshest critic and future successor to Rome to reveal a secret that would shake the foundations of the Catholic Church.",
+  "backdropPath": "/bOPessdyd0dChHy70FM8Om7CgDg.jpg",
+  "posterPath": "/4d4mTSfDIFIbUbMLUfaKodvxYXA.jpg",
+  "releaseDate": "2019-11-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ff45a86c-a171-4f1e-a1f6-8616d1d5f540",
+      "title": "A két pápa",
+      "subtitle": null,
+      "timestampString": "08:15:00",
+      "timestampInSeconds": 29700,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #184",
+        "youtubeId": "yDKXFhvljd4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/yDKXFhvljd4/hqdefault.jpg",
+        "durationInMinutes": 257,
+        "releaseDate": 1581012388000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

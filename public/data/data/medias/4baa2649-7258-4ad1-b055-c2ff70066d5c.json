@@ -1,0 +1,45 @@
+{
+  "id": "4baa2649-7258-4ad1-b055-c2ff70066d5c",
+  "title": "Menny és pokol",
+  "originalTitle": "天国と地獄",
+  "overview": "A Yokohama shoe executive faces a wrenching choice when kidnappers mistakenly seize his chauffeur’s son but demand the ransom anyway.",
+  "backdropPath": "/i1NjlccZcuqbgDCS92RHdhEnx59.jpg",
+  "posterPath": "/tgNjemQPG96uIezpiUiXFcer5ga.jpg",
+  "releaseDate": "1963-03-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6ef50dda-9dee-4073-bf55-99ed6fef53fe",
+      "title": "Menny és pokol",
+      "subtitle": null,
+      "timestampString": "01:46:35",
+      "timestampInSeconds": 6395,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #109",
+        "youtubeId": "J8Vj2ckmHM4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/J8Vj2ckmHM4/hqdefault.jpg",
+        "durationInMinutes": 132,
+        "releaseDate": 1477582510000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

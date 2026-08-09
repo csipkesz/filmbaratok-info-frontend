@@ -1,0 +1,45 @@
+{
+  "id": "7f95dd5c-098e-4e4f-97a2-80ccb4963f7f",
+  "title": "BeSZERvezve",
+  "originalTitle": "American Ultra",
+  "overview": "Mike is an unmotivated stoner whose small-town life with his live-in girlfriend, Phoebe, is suddenly turned upside down.  Unbeknownst to him, Mike is actually a highly trained, lethal sleeper agent. In the blink of an eye, as his secret past comes back to haunt him, Mike is thrust into the middle of a deadly government operation and is forced to summon his inner action-hero in order to survive.",
+  "backdropPath": "/wSdXmiaTcdfREfUa3cGfbgYHHlV.jpg",
+  "posterPath": "/g9JX6RZQoTInDJhbrKItnOr47qr.jpg",
+  "releaseDate": "2015-08-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6729a4db-232d-4878-bb3c-aabd6ee61c42",
+      "title": "BeSZERvezve",
+      "subtitle": null,
+      "timestampString": "02:35:40",
+      "timestampInSeconds": 9340,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #80",
+        "youtubeId": "z4DzygJMKgc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z4DzygJMKgc/hqdefault.jpg",
+        "durationInMinutes": 227,
+        "releaseDate": 1440780590000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

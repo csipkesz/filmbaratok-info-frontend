@@ -1,0 +1,41 @@
+{
+  "id": "ec8b63ee-5236-4cad-8738-e9d51c9deca1",
+  "title": "Escobar",
+  "originalTitle": "Loving Pablo",
+  "overview": "The film chronicles the rise and fall of the world's most feared drug lord Pablo Escobar and his volatile love affair with Colombia's most famous journalist Virginia Vallejo throughout a reign of terror that tore a country apart.",
+  "backdropPath": "/pcIXV6Od8KeDsLWKu7Wzthaur4V.jpg",
+  "posterPath": "/aV3kKzTCycGfZc5Lh29Tk6avKPL.jpg",
+  "releaseDate": "2017-12-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1bbd3e37-d1a3-40e9-a22b-bfa953c98231",
+      "title": "Escobar",
+      "subtitle": null,
+      "timestampString": "01:22:28",
+      "timestampInSeconds": 4948,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #148",
+        "youtubeId": "keV4hpdXcYo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/keV4hpdXcYo/hqdefault.jpg",
+        "durationInMinutes": 206,
+        "releaseDate": 1533062167000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

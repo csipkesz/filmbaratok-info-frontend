@@ -1,0 +1,49 @@
+{
+  "id": "0f7cc128-18ac-48de-a30d-ada22cfae81e",
+  "title": "Super Mario Bros. [1993]",
+  "originalTitle": "Super Mario Bros.",
+  "overview": "Mario and Luigi, plumbers from Brooklyn, find themselves in an alternate universe where evolved dinosaurs live in hi-tech squalor. They're the only hope to save our universe from invasion by the dino dictator, Koopa.",
+  "backdropPath": "/1GGfWFp9hp4RUHRHxd505z9rVFa.jpg",
+  "posterPath": "/yt5bbMfKpg1nRr4k5edxs7tPK2m.jpg",
+  "releaseDate": "1993-05-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "aa26c56f-6a5f-4f31-b6a2-05fa07f24263",
+      "title": "Super Mario Bros. [1993]",
+      "subtitle": null,
+      "timestampString": "02:46:00",
+      "timestampInSeconds": 9960,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #301 [Videojáték megfilmesítések Stökivel]",
+        "youtubeId": "b-yzUkXog24",
+        "thumbnailUrl": "https://i.ytimg.com/vi/b-yzUkXog24/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1745990091000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "19adae63-d910-4330-aa6c-5b841c0e1211",
+            "name": "Stöckert Gábor"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "f2785cda-eff1-4ac0-bd4b-6f1d44f6b129",
+  "title": "Communion (Idegenek áldozata)",
+  "originalTitle": "Communion",
+  "overview": "A novelist's wife and son see him changed by an apparent encounter with aliens in the mountains.",
+  "backdropPath": "/vb7hke97pbAsZcCG1C7vhDtAiMk.jpg",
+  "posterPath": "/unDk9honWK30AMUTwSknhplFI5G.jpg",
+  "releaseDate": "1989-11-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0d051b92-351d-46ed-bff4-44aa5ea9ba16",
+      "title": "Communion (Idegenek áldozata)",
+      "subtitle": null,
+      "timestampString": "01:52:26",
+      "timestampInSeconds": 6746,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #44",
+        "youtubeId": "_NwJoO7yxrE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_NwJoO7yxrE/hqdefault.jpg",
+        "durationInMinutes": 137,
+        "releaseDate": 1391206083000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "5f5a21a8-945a-424d-ac94-a14f1c84ca49",
+            "name": "Émi"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

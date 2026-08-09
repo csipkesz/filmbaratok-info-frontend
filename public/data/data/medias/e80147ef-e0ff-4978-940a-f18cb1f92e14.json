@@ -1,0 +1,45 @@
+{
+  "id": "e80147ef-e0ff-4978-940a-f18cb1f92e14",
+  "title": "Beyond the infinite 2 minutes",
+  "originalTitle": "ドロステのはてで僕ら",
+  "overview": "A cafe owner discovers that the TV in his cafe suddenly shows images from the future, but only two minutes into the future.",
+  "backdropPath": "/hiZLoo6joFeqkPZRlvG1zEw5q0.jpg",
+  "posterPath": "/kIKcksbl6dbmxTMS1wq15iFkBnB.jpg",
+  "releaseDate": "2020-06-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "81c4e89f-2166-43cc-b368-83c8e5e9c755",
+      "title": "Beyond the infinite 2 minutes",
+      "subtitle": null,
+      "timestampString": "03:48:00",
+      "timestampInSeconds": 13680,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #245",
+        "youtubeId": "thnBmMbVpOo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/thnBmMbVpOo/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1671033623000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

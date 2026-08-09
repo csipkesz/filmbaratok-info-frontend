@@ -1,0 +1,45 @@
+{
+  "id": "f2e45679-15a4-4d56-876b-f90ba659c9ad",
+  "title": "Utoya, július 22.",
+  "originalTitle": "Utøya 22. juli",
+  "overview": "A teenage girl fights for survival and to locate her young sister during the 2011 terrorist attack at a political summer camp on the Norwegian island of Utøya.",
+  "backdropPath": "/w4pUYpFTywnCn40NV9XKy2Wdacv.jpg",
+  "posterPath": "/bpa91Opnvl4XxUCycyNGvhwRWqC.jpg",
+  "releaseDate": "2018-03-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "57c609a8-8a50-4225-83ea-8f0b8527db42",
+      "title": "Utoya, július 22.",
+      "subtitle": null,
+      "timestampString": "01:38:40",
+      "timestampInSeconds": 5920,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #153",
+        "youtubeId": "o2r_oHM2CEM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/o2r_oHM2CEM/hqdefault.jpg",
+        "durationInMinutes": 239,
+        "releaseDate": 1539286396000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

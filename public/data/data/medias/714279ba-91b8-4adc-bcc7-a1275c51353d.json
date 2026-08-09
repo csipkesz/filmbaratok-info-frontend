@@ -1,0 +1,41 @@
+{
+  "id": "714279ba-91b8-4adc-bcc7-a1275c51353d",
+  "title": "Ragadozó városok",
+  "originalTitle": "Mortal Engines",
+  "overview": "Many thousands of years in the future, Earth’s cities roam the globe on huge wheels, devouring each other in a struggle for ever diminishing resources. On one of these massive traction cities, the old London, Tom Natsworthy has an unexpected encounter with a mysterious young woman from the wastelands who will change the course of his life forever.",
+  "backdropPath": "/rm2oMykm5nX6SzXFr7TGHkO6r8Z.jpg",
+  "posterPath": "/gLhYg9NIvIPKVRTtvzCWnp1qJWG.jpg",
+  "releaseDate": "2018-11-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "47c08fd6-a5c8-4e25-8a79-b21d861cff77",
+      "title": "Ragadozó városok",
+      "subtitle": null,
+      "timestampString": "02:03:03",
+      "timestampInSeconds": 7383,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #160",
+        "youtubeId": "_a3zVw9qNvs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_a3zVw9qNvs/hqdefault.jpg",
+        "durationInMinutes": 196,
+        "releaseDate": 1547731556000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "78034ee9-d739-4e78-af34-d02997fe69df",
+  "title": "Bosszúállók: Végtelen háború",
+  "originalTitle": "Avengers: Infinity War",
+  "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+  "backdropPath": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+  "posterPath": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+  "releaseDate": "2018-04-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7176ad6f-f015-4474-a8da-980bef4b9f50",
+      "title": "Bosszúállók: Végtelen háború [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "02:29:10",
+      "timestampInSeconds": 8950,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #142",
+        "youtubeId": "9S7p7P1Y2po",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9S7p7P1Y2po/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1525105433000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "82d8bb73-9ec7-42f5-bdc7-1b72bc4fba5d",
+  "title": "Jojo Nyuszi",
+  "originalTitle": "Jojo Rabbit",
+  "overview": "Jojo, a lonely German boy during World War II has his world shaken when he learns that his single mother is hiding a Jewish girl in their home. Influenced by a buffoonish imaginary version of Adolf Hitler, he begins to question his beliefs and confront the conflict between propaganda and his own humanity.",
+  "backdropPath": "/lTyikzfGgRX5ZqIfVeT26APYfRL.jpg",
+  "posterPath": "/1mqL7VG4Ix8wmxwypmCA1HTHBky.jpg",
+  "releaseDate": "2019-10-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "aedbad58-fcde-4af1-859d-dee3815e95c1",
+      "title": "Jojo Nyuszi",
+      "subtitle": null,
+      "timestampString": "01:26:52",
+      "timestampInSeconds": 5212,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #184",
+        "youtubeId": "yDKXFhvljd4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/yDKXFhvljd4/hqdefault.jpg",
+        "durationInMinutes": 257,
+        "releaseDate": 1581012388000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

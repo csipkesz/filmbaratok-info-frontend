@@ -1,0 +1,45 @@
+{
+  "id": "e4837817-c3e3-475a-99e6-228475a0d1b8",
+  "title": "A vér földje / Let him go",
+  "originalTitle": "Let Him Go",
+  "overview": "Following the loss of their son, a retired sheriff and his wife leave their Montana ranch to rescue their young grandson from the clutches of a dangerous family living off the grid in the Dakotas.",
+  "backdropPath": "/ZLD4pjmMLt9I3t1a7SFJBekIh1.jpg",
+  "posterPath": "/EsLZoT8oHhQlGd1QpdbnvnwTzO.jpg",
+  "releaseDate": "2020-11-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c978bdc3-1188-4c76-841b-45a079e8c959",
+      "title": "A vér földje / Let him go",
+      "subtitle": null,
+      "timestampString": "03:35:28",
+      "timestampInSeconds": 12928,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #245",
+        "youtubeId": "thnBmMbVpOo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/thnBmMbVpOo/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1671033623000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

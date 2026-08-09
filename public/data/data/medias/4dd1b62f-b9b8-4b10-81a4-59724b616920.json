@@ -1,0 +1,41 @@
+{
+  "id": "4dd1b62f-b9b8-4b10-81a4-59724b616920",
+  "title": "Bloodshot",
+  "originalTitle": "Bloodshot",
+  "overview": "After he and his wife are murdered, marine Ray Garrison is resurrected by a team of scientists. Enhanced with nanotechnology, he becomes a superhuman, biotech killing machine—'Bloodshot'. As Ray first trains with fellow super-soldiers, he cannot recall anything from his former life. But when his memories flood back and he remembers the man that killed both him and his wife, he breaks out of the facility to get revenge, only to discover that there's more to the conspiracy than he thought.",
+  "backdropPath": "/7FrVQnOL02SeDq0YPdLoCHDH91j.jpg",
+  "posterPath": "/8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg",
+  "releaseDate": "2020-03-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "cd8c80f5-252d-42d3-b8d8-1c330dbd2e15",
+      "title": "Bloodshot",
+      "subtitle": null,
+      "timestampString": "01:14:03",
+      "timestampInSeconds": 4443,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #186",
+        "youtubeId": "LvzEUgrbuec",
+        "thumbnailUrl": "https://i.ytimg.com/vi/LvzEUgrbuec/hqdefault.jpg",
+        "durationInMinutes": 214,
+        "releaseDate": 1584373994000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

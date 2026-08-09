@@ -1,0 +1,49 @@
+{
+  "id": "b1994964-6785-4d18-b77d-91ef0a3d6e45",
+  "title": "Kisasszonyok",
+  "originalTitle": "Little Women",
+  "overview": "Four sisters come of age in America in the aftermath of the Civil War.",
+  "backdropPath": "/lqxxwTRk0l7CubY6JkJdhnwJEkn.jpg",
+  "posterPath": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+  "releaseDate": "2019-12-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8cc80468-2a90-4559-a289-47ae208e0480",
+      "title": "Kisasszonyok",
+      "subtitle": null,
+      "timestampString": "00:34:14",
+      "timestampInSeconds": 2054,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #184",
+        "youtubeId": "yDKXFhvljd4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/yDKXFhvljd4/hqdefault.jpg",
+        "durationInMinutes": 257,
+        "releaseDate": 1581012388000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "c09a1320-365f-41fa-8ccd-46f6aa6dec4b",
+  "title": "Az apáca 2",
+  "originalTitle": "The Nun II",
+  "overview": "In 1956 France, a priest is violently murdered, and Sister Irene begins to investigate. She once again comes face-to-face with a powerful evil.",
+  "backdropPath": "/27jtaS1oCiLK5Y7P6iOXG2yj1Nc.jpg",
+  "posterPath": "/5gzzkR7y3hnY8AD1wXjCnVlHba5.jpg",
+  "releaseDate": "2023-09-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7581f86f-4be9-4ffb-94be-d29ab724d652",
+      "title": "Az apáca 2",
+      "subtitle": null,
+      "timestampString": "00:55:00",
+      "timestampInSeconds": 3300,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #262",
+        "youtubeId": "vHivX-OmQEI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/vHivX-OmQEI/hqdefault.jpg",
+        "durationInMinutes": 199,
+        "releaseDate": 1695357459000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "411cd24e-e345-4f72-a730-f6b3c1d7d5e6",
+  "title": "Charlie Wilson háborúja",
+  "originalTitle": "Charlie Wilson's War",
+  "overview": "A Texas congressman sets a series of events in motion when he conspires with a CIA operative to aid Afghan mujahideen rebels fighting the Soviets.",
+  "backdropPath": "/7k6VuqGQsAgxJBtnLiGOTtkznRU.jpg",
+  "posterPath": "/45FghqcdSYRWK7PsHUInaFPNd8l.jpg",
+  "releaseDate": "2007-12-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "88aa61f1-4afc-4536-b6bb-bee2d41bf08e",
+      "title": "Charlie Wilson háborúja",
+      "subtitle": null,
+      "timestampString": "03:12:50",
+      "timestampInSeconds": 11570,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #237",
+        "youtubeId": "c2QWiknBzts",
+        "thumbnailUrl": "https://i.ytimg.com/vi/c2QWiknBzts/hqdefault.jpg",
+        "durationInMinutes": 246,
+        "releaseDate": 1660371499000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

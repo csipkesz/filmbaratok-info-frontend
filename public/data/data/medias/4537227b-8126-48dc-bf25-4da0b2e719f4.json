@@ -1,0 +1,28 @@
+{
+  "id": "4537227b-8126-48dc-bf25-4da0b2e719f4",
+  "title": "Breaking Bad",
+  "originalTitle": "Breaking Bad",
+  "overview": "Egy középiskolai kémiatanárnál rákot állapítanak meg. Családja jövőjének biztosítása érdekében összefog volt diákjával, hogy metamfetamint állítsanak elő és adjanak el.",
+  "backdropPath": "/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
+  "posterPath": "/rB2zuh010Qh7LS1qgqG319kTx0H.jpg",
+  "releaseDate": "2008-01-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "341a8ce2-9469-469b-9c8f-3d20945d5134",
+      "title": "Breaking Bad (5.évad/2) [SPOILERES]",
+      "subtitle": "5.évad/2",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": true,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Breaking Bad (5.évad/2) [SPOILERES]",
+        "youtubeId": "aInUaWRkrxM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/aInUaWRkrxM/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1380774226000,
+        "participants": []
+      }
+    }
+  ]
+}

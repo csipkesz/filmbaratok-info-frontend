@@ -1,0 +1,45 @@
+{
+  "id": "2d10f276-37f6-424a-a754-e85fc0681a88",
+  "title": "Alelnök",
+  "originalTitle": "Vice",
+  "overview": "George W. Bush picks Dick Cheney, the CEO of Halliburton Co., to be his Republican running mate in the 2000 presidential election. No stranger to politics, Cheney's impressive résumé includes stints as White House chief of staff, House Minority Whip and Defense Secretary. When Bush wins by a narrow margin, Cheney begins to use his newfound power to help reshape the country and the world.",
+  "backdropPath": "/aHcNu3tYihvkL45CrXTFY4YfrfF.jpg",
+  "posterPath": "/1gCab6rNv1r6V64cwsU4oEr649Y.jpg",
+  "releaseDate": "2018-12-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "be83ab29-e616-4fd9-9092-a275341fcffb",
+      "title": "Alelnök",
+      "subtitle": null,
+      "timestampString": "00:29:45",
+      "timestampInSeconds": 1785,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #163 (Oscar)",
+        "youtubeId": "eQI9z_VhYj4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/eQI9z_VhYj4/hqdefault.jpg",
+        "durationInMinutes": 244,
+        "releaseDate": 1550837351000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "465eb549-2e74-46d4-9d72-df2e21471883",
+            "name": "Anna"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "fad572d7-4b23-4285-955d-223f31dfe495",
+            "name": "Szöllőskei Gábor"
+          }
+        ]
+      }
+    }
+  ]
+}

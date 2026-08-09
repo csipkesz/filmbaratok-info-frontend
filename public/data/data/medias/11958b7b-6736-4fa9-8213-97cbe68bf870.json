@@ -1,0 +1,45 @@
+{
+  "id": "11958b7b-6736-4fa9-8213-97cbe68bf870",
+  "title": "Mr. Robot",
+  "originalTitle": "Mr. Robot",
+  "overview": "Elliot fiatal programozó, aki antiszociális zavarban szenved. Épp ezért nem megy emberek közé, inkább csak a számítógépükön keresztül hackeli őket, de csak azért, hogy megvédje őket a rájuk leselkedő veszélyektől. Hamarosan nagy méretű fenyegetésbe botlik, alvilági szervezetek arra törekednek, hogy tönkretegyék a vállalati rendszert egész Amerikában.",
+  "backdropPath": "/uJUe985oIuRiD3hmHQYskIMc2WU.jpg",
+  "posterPath": "/kv1nRqgebSsREnd7vdC2pSGjpLo.jpg",
+  "releaseDate": "2015-06-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "76b02322-2372-4f51-a91d-53231bd9ba57",
+      "title": "Mr. Robot",
+      "subtitle": null,
+      "timestampString": "03:02:30",
+      "timestampInSeconds": 10950,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #80",
+        "youtubeId": "z4DzygJMKgc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z4DzygJMKgc/hqdefault.jpg",
+        "durationInMinutes": 227,
+        "releaseDate": 1440780590000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

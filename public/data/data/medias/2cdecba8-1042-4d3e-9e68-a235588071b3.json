@@ -1,0 +1,49 @@
+{
+  "id": "2cdecba8-1042-4d3e-9e68-a235588071b3",
+  "title": "Oats Studios - Volume 1 - Zygote",
+  "originalTitle": "Zygote",
+  "overview": "The two remaining crew members of a mining operation in the Arctic Circle fight to survive against an alien creature.",
+  "backdropPath": "/4umJhUsj8ppev0TA0J0CVJaXeO1.jpg",
+  "posterPath": "/lowSe0hdmFdtEuIA6aOVfkPjk1c.jpg",
+  "releaseDate": "2017-07-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "27680848-745d-490e-af26-63ca3847e3aa",
+      "title": "Oats Studios - Volume 1 - Zygote",
+      "subtitle": null,
+      "timestampString": "03:15:10",
+      "timestampInSeconds": 11710,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #127",
+        "youtubeId": "XWuPbD-kRic",
+        "thumbnailUrl": "https://i.ytimg.com/vi/XWuPbD-kRic/hqdefault.jpg",
+        "durationInMinutes": 241,
+        "releaseDate": 1503602035000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          },
+          {
+            "id": "fad572d7-4b23-4285-955d-223f31dfe495",
+            "name": "Szöllőskei Gábor"
+          }
+        ]
+      }
+    }
+  ]
+}

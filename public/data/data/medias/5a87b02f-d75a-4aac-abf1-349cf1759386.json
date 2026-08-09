@@ -1,0 +1,41 @@
+{
+  "id": "5a87b02f-d75a-4aac-abf1-349cf1759386",
+  "title": "A lápkirály lánya",
+  "originalTitle": "The Marsh King's Daughter",
+  "overview": "Helena, a woman living a seemingly ordinary life, hides a dark secret—her father is the infamous 'Marsh King', the man who kept her and her mother captive in the wilderness for years. After a lifetime of trying to escape her past, Helena is forced to face her demons when her father unexpectedly escapes from prison.",
+  "backdropPath": "/c7MRmF3LMiBWokedmdQl3roTUv2.jpg",
+  "posterPath": "/bcuEjrwhp5HgEUnFe5lc4xpEqzt.jpg",
+  "releaseDate": "2023-09-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "21e4a889-1195-4eb7-9375-d5c18e75b6f7",
+      "title": "A lápkirály lánya",
+      "subtitle": null,
+      "timestampString": "01:41:30",
+      "timestampInSeconds": 6090,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #267",
+        "youtubeId": "fjGmqt2DQZg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fjGmqt2DQZg/hqdefault.jpg",
+        "durationInMinutes": 201,
+        "releaseDate": 1701380416000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

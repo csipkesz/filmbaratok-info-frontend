@@ -1,0 +1,49 @@
+{
+  "id": "2eaa6112-231f-49f5-bf06-dda0c627fdf7",
+  "title": "Postal",
+  "originalTitle": "Postal",
+  "overview": "The story begins with a regular Joe who tries desperately to seek employment, but embarks on a violent rampage when he teams up with cult leader Uncle Dave. Their first act is to heist an amusement park, only to learn that the Taliban are planning the same heist as well. Chaos ensues, and now the Postal Dude must not only take on terrorists but also political figures.",
+  "backdropPath": "/hv4vkURVXnYDZ0VJiGN3titWrIw.jpg",
+  "posterPath": "/2U91KS7t6HA1dI6YMiA6TpPRVqU.jpg",
+  "releaseDate": "2007-10-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e8ef782d-ec5c-42ff-8c1f-1ce8495bc776",
+      "title": "Postal",
+      "subtitle": null,
+      "timestampString": "03:18:50",
+      "timestampInSeconds": 11930,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #301 [Videojáték megfilmesítések Stökivel]",
+        "youtubeId": "b-yzUkXog24",
+        "thumbnailUrl": "https://i.ytimg.com/vi/b-yzUkXog24/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1745990091000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "19adae63-d910-4330-aa6c-5b841c0e1211",
+            "name": "Stöckert Gábor"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

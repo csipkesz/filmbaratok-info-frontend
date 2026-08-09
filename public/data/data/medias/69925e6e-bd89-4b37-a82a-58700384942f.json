@@ -1,0 +1,41 @@
+{
+  "id": "69925e6e-bd89-4b37-a82a-58700384942f",
+  "title": "A brutalista",
+  "originalTitle": "The Brutalist",
+  "overview": "When an innovative modern architect flees post-war Europe, he is given the opportunity to rebuild his legacy. Set during the dawn of the modern United States (in Pennsylvania), his wife joins him, and their lives are forever changed by a demanding, wealthy patron.",
+  "backdropPath": "/hmZnqijPaaACjenDkrbWcCmcADI.jpg",
+  "posterPath": "/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg",
+  "releaseDate": "2024-12-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d6387630-cc1f-4f40-953d-b2775872ab7f",
+      "title": "A brutalista",
+      "subtitle": null,
+      "timestampString": "01:12:20",
+      "timestampInSeconds": 4340,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #295",
+        "youtubeId": "GjY5Xs-Vbyc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GjY5Xs-Vbyc/hqdefault.jpg",
+        "durationInMinutes": 231,
+        "releaseDate": 1738346406000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "3dee2f16-1b96-49b0-b38f-baefeaaed25f",
+  "title": "A mindenség elmélete",
+  "originalTitle": "The Theory of Everything",
+  "overview": "Once a healthy, active young man, Hawking received an earth-shattering diagnosis at 21 years of age. With Jane fighting tirelessly by his side, Stephen embarks on his most ambitious scientific work, studying the very thing he now has precious little of – time.",
+  "backdropPath": "/dh2QT3TPtAQf057yeLpNMuaJlmp.jpg",
+  "posterPath": "/7kwcLFNt887saoQAL7EY0XnW7VI.jpg",
+  "releaseDate": "2014-11-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "86588192-5e45-4b5f-b327-e8ac9bcd2056",
+      "title": "A mindenség elmélete",
+      "subtitle": null,
+      "timestampString": "01:41:45",
+      "timestampInSeconds": 6105,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #66",
+        "youtubeId": "E4v-47u65NI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E4v-47u65NI/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1422556505000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

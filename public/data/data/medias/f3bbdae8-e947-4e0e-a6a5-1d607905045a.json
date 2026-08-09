@@ -1,0 +1,41 @@
+{
+  "id": "f3bbdae8-e947-4e0e-a6a5-1d607905045a",
+  "title": "xXx: Újra akcióban",
+  "originalTitle": "xXx: Return of Xander Cage",
+  "overview": "Xander Cage is left for dead after an incident, though he secretly returns to action for a new, tough assignment with his handler Augustus Gibbons.",
+  "backdropPath": "/4QLdZ2A8mkDWp2rpfgDrwmeCtUW.jpg",
+  "posterPath": "/hba8zREJpP1AYhaXgb2oJLQeO0K.jpg",
+  "releaseDate": "2017-01-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "54ca174b-4e61-423d-ab30-7c5de1d5cd4c",
+      "title": "xXx: Újra akcióban",
+      "subtitle": null,
+      "timestampString": "00:57:43",
+      "timestampInSeconds": 3463,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #116",
+        "youtubeId": "z6ZDT1e89XY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z6ZDT1e89XY/hqdefault.jpg",
+        "durationInMinutes": 146,
+        "releaseDate": 1487003611000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

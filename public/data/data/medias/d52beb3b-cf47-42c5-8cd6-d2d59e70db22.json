@@ -1,0 +1,45 @@
+{
+  "id": "d52beb3b-cf47-42c5-8cd6-d2d59e70db22",
+  "title": "Ne oldozz el",
+  "originalTitle": "Never Let Go",
+  "overview": "As an evil takes over the world beyond their front doorstep, the only protection for a mother and her twin sons is their house and their family’s protective bond.",
+  "backdropPath": "/fquVJ2v5NAW96sRfFAw4vXR5zla.jpg",
+  "posterPath": "/iwUoM3y77fov7bKyFMwpGMzRHyn.jpg",
+  "releaseDate": "2024-09-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9ea3a360-de2c-47e3-a978-bd2ef5582603",
+      "title": "Ne oldozz el",
+      "subtitle": null,
+      "timestampString": "02:12:53",
+      "timestampInSeconds": 7973,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #288",
+        "youtubeId": "y8PRwmbTmMM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/y8PRwmbTmMM/hqdefault.jpg",
+        "durationInMinutes": 241,
+        "releaseDate": 1729192342000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

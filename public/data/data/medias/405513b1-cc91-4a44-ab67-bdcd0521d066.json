@@ -1,0 +1,45 @@
+{
+  "id": "405513b1-cc91-4a44-ab67-bdcd0521d066",
+  "title": "Minyonok",
+  "originalTitle": "Minions",
+  "overview": "Minions Stuart, Kevin and Bob are recruited by Scarlet Overkill, a super-villain who, alongside her inventor husband Herb, hatches a plot to take over the world.",
+  "backdropPath": "/wKrxeY6lbu7KFBsWVcMH6M8avwr.jpg",
+  "posterPath": "/dr02BdCNAUPVU07aOodwPYv6HCf.jpg",
+  "releaseDate": "2015-06-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "17f8bbb3-d330-470d-820d-39a8953772af",
+      "title": "Minyonok",
+      "subtitle": null,
+      "timestampString": "02:04:16",
+      "timestampInSeconds": 7456,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #77",
+        "youtubeId": "GxURCHDmpLM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GxURCHDmpLM/hqdefault.jpg",
+        "durationInMinutes": 246,
+        "releaseDate": 1437150395000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

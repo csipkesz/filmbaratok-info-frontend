@@ -1,0 +1,45 @@
+{
+  "id": "405e8efb-8e20-4861-ad3a-aa64d2d32675",
+  "title": "A ház hideg szíve",
+  "originalTitle": "The Haunting",
+  "overview": "Dr. John Markway recruits three strangers for a sleep-disorder study at the eerie and isolated Hill House. It soon becomes clear his real interest lies in the mansion itself and its sinister history, as they are forced to confront the nature of its horror…",
+  "backdropPath": "/9CVUzIPyBMnHsDDighQNgkDYsP9.jpg",
+  "posterPath": "/fmpTnUKTcrpuxLSY23gQMUf9qu7.jpg",
+  "releaseDate": "1963-03-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "08aa7249-f0f5-4bcb-9bf9-c999db7b5724",
+      "title": "A ház hideg szíve",
+      "subtitle": null,
+      "timestampString": "02:58:58",
+      "timestampInSeconds": 10738,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #261",
+        "youtubeId": "riCSpLjExWo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/riCSpLjExWo/hqdefault.jpg",
+        "durationInMinutes": 207,
+        "releaseDate": 1693369891000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

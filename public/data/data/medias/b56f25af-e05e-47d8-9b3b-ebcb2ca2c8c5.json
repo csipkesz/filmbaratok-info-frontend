@@ -1,0 +1,58 @@
+{
+  "id": "b56f25af-e05e-47d8-9b3b-ebcb2ca2c8c5",
+  "title": "Sárkányok háza",
+  "originalTitle": "House of the Dragon",
+  "overview": "A 200 évvel a Trónok harca eseményei előtt játszódó sorozat a Targaryen-ház történetét meséli el.",
+  "backdropPath": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+  "posterPath": "/nuT3JwAf2MaFXhmvh8EasUzkFUm.jpg",
+  "releaseDate": "2022-08-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4cb977bb-ad52-4b4f-8a74-d51007b22105",
+      "title": "Sárkányok háza (2. évad)",
+      "subtitle": "2. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Sárkányok háza (2. évad)",
+        "youtubeId": "-k-YOxB0bWo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-k-YOxB0bWo/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1724509105000,
+        "participants": []
+      }
+    },
+    {
+      "id": "587017fe-4cf1-4c2c-afed-f6db9567bcbe",
+      "title": "Sárkányok háza (1. évad)",
+      "subtitle": "1. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Sárkányok háza (1. évad)",
+        "youtubeId": "bnQvloCFZpE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/bnQvloCFZpE/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1666939781000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "a993cfe5-8078-49a5-adb0-22dfee58cd0a",
+            "name": "Shirin"
+          }
+        ]
+      }
+    }
+  ]
+}

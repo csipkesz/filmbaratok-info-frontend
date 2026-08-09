@@ -1,0 +1,101 @@
+{
+  "id": "0ba5f7cf-3373-421f-b770-1350c8a32473",
+  "title": "Black Mirror",
+  "originalTitle": "Black Mirror",
+  "overview": "Tekervényes történetek visznek hajmeresztő utazásra az antológiasorozatban, felfedve az emberiség árnyoldalát, legnagyobb találmányait és még sok mást.",
+  "backdropPath": "/dg3OindVAGZBjlT3xYKqIAdukPL.jpg",
+  "posterPath": "/aIm4opx4FfiOXvPgYzPoJnjKLnJ.jpg",
+  "releaseDate": "2011-12-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "06b6b86c-c6df-42e9-a164-f059c5940f79",
+      "title": "Black Mirror 3. évad",
+      "subtitle": "3. évad",
+      "timestampString": "02:54:30",
+      "timestampInSeconds": 10470,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #111",
+        "youtubeId": "klorpdDyo7M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/klorpdDyo7M/hqdefault.jpg",
+        "durationInMinutes": 230,
+        "releaseDate": 1480773115000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5874cde2-4e3a-4103-9b54-3165f025a4ad",
+      "title": "Black Mirror 5. évad [SPOILERES]",
+      "subtitle": "5. évad",
+      "timestampString": "02:20:30",
+      "timestampInSeconds": 8430,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #171",
+        "youtubeId": "3KzIveF4J8o",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3KzIveF4J8o/hqdefault.jpg",
+        "durationInMinutes": 195,
+        "releaseDate": 1562329911000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "465eb549-2e74-46d4-9d72-df2e21471883",
+            "name": "Anna"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5ac8593b-73cc-4818-9c86-585c2147d4f4",
+      "title": "Black Mirror 4. évad [SPOILERES]",
+      "subtitle": "4. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": true,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Black Mirror 4. évad [SPOILERES]",
+        "youtubeId": "n8_DpGFYSRE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/n8_DpGFYSRE/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1521786016000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "dc646627-65ed-4376-9fc8-4f91244899d3",
+  "title": "Immigrants: Jóska menni Amerika",
+  "originalTitle": "Immigrants (L.A. Dolce Vita)",
+  "overview": "Hungarian-born Jóska and his Russian-born friend, Vlad, decide to invade America. It's not an easy task, but in their own special way, they manage.",
+  "backdropPath": "/2HNBAsuCJbm2OPyZz2OhZfKGkP0.jpg",
+  "posterPath": "/ytJuXGvYd2EsbHU6UNoSNifho5h.jpg",
+  "releaseDate": "2008-10-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b41d9964-f0f6-4882-be45-a6779df774a4",
+      "title": "Immigrants: Jóska menni Amerika",
+      "subtitle": null,
+      "timestampString": "02:13:30",
+      "timestampInSeconds": 8010,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #98",
+        "youtubeId": "5mDA3_R1VRw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/5mDA3_R1VRw/hqdefault.jpg",
+        "durationInMinutes": 152,
+        "releaseDate": 1463075301000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

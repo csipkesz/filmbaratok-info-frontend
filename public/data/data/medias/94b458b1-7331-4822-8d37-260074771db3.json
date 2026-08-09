@@ -1,0 +1,41 @@
+{
+  "id": "94b458b1-7331-4822-8d37-260074771db3",
+  "title": "A túlélő [The Survivalist]",
+  "originalTitle": "The Survivalist",
+  "overview": "In a time of starvation, a survivalist lives off a small plot of land hidden deep in forest. When two women seeking food and shelter discover his farm, he finds his existence threatened.",
+  "backdropPath": "/9uNxv66tEPnzsKCDPzcIK0ZIgVB.jpg",
+  "posterPath": "/hd491WgKPxeQus2LnvFbYmyUFmt.jpg",
+  "releaseDate": "2015-04-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d8538476-0c07-483b-936d-b837b5bb99ed",
+      "title": "A túlélő [The Survivalist]",
+      "subtitle": null,
+      "timestampString": "02:41:51",
+      "timestampInSeconds": 9711,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #188",
+        "youtubeId": "0HEzLOYhLD4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/0HEzLOYhLD4/hqdefault.jpg",
+        "durationInMinutes": 184,
+        "releaseDate": 1587743952000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

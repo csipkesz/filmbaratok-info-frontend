@@ -1,0 +1,41 @@
+{
+  "id": "b757d4c9-00d2-4064-9780-c7f90fbdcdc3",
+  "title": "A vonzás szabályai",
+  "originalTitle": "The Rules of Attraction",
+  "overview": "The incredibly spoiled and overprivileged students of Camden College are a backdrop for an unusual love triangle between a drug dealer, a virgin and a bisexual classmate.",
+  "backdropPath": "/yTHvJqk7IFqnDCBBQ0ou60p2qvO.jpg",
+  "posterPath": "/6OybelUmwUkDm7fbX1BI7OhpYeQ.jpg",
+  "releaseDate": "2002-10-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1669806b-6692-4e99-b3dc-8bb7342a8101",
+      "title": "A vonzás szabályai",
+      "subtitle": null,
+      "timestampString": "01:35:43",
+      "timestampInSeconds": 5743,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #69",
+        "youtubeId": "pVv5pcdaViY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/pVv5pcdaViY/hqdefault.jpg",
+        "durationInMinutes": 169,
+        "releaseDate": 1426321772000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "efa4d6be-339b-4232-8e2f-c7b6bd567127",
+  "title": "Star Wars VII – Az ébredő erő",
+  "originalTitle": "Star Wars: The Force Awakens",
+  "overview": "Thirty years after defeating the Galactic Empire, Han Solo and his allies face a new threat from the evil Kylo Ren and his army of Stormtroopers.",
+  "backdropPath": "/k6EOrckWFuz7I4z4wiRwz8zsj4H.jpg",
+  "posterPath": "/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
+  "releaseDate": "2015-12-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0349440e-7fe7-461e-a580-9a37e8f8337a",
+      "title": "Star Wars VII – Az ébredő erő *SPOILERES",
+      "subtitle": null,
+      "timestampString": "00:07:20",
+      "timestampInSeconds": 440,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #89",
+        "youtubeId": "AHN1RytoJ24",
+        "thumbnailUrl": "https://i.ytimg.com/vi/AHN1RytoJ24/hqdefault.jpg",
+        "durationInMinutes": 253,
+        "releaseDate": 1451303363000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "fad572d7-4b23-4285-955d-223f31dfe495",
+            "name": "Szöllőskei Gábor"
+          }
+        ]
+      }
+    }
+  ]
+}

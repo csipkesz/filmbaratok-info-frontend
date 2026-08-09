@@ -1,0 +1,45 @@
+{
+  "id": "c0f434d6-9659-4b3f-a4db-fad305ecaeb2",
+  "title": "Prédák",
+  "originalTitle": "Haunt",
+  "overview": "On Halloween, a group of friends encounter an extreme haunted house that promises to feed on their darkest fears. The night turns deadly as they come to the horrifying realisation that some nightmares are real.",
+  "backdropPath": "/dmXsktpfHgTNeLFeo5nVItiXuBr.jpg",
+  "posterPath": "/haQSrjFlq30I60UVN1VsB6uRwKM.jpg",
+  "releaseDate": "2019-09-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2996d087-4d4c-495b-964a-f90ad94e593e",
+      "title": "Prédák",
+      "subtitle": null,
+      "timestampString": "02:10:00",
+      "timestampInSeconds": 7800,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #177",
+        "youtubeId": "SiiouPY48NM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/SiiouPY48NM/hqdefault.jpg",
+        "durationInMinutes": 237,
+        "releaseDate": 1571926127000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "d3f136b6-2ad4-4231-9f52-cb1851ace8e5",
+  "title": "I declare war",
+  "originalTitle": "I Declare War",
+  "overview": "Summer war games between the neighborhood kids turns deadly serious when jealousy and betrayal enter the mix, in this alternately hilarious and horrifying black comedy that mixes equal parts Lord of the Flies and Roald Dahl.",
+  "backdropPath": "/ypmtH4HDytTJi6dy1iVELzLFqMs.jpg",
+  "posterPath": "/eZw6zwTsF9dg8wWSXEHc4eW5EcX.jpg",
+  "releaseDate": "2012-04-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3a816003-cd2b-4860-ab2d-0c347d5431c0",
+      "title": "I declare war",
+      "subtitle": null,
+      "timestampString": "01:49:08",
+      "timestampInSeconds": 6548,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #69",
+        "youtubeId": "pVv5pcdaViY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/pVv5pcdaViY/hqdefault.jpg",
+        "durationInMinutes": 169,
+        "releaseDate": 1426321772000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

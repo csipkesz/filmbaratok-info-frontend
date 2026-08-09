@@ -1,0 +1,41 @@
+{
+  "id": "4ec897be-287a-4751-adb6-6181988cfced",
+  "title": "Az Eichmann Show",
+  "originalTitle": "The Eichmann Show",
+  "overview": "The behind-the-scenes true life story of a groundbreaking producer, Milton Fruchtman, and blacklisted TV director Leo Hurwitz who, overcoming enormous obstacles, set out to capture the testimony of one of the war's most notorious Nazis, Adolf Eichmann, who is accused of executing the 'final solution' and organising the murder of 6 million Jews. This is the extraordinary story of how the trial came to be televised and the team that made it happen.",
+  "backdropPath": "/rjK7JGPe7CbhwjfNLx6DQgRaN2L.jpg",
+  "posterPath": "/6cu8bEgtpX6ITxmI4JmiiCjU4OG.jpg",
+  "releaseDate": "2015-01-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "be526d43-03a8-49d5-b83e-bdf7b4a6b2d6",
+      "title": "Az Eichmann Show",
+      "subtitle": null,
+      "timestampString": "01:36:34",
+      "timestampInSeconds": 5794,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #81",
+        "youtubeId": "jxVu-FT-Qv8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/jxVu-FT-Qv8/hqdefault.jpg",
+        "durationInMinutes": 158,
+        "releaseDate": 1442306890000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

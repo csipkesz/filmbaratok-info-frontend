@@ -1,0 +1,41 @@
+{
+  "id": "4edd05df-c613-4b83-b300-1534160ca826",
+  "title": "Farkasember",
+  "originalTitle": "The Wolfman",
+  "overview": "Lawrence Talbot, an American man on a visit to Victorian London to make amends with his estranged father, gets bitten by a werewolf and, after a moonlight transformation, leaves him with a savage hunger for flesh.",
+  "backdropPath": "/kTDunJrHYsH6o1wmD6iT4wXkuHo.jpg",
+  "posterPath": "/fQqPoAHvHicie1ttuiV2q0yv9V7.jpg",
+  "releaseDate": "2010-02-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c8d95510-d470-4b63-92fe-2f54a4d0a1ab",
+      "title": "Farkasember",
+      "subtitle": null,
+      "timestampString": "01:59:36",
+      "timestampInSeconds": 7176,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #295",
+        "youtubeId": "GjY5Xs-Vbyc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GjY5Xs-Vbyc/hqdefault.jpg",
+        "durationInMinutes": 231,
+        "releaseDate": 1738346406000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

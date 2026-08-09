@@ -1,0 +1,28 @@
+{
+  "id": "e29bdd89-50d9-43ac-9360-255f1dfb72e1",
+  "title": "Toldi, a mozifilm",
+  "originalTitle": "Toldi - A mozifilm",
+  "overview": "",
+  "backdropPath": "/uCFxn8wG1JOmFJx8ieMx7srs6z4.jpg",
+  "posterPath": "/zViTj6WKbmyG5P4QR60o1EMlFrc.jpg",
+  "releaseDate": "2022-10-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5a0ac7c1-e361-48fd-bc2d-ab8f28e3b732",
+      "title": "Toldi, a mozifilm",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Toldi, a mozifilm",
+        "youtubeId": "r-tYni0g2FE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/r-tYni0g2FE/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1667742309000,
+        "participants": []
+      }
+    }
+  ]
+}

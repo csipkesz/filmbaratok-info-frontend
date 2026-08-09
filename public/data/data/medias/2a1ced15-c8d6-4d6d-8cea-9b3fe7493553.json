@@ -1,0 +1,41 @@
+{
+  "id": "2a1ced15-c8d6-4d6d-8cea-9b3fe7493553",
+  "title": "Fogságban",
+  "originalTitle": "Prisoners",
+  "overview": "After his six-year-old daughter is abducted, a desperate father takes justice into his own hands when he loses faith in the detective leading the investigation, setting both men on a collision course as the search descends into obsession and moral compromise.",
+  "backdropPath": "/3RFmTz5h2UuFWEV4oH00XICBR9y.jpg",
+  "posterPath": "/uhviyknTT5cEQXbn6vWIqfM4vGm.jpg",
+  "releaseDate": "2013-09-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "35cfc830-d9de-4002-81b5-0ec70297d3e6",
+      "title": "Fogságban",
+      "subtitle": null,
+      "timestampString": "03:21:35",
+      "timestampInSeconds": 12095,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #118",
+        "youtubeId": "tsYYwq3fdTw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tsYYwq3fdTw/hqdefault.jpg",
+        "durationInMinutes": 239,
+        "releaseDate": 1490634596000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

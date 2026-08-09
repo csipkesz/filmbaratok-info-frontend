@@ -1,0 +1,45 @@
+{
+  "id": "12d5b68a-5925-4b57-bb93-482383a87eff",
+  "title": "Predator",
+  "originalTitle": "Predator",
+  "overview": "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
+  "backdropPath": "/YL3GPOiDcNraIJOVDCZsoOBoDy.jpg",
+  "posterPath": "/k3mW4qfJo6SKqe6laRyNGnbB9n5.jpg",
+  "releaseDate": "1987-06-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3f89d2e8-d8b8-435a-bbdc-608673e7f5ba",
+      "title": "Predator",
+      "subtitle": null,
+      "timestampString": "03:23:30",
+      "timestampInSeconds": 12210,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #107",
+        "youtubeId": "nil8BrN67hQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nil8BrN67hQ/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1475265113000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "683340f5-5656-4c13-a8db-8646b552c880",
+            "name": "Emese"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

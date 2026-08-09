@@ -1,0 +1,45 @@
+{
+  "id": "664c2648-3af3-4efe-9384-a8f8fa362aa5",
+  "title": "Ip Man",
+  "originalTitle": "Ip Man",
+  "overview": null,
+  "backdropPath": null,
+  "posterPath": null,
+  "releaseDate": null,
+  "topics": [
+    {
+      "id": "ccfdce1e-d8fa-49cf-a901-4857a67c988a",
+      "title": "Ip Man",
+      "subtitle": null,
+      "timestampString": "03:05:28",
+      "timestampInSeconds": 11128,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #217",
+        "youtubeId": "Od1GuNVVFjI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Od1GuNVVFjI/hqdefault.jpg",
+        "durationInMinutes": 218,
+        "releaseDate": 1630552500000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

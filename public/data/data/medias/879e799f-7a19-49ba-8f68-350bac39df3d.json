@@ -1,0 +1,45 @@
+{
+  "id": "879e799f-7a19-49ba-8f68-350bac39df3d",
+  "title": "Túszdráma",
+  "originalTitle": "Hostage",
+  "overview": "When a mafia accountant is taken hostage on his beat, a police officer – wracked by guilt from a prior stint as a negotiator – must negotiate the standoff, even as his own family is held captive by the mob.",
+  "backdropPath": "/aK1uB5c111DXSvPOrriizPoWwh9.jpg",
+  "posterPath": "/vjhLmtjO2pMQXRgkxcwZoq2Ma8n.jpg",
+  "releaseDate": "2005-03-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "77ab4af2-3565-4a5a-a162-61bc3f67b469",
+      "title": "Túszdráma",
+      "subtitle": null,
+      "timestampString": "03:15:40",
+      "timestampInSeconds": 11740,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #80",
+        "youtubeId": "z4DzygJMKgc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z4DzygJMKgc/hqdefault.jpg",
+        "durationInMinutes": 227,
+        "releaseDate": 1440780590000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "746324f4-5d33-4e7c-b082-ddfc194f1d53",
+  "title": "Mission: Impossible – Titkos nemzet",
+  "originalTitle": "Mission: Impossible - Rogue Nation",
+  "overview": "Ethan and team take on their most impossible mission yet—eradicating 'The Syndicate', an International and highly-skilled rogue organization committed to destroying the IMF.",
+  "backdropPath": "/vYIUN5rrCncHFY8WvcuXQlM4hk5.jpg",
+  "posterPath": "/fRJLXQBHK2wyznK5yZbO7vmsuVK.jpg",
+  "releaseDate": "2015-07-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d28e3c97-41f8-4bc3-b426-9cd303456358",
+      "title": "Mission: Impossible – Titkos nemzet",
+      "subtitle": null,
+      "timestampString": "00:32:40",
+      "timestampInSeconds": 1960,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #79",
+        "youtubeId": "MFtdt9e1-5Y",
+        "thumbnailUrl": "https://i.ytimg.com/vi/MFtdt9e1-5Y/hqdefault.jpg",
+        "durationInMinutes": 158,
+        "releaseDate": 1439397604000,
+        "participants": [
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ecd25143-2a1d-4f7d-97a3-1cc7cd1ab121",
+      "title": "Mission: Impossible – Titkos nemzet",
+      "subtitle": null,
+      "timestampString": "02:45:20",
+      "timestampInSeconds": 9920,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #80",
+        "youtubeId": "z4DzygJMKgc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z4DzygJMKgc/hqdefault.jpg",
+        "durationInMinutes": 227,
+        "releaseDate": 1440780590000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

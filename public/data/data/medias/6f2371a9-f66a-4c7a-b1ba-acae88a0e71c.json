@@ -1,0 +1,41 @@
+{
+  "id": "6f2371a9-f66a-4c7a-b1ba-acae88a0e71c",
+  "title": "A láthatatlan ember",
+  "originalTitle": "The Invisible Man",
+  "overview": "A sorozat főhőse Darien Fawkes - akit Vincent Ventresca alakít - piti kis tolvaj hírében áll. Miután egy lopáson rajtakapják, kénytelen bevállalni egy titkos megbizatást a kormány kérésére, az új program: láthatatlanság kísérletezése. A kényszerítő erők hatására a férfit beépítik- mint titkos fegyvert - egy kissé lerobbant titkos ügynökség csapatába, ahol társa Hobbes (Paul Ben Victor) és Shannon Kenny által megformált \"Keeper\".",
+  "backdropPath": "/cdGS9KyuJcT141SHgXRSMTVyZYN.jpg",
+  "posterPath": "/r2xvhDRpsQ8Oq3FlihPGDsND6vg.jpg",
+  "releaseDate": "2000-06-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "971bf16c-0b9a-41fa-bfc4-9a1af0245354",
+      "title": "A láthatatlan ember",
+      "subtitle": null,
+      "timestampString": "00:55:43",
+      "timestampInSeconds": 3343,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #186",
+        "youtubeId": "LvzEUgrbuec",
+        "thumbnailUrl": "https://i.ytimg.com/vi/LvzEUgrbuec/hqdefault.jpg",
+        "durationInMinutes": 214,
+        "releaseDate": 1584373994000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

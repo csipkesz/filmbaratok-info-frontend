@@ -1,0 +1,45 @@
+{
+  "id": "c537f7a9-22f5-436e-a749-8300e08955ab",
+  "title": "A berni követ",
+  "originalTitle": "A berni követ",
+  "overview": "A fictional account of the 1958 attack against the Hungarian embassy in Bern. Based on a true story about the aftermath of the 1956 Hungarian revolution.",
+  "backdropPath": "/o5x66WKv4j5pYCzgrphL8GKhW9H.jpg",
+  "posterPath": "/fCOJsvbqnuXYNfcGFUpCS2zXB3S.jpg",
+  "releaseDate": "2014-02-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b2ad5f9d-3896-4b3f-9987-3aa3e7d1a6ca",
+      "title": "A berni követ",
+      "subtitle": null,
+      "timestampString": "01:00:00",
+      "timestampInSeconds": 3600,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #51",
+        "youtubeId": "E9iOfzIEJFU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E9iOfzIEJFU/hqdefault.jpg",
+        "durationInMinutes": 176,
+        "releaseDate": 1401305269000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

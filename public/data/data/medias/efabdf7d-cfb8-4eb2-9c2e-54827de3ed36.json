@@ -1,0 +1,45 @@
+{
+  "id": "efabdf7d-cfb8-4eb2-9c2e-54827de3ed36",
+  "title": "Suspiria / Sóhajok (2018)",
+  "originalTitle": "Suspiria",
+  "overview": "A darkness swirls at the center of a world-renowned dance company, one that will engulf the artistic director, an ambitious young dancer, and a grieving psychotherapist. Some will succumb to the nightmare. Others will finally wake up.",
+  "backdropPath": "/k4renoGJzagylgBYWbpjQLYGAfB.jpg",
+  "posterPath": "/bRpKFPb8CWKRQxVo9NzOuPPlO3Q.jpg",
+  "releaseDate": "2018-10-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "22910a43-62b3-4a6c-9b6b-fe7b3794a782",
+      "title": "Suspiria / Sóhajok (2018)",
+      "subtitle": null,
+      "timestampString": "03:34:18",
+      "timestampInSeconds": 12858,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #156",
+        "youtubeId": "cklwRxW_tOo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/cklwRxW_tOo/hqdefault.jpg",
+        "durationInMinutes": 258,
+        "releaseDate": 1543425795000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

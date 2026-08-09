@@ -1,0 +1,49 @@
+{
+  "id": "798e8683-8d12-4794-83cd-03a288463043",
+  "title": "Pókember: Nincs hazaút",
+  "originalTitle": "Spider-Man: No Way Home",
+  "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+  "backdropPath": "/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg",
+  "posterPath": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+  "releaseDate": "2021-12-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "50f1fc48-6fe3-4b88-8575-4e8375e4097d",
+      "title": "Pókember: Nincs hazaút [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "00:24:22",
+      "timestampInSeconds": 1462,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #224",
+        "youtubeId": "Qi7D54DuANc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Qi7D54DuANc/hqdefault.jpg",
+        "durationInMinutes": 380,
+        "releaseDate": 1640954125000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

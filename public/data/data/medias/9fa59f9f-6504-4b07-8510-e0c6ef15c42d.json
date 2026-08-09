@@ -1,0 +1,41 @@
+{
+  "id": "9fa59f9f-6504-4b07-8510-e0c6ef15c42d",
+  "title": "Végső állomás - Vérvonalak",
+  "originalTitle": "Final Destination Bloodlines",
+  "overview": "Plagued by a violent recurring nightmare, college student Stefanie heads home to track down the one person who might be able to break the cycle and save her family from the grisly demise that inevitably awaits them all.",
+  "backdropPath": "/uIpJPDNFoeX0TVml9smPrs9KUVx.jpg",
+  "posterPath": "/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg",
+  "releaseDate": "2025-05-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f385fc92-705e-4644-a0d5-f2ec640713fe",
+      "title": "Végső állomás - Vérvonalak",
+      "subtitle": null,
+      "timestampString": "02:17:34",
+      "timestampInSeconds": 8254,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #303",
+        "youtubeId": "4E-63IAlyvU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/4E-63IAlyvU/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1748626806000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "77e36baa-ae4b-417f-bdac-aacb64baada6",
+            "name": "Ódor Kristóf"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

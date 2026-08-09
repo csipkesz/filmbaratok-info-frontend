@@ -1,0 +1,45 @@
+{
+  "id": "aa81fab4-7cda-4cad-bb5e-2d2dfece2467",
+  "title": "Akik már nem öregszenek meg",
+  "originalTitle": "They Shall Not Grow Old",
+  "overview": "A documentary about World War I with never-before-seen footage to commemorate the centennial of Armistice Day, and the end of the war.",
+  "backdropPath": "/94PXfCDB6TrTx1YwuUjzIpVXT2i.jpg",
+  "posterPath": "/yMGfJeTXUdIjOqjS0jJfjgYEuYC.jpg",
+  "releaseDate": "2018-11-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e2c5b526-1caf-43c6-8b85-b677b0193cee",
+      "title": "Akik már nem öregszenek meg",
+      "subtitle": null,
+      "timestampString": "02:56:45",
+      "timestampInSeconds": 10605,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #183",
+        "youtubeId": "uA5tRdykPyw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uA5tRdykPyw/hqdefault.jpg",
+        "durationInMinutes": 277,
+        "releaseDate": 1579802407000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ee49add6-020a-4974-927e-4abf881ae9c1",
+  "title": "Exit through the gift shop",
+  "originalTitle": "Exit Through the Gift Shop",
+  "overview": "Banksy is a graffiti artist with a global reputation whose work can be seen on walls from post-hurricane New Orleans to the separation barrier on the Palestinian West Bank. Fiercely guarding his anonymity to avoid prosecution, Banksy has so far resisted all attempts to be captured on film. Exit Through the Gift Shop tells the incredible true story of how an eccentric French shop keeper turned documentary maker attempted to locate and befriend Banksy, only to have the artist turn the camera back on its owner.",
+  "backdropPath": "/yGtoR1fi3e2xU7N91cb2DKJjtyL.jpg",
+  "posterPath": "/ruM5ehUQlHC1Kx3SF18d6klfrAx.jpg",
+  "releaseDate": "2010-03-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ddd9d34f-2e4f-467d-ae17-8a370b21284c",
+      "title": "Exit through the gift shop",
+      "subtitle": null,
+      "timestampString": "03:03:56",
+      "timestampInSeconds": 11036,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #120",
+        "youtubeId": "-3teFOfAauw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-3teFOfAauw/hqdefault.jpg",
+        "durationInMinutes": 251,
+        "releaseDate": 1493646027000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

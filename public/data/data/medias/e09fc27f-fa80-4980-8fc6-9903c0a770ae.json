@@ -1,0 +1,41 @@
+{
+  "id": "e09fc27f-fa80-4980-8fc6-9903c0a770ae",
+  "title": "Life after Pi",
+  "originalTitle": "Life After Pi",
+  "overview": "“Life After Pi” is a short documentary about Rhythm &amp; Hues Studios, the L.A. based Visual Effects company that won an Academy Award for its groundbreaking work on “Life of Pi”– just two weeks after declaring bankruptcy. The film explores rapidly changing forces impacting the global VFX community, and the Film Industry as a whole.  This is only the first chapter of an upcoming feature-length documentary “Hollywood Ending,” that delves into the larger, complex challenges facing the US Film Industry and the many professionals working within it, whose fates and livelihood are intertwined.",
+  "backdropPath": "/zAFGqhV9gteJIx45IdfxA2K1LR2.jpg",
+  "posterPath": "/u6vVVVGhHvcBcexNDBnAJK9pncL.jpg",
+  "releaseDate": "2014-02-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4a05ebc5-97fa-43d8-a481-e9c5c72c9651",
+      "title": "Life after Pi",
+      "subtitle": null,
+      "timestampString": "01:41:40",
+      "timestampInSeconds": 6100,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #47",
+        "youtubeId": "48-yuKdU7cg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/48-yuKdU7cg/hqdefault.jpg",
+        "durationInMinutes": 147,
+        "releaseDate": 1394966291000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "46c92e0f-8cd3-48d0-b6ef-ce8e30a47a0f",
+  "title": "The room / A szoba [2019]",
+  "originalTitle": "The Room",
+  "overview": "Kate and Matt discover that a part of their house can grant wishes. In the wake of two miscarriages, what they want most is a child.",
+  "backdropPath": "/snbRXbkzEpc35mFDlwUg41cN8aw.jpg",
+  "posterPath": "/bWyQwZziHh1DK9F59eqahZD8Upc.jpg",
+  "releaseDate": "2019-09-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e6e53ef5-8c89-43ec-88b8-bb8e95c9e09a",
+      "title": "The room / A szoba [2019]",
+      "subtitle": null,
+      "timestampString": "01:53:46",
+      "timestampInSeconds": 6826,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #194",
+        "youtubeId": "2m4_RXJX-Pw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/2m4_RXJX-Pw/hqdefault.jpg",
+        "durationInMinutes": 236,
+        "releaseDate": 1596041624000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "465eb549-2e74-46d4-9d72-df2e21471883",
+            "name": "Anna"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

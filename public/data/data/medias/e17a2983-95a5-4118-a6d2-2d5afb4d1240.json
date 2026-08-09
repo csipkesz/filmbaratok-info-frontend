@@ -1,0 +1,49 @@
+{
+  "id": "e17a2983-95a5-4118-a6d2-2d5afb4d1240",
+  "title": "Resident Evil",
+  "originalTitle": "Resident Evil",
+  "overview": "Bryan, a medical courier, is in the process of making a delivery when a sudden outbreak occurs, forcing him to fight for survival.",
+  "backdropPath": "/ddfXMkaPViSrg0P5aoYGFMc58x2.jpg",
+  "posterPath": "/qku2uWSoJ9amQV5MWo1Eek29iji.jpg",
+  "releaseDate": "2026-09-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c8fd0165-28c2-4b7a-8c03-c763a2361eb4",
+      "title": "Resident Evil",
+      "subtitle": null,
+      "timestampString": "01:47:55",
+      "timestampInSeconds": 6475,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #301 [Videojáték megfilmesítések Stökivel]",
+        "youtubeId": "b-yzUkXog24",
+        "thumbnailUrl": "https://i.ytimg.com/vi/b-yzUkXog24/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1745990091000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "19adae63-d910-4330-aa6c-5b841c0e1211",
+            "name": "Stöckert Gábor"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

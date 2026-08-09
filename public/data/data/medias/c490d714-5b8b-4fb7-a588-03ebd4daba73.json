@@ -1,0 +1,41 @@
+{
+  "id": "c490d714-5b8b-4fb7-a588-03ebd4daba73",
+  "title": "Meghívás",
+  "originalTitle": "The Invite",
+  "overview": "Joe and Angela’s marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
+  "backdropPath": "/kLA1GqiOEyVgXxgNqLoCr7bYcqu.jpg",
+  "posterPath": "/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+  "releaseDate": "2026-06-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "97ee353a-8c1b-49fa-8967-9216707a659e",
+      "title": "Meghívás",
+      "subtitle": null,
+      "timestampString": "01:23:20",
+      "timestampInSeconds": 5000,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #330",
+        "youtubeId": "AgwfP4V1UCo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/AgwfP4V1UCo/hqdefault.jpg",
+        "durationInMinutes": 207,
+        "releaseDate": 1784150438000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "723a7ceb-d9b4-406e-aef0-404d26059a4f",
+            "name": "Márk"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "a00d0bf6-0ba6-4f1b-aef7-325a39cb88e8",
+  "title": "Twisters",
+  "originalTitle": "Twisters",
+  "overview": "As storm season intensifies, the paths of former storm chaser Kate Carter and reckless social-media superstar Tyler Owens collide when terrifying phenomena never seen before are unleashed. The pair and their competing teams find themselves squarely in the paths of multiple storm systems converging over central Oklahoma in the fight of their lives.",
+  "backdropPath": "/58D6ZAvOKxlHjyX9S8qNKSBE9Y.jpg",
+  "posterPath": "/pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg",
+  "releaseDate": "2024-07-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e14066c7-5c6b-4ffc-aa68-dbd1db63f46f",
+      "title": "Twisters",
+      "subtitle": null,
+      "timestampString": "00:43:40",
+      "timestampInSeconds": 2620,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #283",
+        "youtubeId": "jv6k7bsDWQo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/jv6k7bsDWQo/hqdefault.jpg",
+        "durationInMinutes": 210,
+        "releaseDate": 1722538833000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

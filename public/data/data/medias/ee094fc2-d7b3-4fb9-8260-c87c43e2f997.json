@@ -1,0 +1,45 @@
+{
+  "id": "ee094fc2-d7b3-4fb9-8260-c87c43e2f997",
+  "title": "Swiss Army Man / Az ember, aki mindent tudott",
+  "originalTitle": "Swiss Army Man",
+  "overview": "Alone on a tiny deserted island, Hank has given up all hope of ever making it home again. But one day everything changes when a dead body washes ashore, and he soon realizes it may be his last opportunity to escape certain death. Armed with his new “friend” and an unusual bag of tricks, the duo go on an epic adventure to bring Hank back to the woman of his dreams.",
+  "backdropPath": "/xo6Sedrdj4DVnh4ZEzDM4D0QQYU.jpg",
+  "posterPath": "/xE2QfqvAGI8n8ckIiy9FzS9XF94.jpg",
+  "releaseDate": "2016-06-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5074c5d3-5acf-433e-b1bd-776b386fe58a",
+      "title": "Swiss Army Man / Az ember, aki mindent tudott",
+      "subtitle": null,
+      "timestampString": "02:20:43",
+      "timestampInSeconds": 8443,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #223",
+        "youtubeId": "uKeMDPapOJE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uKeMDPapOJE/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1639837304000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

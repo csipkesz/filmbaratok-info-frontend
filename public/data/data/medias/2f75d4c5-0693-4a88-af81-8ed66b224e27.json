@@ -1,0 +1,45 @@
+{
+  "id": "2f75d4c5-0693-4a88-af81-8ed66b224e27",
+  "title": "A csapda",
+  "originalTitle": "Trap",
+  "overview": "A father and teen daughter attend a pop concert, where they realize they're at the center of a dark and sinister event.",
+  "backdropPath": "/dCgrFY6uTqhEpyhe8MzP1oExyLt.jpg",
+  "posterPath": "/jwoaKYVqPgYemFpaANL941EF94R.jpg",
+  "releaseDate": "2024-07-31T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d808607e-2419-49a8-b2e5-4208f4d26d03",
+      "title": "A csapda [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "03:02:30",
+      "timestampInSeconds": 10950,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #284",
+        "youtubeId": "dLG-a7fBRaY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/dLG-a7fBRaY/hqdefault.jpg",
+        "durationInMinutes": 239,
+        "releaseDate": 1723568433000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

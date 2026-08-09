@@ -1,0 +1,45 @@
+{
+  "id": "76ed781b-3a29-4492-93f6-0daba9fce695",
+  "title": "A szomszéd",
+  "originalTitle": "Arlington Road",
+  "overview": "Bedraggled college professor Michael Faraday has been vexed — and increasingly paranoid — since his wife's accidental death in a botched FBI operation. When a seemingly all-American couple set up house next door, Michael begins to suspect there’s more to them than meets the eye.",
+  "backdropPath": "/fejBH0x6Tn5UE7phdOMz2drp3jB.jpg",
+  "posterPath": "/4yYHyZuyTTQaEZuHKS7561jXjtR.jpg",
+  "releaseDate": "1999-03-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6ba15102-98ae-4937-9a51-a7a6eff4eee6",
+      "title": "A szomszéd",
+      "subtitle": null,
+      "timestampString": "01:49:57",
+      "timestampInSeconds": 6597,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #223",
+        "youtubeId": "uKeMDPapOJE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uKeMDPapOJE/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1639837304000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

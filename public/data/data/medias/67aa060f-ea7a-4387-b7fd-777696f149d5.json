@@ -1,0 +1,62 @@
+{
+  "id": "67aa060f-ea7a-4387-b7fd-777696f149d5",
+  "title": "Thor",
+  "originalTitle": "Thor",
+  "overview": "Against his father Odin's will, The Mighty Thor - a powerful but arrogant warrior god - recklessly reignites an ancient war. Thor is cast down to Earth and forced to live among humans as punishment. Once here, Thor learns what it takes to be a true hero when the most dangerous villain of his world sends the darkest forces of Asgard to invade Earth.",
+  "backdropPath": "/cDJ61O1STtbWNBwefuqVrRe3d7l.jpg",
+  "posterPath": "/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg",
+  "releaseDate": "2011-04-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9e7026a9-216e-48d7-926f-8010ad6758b7",
+      "title": "Thor (freddy kiadás)",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "AUDIO_COMMENTARY",
+        "title": "Filmbarátok audiokommentár: Thor (freddy kiadás)",
+        "youtubeId": "EGlhJFAMfPM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/EGlhJFAMfPM/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1546705652000,
+        "participants": []
+      }
+    },
+    {
+      "id": "b5e64843-0ad6-4a10-82d8-f3cb7aba6792",
+      "title": "Thor",
+      "subtitle": null,
+      "timestampString": "01:55:23",
+      "timestampInSeconds": 6923,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #157",
+        "youtubeId": "IAfkWR4qRU4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IAfkWR4qRU4/hqdefault.jpg",
+        "durationInMinutes": 222,
+        "releaseDate": 1545146746000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

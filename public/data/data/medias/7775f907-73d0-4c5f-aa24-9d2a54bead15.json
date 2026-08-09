@@ -1,0 +1,28 @@
+{
+  "id": "7775f907-73d0-4c5f-aa24-9d2a54bead15",
+  "title": "Shop-Stop - A Rajzfilm",
+  "originalTitle": null,
+  "overview": null,
+  "backdropPath": null,
+  "posterPath": null,
+  "releaseDate": null,
+  "topics": [
+    {
+      "id": "5f320dbf-5419-4c08-8db2-306f810a4cfe",
+      "title": "Shop-Stop - A Rajzfilm",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Shop-Stop - A Rajzfilm",
+        "youtubeId": "eev0e-W2Bo0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/eev0e-W2Bo0/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1496774212000,
+        "participants": []
+      }
+    }
+  ]
+}

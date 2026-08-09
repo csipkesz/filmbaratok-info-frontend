@@ -1,0 +1,45 @@
+{
+  "id": "b627e90f-3f41-4f82-9695-23fe240e889f",
+  "title": "Halál a hídon",
+  "originalTitle": "Blow Out",
+  "overview": "While recording sound effects for a slasher flick, Jack Terry stumbles upon a real-life horror: a car careening off a bridge and into a river. Jack jumps into the water and fishes out Sally from the car, but the other passenger is already dead — a governor intending to run for president. As Jack does some investigating of his tapes, and starts a perilous romance with Sally, he enters a tangled web of conspiracy that might leave him dead.",
+  "backdropPath": "/nk87CtgZ7wd86W37oJHGYAJbmLz.jpg",
+  "posterPath": "/uFzMscVLDrTaYd6KXOXlr6dly7w.jpg",
+  "releaseDate": "1981-07-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "405966b3-e5be-434a-8b99-17669daca910",
+      "title": "Halál a hídon",
+      "subtitle": null,
+      "timestampString": "03:45:35",
+      "timestampInSeconds": 13535,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #272",
+        "youtubeId": "KpeK1-FjITs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/KpeK1-FjITs/hqdefault.jpg",
+        "durationInMinutes": 253,
+        "releaseDate": 1708456799000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

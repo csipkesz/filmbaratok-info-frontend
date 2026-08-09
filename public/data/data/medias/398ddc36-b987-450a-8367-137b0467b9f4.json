@@ -1,0 +1,41 @@
+{
+  "id": "398ddc36-b987-450a-8367-137b0467b9f4",
+  "title": "Gonosz Halott: Égj",
+  "originalTitle": "Evil Dead Burn",
+  "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
+  "backdropPath": "/A5Tz6ogGt4VV8NESG9oWVct5bo1.jpg",
+  "posterPath": "/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
+  "releaseDate": "2026-07-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e162b17d-8f48-4130-aad6-a69ed514abc7",
+      "title": "Gonosz Halott: Égj",
+      "subtitle": null,
+      "timestampString": "01:34:20",
+      "timestampInSeconds": 5660,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #330",
+        "youtubeId": "AgwfP4V1UCo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/AgwfP4V1UCo/hqdefault.jpg",
+        "durationInMinutes": 207,
+        "releaseDate": 1784150438000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "723a7ceb-d9b4-406e-aef0-404d26059a4f",
+            "name": "Márk"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

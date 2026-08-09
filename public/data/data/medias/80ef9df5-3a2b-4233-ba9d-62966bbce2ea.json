@@ -1,0 +1,41 @@
+{
+  "id": "80ef9df5-3a2b-4233-ba9d-62966bbce2ea",
+  "title": "A túlélő",
+  "originalTitle": "Lone Survivor",
+  "overview": "Four Navy SEALs on a covert mission to neutralize a high-level Taliban operative must make an impossible moral decision in the mountains of Afghanistan that leads them into an enemy ambush. As they confront unthinkable odds, the SEALs must find reserves of strength and resilience to fight to the finish.",
+  "backdropPath": "/hmEbQB5UlcwobldcSDNlLZiUnmA.jpg",
+  "posterPath": "/zaBIrloyhGK7iNTZMb3f9SARsl8.jpg",
+  "releaseDate": "2013-12-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3a8f780d-8bb8-4da6-b189-f347f506c11d",
+      "title": "A túlélő",
+      "subtitle": null,
+      "timestampString": "00:57:40",
+      "timestampInSeconds": 3460,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #45",
+        "youtubeId": "9hNSnIZK61I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9hNSnIZK61I/hqdefault.jpg",
+        "durationInMinutes": 145,
+        "releaseDate": 1392563971000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "d5907ca3-034a-48f5-9435-e7c1f3bcbed7",
+  "title": "Straight Outta Compton",
+  "originalTitle": "Straight Outta Compton",
+  "overview": "In 1987, five young men, using brutally honest rhymes and hardcore beats, put their frustration and anger about life in the most dangerous place in America into the most powerful weapon they had: their music.  Taking us back to where it all began, Straight Outta Compton tells the true story of how these cultural rebels—armed only with their lyrics, swagger, bravado and raw talent—stood up to the authorities that meant to keep them down and formed the world’s most dangerous group, N.W.A.  And as they spoke the truth that no one had before and exposed life in the hood, their voice ignited a social revolution that is still reverberating today.",
+  "backdropPath": "/8r9RoGfwGmn1pn0G3sbvHHemSWF.jpg",
+  "posterPath": "/1CiLJx8Xtv3TbbFj6k7BboSmKgC.jpg",
+  "releaseDate": "2015-08-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a3dc6380-1515-43e9-973f-d0fb9ee62a85",
+      "title": "Straight Outta Compton",
+      "subtitle": null,
+      "timestampString": "03:04:15",
+      "timestampInSeconds": 11055,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #235",
+        "youtubeId": "E8HgTAqoW8U",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E8HgTAqoW8U/hqdefault.jpg",
+        "durationInMinutes": 220,
+        "releaseDate": 1657007879000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "465eb549-2e74-46d4-9d72-df2e21471883",
+            "name": "Anna"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

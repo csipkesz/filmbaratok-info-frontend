@@ -1,0 +1,45 @@
+{
+  "id": "657a9818-3768-4e3d-bc2d-07376824b895",
+  "title": "Pamela közelről",
+  "originalTitle": "Pamela, A Love Story",
+  "overview": "In her own words, through personal video and diaries, Pamela Anderson shares the story of her rise to fame, rocky romances and infamous sex tape scandal.",
+  "backdropPath": "/aJvgoRMrYFTMu7MrcfxYVPMRuU5.jpg",
+  "posterPath": "/zkVnRwZWbrd55P3Tx7BZZQ1gU89.jpg",
+  "releaseDate": "2023-01-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e2220957-9121-4a4d-9354-e867e3b354c2",
+      "title": "Pamela közelről",
+      "subtitle": null,
+      "timestampString": "03:02:38",
+      "timestampInSeconds": 10958,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #255",
+        "youtubeId": "z9qYgREOM9c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z9qYgREOM9c/hqdefault.jpg",
+        "durationInMinutes": 258,
+        "releaseDate": 1685482206000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "bddd8812-b3c6-42d7-90a6-cb7cb79665e8",
+  "title": "The Mandalorian",
+  "originalTitle": "The Mandalorian",
+  "overview": "A történet a Birodalom bukása után játszódik, de még az Első rend megerősödése előtt. Egy magányos mandalóri harcos talált gyermekével, Groguval vág át a törvénytelen galaxison.",
+  "backdropPath": "/9zcbqSxdsRMZWHYtyCd1nXPr2xq.jpg",
+  "posterPath": "/vFce9eGSY172Za9unIsgsrcYYvc.jpg",
+  "releaseDate": "2019-11-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a6a8c825-cb5a-4234-9278-27311134f9c6",
+      "title": "The Mandalorian (2. évad)",
+      "subtitle": "2. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: The Mandalorian (2. évad)",
+        "youtubeId": "n6GIRRIul9Y",
+        "thumbnailUrl": "https://i.ytimg.com/vi/n6GIRRIul9Y/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1608817725000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "a993cfe5-8078-49a5-adb0-22dfee58cd0a",
+            "name": "Shirin"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b5b8f7c6-cda9-4ecf-96af-96b1aed14585",
+      "title": "The Mandalorian (3. évad)",
+      "subtitle": "3. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: The Mandalorian (3. évad)",
+        "youtubeId": "1KlGIrDD9iU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/1KlGIrDD9iU/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1682608639000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "a993cfe5-8078-49a5-adb0-22dfee58cd0a",
+            "name": "Shirin"
+          }
+        ]
+      }
+    }
+  ]
+}

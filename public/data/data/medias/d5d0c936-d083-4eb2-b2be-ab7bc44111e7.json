@@ -1,0 +1,45 @@
+{
+  "id": "d5d0c936-d083-4eb2-b2be-ab7bc44111e7",
+  "title": "A fattyú",
+  "originalTitle": "Bastarden",
+  "overview": "Denmark, 1755. Captain Ludvig Kahlen sets out to conquer a Danish heath reputed to be uncultivable, with an impossible goal: to establish a colony in the name of the king, in exchange for a royal title. A single-minded ambition that the ruthless lord of the region will relentlessly seek to put down. Kahlen's fate hangs in the balance: will his endevours bring him wealth and honour, or cost him his life...?",
+  "backdropPath": "/pERcOAR1Teg4sLDDqRXj1TBjVsn.jpg",
+  "posterPath": "/okVwls2laPGOsLKKhXQCEiTBwpw.jpg",
+  "releaseDate": "2023-10-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b5c87bcf-71b7-4106-be89-47b52f810ae0",
+      "title": "A fattyú",
+      "subtitle": null,
+      "timestampString": "03:06:00",
+      "timestampInSeconds": 11160,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #276",
+        "youtubeId": "ozdxgj2AwCk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ozdxgj2AwCk/hqdefault.jpg",
+        "durationInMinutes": 248,
+        "releaseDate": 1713292727000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

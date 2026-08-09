@@ -1,0 +1,45 @@
+{
+  "id": "4260f819-2fde-454f-9172-22060d010ead",
+  "title": "Radio Flyer - Repül a testvérem",
+  "originalTitle": "Radio Flyer",
+  "overview": "A father reminisces about his childhood when he and his younger brother moved to a new town with their mother, her new husband and their dog, Shane. When the younger brother is subjected to physical abuse at the hands of their brutal stepfather, Mike decides to convert their toy trolley, the \"Radio Flyer\", into a plane to fly him to safety.",
+  "backdropPath": "/qupyOOes39BBlCtgvH77vgGVpA1.jpg",
+  "posterPath": "/nQjCKrwWYH6ES0HrnkLkPXnOEp0.jpg",
+  "releaseDate": "1992-02-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e3c13e88-22f0-4aca-9c9c-51f3d8e09b3c",
+      "title": "Radio Flyer - Repül a testvérem",
+      "subtitle": null,
+      "timestampString": "03:38:10",
+      "timestampInSeconds": 13090,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #255",
+        "youtubeId": "z9qYgREOM9c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z9qYgREOM9c/hqdefault.jpg",
+        "durationInMinutes": 258,
+        "releaseDate": 1685482206000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

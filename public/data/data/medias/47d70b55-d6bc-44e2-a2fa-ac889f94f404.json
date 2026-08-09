@@ -1,0 +1,41 @@
+{
+  "id": "47d70b55-d6bc-44e2-a2fa-ac889f94f404",
+  "title": "A figyelők",
+  "originalTitle": "The Watchers",
+  "overview": "A young artist gets stranded in an extensive, immaculate forest in western Ireland, where, after finding shelter, she becomes trapped alongside three strangers, stalked by mysterious creatures each night.",
+  "backdropPath": "/whnFKx0Y54Ktg6o2TiwbnQfXdZf.jpg",
+  "posterPath": "/vZVEUPychdvZLrTNwWErr9xZFmu.jpg",
+  "releaseDate": "2024-06-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d8a6bbee-557a-40cd-82bf-a8f5402bd9a7",
+      "title": "A figyelők",
+      "subtitle": null,
+      "timestampString": "02:04:00",
+      "timestampInSeconds": 7440,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #281",
+        "youtubeId": "ov4eiYi-ekw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ov4eiYi-ekw/hqdefault.jpg",
+        "durationInMinutes": 248,
+        "releaseDate": 1719661725000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

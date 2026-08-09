@@ -1,0 +1,41 @@
+{
+  "id": "c926e53e-7d1a-417e-875b-5e2e044a0be3",
+  "title": "Elit Halálosztók 1",
+  "originalTitle": "Tropa de Elite",
+  "overview": "In 1997, before the visit of the pope to Rio de Janeiro, Captain Nascimento from BOPE (Special Police Operations Battalion) is assigned to eliminate the risks of the drug dealers in a dangerous slum nearby where the pope intends to be lodged.",
+  "backdropPath": "/huUgrGkCetYSkDl5fMvZCXCbFKl.jpg",
+  "posterPath": "/lwIXz785N2fXi8hsBr1IXciFlkM.jpg",
+  "releaseDate": "2007-10-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "60431bd4-6c5a-4ae8-9b7c-121724fd4c38",
+      "title": "Elit Halálosztók 1-2",
+      "subtitle": null,
+      "timestampString": "01:44:53",
+      "timestampInSeconds": 6293,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #45",
+        "youtubeId": "9hNSnIZK61I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9hNSnIZK61I/hqdefault.jpg",
+        "durationInMinutes": 145,
+        "releaseDate": 1392563971000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

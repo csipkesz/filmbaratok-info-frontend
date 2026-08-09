@@ -1,0 +1,41 @@
+{
+  "id": "59760e24-7c5a-4507-8e47-c26e23de055a",
+  "title": "Hivatali eltávozás",
+  "originalTitle": "Corporate Animals",
+  "overview": "Disaster strikes when the egotistical CEO of an edible cutlery company leads her long-suffering staff on a corporate team-building trip in New Mexico. Trapped underground, this mismatched and disgruntled group must pull together to survive.",
+  "backdropPath": "/wXi3KtVDiTCXXtf0odDCRDW6pOf.jpg",
+  "posterPath": "/ajnBS9iakB3R5RIWedq6BHvmxFq.jpg",
+  "releaseDate": "2019-09-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5c8ffe30-42e2-49c2-a185-fc4e0c6c68f4",
+      "title": "Hivatali eltávozás",
+      "subtitle": null,
+      "timestampString": "01:35:20",
+      "timestampInSeconds": 5720,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #196",
+        "youtubeId": "FsFQg0igAJI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/FsFQg0igAJI/hqdefault.jpg",
+        "durationInMinutes": 181,
+        "releaseDate": 1598446254000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

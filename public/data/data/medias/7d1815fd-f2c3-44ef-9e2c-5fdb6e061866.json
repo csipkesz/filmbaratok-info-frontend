@@ -1,0 +1,41 @@
+{
+  "id": "7d1815fd-f2c3-44ef-9e2c-5fdb6e061866",
+  "title": "Az utolsó emberig",
+  "originalTitle": "Last Man Standing",
+  "overview": "John Smith is a mysterious stranger who is drawn into a vicious war between two Prohibition-era gangs. In a dangerous game, he switches allegiances from one to another, offering his services to the highest bidder. As the death toll mounts, Smith takes the law into his own hands in a deadly race to stay alive.",
+  "backdropPath": "/2wpoSvwPkCMJeVTrjkMUAF5B1sW.jpg",
+  "posterPath": "/2cWqlkXaKKdl32Waep4FwCQnyH0.jpg",
+  "releaseDate": "1996-09-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8ef0bd09-73fa-43b2-87e4-8f93d8048106",
+      "title": "Az utolsó emberig",
+      "subtitle": null,
+      "timestampString": "02:05:33",
+      "timestampInSeconds": 7533,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #111",
+        "youtubeId": "klorpdDyo7M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/klorpdDyo7M/hqdefault.jpg",
+        "durationInMinutes": 230,
+        "releaseDate": 1480773115000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "c0ae386f-5240-4576-a7ec-06a408b550bd",
+  "title": "Agyugrász",
+  "originalTitle": "Hoppers",
+  "overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
+  "backdropPath": "/3Jj0A10NVu2dWnoEL5t5oT79L1Y.jpg",
+  "posterPath": "/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+  "releaseDate": "2026-03-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f7235d28-035a-4ad5-9c5a-fcefd3255c05",
+      "title": "Agyugrász",
+      "subtitle": null,
+      "timestampString": "03:28:37",
+      "timestampInSeconds": 12517,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #322",
+        "youtubeId": "f696VdP9-xg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/f696VdP9-xg/hqdefault.jpg",
+        "durationInMinutes": 273,
+        "releaseDate": 1773775641000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

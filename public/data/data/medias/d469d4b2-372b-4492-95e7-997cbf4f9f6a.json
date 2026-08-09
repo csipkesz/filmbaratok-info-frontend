@@ -1,0 +1,45 @@
+{
+  "id": "d469d4b2-372b-4492-95e7-997cbf4f9f6a",
+  "title": "Sinister 2: Az átkozott ház",
+  "originalTitle": "Sinister 2",
+  "overview": "A young mother and her twin sons move into a rural house that's marked for death.",
+  "backdropPath": "/iQY3kJ2oqHqmcSm32xPfkFF4xW9.jpg",
+  "posterPath": "/hF6ORyihtAWHqKkIQI8BSpLQyON.jpg",
+  "releaseDate": "2015-08-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6b04da64-3528-4ccc-a0ad-3567f016c84c",
+      "title": "Sinister 2: Az átkozott ház",
+      "subtitle": null,
+      "timestampString": "01:20:35",
+      "timestampInSeconds": 4835,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #80",
+        "youtubeId": "z4DzygJMKgc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z4DzygJMKgc/hqdefault.jpg",
+        "durationInMinutes": 227,
+        "releaseDate": 1440780590000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

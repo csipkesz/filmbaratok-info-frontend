@@ -1,0 +1,41 @@
+{
+  "id": "a9fdde9f-f967-49ea-b2bb-d729e3d691ef",
+  "title": "Cannibal Holocaust",
+  "originalTitle": "Cannibal Holocaust",
+  "overview": "A New York University professor returns from a rescue mission to the Amazon rainforest with the footage shot by a lost team of documentarians who were making a film about the area's local cannibal tribes.",
+  "backdropPath": "/7QBBvE6tA1kUlo7AKeZZMygdSHp.jpg",
+  "posterPath": "/otxZzMh53TsN7yYFqSZ3rwH1yMd.jpg",
+  "releaseDate": "1980-02-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "472adc73-6ff1-4576-8904-0bac6aff4b9e",
+      "title": "Cannibal Holocaust",
+      "subtitle": null,
+      "timestampString": "02:21:45",
+      "timestampInSeconds": 8505,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #330",
+        "youtubeId": "AgwfP4V1UCo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/AgwfP4V1UCo/hqdefault.jpg",
+        "durationInMinutes": 207,
+        "releaseDate": 1784150438000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "723a7ceb-d9b4-406e-aef0-404d26059a4f",
+            "name": "Márk"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

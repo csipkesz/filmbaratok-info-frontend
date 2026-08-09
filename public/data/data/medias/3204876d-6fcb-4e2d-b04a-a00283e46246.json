@@ -1,0 +1,45 @@
+{
+  "id": "3204876d-6fcb-4e2d-b04a-a00283e46246",
+  "title": "Tanítóm, a polip",
+  "originalTitle": "My Octopus Teacher",
+  "overview": "After years of swimming every day in the freezing ocean at the tip of Africa, Craig Foster meets an unlikely teacher: a young octopus who displays remarkable curiosity. Visiting her den and tracking her movements for months on end he eventually wins the animal’s trust and they develop a never-before-seen bond between human and wild animal.",
+  "backdropPath": "/sW7VOrkHKYIeV9PaYc5IqGU2XK8.jpg",
+  "posterPath": "/hvTVZb7hBC8tZAGoEhH5eiMJu2B.jpg",
+  "releaseDate": "2020-09-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "229fd831-1b26-426c-a55f-b22293cddc54",
+      "title": "Tanítóm, a polip",
+      "subtitle": null,
+      "timestampString": "02:21:55",
+      "timestampInSeconds": 8515,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #211",
+        "youtubeId": "e7FpksPcoKY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/e7FpksPcoKY/hqdefault.jpg",
+        "durationInMinutes": 232,
+        "releaseDate": 1621526653000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "f0d51de6-9f19-4ee3-970e-fd685455f43f",
+  "title": "Yesterday",
+  "originalTitle": "Yesterday",
+  "overview": "A struggling musician realizes he's the only person on Earth who can remember The Beatles after waking up in an alternate reality where the group was forgotten.",
+  "backdropPath": "/t5Kp02Jzixl0KfpwthHp9ZUex9t.jpg",
+  "posterPath": "/9fYka5CQt9nrb6LOtKicysUf9NA.jpg",
+  "releaseDate": "2019-06-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c48c5e78-8ca7-4a35-95d5-36400bff11e1",
+      "title": "Yesterday",
+      "subtitle": null,
+      "timestampString": "01:12:32",
+      "timestampInSeconds": 4352,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #171",
+        "youtubeId": "3KzIveF4J8o",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3KzIveF4J8o/hqdefault.jpg",
+        "durationInMinutes": 195,
+        "releaseDate": 1562329911000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "465eb549-2e74-46d4-9d72-df2e21471883",
+            "name": "Anna"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

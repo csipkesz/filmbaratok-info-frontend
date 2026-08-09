@@ -1,0 +1,41 @@
+{
+  "id": "b8656449-3fee-41a9-be31-734808f988c0",
+  "title": "A majomember",
+  "originalTitle": "Monkey Man",
+  "overview": "Kid is an anonymous young man who ekes out a meager living in an underground fight club where, night after night, wearing a gorilla mask, he is beaten bloody by more popular fighters for cash. After years of suppressed rage, Kid discovers a way to infiltrate the enclave of the city’s sinister elite. As his childhood trauma boils over, his mysteriously scarred hands unleash an explosive campaign of retribution to settle the score with the men who took everything from him.",
+  "backdropPath": "/9NSXdVHeSfSHUv49OzLispFcpz1.jpg",
+  "posterPath": "/4lhR4L2vzzjl68P1zJyCH755Oz4.jpg",
+  "releaseDate": "2024-04-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3c164855-e7a8-4517-a758-fb19505a9f9d",
+      "title": "A majomember",
+      "subtitle": null,
+      "timestampString": "00:56:53",
+      "timestampInSeconds": 3413,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #277",
+        "youtubeId": "VVHLdlqq_xY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VVHLdlqq_xY/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1714501831000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2f840cfb-e5c7-45f9-9a5a-097d43b902fb",
+  "title": "Sikoly 7",
+  "originalTitle": "Scream 7",
+  "overview": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becomes the next target. Determined to protect her family, Sidney must face the horrors of her past to put an end to the bloodshed once and for all.",
+  "backdropPath": "/3eUyLEF5M0ky3h6KJsWiWzaakB8.jpg",
+  "posterPath": "/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
+  "releaseDate": "2026-02-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "31da4b39-2330-454a-b990-41adecb74493",
+      "title": "Sikoly 7",
+      "subtitle": null,
+      "timestampString": "01:06:04",
+      "timestampInSeconds": 3964,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #322",
+        "youtubeId": "f696VdP9-xg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/f696VdP9-xg/hqdefault.jpg",
+        "durationInMinutes": 273,
+        "releaseDate": 1773775641000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

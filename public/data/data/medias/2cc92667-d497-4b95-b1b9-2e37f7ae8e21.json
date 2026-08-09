@@ -1,0 +1,41 @@
+{
+  "id": "2cc92667-d497-4b95-b1b9-2e37f7ae8e21",
+  "title": "Amerikai pite: Az esküvő",
+  "originalTitle": "American Wedding",
+  "overview": "With high school a distant memory, Jim and Michelle are getting married — and in a hurry, since Jim's grandmother is sick and wants to see him walk down the aisle — prompting Stifler to throw the ultimate bachelor party. And Jim's dad is reliable as ever, doling out advice no one wants to hear.",
+  "backdropPath": "/qW703anWHFXulRTKWOckAg9i70K.jpg",
+  "posterPath": "/pCO3lJv2PzPkJty29APxCVSjyoE.jpg",
+  "releaseDate": "2003-08-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1f4ddf31-a5b8-4d08-9967-1d7d0dd84af7",
+      "title": "Amerikai pite: Az esküvő",
+      "subtitle": null,
+      "timestampString": "01:24:30",
+      "timestampInSeconds": 5070,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #287",
+        "youtubeId": "t0z5SbpHLjU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/t0z5SbpHLjU/hqdefault.jpg",
+        "durationInMinutes": 151,
+        "releaseDate": 1727611956000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

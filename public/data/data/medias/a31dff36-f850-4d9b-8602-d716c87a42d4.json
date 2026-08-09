@@ -1,0 +1,45 @@
+{
+  "id": "a31dff36-f850-4d9b-8602-d716c87a42d4",
+  "title": "Motor City",
+  "originalTitle": "Motor City",
+  "overview": "In 1970s Detroit, John Miller falls for a local gangster's girl and lands in prison for a crime he didn't commit. With his life ruined, Miller plots revenge against the man who took his girl away.",
+  "backdropPath": "/l7asYmqOad01F2u0oCMM8nQjoEP.jpg",
+  "posterPath": "/lGovcOtxugJPhfJjFKud9EbWtOA.jpg",
+  "releaseDate": "2026-07-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9e28b009-7c73-4d4b-a26c-1c2fd92d6953",
+      "title": "Motor City",
+      "subtitle": null,
+      "timestampString": "01:46:16",
+      "timestampInSeconds": 6376,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #331",
+        "youtubeId": "cygAIMZOaYA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/cygAIMZOaYA/hqdefault.jpg",
+        "durationInMinutes": 229,
+        "releaseDate": 1785534622000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

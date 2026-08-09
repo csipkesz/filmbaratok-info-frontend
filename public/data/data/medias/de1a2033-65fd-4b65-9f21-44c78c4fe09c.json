@@ -1,0 +1,41 @@
+{
+  "id": "de1a2033-65fd-4b65-9f21-44c78c4fe09c",
+  "title": "A vörös kör",
+  "originalTitle": "Le Cercle rouge",
+  "overview": "When French criminal Corey gets released from prison, he resolves to never return. He is quickly pulled back into the underworld, however, after a chance encounter with escaped murderer Vogel. Along with former policeman and current alcoholic Jansen, they plot an intricate jewel heist. All the while, quirky Police Commissioner Mattei, who was the one to lose custody of Vogel, is determined to find him.",
+  "backdropPath": "/93iDrZmjDF01Tn3PxOYL8Zz9hBM.jpg",
+  "posterPath": "/w56La43IJnGpLepgqfGCAZsbQPp.jpg",
+  "releaseDate": "1970-10-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "62091519-b33e-4233-a394-0cad29e85a4a",
+      "title": "A vörös kör",
+      "subtitle": null,
+      "timestampString": "01:56:45",
+      "timestampInSeconds": 7005,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #122",
+        "youtubeId": "-MTE2KExAs0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-MTE2KExAs0/hqdefault.jpg",
+        "durationInMinutes": 192,
+        "releaseDate": 1495810296000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "35d62c4d-c51a-4bae-aa2c-b99ff3490bef",
+  "title": "Vörös veréb",
+  "originalTitle": "Red Sparrow",
+  "overview": "Prima ballerina Dominika Egorova faces a bleak and uncertain future after she suffers an injury that ends her career. She soon turns to Sparrow School, a secret intelligence service that trains exceptional young people to use their minds and bodies as weapons. Dominika emerges as the most dangerous Sparrow after completing the sadistic training process. As she comes to terms with her new abilities, she meets a CIA agent who tries to convince her that he is the only person she can trust.",
+  "backdropPath": "/sGzuQYSTwJvLBc2PnuSVLHhuFeh.jpg",
+  "posterPath": "/cdefNr6aS00IwVbSlxdFJnfmzKh.jpg",
+  "releaseDate": "2018-02-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a7b8b447-84e7-4f1a-820d-6a10af0cee1c",
+      "title": "Vörös veréb",
+      "subtitle": null,
+      "timestampString": "00:38:44",
+      "timestampInSeconds": 2324,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #140",
+        "youtubeId": "LQ8tU4s4F2M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/LQ8tU4s4F2M/hqdefault.jpg",
+        "durationInMinutes": 184,
+        "releaseDate": 1521209750000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "503eb96e-68c7-42b1-9f44-90443894c337",
+  "title": "Pókember: Irány a Pókverzum!",
+  "originalTitle": "Spider-Man: Into the Spider-Verse",
+  "overview": "Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the one and only Spider-Man. While wrestling with the implications of his new abilities, Miles discovers a super collider created by the madman Wilson \"Kingpin\" Fisk, causing others from across the Spider-Verse to be inadvertently transported to his dimension.",
+  "backdropPath": "/8mnXR9rey5uQ08rZAvzojKWbDQS.jpg",
+  "posterPath": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+  "releaseDate": "2018-12-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b24c49c6-8ffd-46aa-b486-4762a26761f5",
+      "title": "Pókember: Irány a Pókverzum!",
+      "subtitle": null,
+      "timestampString": "00:51:35",
+      "timestampInSeconds": 3095,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #158",
+        "youtubeId": "0hDBNbfAMGU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/0hDBNbfAMGU/hqdefault.jpg",
+        "durationInMinutes": 112,
+        "releaseDate": 1545678001000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

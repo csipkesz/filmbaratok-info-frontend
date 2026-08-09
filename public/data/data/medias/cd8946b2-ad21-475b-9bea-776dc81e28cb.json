@@ -1,0 +1,45 @@
+{
+  "id": "cd8946b2-ad21-475b-9bea-776dc81e28cb",
+  "title": "Dark City",
+  "originalTitle": "Dark City",
+  "overview": "A man struggles with memories of his past, including a wife he cannot remember, in a nightmarish world with no sun and run by beings with telekinetic powers who seek the souls of humans.",
+  "backdropPath": "/sWi4SSeVPii4NU365Df9vzX1yOX.jpg",
+  "posterPath": "/tNPEGju4DpTdbhBphNmZoEi9Bd3.jpg",
+  "releaseDate": "1998-02-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0fbee0bf-797c-489e-b5fb-2a349fa66a8c",
+      "title": "Dark City",
+      "subtitle": null,
+      "timestampString": "03:15:53",
+      "timestampInSeconds": 11753,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #172",
+        "youtubeId": "ahOskajDN8o",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ahOskajDN8o/hqdefault.jpg",
+        "durationInMinutes": 250,
+        "releaseDate": 1564145413000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

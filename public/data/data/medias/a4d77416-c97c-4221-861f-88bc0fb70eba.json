@@ -1,0 +1,45 @@
+{
+  "id": "a4d77416-c97c-4221-861f-88bc0fb70eba",
+  "title": "Amerika Kapitány: Polgárháború",
+  "originalTitle": "Captain America: Civil War",
+  "overview": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
+  "backdropPath": "/wdwcOBMkt3zmPQuEMxB3FUtMio2.jpg",
+  "posterPath": "/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+  "releaseDate": "2016-04-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6845bc39-392c-4909-a86d-f79b057ef62b",
+      "title": "Amerika Kapitány: Polgárháború",
+      "subtitle": null,
+      "timestampString": "00:43:40",
+      "timestampInSeconds": 2620,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #98",
+        "youtubeId": "5mDA3_R1VRw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/5mDA3_R1VRw/hqdefault.jpg",
+        "durationInMinutes": 152,
+        "releaseDate": 1463075301000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

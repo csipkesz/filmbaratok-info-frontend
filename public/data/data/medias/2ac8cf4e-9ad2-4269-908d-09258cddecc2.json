@@ -1,0 +1,45 @@
+{
+  "id": "2ac8cf4e-9ad2-4269-908d-09258cddecc2",
+  "title": "Monster hunter",
+  "originalTitle": "Monster Hunter",
+  "overview": "A portal transports Cpt. Artemis and an elite unit of soldiers to a strange world where powerful monsters rule with deadly ferocity. Faced with relentless danger, the team encounters a mysterious hunter who may be their only hope to find a way home.",
+  "backdropPath": "/8tNX8s3j1O0eqilOQkuroRLyOZA.jpg",
+  "posterPath": "/1UCOF11QCw8kcqvce8LKOO6pimh.jpg",
+  "releaseDate": "2020-12-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c0e24d77-119c-4de6-b197-17e4fe16fd94",
+      "title": "Monster hunter",
+      "subtitle": null,
+      "timestampString": "02:00:52",
+      "timestampInSeconds": 7252,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #207",
+        "youtubeId": "nRj4p0apAgo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nRj4p0apAgo/hqdefault.jpg",
+        "durationInMinutes": 247,
+        "releaseDate": 1614949852000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

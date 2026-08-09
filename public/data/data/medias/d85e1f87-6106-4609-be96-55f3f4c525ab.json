@@ -1,0 +1,28 @@
+{
+  "id": "d85e1f87-6106-4609-be96-55f3f4c525ab",
+  "title": "The Studio",
+  "originalTitle": "The Studio",
+  "overview": "Seth Rogen egy újonnan kinevezett filmstúdiófőnököt alakít. A hírességek elismerésére szomjazva a Continental Stúdió vezetői csapatával egyensúlyoznia kell a céges elvárások és a kreatív ambíciók között, miközben próbálják a mozit életben tartani, és fontosságát megőrizni.",
+  "backdropPath": "/j4nrXoHEEHnEgMyoFXUSvXYALFh.jpg",
+  "posterPath": "/2c6ofLTa5CRfeQjVA1bWiYBdxQN.jpg",
+  "releaseDate": "2025-03-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "745eef5c-50a8-4f3f-be5c-d96ac4508ce3",
+      "title": "The Studio (1. évad)",
+      "subtitle": "1. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: The Studio (1. évad)",
+        "youtubeId": "zPm-RXiGwAk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/zPm-RXiGwAk/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1751991378000,
+        "participants": []
+      }
+    }
+  ]
+}

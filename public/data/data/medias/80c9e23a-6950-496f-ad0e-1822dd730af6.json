@@ -1,0 +1,45 @@
+{
+  "id": "80c9e23a-6950-496f-ad0e-1822dd730af6",
+  "title": "Keresztút",
+  "originalTitle": "Kreuzweg",
+  "overview": "Maria finds herself caught between two worlds. At school this 14-year-old girl has all the typical teenage interests, but when she’s at home with her family she follows the teachings of the Society of St. Paul and their traditionalist interpretation of Catholicism. Everything that Maria thinks and does must be examined before God. And since the Lord is a strict shepherd, she lives in constant fear of committing some misconduct...",
+  "backdropPath": "/jfhQmWuJ5NGYoGiTNswGi09JEKL.jpg",
+  "posterPath": "/gJgvoCG1GtGibgjg8ABBIVExZ0F.jpg",
+  "releaseDate": "2014-03-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8df2d8f2-6e83-4eda-9849-4a1b0d1fbd5f",
+      "title": "Keresztút",
+      "subtitle": null,
+      "timestampString": "03:03:53",
+      "timestampInSeconds": 11033,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #67",
+        "youtubeId": "FATQkJjmAQg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/FATQkJjmAQg/hqdefault.jpg",
+        "durationInMinutes": 206,
+        "releaseDate": 1424108444000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

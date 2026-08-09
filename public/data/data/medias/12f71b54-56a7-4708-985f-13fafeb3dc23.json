@@ -1,0 +1,45 @@
+{
+  "id": "12f71b54-56a7-4708-985f-13fafeb3dc23",
+  "title": "Véresen egyszerű",
+  "originalTitle": "Blood Simple",
+  "overview": "The owner of a seedy small-town Texas bar discovers that one of his employees is having an affair with his wife. A chaotic chain of misunderstandings, lies and mischief ensues after he devises a plot to have them murdered.",
+  "backdropPath": "/rGPoNNk4fvgG2mvkNAxJJPlszOu.jpg",
+  "posterPath": "/n8D1gVXUgmW4kkDzUzzoezAmUUa.jpg",
+  "releaseDate": "1985-01-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "77308e68-406e-4e7e-ac92-d6b7abfe73c9",
+      "title": "Véresen egyszerű",
+      "subtitle": null,
+      "timestampString": "02:46:55",
+      "timestampInSeconds": 10015,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #126",
+        "youtubeId": "oxUIpjJRf-Q",
+        "thumbnailUrl": "https://i.ytimg.com/vi/oxUIpjJRf-Q/hqdefault.jpg",
+        "durationInMinutes": 182,
+        "releaseDate": 1501690310000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

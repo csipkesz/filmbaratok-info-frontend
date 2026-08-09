@@ -1,0 +1,45 @@
+{
+  "id": "08229a26-fa43-4be4-92f4-3154feba062b",
+  "title": "A holló [2024]",
+  "originalTitle": "The Crow",
+  "overview": "Soulmates Eric and Shelly are brutally murdered when the demons of her dark past catch up with them. Given the chance to save his true love by sacrificing himself, Eric sets out to seek merciless revenge on their killers, traversing the worlds of the living and the dead to put the wrong things right.",
+  "backdropPath": "/503LUrI9juBk1rktOPzxyMUTDEu.jpg",
+  "posterPath": "/g8TbOXrNMuqq7AaKqdvqS2oG4ob.jpg",
+  "releaseDate": "2024-08-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e9e37551-bb84-43c2-b180-1712361bb759",
+      "title": "A holló [2024]",
+      "subtitle": null,
+      "timestampString": "02:02:00",
+      "timestampInSeconds": 7320,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #286",
+        "youtubeId": "ZbuQSmPb5sM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ZbuQSmPb5sM/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1726511195000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

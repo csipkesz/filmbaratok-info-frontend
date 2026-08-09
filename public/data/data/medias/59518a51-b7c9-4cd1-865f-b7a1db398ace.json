@@ -1,0 +1,45 @@
+{
+  "id": "59518a51-b7c9-4cd1-865f-b7a1db398ace",
+  "title": "Út a díjesőig",
+  "originalTitle": "Competencia oficial",
+  "overview": "When a billionaire entrepreneur impulsively decides to create an iconic movie, he demands the best. Renowned filmmaker Lola Cuevas is recruited to mastermind this ambitious endeavour. Completing the all-star team are two actors with massive talent but even bigger egos: Hollywood heartthrob Félix Rivero and radical theatre actor Iván Torres. Both are legends, but not exactly best friends. Through a series of increasingly eccentric trials set by Lola, Félix and Iván must confront not only each other but also their own legacies. Who will be left when the cameras finally start rolling?",
+  "backdropPath": "/cuyXEls6uOMDqflx2MSzZOuQSn2.jpg",
+  "posterPath": "/xvsiRSy1kIwlySogzOxkCFrJWYx.jpg",
+  "releaseDate": "2021-09-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "75463ea3-1c5d-48b7-b0f4-b87c500e8175",
+      "title": "Út a díjesőig",
+      "subtitle": null,
+      "timestampString": "02:37:32",
+      "timestampInSeconds": 9452,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #232",
+        "youtubeId": "9TzGQXyouWk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9TzGQXyouWk/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1651670332000,
+        "participants": [
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

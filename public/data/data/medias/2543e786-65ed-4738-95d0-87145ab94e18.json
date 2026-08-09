@@ -1,0 +1,45 @@
+{
+  "id": "2543e786-65ed-4738-95d0-87145ab94e18",
+  "title": "Dr. Horrible's Sing-Along Blog",
+  "originalTitle": "Dr. Horrible's Sing-Along Blog",
+  "overview": "",
+  "backdropPath": "/fJa29nluTKy4qOc5kyyGZfCuDDc.jpg",
+  "posterPath": "/wPXpC4AJHlwnVk5AtlBgsd0497c.jpg",
+  "releaseDate": "2008-07-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6ca39e6b-725b-4569-9e52-7f26ac401421",
+      "title": "Dr. Horrible's Sing-Along Blog",
+      "subtitle": null,
+      "timestampString": "03:02:12",
+      "timestampInSeconds": 10932,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #307",
+        "youtubeId": "VKMsNci80C8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VKMsNci80C8/hqdefault.jpg",
+        "durationInMinutes": 233,
+        "releaseDate": 1753986708000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

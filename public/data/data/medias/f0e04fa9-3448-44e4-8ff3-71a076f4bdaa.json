@@ -1,0 +1,45 @@
+{
+  "id": "f0e04fa9-3448-44e4-8ff3-71a076f4bdaa",
+  "title": "Lightyear",
+  "originalTitle": "Lightyear",
+  "overview": "Legendary Space Ranger Buzz Lightyear embarks on an intergalactic adventure alongside a group of ambitious recruits and his robot companion Sox.",
+  "backdropPath": "/hwUxHPkuUleJeoick4uZsrKDXxF.jpg",
+  "posterPath": "/ox4goZd956BxqJH6iLwhWPL9ct4.jpg",
+  "releaseDate": "2022-06-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0563dd09-9dbb-421d-9c1b-5be28ecc65a1",
+      "title": "Lightyear",
+      "subtitle": null,
+      "timestampString": "00:49:20",
+      "timestampInSeconds": 2960,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #235",
+        "youtubeId": "E8HgTAqoW8U",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E8HgTAqoW8U/hqdefault.jpg",
+        "durationInMinutes": 220,
+        "releaseDate": 1657007879000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "465eb549-2e74-46d4-9d72-df2e21471883",
+            "name": "Anna"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

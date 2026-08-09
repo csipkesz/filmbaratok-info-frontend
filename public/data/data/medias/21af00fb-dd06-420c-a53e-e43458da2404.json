@@ -1,0 +1,41 @@
+{
+  "id": "21af00fb-dd06-420c-a53e-e43458da2404",
+  "title": "A séf",
+  "originalTitle": "Chef",
+  "overview": "When Chef Carl Casper suddenly quits his job at a prominent Los Angeles restaurant after refusing to compromise his creative integrity for its controlling owner, he is left to figure out what's next. Finding himself in Miami, he teams up with his ex-wife, his friend and his son to launch a food truck. Taking to the road, Chef Carl goes back to his roots to reignite his passion for the kitchen -- and zest for life and love.",
+  "backdropPath": "/igVNCpS132rOqrnDsrVYW5HCIsM.jpg",
+  "posterPath": "/hyp8EXDmO4dSC8V6Q5jU7gD1kcg.jpg",
+  "releaseDate": "2014-05-08T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8ef8257e-fedc-46cd-9581-aae67c0e753f",
+      "title": "A séf",
+      "subtitle": null,
+      "timestampString": "01:04:00",
+      "timestampInSeconds": 3840,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #119",
+        "youtubeId": "y4ke6vT4qms",
+        "thumbnailUrl": "https://i.ytimg.com/vi/y4ke6vT4qms/hqdefault.jpg",
+        "durationInMinutes": 111,
+        "releaseDate": 1491032632000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

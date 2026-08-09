@@ -1,0 +1,45 @@
+{
+  "id": "899fca4c-5d18-4641-88a0-f8d07d99f0b9",
+  "title": "Metro Manila",
+  "originalTitle": "Metro Manila",
+  "overview": "Looking for a brighter future in metropolitan Manila, Oscar Ramirez and his family leave their miserable life in the rice terraces of Banaue, in the northern Philippines. In the sweltering capital, where all kind of perils lurk in every corner, Oscar catches a lucky break when he is offered a steady work for an armored truck company and the senior officer Ong takes him under his wing.",
+  "backdropPath": "/6HIJVGWxEwGFBvv0PCM5lgc9ZKC.jpg",
+  "posterPath": "/o3HLYPfgNK1N04TqZSOU4Hv4iaq.jpg",
+  "releaseDate": "2013-07-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "db6bc39e-57a1-4d08-89d8-dfc4e309a2cf",
+      "title": "Metro Manila",
+      "subtitle": null,
+      "timestampString": "02:52:08",
+      "timestampInSeconds": 10328,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #88",
+        "youtubeId": "wEd9ZOCpPII",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wEd9ZOCpPII/hqdefault.jpg",
+        "durationInMinutes": 226,
+        "releaseDate": 1450458682000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

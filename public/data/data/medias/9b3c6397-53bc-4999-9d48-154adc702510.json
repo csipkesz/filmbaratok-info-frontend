@@ -1,0 +1,41 @@
+{
+  "id": "9b3c6397-53bc-4999-9d48-154adc702510",
+  "title": "Felhőkarcoló",
+  "originalTitle": "Skyscraper",
+  "overview": "Framed and on the run, a former FBI agent must save his family from a blazing fire in the world's tallest building.",
+  "backdropPath": "/oMKFQmoVgB69fyXfSMu0lGlHJP2.jpg",
+  "posterPath": "/52ml62vClzrlqvXZq2FEW6UF6c1.jpg",
+  "releaseDate": "2018-07-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9427cee4-dccf-488c-824b-c897ca1d3678",
+      "title": "Felhőkarcoló [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "01:42:22",
+      "timestampInSeconds": 6142,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #148",
+        "youtubeId": "keV4hpdXcYo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/keV4hpdXcYo/hqdefault.jpg",
+        "durationInMinutes": 206,
+        "releaseDate": 1533062167000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

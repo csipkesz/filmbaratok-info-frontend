@@ -1,0 +1,41 @@
+{
+  "id": "4f8e4544-3ac3-4530-ac72-c0c5a9c90b5d",
+  "title": "Kubo és a varázshúrok",
+  "originalTitle": "Kubo and the Two Strings",
+  "overview": "Kubo mesmerizes the people in his village with his magical gift for spinning wild tales with origami. When he accidentally summons an evil spirit seeking vengeance, Kubo is forced to go on a quest to solve the mystery of his fallen samurai father and his mystical weaponry, as well as discover his own magical powers.",
+  "backdropPath": "/bhspYsRMHgMqzUlxiVpIY8OrqMt.jpg",
+  "posterPath": "/ewcOCkuuKAKULGUnbBVaO1htt0D.jpg",
+  "releaseDate": "2016-08-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "bb6e3660-b303-41f0-9b64-37b190f7b614",
+      "title": "Kubo és a varázshúrok",
+      "subtitle": null,
+      "timestampString": "01:17:50",
+      "timestampInSeconds": 4670,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #108",
+        "youtubeId": "zNzDplhnvlg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/zNzDplhnvlg/hqdefault.jpg",
+        "durationInMinutes": 175,
+        "releaseDate": 1476476267000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

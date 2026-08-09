@@ -1,0 +1,41 @@
+{
+  "id": "18119a78-2d73-4b72-b895-c3e22086c11e",
+  "title": "Szabotázs",
+  "originalTitle": "Sabotage",
+  "overview": "John 'Breacher' Wharton leads an elite DEA task force that takes on the world's deadliest drug cartels. When the team successfully executes a high-stakes raid on a cartel safe house, they think their work is done – until, one-by-one, the team members mysteriously start to be eliminated. As the body count rises, everyone is a suspect.",
+  "backdropPath": "/tcvi2IYhU4bfwOMGn9xUI4cueT5.jpg",
+  "posterPath": "/ygG17WukZCidKm7wGM3Zzrr5WRi.jpg",
+  "releaseDate": "2014-03-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ff63ae92-7690-4bb3-9f48-9c65d394fb37",
+      "title": "Szabotázs",
+      "subtitle": null,
+      "timestampString": "01:59:50",
+      "timestampInSeconds": 7190,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #54",
+        "youtubeId": "z2MBRvmBR0k",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z2MBRvmBR0k/hqdefault.jpg",
+        "durationInMinutes": 188,
+        "releaseDate": 1406308806000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

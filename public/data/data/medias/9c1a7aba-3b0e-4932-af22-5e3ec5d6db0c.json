@@ -1,0 +1,28 @@
+{
+  "id": "9c1a7aba-3b0e-4932-af22-5e3ec5d6db0c",
+  "title": "Wednesday",
+  "originalTitle": "Wednesday",
+  "overview": "Az okos, szarkasztikus és belül egy kicsit halott Wednesday Addams csavaros rejtélyek után nyomoz, miközben új barátokat és ellenségeket szerez a Nevermore Akadémián.",
+  "backdropPath": "/iHSwvRVsRyxpX7FE7GbviaDvgGZ.jpg",
+  "posterPath": "/9PFonBhy4cQy7Jz20NpMygczOkv.jpg",
+  "releaseDate": "2022-11-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "47d12d99-eec7-4269-b573-96b2f7274c61",
+      "title": "Wednesday (1. évad)",
+      "subtitle": "1. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Wednesday (1. évad)",
+        "youtubeId": "EjFyXl_Ex9s",
+        "thumbnailUrl": "https://i.ytimg.com/vi/EjFyXl_Ex9s/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1673717408000,
+        "participants": []
+      }
+    }
+  ]
+}

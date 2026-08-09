@@ -1,0 +1,41 @@
+{
+  "id": "e40f709d-e8df-4393-9e07-1f0eb97557ff",
+  "title": "Hitman",
+  "originalTitle": "Hitman",
+  "overview": "A genetically engineered assassin with deadly aim, known only as \"Agent 47\" eliminates strategic targets for a top-secret organization. But when he's double-crossed, the hunter becomes the prey as 47 finds himself in a life-or-death game of international intrigue.",
+  "backdropPath": "/9LMIoURuLvxEVKMib4DoVVcJJ5l.jpg",
+  "posterPath": "/h69UJOOKlrHcvhl5H2LY74N61DQ.jpg",
+  "releaseDate": "2007-11-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ef1aede9-c973-4a24-b35c-1e8c8e1c93aa",
+      "title": "Hitman",
+      "subtitle": null,
+      "timestampString": "01:19:56",
+      "timestampInSeconds": 4796,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #81",
+        "youtubeId": "jxVu-FT-Qv8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/jxVu-FT-Qv8/hqdefault.jpg",
+        "durationInMinutes": 158,
+        "releaseDate": 1442306890000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

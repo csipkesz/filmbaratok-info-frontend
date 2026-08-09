@@ -1,0 +1,45 @@
+{
+  "id": "60de4bb5-bbc7-4048-9484-ffd1a9f53b1c",
+  "title": "A hercegnő [2022]",
+  "originalTitle": "The Princess",
+  "overview": "A beautiful, strong-willed young royal refuses to wed the cruel sociopath to whom she is betrothed and is kidnapped and locked in a remote tower of her father’s castle. With her scorned, vindictive suitor intent on taking her father’s throne, the princess must protect her family and save the kingdom.",
+  "backdropPath": "/5PnypKiSj2efSPqThNjTXz8jwOg.jpg",
+  "posterPath": "/9pCoqX24a6rE981fY1O3PmhiwrB.jpg",
+  "releaseDate": "2022-06-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7f444ea4-ed1e-49ca-a244-03ac285b2203",
+      "title": "A hercegnő [2022]",
+      "subtitle": null,
+      "timestampString": "01:18:45",
+      "timestampInSeconds": 4725,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #268",
+        "youtubeId": "9TmBeKJi0og",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9TmBeKJi0og/hqdefault.jpg",
+        "durationInMinutes": 211,
+        "releaseDate": 1702918793000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

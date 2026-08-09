@@ -1,0 +1,45 @@
+{
+  "id": "a95984c3-49df-4099-9ccc-bf4c5646956f",
+  "title": "Kis kedvencek titkos élete",
+  "originalTitle": "The Secret Life of Pets",
+  "overview": "The quiet life of a terrier named Max is upended when his owner takes in Duke, a stray whom Max instantly dislikes.",
+  "backdropPath": "/c1Ywtvlqls6tPBZ3BqbPtBwHyng.jpg",
+  "posterPath": "/g3Hms6AE174doeGR1gz5zX5sVsv.jpg",
+  "releaseDate": "2016-06-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ad7dc55f-ace2-41b9-921d-2960bb8d7a6f",
+      "title": "Kis kedvencek titkos élete",
+      "subtitle": null,
+      "timestampString": "02:09:40",
+      "timestampInSeconds": 7780,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #105",
+        "youtubeId": "73Hk03Cs0mQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/73Hk03Cs0mQ/hqdefault.jpg",
+        "durationInMinutes": 214,
+        "releaseDate": 1471773217000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

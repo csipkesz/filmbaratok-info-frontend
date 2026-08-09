@@ -1,0 +1,41 @@
+{
+  "id": "9f79d8ed-8974-4815-8120-40d9dafc0191",
+  "title": "Fekete telefon 2",
+  "originalTitle": "Black Phone 2",
+  "overview": "Four years after defeating The Grabber, Finney Blake is struggling with life after captivity. When his younger sister Gwen begins receiving calls in her dreams from the Black Phone and seeing disturbing visions of three boys being stalked at a winter camp, the siblings become determined to solve the mystery and confront a killer who has grown more powerful in death and more significant to them than either could imagine.",
+  "backdropPath": "/6zKjoOOb3OZnZuiHtQZn4Kd69Gq.jpg",
+  "posterPath": "/gFddBLQ8wj9M9O82iPzgX5KVNHz.jpg",
+  "releaseDate": "2025-10-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0dc977d5-a524-4a47-bb61-9ccfc481b4c6",
+      "title": "Fekete telefon 2",
+      "subtitle": null,
+      "timestampString": "00:50:08",
+      "timestampInSeconds": 3008,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #313",
+        "youtubeId": "hdAN5nf2KLo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/hdAN5nf2KLo/hqdefault.jpg",
+        "durationInMinutes": 179,
+        "releaseDate": 1761828306000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "723a7ceb-d9b4-406e-aef0-404d26059a4f",
+            "name": "Márk"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

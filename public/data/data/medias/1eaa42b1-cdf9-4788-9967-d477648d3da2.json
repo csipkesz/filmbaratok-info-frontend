@@ -1,0 +1,45 @@
+{
+  "id": "1eaa42b1-cdf9-4788-9967-d477648d3da2",
+  "title": "Backrooms – Hátsó szobák",
+  "originalTitle": "Backrooms",
+  "overview": "A strange doorway appears in the basement of a furniture showroom.",
+  "backdropPath": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+  "posterPath": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+  "releaseDate": "2026-05-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fd5b79c4-73cc-417d-8b8b-70f8aca021c0",
+      "title": "Backrooms – Hátsó szobák",
+      "subtitle": null,
+      "timestampString": "02:06:00",
+      "timestampInSeconds": 7560,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #328",
+        "youtubeId": "f89B62DScOs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/f89B62DScOs/hqdefault.jpg",
+        "durationInMinutes": 253,
+        "releaseDate": 1781722805000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "723a7ceb-d9b4-406e-aef0-404d26059a4f",
+            "name": "Márk"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

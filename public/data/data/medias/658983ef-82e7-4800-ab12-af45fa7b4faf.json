@@ -1,0 +1,45 @@
+{
+  "id": "658983ef-82e7-4800-ab12-af45fa7b4faf",
+  "title": "Győzzünk már!",
+  "originalTitle": "Win Win",
+  "overview": "When down-on-his-luck part-time high school wrestling coach Mike agrees to become legal guardian to an elderly man, his ward's troubled grandson turns out to be a star grappler, sparking dreams of a big win -- until the boy's mother retrieves him.",
+  "backdropPath": "/k3v0axkDebnAq4L0v06YikelD98.jpg",
+  "posterPath": "/xX0Ryq5J2weFF5BPYb80giKUL02.jpg",
+  "releaseDate": "2011-03-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "40ea4a88-7f9d-48ea-9edc-0847d391ec8f",
+      "title": "Győzzünk már!",
+      "subtitle": null,
+      "timestampString": "03:28:00",
+      "timestampInSeconds": 12480,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #174",
+        "youtubeId": "SKngLJZbCLc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/SKngLJZbCLc/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1567606261000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

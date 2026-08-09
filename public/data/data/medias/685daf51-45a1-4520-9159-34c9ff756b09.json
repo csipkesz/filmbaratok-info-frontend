@@ -1,0 +1,45 @@
+{
+  "id": "685daf51-45a1-4520-9159-34c9ff756b09",
+  "title": "The cleaners",
+  "originalTitle": "The Cleaners",
+  "overview": "Two young thugs create a small company called \"The Cleaners\" in order to deceive and rob the rich homeowners using an elaborated scam. After a series of bad luck, they are in the hurry to make their biggest con yet. But their target - a single woman in a luxurious villa - isn't who they think she is.",
+  "backdropPath": "/mqNLMQpUh1vtnSfnmjRnAPOi3LB.jpg",
+  "posterPath": "/lNpRbn0kvOfvFlq0jlKjRTDiYal.jpg",
+  "releaseDate": "2025-07-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "af0d1379-5a27-4199-9d1e-2d832dea1180",
+      "title": "The cleaners",
+      "subtitle": null,
+      "timestampString": "03:18:22",
+      "timestampInSeconds": 11902,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #164",
+        "youtubeId": "8dO_Vj7_jg8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/8dO_Vj7_jg8/hqdefault.jpg",
+        "durationInMinutes": 258,
+        "releaseDate": 1553010517000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

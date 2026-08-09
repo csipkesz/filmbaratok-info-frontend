@@ -1,0 +1,45 @@
+{
+  "id": "9817e1d5-5959-432b-82fb-30d2df471aeb",
+  "title": "Minden idők legelképesztőbb sörfuvarja",
+  "originalTitle": "The Greatest Beer Run Ever",
+  "overview": "Chickie wants to support his friends fighting in Vietnam, so he does something wild—personally bring them American beer. What starts as a well-meaning journey quickly changes Chickie's life and perspective.",
+  "backdropPath": "/7bjaAcbrJDVvdF2Uew6rGp9Tp05.jpg",
+  "posterPath": "/ggf37TpcKaxwguhvtNn6MQpyqBn.jpg",
+  "releaseDate": "2022-09-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "28cf3e79-089b-41fb-9b6a-48a7d1a93532",
+      "title": "Minden idők legelképesztőbb sörfuvarja",
+      "subtitle": null,
+      "timestampString": "02:46:52",
+      "timestampInSeconds": 10012,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #241",
+        "youtubeId": "wkIRMrjPzTE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wkIRMrjPzTE/hqdefault.jpg",
+        "durationInMinutes": 228,
+        "releaseDate": 1665676839000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

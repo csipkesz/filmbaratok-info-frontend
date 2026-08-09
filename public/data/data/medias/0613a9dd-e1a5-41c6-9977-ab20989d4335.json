@@ -1,0 +1,45 @@
+{
+  "id": "0613a9dd-e1a5-41c6-9977-ab20989d4335",
+  "title": "A leleplezés napja",
+  "originalTitle": "Disclosure Day",
+  "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+  "backdropPath": "/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
+  "posterPath": "/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+  "releaseDate": "2026-06-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e357706f-32bb-464e-8898-44d1f9a730a6",
+      "title": "A leleplezés napja [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "02:54:04",
+      "timestampInSeconds": 10444,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #329",
+        "youtubeId": "mMxJ3JAYZY4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/mMxJ3JAYZY4/hqdefault.jpg",
+        "durationInMinutes": 212,
+        "releaseDate": 1782846925000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "723a7ceb-d9b4-406e-aef0-404d26059a4f",
+            "name": "Márk"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4bc2a5e1-0b39-4149-899a-bbff58424525",
+  "title": "A kíméletlen",
+  "originalTitle": "A Prayer Before Dawn",
+  "overview": "The amazing true story of Billy Moore, an English boxer incarcerated in Thailand’s most notorious prison. Thrown into a world of drugs and violence, he finds his best chance to escape is to fight his way out in prison Muay Thai tournaments.",
+  "backdropPath": "/euCBYT2HASDMuaxu23yXDuzy3ju.jpg",
+  "posterPath": "/toYs3tZrHbSKJS1hmiTY1fJnPjm.jpg",
+  "releaseDate": "2018-05-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "51f76428-d86b-415a-baaa-698afe199522",
+      "title": "A kíméletlen",
+      "subtitle": null,
+      "timestampString": "01:51:10",
+      "timestampInSeconds": 6670,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #149",
+        "youtubeId": "VBEVVw6KCTg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VBEVVw6KCTg/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1534514845000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

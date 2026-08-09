@@ -1,0 +1,41 @@
+{
+  "id": "7099b59a-b28f-4cb2-932d-b5605504350a",
+  "title": "Nyomul a banda",
+  "originalTitle": "That Thing You Do!",
+  "overview": "A Pennsylvania band scores a hit in 1964 and rides the star-making machinery as long as it can, with lots of help from its manager. But behind the scenes, the group’s sudden fame tests their strength, their maturity and responsibility, and their ability to resist the temptations that money and notoriety always make possible.",
+  "backdropPath": "/vxhnRV7jGncAZmf0FFHMs6rFHWn.jpg",
+  "posterPath": "/9RmZu33qHdyZFGLfhEOmkTjdNEu.jpg",
+  "releaseDate": "1996-10-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ad1d1e59-f86c-4b79-8f0d-dcfc09bc13af",
+      "title": "Nyomul a banda",
+      "subtitle": null,
+      "timestampString": "02:06:25",
+      "timestampInSeconds": 7585,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #244",
+        "youtubeId": "UDRgd7o114E",
+        "thumbnailUrl": "https://i.ytimg.com/vi/UDRgd7o114E/hqdefault.jpg",
+        "durationInMinutes": 213,
+        "releaseDate": 1669827290000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

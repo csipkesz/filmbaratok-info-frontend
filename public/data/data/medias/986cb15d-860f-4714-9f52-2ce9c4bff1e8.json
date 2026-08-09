@@ -1,0 +1,45 @@
+{
+  "id": "986cb15d-860f-4714-9f52-2ce9c4bff1e8",
+  "title": "Wong foo kösz mindent! Julie Newmar",
+  "originalTitle": "To Wong Foo, Thanks for Everything! Julie Newmar",
+  "overview": "Manhattan drag queens Vida Boheme and Noxeema Jackson impress regional judges in competition, securing berths in the Nationals in Los Angeles. When the two meet pathetic drag novice Chi-Chi Rodriguez — one of the losers that evening — the charmed Vida and Noxeema agree to take the hopeless youngster under their joined wing. Soon the three set off on a madcap road trip across America and struggle to make it to Los Angeles in time.",
+  "backdropPath": "/xga9dXEIJHAjNLGMjw4VDPH7LJB.jpg",
+  "posterPath": "/8bkJiI6N8wDxAtQ49bLUt0qCBII.jpg",
+  "releaseDate": "1995-09-08T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ae9292af-152b-4acb-8ea4-5dffaf1075e5",
+      "title": "Wong foo kösz mindent! Julie Newmar",
+      "subtitle": null,
+      "timestampString": "01:28:40",
+      "timestampInSeconds": 5320,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #273",
+        "youtubeId": "ZOD86br7KhY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ZOD86br7KhY/hqdefault.jpg",
+        "durationInMinutes": 136,
+        "releaseDate": 1709069976000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

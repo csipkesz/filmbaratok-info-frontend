@@ -1,0 +1,45 @@
+{
+  "id": "8a7de343-07ba-41d8-a138-987214e63bd1",
+  "title": "Mulan [2009]",
+  "originalTitle": "花木兰",
+  "overview": "When barbarian hordes threaten her homeland, the brave and cunning Mulan disguises herself as a male soldier to swell the ranks in her aging father's stead. The warrior's remarkable courage drives her through powerful battle scenes and brutal wartime strategy. Mulan loses dear friends to the enemy's blade as she rises to become one of her country's most valuable leaders — but can she win the war before her secret is exposed?",
+  "backdropPath": "/rBhSUf8CHwZ442maEvF0tF4CoMd.jpg",
+  "posterPath": "/cnaoBXyHN1RCXbQ2TVA7U1dt2TG.jpg",
+  "releaseDate": "2009-11-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "18f9d7d6-54e6-4320-bcee-6d9c8ee947a3",
+      "title": "Mulan [2009]",
+      "subtitle": null,
+      "timestampString": "01:50:42",
+      "timestampInSeconds": 6642,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #202",
+        "youtubeId": "E2b82odyb3w",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E2b82odyb3w/hqdefault.jpg",
+        "durationInMinutes": 223,
+        "releaseDate": 1608135119000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

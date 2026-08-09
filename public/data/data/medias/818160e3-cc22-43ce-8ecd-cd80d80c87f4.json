@@ -1,0 +1,41 @@
+{
+  "id": "818160e3-cc22-43ce-8ecd-cd80d80c87f4",
+  "title": "Ádám almái",
+  "originalTitle": "Adams æbler",
+  "overview": "A neo-nazi sentenced to community service at a church clashes with the blindly devotional priest.",
+  "backdropPath": "/iVnsOj0MtVE1lzfillNAPqCdhpR.jpg",
+  "posterPath": "/kBP0xOOaAT9rmJZGVxrolRk87AR.jpg",
+  "releaseDate": "2005-04-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1fd13e57-ee74-4a7d-8c6b-ac895869a026",
+      "title": "Ádám almái",
+      "subtitle": null,
+      "timestampString": "02:29:23",
+      "timestampInSeconds": 8963,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #321",
+        "youtubeId": "ASzT3k0iUdk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ASzT3k0iUdk/hqdefault.jpg",
+        "durationInMinutes": 176,
+        "releaseDate": 1772128964000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "ae05942b-f8c3-45d8-ba84-dc7d5d74c463",
+  "title": "X-Men: Sötét Főnix",
+  "originalTitle": "Dark Phoenix",
+  "overview": "The X-Men face their most formidable and powerful foe when one of their own, Jean Grey, starts to spiral out of control. During a rescue mission in outer space, Jean is nearly killed when she's hit by a mysterious cosmic force. Once she returns home, this force not only makes her infinitely more powerful, but far more unstable. The X-Men must now band together to save her soul and battle aliens that want to use Grey's new abilities to rule the galaxy.",
+  "backdropPath": "/cjRUhKyt2Jo3V1KNzc5tpPNfccG.jpg",
+  "posterPath": "/cCTJPelKGLhALq3r51A9uMonxKj.jpg",
+  "releaseDate": "2019-06-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2b2493a5-f90b-4302-b674-b56c4c9483e2",
+      "title": "X-Men: Sötét Főnix",
+      "subtitle": null,
+      "timestampString": "00:32:40",
+      "timestampInSeconds": 1960,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #170",
+        "youtubeId": "tw65hAXphtM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tw65hAXphtM/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1561124178000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

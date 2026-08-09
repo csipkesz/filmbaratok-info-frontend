@@ -1,0 +1,45 @@
+{
+  "id": "57dbd906-68df-40ad-bfb7-4f6608973cd8",
+  "title": "Snowden",
+  "originalTitle": "Snowden",
+  "overview": "CIA employee Edward Snowden leaks thousands of classified documents to the press.",
+  "backdropPath": "/mYZYVrQ2ghU3m79q7byeLzNXo1M.jpg",
+  "posterPath": "/yfK7zxNL63VWfluFuoUaJj5PdNw.jpg",
+  "releaseDate": "2016-09-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "833e1cf2-8b3d-4366-8e2e-414815b80d93",
+      "title": "Snowden",
+      "subtitle": null,
+      "timestampString": "01:34:20",
+      "timestampInSeconds": 5660,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #107",
+        "youtubeId": "nil8BrN67hQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nil8BrN67hQ/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1475265113000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "683340f5-5656-4c13-a8db-8646b552c880",
+            "name": "Emese"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

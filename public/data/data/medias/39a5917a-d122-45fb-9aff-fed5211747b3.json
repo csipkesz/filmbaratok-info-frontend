@@ -1,0 +1,45 @@
+{
+  "id": "39a5917a-d122-45fb-9aff-fed5211747b3",
+  "title": "A rosszfiúk",
+  "originalTitle": "The Bad Guys",
+  "overview": "When the Bad Guys, a crew of criminal animals, are finally caught after years of heists and being the world’s most-wanted villains, Mr. Wolf brokers a deal to save them all from prison.",
+  "backdropPath": "/oXx1QZzeF5V3HMQ11q6WCkA2pQh.jpg",
+  "posterPath": "/7qop80YfuO0BwJa1uXk1DXUUEwv.jpg",
+  "releaseDate": "2022-03-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7fdff07c-609e-407e-9c6d-c4313d671b8b",
+      "title": "A rosszfiúk",
+      "subtitle": null,
+      "timestampString": "02:03:20",
+      "timestampInSeconds": 7400,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #232",
+        "youtubeId": "9TzGQXyouWk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9TzGQXyouWk/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1651670332000,
+        "participants": [
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

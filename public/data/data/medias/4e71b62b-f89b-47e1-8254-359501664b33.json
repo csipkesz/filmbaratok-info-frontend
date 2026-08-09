@@ -1,0 +1,45 @@
+{
+  "id": "4e71b62b-f89b-47e1-8254-359501664b33",
+  "title": "A Lego-kaland 2",
+  "originalTitle": "The Lego Movie 2: The Second Part",
+  "overview": "It's been five years since everything was awesome and the citizens are facing a huge new threat: LEGO DUPLO® invaders from outer space, wrecking everything faster than they can rebuild.",
+  "backdropPath": "/2U2h8PpsaWn90jdtyG0tu9ZxttZ.jpg",
+  "posterPath": "/QTESAsBVZwjtGJNDP7utiGV37z.jpg",
+  "releaseDate": "2019-02-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f0047fc8-913f-41ce-af33-ea3aee346a9d",
+      "title": "A Lego-kaland 2",
+      "subtitle": null,
+      "timestampString": "00:39:30",
+      "timestampInSeconds": 2370,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #162",
+        "youtubeId": "Pm_3kToMJek",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Pm_3kToMJek/hqdefault.jpg",
+        "durationInMinutes": 231,
+        "releaseDate": 1550070901000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

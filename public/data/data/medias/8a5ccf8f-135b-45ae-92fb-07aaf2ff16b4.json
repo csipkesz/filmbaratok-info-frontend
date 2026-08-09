@@ -1,0 +1,41 @@
+{
+  "id": "8a5ccf8f-135b-45ae-92fb-07aaf2ff16b4",
+  "title": "A kötél",
+  "originalTitle": "Rope",
+  "overview": "Two young men attempt to prove they committed the perfect murder by hosting a dinner party for the family of a classmate they just strangled to death.",
+  "backdropPath": "/81LX4wktTXWEXjLNlkHTmJm7tRu.jpg",
+  "posterPath": "/9ar6rxLDB8kagAnXZKn6h9smscr.jpg",
+  "releaseDate": "1948-02-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "973e825d-56b3-45e3-925d-e70f22cd9f07",
+      "title": "A kötél",
+      "subtitle": null,
+      "timestampString": "03:25:18",
+      "timestampInSeconds": 12318,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #149",
+        "youtubeId": "VBEVVw6KCTg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VBEVVw6KCTg/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1534514845000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

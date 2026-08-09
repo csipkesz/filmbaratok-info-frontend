@@ -1,0 +1,41 @@
+{
+  "id": "86ab55c9-ea9b-47cd-8627-220e80ce5473",
+  "title": "Az ügyfél",
+  "originalTitle": "The Client",
+  "overview": "A street-wise kid, Mark Sway, sees the suicide of Jerome Clifford, a prominent Louisiana lawyer, whose current client is Barry 'The Blade' Muldano, a Mafia hit-man. Before Jerome shoots himself, he tells Mark where the body of a Senator is buried. Clifford shoots himself and Mark is found at the scene, and both the FBI and the Mafia quickly realize that Mark probably knows more than he says.",
+  "backdropPath": "/ncU6X4hosU9srxqC0hGxajZvAyD.jpg",
+  "posterPath": "/oLdkJ4ZjxPtFSUChdjDQvHM9l75.jpg",
+  "releaseDate": "1994-07-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "86382253-fc31-48c9-9ac4-b1a220bf70df",
+      "title": "Az ügyfél",
+      "subtitle": null,
+      "timestampString": "02:41:35",
+      "timestampInSeconds": 9695,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #120",
+        "youtubeId": "-3teFOfAauw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-3teFOfAauw/hqdefault.jpg",
+        "durationInMinutes": 251,
+        "releaseDate": 1493646027000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "09e3e494-cf6b-483a-b3b7-4ca11dfd8025",
+  "title": "Birkakrimi",
+  "originalTitle": "The Sheep Detectives",
+  "overview": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
+  "backdropPath": "/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg",
+  "posterPath": "/mGWOmj2jHFol3kOGNv1EhbSDDE1.jpg",
+  "releaseDate": "2026-04-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "58329d33-b386-4154-ad2b-2ebe70821b77",
+      "title": "Birkakrimi",
+      "subtitle": null,
+      "timestampString": "01:49:20",
+      "timestampInSeconds": 6560,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #327",
+        "youtubeId": "UYCI_LATeS8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/UYCI_LATeS8/hqdefault.jpg",
+        "durationInMinutes": 221,
+        "releaseDate": 1780218018000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          },
+          {
+            "id": "da3d7e32-762b-407e-8d7d-5dd88cec8bdf",
+            "name": "Szabolcs"
+          }
+        ]
+      }
+    }
+  ]
+}

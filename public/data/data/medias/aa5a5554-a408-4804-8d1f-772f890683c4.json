@@ -1,0 +1,45 @@
+{
+  "id": "aa5a5554-a408-4804-8d1f-772f890683c4",
+  "title": "Tőzsdecápák",
+  "originalTitle": "Wall Street",
+  "overview": "A young and impatient stockbroker is willing to do anything to get to the top, including trading on illegal inside information taken through a ruthless and greedy corporate raider, whom takes the youth under his wing.",
+  "backdropPath": "/v46Uq29FXcl4huvu1Nh7tJ5qAjZ.jpg",
+  "posterPath": "/2tQYq9ntzn2dEwDIGLBSipYPenv.jpg",
+  "releaseDate": "1987-12-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "456fdc1b-3108-46a3-a183-29893eb326d6",
+      "title": "Tőzsdecápák",
+      "subtitle": null,
+      "timestampString": "03:09:10",
+      "timestampInSeconds": 11350,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #162",
+        "youtubeId": "Pm_3kToMJek",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Pm_3kToMJek/hqdefault.jpg",
+        "durationInMinutes": 231,
+        "releaseDate": 1550070901000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

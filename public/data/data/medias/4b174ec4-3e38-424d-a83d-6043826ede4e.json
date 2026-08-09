@@ -1,0 +1,41 @@
+{
+  "id": "4b174ec4-3e38-424d-a83d-6043826ede4e",
+  "title": "Who is America?",
+  "originalTitle": "Who Is America?",
+  "overview": "",
+  "backdropPath": "/4zhHLDXSzJszkzNtVPxP05J7MAU.jpg",
+  "posterPath": "/c9mfeInTpaaft7FzbeAdTj1eCAt.jpg",
+  "releaseDate": "2018-07-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e65355ab-8fd4-4091-bf0c-c53adfd4e444",
+      "title": "Who is America?",
+      "subtitle": null,
+      "timestampString": "02:49:10",
+      "timestampInSeconds": 10150,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #149",
+        "youtubeId": "VBEVVw6KCTg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VBEVVw6KCTg/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1534514845000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

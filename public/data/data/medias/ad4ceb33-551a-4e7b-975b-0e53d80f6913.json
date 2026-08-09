@@ -1,0 +1,41 @@
+{
+  "id": "ad4ceb33-551a-4e7b-975b-0e53d80f6913",
+  "title": "Magas barna férfi felemás cipőben",
+  "originalTitle": "The Man with One Red Shoe",
+  "overview": "A man is mistaken as a spy by the CIA when he arrives at the airport with one red shoe.",
+  "backdropPath": "/1iwpwlP9SafsCxMKieZVlxCjYaa.jpg",
+  "posterPath": "/lD44uiCKnLVCKiEnB0urtqIR0nE.jpg",
+  "releaseDate": "1985-07-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "36ac228f-8051-46a1-8e10-b8f84ff49948",
+      "title": "Magas barna férfi felemás cipőben",
+      "subtitle": null,
+      "timestampString": "00:40:10",
+      "timestampInSeconds": 2410,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #230",
+        "youtubeId": "RCepaQRbkuA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/RCepaQRbkuA/hqdefault.jpg",
+        "durationInMinutes": 119,
+        "releaseDate": 1648791357000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

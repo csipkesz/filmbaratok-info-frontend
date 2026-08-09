@@ -1,0 +1,53 @@
+{
+  "id": "262fbe17-2271-41f0-a7bc-f7db2d72a2e7",
+  "title": "Egy lélegzetnyire",
+  "originalTitle": "Dans la brume",
+  "overview": "When a deadly mist engulfs Paris, people find refuge in the upper floors of the buildings. With no information, no electricity and hardly any supplies, Mathieu, Anna and their daughter Sarah try to survive the disaster.",
+  "backdropPath": "/y6Zh9ICQDjfwI4kChGzDmq9Ku7p.jpg",
+  "posterPath": "/hjePJQDv7GitTrEU67TANuhbytv.jpg",
+  "releaseDate": "2018-04-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b1d1970c-aa7d-49b0-b7cc-96c0799a0bbc",
+      "title": "Egy lélegzetnyire",
+      "subtitle": null,
+      "timestampString": "01:14:00",
+      "timestampInSeconds": 4440,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #145",
+        "youtubeId": "oIN5otdDLXA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/oIN5otdDLXA/hqdefault.jpg",
+        "durationInMinutes": 299,
+        "releaseDate": 1528994767000,
+        "participants": [
+          {
+            "id": "08c9ac79-2034-4299-9ea2-efc1972b9972",
+            "name": "Gábor (Videodrome)"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          },
+          {
+            "id": "fad572d7-4b23-4285-955d-223f31dfe495",
+            "name": "Szöllőskei Gábor"
+          }
+        ]
+      }
+    }
+  ]
+}

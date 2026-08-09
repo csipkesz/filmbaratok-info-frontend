@@ -1,0 +1,49 @@
+{
+  "id": "8d67dabb-17e6-4051-bc2f-a2264d5e49d4",
+  "title": "Interjú a vámpírral",
+  "originalTitle": "Interview with the Vampire",
+  "overview": "A sorozat újraértelmezi és feldolgozza a klasszikus regényt, amiben megismerhetjük Lestat és Louis kalandjait, akik vámpírok New Orleans-ban. Bepillantást nyerhetünk életükbe, és a szörnyeteg fészkébe is beleláthatunk.",
+  "backdropPath": "/1tADVruLbywl7P3TOVQmNza3aAO.jpg",
+  "posterPath": "/mQ0fbfc5ELwb2zjFZM4uwAnN3ee.jpg",
+  "releaseDate": "2022-10-02T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "bab785b3-1f2e-4628-b4f2-fc360ff1fd64",
+      "title": "Interjú a vámpírral",
+      "subtitle": null,
+      "timestampString": "03:18:31",
+      "timestampInSeconds": 11911,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #280",
+        "youtubeId": "hOuoPd65teo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/hOuoPd65teo/hqdefault.jpg",
+        "durationInMinutes": 259,
+        "releaseDate": 1718650807000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "9ff3b238-e4d7-497b-b1cf-62c7df5f0b35",
+  "title": "Richard Jewell balladája",
+  "originalTitle": "Richard Jewell",
+  "overview": "Richard Jewell thinks quick, works fast, and saves hundreds, perhaps thousands, of lives after a domestic terrorist plants several pipe bombs and they explode during a concert, only to be falsely suspected of the crime by sloppy FBI work and sensational media coverage.",
+  "backdropPath": "/zAfG4ZmpNfKSyr8MVn1CHjgYYXx.jpg",
+  "posterPath": "/5Lgkm8jt4roAFPZQ52fKMhVmDaZ.jpg",
+  "releaseDate": "2019-12-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "28c6dd93-0bdd-4565-979c-6827e2132618",
+      "title": "Richard Jewell balladája",
+      "subtitle": null,
+      "timestampString": "01:55:20",
+      "timestampInSeconds": 6920,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #185",
+        "youtubeId": "eq07jUces30",
+        "thumbnailUrl": "https://i.ytimg.com/vi/eq07jUces30/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1582698378000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

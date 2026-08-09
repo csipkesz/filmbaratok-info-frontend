@@ -1,0 +1,28 @@
+{
+  "id": "7857cd79-f8ad-4278-808f-9444387511aa",
+  "title": "Micsoda csapat!",
+  "originalTitle": "A League of Their Own",
+  "overview": "",
+  "backdropPath": "/6oJtdTvMqpxS9sztOcmlAVdRZDI.jpg",
+  "posterPath": "/3sqXMRpidT15QylW6GlQFuGpGCc.jpg",
+  "releaseDate": "2022-08-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8247e012-cdc1-4288-b6dd-37f8a20200e4",
+      "title": "Micsoda csapat!",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Micsoda csapat!",
+        "youtubeId": "8_Ub41dRLac",
+        "thumbnailUrl": "https://i.ytimg.com/vi/8_Ub41dRLac/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1595233800000,
+        "participants": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "919ea7b7-d04e-4830-a4e3-79e5de3221aa",
+  "title": "A Vihar kapujában",
+  "originalTitle": "羅生門",
+  "overview": "Four people recount different versions of the story of a man's murder and the rape of his wife.",
+  "backdropPath": "/tDn1dA52bQH9B85vilHeU7C83W1.jpg",
+  "posterPath": "/ijWibsAU1iBcCD8tuIZfTmDzMVE.jpg",
+  "releaseDate": "1950-08-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9781a454-3be7-4af5-9a5e-941e970a846f",
+      "title": "A Vihar kapujában",
+      "subtitle": null,
+      "timestampString": "02:27:02",
+      "timestampInSeconds": 8822,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #73",
+        "youtubeId": "CojqY6DJFQM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/CojqY6DJFQM/hqdefault.jpg",
+        "durationInMinutes": 197,
+        "releaseDate": 1431625186000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

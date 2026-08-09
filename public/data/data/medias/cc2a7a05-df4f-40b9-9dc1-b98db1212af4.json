@@ -1,0 +1,45 @@
+{
+  "id": "cc2a7a05-df4f-40b9-9dc1-b98db1212af4",
+  "title": "Guy Ritchie's The Covenant",
+  "originalTitle": "Guy Ritchie's The Covenant",
+  "overview": "After an ambush, Afghan interpreter Ahmed goes to Herculean lengths to save US Army Sergeant John Kinley's life. When Kinley learns that Ahmed and his family were not given safe passage to America as promised, he must return to the war zone and repay his debt.",
+  "backdropPath": "/eTvN54pd83TrSEOz6wbsXEJktCV.jpg",
+  "posterPath": "/kVG8zFFYrpyYLoHChuEeOGAd6Ru.jpg",
+  "releaseDate": "2023-04-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6ad577c9-84cf-46f6-964f-4a4e06718879",
+      "title": "Guy Ritchie's The Covenant",
+      "subtitle": null,
+      "timestampString": "02:19:45",
+      "timestampInSeconds": 8385,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #255",
+        "youtubeId": "z9qYgREOM9c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z9qYgREOM9c/hqdefault.jpg",
+        "durationInMinutes": 258,
+        "releaseDate": 1685482206000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

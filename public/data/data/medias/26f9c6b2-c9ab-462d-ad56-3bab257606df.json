@@ -1,0 +1,41 @@
+{
+  "id": "26f9c6b2-c9ab-462d-ad56-3bab257606df",
+  "title": "A védelmező 3",
+  "originalTitle": "The Equalizer 3",
+  "overview": "Robert McCall finds himself at home in Southern Italy but he discovers his friends are under the control of local crime bosses. As events turn deadly, McCall knows what he has to do: become his friends' protector by taking on the mafia.",
+  "backdropPath": "/gystuaqp5AkVqqu3Nf0564zeOv4.jpg",
+  "posterPath": "/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg",
+  "releaseDate": "2023-08-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7dc07868-c86e-40d7-9f66-23a036b292db",
+      "title": "A védelmező 3",
+      "subtitle": null,
+      "timestampString": "01:19:23",
+      "timestampInSeconds": 4763,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #262",
+        "youtubeId": "vHivX-OmQEI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/vHivX-OmQEI/hqdefault.jpg",
+        "durationInMinutes": 199,
+        "releaseDate": 1695357459000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "506b0da8-6a0e-496d-909e-e22128bd2ce9",
+  "title": "Jexi - Túl okos telefon",
+  "originalTitle": "Jexi",
+  "overview": "Phil's new phone comes with an unexpected feature, Jexi...an A.I. determined to keep him all to herself in a comedy about what can happen when you love your phone more than all else.",
+  "backdropPath": "/s5mWOQ4rc90hhRebpBHdW0f1gix.jpg",
+  "posterPath": "/sizYjc8lAFStRZXtI1uRBDsOTt6.jpg",
+  "releaseDate": "2019-10-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f66d74dc-1f96-404c-903c-06f775f2b140",
+      "title": "Jexi - Túl okos telefon",
+      "subtitle": null,
+      "timestampString": "02:34:30",
+      "timestampInSeconds": 9270,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #183",
+        "youtubeId": "uA5tRdykPyw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uA5tRdykPyw/hqdefault.jpg",
+        "durationInMinutes": 277,
+        "releaseDate": 1579802407000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

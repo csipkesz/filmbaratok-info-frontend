@@ -1,0 +1,62 @@
+{
+  "id": "c6ec8e2d-3fbd-4889-ac1d-e961f0c3368a",
+  "title": "A Hail Mary-küldetés",
+  "originalTitle": "Project Hail Mary",
+  "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+  "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+  "posterPath": "/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+  "releaseDate": "2026-03-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "47608693-27bd-43f2-b0e0-f0de5119554d",
+      "title": "A Hail Mary-küldetés",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: A Hail Mary-küldetés",
+        "youtubeId": "G-Zj84p7T1k",
+        "thumbnailUrl": "https://i.ytimg.com/vi/G-Zj84p7T1k/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1775891593000,
+        "participants": []
+      }
+    },
+    {
+      "id": "d3682908-421e-4181-8f4a-a4fbe0635af2",
+      "title": "A Hail Mary-küldetés",
+      "subtitle": null,
+      "timestampString": "01:03:40",
+      "timestampInSeconds": 3820,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #323",
+        "youtubeId": "1Y8m-2qsHhw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/1Y8m-2qsHhw/hqdefault.jpg",
+        "durationInMinutes": 209,
+        "releaseDate": 1775020201000,
+        "participants": [
+          {
+            "id": "202ee440-1f5d-4590-a0e8-822ce80899ce",
+            "name": "Zétény"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

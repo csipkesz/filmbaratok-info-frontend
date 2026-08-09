@@ -1,0 +1,41 @@
+{
+  "id": "38a1f7f9-4c0e-41b4-a752-ed4757ad7ad2",
+  "title": "Egy kis szívesség",
+  "originalTitle": "A Simple Favor",
+  "overview": "Stephanie, a dedicated mother and popular vlogger, befriends Emily, a mysterious upper-class woman whose son Nicky attends the same school as Miles, Stephanie's son. When Emily asks her to pick Nicky up from school and then disappears, Stephanie undertakes an investigation that will dive deep into Emily's cloudy past.",
+  "backdropPath": "/1Qd8vjISNiKNT2l5PxkJZpItyW3.jpg",
+  "posterPath": "/aIYsjQM0piKc0ibPBCTWv3sqshj.jpg",
+  "releaseDate": "2018-09-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "eac76d53-37f1-4e2a-a6fb-b9a0076881e6",
+      "title": "Egy kis szívesség",
+      "subtitle": null,
+      "timestampString": "03:01:51",
+      "timestampInSeconds": 10911,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #151",
+        "youtubeId": "hcylcX_kgM0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/hcylcX_kgM0/hqdefault.jpg",
+        "durationInMinutes": 234,
+        "releaseDate": 1537428229000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

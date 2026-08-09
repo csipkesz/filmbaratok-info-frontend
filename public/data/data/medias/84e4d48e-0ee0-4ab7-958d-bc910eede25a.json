@@ -1,0 +1,45 @@
+{
+  "id": "84e4d48e-0ee0-4ab7-958d-bc910eede25a",
+  "title": "Strange Darling",
+  "originalTitle": "Strange Darling",
+  "overview": "Nothing is what it seems when a twisted one-night stand spirals into a serial killer’s vicious murder spree.",
+  "backdropPath": "/I4ofwq3XfmwXAETUs5pjubcMJ0.jpg",
+  "posterPath": "/kWNCRgt3ocv19bYO0sk7TRuZuFY.jpg",
+  "releaseDate": "2024-08-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "380d1713-ff4a-4189-b244-9d0b78da6658",
+      "title": "Strange Darling",
+      "subtitle": null,
+      "timestampString": "03:53:16",
+      "timestampInSeconds": 13996,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #316",
+        "youtubeId": "tj6Fv2PRYFw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tj6Fv2PRYFw/hqdefault.jpg",
+        "durationInMinutes": 318,
+        "releaseDate": 1765639323000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "87fee4d6-ee79-4a6d-8195-7c01c868dfba",
+  "title": "Papírvárosok",
+  "originalTitle": "Paper Towns",
+  "overview": "Quentin Jacobsen has spent a lifetime loving the magnificently adventurous Margo Roth Spiegelman from afar. So when she cracks open a window and climbs back into his life dressed like a ninja and summoning him for an ingenious campaign of revenge, he follows. After their all-nighter ends and a new day breaks, Quentin arrives at school to discover that Margo, always an enigma, has now become a mystery. But Quentin soon learns that there are clues, and they're for him. Urged down a disconnected path, the closer Quentin gets, the less he sees of the girl he thought he knew.",
+  "backdropPath": "/mwoIzHsliirmS0IlSrf2DvVouid.jpg",
+  "posterPath": "/lVW67w7eWwmBhbBCc4f983pO8m6.jpg",
+  "releaseDate": "2015-06-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e26b3bdc-34c9-451b-b54e-3665db4454ec",
+      "title": "Papírvárosok",
+      "subtitle": null,
+      "timestampString": "02:58:38",
+      "timestampInSeconds": 10718,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #330",
+        "youtubeId": "AgwfP4V1UCo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/AgwfP4V1UCo/hqdefault.jpg",
+        "durationInMinutes": 207,
+        "releaseDate": 1784150438000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "723a7ceb-d9b4-406e-aef0-404d26059a4f",
+            "name": "Márk"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "94663300-13f9-481b-9d45-3a9e61e53583",
+  "title": "Külön falka",
+  "originalTitle": "Külön falka",
+  "overview": "Tibor and Niki, father and daughter. The young girl was only five years old when they last saw each other, before Tibor was sent to prison. He is released seven years later and tries not to think about the past. Yet he can’t erase his daughter from his life and so they are compelled to start over from the beginning. Both are irresistibly charismatic, headstrong and irascible, but also determined to find a way back to one another.",
+  "backdropPath": "/i6nTaWRwYRm9EQlObo5vgPPowdF.jpg",
+  "posterPath": "/dXusX2lsY0dvZWqGlfzjP1Ix5uX.jpg",
+  "releaseDate": "2021-09-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "916d896b-a78f-471e-818a-2a1f633f2c86",
+      "title": "Külön falka",
+      "subtitle": null,
+      "timestampString": "02:48:20",
+      "timestampInSeconds": 10100,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #220",
+        "youtubeId": "V6uGh9dBdAw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/V6uGh9dBdAw/hqdefault.jpg",
+        "durationInMinutes": 284,
+        "releaseDate": 1634383916000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

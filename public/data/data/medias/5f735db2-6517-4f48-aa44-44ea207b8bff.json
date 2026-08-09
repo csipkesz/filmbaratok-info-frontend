@@ -1,0 +1,45 @@
+{
+  "id": "5f735db2-6517-4f48-aa44-44ea207b8bff",
+  "title": "Húzós éjszaka az El Royale-ban",
+  "originalTitle": "Bad Times at the El Royale",
+  "overview": "Lake Tahoe, 1969. Seven strangers, each one with a secret to bury, meet at El Royale, a decadent motel with a dark past. In the course of a fateful night, everyone will have one last shot at redemption.",
+  "backdropPath": "/gb3TVVZNNxVGNfS1NxGaiWZfwnW.jpg",
+  "posterPath": "/qExufIc4Rw0e4xdVZlhMdmEDGES.jpg",
+  "releaseDate": "2018-10-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c344b63c-18c1-49d5-81a4-40d93ec5af4b",
+      "title": "Húzós éjszaka az El Royale-ban",
+      "subtitle": null,
+      "timestampString": "01:52:55",
+      "timestampInSeconds": 6775,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #154",
+        "youtubeId": "8kJ3-leKXJo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/8kJ3-leKXJo/hqdefault.jpg",
+        "durationInMinutes": 220,
+        "releaseDate": 1541001500000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

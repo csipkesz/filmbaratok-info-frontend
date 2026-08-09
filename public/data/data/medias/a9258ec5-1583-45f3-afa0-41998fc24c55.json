@@ -1,0 +1,45 @@
+{
+  "id": "a9258ec5-1583-45f3-afa0-41998fc24c55",
+  "title": "Exodus: Istenek és Királyok",
+  "originalTitle": "Exodus: Gods and Kings",
+  "overview": "The defiant leader Moses rises up against the Egyptian Pharaoh Ramses, setting 400,000 slaves on a monumental journey of escape from Egypt and its terrifying cycle of deadly plagues.",
+  "backdropPath": "/hJ1jUw8irCiWwQk7BElxF92BrlK.jpg",
+  "posterPath": "/uaDj37JtvLan9tihxZ18e6qL33b.jpg",
+  "releaseDate": "2014-12-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8e2b64c5-6bc1-40f9-a668-71dd3147d0be",
+      "title": "Exodus: Istenek és Királyok",
+      "subtitle": null,
+      "timestampString": "01:05:54",
+      "timestampInSeconds": 3954,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #63",
+        "youtubeId": "PgKECs1kHoY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/PgKECs1kHoY/hqdefault.jpg",
+        "durationInMinutes": 195,
+        "releaseDate": 1418847403000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

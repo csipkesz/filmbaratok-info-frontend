@@ -1,0 +1,41 @@
+{
+  "id": "94d7195a-10c5-47a4-8042-50a17c441945",
+  "title": "A homok alatt",
+  "originalTitle": "Under sandet",
+  "overview": "In the days following the surrender of Germany in May 1945, a group of young German prisoners of war is handed over to the Danish authorities and subsequently sent to the West Coast, where they are ordered to remove the more than two million mines that the Germans had placed in the sand along the coast. With their bare hands, crawling around in the sand, the boys are forced to perform the dangerous work under the leadership of a Danish sergeant.",
+  "backdropPath": "/vkzeh2G7Gwapo4J1eqGWRph2hCs.jpg",
+  "posterPath": "/7TOYH2VDnYbXpBKlrkdQZUSC3Du.jpg",
+  "releaseDate": "2015-12-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "02386379-390d-4308-8888-0ee66e53b5bc",
+      "title": "A homok alatt",
+      "subtitle": null,
+      "timestampString": "02:28:20",
+      "timestampInSeconds": 8900,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #120",
+        "youtubeId": "-3teFOfAauw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-3teFOfAauw/hqdefault.jpg",
+        "durationInMinutes": 251,
+        "releaseDate": 1493646027000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ac12399e-065a-418e-815f-f87c058f543f",
+  "title": "Logan",
+  "originalTitle": "Logan",
+  "overview": "In the near future, a weary Logan cares for an ailing Professor X in a hideout on the Mexican border. But Logan's attempts to hide from the world and his legacy are upended when a young mutant arrives, pursued by dark forces.",
+  "backdropPath": "/4DZxWNSAyksN6N3JkvpJ53Yq6zU.jpg",
+  "posterPath": "/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg",
+  "releaseDate": "2017-02-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1d5017ec-828e-4fac-9541-b2084c7cb2e6",
+      "title": "Logan",
+      "subtitle": null,
+      "timestampString": "01:09:05",
+      "timestampInSeconds": 4145,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #118",
+        "youtubeId": "tsYYwq3fdTw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tsYYwq3fdTw/hqdefault.jpg",
+        "durationInMinutes": 239,
+        "releaseDate": 1490634596000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

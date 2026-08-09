@@ -1,0 +1,41 @@
+{
+  "id": "78e1aa67-25a5-42f8-b933-a23dc1ed8535",
+  "title": "Mr. Scorsese",
+  "originalTitle": "Mr. Scorsese",
+  "overview": "Fedezze fel Scorsese életét privát archívuma, barátaival, családjával, legendás munkatársaival és magával a rendezővel folytatott beszélgetések által.",
+  "backdropPath": "/yvToMgv3CHs7T4yQe9EPsMgEXG3.jpg",
+  "posterPath": "/atok9lbfro3hZxGTlaJZWN0BWRM.jpg",
+  "releaseDate": "2025-10-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ef8fd7c3-ebd6-437a-90fa-9d20d1dec756",
+      "title": "Mr. Scorsese",
+      "subtitle": null,
+      "timestampString": "02:08:17",
+      "timestampInSeconds": 7697,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #315 (Életrajzi dokumentumfilmek)",
+        "youtubeId": "pvQvVCuAEDI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/pvQvVCuAEDI/hqdefault.jpg",
+        "durationInMinutes": 229,
+        "releaseDate": 1764442162000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "723a7ceb-d9b4-406e-aef0-404d26059a4f",
+            "name": "Márk"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

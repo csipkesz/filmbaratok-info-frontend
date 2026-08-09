@@ -1,0 +1,45 @@
+{
+  "id": "60b374a7-bf01-497c-9eab-7a9c2adb01b3",
+  "title": "Terrifier 2",
+  "originalTitle": "Terrifier 2",
+  "overview": "A year after the Miles County massacre, Art the Clown is resurrected by a sinister entity. Art returns home, where he must hunt down and destroy teenage Sienna and her younger brother Jonathan on Halloween. As the body count rises, the siblings fight to stay alive while uncovering the true nature of Art's evil intent.",
+  "backdropPath": "/4QJtcL4D3abqdX6Snrk8ciRkroa.jpg",
+  "posterPath": "/qEAlwXbYk6IHA4ztoS2XFFaa7Xo.jpg",
+  "releaseDate": "2022-10-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d64de970-2cc5-4a5e-9d15-f09994cd0e98",
+      "title": "Terrifier 2",
+      "subtitle": null,
+      "timestampString": "04:53:00",
+      "timestampInSeconds": 17580,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #316",
+        "youtubeId": "tj6Fv2PRYFw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tj6Fv2PRYFw/hqdefault.jpg",
+        "durationInMinutes": 318,
+        "releaseDate": 1765639323000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

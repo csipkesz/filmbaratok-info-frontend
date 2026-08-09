@@ -1,0 +1,45 @@
+{
+  "id": "8bc4ad2e-1f02-473f-b441-8041038525c7",
+  "title": "Flash - A villám",
+  "originalTitle": "The Flash",
+  "overview": "When his attempt to save his family inadvertently alters the future, Barry Allen becomes trapped in a reality in which General Zod has returned and there are no Super Heroes to turn to. In order to save the world that he is in and return to the future that he knows, Barry's only hope is to race for his life. But will making the ultimate sacrifice be enough to reset the universe?",
+  "backdropPath": "/yF1eOkaYvwiORauRCPWznV9xVvi.jpg",
+  "posterPath": "/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
+  "releaseDate": "2023-06-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d775d99a-e2fd-428d-8cb7-3276e1c44722",
+      "title": "Flash - A villám [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "01:14:40",
+      "timestampInSeconds": 4480,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #257",
+        "youtubeId": "Jm_IXtsLHnw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Jm_IXtsLHnw/hqdefault.jpg",
+        "durationInMinutes": 280,
+        "releaseDate": 1687629613000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

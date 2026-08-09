@@ -1,0 +1,45 @@
+{
+  "id": "0d7c5bc3-dcb8-4248-820b-9e759be11ccc",
+  "title": "Amerikai Pite 2",
+  "originalTitle": "American Pie 2",
+  "overview": "After a year apart - attending different schools, meeting different people - the guys rent a beach house and vow to make this the best summer ever. As it turns out, whether that will happen or not has a lot to do with the girls. Between the wild parties, outrageous revelations and yes, a trip to band camp, they discover that times change and people change, but in the end, it's all about sticking together.",
+  "backdropPath": "/as3gvp4DIXVRlXsj5x7OWPQI5lI.jpg",
+  "posterPath": "/854ZZxXdeabAs90mrV72NqShJqR.jpg",
+  "releaseDate": "2001-08-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "38b579c1-8df4-4a4f-b9b0-56efdc2da208",
+      "title": "Amerikai Pite 2",
+      "subtitle": null,
+      "timestampString": "03:12:25",
+      "timestampInSeconds": 11545,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #286",
+        "youtubeId": "ZbuQSmPb5sM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ZbuQSmPb5sM/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1726511195000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

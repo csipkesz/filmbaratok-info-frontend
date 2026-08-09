@@ -1,0 +1,45 @@
+{
+  "id": "2e136ab5-185f-4208-b9af-c7ea315d8164",
+  "title": "Mad Max 2",
+  "originalTitle": "Mad Max 2",
+  "overview": "Max Rockatansky returns as the heroic loner who drives the dusty roads of a postapocalyptic Australian Outback in an unending search for gasoline. Arrayed against him and the other scraggly defendants of a fuel-depot encampment are the bizarre warriors commanded by the charismatic Lord Humungus, a violent leader whose scruples are as barren as the surrounding landscape.",
+  "backdropPath": "/MMSI9WzRmOdqXarevQ3Kqnytrx.jpg",
+  "posterPath": "/l1KVEhkGDpWRzQ0VqIhZqDDuOim.jpg",
+  "releaseDate": "1981-12-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "dc4fb2a3-a44c-4e47-bf13-655f6bc9df41",
+      "title": "Mad Max 2",
+      "subtitle": null,
+      "timestampString": "02:36:00",
+      "timestampInSeconds": 9360,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #265",
+        "youtubeId": "W7K_jzS7pPg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/W7K_jzS7pPg/hqdefault.jpg",
+        "durationInMinutes": 254,
+        "releaseDate": 1698781502000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

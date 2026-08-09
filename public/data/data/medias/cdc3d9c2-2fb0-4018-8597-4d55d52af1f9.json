@@ -1,0 +1,45 @@
+{
+  "id": "cdc3d9c2-2fb0-4018-8597-4d55d52af1f9",
+  "title": "A fülke",
+  "originalTitle": "Phone Booth",
+  "overview": "A slick New York publicist who picks up a ringing receiver in a phone booth is told that if he hangs up, he'll be killed... and the little red light from a laser rifle sight is proof that the caller isn't kidding.",
+  "backdropPath": "/iYOEONglnxIsykyOGfzyc01fyg4.jpg",
+  "posterPath": "/r6lIwPKVDa6Q76qH2TbIBqPhXL3.jpg",
+  "releaseDate": "2003-01-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e0eac963-97f9-40c9-9174-a92eddc3e738",
+      "title": "A fülke",
+      "subtitle": null,
+      "timestampString": "03:05:37",
+      "timestampInSeconds": 11137,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #194",
+        "youtubeId": "2m4_RXJX-Pw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/2m4_RXJX-Pw/hqdefault.jpg",
+        "durationInMinutes": 236,
+        "releaseDate": 1596041624000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "465eb549-2e74-46d4-9d72-df2e21471883",
+            "name": "Anna"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

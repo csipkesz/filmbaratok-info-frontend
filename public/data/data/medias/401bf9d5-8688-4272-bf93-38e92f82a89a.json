@@ -1,0 +1,45 @@
+{
+  "id": "401bf9d5-8688-4272-bf93-38e92f82a89a",
+  "title": "Palm Springs",
+  "originalTitle": "Palm Springs",
+  "overview": "When carefree Nyles and reluctant maid of honor Sarah have a chance encounter at a Palm Springs wedding, things get complicated when they find themselves unable to escape the venue, themselves, or each other.",
+  "backdropPath": "/d7JUXVvjvVCXWs1mlpyO5ESdWdT.jpg",
+  "posterPath": "/gnAfqiV7yO3Jq9IntTmwkcaICqc.jpg",
+  "releaseDate": "2020-07-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ab5213b1-9a51-4cd5-a9ae-0876c3c5a43e",
+      "title": "Palm Springs",
+      "subtitle": null,
+      "timestampString": "02:51:36",
+      "timestampInSeconds": 10296,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #194",
+        "youtubeId": "2m4_RXJX-Pw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/2m4_RXJX-Pw/hqdefault.jpg",
+        "durationInMinutes": 236,
+        "releaseDate": 1596041624000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "465eb549-2e74-46d4-9d72-df2e21471883",
+            "name": "Anna"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

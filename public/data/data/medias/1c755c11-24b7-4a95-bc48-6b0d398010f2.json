@@ -1,0 +1,28 @@
+{
+  "id": "1c755c11-24b7-4a95-bc48-6b0d398010f2",
+  "title": "Zsarufilm",
+  "originalTitle": "Una película de policías",
+  "overview": "This documentary walks the line between fact and fiction, delving into corruption in the Mexican police through the experiences of two officers.",
+  "backdropPath": "/uhTQG1X4dD0ItT4foUvaHvbhKhG.jpg",
+  "posterPath": "/hlq6tv7sFAA7LtNu7Rk8Fw6Kfu1.jpg",
+  "releaseDate": "2021-10-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "10429b76-df5b-475b-8955-68aad77aeb36",
+      "title": "Zsarufilm",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Zsarufilm",
+        "youtubeId": "vhAS2s-f75w",
+        "thumbnailUrl": "https://i.ytimg.com/vi/vhAS2s-f75w/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1646820100000,
+        "participants": []
+      }
+    }
+  ]
+}

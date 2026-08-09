@@ -1,0 +1,45 @@
+{
+  "id": "a612dd24-5deb-4f58-a19e-7483b1c08b62",
+  "title": "A profi",
+  "originalTitle": "Le Professionnel",
+  "overview": "Josselin Beaumont, a French secret agent, is tasked with assassinating Njala, the president for life of Malawi in Africa. A shift in French policy means that assassinating Njala is no longer an option. But instead of recalling their agent, high-ranking officials deliberately sacrifice Beaumont by handing him over to the Malawian authorities. Arrested, tried, and imprisoned, he nevertheless manages to escape. Back in Paris after a two-year absence, he informs his superiors through Colonel Martin that he will fulfill his contract during Njala’s upcoming official visit to Paris between the 12th and 15th of this month, and that he has a few scores to settle with the D.G.S.E. The question is, should Beaumont be stopped or not?",
+  "backdropPath": "/vW3zPkA9OdSr2UvDfa4b0UGc1Id.jpg",
+  "posterPath": "/dhAZ8T0tTlTNw3D7Cn8wc87sk1w.jpg",
+  "releaseDate": "1981-10-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1bb0e1a4-3897-4b61-8fdb-625948b80091",
+      "title": "A profi",
+      "subtitle": null,
+      "timestampString": "02:44:40",
+      "timestampInSeconds": 9880,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #331",
+        "youtubeId": "cygAIMZOaYA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/cygAIMZOaYA/hqdefault.jpg",
+        "durationInMinutes": 229,
+        "releaseDate": 1785534622000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

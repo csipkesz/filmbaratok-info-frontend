@@ -1,0 +1,45 @@
+{
+  "id": "53c5e69c-3fa4-484e-af0f-fcdb1ac85442",
+  "title": "Időhurok",
+  "originalTitle": "Predestination",
+  "overview": "Predestination chronicles the life of a Temporal Agent sent on an intricate series of time-travel journeys designed to prevent future killers from committing their crimes. Now, on his final assignment, the Agent must stop the one criminal that has eluded him throughout time and prevent a devastating attack in which thousands of lives will be lost.",
+  "backdropPath": "/cvq9cRMDJIGzNpHaPVGFftqPcLj.jpg",
+  "posterPath": "/38Xr1JnV1ZcLQ55zmdSp6n475cZ.jpg",
+  "releaseDate": "2014-08-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5e561c74-a88a-48bd-94eb-2f622f461176",
+      "title": "Időhurok",
+      "subtitle": null,
+      "timestampString": "01:23:34",
+      "timestampInSeconds": 5014,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #63",
+        "youtubeId": "PgKECs1kHoY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/PgKECs1kHoY/hqdefault.jpg",
+        "durationInMinutes": 195,
+        "releaseDate": 1418847403000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

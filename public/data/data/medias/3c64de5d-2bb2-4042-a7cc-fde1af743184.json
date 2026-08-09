@@ -1,0 +1,45 @@
+{
+  "id": "3c64de5d-2bb2-4042-a7cc-fde1af743184",
+  "title": "Hét év Tibetben",
+  "originalTitle": "Seven Years in Tibet",
+  "overview": "Austrian mountaineer Heinrich Harrer journeys to the Himalayas without his family to head an expedition in 1939. But when World War II breaks out, the arrogant Harrer falls into Allied forces' hands as a prisoner of war. He escapes with a fellow detainee and makes his way to Lhasa, Tibet, where he meets the 14-year-old Dalai Lama, whose friendship ultimately transforms his outlook on life.",
+  "backdropPath": "/athnSvS41TEHOSK2Ax0LAM0ulDp.jpg",
+  "posterPath": "/qm87HHUew8ICtUCM4asO3gFYvby.jpg",
+  "releaseDate": "1997-09-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "710a1a35-9846-47f1-ad08-90c7f2516fd4",
+      "title": "Hét év Tibetben",
+      "subtitle": null,
+      "timestampString": "02:20:00",
+      "timestampInSeconds": 8400,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #189",
+        "youtubeId": "hxWb25N1tUo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/hxWb25N1tUo/hqdefault.jpg",
+        "durationInMinutes": 192,
+        "releaseDate": 1588723210000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          },
+          {
+            "id": "e1c5bea2-4813-41d4-94a7-04e868516b51",
+            "name": "Pamkutya"
+          }
+        ]
+      }
+    }
+  ]
+}

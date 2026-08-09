@@ -1,0 +1,45 @@
+{
+  "id": "cfac550c-2c25-480b-991d-416ef24cb7c2",
+  "title": "Robotzsaru [1987]",
+  "originalTitle": "RoboCop",
+  "overview": "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company's nefarious plans, he turns on his masters.",
+  "backdropPath": "/xcaX6BZ1JUPSVMH2gBkWIckLLaA.jpg",
+  "posterPath": "/hHtOgGb3NihlyRATHlKPaFApbrd.jpg",
+  "releaseDate": "1987-07-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "aa38b30b-1b55-4155-9821-44dfcb63095a",
+      "title": "Robotzsaru [1987]",
+      "subtitle": null,
+      "timestampString": "00:59:50",
+      "timestampInSeconds": 3590,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #273",
+        "youtubeId": "ZOD86br7KhY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ZOD86br7KhY/hqdefault.jpg",
+        "durationInMinutes": 136,
+        "releaseDate": 1709069976000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

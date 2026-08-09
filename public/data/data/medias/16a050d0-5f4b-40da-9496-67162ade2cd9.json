@@ -1,0 +1,45 @@
+{
+  "id": "16a050d0-5f4b-40da-9496-67162ade2cd9",
+  "title": "Lizzie Borden's Revenge",
+  "originalTitle": "Lizzie Borden's Revenge",
+  "overview": "A group of sorority girls are having a slumber party at their house. One of the new sorority girls is Leslie Borden, a descendant of the infamous Lizzie Borden family. They believe that they are holding a harmless séance to conjure the ghost of Lizzie. But they get locked in the house with an evil, vengeful spirit as Lizzie Borden returns to wreak havoc with her axe. One by one, the girls are murdered as they try to figure out how to put an end to the return of Lizzie Borden.",
+  "backdropPath": "/3EnOccKeaVp7YCZ2kQnFlFzfWWY.jpg",
+  "posterPath": "/t6UjPRwfB6DqfFPEIr6gpHzZKqb.jpg",
+  "releaseDate": "2013-10-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4a7b9883-d121-426a-b6a8-f4c8585d09e5",
+      "title": "Lizzie Borden's Revenge",
+      "subtitle": null,
+      "timestampString": "02:57:10",
+      "timestampInSeconds": 10630,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #107",
+        "youtubeId": "nil8BrN67hQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nil8BrN67hQ/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1475265113000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "683340f5-5656-4c13-a8db-8646b552c880",
+            "name": "Emese"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

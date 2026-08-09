@@ -1,0 +1,28 @@
+{
+  "id": "e231c977-584e-4250-b444-3da77e720e87",
+  "title": "Forever Pure",
+  "originalTitle": null,
+  "overview": null,
+  "backdropPath": null,
+  "posterPath": null,
+  "releaseDate": null,
+  "topics": [
+    {
+      "id": "61899c72-4b75-4926-8410-f7cc443958ea",
+      "title": "Forever Pure",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Forever Pure",
+        "youtubeId": "lizi_w_LZXQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/lizi_w_LZXQ/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1497787120000,
+        "participants": []
+      }
+    }
+  ]
+}

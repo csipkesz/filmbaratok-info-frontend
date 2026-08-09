@@ -1,0 +1,45 @@
+{
+  "id": "b6e5e379-edff-43bd-80ed-bef44484042d",
+  "title": "Lavina",
+  "originalTitle": "Lavina",
+  "overview": "Franjo has disappeared in an avalanche. He’s left behind two wives and two daughters. An avalanche of unexpected events occurs when he comes back from the dead to announce to his family that he’s gay.",
+  "backdropPath": "/l9J5t2UycgyFwfWvjZ31bPnxB36.jpg",
+  "posterPath": "/yopj7DVPDTirOKFStWaSDizonwa.jpg",
+  "releaseDate": "2017-10-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d09afe6f-6574-4e60-af05-3584b52cea5f",
+      "title": "Lavina",
+      "subtitle": null,
+      "timestampString": "02:13:54",
+      "timestampInSeconds": 8034,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #166",
+        "youtubeId": "NaqCtn_eZNI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/NaqCtn_eZNI/hqdefault.jpg",
+        "durationInMinutes": 241,
+        "releaseDate": 1555772517000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

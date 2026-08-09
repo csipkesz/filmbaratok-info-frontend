@@ -1,0 +1,45 @@
+{
+  "id": "1d636900-4bd1-4f01-940a-dc67fcebd982",
+  "title": "Fyre",
+  "originalTitle": "Fyre",
+  "overview": "He promised supermodels and yachts, but delivered tents and cheese sandwiches. How one man engineered a music festival disaster.",
+  "backdropPath": "/5i2prsAzznXWGSmhkr9yMh5tnmO.jpg",
+  "posterPath": "/yFsP0BAJhAH3RTXCAnGvI1CtaUb.jpg",
+  "releaseDate": "2019-01-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "51ecf82d-4198-44b2-93a6-287561d1554d",
+      "title": "Fyre",
+      "subtitle": null,
+      "timestampString": "01:58:40",
+      "timestampInSeconds": 7120,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #162",
+        "youtubeId": "Pm_3kToMJek",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Pm_3kToMJek/hqdefault.jpg",
+        "durationInMinutes": 231,
+        "releaseDate": 1550070901000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "c5557c02-a479-4c53-9d0d-e275120835b4",
+  "title": "Halloween (2018)",
+  "originalTitle": "Halloween",
+  "overview": "Laurie Strode comes to her final confrontation with Michael Myers, the masked figure who has haunted her since she narrowly escaped his killing spree on Halloween night four decades ago.",
+  "backdropPath": "/8VjIXC2x8SHwAO52rfFpejKL4wc.jpg",
+  "posterPath": "/f7JAX5EGk4GgsEnus6OxyzwpFp7.jpg",
+  "releaseDate": "2018-10-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0b24f33c-4fbd-4baa-a435-ea7bab441126",
+      "title": "Halloween (2018)",
+      "subtitle": null,
+      "timestampString": "02:07:03",
+      "timestampInSeconds": 7623,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #156",
+        "youtubeId": "cklwRxW_tOo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/cklwRxW_tOo/hqdefault.jpg",
+        "durationInMinutes": 258,
+        "releaseDate": 1543425795000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

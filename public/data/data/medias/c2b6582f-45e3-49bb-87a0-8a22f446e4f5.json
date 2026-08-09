@@ -1,0 +1,45 @@
+{
+  "id": "c2b6582f-45e3-49bb-87a0-8a22f446e4f5",
+  "title": "Fehér éjszakák",
+  "originalTitle": "Fehér éjszakák",
+  "overview": "A young man lives his life daydreaming about Dostoevsky's White Nights and the Visconti film.",
+  "backdropPath": null,
+  "posterPath": null,
+  "releaseDate": "1987-01-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "53828dae-a056-44b6-b2a4-6d11c9781b49",
+      "title": "Fehér éjszakák",
+      "subtitle": null,
+      "timestampString": "01:10:26",
+      "timestampInSeconds": 4226,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #173",
+        "youtubeId": "JMHD67V99Tw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JMHD67V99Tw/hqdefault.jpg",
+        "durationInMinutes": 178,
+        "releaseDate": 1565982605000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

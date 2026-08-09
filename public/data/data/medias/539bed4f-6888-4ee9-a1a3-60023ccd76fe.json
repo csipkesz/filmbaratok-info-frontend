@@ -1,0 +1,45 @@
+{
+  "id": "539bed4f-6888-4ee9-a1a3-60023ccd76fe",
+  "title": "Határok mentén",
+  "originalTitle": "Triple Frontier",
+  "overview": "Struggling to make ends meet, former special ops soldiers reunite for a high-stakes heist: stealing $75 million from a South American drug lord.",
+  "backdropPath": "/s9I2LmQMYCanl6DvC3X1AOHs2r8.jpg",
+  "posterPath": "/aBw8zYuAljVM1FeK5bZKITPH8ZD.jpg",
+  "releaseDate": "2019-03-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ece4d92e-9c0c-4cc2-9409-0652c9f63e0f",
+      "title": "Határok mentén",
+      "subtitle": null,
+      "timestampString": "03:34:20",
+      "timestampInSeconds": 12860,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #286",
+        "youtubeId": "ZbuQSmPb5sM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ZbuQSmPb5sM/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1726511195000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

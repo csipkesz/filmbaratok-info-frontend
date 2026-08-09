@@ -1,0 +1,45 @@
+{
+  "id": "5c6c81fb-d990-46a1-988d-32482b7d728d",
+  "title": "Kék bogár",
+  "originalTitle": "Blue Beetle",
+  "overview": "Recent college grad Jaime Reyes returns home full of aspirations for his future, only to find that home is not quite as he left it. As he searches to find his purpose in the world, fate intervenes when Jaime unexpectedly finds himself in possession of an ancient relic of alien biotechnology: the Scarab.",
+  "backdropPath": "/bVyFGnX8kt0XtJXdx2F1HyOkIic.jpg",
+  "posterPath": "/mXLOHHc1Zeuwsl4xYKjKh2280oL.jpg",
+  "releaseDate": "2023-08-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "463c5d8c-4816-4e76-9bc0-baeb9c848450",
+      "title": "Kék bogár",
+      "subtitle": null,
+      "timestampString": "01:29:15",
+      "timestampInSeconds": 5355,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #261",
+        "youtubeId": "riCSpLjExWo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/riCSpLjExWo/hqdefault.jpg",
+        "durationInMinutes": 207,
+        "releaseDate": 1693369891000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

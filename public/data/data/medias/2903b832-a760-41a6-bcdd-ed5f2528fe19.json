@@ -1,0 +1,41 @@
+{
+  "id": "2903b832-a760-41a6-bcdd-ed5f2528fe19",
+  "title": "Hotel Mumbai",
+  "originalTitle": "Hotel Mumbai",
+  "overview": "Mumbai, India, November 26, 2008. While several terrorists spread hatred and death through the city, others attack the Taj Mahal Palace Hotel. Both hotel staff and guests risk their lives, making unthinkable sacrifices to protect themselves and keep everyone safe while help arrives.",
+  "backdropPath": "/aqSN0jyzGrJUqCe0OeVzSymcRbk.jpg",
+  "posterPath": "/v32SC4HFZtlDRWXMaR2V2dWqAXJ.jpg",
+  "releaseDate": "2019-03-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "50ee18a5-cc0d-466c-ac57-1ccb6a02ec64",
+      "title": "Hotel Mumbai",
+      "subtitle": null,
+      "timestampString": "00:32:34",
+      "timestampInSeconds": 1954,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #168",
+        "youtubeId": "_Gfw4jCabeA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_Gfw4jCabeA/hqdefault.jpg",
+        "durationInMinutes": 156,
+        "releaseDate": 1557378988000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "94adb2f0-9f83-44bd-ac67-9bdcdb24f93b",
+  "title": "Bugonia",
+  "originalTitle": "Bugonia",
+  "overview": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
+  "backdropPath": "/tN3pTxkQoP96wtaEahYuRVdUWb2.jpg",
+  "posterPath": "/rSdOua3wKMEaFWDcKAYWRjXQWOt.jpg",
+  "releaseDate": "2025-10-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ef8b9ab3-8a42-4c76-9100-da309399fa4c",
+      "title": "Bugonia",
+      "subtitle": null,
+      "timestampString": "02:05:15",
+      "timestampInSeconds": 7515,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #314",
+        "youtubeId": "tV5E0wGOsV8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tV5E0wGOsV8/hqdefault.jpg",
+        "durationInMinutes": 217,
+        "releaseDate": 1763147106000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

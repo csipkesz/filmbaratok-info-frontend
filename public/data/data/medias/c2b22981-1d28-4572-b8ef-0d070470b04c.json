@@ -1,0 +1,41 @@
+{
+  "id": "c2b22981-1d28-4572-b8ef-0d070470b04c",
+  "title": "Rázós környék / Ill manors",
+  "originalTitle": "Ill Manors",
+  "overview": "Ensemble film revolving around characters living in Forest Gate, London. Over the course of a few days, six inter-linking stories explore issues of drug use, prostitution and urban poverty.",
+  "backdropPath": "/nWJPW8Z2fZr9vmBzqlLh2o5vOac.jpg",
+  "posterPath": "/qhN0X6sDUalPxoNRfuUIBR6QmSO.jpg",
+  "releaseDate": "2012-06-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "19461dea-0d90-47c9-b109-a43762244b2b",
+      "title": "Rázós környék / Ill manors",
+      "subtitle": null,
+      "timestampString": "01:50:44",
+      "timestampInSeconds": 6644,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #205",
+        "youtubeId": "GcqE0JN9mNg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GcqE0JN9mNg/hqdefault.jpg",
+        "durationInMinutes": 170,
+        "releaseDate": 1612351186000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

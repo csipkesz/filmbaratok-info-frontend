@@ -1,0 +1,41 @@
+{
+  "id": "d98bbe71-f9a8-461e-b59a-c0ccae3713be",
+  "title": "A vad robot",
+  "originalTitle": "The Wild Robot",
+  "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+  "backdropPath": "/mQZJoIhTEkNhCYAqcHrQqhENLdu.jpg",
+  "posterPath": "/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
+  "releaseDate": "2024-09-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "67cfebe1-071e-4e67-9abc-b4b611332c16",
+      "title": "A vad robot",
+      "subtitle": null,
+      "timestampString": "02:02:10",
+      "timestampInSeconds": 7330,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #289",
+        "youtubeId": "25swweCqsZY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/25swweCqsZY/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1730401855000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "f32d4d47-125a-47b3-a82e-afd3316271f1",
+  "title": "Michael",
+  "originalTitle": "Michael",
+  "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+  "backdropPath": "/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
+  "posterPath": "/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+  "releaseDate": "2026-04-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "61f28e12-37c3-439b-a6fc-df502218c363",
+      "title": "Michael",
+      "subtitle": null,
+      "timestampString": "01:32:53",
+      "timestampInSeconds": 5573,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #326",
+        "youtubeId": "PyX_W5BWsXo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/PyX_W5BWsXo/hqdefault.jpg",
+        "durationInMinutes": 236,
+        "releaseDate": 1778948292000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

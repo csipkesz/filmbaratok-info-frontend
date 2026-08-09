@@ -1,0 +1,41 @@
+{
+  "id": "1eb0262a-5149-4f99-b98f-01435cc20854",
+  "title": "SpongyaBob: Ki a vízből",
+  "originalTitle": "The SpongeBob Movie: Sponge Out of Water",
+  "overview": "Evil pirate Burger Beard is in search of the final page of a magical book that makes any evil plan he writes in it come true, but the final page happens to be the Krabby Patty secret formula. When Burger Beard endangers Bikini Bottom, SpongeBob, Patrick, Mr. Krabs, Squidward, Sandy, and Plankton must embark on a quest to retrieve the recipe and save their city...a quest that takes them to the surface world and transforms them into superheroes.",
+  "backdropPath": "/sqcqFzAj3IPSFprQSLHr5JOBU4m.jpg",
+  "posterPath": "/2WDmjUlSAPlA27i2OwEC7sRTFw3.jpg",
+  "releaseDate": "2015-01-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ad20224d-9a19-4a29-86ea-9fd9b8f07d2c",
+      "title": "SpongyaBob: Ki a vízből",
+      "subtitle": null,
+      "timestampString": "01:20:34",
+      "timestampInSeconds": 4834,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #70",
+        "youtubeId": "_vL1V5oablM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_vL1V5oablM/hqdefault.jpg",
+        "durationInMinutes": 182,
+        "releaseDate": 1427860093000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

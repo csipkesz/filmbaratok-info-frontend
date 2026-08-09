@@ -1,0 +1,45 @@
+{
+  "id": "97df7a69-13b3-43fc-8970-27ccbaf273cc",
+  "title": "Dumb: The Story of Big Brother Magazine",
+  "originalTitle": "Dumb: The Story of Big Brother Magazine",
+  "overview": "A look at the rise and fall of the subversive skateboarding magazine Big Brother, which rose to prominence in the mid-1990s and had a profound effect on the skating subculture with its unfiltered approach.",
+  "backdropPath": "/82PDdypMxyWLt4wydEudGubGaVN.jpg",
+  "posterPath": "/9GZlYXKWs5o1YPKNPETOT9xg2zW.jpg",
+  "releaseDate": "2017-06-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "bb35159d-faad-4021-923a-a0f4e06363d7",
+      "title": "Dumb: The Story of Big Brother Magazine",
+      "subtitle": null,
+      "timestampString": "02:33:52",
+      "timestampInSeconds": 9232,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #140",
+        "youtubeId": "LQ8tU4s4F2M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/LQ8tU4s4F2M/hqdefault.jpg",
+        "durationInMinutes": 184,
+        "releaseDate": 1521209750000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "b037beeb-d061-458d-9faa-28facc18e547",
+  "title": "Doctor Strange",
+  "originalTitle": "Doctor Strange",
+  "overview": "After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.",
+  "backdropPath": "/kkoiH8ZWxJ9WSAjOadGtuHUQxbm.jpg",
+  "posterPath": "/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg",
+  "releaseDate": "2016-10-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "52bcce46-d6ca-41d1-951d-a057a27c3947",
+      "title": "Doctor Strange",
+      "subtitle": null,
+      "timestampString": "01:41:45",
+      "timestampInSeconds": 6105,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #110",
+        "youtubeId": "8krx-cw6vdg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/8krx-cw6vdg/hqdefault.jpg",
+        "durationInMinutes": 260,
+        "releaseDate": 1479296565000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

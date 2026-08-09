@@ -1,0 +1,41 @@
+{
+  "id": "d743f70d-645d-4a3e-810a-91d9fa53595d",
+  "title": "Az ismeretlen Drakula",
+  "originalTitle": "Dracula Untold",
+  "overview": "Vlad Tepes is a great hero, but when he learns the Sultan is preparing for battle and needs to form an army of 1,000 boys, he vows to find a way to protect his family. Vlad turns to dark forces in order to get the power to destroy his enemies and agrees to go from hero to monster as he's turned into the mythological vampire, Dracula.",
+  "backdropPath": "/oa0bHsnrD96miW3Yx10HWb211Sj.jpg",
+  "posterPath": "/m5h3NtZ2ZfryIHl1MvatmANvIqQ.jpg",
+  "releaseDate": "2014-10-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d0a3add1-73f5-4c5b-b168-57eef056f13e",
+      "title": "Az ismeretlen Drakula",
+      "subtitle": null,
+      "timestampString": "0:58:49",
+      "timestampInSeconds": 3529,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #60",
+        "youtubeId": "r6yj-sa2ZsA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/r6yj-sa2ZsA/hqdefault.jpg",
+        "durationInMinutes": 125,
+        "releaseDate": 1414771113000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

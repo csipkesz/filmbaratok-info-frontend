@@ -1,0 +1,62 @@
+{
+  "id": "ffe2d603-90e9-4bf6-8c54-adabdb1718a1",
+  "title": "Kút",
+  "originalTitle": "Kút",
+  "overview": "At a gas station in the middle of nowhere, a young man arrives to meet his father he hasn't seen for 30 years. On the same day, a van with four prostitutes breaks down at the very same gas station, on the way to Switzerland. The three days they spend together in the station change their lives forever.",
+  "backdropPath": "/eRyP0FTJj4C7xWE3lwU6sjba6xA.jpg",
+  "posterPath": "/ur0O4VSHLlkgcbpFZ9cjlqTkOb9.jpg",
+  "releaseDate": "2016-09-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1e85e206-7aaa-491b-aedb-94d51c1e7cef",
+      "title": "Kút",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "AUDIO_COMMENTARY",
+        "title": "Filmbarátok Audiokommentár: Kút",
+        "youtubeId": "SsXqHUqqADs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/SsXqHUqqADs/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1506099555000,
+        "participants": []
+      }
+    },
+    {
+      "id": "28168a5c-3836-48c6-9bd9-d4557a8405f2",
+      "title": "Kút",
+      "subtitle": null,
+      "timestampString": "01:48:30",
+      "timestampInSeconds": 6510,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #107",
+        "youtubeId": "nil8BrN67hQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nil8BrN67hQ/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1475265113000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "683340f5-5656-4c13-a8db-8646b552c880",
+            "name": "Emese"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

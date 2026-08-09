@@ -1,0 +1,45 @@
+{
+  "id": "9d495885-28fd-4368-830e-fa18f79b8431",
+  "title": "Valerian és az ezer bolygó városa",
+  "originalTitle": "Valerian and the City of a Thousand Planets",
+  "overview": "In the 28th century, Valerian and Laureline are special operatives charged with keeping order throughout the human territories. On assignment from the Minister of Defense, the two undertake a mission to Alpha, an ever-expanding metropolis where species from across the universe have converged over centuries to share knowledge, intelligence, and cultures. At the center of Alpha is a mysterious dark force which threatens the peaceful existence of the City of a Thousand Planets, and Valerian and Laureline must race to identify the menace and safeguard not just Alpha, but the future of the universe.",
+  "backdropPath": "/5rYnygKCkmqWuMv1O5yAnzGF8gV.jpg",
+  "posterPath": "/vlc95gl3PtrjxSEuM8RhTtSm2xU.jpg",
+  "releaseDate": "2017-07-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "663603f4-3df1-4463-9a3b-43d54aa954e7",
+      "title": "Valerian és az ezer bolygó városa",
+      "subtitle": null,
+      "timestampString": "01:59:05",
+      "timestampInSeconds": 7145,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #126",
+        "youtubeId": "oxUIpjJRf-Q",
+        "thumbnailUrl": "https://i.ytimg.com/vi/oxUIpjJRf-Q/hqdefault.jpg",
+        "durationInMinutes": 182,
+        "releaseDate": 1501690310000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

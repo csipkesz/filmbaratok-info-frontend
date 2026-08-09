@@ -1,0 +1,41 @@
+{
+  "id": "ed61445e-0e7a-4037-aeea-4390ba4fb3d6",
+  "title": "Troll 2",
+  "originalTitle": "Troll 2",
+  "overview": "When a dangerous new troll unleashes devastation across their homeland, Nora, Andreas and Major Kris embark on their most perilous mission yet.",
+  "backdropPath": "/lZYMXx74pWmbj5Q5jp1QaMvmuuR.jpg",
+  "posterPath": "/p6xAExLNFbHcLfvSuvLPoM8aqZU.jpg",
+  "releaseDate": "2025-11-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3af94740-6a73-4462-98dd-f32fd980f552",
+      "title": "Troll 2",
+      "subtitle": null,
+      "timestampString": "01:34:36",
+      "timestampInSeconds": 5676,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #59",
+        "youtubeId": "xa1Ymms2_9c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/xa1Ymms2_9c/hqdefault.jpg",
+        "durationInMinutes": 189,
+        "releaseDate": 1413978295000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1010815d-aad3-4b52-a5e4-868741858c43",
+  "title": "Mielőtt éjfélt üt az óra",
+  "originalTitle": "Before Midnight",
+  "overview": "It has been nine years since we last met Jesse and Celine, the French-American couple who once met on a train in Vienna. They now live in Paris with twin daughters but have spent a summer in Greece at the invitation of an author colleague of Jesse's. When the vacation is over and Jesse must send his teenage son off to the States, he begins to question his life decisions, and his relationship with Celine is at risk.",
+  "backdropPath": "/crdW75sDNYM0ddjFyrcg6V59qdP.jpg",
+  "posterPath": "/qbGKJmNUroDz75kh5Oafoall89e.jpg",
+  "releaseDate": "2013-04-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "23357946-098f-460d-a925-578fa678aebe",
+      "title": "Mielőtt éjfélt üt az óra",
+      "subtitle": null,
+      "timestampString": "00:54:50",
+      "timestampInSeconds": 3290,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #44",
+        "youtubeId": "_NwJoO7yxrE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_NwJoO7yxrE/hqdefault.jpg",
+        "durationInMinutes": 137,
+        "releaseDate": 1391206083000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "5f5a21a8-945a-424d-ac94-a14f1c84ca49",
+            "name": "Émi"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

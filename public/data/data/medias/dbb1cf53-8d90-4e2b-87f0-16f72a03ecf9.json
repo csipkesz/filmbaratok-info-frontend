@@ -1,0 +1,41 @@
+{
+  "id": "dbb1cf53-8d90-4e2b-87f0-16f72a03ecf9",
+  "title": "The Last Voyage of the Demeter",
+  "originalTitle": "The Last Voyage of the Demeter",
+  "overview": "The crew of the merchant ship Demeter attempts to survive the ocean voyage from Carpathia to London as they are stalked each night by a merciless presence onboard the ship.",
+  "backdropPath": "/dKC5qWi6S8SKkSzrP6LxTk0cb98.jpg",
+  "posterPath": "/nrtbv6Cew7qC7k9GsYSf5uSmuKh.jpg",
+  "releaseDate": "2023-08-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3c6feefe-48a4-47a5-a224-5cb2e54d0bcd",
+      "title": "The Last Voyage of the Demeter",
+      "subtitle": null,
+      "timestampString": "02:01:40",
+      "timestampInSeconds": 7300,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #262",
+        "youtubeId": "vHivX-OmQEI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/vHivX-OmQEI/hqdefault.jpg",
+        "durationInMinutes": 199,
+        "releaseDate": 1695357459000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

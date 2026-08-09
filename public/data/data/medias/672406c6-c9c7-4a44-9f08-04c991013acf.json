@@ -1,0 +1,45 @@
+{
+  "id": "672406c6-c9c7-4a44-9f08-04c991013acf",
+  "title": "Sráckor",
+  "originalTitle": "Boyhood",
+  "overview": "The film tells a story of a divorced couple trying to raise their young son. The story follows the boy for twelve years, from first grade at age 6 through 12th grade at age 17-18, and examines his relationship with his parents as he grows.",
+  "backdropPath": "/Ac2s9RJEi1ZeaQopoLsqlsmWQmx.jpg",
+  "posterPath": "/2BvtvDUyxiMJ4dmKfiQf4qdOHQN.jpg",
+  "releaseDate": "2014-06-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "07ebf131-f6b6-4e2a-9bcc-a484fe6e1674",
+      "title": "Sráckor",
+      "subtitle": null,
+      "timestampString": "00:30:32",
+      "timestampInSeconds": 1832,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #58",
+        "youtubeId": "fTyqWvDVF00",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fTyqWvDVF00/hqdefault.jpg",
+        "durationInMinutes": 178,
+        "releaseDate": 1412093302000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

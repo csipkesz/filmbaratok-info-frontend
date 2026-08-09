@@ -1,0 +1,41 @@
+{
+  "id": "7e08fe2d-7f75-47f3-9b2a-2a884e1c7296",
+  "title": "Szellemirtók - A borzongás birodalma",
+  "originalTitle": "Ghostbusters: Frozen Empire",
+  "overview": "The Spengler family returns to where it all started - the iconic New York City firehouse - to team up with the original Ghostbusters, who've developed a top-secret research lab to take busting ghosts to the next level. But when the discovery of an ancient artifact unleashes an evil force, Ghostbusters new and old must join forces to protect their home and save the world from a second Ice Age.",
+  "backdropPath": "/5cCfqeUH2f5Gnu7Lh9xepY9TB6x.jpg",
+  "posterPath": "/e1J2oNzSBdou01sUvriVuoYp0pJ.jpg",
+  "releaseDate": "2024-03-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3e1cf5b9-0599-4bc0-957e-f805d7a4775c",
+      "title": "Szellemirtók - A borzongás birodalma",
+      "subtitle": null,
+      "timestampString": "01:22:48",
+      "timestampInSeconds": 4968,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #277",
+        "youtubeId": "VVHLdlqq_xY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VVHLdlqq_xY/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1714501831000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

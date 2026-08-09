@@ -1,0 +1,45 @@
+{
+  "id": "79f729c1-5981-461b-9099-a6dc6d97f04f",
+  "title": "Dogman – A kutyák ura",
+  "originalTitle": "Dogman",
+  "overview": "A boy, bruised by life, finds his salvation through the love of his dogs.",
+  "backdropPath": "/nvW0QfRJ7ga9TK8DKwBfAPA8ywP.jpg",
+  "posterPath": "/5RuUD7J4vO0El7TRL9guZIik0I0.jpg",
+  "releaseDate": "2023-09-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d6459ea2-66fc-4964-99c3-cdb4245838f6",
+      "title": "Dogman – A kutyák ura",
+      "subtitle": null,
+      "timestampString": "00:26:10",
+      "timestampInSeconds": 1570,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #266",
+        "youtubeId": "N4U228aSkd8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/N4U228aSkd8/hqdefault.jpg",
+        "durationInMinutes": 221,
+        "releaseDate": 1700081301000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

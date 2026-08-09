@@ -1,0 +1,87 @@
+{
+  "id": "0dac254d-77da-4801-9a7c-a20331abc86d",
+  "title": "10 Cloverfield Lane",
+  "originalTitle": "10 Cloverfield Lane",
+  "overview": "After a catastrophic car crash, a young woman wakes up in a survivalist's underground bunker, where he claims to have saved her from an apocalyptic attack that has left the outside world uninhabitable.",
+  "backdropPath": "/dMERTVrObB7TkRVIFmcndR2sZFH.jpg",
+  "posterPath": "/q8A39vcBDruhvoDTJd6L8a4lnTi.jpg",
+  "releaseDate": "2016-03-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "62b7818f-bdeb-4a55-b146-2d4f151420db",
+      "title": "10 Cloverfield Lane",
+      "subtitle": null,
+      "timestampString": "03:06:00",
+      "timestampInSeconds": 11160,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #97",
+        "youtubeId": "544nF31uOsc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/544nF31uOsc/hqdefault.jpg",
+        "durationInMinutes": 219,
+        "releaseDate": 1461517994000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    },
+    {
+      "id": "90ab29ca-19e4-4aa6-90f7-710bb58fe7d9",
+      "title": "10 Cloverfield Lane [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "03:18:23",
+      "timestampInSeconds": 11903,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #97",
+        "youtubeId": "544nF31uOsc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/544nF31uOsc/hqdefault.jpg",
+        "durationInMinutes": 219,
+        "releaseDate": 1461517994000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

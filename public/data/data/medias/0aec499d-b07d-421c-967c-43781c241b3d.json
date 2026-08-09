@@ -1,0 +1,45 @@
+{
+  "id": "0aec499d-b07d-421c-967c-43781c241b3d",
+  "title": "Örökké búcsúzunk",
+  "originalTitle": "Every Time We Say Goodbye",
+  "overview": "A Protestant World War II pilot and a Jewish girl fall in love in Jerusalem, even though their diverse backgrounds threaten to pull them apart.",
+  "backdropPath": "/cb1ltycrzQZyqDBYVXcAIRvvGkx.jpg",
+  "posterPath": "/fMiWlS4jNZysUquP6CZfKswukMo.jpg",
+  "releaseDate": "1986-11-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ccd152f8-3b3d-400d-96ce-ad5bce1f997b",
+      "title": "Örökké búcsúzunk",
+      "subtitle": null,
+      "timestampString": "03:01:53",
+      "timestampInSeconds": 10913,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #256",
+        "youtubeId": "yK5fnD61khw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/yK5fnD61khw/hqdefault.jpg",
+        "durationInMinutes": 224,
+        "releaseDate": 1686942465000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

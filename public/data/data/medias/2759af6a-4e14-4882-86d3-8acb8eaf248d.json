@@ -1,0 +1,45 @@
+{
+  "id": "2759af6a-4e14-4882-86d3-8acb8eaf248d",
+  "title": "Kerülőutak",
+  "originalTitle": "Sideways",
+  "overview": "Two middle-aged men embark on a spiritual journey through Californian wine country. One is an unpublished novelist suffering from depression, and the other is only days away from walking down the aisle.",
+  "backdropPath": "/zmuRxro8AxPDjACjXTIIDCUNwDl.jpg",
+  "posterPath": "/zOsaxYLgvZVU7cJBpPn8CuE0MrP.jpg",
+  "releaseDate": "2004-10-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d88dff04-1928-45a9-b484-f7f785aefb39",
+      "title": "Kerülőutak",
+      "subtitle": null,
+      "timestampString": "02:29:20",
+      "timestampInSeconds": 8960,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #115",
+        "youtubeId": "kbUqk0bddqo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/kbUqk0bddqo/hqdefault.jpg",
+        "durationInMinutes": 231,
+        "releaseDate": 1485969786000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

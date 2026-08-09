@@ -1,0 +1,41 @@
+{
+  "id": "aa19808e-1de4-4df7-b646-ea46172eb0f9",
+  "title": "Az apáca",
+  "originalTitle": "The Nun",
+  "overview": "A priest with a dark past and a novice nearing her final vows are sent by the Vatican to Romania to investigate a nun's death and face a demonic force.",
+  "backdropPath": "/cMnVmutb5mVgIBeiMOncAbwNjvG.jpg",
+  "posterPath": "/sFC1ElvoKGdHJIWRpNB3xWJ9lJA.jpg",
+  "releaseDate": "2018-09-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ed0b6351-2e6e-47dc-88a9-474e419d5a3e",
+      "title": "Az apáca",
+      "subtitle": null,
+      "timestampString": "01:02:34",
+      "timestampInSeconds": 3754,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #151",
+        "youtubeId": "hcylcX_kgM0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/hcylcX_kgM0/hqdefault.jpg",
+        "durationInMinutes": 234,
+        "releaseDate": 1537428229000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

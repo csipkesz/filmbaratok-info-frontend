@@ -1,0 +1,49 @@
+{
+  "id": "b45974ba-2512-413d-a3c5-5efb9a4ddb74",
+  "title": "Rém rom",
+  "originalTitle": "Monster House",
+  "overview": "Monsters under the bed are scary enough, but what happens when an entire house is out to get you? Three teens aim to find out when they go up against a decrepit neighboring home and unlock its frightening secrets.",
+  "backdropPath": "/3otAGduCHdqdEIVC1HOOLb5Qnp2.jpg",
+  "posterPath": "/zCRPr4bkO3ae0U1134vJ39xZnAG.jpg",
+  "releaseDate": "2006-06-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b5bd3fcf-c5c4-4c6e-a139-23a8d4a598b2",
+      "title": "Rém rom",
+      "subtitle": null,
+      "timestampString": "00:48:22",
+      "timestampInSeconds": 2902,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #210",
+        "youtubeId": "33ZlR26Llk0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/33ZlR26Llk0/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1619018789000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

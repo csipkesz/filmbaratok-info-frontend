@@ -1,0 +1,45 @@
+{
+  "id": "49ad1eb3-7fb1-4990-899f-5820a1b8e51f",
+  "title": "Babe 2 – Kismalac a Nagyvárosban",
+  "originalTitle": "Babe: Pig in the City",
+  "overview": "Babe, fresh from his victory in the sheepherding contest, returns to Farmer Hoggett's farm, but after Farmer Hoggett is injured and unable to work, Babe has to go to the big city to save the farm.",
+  "backdropPath": "/73Zd7StP4Ln0hSCwmqhCaZomYWB.jpg",
+  "posterPath": "/glO6LcTWUZcbxWT2SB4eRDnFSsP.jpg",
+  "releaseDate": "1998-11-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a3b6ff58-8870-4988-a9e3-7bc1344ae355",
+      "title": "Babe 2 – Kismalac a Nagyvárosban",
+      "subtitle": null,
+      "timestampString": "02:06:15",
+      "timestampInSeconds": 7575,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #88",
+        "youtubeId": "wEd9ZOCpPII",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wEd9ZOCpPII/hqdefault.jpg",
+        "durationInMinutes": 226,
+        "releaseDate": 1450458682000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

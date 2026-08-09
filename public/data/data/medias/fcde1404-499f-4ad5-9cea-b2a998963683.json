@@ -1,0 +1,45 @@
+{
+  "id": "fcde1404-499f-4ad5-9cea-b2a998963683",
+  "title": "Lenni vagy nem lenni",
+  "originalTitle": "To Be or Not to Be",
+  "overview": "During the Nazi occupation of Poland, an acting troupe becomes embroiled in a Polish soldier's efforts to track down a German spy.",
+  "backdropPath": "/28vvMlh490bxipmhkbYTQissiof.jpg",
+  "posterPath": "/dDQRpEoyjHT4fzw9cNklIvZuXYg.jpg",
+  "releaseDate": "1942-03-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fd3f58ec-45a1-42e3-aeb8-d7cc45cce38e",
+      "title": "Lenni vagy nem lenni",
+      "subtitle": null,
+      "timestampString": "00:52:50",
+      "timestampInSeconds": 3170,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #268",
+        "youtubeId": "9TmBeKJi0og",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9TmBeKJi0og/hqdefault.jpg",
+        "durationInMinutes": 211,
+        "releaseDate": 1702918793000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

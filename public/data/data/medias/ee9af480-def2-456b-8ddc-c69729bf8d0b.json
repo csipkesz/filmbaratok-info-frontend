@@ -1,0 +1,45 @@
+{
+  "id": "ee9af480-def2-456b-8ddc-c69729bf8d0b",
+  "title": "The Cloverfield Paradox",
+  "originalTitle": "The Cloverfield Paradox",
+  "overview": "Orbiting above a planet on the brink of war, scientists test a device to solve an energy crisis and end up face-to-face with a dark alternate reality.",
+  "backdropPath": "/2cnUCcNmmj79hGmimvWlUo5P2K8.jpg",
+  "posterPath": "/vJi2ExTcWdJR3150VPKqqtdGxsT.jpg",
+  "releaseDate": "2018-02-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b2ecb01a-9aac-4d87-b252-bf0df51269c6",
+      "title": "The Cloverfield Paradox",
+      "subtitle": null,
+      "timestampString": "02:57:36",
+      "timestampInSeconds": 10656,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #138",
+        "youtubeId": "nNL55zk0j6I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nNL55zk0j6I/hqdefault.jpg",
+        "durationInMinutes": 255,
+        "releaseDate": 1519187400000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

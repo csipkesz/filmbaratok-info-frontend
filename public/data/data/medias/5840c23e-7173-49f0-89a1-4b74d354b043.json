@@ -1,0 +1,41 @@
+{
+  "id": "5840c23e-7173-49f0-89a1-4b74d354b043",
+  "title": "Csillagainkban a hiba",
+  "originalTitle": "The Fault in Our Stars",
+  "overview": "Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a patient named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is about to be completely rewritten.",
+  "backdropPath": "/oQaVV7p916HO5MDI820zzs1pin9.jpg",
+  "posterPath": "/kcVuktIlrn9SAN1uBmPDnocTQmF.jpg",
+  "releaseDate": "2014-06-02T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e90dbb1c-ca89-40fa-9bba-3f87954ce5f2",
+      "title": "Csillagainkban a hiba",
+      "subtitle": null,
+      "timestampString": "01:42:18",
+      "timestampInSeconds": 6138,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #56",
+        "youtubeId": "IGq19Ebu3DU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IGq19Ebu3DU/hqdefault.jpg",
+        "durationInMinutes": 199,
+        "releaseDate": 1409327568000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

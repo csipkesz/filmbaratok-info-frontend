@@ -1,0 +1,41 @@
+{
+  "id": "f38a22f5-26bd-432e-bc44-a4aa57723e54",
+  "title": "Vasököl",
+  "originalTitle": "Real Steel",
+  "overview": "Charlie Kenton is a washed-up fighter who retired from the ring when robots took over the sport. After his robot is trashed, he reluctantly teams up with his estranged son to rebuild and train an unlikely contender.",
+  "backdropPath": "/pjlxrd646cBYznHoPBWTzz6FujX.jpg",
+  "posterPath": "/4GIeI5K5YdDUkR3mNQBoScpSFEf.jpg",
+  "releaseDate": "2011-09-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f10c2bfa-d07a-488f-9b68-27f6451ce350",
+      "title": "Vasököl",
+      "subtitle": null,
+      "timestampString": "01:24:25",
+      "timestampInSeconds": 5065,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #76",
+        "youtubeId": "wnZh6qcfn4E",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wnZh6qcfn4E/hqdefault.jpg",
+        "durationInMinutes": 128,
+        "releaseDate": 1435731107000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "89ccd9c2-8ad8-4a8f-953d-4c341fed9744",
+  "title": "Ferrari",
+  "originalTitle": "Ferrari",
+  "overview": "Set during the summer of 1957. Ex-racecar driver, Enzo Ferrari, is in crisis. Bankruptcy stalks the company he and his wife, Laura, built from nothing ten years earlier. Their tempestuous marriage struggles with the mourning for one son and the acknowledgement of another.",
+  "backdropPath": "/du11oPPbEoDnUpiREO5tUg47rJd.jpg",
+  "posterPath": "/LyCOcGqOTyTmaXu2TK8LfGveIb.jpg",
+  "releaseDate": "2023-12-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "831b17c4-80f7-443d-bd90-6da869e3017d",
+      "title": "Ferrari",
+      "subtitle": null,
+      "timestampString": "01:27:00",
+      "timestampInSeconds": 5220,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #270",
+        "youtubeId": "Hk6gv0cu8TY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Hk6gv0cu8TY/hqdefault.jpg",
+        "durationInMinutes": 222,
+        "releaseDate": 1705227394000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "de941217-1ab0-435a-9f86-43d7858a2be3",
+  "title": "Mélyütés",
+  "originalTitle": "Southpaw",
+  "overview": "Billy \"The Great\" Hope, the reigning junior middleweight boxing champion, has an impressive career, a loving wife and daughter, and a lavish lifestyle. However, when tragedy strikes, Billy hits rock bottom, losing his family, his house and his manager. He soon finds an unlikely savior in Tick Willis, a former fighter who trains the city's toughest amateur boxers. With his future on the line, Hope fights to reclaim the trust of those he loves the most.",
+  "backdropPath": "/zT9iYKMtmU82Jo44WbiuMOW7jRi.jpg",
+  "posterPath": "/kSQ49Fi3NVTqGGXILmxV2T2pdkG.jpg",
+  "releaseDate": "2015-07-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "30b51aac-ee35-4482-b80e-fada25d93a35",
+      "title": "Mélyütés",
+      "subtitle": null,
+      "timestampString": "00:47:58",
+      "timestampInSeconds": 2878,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #84",
+        "youtubeId": "s9vFywEHs8Y",
+        "thumbnailUrl": "https://i.ytimg.com/vi/s9vFywEHs8Y/hqdefault.jpg",
+        "durationInMinutes": 172,
+        "releaseDate": 1445961315000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

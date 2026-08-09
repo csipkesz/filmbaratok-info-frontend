@@ -1,0 +1,45 @@
+{
+  "id": "6a516df9-ef4f-4f07-93b8-86d092a66b20",
+  "title": "Képzeletbeli barátok",
+  "originalTitle": "IF",
+  "overview": "After discovering she can see everyone's imaginary friends, a girl embarks on a magical adventure to reconnect forgotten imaginary friends with their kids.",
+  "backdropPath": "/nxxCPRGTzxUH8SFMrIsvMmdxHti.jpg",
+  "posterPath": "/xbKFv4KF3sVYuWKllLlwWDmuZP7.jpg",
+  "releaseDate": "2024-05-08T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ef58a69e-6c18-410e-8750-a97f860005cc",
+      "title": "Képzeletbeli barátok",
+      "subtitle": null,
+      "timestampString": "00:49:00",
+      "timestampInSeconds": 2940,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #279",
+        "youtubeId": "xiW0oPdZsx4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/xiW0oPdZsx4/hqdefault.jpg",
+        "durationInMinutes": 209,
+        "releaseDate": 1717092028000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

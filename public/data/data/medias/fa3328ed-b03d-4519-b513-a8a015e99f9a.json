@@ -1,0 +1,45 @@
+{
+  "id": "fa3328ed-b03d-4519-b513-a8a015e99f9a",
+  "title": "Fellini-Satyricon",
+  "originalTitle": "Fellini – satyricon",
+  "overview": "After his young lover, Gitone, leaves him for another man, Encolpio decides to kill himself, but a sudden earthquake destroys his home before he has a chance to do so. Now wandering around Rome in the time of Nero, Encolpio encounters one bizarre and surreal scene after another.",
+  "backdropPath": "/kPdvXDdXIbuKKAt9gEy13FNYgbm.jpg",
+  "posterPath": "/83urUMl04GtwuuGIFpezqzi7n6m.jpg",
+  "releaseDate": "1969-09-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "569a2b74-5806-44ee-a891-afb997b99b19",
+      "title": "Fellini-Satyricon",
+      "subtitle": null,
+      "timestampString": "03:31:40",
+      "timestampInSeconds": 12700,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #288",
+        "youtubeId": "y8PRwmbTmMM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/y8PRwmbTmMM/hqdefault.jpg",
+        "durationInMinutes": 241,
+        "releaseDate": 1729192342000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

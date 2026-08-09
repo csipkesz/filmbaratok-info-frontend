@@ -1,0 +1,49 @@
+{
+  "id": "1f6fd68b-730e-4f24-86cf-6b3618cb0ace",
+  "title": "Star Wars: Az utolsó Jedik",
+  "originalTitle": "Star Wars: The Last Jedi",
+  "overview": "Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares to do battle with the First Order.",
+  "backdropPath": "/bIUaCtWaRgd78SnoHJDI8TNf7Sd.jpg",
+  "posterPath": "/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg",
+  "releaseDate": "2017-12-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1edc5dca-ba64-4cf3-ad86-41d83ef7d9b4",
+      "title": "Star Wars: Az utolsó Jedik",
+      "subtitle": null,
+      "timestampString": "00:06:25",
+      "timestampInSeconds": 385,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #135",
+        "youtubeId": "mgsV8GC_2o4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/mgsV8GC_2o4/hqdefault.jpg",
+        "durationInMinutes": 301,
+        "releaseDate": 1514470829000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          },
+          {
+            "id": "fad572d7-4b23-4285-955d-223f31dfe495",
+            "name": "Szöllőskei Gábor"
+          }
+        ]
+      }
+    }
+  ]
+}

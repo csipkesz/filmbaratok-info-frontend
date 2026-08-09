@@ -1,0 +1,45 @@
+{
+  "id": "f61cefea-61ff-4531-b042-09d8e488e726",
+  "title": "The Alto Knights",
+  "originalTitle": "The Alto Knights",
+  "overview": "Two of New York's most notorious organized crime bosses, Frank Costello and Vito Genovese, vie for control of the city's streets. Once the best of friends, petty jealousies and a series of betrayals place them on a deadly collision course that will reshape the Mafia (and America) forever.",
+  "backdropPath": "/iveeHEGtkq0dBJZtOcoK650sZ6x.jpg",
+  "posterPath": "/epGF8vv3caKLm6X8PKbD5xirFLa.jpg",
+  "releaseDate": "2025-03-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b1eb7476-a52b-41fc-8be1-27cfa09380aa",
+      "title": "The Alto Knights",
+      "subtitle": null,
+      "timestampString": "02:03:04",
+      "timestampInSeconds": 7384,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #305",
+        "youtubeId": "lzDte9B9xGc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/lzDte9B9xGc/hqdefault.jpg",
+        "durationInMinutes": 222,
+        "releaseDate": 1750949472000,
+        "participants": [
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "77e36baa-ae4b-417f-bdac-aacb64baada6",
+            "name": "Ódor Kristóf"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

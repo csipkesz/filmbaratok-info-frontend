@@ -1,0 +1,49 @@
+{
+  "id": "b0a2bac4-83dd-43b9-afee-98340e7cf4b4",
+  "title": "A setét torony",
+  "originalTitle": "The Dark Tower",
+  "overview": "A boy haunted by visions of a parallel world aids its disillusioned guardian in preventing the destruction of the nexus of universes known as the Dark Tower.",
+  "backdropPath": "/pVVobDO8cezhVPvwD6EBUN0g3mt.jpg",
+  "posterPath": "/i9GUSgddIqrroubiLsvvMRYyRy0.jpg",
+  "releaseDate": "2017-08-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3b2f205d-b206-4929-855f-f5f912f3843a",
+      "title": "A setét torony",
+      "subtitle": null,
+      "timestampString": "01:59:20",
+      "timestampInSeconds": 7160,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #127",
+        "youtubeId": "XWuPbD-kRic",
+        "thumbnailUrl": "https://i.ytimg.com/vi/XWuPbD-kRic/hqdefault.jpg",
+        "durationInMinutes": 241,
+        "releaseDate": 1503602035000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          },
+          {
+            "id": "fad572d7-4b23-4285-955d-223f31dfe495",
+            "name": "Szöllőskei Gábor"
+          }
+        ]
+      }
+    }
+  ]
+}

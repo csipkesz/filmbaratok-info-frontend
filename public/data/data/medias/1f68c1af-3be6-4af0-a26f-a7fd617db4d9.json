@@ -1,0 +1,41 @@
+{
+  "id": "1f68c1af-3be6-4af0-a26f-a7fd617db4d9",
+  "title": "A vágyak szigete",
+  "originalTitle": "Fantasy Island",
+  "overview": "A group of contest winners arrive at an island hotel to live out their dreams, only to find themselves trapped in nightmare scenarios.",
+  "backdropPath": "/dzfiE2VHY362dGI62XfZ2iI87CT.jpg",
+  "posterPath": "/8ZMrZGGW65ePWIgRn1260nA1uUm.jpg",
+  "releaseDate": "2020-02-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1f2a7f34-5544-4ff7-b0f7-662ffd67d8a5",
+      "title": "A vágyak szigete [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "02:12:22",
+      "timestampInSeconds": 7942,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #186",
+        "youtubeId": "LvzEUgrbuec",
+        "thumbnailUrl": "https://i.ytimg.com/vi/LvzEUgrbuec/hqdefault.jpg",
+        "durationInMinutes": 214,
+        "releaseDate": 1584373994000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

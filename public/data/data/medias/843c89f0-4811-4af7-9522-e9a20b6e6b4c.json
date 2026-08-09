@@ -1,0 +1,45 @@
+{
+  "id": "843c89f0-4811-4af7-9522-e9a20b6e6b4c",
+  "title": "Amerikai Mesterlövész",
+  "originalTitle": "American Sniper",
+  "overview": "U.S. Navy SEAL Chris Kyle takes his sole mission—protect his comrades—to heart and becomes one of the most lethal snipers in American history. His pinpoint accuracy not only saves countless lives but also makes him a prime target of insurgents. Despite grave danger and his struggle to be a good husband and father to his family back in the States, Kyle serves four tours of duty in Iraq. However, when he finally returns home, he finds that he cannot leave the war behind.",
+  "backdropPath": "/rl95VDEP3nsUQmGzE0S1S7y6T0N.jpg",
+  "posterPath": "/i1U46OwMc6vlm7OoSUKfqUH615e.jpg",
+  "releaseDate": "2014-12-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "adc5dcea-d2ad-4f86-9125-babd5f5c195f",
+      "title": "Amerikai Mesterlövész",
+      "subtitle": null,
+      "timestampString": "00:04:35",
+      "timestampInSeconds": 275,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #68 (Oscar 2015)",
+        "youtubeId": "wFsWiUhhfmA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wFsWiUhhfmA/hqdefault.jpg",
+        "durationInMinutes": 162,
+        "releaseDate": 1424509754000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

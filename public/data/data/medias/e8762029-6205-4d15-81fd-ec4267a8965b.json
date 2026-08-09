@@ -1,0 +1,45 @@
+{
+  "id": "e8762029-6205-4d15-81fd-ec4267a8965b",
+  "title": "Mulan",
+  "originalTitle": "Mulan",
+  "overview": "When Imperial China calls one man from every family to defend the empire from invading Huns, a young woman disguises herself as a soldier to take her ailing father’s place. Facing ruthless invaders, brutal training, and the risk of execution if discovered, she must decide who she truly is— and what she’s willing to fight for.",
+  "backdropPath": "/mUYV0ZdsDEliGaQahcQH1F3grsP.jpg",
+  "posterPath": "/jAbexAtB0aSfP5Ay4TpWHARyVnG.jpg",
+  "releaseDate": "1998-06-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2b676fe5-00c3-4d36-bb11-02cc9305291c",
+      "title": "Mulan",
+      "subtitle": null,
+      "timestampString": "02:44:55",
+      "timestampInSeconds": 9895,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #197",
+        "youtubeId": "j1hyfnPoTyg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/j1hyfnPoTyg/hqdefault.jpg",
+        "durationInMinutes": 296,
+        "releaseDate": 1600408834000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

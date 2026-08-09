@@ -1,0 +1,45 @@
+{
+  "id": "b01516d9-23b9-46fe-ac3c-860ae6046112",
+  "title": "One Cut of the dead",
+  "originalTitle": "カメラを止めるな！",
+  "overview": "Real zombies arrive and terrorize the crew of a zombie film being shot in an abandoned warehouse, said to be the site of military experiments on humans.",
+  "backdropPath": "/oslUsPw3PUhDVK7a5soTvCAuaO7.jpg",
+  "posterPath": "/rws34k2bqYVo2B5MkhKAbV8925j.jpg",
+  "releaseDate": "2017-11-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "bbc6642a-4997-47bf-9ab2-f526e401fe1d",
+      "title": "One Cut of the dead [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "01:13:25",
+      "timestampInSeconds": 4405,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #223",
+        "youtubeId": "uKeMDPapOJE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uKeMDPapOJE/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1639837304000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

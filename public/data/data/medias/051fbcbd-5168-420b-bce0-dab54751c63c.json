@@ -1,0 +1,41 @@
+{
+  "id": "051fbcbd-5168-420b-bce0-dab54751c63c",
+  "title": "The Two Escobars",
+  "originalTitle": "The Two Escobars",
+  "overview": "Pablo Escobar was the richest, most powerful drug kingpin in the world, ruling the Medellin Cartel with an iron fist. Andres Escobar was the biggest soccer star in Colombia. The two were not related, but their fates were inextricably-and fatally-intertwined. Pablo's drug money had turned Andres' national team into South American champions, favored to win the 1994 World Cup in Los Angeles. It was there, in a game against the U.S., that Andres committed one of the most shocking mistakes in soccer history, scoring an \"own goal\" that eliminated his team from the competition and ultimately cost him his life. The Two Escobars is a riveting examination of the intersection of sports, crime, and politics.",
+  "backdropPath": "/9JzpVcqBlJouPyIvnQz0kdDnAPC.jpg",
+  "posterPath": "/qYnslGb1D0JgYLQYiwPqQ2ojQDv.jpg",
+  "releaseDate": "2010-06-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "695a32cf-d873-4d8a-9fbb-7919c273f755",
+      "title": "The Two Escobars",
+      "subtitle": null,
+      "timestampString": "02:09:40",
+      "timestampInSeconds": 7780,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #84",
+        "youtubeId": "s9vFywEHs8Y",
+        "thumbnailUrl": "https://i.ytimg.com/vi/s9vFywEHs8Y/hqdefault.jpg",
+        "durationInMinutes": 172,
+        "releaseDate": 1445961315000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

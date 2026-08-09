@@ -1,0 +1,41 @@
+{
+  "id": "56e371c4-2b93-455d-8630-e9bb4c5bd899",
+  "title": "Eladó az egész világ!",
+  "originalTitle": "How to Get Ahead in Advertising",
+  "overview": "Pressure from his boss and a skin-cream client produces a talking boil on a British adman's neck.",
+  "backdropPath": "/vULZzghc0E4nfi95AH9kGBgHZ2G.jpg",
+  "posterPath": "/8T1UacG5YV063PDbaHH2RaqA6Wc.jpg",
+  "releaseDate": "1989-05-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a855467c-4765-44ca-b397-6e26ed90cfac",
+      "title": "Eladó az egész világ!",
+      "subtitle": null,
+      "timestampString": "02:30:43",
+      "timestampInSeconds": 9043,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #49",
+        "youtubeId": "KInB1pvzVo0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/KInB1pvzVo0/hqdefault.jpg",
+        "durationInMinutes": 177,
+        "releaseDate": 1397986559000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

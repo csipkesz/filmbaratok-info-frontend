@@ -1,0 +1,45 @@
+{
+  "id": "7c0b8819-4ac2-46f2-ad0d-443db4d6736c",
+  "title": "A félelem országútján",
+  "originalTitle": "Breakdown",
+  "overview": "On their cross-country drive, a married couple, Jeff and Amy Taylor, experience car trouble after their SUV breaks down. Stranded in the New Mexico desert, the two catch a break when a passing truck driver offers Amy a ride to a nearby café to call for help. Meanwhile, Jeff is able to fix the car and make his way to the café, but Amy isn't there. He tracks down the trucker ― who tells the police he's never seen Jeff or his wife before. Jeff then begins a desperate, frenzied search for Amy.",
+  "backdropPath": "/e86x1nXqfXRlqATuy60MmzFUFQr.jpg",
+  "posterPath": "/m3VB59ppr1RlpxNUYRUfZTgjgU.jpg",
+  "releaseDate": "1997-05-02T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "188c0309-d2ba-44b4-ae2a-6e75bb7b50cb",
+      "title": "A félelem országútján",
+      "subtitle": null,
+      "timestampString": "01:00:15",
+      "timestampInSeconds": 3615,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #134",
+        "youtubeId": "gB5CFdGY70M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gB5CFdGY70M/hqdefault.jpg",
+        "durationInMinutes": 218,
+        "releaseDate": 1513874512000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

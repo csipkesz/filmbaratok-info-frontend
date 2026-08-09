@@ -1,0 +1,41 @@
+{
+  "id": "f92b869e-0ef3-4fad-8613-bf861d0eeb2e",
+  "title": "Titan A.E.",
+  "originalTitle": "Titan A.E.",
+  "overview": "A young man finds out that he holds the key to restoring hope and ensuring survival for the human race, while an alien species called the Drej are bent on mankind's destruction.",
+  "backdropPath": "/t0VWB5Kc5o38w5YYgzReArrGiZ8.jpg",
+  "posterPath": "/el2iHk3LTJWfEnwrvcRkvWY501G.jpg",
+  "releaseDate": "2000-06-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6144676b-c505-4574-b27e-4171bad9aa42",
+      "title": "Titan A.E.",
+      "subtitle": null,
+      "timestampString": "02:48:15",
+      "timestampInSeconds": 10095,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #151",
+        "youtubeId": "hcylcX_kgM0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/hcylcX_kgM0/hqdefault.jpg",
+        "durationInMinutes": 234,
+        "releaseDate": 1537428229000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

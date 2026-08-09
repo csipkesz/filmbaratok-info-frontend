@@ -1,0 +1,41 @@
+{
+  "id": "7f0ff2b8-e1a9-40f8-8546-975ad2e63514",
+  "title": "A végtelen / The endless",
+  "originalTitle": "The Endless",
+  "overview": "Two brothers return to the cult they fled from years ago to discover that the group's beliefs may be more sane than they once thought.",
+  "backdropPath": "/nvCMi8ZhH1Z8i9ZFHYrXBl8uBw0.jpg",
+  "posterPath": "/uVHPBTLb6Sj1Eso9HzyBAOMRheM.jpg",
+  "releaseDate": "2017-11-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "aae60a99-5715-46ca-bb9a-96b993d24533",
+      "title": "A végtelen / The endless",
+      "subtitle": null,
+      "timestampString": "01:39:00",
+      "timestampInSeconds": 5940,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #205",
+        "youtubeId": "GcqE0JN9mNg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GcqE0JN9mNg/hqdefault.jpg",
+        "durationInMinutes": 170,
+        "releaseDate": 1612351186000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

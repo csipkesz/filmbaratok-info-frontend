@@ -1,0 +1,45 @@
+{
+  "id": "6a806cfa-f3ea-4ed9-bb20-a3412d9f4c05",
+  "title": "Kék pelikán",
+  "originalTitle": "Kék Pelikan",
+  "overview": "Hungary, 1990s. Travel abroad is finally possible, but unaffordable. By forging international train tickets, three young people get to know the world.",
+  "backdropPath": "/8ON2puknC3FdvTOE3MCRThItdtq.jpg",
+  "posterPath": "/sMShMF5QjQZTeF7fsnX9sF7lNYx.jpg",
+  "releaseDate": "2024-04-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0b5a400d-d4f6-457e-9767-450280c13a84",
+      "title": "Kék pelikán",
+      "subtitle": null,
+      "timestampString": "02:41:20",
+      "timestampInSeconds": 9680,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #278",
+        "youtubeId": "RevEenp3eWU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/RevEenp3eWU/hqdefault.jpg",
+        "durationInMinutes": 268,
+        "releaseDate": 1715968812000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

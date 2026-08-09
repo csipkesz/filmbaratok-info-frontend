@@ -1,0 +1,49 @@
+{
+  "id": "4f81ebba-2690-42ab-be65-b834a15f0094",
+  "title": "Önkéntesek",
+  "originalTitle": "Volunteers",
+  "overview": "After graduating from Yale in 1962, womanizing Lawrence flees a gambling debt that his rich dad won't pay and takes his roomie's place as a Peace Corps Volunteer in the Thai Golden Triangle with two other PCVs. Will he survive two years?",
+  "backdropPath": "/xuwqYwzsgwfr0mk6sBNRy6C8JpK.jpg",
+  "posterPath": "/tua28Wyv9uGBtPTBGCP7GsN3Znu.jpg",
+  "releaseDate": "1985-08-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4b7ee4aa-5ba9-40ab-96d1-eee99e86db31",
+      "title": "Önkéntesek",
+      "subtitle": null,
+      "timestampString": "04:02:08",
+      "timestampInSeconds": 14528,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #220",
+        "youtubeId": "V6uGh9dBdAw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/V6uGh9dBdAw/hqdefault.jpg",
+        "durationInMinutes": 284,
+        "releaseDate": 1634383916000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "a3368f73-e314-4611-a80d-d3e72a9c2917",
+  "title": "Men in Black – Sötét zsaruk a Föld körül",
+  "originalTitle": "Men in Black: International",
+  "overview": "The Men in Black have always protected the Earth from the scum of the universe. In this new adventure, they tackle their biggest, most global threat to date: a mole in the Men in Black organization.",
+  "backdropPath": "/uK9uFbAwQ1s2JHKkJ5l0obPTcXI.jpg",
+  "posterPath": "/dPrUPFcgLfNbmDL8V69vcrTyEfb.jpg",
+  "releaseDate": "2019-06-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9999ce79-89a9-4a86-83ab-5f1b0df68e01",
+      "title": "Men in Black – Sötét zsaruk a Föld körül",
+      "subtitle": null,
+      "timestampString": "01:28:25",
+      "timestampInSeconds": 5305,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #170",
+        "youtubeId": "tw65hAXphtM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tw65hAXphtM/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1561124178000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

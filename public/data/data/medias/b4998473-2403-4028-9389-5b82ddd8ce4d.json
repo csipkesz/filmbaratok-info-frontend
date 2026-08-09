@@ -1,0 +1,41 @@
+{
+  "id": "b4998473-2403-4028-9389-5b82ddd8ce4d",
+  "title": "Ocean's 8",
+  "originalTitle": "Ocean's Eight",
+  "overview": "Debbie Ocean, a criminal mastermind, gathers a crew of female thieves to pull off the heist of the century at New York's annual Met Gala.",
+  "backdropPath": "/scQf03Fm3jeyv4FH04qvi4fp4wh.jpg",
+  "posterPath": "/MvYpKlpFukTivnlBhizGbkAe3v.jpg",
+  "releaseDate": "2018-06-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "50caeb62-1c5e-4f74-bb23-f6dc8ff3ff95",
+      "title": "Ocean's 8",
+      "subtitle": null,
+      "timestampString": "00:35:50",
+      "timestampInSeconds": 2150,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #146",
+        "youtubeId": "sfip_5w7OMc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/sfip_5w7OMc/hqdefault.jpg",
+        "durationInMinutes": 163,
+        "releaseDate": 1530162133000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "fad572d7-4b23-4285-955d-223f31dfe495",
+            "name": "Szöllőskei Gábor"
+          }
+        ]
+      }
+    }
+  ]
+}

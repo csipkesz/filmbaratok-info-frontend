@@ -1,0 +1,41 @@
+{
+  "id": "b6278df3-5b8d-4fc5-b7f5-3edc96879bfe",
+  "title": "Hamnet",
+  "originalTitle": "Hamnet",
+  "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
+  "backdropPath": "/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
+  "posterPath": "/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+  "releaseDate": "2025-11-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "809ccbfd-272e-4de0-9ea1-1f33fae12d22",
+      "title": "Hamnet",
+      "subtitle": null,
+      "timestampString": "01:02:55",
+      "timestampInSeconds": 3775,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #320",
+        "youtubeId": "JOlQcUNht4E",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JOlQcUNht4E/hqdefault.jpg",
+        "durationInMinutes": 181,
+        "releaseDate": 1771072699000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "be07bf57-0508-4b43-9932-54e2645eb054",
+  "title": "Just Mercy",
+  "originalTitle": "Just Mercy",
+  "overview": "The powerful true story of Harvard-educated lawyer Bryan Stevenson, who goes to Alabama to defend the disenfranchised and wrongly condemned — including Walter McMillian, a man sentenced to death despite evidence proving his innocence. Bryan fights tirelessly for Walter with the system stacked against them.",
+  "backdropPath": "/wfabrzHzfYTdCj3iSCY7OEQbND0.jpg",
+  "posterPath": "/2bDZl3PzFLFWe4gaFUQnnaslqT3.jpg",
+  "releaseDate": "2019-12-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f38837a6-7b7c-4662-a407-eff5fa55820e",
+      "title": "Just Mercy",
+      "subtitle": null,
+      "timestampString": "01:27:00",
+      "timestampInSeconds": 5220,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #188",
+        "youtubeId": "0HEzLOYhLD4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/0HEzLOYhLD4/hqdefault.jpg",
+        "durationInMinutes": 184,
+        "releaseDate": 1587743952000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

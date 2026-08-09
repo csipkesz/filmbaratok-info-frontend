@@ -1,0 +1,45 @@
+{
+  "id": "6cf153b4-5528-482e-9889-a9af9c902ed4",
+  "title": "A 13. emelet",
+  "originalTitle": "The Thirteenth Floor",
+  "overview": "In Los Angeles, a wealthy man, known as Mr. Fuller, discovers a shocking secret about the world he lives in. Fearing for his life, he leaves a desperate message for a friend of his in the most unexpected place.",
+  "backdropPath": "/nJ0jz1J3zNja31UEMeklhgFeMw5.jpg",
+  "posterPath": "/7oaie3ZBc9UuWZLF24crro1pone.jpg",
+  "releaseDate": "1999-04-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d4850ec9-7e6d-467c-9d70-19ee17c7a3d6",
+      "title": "A 13. emelet",
+      "subtitle": null,
+      "timestampString": "00:26:33",
+      "timestampInSeconds": 1593,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #285 (1999-es filmek)",
+        "youtubeId": "9AOI1V1MgRI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9AOI1V1MgRI/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1725038107000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

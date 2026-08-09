@@ -1,0 +1,41 @@
+{
+  "id": "27040f67-ff2e-434a-8427-8f477066be18",
+  "title": "Száll a kakukk fészkére",
+  "originalTitle": "One Flew Over the Cuckoo's Nest",
+  "overview": "A petty criminal fakes insanity to serve his sentence in a mental ward rather than prison. He soon finds himself as a leader to the other patients—and an enemy to the cruel, domineering nurse who runs the ward.",
+  "backdropPath": "/uA8eSNAUUUyfHNIrG4h0zHxzt9W.jpg",
+  "posterPath": "/kjWsMh72V6d8KRLV4EOoSJLT1H7.jpg",
+  "releaseDate": "1975-11-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "26569531-4c4a-4a3f-a9a3-08ae6d92d587",
+      "title": "Száll a kakukk fészkére",
+      "subtitle": null,
+      "timestampString": "02:47:48",
+      "timestampInSeconds": 10068,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #262",
+        "youtubeId": "vHivX-OmQEI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/vHivX-OmQEI/hqdefault.jpg",
+        "durationInMinutes": 199,
+        "releaseDate": 1695357459000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

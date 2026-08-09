@@ -1,0 +1,28 @@
+{
+  "id": "2467b3fa-e1bf-4411-ac41-f0c9fba8aa22",
+  "title": "Weiner",
+  "originalTitle": "Weiner",
+  "overview": "Documentary featuring a jaw-dropping, behind-the-scenes look at the attempted comeback of Anthony Weiner in 2013 as he mounts a campaign for New York City mayor in the wake of his sexting scandal. Featuring unfettered access to the candidate and his campaign.",
+  "backdropPath": "/1TjFPOmvaL8TJfPt0J3neLKjNvt.jpg",
+  "posterPath": "/r3eyunSmbTmvCSrKkU7YCmPyLQU.jpg",
+  "releaseDate": "2016-05-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "403be3fd-573d-4ebd-9195-55fae4efdc28",
+      "title": "Weiner",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Weiner",
+        "youtubeId": "iR2cccxLsnw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/iR2cccxLsnw/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1499580877000,
+        "participants": []
+      }
+    }
+  ]
+}

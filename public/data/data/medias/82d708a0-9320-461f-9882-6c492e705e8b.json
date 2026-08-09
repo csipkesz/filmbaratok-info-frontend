@@ -1,0 +1,45 @@
+{
+  "id": "82d708a0-9320-461f-9882-6c492e705e8b",
+  "title": "Airplane",
+  "originalTitle": "Airplane!",
+  "overview": "An ex-fighter pilot forced to take over the controls of an airliner when the flight crew succumbs to food poisoning.",
+  "backdropPath": "/wQyvrsNSTzFVEGgarZbFkFyIciy.jpg",
+  "posterPath": "/7Q3efxd3AF1vQjlSxnlerSA7RzN.jpg",
+  "releaseDate": "1980-06-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3c4d5bb4-a387-46ba-983c-aaebd3a1a470",
+      "title": "Airplane",
+      "subtitle": null,
+      "timestampString": "02:11:14",
+      "timestampInSeconds": 7874,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #219",
+        "youtubeId": "h8nzJYoqTuY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/h8nzJYoqTuY/hqdefault.jpg",
+        "durationInMinutes": 195,
+        "releaseDate": 1632931799000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

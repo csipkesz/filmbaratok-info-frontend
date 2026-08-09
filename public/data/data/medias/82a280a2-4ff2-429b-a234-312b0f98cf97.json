@@ -1,0 +1,41 @@
+{
+  "id": "82a280a2-4ff2-429b-a234-312b0f98cf97",
+  "title": "Apánk / Our father",
+  "originalTitle": "Our Father",
+  "overview": "After a woman's at-home DNA test reveals multiple half-siblings, she discovers a shocking scheme involving donor sperm and a popular fertility doctor.",
+  "backdropPath": "/iuGaTFUUNlkSAyyULZVKt9ZwBzg.jpg",
+  "posterPath": "/maG75HDZbOwywDFd1h195CA8I36.jpg",
+  "releaseDate": "2022-05-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "82a51e97-68d0-44c4-85af-b22229698f86",
+      "title": "Apánk / Our father",
+      "subtitle": null,
+      "timestampString": "01:45:45",
+      "timestampInSeconds": 6345,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #234",
+        "youtubeId": "IyLcC8Sig7I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IyLcC8Sig7I/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1655823277000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

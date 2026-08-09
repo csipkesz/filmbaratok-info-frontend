@@ -1,0 +1,37 @@
+{
+  "id": "99915513-e483-4805-aa5d-3abe0b7f38b3",
+  "title": "Tűzgyűrű (Pacific Rim)",
+  "originalTitle": "Pacific Rim",
+  "overview": "Using massive piloted robots to combat the alien threat, earth's survivors take the fight to the invading alien force lurking in the depths of the Pacific Ocean. Nearly defenseless in the face of the relentless enemy, the forces of mankind have no choice but to turn to two unlikely heroes who now stand as earth's final hope against the mounting apocalypse.",
+  "backdropPath": "/9X7Im1YuBhyHYVD8r7CAONPJR5k.jpg",
+  "posterPath": "/8wo4eN8dWKaKlxhSvBz19uvj8gA.jpg",
+  "releaseDate": "2013-07-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "db5c108c-75ab-44f3-8027-038495a39c54",
+      "title": "Tűzgyűrű (Pacific Rim)",
+      "subtitle": null,
+      "timestampString": "00:28:59",
+      "timestampInSeconds": 1739,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #33",
+        "youtubeId": "IomFNhWRQNA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IomFNhWRQNA/hqdefault.jpg",
+        "durationInMinutes": 148,
+        "releaseDate": 1375255137000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

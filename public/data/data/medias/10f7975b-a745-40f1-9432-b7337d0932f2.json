@@ -1,0 +1,45 @@
+{
+  "id": "10f7975b-a745-40f1-9432-b7337d0932f2",
+  "title": "Képzeletbeli",
+  "originalTitle": "Imaginary",
+  "overview": "When Jessica moves back into her childhood home with her family, her youngest stepdaughter Alice develops an eerie attachment to a stuffed bear named Chauncey she finds in the basement. Alice starts playing games with Chauncey that begin playful and become increasingly sinister. As Alice’s behavior becomes more and more concerning, Jessica intervenes only to realize Chauncey is much more than the stuffed toy bear she believed him to be.",
+  "backdropPath": "/TGsfNWkASegCfAn6ED1b08a9O6.jpg",
+  "posterPath": "/bPCxkrCEGJmaYfvdXj0x3mCLbGr.jpg",
+  "releaseDate": "2024-03-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3f6586d9-da07-4d97-afc7-d573723d8e18",
+      "title": "Képzeletbeli",
+      "subtitle": null,
+      "timestampString": "01:43:40",
+      "timestampInSeconds": 6220,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #274",
+        "youtubeId": "U5btDyv5pPk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/U5btDyv5pPk/hqdefault.jpg",
+        "durationInMinutes": 285,
+        "releaseDate": 1710534459000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

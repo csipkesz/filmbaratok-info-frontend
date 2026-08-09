@@ -1,0 +1,45 @@
+{
+  "id": "ad1db4ca-e0b1-465c-ac7d-802fa149c1b2",
+  "title": "Egy kívételes barát / A Beautiful Day in the Neighborhood",
+  "originalTitle": "A Beautiful Day in the Neighborhood",
+  "overview": "An award-winning cynical journalist, Lloyd Vogel, begrudgingly accepts an assignment to write an Esquire profile piece on the beloved television icon Fred Rogers. After his encounter with Rogers, Vogel's perspective on life is transformed.",
+  "backdropPath": "/cSJMk9Jar8SibFXL8JAF9p2fhKu.jpg",
+  "posterPath": "/pgxn1siPnWbSOKUeovfC86OwhWU.jpg",
+  "releaseDate": "2019-09-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d1553f19-9aae-4e2a-89fe-50ab55160112",
+      "title": "Egy kívételes barát / A Beautiful Day in the Neighborhood",
+      "subtitle": null,
+      "timestampString": "03:02:28",
+      "timestampInSeconds": 10948,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #185",
+        "youtubeId": "eq07jUces30",
+        "thumbnailUrl": "https://i.ytimg.com/vi/eq07jUces30/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1582698378000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

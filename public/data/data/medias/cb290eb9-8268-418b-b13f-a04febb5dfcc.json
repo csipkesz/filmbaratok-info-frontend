@@ -1,0 +1,45 @@
+{
+  "id": "cb290eb9-8268-418b-b13f-a04febb5dfcc",
+  "title": "Hobo with a shotgun / Koldus puskával",
+  "originalTitle": "Hobo with a Shotgun",
+  "overview": "A vigilante homeless man pulls into a new city and finds himself trapped in urban chaos, a city where crime rules and where the city's crime boss reigns. Seeing an urban landscape filled with armed robbers, corrupt cops, abused prostitutes and even a pedophile Santa, the Hobo goes about bringing justice to the city the best way he knows how - with a 20-gauge shotgun. Mayhem ensues when he tries to make things better for the future generation. Street justice will indeed prevail.",
+  "backdropPath": "/7ugJdVksDA4oYCxZY6tHhsG2NyV.jpg",
+  "posterPath": "/xxMaO7VoN2BnZit79PedVHnTjcO.jpg",
+  "releaseDate": "2011-05-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "68f4f136-390e-407d-bd62-81af56623562",
+      "title": "Hobo with a shotgun / Koldus puskával",
+      "subtitle": null,
+      "timestampString": "01:26:35",
+      "timestampInSeconds": 5195,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #55",
+        "youtubeId": "QgGmQw_m1m8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/QgGmQw_m1m8/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1407941546000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

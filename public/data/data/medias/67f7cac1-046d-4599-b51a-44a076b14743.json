@@ -1,0 +1,45 @@
+{
+  "id": "67f7cac1-046d-4599-b51a-44a076b14743",
+  "title": "A gigantikus tehetség elviselhetetlen súlya",
+  "originalTitle": null,
+  "overview": null,
+  "backdropPath": null,
+  "posterPath": null,
+  "releaseDate": null,
+  "topics": [
+    {
+      "id": "04b6dd9c-cd7b-4854-903d-c1ac588e83fd",
+      "title": "A gigantikus tehetség elviselhetetlen súlya",
+      "subtitle": null,
+      "timestampString": "01:58:55",
+      "timestampInSeconds": 7135,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #233",
+        "youtubeId": "YF7Jep8cRvw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/YF7Jep8cRvw/hqdefault.jpg",
+        "durationInMinutes": 256,
+        "releaseDate": 1654016337000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

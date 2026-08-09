@@ -1,0 +1,41 @@
+{
+  "id": "ba715a6c-50cd-4a5e-8e58-fde791a9bc2b",
+  "title": "Elit Halálosztók 2",
+  "originalTitle": "Tropa de Elite 2",
+  "overview": "After a bloody invasion of the BOPE in the High-Security Penitentiary Bangu 1 in Rio de Janeiro to control a rebellion of interns, the Lieutenant-Colonel Roberto Nascimento and the second in command Captain André Matias are accused by the Human Right Aids member Diogo Fraga of execution of prisoners. Matias is transferred to the corrupted Military Police and Nascimento is exonerated from the BOPE by the Governor.",
+  "backdropPath": "/tmowA51oykuOdiyqRCP0jGYU1mB.jpg",
+  "posterPath": "/c7yCrf3PTSdp6RMGktZQhzFcFFM.jpg",
+  "releaseDate": "2010-10-08T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "60431bd4-6c5a-4ae8-9b7c-121724fd4c38",
+      "title": "Elit Halálosztók 1-2",
+      "subtitle": null,
+      "timestampString": "01:44:53",
+      "timestampInSeconds": 6293,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #45",
+        "youtubeId": "9hNSnIZK61I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9hNSnIZK61I/hqdefault.jpg",
+        "durationInMinutes": 145,
+        "releaseDate": 1392563971000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

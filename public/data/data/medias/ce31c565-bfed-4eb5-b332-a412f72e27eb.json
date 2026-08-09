@@ -1,0 +1,45 @@
+{
+  "id": "ce31c565-bfed-4eb5-b332-a412f72e27eb",
+  "title": "Atomszőke",
+  "originalTitle": "Atomic Blonde",
+  "overview": "An undercover MI6 agent is sent to Berlin during the Cold War to investigate the murder of a fellow agent and recover a missing list of double agents.",
+  "backdropPath": "/g3hni0i9iAQ13jDGOFWavJFlojc.jpg",
+  "posterPath": "/kV9R5h0Yct1kR8Hf8sJ1nX0Vz4x.jpg",
+  "releaseDate": "2017-07-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0907faa0-109f-4e49-b395-b592ca5271af",
+      "title": "Atomszőke",
+      "subtitle": null,
+      "timestampString": "01:25:55",
+      "timestampInSeconds": 5155,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #126",
+        "youtubeId": "oxUIpjJRf-Q",
+        "thumbnailUrl": "https://i.ytimg.com/vi/oxUIpjJRf-Q/hqdefault.jpg",
+        "durationInMinutes": 182,
+        "releaseDate": 1501690310000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

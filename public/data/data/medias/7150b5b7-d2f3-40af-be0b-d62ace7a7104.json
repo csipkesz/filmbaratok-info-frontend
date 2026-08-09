@@ -1,0 +1,45 @@
+{
+  "id": "7150b5b7-d2f3-40af-be0b-d62ace7a7104",
+  "title": "Idegpálya",
+  "originalTitle": "Nerve",
+  "overview": "Industrious high school senior Vee Delmonico has had it with living life on the sidelines. When pressured by friends to join the popular online game Nerve, Vee decides to sign up for just one dare in what seems like harmless fun. But as she finds herself caught up in the thrill of the adrenaline-fueled competition partnered with a mysterious stranger, the game begins to take a sinister turn with increasingly dangerous acts, leading her into a high stakes finale that will determine her entire future.",
+  "backdropPath": "/fg04CQyJzuDJ82jm2meY37n9XyE.jpg",
+  "posterPath": "/qmSpHC0CSNyNll9WhlwWYuwoQ28.jpg",
+  "releaseDate": "2016-06-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c6d2be55-4a8d-4513-aca8-a57755db771c",
+      "title": "Idegpálya",
+      "subtitle": null,
+      "timestampString": "02:25:38",
+      "timestampInSeconds": 8738,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #107",
+        "youtubeId": "nil8BrN67hQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nil8BrN67hQ/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1475265113000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "683340f5-5656-4c13-a8db-8646b552c880",
+            "name": "Emese"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

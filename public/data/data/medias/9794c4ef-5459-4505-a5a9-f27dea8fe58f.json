@@ -1,0 +1,45 @@
+{
+  "id": "9794c4ef-5459-4505-a5a9-f27dea8fe58f",
+  "title": "Ananász expressz",
+  "originalTitle": "Pineapple Express",
+  "overview": "A stoner and his dealer are forced to go on the run from the police after the pothead witnesses a cop commit a murder.",
+  "backdropPath": "/aO6Z7ErkEoahGFKYdEs4k4ilWFe.jpg",
+  "posterPath": "/6E50WjeOYjDZg9HXgPjYdGtY2jG.jpg",
+  "releaseDate": "2008-08-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4cb80d08-1cea-4396-aaa3-d1562c91cc97",
+      "title": "Ananász expressz",
+      "subtitle": null,
+      "timestampString": "01:40:06",
+      "timestampInSeconds": 6006,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #65",
+        "youtubeId": "Nho9twpqK9c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Nho9twpqK9c/hqdefault.jpg",
+        "durationInMinutes": 210,
+        "releaseDate": 1420868167000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

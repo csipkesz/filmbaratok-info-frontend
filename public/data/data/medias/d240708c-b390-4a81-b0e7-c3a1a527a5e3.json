@@ -1,0 +1,45 @@
+{
+  "id": "d240708c-b390-4a81-b0e7-c3a1a527a5e3",
+  "title": "Dominó",
+  "originalTitle": "Domino",
+  "overview": "Seeking justice for his partner’s murder by an ISIS member, a Copenhagen police officer finds himself caught in a cat and mouse game with a duplicitous CIA agent who is using the killer as a pawn to trap other ISIS members.",
+  "backdropPath": "/oVW0qhssm5NsOqTEJgO9DRH2lYT.jpg",
+  "posterPath": "/4ExrDZRhhmZkveXMjUzywc6266q.jpg",
+  "releaseDate": "2019-05-31T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e4a68ca3-7e70-4899-90b6-0f08a7eda1d1",
+      "title": "Dominó",
+      "subtitle": null,
+      "timestampString": "02:27:24",
+      "timestampInSeconds": 8844,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #170",
+        "youtubeId": "tw65hAXphtM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tw65hAXphtM/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1561124178000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

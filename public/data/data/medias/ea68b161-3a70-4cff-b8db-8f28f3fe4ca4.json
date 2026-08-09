@@ -1,0 +1,41 @@
+{
+  "id": "ea68b161-3a70-4cff-b8db-8f28f3fe4ca4",
+  "title": "Upgrade",
+  "originalTitle": "Upgrade",
+  "overview": "A brutal mugging leaves Grey Trace paralyzed in the hospital and his beloved wife dead. A billionaire inventor soon offers Trace a cure — an artificial intelligence implant called STEM that will enhance his body. Now able to walk, Grey finds that he also has superhuman strength and agility — skills he uses to seek revenge against the thugs who destroyed his life.",
+  "backdropPath": "/oiPUcD1IIZrYGTSIpvTmd3dRmPo.jpg",
+  "posterPath": "/woLGROUdPWdBnLVFKYdGD3kFkPY.jpg",
+  "releaseDate": "2018-05-31T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "aff82294-6212-4d53-a02c-9583a84aef69",
+      "title": "Upgrade",
+      "subtitle": null,
+      "timestampString": "02:33:11",
+      "timestampInSeconds": 9191,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #151",
+        "youtubeId": "hcylcX_kgM0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/hcylcX_kgM0/hqdefault.jpg",
+        "durationInMinutes": 234,
+        "releaseDate": 1537428229000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

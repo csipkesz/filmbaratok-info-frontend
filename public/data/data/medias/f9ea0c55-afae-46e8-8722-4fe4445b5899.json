@@ -1,0 +1,49 @@
+{
+  "id": "f9ea0c55-afae-46e8-8722-4fe4445b5899",
+  "title": "Malcolm & Marie",
+  "originalTitle": "Malcolm & Marie",
+  "overview": "As a filmmaker and his girlfriend return home from his movie premiere, smoldering tensions and painful revelations push them toward a romantic reckoning.",
+  "backdropPath": "/xLsM5yTg9he5PWXXbrwzw1Wg8xp.jpg",
+  "posterPath": "/bdidDnAZwchN5vTenoNuhGPJTri.jpg",
+  "releaseDate": "2021-01-29T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fa09fc64-f709-4f61-bcdf-9c1812ae7af2",
+      "title": "Malcolm & Marie",
+      "subtitle": null,
+      "timestampString": "02:28:40",
+      "timestampInSeconds": 8920,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #206",
+        "youtubeId": "S-UKPF0VNZA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/S-UKPF0VNZA/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1613740510000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

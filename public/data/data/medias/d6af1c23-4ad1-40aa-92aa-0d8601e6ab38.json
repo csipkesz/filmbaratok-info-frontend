@@ -1,0 +1,41 @@
+{
+  "id": "d6af1c23-4ad1-40aa-92aa-0d8601e6ab38",
+  "title": "Supergirl",
+  "originalTitle": "Supergirl",
+  "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+  "backdropPath": "/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
+  "posterPath": "/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
+  "releaseDate": "2026-06-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "eae5a1f3-7b51-49aa-87cf-32df74844131",
+      "title": "Supergirl",
+      "subtitle": null,
+      "timestampString": "01:03:50",
+      "timestampInSeconds": 3830,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #330",
+        "youtubeId": "AgwfP4V1UCo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/AgwfP4V1UCo/hqdefault.jpg",
+        "durationInMinutes": 207,
+        "releaseDate": 1784150438000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "723a7ceb-d9b4-406e-aef0-404d26059a4f",
+            "name": "Márk"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

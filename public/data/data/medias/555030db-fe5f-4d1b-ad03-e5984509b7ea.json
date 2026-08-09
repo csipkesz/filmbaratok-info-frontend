@@ -1,0 +1,45 @@
+{
+  "id": "555030db-fe5f-4d1b-ad03-e5984509b7ea",
+  "title": "A lány a vonaton",
+  "originalTitle": "The Girl on the Train",
+  "overview": "Rachel Watson, devastated by her recent divorce, spends her daily commute fantasizing about the seemingly perfect couple who live in a house that her train passes every day, until one morning she sees something shocking happen there and becomes entangled in the mystery that unfolds.",
+  "backdropPath": "/hmMnCqNnHPvQhuxynSVAqQWmQVK.jpg",
+  "posterPath": "/AhTO2QWG0tug7yDoh0XoaMhPt3J.jpg",
+  "releaseDate": "2016-10-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1c5c7739-4015-4426-9e8d-34d6b92d0fa0",
+      "title": "A lány a vonaton",
+      "subtitle": null,
+      "timestampString": "00:59:25",
+      "timestampInSeconds": 3565,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #109",
+        "youtubeId": "J8Vj2ckmHM4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/J8Vj2ckmHM4/hqdefault.jpg",
+        "durationInMinutes": 132,
+        "releaseDate": 1477582510000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

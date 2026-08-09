@@ -1,0 +1,45 @@
+{
+  "id": "281d6e25-a26a-46ad-b9a5-9f559dbfd190",
+  "title": "Angyalok és démonok",
+  "originalTitle": "Angels & Demons",
+  "overview": "Harvard symbologist Robert Langdon is recruited by the Vatican to investigate the apparent return of the Illuminati – a secret, underground organization – after four cardinals are kidnapped on the night of the papal conclave.",
+  "backdropPath": "/olz8Xw3yOLpBAHKgPoSRwmomdM.jpg",
+  "posterPath": "/tFZQAuulEOtFTp0gHbVdEXwGrYe.jpg",
+  "releaseDate": "2009-04-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ff6d03f8-cf61-46a1-914f-d19fca9bf274",
+      "title": "Angyalok és démonok",
+      "subtitle": null,
+      "timestampString": "03:25:33",
+      "timestampInSeconds": 12333,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #233",
+        "youtubeId": "YF7Jep8cRvw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/YF7Jep8cRvw/hqdefault.jpg",
+        "durationInMinutes": 256,
+        "releaseDate": 1654016337000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

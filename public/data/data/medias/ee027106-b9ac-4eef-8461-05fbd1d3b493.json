@@ -1,0 +1,45 @@
+{
+  "id": "ee027106-b9ac-4eef-8461-05fbd1d3b493",
+  "title": "The Toxic Avenger [2023]",
+  "originalTitle": null,
+  "overview": null,
+  "backdropPath": null,
+  "posterPath": null,
+  "releaseDate": null,
+  "topics": [
+    {
+      "id": "6f80a0d9-2299-4b18-9c19-ec8acb145187",
+      "title": "The Toxic Avenger [2023]",
+      "subtitle": null,
+      "timestampString": "02:26:46",
+      "timestampInSeconds": 8806,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #323",
+        "youtubeId": "1Y8m-2qsHhw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/1Y8m-2qsHhw/hqdefault.jpg",
+        "durationInMinutes": 209,
+        "releaseDate": 1775020201000,
+        "participants": [
+          {
+            "id": "202ee440-1f5d-4590-a0e8-822ce80899ce",
+            "name": "Zétény"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

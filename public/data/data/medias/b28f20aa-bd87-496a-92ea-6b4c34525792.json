@@ -1,0 +1,41 @@
+{
+  "id": "b28f20aa-bd87-496a-92ea-6b4c34525792",
+  "title": "Éjszakai merülés",
+  "originalTitle": "Night Swim",
+  "overview": "Forced into early retirement by a degenerative illness, former baseball player Ray Waller moves into a new house with his wife and two children. He hopes that the backyard swimming pool will be fun for the kids and provide physical therapy for himself. However, a dark secret from the home's past soon unleashes a malevolent force that drags the family into the depths of inescapable terror.",
+  "backdropPath": "/aZ8dBIvpDFp9cp23MfBiY5mWfuy.jpg",
+  "posterPath": "/gSkfBGdxdialBMM7P02V4hcI6Ij.jpg",
+  "releaseDate": "2024-01-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a92a4187-4e59-45e6-8da7-9da2e236ee3c",
+      "title": "Éjszakai merülés",
+      "subtitle": null,
+      "timestampString": "02:25:10",
+      "timestampInSeconds": 8710,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #271",
+        "youtubeId": "vCypCwFTSIU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/vCypCwFTSIU/hqdefault.jpg",
+        "durationInMinutes": 227,
+        "releaseDate": 1706733909000,
+        "participants": [
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

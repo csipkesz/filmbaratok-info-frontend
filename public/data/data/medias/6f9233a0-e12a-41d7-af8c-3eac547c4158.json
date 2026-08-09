@@ -1,0 +1,58 @@
+{
+  "id": "6f9233a0-e12a-41d7-af8c-3eac547c4158",
+  "title": "Elfújta a szél",
+  "originalTitle": "Gone with the Wind",
+  "overview": "The spoiled daughter of a Georgia plantation owner conducts a tumultuous romance with a cynical profiteer during the American Civil War and Reconstruction Era.",
+  "backdropPath": "/4FHcxMtVruMr7ltU2cItWssLjTP.jpg",
+  "posterPath": "/lNz2Ow0wGCAvzckW7EOjE03KcYv.jpg",
+  "releaseDate": "1939-12-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a5f91ed3-7a9c-400e-9923-fe28dc78405d",
+      "title": "Elfújta a szél",
+      "subtitle": null,
+      "timestampString": "02:04:20",
+      "timestampInSeconds": 7460,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #95",
+        "youtubeId": "IB6YAtikVd0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IB6YAtikVd0/hqdefault.jpg",
+        "durationInMinutes": 151,
+        "releaseDate": 1459485369000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c800220e-3afe-48db-959a-51956be26fe5",
+      "title": "Elfújta a szél",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Elfújta a szél",
+        "youtubeId": "SawaSOVe9v0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/SawaSOVe9v0/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1460305402000,
+        "participants": []
+      }
+    }
+  ]
+}

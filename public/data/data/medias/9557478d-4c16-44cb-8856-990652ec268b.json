@@ -1,0 +1,45 @@
+{
+  "id": "9557478d-4c16-44cb-8856-990652ec268b",
+  "title": "A bosszú",
+  "originalTitle": "A bosszú",
+  "overview": "",
+  "backdropPath": null,
+  "posterPath": "/dlodDVw3DZo8Qq32dk75NV9ztzK.jpg",
+  "releaseDate": "1977-01-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3b1c5b88-bde1-4c51-b10e-6a6c46a729a8",
+      "title": "A bosszú",
+      "subtitle": null,
+      "timestampString": "01:21:30",
+      "timestampInSeconds": 4890,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #143",
+        "youtubeId": "l804b8dtAzA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/l804b8dtAzA/hqdefault.jpg",
+        "durationInMinutes": 166,
+        "releaseDate": 1526485744000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

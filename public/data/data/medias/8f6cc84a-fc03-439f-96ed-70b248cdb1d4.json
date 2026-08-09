@@ -1,0 +1,45 @@
+{
+  "id": "8f6cc84a-fc03-439f-96ed-70b248cdb1d4",
+  "title": "Elio",
+  "originalTitle": "Elio",
+  "overview": "Elio, a space fanatic with an active imagination, finds himself on a cosmic misadventure where he must form new bonds with eccentric alien lifeforms, navigate a crisis of intergalactic proportions and somehow discover who he is truly meant to be.",
+  "backdropPath": "/ukPu5xYOBAnh5H46uK4aQOirW2b.jpg",
+  "posterPath": "/7z8jDiTZZco9moIKpTUImFtTy7o.jpg",
+  "releaseDate": "2025-06-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "97d5fd62-fa80-4bb5-8df5-0908389f034b",
+      "title": "Elio",
+      "subtitle": null,
+      "timestampString": "01:42:15",
+      "timestampInSeconds": 6135,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #305",
+        "youtubeId": "lzDte9B9xGc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/lzDte9B9xGc/hqdefault.jpg",
+        "durationInMinutes": 222,
+        "releaseDate": 1750949472000,
+        "participants": [
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "77e36baa-ae4b-417f-bdac-aacb64baada6",
+            "name": "Ódor Kristóf"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

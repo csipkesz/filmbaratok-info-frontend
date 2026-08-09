@@ -1,0 +1,49 @@
+{
+  "id": "60d11d08-0271-431d-90b1-281846a06761",
+  "title": "A tengeri fenevad",
+  "originalTitle": "The Sea Beast",
+  "overview": "When a young girl stows away on the ship of a legendary sea monster hunter, they launch an epic journey into uncharted waters — and make history to boot.",
+  "backdropPath": "/wUwizGzbTk5CTiKBnE4Pq1MONwD.jpg",
+  "posterPath": "/9Zfv4Ap1e8eKOYnZPtYaWhLkk0d.jpg",
+  "releaseDate": "2022-06-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "805397d0-6fae-4b2d-aae5-70d8cb864aa0",
+      "title": "A tengeri fenevad",
+      "subtitle": null,
+      "timestampString": "02:41:20",
+      "timestampInSeconds": 9680,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #236",
+        "youtubeId": "amde_-Gdpc4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/amde_-Gdpc4/hqdefault.jpg",
+        "durationInMinutes": 262,
+        "releaseDate": 1658250003000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

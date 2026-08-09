@@ -1,0 +1,45 @@
+{
+  "id": "f05218d9-326e-4953-b1e1-02650cfce116",
+  "title": "Van aki forrón szereti",
+  "originalTitle": "Some Like It Hot",
+  "overview": "In Prohibition-era Chicago, musicians Joe and Jerry witness a mob hit, and flee the state in an all-female band disguised as Josephine and Daphne, but further complications set in.",
+  "backdropPath": "/5zTwAcnI3zCJ0mucPPnoBtkSWEV.jpg",
+  "posterPath": "/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg",
+  "releaseDate": "1959-03-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "137e037f-58b3-424a-ae01-6ca4fc6a6f48",
+      "title": "Van aki forrón szereti",
+      "subtitle": null,
+      "timestampString": "01:59:42",
+      "timestampInSeconds": 7182,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #98",
+        "youtubeId": "5mDA3_R1VRw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/5mDA3_R1VRw/hqdefault.jpg",
+        "durationInMinutes": 152,
+        "releaseDate": 1463075301000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

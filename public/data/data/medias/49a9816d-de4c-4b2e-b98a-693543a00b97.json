@@ -1,0 +1,49 @@
+{
+  "id": "49a9816d-de4c-4b2e-b98a-693543a00b97",
+  "title": "Mank",
+  "originalTitle": "Mank",
+  "overview": "1930s Hollywood is reevaluated through the eyes of scathing social critic and alcoholic screenwriter Herman J. Mankiewicz as he races to finish the screenplay of Citizen Kane.",
+  "backdropPath": "/hBOH4PNnhcGPgZbZjBwkx9gnNxI.jpg",
+  "posterPath": "/4yzTcAtvzyZLLto4z04xobUK9el.jpg",
+  "releaseDate": "2020-11-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "125abdc7-d0c6-4aa6-bbe4-3676b122e0b9",
+      "title": "Mank",
+      "subtitle": null,
+      "timestampString": "01:21:10",
+      "timestampInSeconds": 4870,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #203",
+        "youtubeId": "TH0CGD6FmvQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/TH0CGD6FmvQ/hqdefault.jpg",
+        "durationInMinutes": 297,
+        "releaseDate": 1609408808000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "0c508c64-88b6-41ec-ae19-98d5d107fab1",
+  "title": "A 13. harcos",
+  "originalTitle": "The 13th Warrior",
+  "overview": "A Muslim ambassador exiled from his homeland joins a group of Vikings, initially offended by their behavior but growing to respect them. As they travel together, they learn of a legendary evil closing in and must unite to confront this formidable force.",
+  "backdropPath": "/sjZIN2oDzOLGYuz21QwWw1tJ8ly.jpg",
+  "posterPath": "/pj1IQQ7ajwaOrjjTCxyM1L4mSnX.jpg",
+  "releaseDate": "1999-08-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9d402825-7e55-4d7b-a9d5-8766bfe9f205",
+      "title": "A 13. harcos",
+      "subtitle": null,
+      "timestampString": "00:47:15",
+      "timestampInSeconds": 2835,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #285 (1999-es filmek)",
+        "youtubeId": "9AOI1V1MgRI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9AOI1V1MgRI/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1725038107000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

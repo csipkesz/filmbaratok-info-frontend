@@ -1,0 +1,41 @@
+{
+  "id": "07c17b7b-4056-4e69-a7e3-0ff94d8ceb60",
+  "title": "Chaos Walking",
+  "originalTitle": "Chaos Walking",
+  "overview": "Two unlikely companions embark on a perilous adventure through the badlands of an unexplored planet as they try to escape a dangerous and disorienting reality, where all inner thoughts are seen and heard by everyone.",
+  "backdropPath": "/qCPLtXrTB10UsgAFxsWOB44gDPu.jpg",
+  "posterPath": "/xAYGdGBGptNkisXRpmhZSry6SPF.jpg",
+  "releaseDate": "2021-02-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5987dd0b-ddfb-4464-b803-7cd8292edc38",
+      "title": "Chaos Walking",
+      "subtitle": null,
+      "timestampString": "02:41:09",
+      "timestampInSeconds": 9669,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #213",
+        "youtubeId": "JtzuuNOeIxc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JtzuuNOeIxc/hqdefault.jpg",
+        "durationInMinutes": 200,
+        "releaseDate": 1624372656000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

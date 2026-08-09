@@ -1,0 +1,41 @@
+{
+  "id": "24c1f904-3074-4de1-a25e-f4292e51902f",
+  "title": "November Man",
+  "originalTitle": "The November Man",
+  "overview": "An ex-CIA operative is brought back in on a very personal mission and finds himself pitted against his former pupil in a deadly game involving high level CIA officials and the Russian president-elect.",
+  "backdropPath": "/qFVv6qw6LqotUQofdwKSvxJfLnu.jpg",
+  "posterPath": "/4ejNFbCgLMDAuy7jFQmc7cr6UAW.jpg",
+  "releaseDate": "2014-08-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "83077912-549b-41e6-a25b-ece83b2d0176",
+      "title": "November Man",
+      "subtitle": null,
+      "timestampString": "00:59:04",
+      "timestampInSeconds": 3544,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #59",
+        "youtubeId": "xa1Ymms2_9c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/xa1Ymms2_9c/hqdefault.jpg",
+        "durationInMinutes": 189,
+        "releaseDate": 1413978295000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

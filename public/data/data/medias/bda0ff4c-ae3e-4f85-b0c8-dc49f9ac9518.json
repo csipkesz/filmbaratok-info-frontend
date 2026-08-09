@@ -1,0 +1,45 @@
+{
+  "id": "bda0ff4c-ae3e-4f85-b0c8-dc49f9ac9518",
+  "title": "Így neveld a sárkányodat 3",
+  "originalTitle": "How to Train Your Dragon: The Hidden World",
+  "overview": "As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.",
+  "backdropPath": "/h3KN24PrOheHVYs9ypuOIdFBEpX.jpg",
+  "posterPath": "/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg",
+  "releaseDate": "2019-01-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "323e1c23-0f39-47c7-81d8-9f6334853c75",
+      "title": "Így neveld a sárkányodat 3",
+      "subtitle": null,
+      "timestampString": "00:38:22",
+      "timestampInSeconds": 2302,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #164",
+        "youtubeId": "8dO_Vj7_jg8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/8dO_Vj7_jg8/hqdefault.jpg",
+        "durationInMinutes": 258,
+        "releaseDate": 1553010517000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

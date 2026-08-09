@@ -1,0 +1,45 @@
+{
+  "id": "d0a5115f-3197-44aa-bc49-d13fdd9c804d",
+  "title": "Teljes titoktartás",
+  "originalTitle": "Les Traducteurs",
+  "overview": "Nine translators, hired to translate the eagerly awaited final book of a bestselling trilogy, are confined in a luxurious bunker.",
+  "backdropPath": "/Hu6797iHrAizNSzWxvd8z7CgTR.jpg",
+  "posterPath": "/8A6qALzfMxgj51ly8KyTCZfXutG.jpg",
+  "releaseDate": "2019-12-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4017df8a-5e24-46e3-8b4b-900e7ef40525",
+      "title": "Teljes titoktartás",
+      "subtitle": null,
+      "timestampString": "02:30:25",
+      "timestampInSeconds": 9025,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #305",
+        "youtubeId": "lzDte9B9xGc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/lzDte9B9xGc/hqdefault.jpg",
+        "durationInMinutes": 222,
+        "releaseDate": 1750949472000,
+        "participants": [
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "77e36baa-ae4b-417f-bdac-aacb64baada6",
+            "name": "Ódor Kristóf"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

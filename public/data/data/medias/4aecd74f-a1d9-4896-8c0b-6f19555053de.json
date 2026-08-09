@@ -1,0 +1,41 @@
+{
+  "id": "4aecd74f-a1d9-4896-8c0b-6f19555053de",
+  "title": "Transformers Egy",
+  "originalTitle": "Transformers One",
+  "overview": "The untold origin story of Optimus Prime and Megatron, better known as sworn enemies, but once were friends bonded like brothers who changed the fate of Cybertron forever.",
+  "backdropPath": "/cMfokHWle5lfCreoV08cbmkKv6G.jpg",
+  "posterPath": "/iRCgqpdVE4wyLQvGYU3ZP7pAtUc.jpg",
+  "releaseDate": "2024-09-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "24e59da9-518d-48a2-b067-e4c2f84f70c2",
+      "title": "Transformers Egy",
+      "subtitle": null,
+      "timestampString": "01:43:40",
+      "timestampInSeconds": 6220,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #289",
+        "youtubeId": "25swweCqsZY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/25swweCqsZY/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1730401855000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

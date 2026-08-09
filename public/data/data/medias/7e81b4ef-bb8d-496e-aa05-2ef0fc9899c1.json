@@ -1,0 +1,41 @@
+{
+  "id": "7e81b4ef-bb8d-496e-aa05-2ef0fc9899c1",
+  "title": "Brooklyn",
+  "originalTitle": "Brooklyn",
+  "overview": "In 1950s Ireland and New York, young Eilis Lacey has to choose between two men and two countries.",
+  "backdropPath": "/2T4bqHgYfzXNQoALJsvhW40kDTg.jpg",
+  "posterPath": "/cs7W8j5lI7qzRW6tKSj9p1Q0Ze7.jpg",
+  "releaseDate": "2015-10-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7d6496f4-8a43-4b86-9768-2e227faaebe3",
+      "title": "Brooklyn",
+      "subtitle": null,
+      "timestampString": "01:32:10",
+      "timestampInSeconds": 5530,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #92",
+        "youtubeId": "TLrrzuetTk0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/TLrrzuetTk0/hqdefault.jpg",
+        "durationInMinutes": 156,
+        "releaseDate": 1455295114000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

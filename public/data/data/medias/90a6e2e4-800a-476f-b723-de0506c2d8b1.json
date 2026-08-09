@@ -1,0 +1,28 @@
+{
+  "id": "90a6e2e4-800a-476f-b723-de0506c2d8b1",
+  "title": "Larry",
+  "originalTitle": "Larry",
+  "overview": "Larry lives behind a window. He can see you through the glass. Will you be Larry's friend?",
+  "backdropPath": "/lYuJUokM6qH3VhupimmtOiWcVLU.jpg",
+  "posterPath": "/lpltonaYcPE37bgi8KalTz0pcB9.jpg",
+  "releaseDate": "2017-12-08T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ab8fe240-39a5-4a53-9563-6c27c7f067f5",
+      "title": "Larry",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Larry",
+        "youtubeId": "R0eAHuHzLNk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/R0eAHuHzLNk/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1672471073000,
+        "participants": []
+      }
+    }
+  ]
+}

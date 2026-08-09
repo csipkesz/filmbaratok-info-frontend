@@ -1,0 +1,37 @@
+{
+  "id": "e70e7f8f-75cf-44a8-87c2-940a1a4f5c86",
+  "title": "Kamera által homályosan",
+  "originalTitle": "A Scanner Darkly",
+  "overview": "An undercover cop in a not-too-distant future becomes involved with a dangerous new drug and begins to lose his own identity as a result.",
+  "backdropPath": "/do8idarfaUTxxwaarefTNA724Qj.jpg",
+  "posterPath": "/lUKudOpHICDj6A6SO7DdaZM4W48.jpg",
+  "releaseDate": "2006-07-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3b9ad61f-6422-4a3f-b3c1-3d8455b10e70",
+      "title": "Kamera által homályosan",
+      "subtitle": null,
+      "timestampString": "01:20:52",
+      "timestampInSeconds": 4852,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #33",
+        "youtubeId": "IomFNhWRQNA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IomFNhWRQNA/hqdefault.jpg",
+        "durationInMinutes": 148,
+        "releaseDate": 1375255137000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "405a70f7-90ff-4180-9830-9d9f7df79042",
+  "title": "Tyrone klónja",
+  "originalTitle": "They Cloned Tyrone",
+  "overview": "A series of eerie events thrusts an unlikely trio onto the trail of a nefarious government conspiracy lurking directly beneath their neighborhood.",
+  "backdropPath": "/9mXBHMSDLi0Ty0HXcnLtQnqNBmI.jpg",
+  "posterPath": "/hnzXoDaK346U4ByfvQenu2DZnTg.jpg",
+  "releaseDate": "2023-06-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "10efb44f-911d-4ba8-8b70-b8c78996129d",
+      "title": "Tyrone klónja",
+      "subtitle": null,
+      "timestampString": "01:49:55",
+      "timestampInSeconds": 6595,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #260",
+        "youtubeId": "zYQ9QEagtZM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/zYQ9QEagtZM/hqdefault.jpg",
+        "durationInMinutes": 195,
+        "releaseDate": 1691817511000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "e95dfe17-ab86-403a-9986-dadbf4449971",
+  "title": "Excsajok szelleme",
+  "originalTitle": "Ghosts of Girlfriends Past",
+  "overview": "Celebrity photographer Connor Mead lives life in the fast lane, committed to lifelong bachelorhood and simultaneous relationships with multiple women. On the eve of his younger brother Paul's wedding, Connor's mockery of love proves a real buzz-kill for everyone - including his childhood crush, Jenny, the one woman who always seemed immune to his considerable charms. Later that night, he gets a wake-up call from the ghost of his late Uncle Wayne, the hard-partying, legendary ladies' man who was Connor's mentor. Uncle Wayne has an urgent message which he delivers through three ghosts who guide Connor on an eye-opening tour of his romantic past, present and future. Along the way, they attempt to discern whether he will ever be able to change his ways -- and if there is any hope of him finding true love.",
+  "backdropPath": "/oy9Ox4WGPkOJ3656CNKasVjAnKS.jpg",
+  "posterPath": "/azzg0lv5vpQRoOrZfNVkJn04f1M.jpg",
+  "releaseDate": "2009-05-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c1c3455b-178b-4179-9b00-125ae5163c1c",
+      "title": "Excsajok szelleme",
+      "subtitle": null,
+      "timestampString": "02:25:05",
+      "timestampInSeconds": 8705,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #56",
+        "youtubeId": "IGq19Ebu3DU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IGq19Ebu3DU/hqdefault.jpg",
+        "durationInMinutes": 199,
+        "releaseDate": 1409327568000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

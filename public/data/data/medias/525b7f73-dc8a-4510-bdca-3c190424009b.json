@@ -1,0 +1,45 @@
+{
+  "id": "525b7f73-dc8a-4510-bdca-3c190424009b",
+  "title": "Magyarázat mindenre",
+  "originalTitle": "Magyarázat mindenre",
+  "overview": "It’s summer in Budapest, high school student Abel is struggling to focus on his final exams, whilst coming to the realisation that he is hopelessly in love with his best friend Janka. The studious Janka has her own unrequited love with married history teacher Jakab—who had a previous confrontation with Abel’s conservative father. The tensions of a polarised society come unexpectedly to the surface when Abel’s history graduation exam turns into a national scandal.",
+  "backdropPath": "/feWZmzNPLrJo0cBy5ORlGeMkaJy.jpg",
+  "posterPath": "/dIof786gtEiJjAGBxrAaxDrWnCU.jpg",
+  "releaseDate": "2023-10-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e13d3156-6859-459b-9746-8db2fdf577ff",
+      "title": "Magyarázat mindenre [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "03:33:42",
+      "timestampInSeconds": 12822,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #265",
+        "youtubeId": "W7K_jzS7pPg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/W7K_jzS7pPg/hqdefault.jpg",
+        "durationInMinutes": 254,
+        "releaseDate": 1698781502000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

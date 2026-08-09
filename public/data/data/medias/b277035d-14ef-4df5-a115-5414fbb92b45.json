@@ -1,0 +1,45 @@
+{
+  "id": "b277035d-14ef-4df5-a115-5414fbb92b45",
+  "title": "Dumbo [2019]",
+  "originalTitle": "Dumbo",
+  "overview": "A young elephant, whose oversized ears enable him to fly, helps save a struggling circus, but when the circus plans a new venture, Dumbo and his friends discover dark secrets beneath its shiny veneer.",
+  "backdropPath": "/5tFt6iuGnKapHl5tw0X0cKcnuVo.jpg",
+  "posterPath": "/A7XkpLfNH0El2yyDLc4b0KLAKvE.jpg",
+  "releaseDate": "2019-03-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "29f8057f-dda2-4ce7-9744-322a65101144",
+      "title": "Dumbo [2019]",
+      "subtitle": null,
+      "timestampString": "00:47:53",
+      "timestampInSeconds": 2873,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #166",
+        "youtubeId": "NaqCtn_eZNI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/NaqCtn_eZNI/hqdefault.jpg",
+        "durationInMinutes": 241,
+        "releaseDate": 1555772517000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

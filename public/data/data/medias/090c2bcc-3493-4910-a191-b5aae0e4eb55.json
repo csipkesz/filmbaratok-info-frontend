@@ -1,0 +1,37 @@
+{
+  "id": "090c2bcc-3493-4910-a191-b5aae0e4eb55",
+  "title": "A ház, amit Jack épített",
+  "originalTitle": "The House That Jack Built",
+  "overview": "Failed architect, engineer and vicious murderer Jack narrates the details of some of his most elaborately orchestrated crimes, each of them a towering piece of art that defines his life's work as a serial killer for twelve years.",
+  "backdropPath": "/1UAjYFLLQYOzFd0Ud6YQq2HoubU.jpg",
+  "posterPath": "/bMUGNkPaHOurcBK9g3XpJx3fxuO.jpg",
+  "releaseDate": "2018-10-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d8866fc3-7bcd-41d8-85f0-feaf6f31a3b9",
+      "title": "A ház, amit Jack épített",
+      "subtitle": null,
+      "timestampString": "00:02:42",
+      "timestampInSeconds": 162,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #158",
+        "youtubeId": "0hDBNbfAMGU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/0hDBNbfAMGU/hqdefault.jpg",
+        "durationInMinutes": 112,
+        "releaseDate": 1545678001000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

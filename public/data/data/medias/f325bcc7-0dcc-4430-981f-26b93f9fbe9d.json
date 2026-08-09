@@ -1,0 +1,41 @@
+{
+  "id": "f325bcc7-0dcc-4430-981f-26b93f9fbe9d",
+  "title": "Isten haragja",
+  "originalTitle": "La ira de Dios",
+  "overview": "Convinced the tragic deaths of her loved ones were orchestrated by a famous novelist she worked for, Luciana turns to a journalist to expose her truth.",
+  "backdropPath": "/cpcDNWL2OgtCCcH7DDRjY8oxUsn.jpg",
+  "posterPath": "/xXTybIXrytekB4TeN4xrqeI1f8G.jpg",
+  "releaseDate": "2022-06-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "85883774-bcb4-4c91-881d-ed98cb4aab2a",
+      "title": "Isten haragja",
+      "subtitle": null,
+      "timestampString": "01:30:52",
+      "timestampInSeconds": 5452,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #49",
+        "youtubeId": "KInB1pvzVo0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/KInB1pvzVo0/hqdefault.jpg",
+        "durationInMinutes": 177,
+        "releaseDate": 1397986559000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

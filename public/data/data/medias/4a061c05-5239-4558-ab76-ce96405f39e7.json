@@ -1,0 +1,49 @@
+{
+  "id": "4a061c05-5239-4558-ab76-ce96405f39e7",
+  "title": "Running Time",
+  "originalTitle": "Running Time",
+  "overview": "This feature film is an exotic romp through the ’60s in song and dance. A fantasy that pokes fun not only at some hallowed institutions but at itself as well.",
+  "backdropPath": null,
+  "posterPath": "/8g8LBCJ8Ju1y9eGAB5aOT6PRNgO.jpg",
+  "releaseDate": "1974-01-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d7b8fb9a-ad11-4d69-a927-d1b5283f9154",
+      "title": "Running Time",
+      "subtitle": null,
+      "timestampString": "02:56:34",
+      "timestampInSeconds": 10594,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #110",
+        "youtubeId": "8krx-cw6vdg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/8krx-cw6vdg/hqdefault.jpg",
+        "durationInMinutes": 260,
+        "releaseDate": 1479296565000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

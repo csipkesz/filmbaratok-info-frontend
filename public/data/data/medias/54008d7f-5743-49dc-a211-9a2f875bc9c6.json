@@ -1,0 +1,41 @@
+{
+  "id": "54008d7f-5743-49dc-a211-9a2f875bc9c6",
+  "title": "Üvöltő szelek",
+  "originalTitle": "\"Wuthering Heights\"",
+  "overview": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England.",
+  "backdropPath": "/nHKscpZcAPkh97OsJJjyE5yaVE0.jpg",
+  "posterPath": "/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
+  "releaseDate": "2026-02-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "abe53355-a6b5-4588-94c1-d71ab23c8531",
+      "title": "Üvöltő szelek",
+      "subtitle": null,
+      "timestampString": "01:47:10",
+      "timestampInSeconds": 6430,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #321",
+        "youtubeId": "ASzT3k0iUdk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ASzT3k0iUdk/hqdefault.jpg",
+        "durationInMinutes": 176,
+        "releaseDate": 1772128964000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

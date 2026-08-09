@@ -1,0 +1,45 @@
+{
+  "id": "4bc1aeb4-9acc-431b-bd7d-9e7f39c693b6",
+  "title": "Hokum",
+  "originalTitle": "Hokum",
+  "overview": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.",
+  "backdropPath": "/qY7zVZ7liULhfRoXg4c9Xl83LcR.jpg",
+  "posterPath": "/x6rHcQFiYcczLQPrmxXPAicm54E.jpg",
+  "releaseDate": "2026-04-29T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4a8ede14-e798-4ff1-824f-f8bc3d11bbf2",
+      "title": "Hokum",
+      "subtitle": null,
+      "timestampString": "02:14:10",
+      "timestampInSeconds": 8050,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #327",
+        "youtubeId": "UYCI_LATeS8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/UYCI_LATeS8/hqdefault.jpg",
+        "durationInMinutes": 221,
+        "releaseDate": 1780218018000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          },
+          {
+            "id": "da3d7e32-762b-407e-8d7d-5dd88cec8bdf",
+            "name": "Szabolcs"
+          }
+        ]
+      }
+    }
+  ]
+}

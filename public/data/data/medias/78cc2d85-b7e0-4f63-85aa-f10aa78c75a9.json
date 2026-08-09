@@ -1,0 +1,45 @@
+{
+  "id": "78cc2d85-b7e0-4f63-85aa-f10aa78c75a9",
+  "title": "Watchmen",
+  "originalTitle": "Watchmen",
+  "overview": "In a gritty and alternate 1985, the glory days of costumed vigilantes have been brought to a close by a government crackdown. But after one of the masked veterans is brutally murdered, an investigation into the killer is initiated. The reunited heroes set out to prevent their own destruction, but in doing so they uncover a sinister plot that puts all of humanity in grave danger.",
+  "backdropPath": "/dH7ia3vtkYCa3CBvDnvVjqm9uiQ.jpg",
+  "posterPath": "/aVURelN3pM56lFM7Dgfs5TixcIf.jpg",
+  "releaseDate": "2009-03-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "bc3734a7-abbe-4caa-a0df-847f9c0f25bc",
+      "title": "Watchmen",
+      "subtitle": null,
+      "timestampString": "02:49:25",
+      "timestampInSeconds": 10165,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #105",
+        "youtubeId": "73Hk03Cs0mQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/73Hk03Cs0mQ/hqdefault.jpg",
+        "durationInMinutes": 214,
+        "releaseDate": 1471773217000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

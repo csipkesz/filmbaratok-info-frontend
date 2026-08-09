@@ -1,0 +1,45 @@
+{
+  "id": "464ae07a-521d-45e4-86b2-de90c2bc3a38",
+  "title": "Szárazon",
+  "originalTitle": "Smashed",
+  "overview": "Kate and Charlie like to have a good time. Their marriage thrives on a shared fondness for music, laughter… and getting smashed. When Kate’s partying spirals into hard-core asocial behavior, compromising her job as an elementary schoolteacher, something’s got to give. But change isn’t exactly a cakewalk. Sobriety means she will have to confront the lies she’s been spinning at work, her troubling relationship with her mother, and the nature of her bond with Charlie.",
+  "backdropPath": "/5rdtiEBC6znvGr5ep2TfeqI1JCC.jpg",
+  "posterPath": "/d4b2k3bB5C6AC9s3FFZhjZw7rB1.jpg",
+  "releaseDate": "2012-01-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5aed8b74-63b3-4ab2-9fed-50f686d37134",
+      "title": "Szárazon",
+      "subtitle": null,
+      "timestampString": "02:59:37",
+      "timestampInSeconds": 10777,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #66",
+        "youtubeId": "E4v-47u65NI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E4v-47u65NI/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1422556505000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "eda52b1f-dbae-492d-9d13-d733ad174f21",
+  "title": "Bird Box / Madarak a dobozban",
+  "originalTitle": "Bird Box",
+  "overview": "Five years after an ominous unseen presence drives most of society to suicide, a survivor and her two children make a desperate bid to reach safety.",
+  "backdropPath": "/pDKFL1zcHzEpmz4MJA5JJnRbJeD.jpg",
+  "posterPath": "/rGfGfgL2pEPCfhIvqHXieXFn7gp.jpg",
+  "releaseDate": "2018-12-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "78d70d1d-d2d6-496b-a3ff-0e30b7d5df88",
+      "title": "Bird Box / Madarak a dobozban",
+      "subtitle": null,
+      "timestampString": "01:43:05",
+      "timestampInSeconds": 6185,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #160",
+        "youtubeId": "_a3zVw9qNvs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_a3zVw9qNvs/hqdefault.jpg",
+        "durationInMinutes": 196,
+        "releaseDate": 1547731556000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

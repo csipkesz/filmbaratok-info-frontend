@@ -1,0 +1,45 @@
+{
+  "id": "ae9a68b8-1a90-4b69-986a-1d771790385f",
+  "title": "Moby Dick [1956]",
+  "originalTitle": "Moby Dick",
+  "overview": "In 1841, young Ishmael signs up for service aboard the Pequod, a whaler sailing out of New Bedford. The ship is under the command of Captain Ahab, a strict disciplinarian who exhorts his men to find Moby Dick, the great white whale. Ahab lost his leg to that creature and is desperate for revenge. As the crew soon learns, he will stop at nothing to gain satisfaction.",
+  "backdropPath": "/lbuYAwwTuqiWgpzlxMMPrYkUop4.jpg",
+  "posterPath": "/7JXcm3RyWlGsRCZ0YlOliWr6TNv.jpg",
+  "releaseDate": "1956-06-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a845c6d4-179a-4b9e-8b6c-7c43cc2d8e77",
+      "title": "Moby Dick [1956]",
+      "subtitle": null,
+      "timestampString": "01:09:00",
+      "timestampInSeconds": 4140,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #202",
+        "youtubeId": "E2b82odyb3w",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E2b82odyb3w/hqdefault.jpg",
+        "durationInMinutes": 223,
+        "releaseDate": 1608135119000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

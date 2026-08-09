@@ -1,0 +1,45 @@
+{
+  "id": "d4f7102f-f242-4601-8d82-d82d74688653",
+  "title": "Kéjlak",
+  "originalTitle": "The Loft",
+  "overview": "For five men, the opportunity to share a penthouse in the city -- in which to carry on extramarital affairs -- is a dream come true, until the dead body of an unknown woman turns up. Realizing that her killer must be one of their group, the men are gripped by paranoia as each one suspects another.",
+  "backdropPath": "/tp3tPVmldM8ft5nAlupGOtfiMvt.jpg",
+  "posterPath": "/msHg4MRKZBcGwIakhMEaYRSdYag.jpg",
+  "releaseDate": "2014-10-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f790de1c-4f73-4cbf-9630-b7601f2e66e3",
+      "title": "Kéjlak",
+      "subtitle": null,
+      "timestampString": "01:34:40",
+      "timestampInSeconds": 5680,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #73",
+        "youtubeId": "CojqY6DJFQM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/CojqY6DJFQM/hqdefault.jpg",
+        "durationInMinutes": 197,
+        "releaseDate": 1431625186000,
+        "participants": [
+          {
+            "id": "0808997b-993f-4d18-b114-882b2de528df",
+            "name": "Zoly"
+          },
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "4ebbfad7-e0f1-41ca-a0a9-fe0d4da442cd",
+  "title": "Amitől félünk",
+  "originalTitle": "Beau Is Afraid",
+  "overview": "Following the sudden death of his mother, a mild-mannered but anxiety-ridden man confronts his darkest fears as he embarks on an epic odyssey back home.",
+  "backdropPath": "/atvEgnjjXN5QvFDThXVz4nyU9yi.jpg",
+  "posterPath": "/wgVkkjigF31r1nZV80uV0xNIoun.jpg",
+  "releaseDate": "2023-04-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "da61d5a1-6996-4ddb-9886-60c19ba57ca4",
+      "title": "Amitől félünk",
+      "subtitle": null,
+      "timestampString": "02:43:40",
+      "timestampInSeconds": 9820,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #254",
+        "youtubeId": "TI74Dk0Q_o4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/TI74Dk0Q_o4/hqdefault.jpg",
+        "durationInMinutes": 202,
+        "releaseDate": 1683715646000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

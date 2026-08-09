@@ -1,0 +1,37 @@
+{
+  "id": "ae759522-1d6a-48bb-9063-d96ad0b92991",
+  "title": "Hogyan rohanj a VeszTEDbe",
+  "originalTitle": "A Million Ways to Die in the West",
+  "overview": "As a cowardly farmer begins to fall for the mysterious new woman in town, he must put his new-found courage to the test when her husband, a notorious gun-slinger, announces his arrival.",
+  "backdropPath": "/5ZDM988DfYLFPBqy4CNvQ9AXnp4.jpg",
+  "posterPath": "/n9SicwnoNGWBwE75le27sUhCLMm.jpg",
+  "releaseDate": "2014-05-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "de23042a-5724-4876-be2a-48edad64abec",
+      "title": "Hogyan rohanj a VeszTEDbe",
+      "subtitle": null,
+      "timestampString": "00:44:18",
+      "timestampInSeconds": 2658,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #52",
+        "youtubeId": "z5hnMqJSVxs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z5hnMqJSVxs/hqdefault.jpg",
+        "durationInMinutes": 121,
+        "releaseDate": 1403347391000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

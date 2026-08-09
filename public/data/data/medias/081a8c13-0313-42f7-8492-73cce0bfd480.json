@@ -1,0 +1,45 @@
+{
+  "id": "081a8c13-0313-42f7-8492-73cce0bfd480",
+  "title": "Rampage - Tombolás",
+  "originalTitle": "Rampage",
+  "overview": "Primatologist Davis Okoye shares an unshakable bond with George, the extraordinarily intelligent, silverback gorilla who has been in his care since birth.  But a rogue genetic experiment gone awry mutates this gentle ape into a raging creature of enormous size.  To make matters worse, it’s soon discovered there are other similarly altered animals.  As these newly created alpha predators tear across North America, destroying everything in their path, Okoye teams with a discredited genetic engineer to secure an antidote, fighting his way through an ever-changing battlefield, not only to halt a global catastrophe but to save the fearsome creature that was once his friend.",
+  "backdropPath": "/vm8mhrjk5nQ562UQ0KbUzi0yOHr.jpg",
+  "posterPath": "/MGADip4thVSErP34FAAfzFBTZ5.jpg",
+  "releaseDate": "2018-04-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "035f1c95-3721-421c-a695-974cdbf835f8",
+      "title": "Rampage - Tombolás",
+      "subtitle": null,
+      "timestampString": "01:25:17",
+      "timestampInSeconds": 5117,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #142",
+        "youtubeId": "9S7p7P1Y2po",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9S7p7P1Y2po/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1525105433000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

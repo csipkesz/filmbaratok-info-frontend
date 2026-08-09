@@ -1,0 +1,45 @@
+{
+  "id": "619deb89-b299-42cd-adc3-ab5c7b5d1669",
+  "title": "Feláldozhatók 4",
+  "originalTitle": "Expend4bles",
+  "overview": "Armed with every weapon they can get their hands on and the skills to use them, The Expendables are the world’s last line of defense and the team that gets called when all other options are off the table. But new team members with new styles and tactics are going to give “new blood” a whole new meaning.",
+  "backdropPath": "/rMvPXy8PUjj1o8o1pzgQbdNCsvj.jpg",
+  "posterPath": "/iwsMu0ehRPbtaSxqiaUDQB9qMWT.jpg",
+  "releaseDate": "2023-09-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1be033f3-0f05-4974-844b-909c470dd8e6",
+      "title": "Feláldozhatók 4 [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "00:24:00",
+      "timestampInSeconds": 1440,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #263",
+        "youtubeId": "NClyKPWf8XU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/NClyKPWf8XU/hqdefault.jpg",
+        "durationInMinutes": 174,
+        "releaseDate": 1695962100000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

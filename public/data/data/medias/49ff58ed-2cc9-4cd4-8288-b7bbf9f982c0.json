@@ -1,0 +1,41 @@
+{
+  "id": "49ff58ed-2cc9-4cd4-8288-b7bbf9f982c0",
+  "title": "A hentes, a kurva és a félszemű",
+  "originalTitle": "A hentes, a kurva és a félszemű",
+  "overview": "Depicts the slow decline of three individuals as they are sucked into a world of sinful existence. It is the story of a wild and voracious love triangle.",
+  "backdropPath": "/hlrlnWAiJMczBAIvIAtqkdBstoh.jpg",
+  "posterPath": "/fgP0yHqZSnPhCmKNxJONrMzjRos.jpg",
+  "releaseDate": "2018-01-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "95f81995-2b7a-4de2-84ed-5c8a7bdf3e6e",
+      "title": "A hentes, a kurva és a félszemű",
+      "subtitle": null,
+      "timestampString": "02:43:43",
+      "timestampInSeconds": 9823,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #137",
+        "youtubeId": "TmsK4Kf-Bj8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/TmsK4Kf-Bj8/hqdefault.jpg",
+        "durationInMinutes": 228,
+        "releaseDate": 1518110484000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

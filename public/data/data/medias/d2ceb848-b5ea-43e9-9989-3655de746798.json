@@ -1,0 +1,45 @@
+{
+  "id": "d2ceb848-b5ea-43e9-9989-3655de746798",
+  "title": "Pókember: Idegenben",
+  "originalTitle": "Spider-Man: Far From Home",
+  "overview": "Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.",
+  "backdropPath": "/vamhMTvh9m9zFHDoR0v1nRtf6T4.jpg",
+  "posterPath": "/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
+  "releaseDate": "2019-06-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "edd32b72-d3e8-4fac-aaf8-d4d95e2b1d73",
+      "title": "Pókember: Idegenben",
+      "subtitle": null,
+      "timestampString": "00:22:55",
+      "timestampInSeconds": 1375,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #172",
+        "youtubeId": "ahOskajDN8o",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ahOskajDN8o/hqdefault.jpg",
+        "durationInMinutes": 250,
+        "releaseDate": 1564145413000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

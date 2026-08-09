@@ -1,0 +1,49 @@
+{
+  "id": "89466157-1372-482d-9ee6-76e7de91773f",
+  "title": "One Night in Miami...",
+  "originalTitle": "One Night in Miami...",
+  "overview": "In the aftermath of Cassius Clay's defeat of Sonny Liston in 1964, the boxer meets with Malcolm X, Sam Cooke and Jim Brown to change the course of history in the segregated South.",
+  "backdropPath": "/yUyuDacqA0IhWqEbPQPXBsEIbPX.jpg",
+  "posterPath": "/1DLUb9PTDqXMSgsD7RmiJs7ZJIx.jpg",
+  "releaseDate": "2020-12-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d05719a7-5fac-4ea7-bbef-624f768b69ed",
+      "title": "One Night in Miami...",
+      "subtitle": null,
+      "timestampString": "02:32:28",
+      "timestampInSeconds": 9148,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #210",
+        "youtubeId": "33ZlR26Llk0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/33ZlR26Llk0/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1619018789000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

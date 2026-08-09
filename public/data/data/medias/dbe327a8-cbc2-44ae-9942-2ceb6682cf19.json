@@ -1,0 +1,41 @@
+{
+  "id": "dbe327a8-cbc2-44ae-9942-2ceb6682cf19",
+  "title": "I am mother",
+  "originalTitle": "I Am Mother",
+  "overview": "A teenage girl is raised underground by a robot \"Mother\", designed to repopulate the earth following an extinction event. But their unique bond is threatened when an inexplicable stranger arrives with alarming news.",
+  "backdropPath": "/iJjdemZDyHGa2BJgfoyv5m1sCiw.jpg",
+  "posterPath": "/ayPSqlpYIbeq1RiDekx6W9WUqrL.jpg",
+  "releaseDate": "2019-06-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "56981bd3-40b2-43c5-be0e-906348ba6b2a",
+      "title": "I am mother",
+      "subtitle": null,
+      "timestampString": "01:41:54",
+      "timestampInSeconds": 6114,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #171",
+        "youtubeId": "3KzIveF4J8o",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3KzIveF4J8o/hqdefault.jpg",
+        "durationInMinutes": 195,
+        "releaseDate": 1562329911000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "465eb549-2e74-46d4-9d72-df2e21471883",
+            "name": "Anna"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

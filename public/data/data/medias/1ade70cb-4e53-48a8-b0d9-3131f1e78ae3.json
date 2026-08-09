@@ -1,0 +1,45 @@
+{
+  "id": "1ade70cb-4e53-48a8-b0d9-3131f1e78ae3",
+  "title": "Tűzgyűrű: Lázadás",
+  "originalTitle": "Pacific Rim: Uprising",
+  "overview": "It has been ten years since The Battle of the Breach and the oceans are still, but restless. Vindicated by the victory at the Breach, the Jaeger program has evolved into the most powerful global defense force in human history. The PPDC now calls upon the best and brightest to rise up and become the next generation of heroes when the Kaiju threat returns.",
+  "backdropPath": "/oMaj75G2WFw66xI1TREg1hrToSg.jpg",
+  "posterPath": "/nFWhttU8PM50t25NPdy7PE7rv3G.jpg",
+  "releaseDate": "2018-03-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7c30fa8b-56d3-423a-85f5-3c13bf4414cb",
+      "title": "Tűzgyűrű: Lázadás",
+      "subtitle": null,
+      "timestampString": "00:54:30",
+      "timestampInSeconds": 3270,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #142",
+        "youtubeId": "9S7p7P1Y2po",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9S7p7P1Y2po/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1525105433000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

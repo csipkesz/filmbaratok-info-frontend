@@ -1,0 +1,41 @@
+{
+  "id": "f281d540-78c8-44e4-a239-f5e6df5d451a",
+  "title": "A herceg menyasszonya",
+  "originalTitle": "The Princess Bride",
+  "overview": "In this enchantingly cracked fairy tale, the beautiful Princess Buttercup and the dashing Westley must overcome staggering odds to find happiness amid six-fingered swordsmen, murderous princes, Sicilians and rodents of unusual size. But even death can't stop these true lovebirds from triumphing.",
+  "backdropPath": "/2CisgvF2HcIVnbMZbSjASCtSgEb.jpg",
+  "posterPath": "/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg",
+  "releaseDate": "1987-09-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0a312eaa-fa7f-4c44-b403-73af1d0cbac3",
+      "title": "A herceg menyasszonya",
+      "subtitle": null,
+      "timestampString": "02:21:45",
+      "timestampInSeconds": 8505,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #112",
+        "youtubeId": "M7gzW5_pVZk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/M7gzW5_pVZk/hqdefault.jpg",
+        "durationInMinutes": 160,
+        "releaseDate": 1481731219000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "aef8fb67-72ab-440f-b8d3-1ee096a11089",
+  "title": "Insidious: Az utolsó kulcs",
+  "originalTitle": "Insidious: The Last Key",
+  "overview": "Parapsychologist Elise Rainier and her team travel to Five Keys, NM, to investigate a man’s claim of a haunting. Terror soon strikes when Rainier realizes that the house he lives in was her family’s old home.",
+  "backdropPath": "/auSRjQyVLw212IjATAbO3KOyxZg.jpg",
+  "posterPath": "/6c9ti2JcR3dHyR3qFXoZqVMx0SH.jpg",
+  "releaseDate": "2018-01-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7fd5e3df-e9b7-4b1c-9242-db320b57d16c",
+      "title": "Insidious: Az utolsó kulcs",
+      "subtitle": null,
+      "timestampString": "00:32:30",
+      "timestampInSeconds": 1950,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #137",
+        "youtubeId": "TmsK4Kf-Bj8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/TmsK4Kf-Bj8/hqdefault.jpg",
+        "durationInMinutes": 228,
+        "releaseDate": 1518110484000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

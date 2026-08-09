@@ -1,0 +1,41 @@
+{
+  "id": "31f455e1-f1c5-43fc-b180-2083f25aa830",
+  "title": "A kívülálló (2008)",
+  "originalTitle": "Outlander",
+  "overview": "During the reign of the Vikings, a man from another world crash-lands on Earth, bringing with him an alien predator. The man must fuse his advanced technology with the weaponry of the vikings to fight the monster.",
+  "backdropPath": "/3b973tk8kA9tiY85ppxPxpXIrP3.jpg",
+  "posterPath": "/nCZzrFonDkWfYkfxzsPByBY4Lvk.jpg",
+  "releaseDate": "2008-04-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "286796d5-c2a5-4a33-bcc2-8856b883d088",
+      "title": "A kívülálló (2008)",
+      "subtitle": null,
+      "timestampString": "01:55:00",
+      "timestampInSeconds": 6900,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #171",
+        "youtubeId": "3KzIveF4J8o",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3KzIveF4J8o/hqdefault.jpg",
+        "durationInMinutes": 195,
+        "releaseDate": 1562329911000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "465eb549-2e74-46d4-9d72-df2e21471883",
+            "name": "Anna"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          }
+        ]
+      }
+    }
+  ]
+}

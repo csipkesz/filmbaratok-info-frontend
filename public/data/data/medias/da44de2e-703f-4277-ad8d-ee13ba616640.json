@@ -1,0 +1,45 @@
+{
+  "id": "da44de2e-703f-4277-ad8d-ee13ba616640",
+  "title": "Fekete Párduc",
+  "originalTitle": "Black Panther",
+  "overview": "King T'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantle to join with ex-girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war.",
+  "backdropPath": "/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg",
+  "posterPath": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+  "releaseDate": "2018-02-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c7c10a10-6ee2-45af-8ba2-bfb941ecb286",
+      "title": "Fekete Párduc",
+      "subtitle": null,
+      "timestampString": "00:55:20",
+      "timestampInSeconds": 3320,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #138",
+        "youtubeId": "nNL55zk0j6I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nNL55zk0j6I/hqdefault.jpg",
+        "durationInMinutes": 255,
+        "releaseDate": 1519187400000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

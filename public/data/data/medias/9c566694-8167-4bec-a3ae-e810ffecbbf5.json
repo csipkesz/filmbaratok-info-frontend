@@ -1,0 +1,41 @@
+{
+  "id": "9c566694-8167-4bec-a3ae-e810ffecbbf5",
+  "title": "Zsoldoskatona",
+  "originalTitle": "Il soldato di ventura",
+  "overview": "Medieval soldier of fortune Ettore is traveling through Europe with his partners looking for a fight where they can earn some money. When they come across a Spanish castle under siege by the French army, Ettore bides his time to determine which side is the winning one. This is at first the French, but the treatment he receives from them is unpleasant enough to make him change his mind and turn to the Spanish side. Somehow, Ettore must rally the weakened Spanish troops to battle their enemy long enough for reinforcements to arrive.",
+  "backdropPath": "/13sya73SzhMgv639SZagCgmhkPz.jpg",
+  "posterPath": "/izvk5EXAcpCDKDGAJAmPMVph27v.jpg",
+  "releaseDate": "1976-02-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c2614dda-1738-4249-a2f1-c1d10a8a2a5b",
+      "title": "Zsoldoskatona",
+      "subtitle": null,
+      "timestampString": "02:38:18",
+      "timestampInSeconds": 9498,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #271",
+        "youtubeId": "vCypCwFTSIU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/vCypCwFTSIU/hqdefault.jpg",
+        "durationInMinutes": 227,
+        "releaseDate": 1706733909000,
+        "participants": [
+          {
+            "id": "3ea1b94a-e47c-4e7b-ab28-bd939af9bd91",
+            "name": "Gábor"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

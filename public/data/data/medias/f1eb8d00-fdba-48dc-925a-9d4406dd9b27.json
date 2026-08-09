@@ -1,0 +1,45 @@
+{
+  "id": "f1eb8d00-fdba-48dc-925a-9d4406dd9b27",
+  "title": "Hosszúsági fok",
+  "originalTitle": "Longitude",
+  "overview": "Parallel stories: 18th century Harrison builds the marine chronometer for safe navigation at sea; 20th century Gould is obsessed with restoring it.",
+  "backdropPath": "/tBiNdJtJdYwu8IQvkbrGZ6NMTnX.jpg",
+  "posterPath": "/n0pNsQ2JiUoEI40v6zbA6yf9KfC.jpg",
+  "releaseDate": "2000-01-02T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "56395ce2-ea38-4397-bcb1-201ca6756891",
+      "title": "Hosszúsági fok",
+      "subtitle": null,
+      "timestampString": "01:21:00",
+      "timestampInSeconds": 4860,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #134",
+        "youtubeId": "gB5CFdGY70M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gB5CFdGY70M/hqdefault.jpg",
+        "durationInMinutes": 218,
+        "releaseDate": 1513874512000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

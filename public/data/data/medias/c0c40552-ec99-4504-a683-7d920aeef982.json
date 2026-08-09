@@ -1,0 +1,41 @@
+{
+  "id": "c0c40552-ec99-4504-a683-7d920aeef982",
+  "title": "Áradás",
+  "originalTitle": "Straume",
+  "overview": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
+  "backdropPath": "/4XPNNt0zfZKBqxxVWaQALd57UHl.jpg",
+  "posterPath": "/z2sG41PxfL1hnL1mHbxzSREUtOf.jpg",
+  "releaseDate": "2024-08-29T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5775d7d5-1a05-41e7-b0f7-8a12161e7f8e",
+      "title": "Áradás",
+      "subtitle": null,
+      "timestampString": "01:00:30",
+      "timestampInSeconds": 3630,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #296",
+        "youtubeId": "2X4YekH4jj4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/2X4YekH4jj4/hqdefault.jpg",
+        "durationInMinutes": 189,
+        "releaseDate": 1739562524000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "317e4b08-30c4-4b2d-a475-03c42e7b3cc7",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "addb692a-fd2b-4e5c-8928-beb347a70684",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

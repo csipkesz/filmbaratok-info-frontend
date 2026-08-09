@@ -1,0 +1,45 @@
+{
+  "id": "6512078e-ee8d-4b4e-aa5e-e9cc763f4637",
+  "title": "Hidegháború",
+  "originalTitle": "寒戰",
+  "overview": "After five specially trained officers and a van full of firearms fall off the grid, the Hong Kong police start receiving calls from the hijackers.",
+  "backdropPath": "/uw28cMvJBFBzgaMM5YeKlXTtUqE.jpg",
+  "posterPath": "/zFiHdFJHppW43xmsnS8whzYnVQ8.jpg",
+  "releaseDate": "2012-11-08T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9f6ac948-e6c0-4e19-9028-f6799f840393",
+      "title": "Hidegháború",
+      "subtitle": null,
+      "timestampString": "00:50:36",
+      "timestampInSeconds": 3036,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #163 (Oscar)",
+        "youtubeId": "eQI9z_VhYj4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/eQI9z_VhYj4/hqdefault.jpg",
+        "durationInMinutes": 244,
+        "releaseDate": 1550837351000,
+        "participants": [
+          {
+            "id": "11df3fe6-4e0e-41d4-a1ae-267c18398161",
+            "name": "Gergő"
+          },
+          {
+            "id": "465eb549-2e74-46d4-9d72-df2e21471883",
+            "name": "Anna"
+          },
+          {
+            "id": "ab79c23d-643b-4cf0-807b-4fbeaaf48867",
+            "name": "freddyD"
+          },
+          {
+            "id": "fad572d7-4b23-4285-955d-223f31dfe495",
+            "name": "Szöllőskei Gábor"
+          }
+        ]
+      }
+    }
+  ]
+}
