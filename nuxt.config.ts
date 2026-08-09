@@ -5,7 +5,7 @@ export default defineNuxtConfig({
     modules: ['@nuxt/icon', '@nuxt/ui'],
     css: ['~/assets/css/main.css'],
     app: {
-        baseURL: '/filmbaratok-info-frontend/',
+        // baseURL: '/filmbaratok-info-frontend/',
         head: {
             link: [
                 {rel: 'preconnect', href: 'https://fonts.googleapis.com'},
@@ -20,6 +20,10 @@ export default defineNuxtConfig({
     icon: {
         serverBundle: {
             collections: ['lucide', 'simple-icons']
-        }
+        },
+        clientBundle: {
+            scan: true,
+            sizeLimitKb: 256,
+        },
     },
 })
