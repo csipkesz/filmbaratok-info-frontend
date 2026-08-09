@@ -28,7 +28,7 @@
                 <NuxtLink to="/media" class="hover:text-marquee transition-colors">Összes film és sorozat</NuxtLink>
               </li>
               <li>
-                <NuxtLink to="/rolunk" class="hover:text-marquee transition-colors">Rólunk / Hogyan működik?</NuxtLink>
+                <NuxtLink to="/rolunk" class="hover:text-marquee transition-colors">Az oldalról</NuxtLink>
               </li>
             </ul>
           </div>
@@ -47,23 +47,41 @@
                 <UIcon name="i-simple-icons-youtube" class="size-4 text-red-500"/>
                 <span>YouTube</span>
               </a>
+              <!--              <a-->
+              <!--                  href="https://open.spotify.com/show/4fCq74pC7x5qE82L1j8Nn6"-->
+              <!--                  target="_blank"-->
+              <!--                  rel="noopener"-->
+              <!--                  class="flex items-center gap-2 hover:text-paper transition-colors"-->
+              <!--              >-->
+              <!--                <UIcon name="i-simple-icons-spotify" class="size-4 text-green-500"/>-->
+              <!--                <span>Spotify</span>-->
+              <!--              </a>-->
               <a
-                  href="https://open.spotify.com/show/4fCq74pC7x5qE82L1j8Nn6"
-                  target="_blank"
-                  rel="noopener"
-                  class="flex items-center gap-2 hover:text-paper transition-colors"
-              >
-                <UIcon name="i-simple-icons-spotify" class="size-4 text-green-500"/>
-                <span>Spotify</span>
-              </a>
-              <a
-                  href="https://podcasts.apple.com/"
+                  href="https://podcasts.apple.com/hu/podcast/filmbar%C3%A1tok-podcast/id1165929483"
                   target="_blank"
                   rel="noopener"
                   class="flex items-center gap-2 hover:text-paper transition-colors"
               >
                 <UIcon name="i-simple-icons-applepodcasts" class="size-4 text-purple-400"/>
-                <span>Apple Podcasts</span>
+                <span>iTunes</span>
+              </a>
+              <a
+                  href="https://soundcloud.com/filmbaratokpodcast"
+                  target="_blank"
+                  rel="noopener"
+                  class="flex items-center gap-2 hover:text-paper transition-colors"
+              >
+                <UIcon name="i-simple-icons-soundcloud" class="size-4 text-red-500"/>
+                <span>SoundCloud</span>
+              </a>
+              <a
+                  href="https://filmbaratok.blog.hu/"
+                  target="_blank"
+                  rel="noopener"
+                  class="flex items-center gap-2 hover:text-paper transition-colors"
+              >
+                <UIcon name="i-simple-icons-wordpress" class="size-4 text-blue-500"/>
+                <span>Hivatalos kereső</span>
               </a>
             </div>
           </div>
