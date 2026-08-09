@@ -1,0 +1,45 @@
+{
+  "id": "bdde57cb-1e9e-4b0d-b07c-6eddeba8be2b",
+  "title": "A bátrak kapitánya (1937)",
+  "originalTitle": "Captains Courageous",
+  "overview": "A klasszikus történet egy fiú neveltetéséről szól - a tengereken. Egy milliomos elkényeztetett fiacskáját egy portugál halász menti meg a tengerbe fulladástól. A fiatalember egészen új értékrendet tanul a portugáltól.",
+  "backdropPath": "/2eKw8s2m2MZv0fLrmavNDZUS4BE.jpg",
+  "posterPath": "/qhJNHLwIcMqDKBwsr9uMDOumO33.jpg",
+  "releaseDate": "1937-06-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "922f174e-ac3b-4270-83cd-c984097b6a8f",
+      "title": "A bátrak kapitánya (1937)",
+      "subtitle": null,
+      "timestampString": "03:15:50",
+      "timestampInSeconds": 11750,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #161",
+        "youtubeId": "c8SMgflP8R4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/c8SMgflP8R4/hqdefault.jpg",
+        "durationInMinutes": 262,
+        "releaseDate": 1548928591000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

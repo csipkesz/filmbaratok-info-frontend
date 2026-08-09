@@ -1,0 +1,45 @@
+{
+  "id": "61c5df33-ed8c-4d00-af09-1139b8047c9e",
+  "title": "Beyond the infinite 2 minutes",
+  "originalTitle": "ドロステのはてで僕ら",
+  "overview": "",
+  "backdropPath": "/hiZLoo6joFeqkPZRlvG1zEw5q0.jpg",
+  "posterPath": "/yFT2qvvqh7ifyv7iPNBqtl1lcNh.jpg",
+  "releaseDate": "2020-06-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3192c0c5-aaec-471f-b8d9-ff08c1b46feb",
+      "title": "Beyond the infinite 2 minutes",
+      "subtitle": null,
+      "timestampString": "03:48:00",
+      "timestampInSeconds": 13680,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #245",
+        "youtubeId": "thnBmMbVpOo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/thnBmMbVpOo/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1671033623000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

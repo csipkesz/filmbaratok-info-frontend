@@ -1,0 +1,45 @@
+{
+  "id": "c2578862-5695-4924-93a0-4f02e1ec236f",
+  "title": "A víz érintése",
+  "originalTitle": "The Shape of Water",
+  "overview": "A hidegháborús Amerikában járunk 1962-ben. Egy szigorított biztonsági fokozatú kormányzati laboratóriumban dolgozik teljes elszigeteltségben, magányosan Elisa és Zelda. Amikor felfedeznek egy titkosított kísérletet, mindkettejük élete örökre megváltozik. Egy kétéltű emberről van szó, akit fogolyként tartanak bezárva. Elisa beleszeret a teremtménybe és tervet készít, hogy segítsen neki megmenekülni.",
+  "backdropPath": "/abirSHwWgKajV3hXhaIR5lcCIXe.jpg",
+  "posterPath": "/jBGAzXfVzmFGikJLhRa5c4B9LSO.jpg",
+  "releaseDate": "2017-12-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "bc0ae339-a9e3-4bbb-81da-790a26a74fd5",
+      "title": "A víz érintése",
+      "subtitle": null,
+      "timestampString": "00:07:20",
+      "timestampInSeconds": 440,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #139 (Oscar 2018)",
+        "youtubeId": "o7DTWukNCDc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/o7DTWukNCDc/hqdefault.jpg",
+        "durationInMinutes": 181,
+        "releaseDate": 1519882297000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ff248333-0d00-40bd-af3c-6049f0a070c6",
+            "name": "Szöllőskei Gábor"
+          }
+        ]
+      }
+    }
+  ]
+}

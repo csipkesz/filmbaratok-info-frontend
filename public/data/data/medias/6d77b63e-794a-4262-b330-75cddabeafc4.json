@@ -1,0 +1,45 @@
+{
+  "id": "6d77b63e-794a-4262-b330-75cddabeafc4",
+  "title": "Mad Max",
+  "originalTitle": "Mad Max",
+  "overview": "A pusztuló városok között kergetik egymást az útonálló bandák, a félelmet nem ismerő, öngyilkosjelölt autóversenyzők és a rendőrök. Amikor az egyik motorosbanda tagja az üldözés során az életét veszti, barátai, élükön egy karizmatikus pszichopatával, Toecutterrel, elmennek a holttestért. A bosszúra szomjazó társaság megtámad mindenkit, aki az útjába kerül. Az eset kivizsgálására Max és társa kap megbízást, akiknek sikerül is a banda egyik tagját letartóztatni, ám már a következő napon szabadon is engedik. A rendőrkapitány, aki már belefásult a bűnözők elleni eredménytelen küzdelembe, szabad kezet ad beosztottjainak. Hiába minden, a rendőrök nem jutnak eredményre, sőt ők szenvednek újabb vereséget: Max társával brutálisan végeznek a banda tagjai. Max kénytelen engedni felesége unszolásának, kilép a rendőrség kötelékéből és családja társaságában nekiindul, hogy új életet kezdjen...",
+  "backdropPath": "/2eYiXlynI2mSuYJPUkHupJm2dJp.jpg",
+  "posterPath": "/icqq1Knr8Atl9zQaM2fgB5wHdZm.jpg",
+  "releaseDate": "1979-04-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f7647cc9-c8b9-490d-b020-80bf2f998e99",
+      "title": "Mad Max [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "01:47:30",
+      "timestampInSeconds": 6450,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #263",
+        "youtubeId": "NClyKPWf8XU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/NClyKPWf8XU/hqdefault.jpg",
+        "durationInMinutes": 174,
+        "releaseDate": 1695962100000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

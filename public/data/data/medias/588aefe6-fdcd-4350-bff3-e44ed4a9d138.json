@@ -1,0 +1,41 @@
+{
+  "id": "588aefe6-fdcd-4350-bff3-e44ed4a9d138",
+  "title": "Szeánsz Velencében",
+  "originalTitle": "A Haunting in Venice",
+  "overview": "A kísérteties hangulatú, második világháború utáni Velencében Hercule Poirot borzongató rejtéllyel szembesül Mindenszentek napján. A munkától visszavonultan, önkéntes száműzetésben élő detektív vonakodva bár, de részt vesz egy szeánszon, amit egy bomladozó, szellemjárta palazzóban tartanak. Miután az egyik vendéget meggyilkolják, Poirot árnyak és titkok csalfa világában találja magát.",
+  "backdropPath": "/qB9wshRySHgN2MibLOlsW6YalqD.jpg",
+  "posterPath": "/9fkr3Nembmyduq9OAZgfc2bqndf.jpg",
+  "releaseDate": "2023-09-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4746fc82-e9d3-40d9-8ca7-3dad6ba5573d",
+      "title": "Szeánsz Velencében",
+      "subtitle": null,
+      "timestampString": "01:40:19",
+      "timestampInSeconds": 6019,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #262",
+        "youtubeId": "vHivX-OmQEI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/vHivX-OmQEI/hqdefault.jpg",
+        "durationInMinutes": 199,
+        "releaseDate": 1695357459000,
+        "participants": [
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          }
+        ]
+      }
+    }
+  ]
+}

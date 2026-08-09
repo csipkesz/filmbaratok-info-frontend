@@ -1,0 +1,45 @@
+{
+  "id": "dd3a744a-3fc8-4521-8470-1edb24dbd79e",
+  "title": "Joker: Kétszemélyes téboly",
+  "originalTitle": "Joker: Folie à Deux",
+  "overview": "Az Arkham Elmegyógyintézet legőrültebb lakója, Arthur Fleck (Joaquin Phoenix) kiszabadul a rács mögül, és nincs egyedül. Vele tart egy nő (Lady Gaga), aki maga sem a kiegyensúlyozottság szobra. Gotham City sötét, mocskos utcáin újra elszabadul a káosz és az erőszak. Pedig ők csak azt akarták, amit a város összes „normális” lakója: szerelmet, megértést és lángokat. De az ő útjuk nem normális út…",
+  "backdropPath": "/AVWlQpVhpudyFsSh3OQIieHHYf.jpg",
+  "posterPath": "/6IjQj3HSQdFyqrdEFtaU1e7zl82.jpg",
+  "releaseDate": "2024-10-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5bd4a617-36b5-4613-af08-f3b7ac8ecc29",
+      "title": "Joker: Kétszemélyes téboly",
+      "subtitle": null,
+      "timestampString": "01:02:20",
+      "timestampInSeconds": 3740,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #288",
+        "youtubeId": "y8PRwmbTmMM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/y8PRwmbTmMM/hqdefault.jpg",
+        "durationInMinutes": 241,
+        "releaseDate": 1729192342000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

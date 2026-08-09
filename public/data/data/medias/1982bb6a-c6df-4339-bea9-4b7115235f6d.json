@@ -1,0 +1,45 @@
+{
+  "id": "1982bb6a-c6df-4339-bea9-4b7115235f6d",
+  "title": "Senki",
+  "originalTitle": "Nobody",
+  "overview": "Hutch Mansell az a fickó, akit észre sem veszel. Kertvárosi apuka, mellőzött férj, jellegtelen szomszéd. Egy senki. Amikor egy éjszaka két tolvaj betör az otthonába, az incidens belobbantja Hutch ismeretlen, régóta forrongó dühét, és olyan brutális útra löki, amely nehezen elfojtott sötét titkokat hoz a felszínre...",
+  "backdropPath": "/61MrK5U4w4MVL1vfwoG12zYPJ8B.jpg",
+  "posterPath": "/gbdgfK5znM9noUzA7Z6lwSdwXif.jpg",
+  "releaseDate": "2021-03-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "820fa613-3fae-434a-ada0-ab8da3ef8bf9",
+      "title": "Senki",
+      "subtitle": null,
+      "timestampString": "01:32:06",
+      "timestampInSeconds": 5526,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #214",
+        "youtubeId": "aARrCL30caA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/aARrCL30caA/hqdefault.jpg",
+        "durationInMinutes": 264,
+        "releaseDate": 1625845165000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

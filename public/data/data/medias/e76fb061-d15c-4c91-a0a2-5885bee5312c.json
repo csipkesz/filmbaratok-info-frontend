@@ -1,0 +1,45 @@
+{
+  "id": "e76fb061-d15c-4c91-a0a2-5885bee5312c",
+  "title": "Terminator 2 3D",
+  "originalTitle": "The Making of 'Terminator 2 3D'",
+  "overview": "",
+  "backdropPath": null,
+  "posterPath": "/dirT2bJL5Lju4OcHxXEDR5LnIWY.jpg",
+  "releaseDate": "2000-08-29T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e8d587af-30e8-472b-acce-37113d2d5c0a",
+      "title": "Terminator 2 3D",
+      "subtitle": null,
+      "timestampString": "01:24:30",
+      "timestampInSeconds": 5070,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #130",
+        "youtubeId": "gU3ro-u6uQ4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gU3ro-u6uQ4/hqdefault.jpg",
+        "durationInMinutes": 174,
+        "releaseDate": 1507212990000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

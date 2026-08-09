@@ -1,0 +1,41 @@
+{
+  "id": "c3f00d66-9a5c-4ffa-b5e3-7850a0a295d5",
+  "title": "Sünvadászat",
+  "originalTitle": "Sünvadászat",
+  "overview": "Jakab Juli és Polgár Csaba egymástól elhidegült házaspárként elhatározzák, hogy két gyerekük mellé bébiszittert fogadnak fel. Végül egy rokonuk (Mari Dorottya) kapja meg a munkát, aki most költözött vidékről Pestre, hogy a Zeneakadémián klasszikus éneket tanuljon. Ám hamarosan kiderül, hogy a lánynak nem sok ideje marad a tanulmányaira, hiszen amellett, hogy a gyerekekre vigyáz, a pár közvetítőként kezdi őt használni megromlott házasságukban.",
+  "backdropPath": "/f1C08LYXMjcsLlnHHd5CY4Odoaj.jpg",
+  "posterPath": "/h3c0r8RT2qy8bMcER356aFTQC5G.jpg",
+  "releaseDate": "2025-02-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "458eeeee-97d9-4ad1-81c6-3dac2365b1ee",
+      "title": "Sünvadászat",
+      "subtitle": null,
+      "timestampString": "01:12:41",
+      "timestampInSeconds": 4361,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #297",
+        "youtubeId": "3hKlobo8elk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3hKlobo8elk/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1740760443000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          }
+        ]
+      }
+    }
+  ]
+}

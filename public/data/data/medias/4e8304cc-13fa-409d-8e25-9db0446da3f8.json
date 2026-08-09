@@ -1,0 +1,45 @@
+{
+  "id": "4e8304cc-13fa-409d-8e25-9db0446da3f8",
+  "title": "Christy",
+  "originalTitle": "Christy",
+  "overview": "",
+  "backdropPath": "/jHmGFiKtrJhPDpJGMa18sfAhAnF.jpg",
+  "posterPath": "/oDkG0hve6OfiSjIpVC6hvoCJCjO.jpg",
+  "releaseDate": "1994-04-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "48c1a917-a640-45fd-bbfb-c29fbb65ec07",
+      "title": "Christy",
+      "subtitle": null,
+      "timestampString": "01:02:27",
+      "timestampInSeconds": 3747,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #316",
+        "youtubeId": "tj6Fv2PRYFw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tj6Fv2PRYFw/hqdefault.jpg",
+        "durationInMinutes": 318,
+        "releaseDate": 1765639323000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

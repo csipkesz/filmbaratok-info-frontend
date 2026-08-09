@@ -1,0 +1,41 @@
+{
+  "id": "3c38975d-b368-4408-ad82-62d014348b8d",
+  "title": "Banks úr megmentése",
+  "originalTitle": "Saving Mr. Banks",
+  "overview": "Amikor Walt Disney kislányai könyörögtek apjuknak, hogy filmesítse meg P.L. Travers Mary Poppins című könyvét (az volt a kedvencük), Disney tett egy ígéretet, melyről nem gondolta volna, hogy húsz évébe telik, míg sikerül valóra váltania. A jogok megszerzésében ugyanis nem várt nemezissel találta szembe magát: a goromba és hajthatatlan szerzőnővel, akinek egyáltalán nem állt szándékában átengedni szeretett, mágikus dadusát a kíméletlen hollywoodi gépezetnek. Végül a könyv hanyatló népszerűségétől megijedve Travers belement, hogy elutazik Los Angelesbe és meghallgatja Disney terveit.",
+  "backdropPath": "/7jyGyVB72hHPLjPQu4hqDGCaraK.jpg",
+  "posterPath": "/mnJHo2WZzIzqkjmIQ9Fo50IXw6v.jpg",
+  "releaseDate": "2013-11-29T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6d7851b8-8750-45f1-b2ee-f1b7d6aaa5fe",
+      "title": "Banks úr megmentése",
+      "subtitle": null,
+      "timestampString": "03:24:48",
+      "timestampInSeconds": 12288,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #240",
+        "youtubeId": "T9F8CwPjgqQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/T9F8CwPjgqQ/hqdefault.jpg",
+        "durationInMinutes": 249,
+        "releaseDate": 1664376879000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "00a1a823-0650-4c50-8529-ba88d1ddc941",
+  "title": "A fantasztikus négyes",
+  "originalTitle": "Fantastic Four: Rise of the Silver Surfer",
+  "overview": "Nem akartak ilyenek lenni. Három srác és egy lány egy kozmikus baleset következményeképpen mégis átalakult: egyikük nyúlik, mint a gumi, a másik kőből van, a harmadik láthatatlanná tud válni, a negyediknek engedelmeskedik a tűz. Mivel kigyógyulni nem lehet belőlük, igyekeznek a legjobban hasznosítani új képességeiket. A jót szolgálják a gonosz ellen. Ezúttal a galaxison túlról érkezett ellenséggel kell leszámolniuk. Az Ezüst Utazó megfoghatatlanul gyors és felfoghatatlanul kegyetlen: bejárja a Földet és mindenütt káosz meg szenvedés jár a nyomában. És négy fantasztikus képességű szuperhős. Ha megértik az Ezüst Utazó titkát, talán még régi ellenségüket, Dr. Doomot is könnyebb lesz legyőzniük.",
+  "backdropPath": "/o2wYH40zW0JIYiYUTu6L4gsNy7E.jpg",
+  "posterPath": "/t7U1jiFx4zBBb8SfAaTU0SQvpVl.jpg",
+  "releaseDate": "2007-06-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "cb7a8c51-39ed-4a6b-91c0-fee909b3910a",
+      "title": "A fantasztikus négyes",
+      "subtitle": null,
+      "timestampString": "01:39:22",
+      "timestampInSeconds": 5962,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #80",
+        "youtubeId": "z4DzygJMKgc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z4DzygJMKgc/hqdefault.jpg",
+        "durationInMinutes": 227,
+        "releaseDate": 1440780590000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

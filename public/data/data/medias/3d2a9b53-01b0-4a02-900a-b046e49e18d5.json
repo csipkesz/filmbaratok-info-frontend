@@ -1,0 +1,41 @@
+{
+  "id": "3d2a9b53-01b0-4a02-900a-b046e49e18d5",
+  "title": "A halott menyasszony",
+  "originalTitle": "Corpse Bride",
+  "overview": "Egy kis faluban, valamikor a 19. század derekán két család a gyermekeik esküvőjére készül. Mindenki boldog, a két házasulandó fiatalt kivéve. Victor és Victoria az esküvő előestéjén találkoznak először. A menyegzőpróbán Victor belezavarodik a házassági eskü szövegébe, az erdőbe megy gyakorolni a szöveget. Végül annyira belejön a szerepébe, hogy egy öreg fa gyökerére húzza a jegygyűrűt. A gyökér azonban nem az, aminek látszik. Victor akaratán kívül eljegyezte magát a Halott Menyasszonnyal, akinek szíve régóta megszűnt dobogni, ám szüntelenül keresi az igaz szerelmet és a társat, aki megosztja vele örök nyugodalmát.",
+  "backdropPath": "/v23fWgJUEt8EMmvn19btIacxP8E.jpg",
+  "posterPath": "/7FTypoDkQp2q5iSTtCexexvr9mK.jpg",
+  "releaseDate": "2005-09-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4e9c75e0-5a24-4329-824c-ce2f36afb180",
+      "title": "A halott menyasszony",
+      "subtitle": null,
+      "timestampString": "02:16:15",
+      "timestampInSeconds": 8175,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #81",
+        "youtubeId": "jxVu-FT-Qv8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/jxVu-FT-Qv8/hqdefault.jpg",
+        "durationInMinutes": 158,
+        "releaseDate": 1442306890000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

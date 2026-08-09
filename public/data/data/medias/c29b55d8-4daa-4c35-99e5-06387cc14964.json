@@ -1,0 +1,41 @@
+{
+  "id": "c29b55d8-4daa-4c35-99e5-06387cc14964",
+  "title": "Floridai álom",
+  "originalTitle": "The Florida Project",
+  "overview": "A floridai Orlando a világ minden részéről érkező turisták mekkája. Minden igényt kielégítő hotelek, pazar vidámparkok és éjszakai bárok tarkítják, ahol minden turista szívesen költi el megtakarításait. Pár lépésre a mesébe illő üdülőkomplexumoktól azonban más világ rejtőzik. Brooklyn és hat éves cserfes barátai a turistaparadicsom árnyékában töltik a nyári szünidejüket, amit csodákkal és lehetőségekkel teli kalandként élnek meg, míg a körülöttük lévő felnőttek a mindennapi élet nehézségeivel birkóznak.",
+  "backdropPath": "/GOwNU7Z9G3ORjNxdZnURfuIGS6.jpg",
+  "posterPath": "/ettRo951l9t9NlCpmotB0yNoMGr.jpg",
+  "releaseDate": "2017-10-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "97a7fa51-0fe5-48bb-a9cb-678b834ee0d7",
+      "title": "Floridai álom",
+      "subtitle": null,
+      "timestampString": "01:10:30",
+      "timestampInSeconds": 4230,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #137",
+        "youtubeId": "TmsK4Kf-Bj8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/TmsK4Kf-Bj8/hqdefault.jpg",
+        "durationInMinutes": 228,
+        "releaseDate": 1518110484000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

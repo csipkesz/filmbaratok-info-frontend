@@ -1,0 +1,41 @@
+{
+  "id": "2bb8fb27-2839-48af-81b5-335b10201e99",
+  "title": "Csupasz pisztoly [2025]",
+  "originalTitle": "The Naked Gun",
+  "overview": "Csak egy ember rendelkezik olyan különleges képességekkel, hogy Frank Drebin nyomdokaiba lépve vezesse a Nagyon Különleges Ügyosztályt és megmentse a világot: Ifjabb Frank Drebin!",
+  "backdropPath": "/1wi1hcbl6KYqARjdQ4qrBWZdiau.jpg",
+  "posterPath": "/8k2FJBz9WShYeXrL1ZrY5kwSHfx.jpg",
+  "releaseDate": "2025-07-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e5071040-47c5-48d1-a1fb-dcea0e6d9f41",
+      "title": "Csupasz pisztoly [2025]",
+      "subtitle": null,
+      "timestampString": "00:37:50",
+      "timestampInSeconds": 2270,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #308",
+        "youtubeId": "JX8Yhmv3ho0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JX8Yhmv3ho0/hqdefault.jpg",
+        "durationInMinutes": 210,
+        "releaseDate": 1755468901000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

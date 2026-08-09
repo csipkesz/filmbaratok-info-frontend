@@ -1,0 +1,41 @@
+{
+  "id": "123506de-52d7-42b1-a1a4-8ed3c94ec2a4",
+  "title": "És mi van Tomival?",
+  "originalTitle": "És mi van Tomival?",
+  "overview": "A pánikbetegség, a mozgáskorlátozott emberek élete és a modernkori rabszolgatartás után ismét érzékeny témát dolgoz fel Till Attila. Az És mi van Tomival? főhőse korábban alkoholista volt, a film pedig a szenvedélybetegségről való leszokás küzdelméről szól.",
+  "backdropPath": "/p6E5nPJVfUXQEyXcmBVEYo1LZx5.jpg",
+  "posterPath": "/jnzljsGIGgk0yvSKXv7XAiytAPQ.jpg",
+  "releaseDate": "2024-10-31T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5f29fb5d-5b6c-4626-a6cf-16062dc8fd62",
+      "title": "És mi van Tomival?",
+      "subtitle": null,
+      "timestampString": "01:10:15",
+      "timestampInSeconds": 4215,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #290",
+        "youtubeId": "SsQxsH7PCqY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/SsQxsH7PCqY/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1731829298000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "aa75c70a-c17f-4b88-b3b0-86133fcd75c7",
+  "title": "Szellemirtók - A borzongás birodalma",
+  "originalTitle": "Ghostbusters: Frozen Empire",
+  "overview": "Kit hívsz, ha nagy baj van? Kihez fordulnál segítségért, amikor szellemek piszkálnak, kísértetek kísérleteznek veled, vagy hazajáró lelkek dúlják fel a házad? A válasz egyértelmű: a Szellemirtókhoz! De ma már nem ugyanaz a négyes száll be a legendás autóba, amikor riasztás érkezik. Viszont a híres New York-i tűzoltótorony nem változott: az új szellemirtók, a Spengler család tagjai itt találkoznak az eredeti csapattal, akik, mint kiderül, nem mentek nyugdíjba: szupertitkos kísérleti laboratóriumot hoztak létre, hogy még magasabb szinten űzhessék a szellemszakmát. Csakhogy rátalálnak egy ősi műtárgyra, amelyből elszabadul egy gonosz erő – és az öregeknek meg a fiataloknak össze kell fogniuk, hogy megmentsék a világot az új, és mindennél fagyosabb jégkorszaktól.",
+  "backdropPath": "/5cCfqeUH2f5Gnu7Lh9xepY9TB6x.jpg",
+  "posterPath": "/sBAjGftGGYGgm5SU9XxxwXid3Ns.jpg",
+  "releaseDate": "2024-03-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "97bd53c0-2cf8-4050-964c-25eb3e951df9",
+      "title": "Szellemirtók - A borzongás birodalma",
+      "subtitle": null,
+      "timestampString": "01:22:48",
+      "timestampInSeconds": 4968,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #277",
+        "youtubeId": "VVHLdlqq_xY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VVHLdlqq_xY/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1714501831000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

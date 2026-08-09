@@ -1,0 +1,45 @@
+{
+  "id": "ba49d656-4dc6-4b71-81e3-98b04f00ed3b",
+  "title": "Sound of Metal",
+  "originalTitle": "Sound of Metal",
+  "overview": "Egy metálzenekar dobosának azzal a szörnyű hírrel kell megküzdenie, hogy hamarosan elveszíti a hallását.",
+  "backdropPath": "/7b5R8FfGUzlxfhOkPpL3xyIeuyF.jpg",
+  "posterPath": "/gAmxjiNi9bUv4G2DNPirzc3Nj0Y.jpg",
+  "releaseDate": "2020-11-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4d992154-a9c7-4a76-b49f-d1670903b7cd",
+      "title": "Sound of Metal",
+      "subtitle": null,
+      "timestampString": "01:13:00",
+      "timestampInSeconds": 4380,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #204",
+        "youtubeId": "uCWG2Ku59nQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uCWG2Ku59nQ/hqdefault.jpg",
+        "durationInMinutes": 207,
+        "releaseDate": 1610723034000,
+        "participants": [
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "a9106f7e-c8f8-4ed6-8a88-4a42b5e0f8b9",
+            "name": "Anna"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

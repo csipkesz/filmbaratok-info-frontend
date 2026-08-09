@@ -1,0 +1,45 @@
+{
+  "id": "5dc3ea40-d813-42d7-9717-188ff11e1e7f",
+  "title": "Csábító leckék",
+  "originalTitle": "Miller's Girl",
+  "overview": "Miller tanár úr többre vágyik. Író akart lenni, és most egy kisvárosi középiskola irodalomtanára. Azután találkozik Cairóval.A lány tehetséges, művelt, különleges... és nagyon szép. És unatkozik. Megkörnyékezi a tanárát, együtt egyre messzebb sodródnak a tananyagtól, és a férfi már maga sem tudja, mi történik vele. A 18 éves diáklány olyan szenvedélyeket ébreszt benne, amelyekről nem tudta, hogy léteznek. De ez a lány kiszámíthatatlan. És író akar lenni: vagyis mindig gondoskodik egy új, váratlan fordulatról...",
+  "backdropPath": "/ifRqavcREHdS0FN9KtVMXghgryK.jpg",
+  "posterPath": "/lWnyac9dOa0Y9MhchBfTeIzegyQ.jpg",
+  "releaseDate": "2024-01-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3910f138-9e1b-4be6-9fde-68a3d6647b4a",
+      "title": "Csábító leckék",
+      "subtitle": null,
+      "timestampString": "02:26:04",
+      "timestampInSeconds": 8764,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #272",
+        "youtubeId": "KpeK1-FjITs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/KpeK1-FjITs/hqdefault.jpg",
+        "durationInMinutes": 253,
+        "releaseDate": 1708456799000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

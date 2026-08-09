@@ -1,0 +1,45 @@
+{
+  "id": "befebbcc-667e-447a-a276-7296dfef8429",
+  "title": "Mute",
+  "originalTitle": "Mute",
+  "overview": "Egy néma csapos szembeszáll a város gengsztereivel, hogy megtudja, mi történt az elveszett partnerével.",
+  "backdropPath": "/tHTmBF6nhRYmfBR3yRrmrCLy3Oi.jpg",
+  "posterPath": "/ihGg1xndLl3MW34Km332pNkyLH7.jpg",
+  "releaseDate": "2018-02-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4177ee36-98aa-4f16-a59f-89cb9baca07d",
+      "title": "Mute",
+      "subtitle": null,
+      "timestampString": "01:45:45",
+      "timestampInSeconds": 6345,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #140",
+        "youtubeId": "LQ8tU4s4F2M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/LQ8tU4s4F2M/hqdefault.jpg",
+        "durationInMinutes": 184,
+        "releaseDate": 1521209750000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

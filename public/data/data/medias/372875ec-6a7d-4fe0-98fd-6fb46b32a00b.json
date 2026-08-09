@@ -1,0 +1,45 @@
+{
+  "id": "372875ec-6a7d-4fe0-98fd-6fb46b32a00b",
+  "title": "Titánok haragja",
+  "originalTitle": "Wrath of the Titans",
+  "overview": "10 éve béke van. Zeusz félisten fia, Perszeusz már nem az istenekkel hadakozik, egyszerű halász lett, és a fiát neveli. De az Olümposzon sosem tartós a nyugalom. A titánok ismét megpróbálnak az istenek fölé kerekedni, és a halhatatlanok már nem elég erősek ahhoz, hogy ellenállhassanak. A lázadást Kronosz vezeti, akit egykor a saját három fia -Zeusz, Hadész és Poszeidón- vetett a Tartarosz mélyére. Amikor híre jön, hogy az engedetlen titán már az istenek között is talált szövetségest, ugyanis Hadész és Árész az ő oldalára állt, Perszeusz kénytelen emlékezni rá, hogy az ő igazi hivatása a harc. Éppen akkor veti bele magát a csatába, amikor úgy tűnik, minden elveszett, és Zeusz a titánok foglya lesz.",
+  "backdropPath": "/g6Bppew6A1PxpHfraNroo0mRBcm.jpg",
+  "posterPath": "/hnkUPBhphadxgvbL73QXL50crT9.jpg",
+  "releaseDate": "2012-03-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1a159348-2391-4a66-a2ac-e59f205b2b63",
+      "title": "Titánok haragja",
+      "subtitle": null,
+      "timestampString": "03:59:40",
+      "timestampInSeconds": 14380,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #164",
+        "youtubeId": "8dO_Vj7_jg8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/8dO_Vj7_jg8/hqdefault.jpg",
+        "durationInMinutes": 258,
+        "releaseDate": 1553010517000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

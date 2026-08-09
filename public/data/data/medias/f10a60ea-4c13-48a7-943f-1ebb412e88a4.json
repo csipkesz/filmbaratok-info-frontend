@@ -1,0 +1,49 @@
+{
+  "id": "f10a60ea-4c13-48a7-943f-1ebb412e88a4",
+  "title": "Ted 2",
+  "originalTitle": "Ted 2",
+  "overview": "A jószívű, viszont mégis rendetlen és szókimondó Ted élete fordulóponthoz érkezik. A csajozások és a bulis életmód után úgy dönt, hogy ideje megállapodni. Ezért hát gyűrűt húz élete szerelmének ujjára és feleségül veszi. A dolog azonban itt nem áll meg, hősünk ugyanis gyereket is szeretnének. Itt jön a képbe a jó öreg John Bennett, akinek be kell segíteni egy kis alapanyaggal, hiszen Ted plüssmackó, a gyereket pedig nem a gólya hozza. John természetesen nem látja akadályát annak, hogy kisegítse a mackót, a törvénnyel viszont már más a helyzet. Ahhoz, hogy Ted apa lehessen bizonyítania kell, hogy embernek számít.",
+  "backdropPath": "/xtHonIIIQXverDQM08TMQXjn9Fe.jpg",
+  "posterPath": "/uk8gK735dxA2eOxsEK4OT8ppJ3b.jpg",
+  "releaseDate": "2015-06-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8de8745c-3dd8-49d0-b921-1198ad0162ac",
+      "title": "Ted 2",
+      "subtitle": null,
+      "timestampString": "02:04:35",
+      "timestampInSeconds": 7475,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #78",
+        "youtubeId": "MfKijNw0U44",
+        "thumbnailUrl": "https://i.ytimg.com/vi/MfKijNw0U44/hqdefault.jpg",
+        "durationInMinutes": 236,
+        "releaseDate": 1438367365000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f7442b58-b6a4-483f-ab1a-f61c46e2fbe1",
+            "name": "Kvízmester"
+          }
+        ]
+      }
+    }
+  ]
+}

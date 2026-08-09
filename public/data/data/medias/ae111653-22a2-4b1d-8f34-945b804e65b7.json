@@ -1,0 +1,45 @@
+{
+  "id": "ae111653-22a2-4b1d-8f34-945b804e65b7",
+  "title": "Lizzie Borden's Revenge",
+  "originalTitle": "Lizzie Borden's Revenge",
+  "overview": "",
+  "backdropPath": "/3EnOccKeaVp7YCZ2kQnFlFzfWWY.jpg",
+  "posterPath": "/t6UjPRwfB6DqfFPEIr6gpHzZKqb.jpg",
+  "releaseDate": "2013-10-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "20e54d71-5db4-452d-937a-bf9407ab1a63",
+      "title": "Lizzie Borden's Revenge",
+      "subtitle": null,
+      "timestampString": "02:57:10",
+      "timestampInSeconds": 10630,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #107",
+        "youtubeId": "nil8BrN67hQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nil8BrN67hQ/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1475265113000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "68c6a379-c539-4074-948b-8d7e3b919c0b",
+            "name": "Emese"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

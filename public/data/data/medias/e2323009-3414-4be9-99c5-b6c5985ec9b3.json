@@ -1,0 +1,45 @@
+{
+  "id": "e2323009-3414-4be9-99c5-b6c5985ec9b3",
+  "title": "A mindenség elmélete",
+  "originalTitle": "The Theory of Everything",
+  "overview": "1963-ban a hírneves Cambridge-i Egyetemen Stephen Hawking, az ifjú kozmológus öles léptekkel halad a tudomány útján, és feltett szándéka, hogy talál egy egyszerű, meggyőző magyarázatot az univerzumra. Saját világa is kitárul, amikor fülig beleszeret egy bölcsész lányba, Jane Wilde-ba. Ám egy szerencsétlen baleset után ez az egészséges, aktív fiatalember 21 évesen megrázó diagnózissal kénytelen szembesülni: motoros neuronbetegség támadta meg végtagjait és képességeit, amely fokozatosan korlátozni fogja beszédében és mozgásában, és két éven belül bele fog halni.",
+  "backdropPath": "/dh2QT3TPtAQf057yeLpNMuaJlmp.jpg",
+  "posterPath": "/SaeHqAdcJoP6cU98DSV7lSjsTo.jpg",
+  "releaseDate": "2014-11-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f822b21c-4484-4c33-bb82-28d974cc0b46",
+      "title": "A mindenség elmélete",
+      "subtitle": null,
+      "timestampString": "01:41:45",
+      "timestampInSeconds": 6105,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #66",
+        "youtubeId": "E4v-47u65NI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E4v-47u65NI/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1422556505000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

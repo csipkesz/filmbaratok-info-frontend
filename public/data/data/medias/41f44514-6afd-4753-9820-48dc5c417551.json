@@ -1,0 +1,45 @@
+{
+  "id": "41f44514-6afd-4753-9820-48dc5c417551",
+  "title": "Beszélnünk kell Kevinrõl",
+  "originalTitle": "We Need to Talk About Kevin",
+  "overview": "Eva feladja karrierjét és szakmai ambícióit, hogy életet adjon Kevinnek. Az anya és gyermeke közti viszony már a kezdetektől bonyolultan alakul. Mikor Kevin tizenöt éves lesz, egy egészen elképesztő és az egész közösség számára feledhetetlen dolgot művel. Eva saját érzéseivel, a bánattal és a felelősséggel küzd. Szerette valaha egyáltalán a gyerekét? Kevin hibája vajon mennyiben volt az ő hibája, ha másképp neveli, máshogy alakulnak a dolgok?",
+  "backdropPath": "/k7lwdrpZ92BDahx6TLdkPE65cpJ.jpg",
+  "posterPath": "/AdOmKRbCD2CISmptCHIHEy3hlLd.jpg",
+  "releaseDate": "2011-09-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f7c9d7d4-f6b4-4f1b-8471-670162171fd3",
+      "title": "Beszélnünk kell Kevinrõl",
+      "subtitle": null,
+      "timestampString": "00:34:08",
+      "timestampInSeconds": 2048,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #51",
+        "youtubeId": "E9iOfzIEJFU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E9iOfzIEJFU/hqdefault.jpg",
+        "durationInMinutes": 176,
+        "releaseDate": 1401305269000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

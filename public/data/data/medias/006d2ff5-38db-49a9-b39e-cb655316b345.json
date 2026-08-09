@@ -1,0 +1,45 @@
+{
+  "id": "006d2ff5-38db-49a9-b39e-cb655316b345",
+  "title": "Üsd, vágd, fozizzál / Shaolin foci",
+  "originalTitle": null,
+  "overview": null,
+  "backdropPath": null,
+  "posterPath": null,
+  "releaseDate": null,
+  "topics": [
+    {
+      "id": "db69c22c-cba1-4596-a859-7e83d6b8d318",
+      "title": "Üsd, vágd, fozizzál / Shaolin foci",
+      "subtitle": null,
+      "timestampString": "04:03:55",
+      "timestampInSeconds": 14635,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #322",
+        "youtubeId": "f696VdP9-xg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/f696VdP9-xg/hqdefault.jpg",
+        "durationInMinutes": 273,
+        "releaseDate": 1773775641000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

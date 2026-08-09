@@ -1,0 +1,45 @@
+{
+  "id": "31bb5238-e207-403f-9571-b8671b12ed54",
+  "title": "A félelem országútján",
+  "originalTitle": "Breakdown",
+  "overview": "Jeff Taylor és felesége, Amy Kalifornia felé tartva az Új Mexikói sivatagon hajtanak keresztül, amikor egy váratlan balesetnek köszönhetően az autójuk felmondja a szolgálatot a semmi közepén. Jeff nekilát, hogy helyrepofozza a járgányt, amikor egy rendkívül segítőkész kamionsofőr, Red Barr megáll mellettük és felajánlja a segítségét. Tőle tudják meg, hogy néhány mérfölddel arrébb van egy fogadó az út mentén, ahonnan segítséget hívhatnak, mire Jeff úgy dönt, hogy az autónál marad, Amy pedig Reddel tart, hogy szerelőt kerítsen, aki megnézné a dzsipjüket. Hosszú várakozás után azonban Jeffnek sikerül elindítania a kocsit, és a fogadóra ugyan tényleg rátalál az út mentén, a feleségének azonban hűlt helye, és Red azt állítja, hogy soha nem is látta az asszonyt...",
+  "backdropPath": "/e86x1nXqfXRlqATuy60MmzFUFQr.jpg",
+  "posterPath": "/myxZjdoVbQc39V97pBVIXnUHZEY.jpg",
+  "releaseDate": "1997-05-02T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ea551ee4-82de-40e7-889c-0eeb667e7455",
+      "title": "A félelem országútján",
+      "subtitle": null,
+      "timestampString": "01:00:15",
+      "timestampInSeconds": 3615,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #134",
+        "youtubeId": "gB5CFdGY70M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gB5CFdGY70M/hqdefault.jpg",
+        "durationInMinutes": 218,
+        "releaseDate": 1513874512000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

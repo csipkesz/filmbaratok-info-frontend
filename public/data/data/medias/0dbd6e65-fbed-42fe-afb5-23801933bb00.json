@@ -1,0 +1,45 @@
+{
+  "id": "0dbd6e65-fbed-42fe-afb5-23801933bb00",
+  "title": "Moonfall",
+  "originalTitle": "Moonfall",
+  "overview": "Az emberiséget katasztrófa fenyegeti, amikor egy titokzatos erő eltéríti a Holdat a pályájáról, és közvetlenül a Föld felé löki. A becsapódás elkerülhetetlennek tűnik, a bolygó végveszélyben van. A káosz, és totális pánik közepette Jo Fowler egy meghökkentő teóriával áll elő, ami a megmenekülést jelentheti mindenki számára. Ám arra senki nincs felkészülve, ami a Holdon vár rájuk...",
+  "backdropPath": "/8QpzqK3nPGxpqpKqhe6QasTGBWQ.jpg",
+  "posterPath": "/mODOXfRq2I5YT2E5kVB8P4IxHnQ.jpg",
+  "releaseDate": "2022-02-02T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "74c22a49-9ba5-4c3d-8efd-deb343ef0576",
+      "title": "Moonfall",
+      "subtitle": null,
+      "timestampString": "01:14:48",
+      "timestampInSeconds": 4488,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #227",
+        "youtubeId": "aLZRPLtke70",
+        "thumbnailUrl": "https://i.ytimg.com/vi/aLZRPLtke70/hqdefault.jpg",
+        "durationInMinutes": 275,
+        "releaseDate": 1645191276000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

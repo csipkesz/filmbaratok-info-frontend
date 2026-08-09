@@ -1,0 +1,41 @@
+{
+  "id": "efc8b2ba-115a-472c-af13-f8bf2b61040c",
+  "title": "Chappie",
+  "originalTitle": "Chappie",
+  "overview": "Chappie-t születésekor elrabolják. Idegen emberek közé kerül, és egy különleges, össze-vissza, teljesen működésképtelen családban nevelkedik. Lassacskán kiderül róla, hogy különleges tehetség, természetfeletti érzékek birtokosa. Egyedi és megismételhetetlen, ám egyben megnevelhetetlen is. És nem mellesleg, ő egy robot...",
+  "backdropPath": "/3pKIcv6KhUE35jsKnv3MylQ3OT2.jpg",
+  "posterPath": "/uuDUpzlMFomdSfNWlpEPS9nVZWV.jpg",
+  "releaseDate": "2015-03-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e8a90967-4d14-487b-9069-c4c62cc2d5f2",
+      "title": "Chappie",
+      "subtitle": null,
+      "timestampString": "00:51:30",
+      "timestampInSeconds": 3090,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #69",
+        "youtubeId": "pVv5pcdaViY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/pVv5pcdaViY/hqdefault.jpg",
+        "durationInMinutes": 169,
+        "releaseDate": 1426321772000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

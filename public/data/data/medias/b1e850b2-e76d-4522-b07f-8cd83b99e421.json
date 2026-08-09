@@ -1,0 +1,41 @@
+{
+  "id": "b1e850b2-e76d-4522-b07f-8cd83b99e421",
+  "title": "Kereszttűz [Free Fire]",
+  "originalTitle": "Free Fire",
+  "overview": "A történet 1978-ban, Bostonban játszódik. Két bandavezér találkozót szervez egy elhagyatott raktárépületben. Végül a feszültségben, amely ott kialakul, eldörren egy lövés, amelynek következtében elszabadul a pokol. Az ezt követő eseményekben mindenki a túlélésért harcol.",
+  "backdropPath": "/d4VKIhk1OCEGVsqyiDKBtGAeO7.jpg",
+  "posterPath": "/olpgs0OPE8sdBGcuuWhKYzxAwN4.jpg",
+  "releaseDate": "2017-03-31T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b01715f9-e6e9-4b5b-8dd4-ae4f2f7f21ac",
+      "title": "Kereszttűz [Free Fire]",
+      "subtitle": null,
+      "timestampString": "02:02:20",
+      "timestampInSeconds": 7340,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #120",
+        "youtubeId": "-3teFOfAauw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-3teFOfAauw/hqdefault.jpg",
+        "durationInMinutes": 251,
+        "releaseDate": 1493646027000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

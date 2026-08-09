@@ -1,0 +1,49 @@
+{
+  "id": "3da01226-79a6-4cd5-b14b-d32f7b234d86",
+  "title": "A kapitány küldetése [News of the world]",
+  "originalTitle": "News of the World",
+  "overview": "A vadnyugaton átutazó texasi, aki a világ híreit juttatja el a helyi városiakhoz, vállalja, hogy segít egy elrabolt fiatal lány megmentésében.",
+  "backdropPath": "/oyBZyY5GdzZdofVVsDda49QmvFP.jpg",
+  "posterPath": "/mASCBLlZcMkglcUcGDgZMpktNym.jpg",
+  "releaseDate": "2020-12-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "32e0187c-9086-40b9-b29a-15af67f33dc3",
+      "title": "A kapitány küldetése [News of the world]",
+      "subtitle": null,
+      "timestampString": "03:07:30",
+      "timestampInSeconds": 11250,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #206",
+        "youtubeId": "S-UKPF0VNZA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/S-UKPF0VNZA/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1613740510000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

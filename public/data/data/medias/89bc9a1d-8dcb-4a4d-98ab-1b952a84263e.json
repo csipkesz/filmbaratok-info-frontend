@@ -1,0 +1,41 @@
+{
+  "id": "89bc9a1d-8dcb-4a4d-98ab-1b952a84263e",
+  "title": "A nyughatatlan",
+  "originalTitle": "Walk the Line",
+  "overview": "1955-ben vézna gitáros sétált be a Sun lemezstúdió ajtaján. Ez a pillanat kitörölhetetlen nyomott hagyott az amerikai kultúrában. A gitáros akkordjai ritmusosan zötyögtek, mint a tehervonat, hangja pedig mély és sötét volt, akár az éjszaka. Erőt sugárzó, átható tekintetétől és énekétől libabőrős lett az ember. Dalai, melyek a szív fájdalmairól és az életben maradásról regéltek, merészek voltak és húsbavágóak, és nem hasonlítottak semmilyen addig hallott dalra. Ezen a napon kezdődött Johnny Cash karrierje, és ekkor lépett rá személyisége átalakulásának rögös útjára is.",
+  "backdropPath": "/pMBKzEotLUzk3NuQiyVjZEDlH70.jpg",
+  "posterPath": "/gpvb3vqH93oJEL0Ctstmpc8YrXt.jpg",
+  "releaseDate": "2005-09-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a7dc6bed-1d26-4a59-a535-69e7d4d02554",
+      "title": "A nyughatatlan",
+      "subtitle": null,
+      "timestampString": "02:27:46",
+      "timestampInSeconds": 8866,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #71",
+        "youtubeId": "K9mj59Uot1I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/K9mj59Uot1I/hqdefault.jpg",
+        "durationInMinutes": 176,
+        "releaseDate": 1428520974000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

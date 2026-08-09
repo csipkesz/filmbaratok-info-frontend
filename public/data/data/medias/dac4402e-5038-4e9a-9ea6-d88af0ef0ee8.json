@@ -1,0 +1,41 @@
+{
+  "id": "dac4402e-5038-4e9a-9ea6-d88af0ef0ee8",
+  "title": "Pusztítás / Havoc",
+  "originalTitle": "Havoc",
+  "overview": "Miután egy drogbalhé halálos módon kicsúszik az irányítás alól, egy kiábrándult zsaru átküzdi magát egy korrupt város alvilágán, hogy megmentse egy politikus fiát.",
+  "backdropPath": "/7rKyFSg6SdLoCRCVoWLjL5k658k.jpg",
+  "posterPath": "/fNayx3FYA9AfXxhYdgIUQT3fM8v.jpg",
+  "releaseDate": "2025-04-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5f4fe274-6d43-4474-9c3f-a9d449c04bfa",
+      "title": "Pusztítás / Havoc",
+      "subtitle": null,
+      "timestampString": "02:11:35",
+      "timestampInSeconds": 7895,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #302",
+        "youtubeId": "3K4xdZiHI_w",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3K4xdZiHI_w/hqdefault.jpg",
+        "durationInMinutes": 235,
+        "releaseDate": 1747414746000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

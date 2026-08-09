@@ -1,0 +1,45 @@
+{
+  "id": "738e4ee6-f812-4619-897b-272361a7ad97",
+  "title": "The Zero Theorem",
+  "originalTitle": "The Zero Theorem",
+  "overview": "Qohen Leth számítógépes hacker, aki visszahúzódva él egy kiégett kápolnában. Azon dolgozik, hogy megoldja a Zéró-tételt, azaz tulajdonképpen megfejtse az élet értelmét, egy olyan alak megbízásából, akit még soha nem látott. Figyelmét a munkájáról váratlanul eltereli csábító nő és Bob, egy tizenéves fiú érkezése.",
+  "backdropPath": "/6RcWkHz1LT8wJBlAwYRoq2nOzG6.jpg",
+  "posterPath": "/jRQaqNRdq1xAl4YMVK2qooLrCrE.jpg",
+  "releaseDate": "2013-09-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9da67efb-8b3c-4bc1-b81d-cb8a8ac5aac6",
+      "title": "The Zero Theorem",
+      "subtitle": null,
+      "timestampString": "02:25:32",
+      "timestampInSeconds": 8732,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #55",
+        "youtubeId": "QgGmQw_m1m8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/QgGmQw_m1m8/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1407941546000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

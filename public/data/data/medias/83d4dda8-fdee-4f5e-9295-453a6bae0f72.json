@@ -1,0 +1,45 @@
+{
+  "id": "83d4dda8-fdee-4f5e-9295-453a6bae0f72",
+  "title": "Bárány",
+  "originalTitle": "Dýrið",
+  "overview": "A gyermektelen pár, Maria és Ingvar egy távoli izlandi tanyán élnek, s állattenyésztéssel foglalkoznak. Karácsony éjjelén egy félig ember félig bárány újszülöttre találnak istállójukban. Úgy döntenek, sajátjukként gondjukba veszik és felnevelik az újszülöttet. A családi élet ígérete örömmel tölti el őket, de ám az emberek nem ennyire megértően viszonyulnak a furcsa szerzethez, akit ráadásul a bárány anyukája is szeretne visszakapni magának.",
+  "backdropPath": "/96uOMED23ZLBtb0HQQ5Urr3qMRp.jpg",
+  "posterPath": "/5ovterJd3LBhzKriUOIih4p6exN.jpg",
+  "releaseDate": "2021-08-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d04bf435-cf57-4c1f-9fdc-4a4f2e83faa7",
+      "title": "Bárány",
+      "subtitle": null,
+      "timestampString": "02:49:38",
+      "timestampInSeconds": 10178,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #245",
+        "youtubeId": "thnBmMbVpOo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/thnBmMbVpOo/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1671033623000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

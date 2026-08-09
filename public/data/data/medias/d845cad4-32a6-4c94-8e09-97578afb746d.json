@@ -1,0 +1,45 @@
+{
+  "id": "d845cad4-32a6-4c94-8e09-97578afb746d",
+  "title": "Barry Seal: A beszállító",
+  "originalTitle": "American Made",
+  "overview": "Barry Seal amerikai pilóta volt, aki a Pablo Escobar-féle Medellín kartell szállítója lett, és fegyvert és drogot csempészett a repülőin, majd váratlanul beszervezte a CIA, és az amerikai történelem egyik legnagyobb titkos akcióját hajtotta végre.",
+  "backdropPath": "/5TKGbYKEwGrJlHFfTQzaz1FC5AJ.jpg",
+  "posterPath": "/ibPA6XccQLxENMGppJTvXIKXR1h.jpg",
+  "releaseDate": "2017-08-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2eabc9d2-6c02-4c32-9944-46d3d5ba5753",
+      "title": "Barry Seal: A beszállító",
+      "subtitle": null,
+      "timestampString": "02:19:55",
+      "timestampInSeconds": 8395,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #128",
+        "youtubeId": "YoKRZAg1KR0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/YoKRZAg1KR0/hqdefault.jpg",
+        "durationInMinutes": 252,
+        "releaseDate": 1505410953000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

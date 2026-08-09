@@ -1,0 +1,28 @@
+{
+  "id": "af745e45-11a2-45dd-8b47-baac90529447",
+  "title": "Zsarufilm",
+  "originalTitle": "Una película de policías",
+  "overview": "Ez a dokumentumfilm a valóság és a képzelet határán táncolva mutatja be a mexikói rendőri korrupciót két rendőrtiszt tapasztalatain keresztül.",
+  "backdropPath": "/uhTQG1X4dD0ItT4foUvaHvbhKhG.jpg",
+  "posterPath": "/hfRewX06w8cUE3h5HJFVeMjU6IM.jpg",
+  "releaseDate": "2021-10-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8a46ecf4-daf4-43a3-8aa8-a43ec3eeea24",
+      "title": "Zsarufilm",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Zsarufilm",
+        "youtubeId": "vhAS2s-f75w",
+        "thumbnailUrl": "https://i.ytimg.com/vi/vhAS2s-f75w/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1646820100000,
+        "participants": []
+      }
+    }
+  ]
+}

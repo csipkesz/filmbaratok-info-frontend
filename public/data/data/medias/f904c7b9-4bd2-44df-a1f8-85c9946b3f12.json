@@ -1,0 +1,45 @@
+{
+  "id": "f904c7b9-4bd2-44df-a1f8-85c9946b3f12",
+  "title": "Minden idők legelképesztőbb sörfuvarja",
+  "originalTitle": "The Greatest Beer Run Ever",
+  "overview": "Chickie merész tettre szánja el magát: személyesen akar amerikai sört vinni a vietnami fronton harcoló barátainak. Jó szándékú utazása azonban hamar megváltoztatja Chickie életét és nézőpontját is.",
+  "backdropPath": "/7bjaAcbrJDVvdF2Uew6rGp9Tp05.jpg",
+  "posterPath": "/et4EI2zUe4oGDoJiN4rDiki9ZEr.jpg",
+  "releaseDate": "2022-09-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "11fe7bf8-c1a1-4d46-943c-34226c8a15c1",
+      "title": "Minden idők legelképesztőbb sörfuvarja",
+      "subtitle": null,
+      "timestampString": "02:46:52",
+      "timestampInSeconds": 10012,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #241",
+        "youtubeId": "wkIRMrjPzTE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wkIRMrjPzTE/hqdefault.jpg",
+        "durationInMinutes": 228,
+        "releaseDate": 1665676839000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

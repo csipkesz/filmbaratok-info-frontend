@@ -1,0 +1,45 @@
+{
+  "id": "b541fe07-c6be-4e62-9457-b97afae5f6e0",
+  "title": "Káosz",
+  "originalTitle": "乱",
+  "overview": "Hidetora fejedelem átadja birodalmának irányítását legidősebb fiának, Tarónak. Saburu, a legkisebb fiú nem helyesli apja döntését, mert mindkét bátyját túlságosan hatalomszeretőnek ismeri, s emiatt  egyiküket sem érzi alkalmasnak egy egységes állam vezetésére. Az atya ezért Saburu ellen fordul, de hamarosan kénytelen lesz belátni, hogy lázadó fiának volt igaza...",
+  "backdropPath": "/3ssNAWypRl47iriwBFNx7RUEUub.jpg",
+  "posterPath": "/gPs3gRRH4Eg56n0LVZyqSo2VERK.jpg",
+  "releaseDate": "1985-06-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4ec2b269-2c44-4f07-9861-e57c09b4bd3c",
+      "title": "Káosz",
+      "subtitle": null,
+      "timestampString": "03:45:22",
+      "timestampInSeconds": 13522,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #138",
+        "youtubeId": "nNL55zk0j6I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nNL55zk0j6I/hqdefault.jpg",
+        "durationInMinutes": 255,
+        "releaseDate": 1519187400000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

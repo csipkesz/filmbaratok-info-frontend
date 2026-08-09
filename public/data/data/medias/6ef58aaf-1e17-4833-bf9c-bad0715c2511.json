@@ -1,0 +1,49 @@
+{
+  "id": "6ef58aaf-1e17-4833-bf9c-bad0715c2511",
+  "title": "Jojo Nyuszi",
+  "originalTitle": "Jojo Rabbit",
+  "overview": "A második világháború idején a magányos német kisfiú, Jojo elképzelései a világról alapjaiban rendülnek meg, amikor felfedezi, hogy egyedülálló anyukája egy zsidó lányt rejteget házuk padlásán. Csupán tökkelütött képzeletbeli barátjára, Adolf Hitlerre támaszkodva, Jojo kénytelen átértékelni megrögzött nacionalista gondolkodásmódját.",
+  "backdropPath": "/lTyikzfGgRX5ZqIfVeT26APYfRL.jpg",
+  "posterPath": "/gHa8483wJeKOs5HdA6Bcb8mhsH1.jpg",
+  "releaseDate": "2019-10-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d7f0b2cf-ad81-4679-bd32-0abb9418423e",
+      "title": "Jojo Nyuszi",
+      "subtitle": null,
+      "timestampString": "01:26:52",
+      "timestampInSeconds": 5212,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #184",
+        "youtubeId": "yDKXFhvljd4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/yDKXFhvljd4/hqdefault.jpg",
+        "durationInMinutes": 257,
+        "releaseDate": 1581012388000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

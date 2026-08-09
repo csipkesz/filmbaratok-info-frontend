@@ -1,0 +1,49 @@
+{
+  "id": "b84c36bb-dd69-4a87-a82a-867f5c0a399a",
+  "title": "Captain Fantastic",
+  "originalTitle": "Captain Fantastic",
+  "overview": "A Pacific Northwest erdeiben elszigetelten él egy apa hat gyermekével együtt. A lurkókat szigorú fizikai és szellemi nevelésben részesíti. Aztán úgy alakul, hogy kénytelenek lesznek elhagyni ezeket a számukra paradicsomi körülményeket, és szocializálódniuk kell, hogy a világ civilizált részein boldoguljanak.",
+  "backdropPath": "/d84M69u6Q202dm6EvhVxbiqrK9f.jpg",
+  "posterPath": "/2sFME73GaD8UsUxPUKe60cPdLif.jpg",
+  "releaseDate": "2016-07-08T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8121c077-a1f4-49d4-9a8c-b1c616f1db1c",
+      "title": "Captain Fantastic",
+      "subtitle": null,
+      "timestampString": "00:50:20",
+      "timestampInSeconds": 3020,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #117",
+        "youtubeId": "pgzo-WxFTbU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/pgzo-WxFTbU/hqdefault.jpg",
+        "durationInMinutes": 176,
+        "releaseDate": 1487953222000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ff248333-0d00-40bd-af3c-6049f0a070c6",
+            "name": "Szöllőskei Gábor"
+          }
+        ]
+      }
+    }
+  ]
+}

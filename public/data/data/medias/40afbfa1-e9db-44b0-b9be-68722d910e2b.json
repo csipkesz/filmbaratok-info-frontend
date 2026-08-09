@@ -1,0 +1,53 @@
+{
+  "id": "40afbfa1-e9db-44b0-b9be-68722d910e2b",
+  "title": "Örökség",
+  "originalTitle": "Örökség",
+  "overview": "A gazdag Szilviának nem lehet gyermeke ezért meggyőzi a szép, de szegény, zsidó asszonyt, Irént, hogy Szilvia férje, Ákos, ejtse teherbe és a születendő gyermeket adja örökbe nekik. A terve azonban nem egészen úgy alakul ahogy elképzelte. Ákos és Irén egymásba szeretnek és a férfi elhagyja Szilviát. 10 évvel később, 1944-ben, Szilvia számára elérkezik a bosszúállás ideje...",
+  "backdropPath": "/EuSbFhZYlwua6jYcAb6rGpAcZI.jpg",
+  "posterPath": "/uNLJRY9JKyj8h4i65dx88VatCdx.jpg",
+  "releaseDate": "1980-06-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a8e91733-fd2a-44a6-8c8f-418a03f68268",
+      "title": "Örökség",
+      "subtitle": null,
+      "timestampString": "01:00:33",
+      "timestampInSeconds": 3633,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #145",
+        "youtubeId": "oIN5otdDLXA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/oIN5otdDLXA/hqdefault.jpg",
+        "durationInMinutes": 299,
+        "releaseDate": 1528994767000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "77d14e6b-7100-40fe-af2f-f7dda477ca51",
+            "name": "Gábor (Videodrome)"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ff248333-0d00-40bd-af3c-6049f0a070c6",
+            "name": "Szöllőskei Gábor"
+          }
+        ]
+      }
+    }
+  ]
+}

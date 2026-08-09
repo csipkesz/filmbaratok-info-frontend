@@ -1,0 +1,33 @@
+{
+  "id": "06eef293-950b-4ca1-a89c-6b4b6cfe434e",
+  "title": "Az interview botrányról",
+  "originalTitle": null,
+  "overview": null,
+  "backdropPath": null,
+  "posterPath": null,
+  "releaseDate": null,
+  "topics": [
+    {
+      "id": "f589c3ec-92e8-43c3-8e78-792ac5195dbc",
+      "title": "Az interview botrányról",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Az interview botrányról",
+        "youtubeId": "FyXxZ5jb060",
+        "thumbnailUrl": "https://i.ytimg.com/vi/FyXxZ5jb060/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1419012874000,
+        "participants": [
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "4a72d215-27ae-4333-88ff-e682b89daf97",
+  "title": "Legénybúcsú",
+  "originalTitle": "Legénybúcsú",
+  "overview": "Alex és Simon mindketten háziorvosok és huszonegy éve elválaszthatatlanok. Most azonban Simon megnősül, így legjobb barátja egy igazán emlékezetes legénybúcsút szervez számára. A buli azonban minden lesz, csak nem szokványos: a Balaton partjától egy luxus golf resortig, pókerjátszmáktól vadnyugati kocsmákig sodródik a történet, miközben egy titokzatos széf, egy híres színésznő, egy rendőrnő, egy kommandós és Simon menyasszonya is bonyolítja az eseményeket. A kérdés csak az: vajon kibírja-e a barátság ezt a hétvégét – és lesz-e egyáltalán esküvő?",
+  "backdropPath": "/l4eO0DmXdoMLFRUO3Xhro39dxTd.jpg",
+  "posterPath": "/hvcJ0tAZEJb6WOBR3YzM8qBHVnc.jpg",
+  "releaseDate": "2025-12-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "410ce1c1-9b92-478f-b9ac-64308847fb89",
+      "title": "Legénybúcsú [Spoileres]",
+      "subtitle": null,
+      "timestampString": "02:55:40",
+      "timestampInSeconds": 10540,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #207",
+        "youtubeId": "nRj4p0apAgo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nRj4p0apAgo/hqdefault.jpg",
+        "durationInMinutes": 247,
+        "releaseDate": 1614949852000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

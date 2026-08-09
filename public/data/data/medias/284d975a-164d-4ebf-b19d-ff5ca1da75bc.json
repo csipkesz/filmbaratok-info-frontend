@@ -1,0 +1,45 @@
+{
+  "id": "284d975a-164d-4ebf-b19d-ff5ca1da75bc",
+  "title": "Űrpiknik",
+  "originalTitle": "Űrpiknik",
+  "overview": "A különc egyetemista lány, Panna (Walters Lili) gyerekkorától kezdve próbál az űrbe küldeni jeleket, válaszra várva. Annak ellenére, hogy az egyetemen senki nem veszi őt komolyan, elmélete mégis bizonyítást nyer: hatására ugyanis a Földre érkezik a saját világában hasonlóan kirekesztett űrlény Fiú (Takács Zalán). Ha ez önmagában nem lenne elég sokk, a jövevény közli Pannával: a bolygó pusztulásra van ítélve, őt magát pedig egyedül az érdekli, hogy megmentse rajongása tárgyát, Zalatnay Sarolta művésznőt.",
+  "backdropPath": "/bTA4OToZszmfrHqH45Pi2SAWei2.jpg",
+  "posterPath": "/2alHhLKSemRFNvBI9jQCVWHx1eB.jpg",
+  "releaseDate": "2021-07-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f66f5f8b-e596-4da2-89a8-1d01288a1969",
+      "title": "Űrpiknik",
+      "subtitle": null,
+      "timestampString": "03:04:00",
+      "timestampInSeconds": 11040,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #215",
+        "youtubeId": "J6qemr4xa1Y",
+        "thumbnailUrl": "https://i.ytimg.com/vi/J6qemr4xa1Y/hqdefault.jpg",
+        "durationInMinutes": 287,
+        "releaseDate": 1627662350000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

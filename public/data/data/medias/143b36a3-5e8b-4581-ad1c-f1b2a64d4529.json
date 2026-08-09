@@ -1,0 +1,45 @@
+{
+  "id": "143b36a3-5e8b-4581-ad1c-f1b2a64d4529",
+  "title": "A négyzet",
+  "originalTitle": "The Square",
+  "overview": "A sikeres múzeumigazgató, Christian tökéletes életének gépezetébe egyszer csak porszem kerül: egy ügyesen kitervelt átverés révén fényes nappal zsebelik ki a múzeum előtti forgalmas téren. Christian nem hagyja annyiban a dolgot, és bosszúhadjáratra indul a feltételezett tolvajok ellen. Közben egy erőszakos amerikai újságírónővel is bonyolult viszonyba kezd. Komikus, majd egyre abszurdabb és kínosabb helyzetek során kezd szétfoszlani látszólagos magabiztossága és irigylésre méltó élete.",
+  "backdropPath": "/bYZM4DoHrmzY3oq2qrcXAYQmLNp.jpg",
+  "posterPath": "/1HmQlj16E6NPtTupdJLuUXD2CyG.jpg",
+  "releaseDate": "2017-08-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c6cdc6d3-b125-4d8a-bc79-aeee8a125149",
+      "title": "A négyzet",
+      "subtitle": null,
+      "timestampString": "01:51:35",
+      "timestampInSeconds": 6695,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #131",
+        "youtubeId": "QymLKg2wvV4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/QymLKg2wvV4/hqdefault.jpg",
+        "durationInMinutes": 230,
+        "releaseDate": 1509033085000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

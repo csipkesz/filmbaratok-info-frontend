@@ -1,0 +1,45 @@
+{
+  "id": "35e1c940-36f3-4451-a802-9e5c4b592d2d",
+  "title": "Becsületes tolvaj",
+  "originalTitle": "Honest Thief",
+  "overview": "Egy bankrabló rátalál élete szerelmére, ezért úgy dönt, hogy jó útra tér és becsületes életet él. A helyzet azonban bonyolódik, amikor egy korrupt FBI ügynöknek akarja feladni magát. Hamarosan már nemcsak a nevét kell tisztáznia, de a saját és szerelme élete is veszélybe kerül.",
+  "backdropPath": "/2M2JxEv3HSpjnZWjY9NOdGgfUd.jpg",
+  "posterPath": "/4Baml5vAzo2S1YklQ0CXO80ckqn.jpg",
+  "releaseDate": "2020-09-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c853bd9f-3885-4c29-ba51-d83cf08fecd2",
+      "title": "Becsületes tolvaj",
+      "subtitle": null,
+      "timestampString": "02:08:02",
+      "timestampInSeconds": 7682,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #199",
+        "youtubeId": "fQW3yV4nVGM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fQW3yV4nVGM/hqdefault.jpg",
+        "durationInMinutes": 264,
+        "releaseDate": 1603214829000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          }
+        ]
+      }
+    }
+  ]
+}

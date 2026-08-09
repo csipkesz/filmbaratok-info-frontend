@@ -1,0 +1,45 @@
+{
+  "id": "4889db32-0443-4a83-9981-56fcbc19b5ea",
+  "title": "A tenger dala",
+  "originalTitle": "Song of the Sea",
+  "overview": "A tenger dala csodálatos mese Benről és kishúgáról, Saoirse-ről, aki az utolsó fókatündér. A két testvér kalandos útra indul egy ősi, varázslatos legenda nyomában, hogy hazatérhessenek tengerparti otthonukba. A film az ír folklórból merített inspirációt: a mitológiai selkiek a tengerben fókaként élnek, de a szárazföldön emberré válnak.",
+  "backdropPath": "/mVLZvSe1Aa8CFKx0cInTamVZJrW.jpg",
+  "posterPath": "/qmQ568fdW3SvthYABAIGMhd7bCc.jpg",
+  "releaseDate": "2014-06-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "252dadce-fdd7-42c9-ad92-8cbdb2e70ba6",
+      "title": "A tenger dala",
+      "subtitle": null,
+      "timestampString": "02:14:38",
+      "timestampInSeconds": 8078,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #72",
+        "youtubeId": "Mkw8rsdw7bc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Mkw8rsdw7bc/hqdefault.jpg",
+        "durationInMinutes": 199,
+        "releaseDate": 1430242149000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

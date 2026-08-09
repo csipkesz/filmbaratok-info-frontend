@@ -1,0 +1,49 @@
+{
+  "id": "3cf3d0af-f5e3-46f6-b389-3c5a2b3ddf2d",
+  "title": "Deadpool 2",
+  "originalTitle": "Deadpool 2",
+  "overview": "Mikor egy szuperkatona érkezik gyilkos küldetéssel, Deadpool rákényszerül, hogy olyasmikre legyen tekintettel, mint a barátság, a család, és arra, hogy mit is jelent tulajdonképpen hősnek lenni – s mindeközben ötven árnyalatúra rúgja a szürke hátsókat. Merthogy: ha az ember a jóért harcol, időnként be kell piszkolnia a kezét.",
+  "backdropPath": "/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
+  "posterPath": "/p89SWit8y4glPsHBzzF4KMC1iu1.jpg",
+  "releaseDate": "2018-05-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b22cdb45-7165-40af-8d7d-484cc6536740",
+      "title": "Deadpool 2",
+      "subtitle": null,
+      "timestampString": "01:28:00",
+      "timestampInSeconds": 5280,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #144",
+        "youtubeId": "7oPd5jzdemY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/7oPd5jzdemY/hqdefault.jpg",
+        "durationInMinutes": 182,
+        "releaseDate": 1527255570000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

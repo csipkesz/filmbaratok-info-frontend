@@ -1,0 +1,45 @@
+{
+  "id": "eb42e178-7806-414d-9712-e7c1c243aa88",
+  "title": "Flash - A villám",
+  "originalTitle": "The Flash",
+  "overview": "Világok ütköznek össze, amikor a szupergyorsnál is gyorsabb Barry (Ezra Miller) arra használja a szupererejét, hogy visszafusson a múltba - reméli, hogy ha ott változtat, a jelen is más lesz. Csak a családja sorsát akarja jobbá tenni, a szülein szeretne segíteni, de sajnos, megtörténik, amiért nekirugaszkodott: megváltoztatja a jelent. Egy újfajta valóság csapdájába esik. Ebben Zod tábornok visszatér és a Föld elpusztításával fenyeget, de nincsenek szuperhősök, akik az emberiség segítségére siethetnének. Ha meg akarja menteni a világot, amiben élt és vissza akar térni a jövőbe, amit remél, Barry-nek futnia kell. Különleges gyorsasága segítségével elő kell kerítenie azokat a szuperhősöket, akik segíthetnek a bajban. De nem pont azokat találja, akikért indult és nem biztos, hogy az ő önfeláldozása elég hozzá, hogy helyretolja a kizökkent valóságot.",
+  "backdropPath": "/yF1eOkaYvwiORauRCPWznV9xVvi.jpg",
+  "posterPath": "/54QHzHr7SSDkCAVb6QGBHehzz6t.jpg",
+  "releaseDate": "2023-06-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "cafb35a5-d018-44b2-bde0-ff1669789af1",
+      "title": "Flash - A villám [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "01:14:40",
+      "timestampInSeconds": 4480,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #257",
+        "youtubeId": "Jm_IXtsLHnw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Jm_IXtsLHnw/hqdefault.jpg",
+        "durationInMinutes": 280,
+        "releaseDate": 1687629613000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

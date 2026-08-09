@@ -1,0 +1,41 @@
+{
+  "id": "5d6adaff-d89e-45bb-a86e-3cd765ffb2b8",
+  "title": "Michael",
+  "originalTitle": "Michael",
+  "overview": "Lebilincselő portré Michael Jacksonról, a bonyolult emberről és zseniális művészről, aki csodagyerekként született, felnőttként pedig a pop vitathatatlan királya lett. Egy átfogó kép a magánéletéről, de arról a művészi folyamatról is, amely alkotói munkásságát jellemezte.",
+  "backdropPath": "/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
+  "posterPath": "/duhEb8PTWYePg3VGR9ufN7AnxI2.jpg",
+  "releaseDate": "2026-04-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3945ac91-f131-49b0-90c9-c8af77045902",
+      "title": "Michael",
+      "subtitle": null,
+      "timestampString": "01:32:53",
+      "timestampInSeconds": 5573,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #326",
+        "youtubeId": "PyX_W5BWsXo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/PyX_W5BWsXo/hqdefault.jpg",
+        "durationInMinutes": 236,
+        "releaseDate": 1778948292000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

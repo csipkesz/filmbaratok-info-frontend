@@ -1,0 +1,45 @@
+{
+  "id": "18b879db-de4c-45c9-9b5a-0a8318cbdf49",
+  "title": "Late Shift (Éjszakai műszak)",
+  "originalTitle": null,
+  "overview": null,
+  "backdropPath": null,
+  "posterPath": null,
+  "releaseDate": null,
+  "topics": [
+    {
+      "id": "41ebe2ba-2be1-4dad-a7f1-e3df4cbb9d87",
+      "title": "Late Shift (Éjszakai műszak)",
+      "subtitle": null,
+      "timestampString": "02:16:40",
+      "timestampInSeconds": 8200,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #130",
+        "youtubeId": "gU3ro-u6uQ4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gU3ro-u6uQ4/hqdefault.jpg",
+        "durationInMinutes": 174,
+        "releaseDate": 1507212990000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

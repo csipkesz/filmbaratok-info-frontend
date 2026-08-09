@@ -1,0 +1,41 @@
+{
+  "id": "3568790b-ee76-436c-9644-2402454ce5d7",
+  "title": "Supergirl",
+  "originalTitle": "Supergirl",
+  "overview": "Amikor egy galaktikus léptékben is könyörtelen ellenfél váratlanul csap le Kara Zor-El otthonának közelében, a sokak által Supergirlként ismert hősnő (Milly Alcock) – bár legszívesebben mással foglalkozna – kénytelen társakat gyűjteni maga mellé. A különc, össze nem illő csapat végül egy lélegzetelállító, a csillagokon átívelő kalandra indul, hogy igazságot szolgáltasson… és talán bosszút is álljon. Vagy éppen fordítva.",
+  "backdropPath": "/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
+  "posterPath": "/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
+  "releaseDate": "2026-06-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6a54144f-c6b8-47d3-a5a3-122965e112be",
+      "title": "Supergirl",
+      "subtitle": null,
+      "timestampString": "01:03:50",
+      "timestampInSeconds": 3830,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #330",
+        "youtubeId": "AgwfP4V1UCo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/AgwfP4V1UCo/hqdefault.jpg",
+        "durationInMinutes": 207,
+        "releaseDate": 1784150438000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "b0395d3c-4a58-4534-97fe-4154fbb8709d",
+            "name": "Márk"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

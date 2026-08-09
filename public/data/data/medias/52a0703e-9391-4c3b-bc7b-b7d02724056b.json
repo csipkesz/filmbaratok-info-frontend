@@ -1,0 +1,41 @@
+{
+  "id": "52a0703e-9391-4c3b-bc7b-b7d02724056b",
+  "title": "Rohammentő",
+  "originalTitle": "Ambulance",
+  "overview": "Will Sharp a kitüntetett veterán, kétségbeesetten keresi a pénzt felesége orvosi számláinak fedezésére, ezért örökbefogadott testvére, Danny segítségét kéri. Danny, a karizmatikus bűnöző, segítségképpen egy balhét ajánl neki: 32 millió dolláros zsákmánnyal kecsegtető bankrablást. Az élet azonban keresztülhúzza Danny számításait.",
+  "backdropPath": "/peJmavN1H3Js9SiqQbPNs8Hgwgr.jpg",
+  "posterPath": "/8fgCfYmlZ5FfTrRLe1pputIobEs.jpg",
+  "releaseDate": "2022-03-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ad8b39ff-4b84-4b47-a48e-791c63db7233",
+      "title": "Rohammentő",
+      "subtitle": null,
+      "timestampString": "02:42:30",
+      "timestampInSeconds": 9750,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #231",
+        "youtubeId": "GwvFCLoE8cY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GwvFCLoE8cY/hqdefault.jpg",
+        "durationInMinutes": 252,
+        "releaseDate": 1650126613000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

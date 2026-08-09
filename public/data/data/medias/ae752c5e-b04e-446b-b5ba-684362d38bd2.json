@@ -1,0 +1,49 @@
+{
+  "id": "ae752c5e-b04e-446b-b5ba-684362d38bd2",
+  "title": "Hat hét",
+  "originalTitle": "Hat hét",
+  "overview": "A film főhőse az érettségi előtt álló, profi asztalitenisz karrierért küzdő Zsófi, aki nehéz anyagi körülmények között él labilis édesanyjával és húgával. Későn veszi észre, hogy terhes, és az életkörülményeiket figyelembe véve úgy dönt, hogy születendő gyermekét egy civil szervezet segítségével örökbe adja egy hosszú évek óta várakozó párnak. Zsófi határozott és kifejezetten felnőtt döntést hoz, de a szülése után jelentkező fizikai és érzelmi hullámvasútra nincsen felkészülve. A film az ő szemszögén keresztül követi végig a szülés utáni, az örökbeadó és örökbefogadó szülőknek egyaránt érzelmileg megterhelő hat hetes időszakot, amikor az életet adó anya még meggondolhatja magát.",
+  "backdropPath": "/uQs5SWGKxZvHsZPiCxJNWXPDvIn.jpg",
+  "posterPath": "/slnQg4VdYiBY7YrfB6IUfYf7xbI.jpg",
+  "releaseDate": "2022-08-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "948c6b6e-ecfc-4c55-a112-3ba1763bdf5e",
+      "title": "Hat hét",
+      "subtitle": null,
+      "timestampString": "02:31:25",
+      "timestampInSeconds": 9085,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #253",
+        "youtubeId": "qh8K0plyKrk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/qh8K0plyKrk/hqdefault.jpg",
+        "durationInMinutes": 284,
+        "releaseDate": 1682442009000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "a5727bbe-af5a-4721-8c07-2290e07b1211",
+            "name": "ChatGPT"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

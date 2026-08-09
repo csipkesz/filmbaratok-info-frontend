@@ -1,0 +1,41 @@
+{
+  "id": "7f550874-0bb3-4f3f-ba72-5a3821dc85cc",
+  "title": "X – A rendszerből törölve",
+  "originalTitle": "X – A rendszerből törölve",
+  "overview": "Éva zseniális rendőr. Meglátja, amit más nem, megérzi, ami fölött minden kollégája elsiklik. Neki tűnik fel az is, hogy a Budapesten rövid időn belül elkövetett jó néhány öngyilkosság között összefüggés lehet. Egy új tiszt, Péterrel együtt erednek a mindeddig felderítetlen esetek nyomába: egyre jobban belekeverednek egy szövevényes, félelmetes bűncselekmény-sorozatba, amelynek gyökerei messzire vezetnek.",
+  "backdropPath": "/2ctzzoMYB8XmsJ75xfE1fXQnIZT.jpg",
+  "posterPath": "/4neauh9npyLd42gir6vvPfzJ4s8.jpg",
+  "releaseDate": "2018-11-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "43fa03a8-17f9-4cb2-82c6-b6aeeab7dffa",
+      "title": "X – A rendszerből törölve",
+      "subtitle": null,
+      "timestampString": "00:34:47",
+      "timestampInSeconds": 2087,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #155",
+        "youtubeId": "Htjp4x7Tcgg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Htjp4x7Tcgg/hqdefault.jpg",
+        "durationInMinutes": 165,
+        "releaseDate": 1542194035000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "a9106f7e-c8f8-4ed6-8a88-4a42b5e0f8b9",
+            "name": "Anna"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

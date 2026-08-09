@@ -1,0 +1,41 @@
+{
+  "id": "3f0c4163-b269-4e00-9118-1c8b818d9257",
+  "title": "Szörnyella",
+  "originalTitle": "Cruella",
+  "overview": "Az 1970-es évek Londonjában, a punk rock forradalom forgatagában Estella, a fiatal csavargó, eszét és kreativitását hasznosítva igyekszik nevet szerezni magának ruhaterveivel. Összebarátkozik két tolvajjal, akiknek tetszik a csínytevésre hajlamos lány; együttes erővel boldogulnak a londoni utcákon. Egy napon Estella divathoz való érzéke felkelti von Hellman bárónő, a lefegyverzően sikkes divatlegenda figyelmét. Újdonsült munkakapcsolatuk azonban olyan események és felfedezések láncolatát indítja el, amik előcsalják Estella galád oldalát.",
+  "backdropPath": "/6MKr3KgOLmzOP6MSuZERO41Lpkt.jpg",
+  "posterPath": "/lEZYNf8PxMjKX84ktdYsdQQEb5q.jpg",
+  "releaseDate": "2021-05-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "42d95de7-9db1-4d61-9301-fbeadbff7af8",
+      "title": "Szörnyella",
+      "subtitle": null,
+      "timestampString": "01:28:45",
+      "timestampInSeconds": 5325,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #213",
+        "youtubeId": "JtzuuNOeIxc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JtzuuNOeIxc/hqdefault.jpg",
+        "durationInMinutes": 200,
+        "releaseDate": 1624372656000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

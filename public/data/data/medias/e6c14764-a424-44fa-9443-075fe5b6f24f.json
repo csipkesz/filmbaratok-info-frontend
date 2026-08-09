@@ -1,0 +1,45 @@
+{
+  "id": "e6c14764-a424-44fa-9443-075fe5b6f24f",
+  "title": "Gengszterzsaruk",
+  "originalTitle": "Den of Thieves",
+  "overview": "Los Angelesben, a bankrablások fővárosában a bűnözőknél csak a Nagy Nick által vezetett rendőrségi elit akciócsoport tagjai, a \"Regulátorok\" könyörtelenebbek. Mikor Nick megtudja, hogy a hírhedt mestertolvaj, Merrimen élete legvakmerőbb rablására készül, zsarolással ráveszi a banda leggyengébb láncszemét, hogy legyen a rendőrség besúgója. Merriman merész akciók sorozatát hajtja végre, hogy előkészítse a lehetetlent: a szigorúan őrzött Központi Bank kirablását. Elindul a versenyfutás a dörzsölt bűnözők és a még dörzsöltebb \"jelvényes gengszterek\" között, és senki sem válogat az eszközökben. Ám hamarosan ráébrednek, hogy még őket is átverte valaki, akire soha nem gyanakodtak volna...",
+  "backdropPath": "/gQEfeFzEDhvz1YB3JXU2yUZspmH.jpg",
+  "posterPath": "/kY9Wgsw4thkxvbWpouHSCUIqrFd.jpg",
+  "releaseDate": "2018-01-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8bff2e90-67d9-400c-90e0-dad89e3823b5",
+      "title": "Gengszterzsaruk",
+      "subtitle": null,
+      "timestampString": "02:23:15",
+      "timestampInSeconds": 8595,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #138",
+        "youtubeId": "nNL55zk0j6I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nNL55zk0j6I/hqdefault.jpg",
+        "durationInMinutes": 255,
+        "releaseDate": 1519187400000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

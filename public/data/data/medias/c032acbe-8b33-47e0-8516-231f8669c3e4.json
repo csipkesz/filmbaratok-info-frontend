@@ -1,0 +1,45 @@
+{
+  "id": "c032acbe-8b33-47e0-8516-231f8669c3e4",
+  "title": "Fresh",
+  "originalTitle": "Fresh",
+  "overview": "Noa (Daisy Edgar-Jones) valahogy nem tudja megtalálni az igazit. A randiappok felszínes világa kiábrándítja, mígnem egy bevásárlás alkalmával találkozik a sármos Steve-vel (Sebastian Stan), akinek különc stílusa rögtön megtetszik a lánynak. Hamar összemelegednek és minden tökéletesnek tűnik, ám a férfinak igen sötét titkai vannak...",
+  "backdropPath": "/oVv5l6L5Wi5j3gd4P2vt0YvVMOg.jpg",
+  "posterPath": "/kINWMst2vyIBPToF5ZVZMTR72wn.jpg",
+  "releaseDate": "2022-03-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6b7f4fc1-4041-42d0-aa4f-7cda064f31dc",
+      "title": "Fresh",
+      "subtitle": null,
+      "timestampString": "03:23:45",
+      "timestampInSeconds": 12225,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #245",
+        "youtubeId": "thnBmMbVpOo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/thnBmMbVpOo/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1671033623000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

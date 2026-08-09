@@ -1,0 +1,49 @@
+{
+  "id": "ff85a8d5-e857-4937-b750-775f8561ef3f",
+  "title": "Momentum",
+  "originalTitle": "Momentum",
+  "overview": "Egy nagyívű rablás rendkívül balul sül el, melynek következtében Alex Faraday, a gyönyörű, okos és kegyetlen nő a lebukás szélére kerül. A probléma forrása azonban nem csupán a rablás körüli váratlan nehézség köré összpontosul, ugyanis Alex szemtanúja lesz, amint csapatának tagját brutálisan meggyilkolja egy nemzetközi szindikátus, melynek vezetője egy titokzatos kulcsot keres. Amikor a nő megpróbálja elhagyni a helyszínt, a szervezet feje, Mr. Washington meglátja őt, ezt követően pedig az életéért harcolva kell versenyt futnia üldözőivel. Alexet azonban kemény fából faragták, és menekülés közben megpróbálja felfedni, vajon mit nyithat a kulcs, melyért a szervezetnek az emberáldozatok sem hiábavalóak.",
+  "backdropPath": "/7nYZxYAb1vkLd1a5i7qDcH5kBsK.jpg",
+  "posterPath": "/i5R2arzbqsXLPRLFALkSyyTCCAP.jpg",
+  "releaseDate": "2015-10-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "40553361-2134-4a2b-9147-e9f28f61ad29",
+      "title": "Momentum",
+      "subtitle": null,
+      "timestampString": "01:47:10",
+      "timestampInSeconds": 6430,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #97",
+        "youtubeId": "544nF31uOsc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/544nF31uOsc/hqdefault.jpg",
+        "durationInMinutes": 219,
+        "releaseDate": 1461517994000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

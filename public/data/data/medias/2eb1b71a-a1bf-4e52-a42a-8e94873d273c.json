@@ -1,0 +1,45 @@
+{
+  "id": "2eb1b71a-a1bf-4e52-a42a-8e94873d273c",
+  "title": "Az (2017)",
+  "originalTitle": null,
+  "overview": null,
+  "backdropPath": null,
+  "posterPath": null,
+  "releaseDate": null,
+  "topics": [
+    {
+      "id": "7b432e7b-10a6-41c3-9c2a-b24b0dbf6591",
+      "title": "Az (2017)",
+      "subtitle": null,
+      "timestampString": "00:29:00",
+      "timestampInSeconds": 1740,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #128",
+        "youtubeId": "YoKRZAg1KR0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/YoKRZAg1KR0/hqdefault.jpg",
+        "durationInMinutes": 252,
+        "releaseDate": 1505410953000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

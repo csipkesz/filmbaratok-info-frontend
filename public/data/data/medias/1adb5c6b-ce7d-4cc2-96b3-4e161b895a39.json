@@ -1,0 +1,41 @@
+{
+  "id": "1adb5c6b-ce7d-4cc2-96b3-4e161b895a39",
+  "title": "Ivanhoe (1952)",
+  "originalTitle": "Ivanhoe",
+  "overview": "Ivanhoe a fogságban lévő Richárd király megbízásából a kiszabadítására gyűjt pénzt. Közben választania kell szerelem és eskü, a szép zsidó Rebecca és a szász Lady Rowena közt. Ezalatt találkozik a nép nyomorával, az urak kapzsiságával és János herceg hatalomvágyával.",
+  "backdropPath": "/pKAq05IpPBoO6B6xmhiLoCvPCGD.jpg",
+  "posterPath": "/2Se7dafuvchdSr6vdZ5L0DXsYWv.jpg",
+  "releaseDate": "1952-07-31T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "35cecc2b-a84f-4142-864e-b4681f112e11",
+      "title": "Ivanhoe (1952)",
+      "subtitle": null,
+      "timestampString": "01:32:10",
+      "timestampInSeconds": 5530,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #112",
+        "youtubeId": "M7gzW5_pVZk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/M7gzW5_pVZk/hqdefault.jpg",
+        "durationInMinutes": 160,
+        "releaseDate": 1481731219000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

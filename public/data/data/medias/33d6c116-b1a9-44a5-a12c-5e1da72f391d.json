@@ -1,0 +1,45 @@
+{
+  "id": "33d6c116-b1a9-44a5-a12c-5e1da72f391d",
+  "title": "Richard Jewell balladája",
+  "originalTitle": "Richard Jewell",
+  "overview": "Richard Jewell több száz ember életét mentette meg, miközben a sajátját kockáztatta. Hős lett belőle, egy ország ünnepelte. Egy darabig. Nem sokkal később már az első számú közellenségként tekintett rá Amerika két legnagyobb hatalma: az igazságszolgáltatás és a sajtó...",
+  "backdropPath": "/zAfG4ZmpNfKSyr8MVn1CHjgYYXx.jpg",
+  "posterPath": "/9iWDCZc8iucBRdnzqllCA4a7Llr.jpg",
+  "releaseDate": "2019-12-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "30e252ca-7a5e-4946-85f9-e8735368909c",
+      "title": "Richard Jewell balladája",
+      "subtitle": null,
+      "timestampString": "01:55:20",
+      "timestampInSeconds": 6920,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #185",
+        "youtubeId": "eq07jUces30",
+        "thumbnailUrl": "https://i.ytimg.com/vi/eq07jUces30/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1582698378000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

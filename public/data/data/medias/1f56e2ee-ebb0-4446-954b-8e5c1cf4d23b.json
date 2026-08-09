@@ -1,0 +1,45 @@
+{
+  "id": "1f56e2ee-ebb0-4446-954b-8e5c1cf4d23b",
+  "title": "John Wick: 4. felvonás",
+  "originalTitle": "John Wick: Chapter 4",
+  "overview": "John Wick neve hallatán mindenki megborzong az alvilágban, hiszen tudják, ha a visszavonult bérgyilkost felbőszítik, akkor bizony képes az egész várost csatatérré változtatni és még az sem számít, ha egy egész hadsereget küldenek ellene. Wick számára a nyugodt élet továbbra sem adatik meg, ismét fel kell vennie a harcot, ha egyáltalán szeretné megélni a holnapot. Persze a rosszfiúk ezúttal sem tudják, kivel húztak ujjat.",
+  "backdropPath": "/7I6VUdPj6tQECNHdviJkUHD2u89.jpg",
+  "posterPath": "/kQWMSvX3wXfNPZV4a9zrNjYKcwp.jpg",
+  "releaseDate": "2023-03-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "50a3fece-0e59-4015-82f1-905b350582df",
+      "title": "John Wick: 4. felvonás",
+      "subtitle": null,
+      "timestampString": "02:00:45",
+      "timestampInSeconds": 7245,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #252",
+        "youtubeId": "BAb0S4ADaoM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/BAb0S4ADaoM/hqdefault.jpg",
+        "durationInMinutes": 219,
+        "releaseDate": 1680329169000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

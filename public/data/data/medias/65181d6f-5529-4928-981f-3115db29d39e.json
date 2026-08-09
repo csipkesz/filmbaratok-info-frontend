@@ -1,0 +1,37 @@
+{
+  "id": "65181d6f-5529-4928-981f-3115db29d39e",
+  "title": "Csúnya, gonosz bácsik",
+  "originalTitle": "מי מפחד מהזאב הרע",
+  "overview": "Egy kislány eltűnik, néhány nappal később megtalálják egy erdőben: megerőszakolták és meggyilkolták. A durva modorú rendőr meg van győződve arról, hogy a gyilkos egy magányos tanár. Amikor a tanárt felfüggesztik, megpróbál személyesen elégtételt venni az áldozat apján.",
+  "backdropPath": "/ynWCPMkcx8VO4BmTlTnosbrLw8p.jpg",
+  "posterPath": "/4yElHxILKakMooUGPOVimkdbIsR.jpg",
+  "releaseDate": "2013-04-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fcaa61f3-c150-4c47-9cff-af8ce70eec8f",
+      "title": "Csúnya, gonosz bácsik",
+      "subtitle": null,
+      "timestampString": "00:54:40",
+      "timestampInSeconds": 3280,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #52",
+        "youtubeId": "z5hnMqJSVxs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z5hnMqJSVxs/hqdefault.jpg",
+        "durationInMinutes": 121,
+        "releaseDate": 1403347391000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

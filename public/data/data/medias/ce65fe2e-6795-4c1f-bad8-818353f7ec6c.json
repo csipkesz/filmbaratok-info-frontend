@@ -1,0 +1,45 @@
+{
+  "id": "ce65fe2e-6795-4c1f-bad8-818353f7ec6c",
+  "title": "Hősök szakasza",
+  "originalTitle": "Company of Heroes",
+  "overview": "A II. világháború utolsó nagy német offenzívája alatt egy szakasz amerikai katona az ellenséges vonalak mögött ragadt, ahol szörnyű felfedezésre bukkannak: Hitler egy minden elképzelést felülmúló pusztításra képes szuperbombát készít. A katonáknak hamarosan tudomására jut, hogy egy titkos küldetés keretében nemrég megpróbálták elfogni a német tudóst, aki a fegyverprogramért felelős, ám az akció kudarcba fulladt. Bár minden esély ellenük szól, a szakasz tagjai és az előző misszió egy túlélője úgy dönt, megkísérli végrehajtani a lehetetlent…",
+  "backdropPath": "/xBfz1YWWj5d7mv6h2iI7yPIZPWP.jpg",
+  "posterPath": "/nIHYdIWFoo9IairSmTdFv2HGxPQ.jpg",
+  "releaseDate": "2013-02-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4f3444e0-9167-4a2c-a190-067320508e52",
+      "title": "Hősök szakasza",
+      "subtitle": null,
+      "timestampString": "02:29:35",
+      "timestampInSeconds": 8975,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #274",
+        "youtubeId": "U5btDyv5pPk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/U5btDyv5pPk/hqdefault.jpg",
+        "durationInMinutes": 285,
+        "releaseDate": 1710534459000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

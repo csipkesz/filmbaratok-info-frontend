@@ -1,0 +1,45 @@
+{
+  "id": "2cb89a87-c5bb-4515-a588-b042b4e62b86",
+  "title": "Beavis és Butthead lenyomja Amerikát",
+  "originalTitle": "Beavis and Butt-Head Do America",
+  "overview": "Ha az MTV-n felhangzott az összetéveszthetetlenül kretén nevetés, és felbukkant a két csúnya rajzfigura, a nézők egyik fele kirohant a világból, a másik fele pedig rácuppant a képernyőre. Akár csípjük őket, akár kikészülünk tőlük, az vitathatatlan, hogy Beavis és Butt-head már több generáció számára sztárokká nőtte ki magát. Most túladagolhatjuk magunkat a századvég legnépszerűbb rajzfilmfiguráinak eszement kalandjaiból...",
+  "backdropPath": "/5B7idCmnzk4tdAc6tR8VgihZaMz.jpg",
+  "posterPath": "/gaTSXxCuSse7JamAry0YhNyFm80.jpg",
+  "releaseDate": "1996-12-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "eb292fb2-1c8c-4a8f-b45b-24e725a91ccd",
+      "title": "Beavis és Butthead lenyomja Amerikát",
+      "subtitle": null,
+      "timestampString": "02:03:30",
+      "timestampInSeconds": 7410,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #223",
+        "youtubeId": "uKeMDPapOJE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uKeMDPapOJE/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1639837304000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

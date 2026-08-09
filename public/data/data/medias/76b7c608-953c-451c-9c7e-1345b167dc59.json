@@ -1,0 +1,41 @@
+{
+  "id": "76b7c608-953c-451c-9c7e-1345b167dc59",
+  "title": "Démoni",
+  "originalTitle": "Demonic",
+  "overview": "Angela évek óta nem tartja a kapcsolatot anyjával, akinek soha nem tudta megbocsátani a szörnyűségeket, amiket tett. Mikor egy csapat tudós felkeresi a fiatal nőt, hogy egy különleges eljárás segítségével kapcsolatba léphet a kómában fekvő édesanyjával, sötét erők szabadulnak el.",
+  "backdropPath": "/tFBVXnqmsmoSFR3rbltTfdGIMgV.jpg",
+  "posterPath": "/wuSkAnBe9NuGpLITiNu2cnCFX1b.jpg",
+  "releaseDate": "2021-07-29T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6a9f4747-2578-4868-9384-91c377ac6eeb",
+      "title": "Démoni",
+      "subtitle": null,
+      "timestampString": "03:13:45",
+      "timestampInSeconds": 11625,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #216",
+        "youtubeId": "30tV_qEGOIE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/30tV_qEGOIE/hqdefault.jpg",
+        "durationInMinutes": 291,
+        "releaseDate": 1629219607000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

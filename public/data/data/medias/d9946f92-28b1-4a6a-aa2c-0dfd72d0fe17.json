@@ -1,0 +1,45 @@
+{
+  "id": "d9946f92-28b1-4a6a-aa2c-0dfd72d0fe17",
+  "title": "Tenet",
+  "originalTitle": "Tenet",
+  "overview": "Egy angol kémnek kell megmentenie a Földet a rá leselkedő és pusztulással fenyegető katasztrófától. Ám a szuperügynöknek nemcsak az idegen hatalmak embereivel, hanem a legnagyobb ellenséggel, az Idővel is meg kell küzdenie.",
+  "backdropPath": "/mQOUyqDybTqxl73hO5LujCZsM1o.jpg",
+  "posterPath": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+  "releaseDate": "2020-08-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ac49f6ca-b510-47ad-b7aa-3cca8d7c7554",
+      "title": "Tenet [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "00:52:50",
+      "timestampInSeconds": 3170,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #197",
+        "youtubeId": "j1hyfnPoTyg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/j1hyfnPoTyg/hqdefault.jpg",
+        "durationInMinutes": 296,
+        "releaseDate": 1600408834000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "5158ce64-f7b5-45bb-9b8f-3da2b8fb96b6",
+  "title": "Ready Player One",
+  "originalTitle": "Ready Player One",
+  "overview": "A valóságban nincs semmi jó. Szerencsére nem is kell törődnünk vele. 2044-ben már mindenkit beszippant a világot átfogó virtuális játék, az OASIS, amelyben mindenki a maga választotta avatárjával vehet részt: és nem szembesül semmi rosszal, ami a játékon kívül várná. Amikor az OASIS-t feltaláló és a céget alapító James Halliday meghal, a végrendeletéből kiderül, hogy elrejtett néhány titkot a rendszerben. Aki ezekre rátalál, mesés gazdagságot nyerhet. Wade 18 éves és az egész életét a játékban töltötte. Nekivág a kalandnak és nem törődik vele, hogy az élete a tét. De nemcsak az, amelyiket a játék számára használ, hanem a valódi is.",
+  "backdropPath": "/5a7lMDn3nAj2ByO0X1fg6BhUphR.jpg",
+  "posterPath": "/lzT1RTLn4A0Ttr1hvipm5mi99by.jpg",
+  "releaseDate": "2018-03-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f76e830b-965a-41d0-9c9c-f488b3f872f1",
+      "title": "Ready Player One",
+      "subtitle": null,
+      "timestampString": "00:29:00",
+      "timestampInSeconds": 1740,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #142",
+        "youtubeId": "9S7p7P1Y2po",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9S7p7P1Y2po/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1525105433000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

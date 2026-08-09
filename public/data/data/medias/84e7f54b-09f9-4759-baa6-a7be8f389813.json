@@ -1,0 +1,49 @@
+{
+  "id": "84e7f54b-09f9-4759-baa6-a7be8f389813",
+  "title": "V mint vérbosszú",
+  "originalTitle": "V for Vendetta",
+  "overview": "Anglia diktatúrától szenved a nem is olyan távoli jövőben. A tévéből dől a propaganda, a titkosrendőrség pribékjei mindenkit rettegésben tartanak. Evey-t, a fiatal lányt egyik este elkapják az utcán, a halál torkából egy titokzatos alak, V szabadítja ki. A férfi a négyszáz éve kivégzett lázadó, Guy Fawkes álarcát viseli. Fawkes társaival együtt levegőbe akarta röpíteni a parlamentet, hogy az országot megszabadítsa a zsarnokságtól. De a merénylet meghiúsult, az összeesküvők bitón végezték. Evey apránként megismeri V múltját, mely a férfi bosszúvágyát táplálja. És miközben maga is megjárja a diktatúra börtöneit, rájön, hogy V ugyanarra készül, amire annak idején Fawkes.",
+  "backdropPath": "/sFEYsEfzTx7hhjetlNrme8B5OUo.jpg",
+  "posterPath": "/3Syk8NxFiwCH6hXZsAYNE2W1owR.jpg",
+  "releaseDate": "2006-02-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a5f6b0cc-1057-46e0-9ace-ca8e2016a00d",
+      "title": "V mint vérbosszú",
+      "subtitle": null,
+      "timestampString": "04:21:08",
+      "timestampInSeconds": 15668,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #220",
+        "youtubeId": "V6uGh9dBdAw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/V6uGh9dBdAw/hqdefault.jpg",
+        "durationInMinutes": 284,
+        "releaseDate": 1634383916000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

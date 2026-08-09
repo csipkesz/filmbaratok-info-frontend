@@ -1,0 +1,41 @@
+{
+  "id": "e87bb0d6-d3a7-42f9-af45-bb653372134a",
+  "title": "Komfortos mennyország",
+  "originalTitle": "The Lovely Bones",
+  "overview": "A tizennégy éves Susie egy napon nem érkezik haza az iskolából. Ahogy telik-múlik az idő a Salmon család aggódni kezd a legidősebb lányuk miatt, aki nem szokott kimaradni ilyen sokáig. Kétségbeesve keresni kezdik, de nem találják. A rendőrség kinyomozza, hogy Susie gyilkosság áldozata lett, ám a tettest nem sikerül elfogni. Közben kiderül, hogy a kislány a föld és a mennyország között van, onnan tekint le a családjára, melyben mindenki a maga módján próbálja feldolgozni a tragédiát. Jól ismeri a gyilkosát is, aki sokkal közelebb van hozzájuk, mint azt bárki gondolná.",
+  "backdropPath": "/vmonG9lV1s3CtmOQmmWUO206Xay.jpg",
+  "posterPath": "/hMHXoUyj9nvoDxrPpOjYlE4V2pp.jpg",
+  "releaseDate": "2009-12-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "af580f05-91a0-4528-9d71-118b7c4e8b0a",
+      "title": "Komfortos mennyország",
+      "subtitle": null,
+      "timestampString": "02:03:59",
+      "timestampInSeconds": 7439,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #155",
+        "youtubeId": "Htjp4x7Tcgg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Htjp4x7Tcgg/hqdefault.jpg",
+        "durationInMinutes": 165,
+        "releaseDate": 1542194035000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "a9106f7e-c8f8-4ed6-8a88-4a42b5e0f8b9",
+            "name": "Anna"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

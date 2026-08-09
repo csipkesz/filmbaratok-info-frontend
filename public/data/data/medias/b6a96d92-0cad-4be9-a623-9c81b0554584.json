@@ -1,0 +1,49 @@
+{
+  "id": "b6a96d92-0cad-4be9-a623-9c81b0554584",
+  "title": "Aquaman és az Elveszett Királyság",
+  "originalTitle": "Aquaman and the Lost Kingdom",
+  "overview": "Az óceán soha nem békés! Ezért nem pihenhet meg egyetlen percre sem az óceánok hét királyságának uralkodója. Black Manta megpróbálta már legyőzni Aquamant, a világ tengereinek urát (Jason Momoa), de kudarcot vallott. Továbbra is meg akarja bosszulni az apja halálát, így aztán bármire hajlandó és bárkivel szövetkezik, hogy elpusztítsa ősellenségét. Most erősebb, mint eddig bármikor, mert megszerezte a legendák csodafegyverét, a fekete szigonyt, amelynek segítségével egy ősi, gonosz erőt szabadít a világra.  Aquaman kénytelen kiszabadítani börtönbe zárt testvérét, Orm királyt (Patrick Wilson), Atlantisz egykori uralkodóját. Békét nem kötnek, de átmeneti szövetséget igen – ha nem teszik meg, akkor Aquaman családja, azután az összes tenger, végül az egész világ elpusztul.",
+  "backdropPath": "/bckxSN9ueOgm0gJpVJmPQrecWul.jpg",
+  "posterPath": "/ep4beh2XVefB8izPjPj6mGvkmJ.jpg",
+  "releaseDate": "2023-12-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1a4e4a5b-2002-4e79-a477-7973b6ce909a",
+      "title": "Aquaman és az Elveszett Királyság",
+      "subtitle": null,
+      "timestampString": "01:22:30",
+      "timestampInSeconds": 4950,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #269 (Évösszegző 2023)",
+        "youtubeId": "UqrJRJtzjJs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/UqrJRJtzjJs/hqdefault.jpg",
+        "durationInMinutes": 276,
+        "releaseDate": 1703966409000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

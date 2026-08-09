@@ -1,0 +1,45 @@
+{
+  "id": "b8e72875-899f-44cf-8af7-548e8bb9ecd4",
+  "title": "A visszatérő",
+  "originalTitle": "The Revenant",
+  "overview": "Hugh Glass 1822-ben nyugat felé veszi az irányt, hogy Andrew Henry kapitány szolgálatában szőrmét gyűjtsön. A férfit egy napon megtámadja egy medve, és bár Hugh csodával határos módon túléli az esetet, nagyon súlyos sérüléseket szenved. A terepviszonyok lehetetlenné teszik, hogy elszállítsák, két mecénás pedig sorsára hagyja őt a vadonban. A védtelen férfi azonban mégis felépül, melyet követően bosszút esküszik, és elindul, hogy megtorolja sérelmeit azokon, akik megtagadták tőle a segítséget.",
+  "backdropPath": "/hEQYZq2CDB2LSJVxxlazdBOKeyW.jpg",
+  "posterPath": "/9cchyMGPzX0XIx6hI6snLM2takb.jpg",
+  "releaseDate": "2015-12-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e359635d-30d7-4137-a2e6-f9d579b99e19",
+      "title": "A visszatérő",
+      "subtitle": null,
+      "timestampString": "01:04:35",
+      "timestampInSeconds": 3875,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #91",
+        "youtubeId": "G-6KMqIQhQQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/G-6KMqIQhQQ/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1454001243000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

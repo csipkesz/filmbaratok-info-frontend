@@ -1,0 +1,49 @@
+{
+  "id": "a450eb66-bb21-4312-a952-be8c53b3781a",
+  "title": "Tőrbe ejtve: Ébredj fel, halott ember",
+  "originalTitle": "Wake Up Dead Man: A Knives Out Mystery",
+  "overview": "Ebben a sötét történetben a detektív Benoit Blanc egy őszinte fiatal lelkésszel együtt nyomoz egy kisvárosi templomban elkövetett tökéletesen lehetetlen bűntény ügyében.",
+  "backdropPath": "/fiRDzpcJe7qz3yIR43hdXIE3NHv.jpg",
+  "posterPath": "/6HgYIUbiFLYlxMCKCyn9lXFHbmS.jpg",
+  "releaseDate": "2025-11-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "31309702-3588-44e9-90ea-a8d9253091cc",
+      "title": "Tőrbe ejtve: Ébredj fel, halott ember",
+      "subtitle": null,
+      "timestampString": "00:30:30",
+      "timestampInSeconds": 1830,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #317",
+        "youtubeId": "N3gph9sciUU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/N3gph9sciUU/hqdefault.jpg",
+        "durationInMinutes": 257,
+        "releaseDate": 1767165271000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

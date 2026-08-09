@@ -1,0 +1,45 @@
+{
+  "id": "c734d2b8-25b7-4b2a-a5e9-59c7460a8f30",
+  "title": "A kárhozat útja",
+  "originalTitle": "Road to Perdition",
+  "overview": "Michael Sullivan (Tom Hanks) tisztességes polgár és jó családapa, de fia egy nap rájön, hogy napközben bérgyilkosként dolgozik. Hamarosan Rooney (Paul Newman) is rájön, hogy a fiú szemtanúja volt egy gyilkosságnak. Bérgyilkosok indulnak apa és fia után, ők azonban nem adják meg magukat könnyen. Segítségül hívják Al Capone egyik emberét, de minden és mindenki ellenük fordul. És a nyomukba ered Maguire (Jude Law), a veszedelmes gyilkos.",
+  "backdropPath": "/cDDyZ2qtBzNAepdTbgxKfFcxREl.jpg",
+  "posterPath": "/uniGq7HlIVezjH1oQdLsJiD2roq.jpg",
+  "releaseDate": "2002-07-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "77653834-a9cf-4541-9b93-b6b2a75c2bbc",
+      "title": "A kárhozat útja",
+      "subtitle": null,
+      "timestampString": "03:01:25",
+      "timestampInSeconds": 10885,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #232",
+        "youtubeId": "9TzGQXyouWk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9TzGQXyouWk/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1651670332000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

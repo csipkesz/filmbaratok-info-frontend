@@ -1,0 +1,45 @@
+{
+  "id": "8fbf997a-a3b8-4025-a125-d9a5e3dcd412",
+  "title": "Számkivetett",
+  "originalTitle": "Cast Away",
+  "overview": "Chuck Noland (Tom Hanks) karrierje csúcsán álló topmenedzsert az ünnepek előtti utolsó szolgálati útján szörnyű baleset éri. Senki sem éli túl a viharba keveredett gép lezuhanását, csak ő marad életben, valahol Malajzia felé a szétszórt szigetek világában. Barátnője, Kelly (Helen Hunt) hiába várja vissza, a hatóságok szerint nem élte túl senki a szerencsétlenséget. Chuck minden érzékét latba veti a trópusi szigeten az életben maradásért. Lassan feltalálja magát és önellátóvá válik. Nem hagyja magán eluralkodni a kezdeti kétségbeesést, tovább reménykedik. Négy évig tart ősemberi kalandja. Tutajt tud magának építeni és felhúzza rá a véletlenül partra sodort vitorladarabot. Az óceánon hánykolódva találnak rá. A visszatérés sokkoló hatású. Az otthoni civilizáció már rég kivetette magából.",
+  "backdropPath": "/oCFVYPXI4IfhtF3GapU2jkDicDI.jpg",
+  "posterPath": "/hB9xJdh6O1fnwBM8UZ0hnuOBvfd.jpg",
+  "releaseDate": "2000-12-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c419e6fb-04bd-4f22-9f37-47f77f7841d1",
+      "title": "Számkivetett [SPOILERS]",
+      "subtitle": null,
+      "timestampString": "03:50:18",
+      "timestampInSeconds": 13818,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #227",
+        "youtubeId": "aLZRPLtke70",
+        "thumbnailUrl": "https://i.ytimg.com/vi/aLZRPLtke70/hqdefault.jpg",
+        "durationInMinutes": 275,
+        "releaseDate": 1645191276000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

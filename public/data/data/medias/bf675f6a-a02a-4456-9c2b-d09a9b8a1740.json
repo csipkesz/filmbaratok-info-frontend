@@ -1,0 +1,41 @@
+{
+  "id": "bf675f6a-a02a-4456-9c2b-d09a9b8a1740",
+  "title": "A túlélő [The Survivalist]",
+  "originalTitle": "The Survivalist",
+  "overview": "Az éhínség idejében egy túlélő egy rejtett helyen él az erdő sűrűjében. Amikor két nő menedéket és élelmet keres, felfedezik az ő farmját, ezért ő fenyegetve érzi a létét és a területét.",
+  "backdropPath": "/9uNxv66tEPnzsKCDPzcIK0ZIgVB.jpg",
+  "posterPath": "/hd491WgKPxeQus2LnvFbYmyUFmt.jpg",
+  "releaseDate": "2015-04-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6cfc28c3-237d-4c55-b121-e4f290ec845c",
+      "title": "A túlélő [The Survivalist]",
+      "subtitle": null,
+      "timestampString": "02:41:51",
+      "timestampInSeconds": 9711,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #188",
+        "youtubeId": "0HEzLOYhLD4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/0HEzLOYhLD4/hqdefault.jpg",
+        "durationInMinutes": 184,
+        "releaseDate": 1587743952000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

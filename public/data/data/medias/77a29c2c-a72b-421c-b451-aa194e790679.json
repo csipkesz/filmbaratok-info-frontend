@@ -1,0 +1,41 @@
+{
+  "id": "77a29c2c-a72b-421c-b451-aa194e790679",
+  "title": "A sötét ötven árnyalata",
+  "originalTitle": "Fifty Shades Darker",
+  "overview": "Amikor a megsebzett Christian megpróbálja visszacsábítani az óvatos Anát az életébe, ő új megállapodást akar, mielőtt adna még egy esélyt a férfinak. Miközben ők ketten megpróbálják újra felépíteni a bizalmat egymás iránt, baljós alakok bukkannak elő Christian múltjából, és elkezdik bekeríteni a párt, hogy szétzúzzák a közös jövővel kapcsolatos reményeiket.",
+  "backdropPath": "/16aJtXO6lObbBUr11IvkjB1QD1f.jpg",
+  "posterPath": "/nBZ6mdtj9aayAQPvqyd4U6SW2hl.jpg",
+  "releaseDate": "2017-02-08T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "523bb5f1-afed-4648-b784-bd1a2aba2991",
+      "title": "A sötét ötven árnyalata",
+      "subtitle": null,
+      "timestampString": "01:12:48",
+      "timestampInSeconds": 4368,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #121",
+        "youtubeId": "-73qLSZm328",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-73qLSZm328/hqdefault.jpg",
+        "durationInMinutes": 130,
+        "releaseDate": 1494559801000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "1a3697ea-b5e9-4ac7-bebe-2e2f6f956f16",
+  "title": "Godzilla II – A szörnyek királya",
+  "originalTitle": "Godzilla: King of the Monsters",
+  "overview": "A Föld beteg, és az emberiség a betegség. De van egy gyógyszer, amely minden kórt elpusztít, és sok ezer éve itt él a világon láthatatlanul: a titánok törzse. Ezek az ősi szörnyek kegyetlenek, legyőzhetetlenek, hatalmasak és csodálatosak – ha egyszer elszabadulnak, mindent elpusztítanak, ami otthonuk ártalmára lehet. És most jönnek. Úgy érzik, az emberiség veszélyes: hát előbújnak földalatti fészkeikből, hogy egyszer és mindenkorra leszámoljanak velünk. Az ember önmagában gyenge. E mindent eldöntő, esélytelen csata során ahhoz kell segítségért fordulnia, akitől eddig rettegett: Godzillához.",
+  "backdropPath": "/mzRJpkWPjXdXak0WCc8ZxVH4hug.jpg",
+  "posterPath": "/q59NLsdbYY0TvPvTRIYsocXYAN6.jpg",
+  "releaseDate": "2019-05-29T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a100718d-fbb1-48bc-b73d-91a069caed91",
+      "title": "Godzilla II – A szörnyek királya",
+      "subtitle": null,
+      "timestampString": "02:40:10",
+      "timestampInSeconds": 9610,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #169",
+        "youtubeId": "-bLznzpWJe8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-bLznzpWJe8/hqdefault.jpg",
+        "durationInMinutes": 317,
+        "releaseDate": 1559569793000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

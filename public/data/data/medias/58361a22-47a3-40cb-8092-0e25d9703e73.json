@@ -1,0 +1,41 @@
+{
+  "id": "58361a22-47a3-40cb-8092-0e25d9703e73",
+  "title": "Zootropolis",
+  "originalTitle": "Zootopia+",
+  "overview": "Térjen vissza az emlősök nagyvárosába, hogy mélyebbre merüljön az ott lakók érdekes életében.",
+  "backdropPath": "/kq4IbjT5LRWVHEafDzLVZZEAf0O.jpg",
+  "posterPath": "/3Fs2ON1nXclHsKSNoLHx7aXvekM.jpg",
+  "releaseDate": "2022-11-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a3a65b0f-d6b7-4d7f-a811-411d134daee1",
+      "title": "Zootropolis",
+      "subtitle": null,
+      "timestampString": "01:35:00",
+      "timestampInSeconds": 5700,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #95",
+        "youtubeId": "IB6YAtikVd0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IB6YAtikVd0/hqdefault.jpg",
+        "durationInMinutes": 151,
+        "releaseDate": 1459485369000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

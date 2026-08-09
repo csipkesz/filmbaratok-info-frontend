@@ -1,0 +1,45 @@
+{
+  "id": "42341c5b-9741-4d5d-be4b-ac24e79a2cd6",
+  "title": "Kézipoggyász",
+  "originalTitle": "Carry-On",
+  "overview": "Egy biztonsági tiszt igyekszik túljárni egy rejtélyes utas eszén, aki arra kényszeríti, hogy engedjen fel egy veszélyes tárgyat egy zsúfolt karácsonyi repülőgépjáratra.",
+  "backdropPath": "/rhc8Mtuo3Kh8CndnlmTNMF8o9pU.jpg",
+  "posterPath": "/7lXkvAUDEqIojdtwvYKZTZp8Mo9.jpg",
+  "releaseDate": "2024-12-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b6e7dce6-3ea0-423d-9649-c52897561543",
+      "title": "Kézipoggyász",
+      "subtitle": null,
+      "timestampString": "02:24:08",
+      "timestampInSeconds": 8648,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #294",
+        "youtubeId": "MjMjFJlwupc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/MjMjFJlwupc/hqdefault.jpg",
+        "durationInMinutes": 207,
+        "releaseDate": 1737058478000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "6d0fa8a2-d69b-40b8-8779-2473fb405611",
+  "title": "Kingsman – A titkos szolgálat",
+  "originalTitle": "Kingsman: The Secret Service",
+  "overview": "Tökit kicsapták az iskolából, munka nélkül tengődik, az anyja lakásában lakik és zűrös életet él. Amikor autólopásért lecsukják, felhívja az apja halála után kapott érmén lévő telefonszámot. Ki is hozza őt a sittről a kifogástalan modorú, angolosan elegáns kém, Harry Hart, akinek annak idején a fiú apja mentette meg az életét. Harry megütközik a srác életmódján, ám lenyűgözi a fiú tehetsége és az intelligenciája, ezért felajánlja neki, hogy jelentkezhet a csapatába, ahol igazi ügynököt faragnak belőle.",
+  "backdropPath": "/qzUIOTk0E3F1zjvYjcBRTKUTgf9.jpg",
+  "posterPath": "/9lORXb6Pi9cGGRgqE9OCqW1SYET.jpg",
+  "releaseDate": "2015-01-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "171429e2-fb5c-45e4-a102-5990c8d0f0b1",
+      "title": "Kingsman – A titkos szolgálat",
+      "subtitle": null,
+      "timestampString": "02:14:48",
+      "timestampInSeconds": 8088,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #67",
+        "youtubeId": "FATQkJjmAQg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/FATQkJjmAQg/hqdefault.jpg",
+        "durationInMinutes": 206,
+        "releaseDate": 1424108444000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

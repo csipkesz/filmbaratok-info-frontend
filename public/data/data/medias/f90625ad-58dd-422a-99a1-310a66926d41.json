@@ -1,0 +1,49 @@
+{
+  "id": "f90625ad-58dd-422a-99a1-310a66926d41",
+  "title": "Oroszlán",
+  "originalTitle": "Lion",
+  "overview": "Az öt éves Saroo egyszer csak arra ébred, hogy rossz vonattal utazik egyes egyedül, egyre távolabb észak-indiai otthonától. A megrettent és megzavarodott kisfiú másfél ezer kilométerre vetődik el, a nyüzsgő és átláthatatlan Kalkuttába. Valahogy sikerül boldogulnia az utcákon, mígnem egy árvaházban köt ki. Ott egy ausztrál házaspár fogadja örökbe, így biztonságban és szeretetben nőhet fel Hobart városában. Hogy ne tűnjön hálátlannak újdonsült szüleivel szemben, múltját mélyre temeti, vágyával és reményeivel egyetemben, hogy valaha viszontlátja szülőanyját és testvérét. Egy véletlen találkozás más indiaiakkal azonban ismét feltüzeli titkos sóvárgását. Csupán maroknyi emlékkel és egy Google Earth nevű új technológiával, Saroo korunk legnagyobb és legképtelenebb kutatásába kezd elveszett családja után",
+  "backdropPath": "/ycABRSIK1Ff10Tc2A6WJHagp1Co.jpg",
+  "posterPath": "/ikmCsnNAtdoBFzifJmtqe7dzoMR.jpg",
+  "releaseDate": "2016-11-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "72574f5f-8480-4168-8161-49d123fe3e05",
+      "title": "Oroszlán",
+      "subtitle": null,
+      "timestampString": "00:19:30",
+      "timestampInSeconds": 1170,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #117",
+        "youtubeId": "pgzo-WxFTbU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/pgzo-WxFTbU/hqdefault.jpg",
+        "durationInMinutes": 176,
+        "releaseDate": 1487953222000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ff248333-0d00-40bd-af3c-6049f0a070c6",
+            "name": "Szöllőskei Gábor"
+          }
+        ]
+      }
+    }
+  ]
+}

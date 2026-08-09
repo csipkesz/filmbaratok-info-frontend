@@ -1,0 +1,41 @@
+{
+  "id": "07ba51c4-a957-43d8-b0d2-e83f354bbccb",
+  "title": "Rázós környék / Ill manors",
+  "originalTitle": "Ill Manors",
+  "overview": "Az egyetlen hét alatt játszódó iLL Manors - Rázós környék című filmben több sors fonódik össze. Embereké, akik London kegyetlen utcáin küzdenek a túlélésért egy olyan világban, melynek természetes részét képezi az erőszak. Kirby, az ex-díler frissen szabadult a börtönből; a keménykötésű Ed mindenkin átgázol, csak hogy megtalálja elveszett telefonját; Michelle bármit megtenne azért, hogy a következő drogadagjához hozzájusson; Jake a környék bűnbandájának markában találja magát; Chris bosszúra szomjazik, Katya pedig ebből a számára idegen világból menekülne. Végezetül ott van Aaron, talán az egyetlen, aki minden körülmények között csak a helyes döntést szeretné meghozni. Még akkor is, ha minden és mindenki összeesküszik ellene.",
+  "backdropPath": "/nWJPW8Z2fZr9vmBzqlLh2o5vOac.jpg",
+  "posterPath": "/5zbIZKKtoJCvwNDj6ZmuLIc6mnM.jpg",
+  "releaseDate": "2012-06-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "eebd304b-8dba-46df-9a13-91557f738ff4",
+      "title": "Rázós környék / Ill manors",
+      "subtitle": null,
+      "timestampString": "01:50:44",
+      "timestampInSeconds": 6644,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #205",
+        "youtubeId": "GcqE0JN9mNg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GcqE0JN9mNg/hqdefault.jpg",
+        "durationInMinutes": 170,
+        "releaseDate": 1612351186000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

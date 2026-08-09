@@ -1,0 +1,41 @@
+{
+  "id": "ece67ac9-1951-4f0c-bb27-68f5def7230a",
+  "title": "Egyik kopó, másik eb",
+  "originalTitle": "Turner & Hooch",
+  "overview": "Scott Turner nyomozó megörököl egy kezelhetetlen kutyát, Hooch-ot, akiből az a partner válhat, akire pont szüksége van. Együtt és a Turner család többi tagjával felfedezik, hogy apja halála nem biztos, hogy baleset volt.",
+  "backdropPath": "/gMNDllBAxn3SuW12qZU0tIZaeY3.jpg",
+  "posterPath": "/jbkgBmMgK0tVtEP3omgnbEerBKb.jpg",
+  "releaseDate": "2021-07-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "217840a3-397d-4a4e-aa44-f33b76f54e4f",
+      "title": "Egyik kopó, másik eb",
+      "subtitle": null,
+      "timestampString": "03:01:50",
+      "timestampInSeconds": 10910,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #195",
+        "youtubeId": "ub7UnLmmwMA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ub7UnLmmwMA/hqdefault.jpg",
+        "durationInMinutes": 217,
+        "releaseDate": 1597415274000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

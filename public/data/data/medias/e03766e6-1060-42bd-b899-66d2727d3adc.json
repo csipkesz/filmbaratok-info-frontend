@@ -1,0 +1,45 @@
+{
+  "id": "e03766e6-1060-42bd-b899-66d2727d3adc",
+  "title": "Vírus",
+  "originalTitle": "Outbreak",
+  "overview": "Egy majom szervezetében halálos vírus kerül Afrikából az Egyesült Államokba. Még mielőtt a tudósok lokalizálni tudnák a vírushordozót, több száz ember fertőződik meg és óráról órára duplázódik az áldozatok száma. Ha nem sikerül megállítani a járványt, hetvenkét órán belül elpusztul Észak-Amerika egész lakossága.",
+  "backdropPath": "/jwwltwI2uLpxhIUReucyLBkL8dg.jpg",
+  "posterPath": "/lM1KnhTdwTLWu6pvvd0mOuS0uCd.jpg",
+  "releaseDate": "1995-03-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a3001e80-58d6-4b7b-85e1-37010c37f385",
+      "title": "Vírus",
+      "subtitle": null,
+      "timestampString": "03:24:05",
+      "timestampInSeconds": 12245,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #221",
+        "youtubeId": "BjeQjRFvXcM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/BjeQjRFvXcM/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1635519858000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

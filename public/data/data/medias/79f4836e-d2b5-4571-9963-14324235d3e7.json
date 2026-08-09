@@ -1,0 +1,49 @@
+{
+  "id": "79f4836e-d2b5-4571-9963-14324235d3e7",
+  "title": "Trollok",
+  "originalTitle": "Trolls",
+  "overview": "Nagy szemű, borzas hajú, színes kis figurák ők, akik saját világukban élnek. Ám két troll kénytelen vándorútra indulni: olyan tájakra jutnak el, és olyan kalandokba keverednek, amikről troll korábban nem is álmodott - és amitől biztosan az égnek áll a haja.",
+  "backdropPath": "/gXyYOWAkk4FdQU3adK8WFj8nN9J.jpg",
+  "posterPath": "/xvFHEk0hxRAaxnnAaPyyHtmj0yY.jpg",
+  "releaseDate": "2016-10-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "48cf2836-0b23-4d7f-b1af-257f898c375f",
+      "title": "Trollok",
+      "subtitle": null,
+      "timestampString": "02:45:55",
+      "timestampInSeconds": 9955,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #110",
+        "youtubeId": "8krx-cw6vdg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/8krx-cw6vdg/hqdefault.jpg",
+        "durationInMinutes": 260,
+        "releaseDate": 1479296565000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

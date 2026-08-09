@@ -1,0 +1,45 @@
+{
+  "id": "97882aca-8328-4c21-a4aa-83ec482fa69f",
+  "title": "Space Jam - Zűr az űrben",
+  "originalTitle": "Space Jam",
+  "overview": "Egy távoli csillagrendszerben hiánycikké vált a nézőcsalogató látványosság, s a helyi vidámpark vezetője egy igazán forradalmi megújulásra szánja el magát: az intergalaktikus csatornán véletlenül rákattint a Tapsi Hapsi és Dodó kacsa nevével fémjelzett adóra, és embereivel sietve elraboltatja kedvenc rajzfilm- hőseinket.",
+  "backdropPath": "/xIoWDHSA2ymOewcCpoUID4PpDb3.jpg",
+  "posterPath": "/lfZjOnLUg0ZgzEPfp1F6sVGmKLU.jpg",
+  "releaseDate": "1996-11-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f99dbd7a-ee21-42ad-85e9-0045e266d627",
+      "title": "Space Jam - Zűr az űrben",
+      "subtitle": null,
+      "timestampString": "02:19:10",
+      "timestampInSeconds": 8350,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #173",
+        "youtubeId": "JMHD67V99Tw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JMHD67V99Tw/hqdefault.jpg",
+        "durationInMinutes": 178,
+        "releaseDate": 1565982605000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

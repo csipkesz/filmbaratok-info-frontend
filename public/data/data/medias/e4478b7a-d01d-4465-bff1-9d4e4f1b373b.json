@@ -1,0 +1,45 @@
+{
+  "id": "e4478b7a-d01d-4465-bff1-9d4e4f1b373b",
+  "title": "Lego Ninjago",
+  "originalTitle": "The Lego Ninjago Movie",
+  "overview": "Ninjago csöpp szigetét rejtélyes ellenség ostromolja. Még szerencse, hogy hat legyőzhetetlennek tűnő nindzsa minden éjszaka harcba száll, és meghökkentő fegyverarzenálja segítségével visszaveri az ellenséget. De kik lehetnek ők? Senki sem tudja. És nem is sejti, hogy az éjszakai szuperharcosok nappal egész másfajta ellenséggel küszködnek. Ugyanis osztálytársak a helyi gimiben, és a középiskolások egyszerű, ám sok küzdelemmel teli hétköznapjait próbálják túlélni.",
+  "backdropPath": "/6BQis8u6Q8U5J4EHqdyRRIE0njI.jpg",
+  "posterPath": "/iwM0k2PGEfvvZcNMHjqgzblmrZG.jpg",
+  "releaseDate": "2017-09-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "29c5b4f9-7bfd-481f-84ab-8601983ba67d",
+      "title": "Lego Ninjago",
+      "subtitle": null,
+      "timestampString": "01:54:28",
+      "timestampInSeconds": 6868,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #130",
+        "youtubeId": "gU3ro-u6uQ4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gU3ro-u6uQ4/hqdefault.jpg",
+        "durationInMinutes": 174,
+        "releaseDate": 1507212990000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

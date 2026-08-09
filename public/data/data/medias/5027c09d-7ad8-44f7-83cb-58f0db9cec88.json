@@ -1,0 +1,45 @@
+{
+  "id": "5027c09d-7ad8-44f7-83cb-58f0db9cec88",
+  "title": "Tudom mit tettél tavaly nyáron",
+  "originalTitle": "I Know What You Did Last Summer",
+  "overview": "Amikor öt barát véletlenül halálos autóbalesetet okoz, eltitkolják a részvételt, és egyezséget kötnek, hogy inkább titokban tartják a dolgot, minthogy szembenézzenek a következményekkel. Egy évvel később a múltjuk újra kísérti őket, és kénytelenek szembesülni a szörnyű igazsággal: valaki tudja, mit tettek tavaly nyáron... és bosszúra szomjazik. Ahogy a barátokat egymás után üldözi a gyilkos, rájönnek, hogy ez már korábban is megtörtént, és az 1997-es legendás southporti mészárlás két túlélőjéhez fordulnak segítségért.",
+  "backdropPath": "/gVPjIcYo1gTaACF43OMsralrcUS.jpg",
+  "posterPath": "/aM5wiL4iuP1xZaPYkbjO9EFGiO2.jpg",
+  "releaseDate": "2025-07-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7e8c821a-a7e4-48f1-97c7-acbf664fbee1",
+      "title": "Tudom mit tettél tavaly nyáron [2025, SPOILERES]",
+      "subtitle": null,
+      "timestampString": "01:39:10",
+      "timestampInSeconds": 5950,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #307",
+        "youtubeId": "VKMsNci80C8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VKMsNci80C8/hqdefault.jpg",
+        "durationInMinutes": 233,
+        "releaseDate": 1753986708000,
+        "participants": [
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "65643300-018b-4489-a138-d8c2af532adc",
+  "title": "A vad robot",
+  "originalTitle": "The Wild Robot",
+  "overview": "A vad robot Rozzum 7134 (röviden „Roz”), egy jövőbeli robot krónikája, aki egy lakatlan szigeten vetődik partra. A túlélés és felfedezés meséje akkor kezdődik, amikor Roz váratlanul egy árva kisliba védelmezője lesz, akit Derűcsőrnek nevez el. Együtt harcolnak a túlélésért a zord környezetben, de csak egy különc állatokból álló összetartó csapat segítségével tudnak boldogulni, akik először a barátaik lesznek, majd együtt egy nagy családdá válnak. Roz és csapata végül megmentik a szigetet a robotinváziótól, melyet Roz gyártója indít, mert minden áron vissza akarja hozni az elvadult robotot a civilizációba.",
+  "backdropPath": "/mQZJoIhTEkNhCYAqcHrQqhENLdu.jpg",
+  "posterPath": "/cyMfPQubEfPlAniMfPhUAOisgec.jpg",
+  "releaseDate": "2024-09-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "281ff508-16c5-40ea-b49d-a9b4f42a4a32",
+      "title": "A vad robot",
+      "subtitle": null,
+      "timestampString": "02:02:10",
+      "timestampInSeconds": 7330,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #289",
+        "youtubeId": "25swweCqsZY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/25swweCqsZY/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1730401855000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

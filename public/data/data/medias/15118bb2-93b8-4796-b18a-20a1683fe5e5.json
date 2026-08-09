@@ -1,0 +1,41 @@
+{
+  "id": "15118bb2-93b8-4796-b18a-20a1683fe5e5",
+  "title": "Túl szexi lány",
+  "originalTitle": "I Feel Pretty",
+  "overview": "Renee Bennett jól tudja, milyen átlagosnak lenni egy olyan világban, amelyet a génlottó nyertesei uralnak. Miután egy balesetben beveri a fejét, arra ébred, hogy valóságos bombázó lett belőle, és bár rajta kívül senki sem látja a különbséget, hatalmas magabiztossággal kezdi élni az életét. Újonnan szerzett önbizalmának köszönhetően egyre sikeresebb lesz, nem csak a munkájában, de magánéletében is.",
+  "backdropPath": "/7XM7kxa3U2g8TO3OGSiETCroNRD.jpg",
+  "posterPath": "/XzZDIenZaRx2o7quD77nIhiH6l.jpg",
+  "releaseDate": "2018-04-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ce4b720e-92f6-4c01-9ee9-92515164c121",
+      "title": "Túl szexi lány",
+      "subtitle": null,
+      "timestampString": "01:35:25",
+      "timestampInSeconds": 5725,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #146",
+        "youtubeId": "sfip_5w7OMc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/sfip_5w7OMc/hqdefault.jpg",
+        "durationInMinutes": 163,
+        "releaseDate": 1530162133000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "ff248333-0d00-40bd-af3c-6049f0a070c6",
+            "name": "Szöllőskei Gábor"
+          }
+        ]
+      }
+    }
+  ]
+}

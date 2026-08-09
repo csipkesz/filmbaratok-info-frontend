@@ -1,0 +1,45 @@
+{
+  "id": "49132051-45a8-4607-b305-c14c62bd5d64",
+  "title": "Szenvedélyes nők",
+  "originalTitle": "Szenvedélyes nők",
+  "overview": "A negyvenes Lilla párterapeutaként dolgozik, és egész életét a családjának szentelte. Ezért is éri váratlanul, amikor elhagyja a férje egy fiatal műkörmösért. Lilla lánya, Zsófi és az anyja, az egykor ismert színésznő, Vilma elhatározzák, hogy kirángatják a nőt a depresszióból és az önsajnálatból és ráveszik, hogy kezdjen el újra randizni. Lilla évtizedek óta nem volt szingli, így kezdetben ellenáll, és titokban még mindig abban reménykedik, hogy a férje visszatér hozzá. Ezért az anyja cselhez folyamodik, és elhívja a lányát és az unokáját a vidéki nyaralójukba, ahol bemutat neki egy sármos újságírót, aki Vilma önéletrajzi könyvét írja. A helyzetet bonyolítja, hogy Zsófi barátja is próbálja összehozni Lillát egy nagyszájú kollégájával, aki teljesen váratlanul toppan be és még jobban összekuszálja az eseményeket.",
+  "backdropPath": "/sCxQewhPYEcZRqDMu1OoYDwX93C.jpg",
+  "posterPath": "/rQV3WscBSQGZZnvGLaDKTCda7yu.jpg",
+  "releaseDate": "2025-11-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "df1c37b9-05d6-480a-af53-07923b66bf96",
+      "title": "Szenvedélyes nők",
+      "subtitle": null,
+      "timestampString": "02:55:50",
+      "timestampInSeconds": 10550,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #322",
+        "youtubeId": "f696VdP9-xg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/f696VdP9-xg/hqdefault.jpg",
+        "durationInMinutes": 273,
+        "releaseDate": 1773775641000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

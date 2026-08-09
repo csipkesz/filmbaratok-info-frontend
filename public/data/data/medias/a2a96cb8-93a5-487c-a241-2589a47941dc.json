@@ -1,0 +1,45 @@
+{
+  "id": "a2a96cb8-93a5-487c-a241-2589a47941dc",
+  "title": "The boy behind the door",
+  "originalTitle": "The Boy Behind the Door",
+  "overview": "Miután Bobbyt és legjobb barátját, Kevint elrabolják és egy rejtélyes házba viszik a semmi közepén, Bobby-nak sikerül elmenekülnie. Amikor meghallja Kevint segítségért kiabálni, úgy érzi, hogy nem hagyhatja hátra a barátját.",
+  "backdropPath": "/imOkJziqCFpf0IVwvV8JSNAejqb.jpg",
+  "posterPath": "/6e53nMgW5pXBMCc6AMvnXLWspFJ.jpg",
+  "releaseDate": "2020-09-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0564393b-aaaa-40cb-a6a1-ec2f38320e06",
+      "title": "The boy behind the door",
+      "subtitle": null,
+      "timestampString": "00:50:05",
+      "timestampInSeconds": 3005,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #223",
+        "youtubeId": "uKeMDPapOJE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uKeMDPapOJE/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1639837304000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

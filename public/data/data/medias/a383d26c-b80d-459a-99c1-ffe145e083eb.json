@@ -1,0 +1,41 @@
+{
+  "id": "a383d26c-b80d-459a-99c1-ffe145e083eb",
+  "title": "I declare war",
+  "originalTitle": "I Declare War",
+  "overview": "",
+  "backdropPath": "/ypmtH4HDytTJi6dy1iVELzLFqMs.jpg",
+  "posterPath": "/eZw6zwTsF9dg8wWSXEHc4eW5EcX.jpg",
+  "releaseDate": "2012-04-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fecdb46a-cd95-4316-b5cc-22187c2f309f",
+      "title": "I declare war",
+      "subtitle": null,
+      "timestampString": "01:49:08",
+      "timestampInSeconds": 6548,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #69",
+        "youtubeId": "pVv5pcdaViY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/pVv5pcdaViY/hqdefault.jpg",
+        "durationInMinutes": 169,
+        "releaseDate": 1426321772000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

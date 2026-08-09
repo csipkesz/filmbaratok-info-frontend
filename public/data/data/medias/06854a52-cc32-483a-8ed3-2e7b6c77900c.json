@@ -1,0 +1,45 @@
+{
+  "id": "06854a52-cc32-483a-8ed3-2e7b6c77900c",
+  "title": "Pókerarcok",
+  "originalTitle": "Rounders",
+  "overview": "A profi zsugások azt vallják: a megélhetésért játszani van olyan meló, mint bármi más. Nem hazardírozol. Tutira mész. A cél, hogy óránként bekaszálj egy nagy tétet. Ennyi. Ha jól jár a lap, beszeded a pénzt, ha rosszul jár, ülsz rajta. Nem kockáztatsz. Így fizettem két évig a jogi egyetemet. Ilyen az igazi verklis. A New York-i pókeralvilágban játszódó történet egy fiúról szól, aki álmát a kártyaasztalnál próbálja valóra válni. A zsugás Mike McDermott feladja pókerszenvedélyét. Beiratkozik a jogi egyetemre, mert számára ez a biztos út a sikeres életbe. Csakhogy hiányzik belőle a titkos hátsó szobák pókercsatáinak izgalma, és amikor régi barátját, Férget kiengedik a börtönből, Mike-nak szembe kell néznie a nehéz és kockázatos dilemmával, hogy visszatérjen-e a zsugások világába a barátja kedvéért.",
+  "backdropPath": "/tgRQsrjBKdic7llxhI7pqLJb8kS.jpg",
+  "posterPath": "/cVhhBMeSIMDrHqKLBSTwTPduiRf.jpg",
+  "releaseDate": "1998-09-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "165e3954-fb3c-4ccc-8ca1-84cdba4e3a70",
+      "title": "Pókerarcok",
+      "subtitle": null,
+      "timestampString": "00:52:15",
+      "timestampInSeconds": 3135,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #65",
+        "youtubeId": "Nho9twpqK9c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Nho9twpqK9c/hqdefault.jpg",
+        "durationInMinutes": 210,
+        "releaseDate": 1420868167000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

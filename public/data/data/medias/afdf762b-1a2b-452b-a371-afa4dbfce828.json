@@ -1,0 +1,45 @@
+{
+  "id": "afdf762b-1a2b-452b-a371-afa4dbfce828",
+  "title": "Macbeth tragédiája",
+  "originalTitle": "The Tragedy of Macbeth",
+  "overview": "William Shakespeare azonos című tragédiája nyomán. Egy skót nagyúr három boszorkány meggyőz arról, hogy ő lesz Skócia következő királya. A férfit ambiciózus felesége is támogatja a hatalomátvételi terveiben.",
+  "backdropPath": "/lMjY6kMBOHhloz2Ul16fLJn8xuw.jpg",
+  "posterPath": "/1Ws36RogpzIMM9gyxvuGbi3Vi2W.jpg",
+  "releaseDate": "2021-12-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fb855f7e-4824-4be9-bcab-19703c958fb9",
+      "title": "Macbeth tragédiája",
+      "subtitle": null,
+      "timestampString": "02:49:25",
+      "timestampInSeconds": 10165,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #229",
+        "youtubeId": "yp41gn4f4Wo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/yp41gn4f4Wo/hqdefault.jpg",
+        "durationInMinutes": 273,
+        "releaseDate": 1648126053000,
+        "participants": [
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

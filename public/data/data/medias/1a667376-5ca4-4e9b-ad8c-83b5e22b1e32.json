@@ -1,0 +1,45 @@
+{
+  "id": "1a667376-5ca4-4e9b-ad8c-83b5e22b1e32",
+  "title": "Longlegs - A rém",
+  "originalTitle": "Longlegs",
+  "overview": "Lee Harkert (Maika Monroe), az ifjú és tehetséges FBI-ügynököt egy sorozatgyilkos (Nicolas Cage) megoldatlan ügyével bízzák meg. Ahogy a nyomozás egyre bonyolultabbá válik az okkult bizonyítékok sorával, Harker rájön, hogy személyes kapcsolata lehet a gyilkossal, és gyorsan kell cselekednie, hogy megakadályozzon egy újabb vérontást.",
+  "backdropPath": "/6ToGkmqn0KG0UGGGUAC1Ww0e5CM.jpg",
+  "posterPath": "/gSy0vCKwp2Zar075K6idlpYo45N.jpg",
+  "releaseDate": "2024-07-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "da945045-e7dd-4888-8d94-06dc207804ec",
+      "title": "Longlegs - A rém",
+      "subtitle": null,
+      "timestampString": "00:33:00",
+      "timestampInSeconds": 1980,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #284",
+        "youtubeId": "dLG-a7fBRaY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/dLG-a7fBRaY/hqdefault.jpg",
+        "durationInMinutes": 239,
+        "releaseDate": 1723568433000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

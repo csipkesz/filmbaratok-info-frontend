@@ -1,0 +1,45 @@
+{
+  "id": "bbff36bc-b25f-4037-ba75-1c99cbc8b1f5",
+  "title": "Elemi",
+  "originalTitle": "Elemental",
+  "overview": "Egy olyan városban, ahol a tűz, a víz, a szárazföld és a levegő lakói együtt élnek, egy tüzes, fiatal nő és egy jóindulatú srác valami elemi dolgot fedez fel: mennyi a közös bennük.",
+  "backdropPath": "/4fLZUr1e65hKPPVw0R3PmKFKxj1.jpg",
+  "posterPath": "/o3h0rhCiej6aTVfxOKr6kWf3og6.jpg",
+  "releaseDate": "2023-06-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e8f2ea39-a17d-4f60-809b-093cd0fd253f",
+      "title": "Elemi",
+      "subtitle": null,
+      "timestampString": "02:52:12",
+      "timestampInSeconds": 10332,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #257",
+        "youtubeId": "Jm_IXtsLHnw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Jm_IXtsLHnw/hqdefault.jpg",
+        "durationInMinutes": 280,
+        "releaseDate": 1687629613000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

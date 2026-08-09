@@ -1,0 +1,79 @@
+{
+  "id": "5fb671e5-4109-452a-8b9c-12788b0e4124",
+  "title": "Kaliforniai álom",
+  "originalTitle": "La La Land",
+  "overview": "Mia, a feltörekvő színésznő tejeskávéval szolgál filmsztároknak a meghallgatások között, Sebastian, a jazz-zenész pedig koktélparti koncerteken játszik koszos bárokban. Ahogy a siker fokozódik, olyan döntésekkel kell szembenézniük, amelyek kezdik megrontani a törékeny szerelmi kapcsolatukat, és az álmaikat, amelyekért oly keményen dolgoztak.",
+  "backdropPath": "/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
+  "posterPath": "/dxKNHNHzAj4SY1JFGlK73l3LKwY.jpg",
+  "releaseDate": "2016-12-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "73e07983-f926-4407-8204-26b1bc4d2af9",
+      "title": "Kaliforniai álom",
+      "subtitle": null,
+      "timestampString": "01:30:40",
+      "timestampInSeconds": 5440,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #113",
+        "youtubeId": "CqQ2YmFVvVo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/CqQ2YmFVvVo/hqdefault.jpg",
+        "durationInMinutes": 233,
+        "releaseDate": 1483005908000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ff248333-0d00-40bd-af3c-6049f0a070c6",
+            "name": "Szöllőskei Gábor"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bb629bdc-e4cd-4157-a0be-c310182e7bd5",
+      "title": "Kaliforniai álom",
+      "subtitle": null,
+      "timestampString": "01:27:58",
+      "timestampInSeconds": 5278,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #114",
+        "youtubeId": "-MXopm_I1eY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-MXopm_I1eY/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1484786554000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

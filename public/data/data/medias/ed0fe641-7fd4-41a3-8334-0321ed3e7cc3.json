@@ -1,0 +1,45 @@
+{
+  "id": "ed0fe641-7fd4-41a3-8334-0321ed3e7cc3",
+  "title": "Ivan, az egyetlen",
+  "originalTitle": "The One and Only Ivan",
+  "overview": "Ivan, a gorilla egy ketrecben él a Big Top bevásárlóközpontban, egy öregedő elefánt (Stella) és egy kóbor kutya társaságában. A fiatal gorilla több éve bezártan él és már el se tudja képzelni milyen a kinti élet.  Stella mellé érkezik egy bébi elefánt akiről gondoskodnia kell. Ám Stella megbetegszik és halála előtt Ivanra bízza a bébit. Ivan szövetségesre talál az áruházi gondok lányában és együtt tesznek meg mindent, hogy a bébinek jobb élete legyen.",
+  "backdropPath": "/umRu7cN3wIf1kRbCdhQkx6cVGZN.jpg",
+  "posterPath": "/pNbNvP10HXmSPsltfIwZM0htRcM.jpg",
+  "releaseDate": "2020-08-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "caaa23ca-926c-4aed-82ed-145b8004ec96",
+      "title": "Ivan, az egyetlen",
+      "subtitle": null,
+      "timestampString": "02:36:30",
+      "timestampInSeconds": 9390,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #207",
+        "youtubeId": "nRj4p0apAgo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nRj4p0apAgo/hqdefault.jpg",
+        "durationInMinutes": 247,
+        "releaseDate": 1614949852000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

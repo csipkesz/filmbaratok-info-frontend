@@ -1,0 +1,41 @@
+{
+  "id": "106a55f3-e3a5-4fe5-b9fe-0f93d7ec8fdc",
+  "title": "Megtorlás",
+  "originalTitle": "Retribution",
+  "overview": "Egy átlagos reggelen az iskolába menet, Matt Turner furcsa hívást kap. Az ismeretlen azzal fenyegetőzik, hogy felrobbantja a kocsijukat, ha bárki megpróbál kiszállni. Gyerekei érdekében minden utasítást követ, de mikor az események eldurvulnak, Matt ráébred arra, hogy a helyzetből az egyetlen kiút, ha ellenáll.",
+  "backdropPath": "/yQvjqIvOwpawVZje41Wno365kR.jpg",
+  "posterPath": "/34R2iendsiWQvMymiq68MwO9ysn.jpg",
+  "releaseDate": "2023-08-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1d641816-731f-4039-8cac-55a0e9c04fbc",
+      "title": "Megtorlás",
+      "subtitle": null,
+      "timestampString": "00:33:53",
+      "timestampInSeconds": 2033,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #262",
+        "youtubeId": "vHivX-OmQEI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/vHivX-OmQEI/hqdefault.jpg",
+        "durationInMinutes": 199,
+        "releaseDate": 1695357459000,
+        "participants": [
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          }
+        ]
+      }
+    }
+  ]
+}

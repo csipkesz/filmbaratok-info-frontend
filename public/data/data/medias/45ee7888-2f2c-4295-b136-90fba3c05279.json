@@ -1,0 +1,41 @@
+{
+  "id": "45ee7888-2f2c-4295-b136-90fba3c05279",
+  "title": "Spirál: Fűrész hagyatéka",
+  "originalTitle": "Spiral: From the Book of Saw",
+  "overview": "Miközben egy elismert veterán rendőr árnyékában dolgozik, a pimasz Ezekiel “Zeke” Banks nyomozónak és újonc társának egy borzalmas gyilkosságsorozatot kell felderítenie, ami kisértetiesen emlékeztet a város rémes múltjára. Ahogy akaratlanul egyre mélyebbre sodródik a rejtélyes ügyben, Zeke a gyilkos morbid játékának középpontjában találja magát.",
+  "backdropPath": "/g15PR8eQV9DehSWlagvdnJZqoRq.jpg",
+  "posterPath": "/kgxpFPi9FPihs9EiVDQ6LTp6O8o.jpg",
+  "releaseDate": "2021-05-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "cb6eee5d-f7e9-4115-ba06-c2f239411ca1",
+      "title": "Spirál: Fűrész hagyatéka",
+      "subtitle": null,
+      "timestampString": "00:37:55",
+      "timestampInSeconds": 2275,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #213",
+        "youtubeId": "JtzuuNOeIxc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JtzuuNOeIxc/hqdefault.jpg",
+        "durationInMinutes": 200,
+        "releaseDate": 1624372656000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "ca0d1304-c895-4ecf-ba78-1bb5f37cae3b",
+  "title": "Egy fiúról",
+  "originalTitle": "About a Boy",
+  "overview": "Szingli, munkanélküli és imádja. Miután megírt egy világslágert, Will Freeman boldogan éli a milliomosok gondtalan mindennapjait. Ezt a tökéletes világot dönti romjaiba a szomszédságba költöző, frissen elvált anyuka, Fiona és 11 éves fia, Marcus. A kissrác hívatlan vendégként toppan be Willhez, aki eleinte nem biztos abban, hogy jó ötlet-e barátkozni az érdeklődő Marcussal - addig a percig, amíg rá nem jön, hogy a nők ellenállhatatlan vonzódást éreznek a szingli apukák iránt. Az üzlet megköttetik: Marcus Will fiának adja ki magát, cserébe a srác szabadon jöhet-mehet Will lakásában, pingpongozhat és húst ehet - amitől vegán anyukája eltiltotta. A furcsa barátság számos képtelen szituációt eredményez - mindannyiunk legnagyobb örömére.",
+  "backdropPath": "/6qQxz0PkwPqVP0M3f5ucrLleHq8.jpg",
+  "posterPath": "/pmXPOyevkvAvhEW4pstafuSWVsL.jpg",
+  "releaseDate": "2014-02-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9834a9d0-1004-4752-8b18-31a1897f1640",
+      "title": "Egy fiúról",
+      "subtitle": null,
+      "timestampString": "02:02:58",
+      "timestampInSeconds": 7378,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #65",
+        "youtubeId": "Nho9twpqK9c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Nho9twpqK9c/hqdefault.jpg",
+        "durationInMinutes": 210,
+        "releaseDate": 1420868167000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

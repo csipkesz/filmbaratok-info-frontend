@@ -1,0 +1,45 @@
+{
+  "id": "f28ff2b9-81f9-4fbe-a881-7befd50c1aed",
+  "title": "Vaskarom",
+  "originalTitle": "The Iron Claw",
+  "overview": "A texasi Fritz Von Erich több világbajnoki címmel rendelkezett, és forradalmasította az amerikai pankráció világát. Nem csak a ringet és az üzleti életet vezette kemény kézzel, de a családot is: megszállottan dolgozott azon, hogy a fiai átvegyék majd tőle a birodalmat. Kevint, Kerryt, Davidet és Mike-ot egyaránt abban a szellemben nevelte, hogy ha ők lesznek a legerősebbek, legkeményebbek, akkor semmi sem árthat nekik. De vajon elég volt ahhoz a ringbeli győzelem, hogy a fiúk megtörjék a családot sújtó átkot?",
+  "backdropPath": "/4l65BWqJBl7hBwdIwp2nQdwsOuw.jpg",
+  "posterPath": "/4D2fnyBk8eJDxklQzFu3KMYa3AZ.jpg",
+  "releaseDate": "2023-12-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "81fb586a-2a98-4efe-b699-25445396f0c0",
+      "title": "Vaskarom",
+      "subtitle": null,
+      "timestampString": "01:48:01",
+      "timestampInSeconds": 6481,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #276",
+        "youtubeId": "ozdxgj2AwCk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ozdxgj2AwCk/hqdefault.jpg",
+        "durationInMinutes": 248,
+        "releaseDate": 1713292727000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

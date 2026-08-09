@@ -1,0 +1,45 @@
+{
+  "id": "4fe56532-3c08-476d-9439-df237ab494fc",
+  "title": "Rampage - Tombolás",
+  "originalTitle": "Rampage",
+  "overview": "Davis Okoye születése óta George-dzsal, egy rendkívül intelligens gorillával foglalkozik. Egy genetikai kísérlet azonban az édes majomból dühöngő fenevadat hoz létre. Tovább ront a helyzeten, hogy más ragadozók is megváltoznak, s az újonnan létrehozott szörnyek Észak-Amerikában elszabadulnak. Céljuk elpusztítani mindent és mindenkit, aki az útjukba kerül. Miközben zajlik ez a tombolás és rombolás, Okoye egy genetikai mérnökkel összeállva keresi az ellenszert. Nem csupán az a célja, hogy megállítsa a globális katasztrófát, amit ezek a szörnyek jelentenek, hanem az is, hogy megmentse azt a most félelmetes lényt, mely egykor az ő George nevű barátja volt.",
+  "backdropPath": "/vm8mhrjk5nQ562UQ0KbUzi0yOHr.jpg",
+  "posterPath": "/yckWwiN0HUJYUaWT29o503G70ki.jpg",
+  "releaseDate": "2018-04-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f2f7e8be-d665-4a92-b45d-41c20ccfa735",
+      "title": "Rampage - Tombolás",
+      "subtitle": null,
+      "timestampString": "01:25:17",
+      "timestampInSeconds": 5117,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #142",
+        "youtubeId": "9S7p7P1Y2po",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9S7p7P1Y2po/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1525105433000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

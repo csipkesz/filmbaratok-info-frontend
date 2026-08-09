@@ -1,0 +1,45 @@
+{
+  "id": "7d21d5b2-ad50-45dc-968d-faa4daa8fd3e",
+  "title": "Vigyél a holdra",
+  "originalTitle": "Fly Me to the Moon",
+  "overview": "Mindenki a sikeres holdra szállás miatt izgul. A NASA tudja, hogy előbb kell amerikai űrhajósnak feljutnia, mint szovjetnek, mindent el is követ az ügy érdekében, a legjobb vadászpilótáit képezte ki asztronautának, a legnagyobb tudósok dolgoznak az ügyön, az Apollo 11-et mégsem lehet még elindítani. A közvélemény pedig egyre elégedetlenebb.  A megoldás? Egy marketinges. Kelly Jones (Scarlett Johansson) nem ért az űrrepüléshez, de abban nagyon jó, hogy eladjon dolgokat. Jön, és mindent átalakít. Megszépít, megkomponál, hazudik és mellébeszél. Tökéletes ember a feladatra. De vele is van két baj. Az egyik, hogy azt még ő is soknak érzi, hogy lenn a földön, színészekkel filmezzék le a sikeres holdra szállást. A másik, hogy nagyon szép. És az egyik űrhajósjelölt, Cole Davis (Channing Tatum) nemcsak az égi testek iránt érdeklődik.",
+  "backdropPath": "/4ItXEyVPj6wb9AdhsltcqYE6f5f.jpg",
+  "posterPath": "/ycSC8Tbr0iCGP1WEXLaVJMokoAt.jpg",
+  "releaseDate": "2024-07-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "bcbd3541-e284-4014-b59c-4dde7e217569",
+      "title": "Vigyél a holdra",
+      "subtitle": null,
+      "timestampString": "01:07:00",
+      "timestampInSeconds": 4020,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #283",
+        "youtubeId": "jv6k7bsDWQo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/jv6k7bsDWQo/hqdefault.jpg",
+        "durationInMinutes": 210,
+        "releaseDate": 1722538833000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

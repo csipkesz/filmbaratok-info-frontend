@@ -1,0 +1,49 @@
+{
+  "id": "65d690af-a21d-49ee-bb83-7695360c3286",
+  "title": "Tetris",
+  "originalTitle": "Tetris",
+  "overview": "Egy amerikai és egy orosz videójáték-rajongó valószínűtlen barátságot köt, miközben megpróbálják kijátszani a KGB-t és kicsempészni a világ leghíresebb videójátékát a Szovjetunióból.",
+  "backdropPath": "/4avmIRBBOs9b4DKoenf8SWWJJP7.jpg",
+  "posterPath": "/4F2QwCOYHJJjecSvdOjStuVLkpu.jpg",
+  "releaseDate": "2023-03-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "26b45c14-8c93-40ed-8921-ac330049d137",
+      "title": "Tetris",
+      "subtitle": null,
+      "timestampString": "01:00:40",
+      "timestampInSeconds": 3640,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #253",
+        "youtubeId": "qh8K0plyKrk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/qh8K0plyKrk/hqdefault.jpg",
+        "durationInMinutes": 284,
+        "releaseDate": 1682442009000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "a5727bbe-af5a-4721-8c07-2290e07b1211",
+            "name": "ChatGPT"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "57995018-c142-4ced-9a6d-4e77d0bd3d3e",
+  "title": "Nyomorultak",
+  "originalTitle": "Les Misérables",
+  "overview": "Franciaország, 1815. Jean Valjean 19 év után végre visszanyeri szabadságát. Ám a frissiben jött szabadsággal nem könnyű élni, és Jean Valjean gyűlöletének, indulatainak semmi sem szab gátat.",
+  "backdropPath": "/8xbSus74lxrVCicPaLf65vcMeD6.jpg",
+  "posterPath": "/hoMtOKiLhd1txHBQQvQkPhdb9JE.jpg",
+  "releaseDate": "2000-09-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2a9fc757-45bb-42f9-a5d1-705b5544bf7d",
+      "title": "Nyomorultak",
+      "subtitle": null,
+      "timestampString": "00:52:33",
+      "timestampInSeconds": 3153,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #190",
+        "youtubeId": "w7oFnCSc3u4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/w7oFnCSc3u4/hqdefault.jpg",
+        "durationInMinutes": 188,
+        "releaseDate": 1590603790000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "48e8738e-2e86-4551-a7d7-525824c2537c",
+  "title": "Menekülés",
+  "originalTitle": "Kaçış",
+  "overview": "Mehmet (Engin Akyürek) a haditudósító és egy csoport külföldi újságíró anyaggyűjtés miatt érkezik egy jazidi (az iraki Szindzsár hegység körül élő, kurd nemzetiségű vallási kisebbség) faluba. A határt titokban átlépő csoport egy razzia következtében egy radikális terrorszervezet kezébe kerül.",
+  "backdropPath": "/lPwCXz5i6GYbzLe23ATjNXgEHPM.jpg",
+  "posterPath": "/2Lss0t2ouTnGSnQggg15W6MYI2M.jpg",
+  "releaseDate": "2022-06-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f83e045d-cb9f-4b55-9088-ca68370d2fad",
+      "title": "Menekülés",
+      "subtitle": null,
+      "timestampString": "03:06:14",
+      "timestampInSeconds": 11174,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #229",
+        "youtubeId": "yp41gn4f4Wo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/yp41gn4f4Wo/hqdefault.jpg",
+        "durationInMinutes": 273,
+        "releaseDate": 1648126053000,
+        "participants": [
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

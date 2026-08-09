@@ -1,0 +1,45 @@
+{
+  "id": "89fb9a72-965f-4b91-9a89-1cdfb45ddb66",
+  "title": "Meglógtam a Ferrarival",
+  "originalTitle": "Ferris Bueller's Day Off",
+  "overview": "Ferris Bueller elbűvölő és intelligens fiú, aki azonban szeret merész dolgokat elkövetni. Egy szép tavaszi napon például úgy dönt, hogy az iskola helyett inkább bemegy a városba egy kicsit szórakozni. Mivel azonban igazán jól csak barátnője Sloan és legjobb barátja, Cameron társaságában érzi magát, így őket is magával viszi azon a piros Ferrarin, aminek kulcsát Cameron apjától emelte el.",
+  "backdropPath": "/leehjwM57DKJ79XMUll4oAF0kin.jpg",
+  "posterPath": "/8QFG6S2sMRMc1BBchiGfodaoxsQ.jpg",
+  "releaseDate": "1986-06-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7ea27a49-e0d4-4f0e-85e2-67c8cd1ad44b",
+      "title": "Meglógtam a Ferrarival",
+      "subtitle": null,
+      "timestampString": "03:15:25",
+      "timestampInSeconds": 11725,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #211",
+        "youtubeId": "e7FpksPcoKY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/e7FpksPcoKY/hqdefault.jpg",
+        "durationInMinutes": 232,
+        "releaseDate": 1621526653000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

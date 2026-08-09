@@ -1,0 +1,41 @@
+{
+  "id": "a3ac41a5-cb80-4ba3-b21b-71fb915595c9",
+  "title": "Superhero movie",
+  "originalTitle": "Superhero Movie",
+  "overview": "Rick Riker (Drake Bell) kész istencsapása, de hát mit lehet várni egy olyan sráctól, akit Albert nagybácsi (Leslie Nielsen) nevelt fel. Azon a napon, amikor feldúlja az állatkert kísérleti laboratóriumát, egy mutáns szitakötő a nyakába harap, s ettől gyökeresen megváltozik az élete. Szuperhőssé válik, és a nagy segítségben romba dönt mindent.",
+  "backdropPath": "/iA5yYNAclwXWGe46T7gatzGYcRu.jpg",
+  "posterPath": "/pSCDq43Hyixj7sMePkqjZ7F2ad8.jpg",
+  "releaseDate": "2008-03-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3c53f53d-736a-4d24-80a7-a763d161180a",
+      "title": "Superhero movie",
+      "subtitle": null,
+      "timestampString": "02:40:50",
+      "timestampInSeconds": 9650,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #282",
+        "youtubeId": "gcFN31mIkUo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gcFN31mIkUo/hqdefault.jpg",
+        "durationInMinutes": 188,
+        "releaseDate": 1720893631000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

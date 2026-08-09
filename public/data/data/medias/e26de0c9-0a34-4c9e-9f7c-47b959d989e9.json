@@ -1,0 +1,45 @@
+{
+  "id": "e26de0c9-0a34-4c9e-9f7c-47b959d989e9",
+  "title": "A Fabelman család",
+  "originalTitle": "The Fabelmans",
+  "overview": "A fiatal Sammy Fabelman a második világháború utáni Arizonában nőtt fel és arra vágyik, hogy filmrendező legyen. Amikor eléri a serdülőkort, felbukkan egy megrázó családi titok, és azt kezdi kutatni, hogy a filmek ereje hogyan segíthet neki meglátni az igazságot.",
+  "backdropPath": "/xQyGkQ8ICa4lgifGr3oZjkm3AJ2.jpg",
+  "posterPath": "/7ugXf0WQdfvq7iUrpgdvbhRlZBH.jpg",
+  "releaseDate": "2022-11-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1acfcdad-58d6-445f-9857-5aa8c91e26c1",
+      "title": "A Fabelman család",
+      "subtitle": null,
+      "timestampString": "03:26:05",
+      "timestampInSeconds": 12365,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #249",
+        "youtubeId": "1greFyKaw1M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/1greFyKaw1M/hqdefault.jpg",
+        "durationInMinutes": 296,
+        "releaseDate": 1676703823000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "6c4ba431-a9ad-4114-8e98-1c764da7b7a1",
+  "title": "Vörös veréb",
+  "originalTitle": "Red Sparrow",
+  "overview": "A kémek nem válogatnak az eszközökben. Egy titkos ügynök nemcsak pisztolyokkal, késekkel, mérgekkel és poloskákkal bánik tökéletesen. Ha kell, a teste lesz a fegyvere. Dominika Jegorova az orosz titkosszolgálat egyik legjobbja. És ahhoz, hogy a cége titkokat szedjen ki a CIA magas rangú emberéből, akinek a fejében ott van az Oroszországban működő amerikai ügynökök listája, csak egy eszközt használhat: el kell csábítania. Az akció jól indul, de azután hiba csúszik a számításba. A két ügynök életre-halálra menő játékba kezd: az átverések, hazugságok, fenyegetések csak a kezdetet jelentik – a ráadás a tiltott szenvedély.",
+  "backdropPath": "/sGzuQYSTwJvLBc2PnuSVLHhuFeh.jpg",
+  "posterPath": "/rYjUDZYSu2WL8wK6Pv7UqtSKlS1.jpg",
+  "releaseDate": "2018-02-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "72d77110-1f8d-4436-beb4-1860de813f07",
+      "title": "Vörös veréb",
+      "subtitle": null,
+      "timestampString": "00:38:44",
+      "timestampInSeconds": 2324,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #140",
+        "youtubeId": "LQ8tU4s4F2M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/LQ8tU4s4F2M/hqdefault.jpg",
+        "durationInMinutes": 184,
+        "releaseDate": 1521209750000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

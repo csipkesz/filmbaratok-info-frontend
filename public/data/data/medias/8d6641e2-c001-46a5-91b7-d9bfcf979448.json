@@ -1,0 +1,45 @@
+{
+  "id": "8d6641e2-c001-46a5-91b7-d9bfcf979448",
+  "title": "Keresztút",
+  "originalTitle": "Kreuzweg",
+  "overview": "A film egy tizennégy éves lány, Maria szemszögéből mutatja be a vallásgyakorlás és a modern világ között húzódó szakadékot. A bigott katolikus közösség, amelyben Maria serdül, nem enged az élvezetek világának, s ennek megfelelően családja is szigorú vallásos neveltetésben részesíti. A kislány fejébe veszi, hogy Jézus nyomdokaiba lép és mártírhalált hal testvéréért, aki megfejthetetlen okokból kifolyólag nem beszél. A film tizennégy részben mutatja be Maria útját, ahogy Krisztus útja a Golgota-hegyre is tizennégy stáción át vezetett.",
+  "backdropPath": "/jfhQmWuJ5NGYoGiTNswGi09JEKL.jpg",
+  "posterPath": "/9BAzHJitmoi041iLqdbIa7dlU0p.jpg",
+  "releaseDate": "2014-03-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "361f45cf-3c2f-4200-9672-7da737e2020d",
+      "title": "Keresztút",
+      "subtitle": null,
+      "timestampString": "03:03:53",
+      "timestampInSeconds": 11033,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #67",
+        "youtubeId": "FATQkJjmAQg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/FATQkJjmAQg/hqdefault.jpg",
+        "durationInMinutes": 206,
+        "releaseDate": 1424108444000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

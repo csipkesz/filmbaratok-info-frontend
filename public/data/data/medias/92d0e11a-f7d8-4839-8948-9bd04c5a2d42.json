@@ -1,0 +1,41 @@
+{
+  "id": "92d0e11a-f7d8-4839-8948-9bd04c5a2d42",
+  "title": "Asterix: A varázsital titka",
+  "originalTitle": "Astérix : Le Secret de la potion magique",
+  "overview": "Amikor Csodaturix fagyöngyszedés közben leesik egy fáról, ráeszmél, hogy reflexei már nem olyan jók, mint régen, így kénytelen belátni, hogy öregszik. Úgy dönt, nekilát megkeresni az örökösét. Asterixszel és Obelixszel az oldalán útnak indul keresztül Gallián, hogy találjon egy druidát, aki méltó a varázsital receptjének megismerésére.",
+  "backdropPath": "/9cPMIuB2tv4IP0LbeNhrK5OyDy5.jpg",
+  "posterPath": "/rBgbDjbhlttnES9njDISZxOVAd5.jpg",
+  "releaseDate": "2018-05-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f2dc30a5-5592-41da-a0fa-d96f1baca278",
+      "title": "Asterix: A varázsital titka",
+      "subtitle": null,
+      "timestampString": "02:38:08",
+      "timestampInSeconds": 9488,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #160",
+        "youtubeId": "_a3zVw9qNvs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_a3zVw9qNvs/hqdefault.jpg",
+        "durationInMinutes": 196,
+        "releaseDate": 1547731556000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

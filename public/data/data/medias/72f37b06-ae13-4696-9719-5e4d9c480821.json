@@ -1,0 +1,49 @@
+{
+  "id": "72f37b06-ae13-4696-9719-5e4d9c480821",
+  "title": "Mortal Kombat [1995]",
+  "originalTitle": "Mortal Kombat",
+  "overview": "Kilenc generáció óta egy ördögi mágus gyakorolja a hatalmat a halandók felett. Amennyiben a tizedszer megrendezésre kerülő Mortal Kombat versenysorozatot is ő nyeri, a világot kipusztulás fenyegeti, s a Gonosz örökké uralkodni fog. Annak érdekében, hogy megmentsék a földet, három elszánt harcosnak kell beneveznie, s mindenáron arra törekedni, hogy legyőzzék az eddig leküzdhetetlen ellenfelet. A három harcosból álló csapat egyik tagja, az egoista, akcióhős Jonny Cage, a kemény, de gyönyörű különleges ügynök, Sonya Blade és a bosszúra éhes hős, Liu Kang.",
+  "backdropPath": "/dfU9xyEEyLxvZ5unTn05Whm9Lce.jpg",
+  "posterPath": "/9YhpvhhvLrtL1wlwEfpVL16GI9d.jpg",
+  "releaseDate": "1995-08-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "cfa5e728-abe3-4ee1-bc97-6488c365a5f9",
+      "title": "Mortal Kombat [1995]",
+      "subtitle": null,
+      "timestampString": "02:12:55",
+      "timestampInSeconds": 7975,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #301 [Videojáték megfilmesítések Stökivel]",
+        "youtubeId": "b-yzUkXog24",
+        "thumbnailUrl": "https://i.ytimg.com/vi/b-yzUkXog24/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1745990091000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f30d30c4-98cb-4dec-a665-44bf3e081c4e",
+            "name": "Stöckert Gábor"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

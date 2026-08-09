@@ -1,0 +1,41 @@
+{
+  "id": "b2ed3a30-556f-4a2c-bc60-9c2f27c04724",
+  "title": "Desierto - Az ördög országútja",
+  "originalTitle": "Desierto",
+  "overview": "Egy csapat bevándorló megpróbál átkelni a mexikói határon, hogy eljusson az Egyesült Államokba, azonban útjukat állja egy távcsöves puskával felszerelt, önjelölt \"igazságosztó\", akit nem kevés rasszista indulat fűt. Kíméletlen macska-egér játék kezdődik a sivatagban, amely során a zsigeri feszültség egy perce sem szűnik…",
+  "backdropPath": "/rrTKWLU0JBYKWSJd8abzXq3LjyQ.jpg",
+  "posterPath": "/aV7tuPOBQCbXqBkiXGcfRVu3dPp.jpg",
+  "releaseDate": "2015-04-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "15a3f536-dcbe-4df8-b03d-246497193dbd",
+      "title": "Desierto - Az ördög országútja",
+      "subtitle": null,
+      "timestampString": "00:58:04",
+      "timestampInSeconds": 3484,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #121",
+        "youtubeId": "-73qLSZm328",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-73qLSZm328/hqdefault.jpg",
+        "durationInMinutes": 130,
+        "releaseDate": 1494559801000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

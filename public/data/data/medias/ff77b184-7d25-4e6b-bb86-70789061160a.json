@@ -1,0 +1,45 @@
+{
+  "id": "ff77b184-7d25-4e6b-bb86-70789061160a",
+  "title": "Rossz versek",
+  "originalTitle": "Rossz versek",
+  "overview": "A 30-as évei elején járó rendező, Merthner Tamás magánélete váratlanul darabokra hullik, amikor párizsi ösztöndíját töltő barátnője, Anna szakít vele. Tamás összetörve tér vissza Budapestre, és mivel a jelenben nem talál vigaszt, a múltjába merülve igyekszik választ kapni arra, hogy hol veszítette el önmagát abban a valóságban, ami az elmúlt harminc évben körbevette Magyarországon.",
+  "backdropPath": "/br8v4aVxpVg1g9oP9ISTlXV23cT.jpg",
+  "posterPath": "/6KFcrpu8zqTpPcPLJeNfpu1nUtU.jpg",
+  "releaseDate": "2018-12-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "334218c0-7a0e-4dc2-ad11-b9e95534314c",
+      "title": "Rossz versek",
+      "subtitle": null,
+      "timestampString": "02:16:00",
+      "timestampInSeconds": 8160,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #161",
+        "youtubeId": "c8SMgflP8R4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/c8SMgflP8R4/hqdefault.jpg",
+        "durationInMinutes": 262,
+        "releaseDate": 1548928591000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

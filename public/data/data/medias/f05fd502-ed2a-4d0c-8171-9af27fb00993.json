@@ -1,0 +1,45 @@
+{
+  "id": "f05fd502-ed2a-4d0c-8171-9af27fb00993",
+  "title": "A 13. emelet",
+  "originalTitle": "The Thirteenth Floor",
+  "overview": "Douglas Hall és Hannon Fuller professzor, két zseniális számítógép-programozó megalkotja a harmincas évek Los Angelesének virtuális világát. Amikor Fuller gyilkosság áldozatául esik, a tett elkövetésével Hallt vádolják, de gyanús a professzor állítólagos lánya is, aki egyszeriben feltűnik a színen. Douglasnak - hogy tisztázza magát - el kell utaznia a \"virtuális múltba\", és ott kell megtalálnia a valódi gyilkost.",
+  "backdropPath": "/nJ0jz1J3zNja31UEMeklhgFeMw5.jpg",
+  "posterPath": "/pIL8Q25oMspXy7DiZr6HS0aq0AG.jpg",
+  "releaseDate": "1999-04-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "79f9cd52-4cdc-4d7a-a10f-19786c03c87b",
+      "title": "A 13. emelet",
+      "subtitle": null,
+      "timestampString": "00:26:33",
+      "timestampInSeconds": 1593,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #285 (1999-es filmek)",
+        "youtubeId": "9AOI1V1MgRI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9AOI1V1MgRI/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1725038107000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

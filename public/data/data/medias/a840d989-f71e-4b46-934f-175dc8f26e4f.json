@@ -1,0 +1,45 @@
+{
+  "id": "a840d989-f71e-4b46-934f-175dc8f26e4f",
+  "title": "Fehér zaj",
+  "originalTitle": "White Noise",
+  "overview": "A Don DeLillo könyvén alapuló FEHÉR ZAJ című film, amelynek rendezője Noah Baumbach és a főszereplői Adam Driver és Greta Gerwig. Az egyszerre mulatságos és rémisztő, lírai és abszurd, hétköznapi és apokaliptikus Fehér zaj egy kortárs amerikai család azon próbálkozásait dramatizálja, hogy hogyan birkóznak meg a mindennapi élet jelentéktelen konfliktusaival, miközben a szerelem, a halál és a boldogság lehetőségének egyetemes titkaival küszködnek egy bizonytalan világban.",
+  "backdropPath": "/4QB2TfxmzgMDLmsVVk1HM4tt7ef.jpg",
+  "posterPath": "/evGQetFTUCRHtIfw8rP2JuvWACP.jpg",
+  "releaseDate": "2022-11-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "cb70853d-9924-487a-9432-170ebd20ece4",
+      "title": "Fehér zaj",
+      "subtitle": null,
+      "timestampString": "02:26:11",
+      "timestampInSeconds": 8771,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #248",
+        "youtubeId": "VCD8rEWrtzs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VCD8rEWrtzs/hqdefault.jpg",
+        "durationInMinutes": 221,
+        "releaseDate": 1674626980000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

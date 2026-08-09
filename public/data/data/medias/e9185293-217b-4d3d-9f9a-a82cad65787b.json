@@ -1,0 +1,41 @@
+{
+  "id": "e9185293-217b-4d3d-9f9a-a82cad65787b",
+  "title": "Searching for Sugar Man",
+  "originalTitle": "Searching for Sugar Man",
+  "overview": "A hatvanas évek végén két producer az egyik detroiti bárban felfigyelt egy zenészre, megfogták őket a szívhezszóló dalai, prófétikus szövegei. Készítettek vele egy albumot, és biztosak voltak benne, hogy óriási karriert fog befutni. A kedvező fogadtatás ellenére a zenész eltűnt a homályban, a pletykák színpadi öngyilkosságról szóltak. A zenéje azonban eljutott Dél-Afrikába, ahol két évtized alatt Rodriguez ikonná vált. Két dél-afrikai rajongója elhatározza, hogy kideríti, mi történt vele.",
+  "backdropPath": "/8RafTGqYqAN9FJzvC75USKmJCso.jpg",
+  "posterPath": "/ucM98HuBHSWmn44oiE83hIDc6VB.jpg",
+  "releaseDate": "2012-06-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3b60ba1c-546c-474c-9163-98d3edf90a81",
+      "title": "Searching for Sugar Man",
+      "subtitle": null,
+      "timestampString": "02:02:24",
+      "timestampInSeconds": 7344,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #43",
+        "youtubeId": "WupIquHhCt0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/WupIquHhCt0/hqdefault.jpg",
+        "durationInMinutes": 164,
+        "releaseDate": 1389645501000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

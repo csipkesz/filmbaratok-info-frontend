@@ -1,0 +1,53 @@
+{
+  "id": "fb75c533-5963-446f-994f-011a9257b58d",
+  "title": "Elrabolt világ",
+  "originalTitle": "Captive State",
+  "overview": "Egy évtized telt el azóta, hogy az égből különös formájú űrhajók ereszkedtek a Földre, és a bennük érkező lények leigázták a bolygót. De nem baj. Chicago nyugodtabb, békésebb hely lett azóta. A bűnözés megszűnt, a munkanélküliség a nullához közelít, az emberi világot biztos kézzel kormányozzák azok, akikkel az átlagpolgár nem is találkozik. Vagy mindez hazugság? Vannak, akik szerint egyáltalán nem ilyen rózsás a helyzet, és meghirdetik a végső, mindent eldöntő bolygóközi szabadságharcot. Kevesen vannak, rosszul felszereltek, és csupán sejtik, hogy ki ellen harcolnak – ám mindenre elszántak. De sok ember van, akik nem értenek egyet velük: akik akár harcolni is hajlandók a világ új uraiért. Együttműködők és terroristák; kollaboránsok és forradalmárok között folyik a harc – a messziről jött lények csak akkor lépnek közbe, ha már nincs más megoldás.",
+  "backdropPath": "/xnz8kkRvqpzzDbRXONwVEjT78t7.jpg",
+  "posterPath": "/9JWBW1vlCop7iceeT1sksICAKkO.jpg",
+  "releaseDate": "2019-03-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "671e277a-7691-484e-9133-03524f961e14",
+      "title": "Elrabolt világ",
+      "subtitle": null,
+      "timestampString": "02:11:42",
+      "timestampInSeconds": 7902,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #165",
+        "youtubeId": "RSBwJungF40",
+        "thumbnailUrl": "https://i.ytimg.com/vi/RSBwJungF40/hqdefault.jpg",
+        "durationInMinutes": 274,
+        "releaseDate": 1554109205000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "c5262472-3021-44f9-a952-d8db721b220a",
+            "name": "Károly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

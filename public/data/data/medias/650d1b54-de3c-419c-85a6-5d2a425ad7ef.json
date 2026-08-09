@@ -1,0 +1,41 @@
+{
+  "id": "650d1b54-de3c-419c-85a6-5d2a425ad7ef",
+  "title": "Élet",
+  "originalTitle": "Élet",
+  "overview": "",
+  "backdropPath": null,
+  "posterPath": "/pgtCsWfa5uKmAMC3cniQlGK6ftM.jpg",
+  "releaseDate": null,
+  "topics": [
+    {
+      "id": "ce104e73-07ac-4e66-8db5-c6937b55d1b6",
+      "title": "Élet",
+      "subtitle": null,
+      "timestampString": "00:29:53",
+      "timestampInSeconds": 1793,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #118",
+        "youtubeId": "tsYYwq3fdTw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tsYYwq3fdTw/hqdefault.jpg",
+        "durationInMinutes": 239,
+        "releaseDate": 1490634596000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

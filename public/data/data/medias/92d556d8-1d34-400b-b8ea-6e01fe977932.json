@@ -1,0 +1,45 @@
+{
+  "id": "92d556d8-1d34-400b-b8ea-6e01fe977932",
+  "title": "Exodus: Istenek és Királyok",
+  "originalTitle": "Exodus: Gods and Kings",
+  "overview": "A világ egyik legismertebb történetében Mózest a fáraó lánya menti ki a Nílusból és hercegként neveli fel. A férfi gyilkol, menekülése közben találkozik az Úrral. Szembefordul az istenkirállyal, és végül kivezeti a zsidókat a rabszolgaságból de az Ígéret Földjére már nem léphet be.",
+  "backdropPath": "/hJ1jUw8irCiWwQk7BElxF92BrlK.jpg",
+  "posterPath": "/88YMxb9o1EteS7kZ8WrmRpK5hzX.jpg",
+  "releaseDate": "2014-12-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "abf8db9c-88a9-4d4d-bbec-cb7faeda2861",
+      "title": "Exodus: Istenek és Királyok",
+      "subtitle": null,
+      "timestampString": "01:05:54",
+      "timestampInSeconds": 3954,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #63",
+        "youtubeId": "PgKECs1kHoY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/PgKECs1kHoY/hqdefault.jpg",
+        "durationInMinutes": 195,
+        "releaseDate": 1418847403000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

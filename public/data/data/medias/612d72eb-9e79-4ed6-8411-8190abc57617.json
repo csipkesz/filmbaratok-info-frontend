@@ -1,0 +1,41 @@
+{
+  "id": "612d72eb-9e79-4ed6-8411-8190abc57617",
+  "title": "The Last Voyage of the Demeter",
+  "originalTitle": "The Last Voyage of the Demeter",
+  "overview": "A történet Bram Stoker klasszikus, 1897-es Drakula című regényének egyetlen fejezetén, a kapitány naplóján alapul, és az orosz Demeter nevű szkúneren játszódik, amelyet azért béreltek ki, hogy magánrakományt - huszonnégy jelöletlen faládát - szállítson a Kárpátia hajóról Londonba. A halálra ítélt legénység tagjai megpróbálják túlélni az óceáni utat, miközben minden éjjel valami félelmetes történik velük.",
+  "backdropPath": "/dKC5qWi6S8SKkSzrP6LxTk0cb98.jpg",
+  "posterPath": "/8MHYgh0rykbeHxcSUARpcS8yYdS.jpg",
+  "releaseDate": "2023-08-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "26cea718-e85a-4cd9-a51b-784ac15410bc",
+      "title": "The Last Voyage of the Demeter",
+      "subtitle": null,
+      "timestampString": "02:01:40",
+      "timestampInSeconds": 7300,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #262",
+        "youtubeId": "vHivX-OmQEI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/vHivX-OmQEI/hqdefault.jpg",
+        "durationInMinutes": 199,
+        "releaseDate": 1695357459000,
+        "participants": [
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "1b0aba85-2c48-4c84-b435-7337f65911e9",
+  "title": "BeSZERvezve",
+  "originalTitle": "American Ultra",
+  "overview": "Mike ránézésre jellegtelen kisvárosi arcnak tűnik, aki állandóan beszívva tengeti a napjait és amikor nem pénztárosként dolgozik, egy soha el nem készülő képregényt rajzolgat egy szuperhős majomról. Leghőbb vágya, hogy egyszer végre leküzdje a pánikrohamát és képes legyen a városhatár táblánál messzebb merészkedni, hogy elvihesse barátnőjét, Phoebe-t Hawaii-ra. A fiatalok élete azonban egyik napról a másikra megváltozik, amikor kiderül, hogy a fiú – bár maga sem tud róla – egy magasan képzett, halálos alvó ügynök. A múltja azonban utoléri és a sötét titkok elkezdenek felderengeni a múltból, Mike pedig egy veszedelmes kormányzati akció közepén találja magát. A túléléshez minden erejére és ügyességére szüksége less, ami nem lesz egyszerű, tekintve, hogy a sok fűtől alig lát ki a fejéből.",
+  "backdropPath": "/wSdXmiaTcdfREfUa3cGfbgYHHlV.jpg",
+  "posterPath": "/cPGJN0jZGgKcJ0oxw38WmFvmZ8N.jpg",
+  "releaseDate": "2015-08-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5457c349-172e-4cf5-8329-e859ebdb26ef",
+      "title": "BeSZERvezve",
+      "subtitle": null,
+      "timestampString": "02:35:40",
+      "timestampInSeconds": 9340,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #80",
+        "youtubeId": "z4DzygJMKgc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z4DzygJMKgc/hqdefault.jpg",
+        "durationInMinutes": 227,
+        "releaseDate": 1440780590000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

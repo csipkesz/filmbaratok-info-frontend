@@ -1,0 +1,41 @@
+{
+  "id": "3de71825-9b16-40a9-bcce-682050cf8389",
+  "title": "Bram Stoker's Dracula",
+  "originalTitle": "Bram Stoker's Dracula",
+  "overview": "Drakulát, a véreskezű vajdát évszázadokkal ezelőtt eltemették, teste mégsem omlott porrá. Hírlik, hogy sírjából éjjelente borzongató kalandra indul és harapása után mind többen csatlakoznak a temetők mélyén bolyongó vámpírok seregéhez. A félelmetes teremtményt emésztő vágyakozás gyötri elhunyt hitvese után. Egy napon a kastélyba vetődő idegen medáljában meglátja egy lány arcképét, aki kísértetiesen hasonlít egykori asszonyára és útra kel, hogy megkeresse a gyönyörű lányt. London lakói azonban nem készültek fel a pokoli teremtmény érkezésére.",
+  "backdropPath": "/88S6EYQBVyQktDfSqsB33I169jN.jpg",
+  "posterPath": "/w1wyMed4FJ2J3NEoED6uhiQHlkP.jpg",
+  "releaseDate": "1992-11-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "35bcf7d8-1916-4fc2-bea6-18661ad32c8f",
+      "title": "Bram Stoker's Dracula",
+      "subtitle": null,
+      "timestampString": "02:06:50",
+      "timestampInSeconds": 7610,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #71",
+        "youtubeId": "K9mj59Uot1I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/K9mj59Uot1I/hqdefault.jpg",
+        "durationInMinutes": 176,
+        "releaseDate": 1428520974000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

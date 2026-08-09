@@ -1,0 +1,45 @@
+{
+  "id": "bedc1bb4-18c4-4299-a49b-ba2f0907c23f",
+  "title": "28 évvel később",
+  "originalTitle": "28 Years Later",
+  "overview": "London kiürült. Egy szörnyű vírus hihetetlenül rövid idő alatt elpusztította a lakóit, és egyetlen véletlen túlélő bolyong a néptelen utcákon – de neki sem túl jók az esélyei. Ez történt majd harminc évvel ezelőtt. A biológiai fegyverrel kísérletező szupertitkos laborból kiszabadult, az emberből dühöngő, kegyetlen zombit létrehozó vírus ereje azóta sem csökkent, és a néhány túlélő csupán a vasszigorral fenntartott, egymástól távol eső karanténoknak köszönheti, hogy nem betegedett meg. Az egészségesek egyik kis csoportja egy szigeten él. Egyetlen, jól őrzött híd köti őket össze a világgal. De a sziget néhány lakója kénytelen behatolni a szárazföld rejtélyes és vérszomjas mélyére, egy fiatal fiúnak orvost kell találnia, hogy segítsen haldokló édesanyján. Titkok és szörnyűségek várják őket: olyan mutációk, amelyek már nemcsak a fertőzötteket, hanem az egészségeseket is átalakították.",
+  "backdropPath": "/6WqqEjiycNvDLjbEClM1zCwIbDD.jpg",
+  "posterPath": "/tOMzpSCOzlU9vy2avK6g5mHuntz.jpg",
+  "releaseDate": "2025-06-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5f02696f-4563-40b7-9449-299993c9d3d3",
+      "title": "28 évvel később [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "02:07:54",
+      "timestampInSeconds": 7674,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #306",
+        "youtubeId": "fhwjWo2MiYI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fhwjWo2MiYI/hqdefault.jpg",
+        "durationInMinutes": 272,
+        "releaseDate": 1752602894000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

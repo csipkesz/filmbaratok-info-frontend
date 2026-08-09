@@ -1,0 +1,45 @@
+{
+  "id": "f68a02c4-7312-4e8f-bba4-0d3a35ba219f",
+  "title": "Volt egyszer egy Hollywood",
+  "originalTitle": "Once Upon a Time... in Hollywood",
+  "overview": "1969. Los Angeles. Egy munka nélkül maradt, western tévésorozatából kikerült, munkanélküli színész és jó barátja, kaszkadőre együtt próbálnak boldogulni Hollywood kegyetlen világában. Ez a világ azért kegyetlen, mert változik: Rick és Cliff eddig kiismerte magát a showbizniszben, de most bármerre járnak, arra kell rácsodálkozniuk, hogy minden megváltozott: a szabályok, a főnökök és a nők is…",
+  "backdropPath": "/xwgBHC2FgoIrQitl8jZwXXdsR9u.jpg",
+  "posterPath": "/adqhZZHcgYgmFpRVu6GS192NVPu.jpg",
+  "releaseDate": "2019-07-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "32193def-0adb-4ee0-9ac5-f0a3d4c04d19",
+      "title": "Volt egyszer egy Hollywood",
+      "subtitle": null,
+      "timestampString": "00:13:55",
+      "timestampInSeconds": 835,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #174",
+        "youtubeId": "SKngLJZbCLc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/SKngLJZbCLc/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1567606261000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

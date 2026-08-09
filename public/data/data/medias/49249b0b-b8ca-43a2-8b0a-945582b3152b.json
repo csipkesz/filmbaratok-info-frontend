@@ -1,0 +1,45 @@
+{
+  "id": "49249b0b-b8ca-43a2-8b0a-945582b3152b",
+  "title": "Haverok harca",
+  "originalTitle": "Tag",
+  "overview": "Néhány régi iskolatárs még a suliban megfogadta, hogy megőrzi magában a kisgyereket, és a régi haverjainak is segít ugyanebben. Évente egyszer vérre menő fogócska/bújócska veszi számukra kezdetét – ugyanaz, ami valaha az iskolaudvarban, csak most az egész ország a pálya. Vadásznak egymásra, becserkészik és meglepik egymást… mindegy, hogy áldozatuk dolgozik, csajozik, vagy gyereket nevel-e éppen.",
+  "backdropPath": "/n8UzZ7gd3lmsBeYAH539pfnwGwu.jpg",
+  "posterPath": "/8SVhseCSnGNLDOEAUMxURG9FrfT.jpg",
+  "releaseDate": "2018-05-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4806ef9b-5e37-4dc3-a92f-83eb78ea9b78",
+      "title": "Haverok harca",
+      "subtitle": null,
+      "timestampString": "02:39:01",
+      "timestampInSeconds": 9541,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #147",
+        "youtubeId": "VFKKYddusFg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VFKKYddusFg/hqdefault.jpg",
+        "durationInMinutes": 235,
+        "releaseDate": 1531561740000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

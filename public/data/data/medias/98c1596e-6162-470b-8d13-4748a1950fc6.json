@@ -1,0 +1,45 @@
+{
+  "id": "98c1596e-6162-470b-8d13-4748a1950fc6",
+  "title": "Alma a fájától",
+  "originalTitle": "Nothing in Common",
+  "overview": "David Basner nem is kívánhatna többet az élettől! Tehetségével, megnyerő modorával és ellenállhatatlan humorával mindenkit levesz a lábáról. Az édes életnek azonban vége szakad, amikor hősünk megtudja, hogy szülei 35 év házasság után válni készülnek. Ettől fogva minden megváltozik: bokros teendői mellett David kénytelen időt szakítani az öregekre, akikhez mindeddig nem túl szoros szálak fűzték. Miközben igyekszik örökké zsörtölődő apjának és csalódott anyjának segíteni, a nagymenő világfi kezdi kapizsgálni, hogy talán nem is esett olyan messze az alma a fájától.",
+  "backdropPath": "/tMH0vpz9s0GfA4rnl7k1x3nyRdl.jpg",
+  "posterPath": "/xZSN1EeX7rkFEFBjs8eLFHWppBU.jpg",
+  "releaseDate": "1986-07-29T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b561239c-f944-4dd4-a35d-ccf81f7aa367",
+      "title": "Alma a fájától",
+      "subtitle": null,
+      "timestampString": "02:37:35",
+      "timestampInSeconds": 9455,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #252",
+        "youtubeId": "BAb0S4ADaoM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/BAb0S4ADaoM/hqdefault.jpg",
+        "durationInMinutes": 219,
+        "releaseDate": 1680329169000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

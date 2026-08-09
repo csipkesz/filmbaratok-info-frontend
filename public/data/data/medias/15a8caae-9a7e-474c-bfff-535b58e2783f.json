@@ -1,0 +1,45 @@
+{
+  "id": "15a8caae-9a7e-474c-bfff-535b58e2783f",
+  "title": "Halálsoron",
+  "originalTitle": "The Green Mile",
+  "overview": "Paul Edgecomb börtönőrként szolgál a Cold Mountain fegyház siralomházában a múlt század harmincas éveiben. Az E blokkban halálraítéltek várják, hogy végig menjenek a halálsoron - a folyosón, amely a villamosszékhez vezet. Edgecomb úgy gondolja, már semmilyen meglepetés sem érheti. Ám minden megváltozik, amikor új rab érkezik az E blokkba. Az óriás termetű fekete férfit, John Coffeyt az esküdtszék két fehér gyermek meggyilkolásáért ítélte halálra. A férfi azonban egyáltalán nem tűnik gyilkosnak, sőt, egészen különös képességekkel rendelkezik.",
+  "backdropPath": "/amZavErrjrdgDwhsIdpWxHNenIx.jpg",
+  "posterPath": "/bYVylUcUSqfYrF4bjsNZWVLw3Ub.jpg",
+  "releaseDate": "1999-12-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e9d51f8d-5b76-4ae2-9634-5090ab8a01fe",
+      "title": "Halálsoron",
+      "subtitle": null,
+      "timestampString": "02:56:30",
+      "timestampInSeconds": 10590,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #212",
+        "youtubeId": "mV_Pe_oXmww",
+        "thumbnailUrl": "https://i.ytimg.com/vi/mV_Pe_oXmww/hqdefault.jpg",
+        "durationInMinutes": 226,
+        "releaseDate": 1622736018000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

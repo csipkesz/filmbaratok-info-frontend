@@ -1,0 +1,45 @@
+{
+  "id": "b7a07c8d-7527-45c6-93a4-516b5e3d05e3",
+  "title": "Doom: Annihilation",
+  "originalTitle": "Doom: Annihilation",
+  "overview": "Egy csapatnyi űrgárdista egy a Marson lévő bázisra érkezik, amelyet démoni lények szálltak meg. A pokolbéli teremtmények célja, hogy elhozzák a poklot a Földre.",
+  "backdropPath": "/iODdFR98xOeOzj95ptMKnCkhniN.jpg",
+  "posterPath": "/paeVZ6TNDJ3GPMo9eK6asLZi76l.jpg",
+  "releaseDate": "2019-09-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "bf0e3776-3f94-440b-80d2-890adca27df8",
+      "title": "Doom: Annihilation",
+      "subtitle": null,
+      "timestampString": "03:07:55",
+      "timestampInSeconds": 11275,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #176",
+        "youtubeId": "IBv2w6mBz1s",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IBv2w6mBz1s/hqdefault.jpg",
+        "durationInMinutes": 267,
+        "releaseDate": 1570124501000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

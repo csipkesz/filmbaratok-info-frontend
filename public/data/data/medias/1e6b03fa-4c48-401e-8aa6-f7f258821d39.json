@@ -1,0 +1,41 @@
+{
+  "id": "1e6b03fa-4c48-401e-8aa6-f7f258821d39",
+  "title": "A fiú",
+  "originalTitle": "The Boy",
+  "overview": "Egy amerikai lány pénzkereset gyanánt egy angliai családnál helyezkedik el mint bébiszitter. Azonban a gyermek akire vigyáznia kell nem más mint egy 8 éves gyermek mására készített porcelánbaba. A háziak által szabott szabályokat nem szabad megszegni, mivel azok be nem tartása súlyos következményeket von maga után. Néhány nem várt esemény arra enged következtetni, hogy a baba talán nem is olyan élettelen.",
+  "backdropPath": "/mRUW8rmpCS2kH22eihPbbMIbFxU.jpg",
+  "posterPath": "/43zIhR9xw7j4TKLj45zCdORwpXR.jpg",
+  "releaseDate": "2016-01-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "846f749a-c2c4-4812-9358-f065cd9a64e9",
+      "title": "A fiú [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "01:51:19",
+      "timestampInSeconds": 6679,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #287",
+        "youtubeId": "t0z5SbpHLjU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/t0z5SbpHLjU/hqdefault.jpg",
+        "durationInMinutes": 151,
+        "releaseDate": 1727611956000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "220c42dd-fb9a-4f07-83a9-a15f19934daf",
+  "title": "Jobb ma egy zsaru, mint holnap kettő",
+  "originalTitle": "The Hard Way",
+  "overview": "Nick Lang (Michael J. Fox), a népszerű filmsztár egy kemény New York-i zsaru szerepének eljátszására készül. Ezért John Moss (James Woods) New York-i nyomozó mellé szegődik. Moss nem repes az örömtől a hír hallatán. Ám főnöke határozott utasításásra kénytelen mindenhova magával vinni a színészt, aki tapasztalatlansága folytán rendre keresztülhúzza a zsaru számításait egy sorozatgyilkos után folytatott hajszában. A helyzet még rosszabbra fordul, amikor Lang Moss-hoz költözik, s ezért a zsarut faképnél hagyja a barátnője.",
+  "backdropPath": "/fvpDegC0EGBZCZPDHDineAL4P8F.jpg",
+  "posterPath": "/oDYxAqhwefXgaAQuV76UKTWLhW0.jpg",
+  "releaseDate": "1991-03-08T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "42398515-768f-4bba-ad8d-f095f0cff36d",
+      "title": "Jobb ma egy zsaru, mint holnap kettő",
+      "subtitle": null,
+      "timestampString": "03:45:50",
+      "timestampInSeconds": 13550,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #240",
+        "youtubeId": "T9F8CwPjgqQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/T9F8CwPjgqQ/hqdefault.jpg",
+        "durationInMinutes": 249,
+        "releaseDate": 1664376879000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2f12e2bc-eda5-468d-b097-2d1a35c14076",
+  "title": "Hol a barátom háza?",
+  "originalTitle": "خانه‌ی دوست کجاست؟",
+  "overview": "",
+  "backdropPath": "/ylBiGZhgBsly0frseG2PvqoYM4o.jpg",
+  "posterPath": "/avSSrkHcLc1Zl0Ne5C1YBTskKBS.jpg",
+  "releaseDate": "1987-07-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "000829d6-1872-4985-99dc-342247c091d3",
+      "title": "Hol a barátom háza?",
+      "subtitle": null,
+      "timestampString": "03:19:40",
+      "timestampInSeconds": 11980,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #234",
+        "youtubeId": "IyLcC8Sig7I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IyLcC8Sig7I/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1655823277000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

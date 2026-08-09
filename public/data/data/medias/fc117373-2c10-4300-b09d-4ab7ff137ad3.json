@@ -1,0 +1,45 @@
+{
+  "id": "fc117373-2c10-4300-b09d-4ab7ff137ad3",
+  "title": "Fegyvertársak",
+  "originalTitle": "Open Range",
+  "overview": "Charley Waite (Kevin Costner), Spearman (Robert Duvall), Gomb és Mose Harrison mind menekülnek a múltjuk elől. A négy cowboyt a vadnyugat törvénye köti össze, és megpróbálják kerülni az erőszakot, ám egy határ menti város, ahol a félelem és a zsarnokság az úr, megváltoztatja az életüket, és arra kényszeríti őket, hogy cselekedjenek. Miközben ezek a bátor férfiak a döntő ütközetre készülnek, szembe kell nézniük saját sötét múltjukkal is.",
+  "backdropPath": "/e65E7jH5bKMSgHJnWLw4ex02Dyu.jpg",
+  "posterPath": "/4VGUnlL22OaerZHMWXKpd2CGT88.jpg",
+  "releaseDate": "2003-08-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f51f561b-ce1a-49ca-beb4-05019d7ed68b",
+      "title": "Fegyvertársak",
+      "subtitle": null,
+      "timestampString": "02:14:20",
+      "timestampInSeconds": 8060,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #74",
+        "youtubeId": "-_t5F-ALz2U",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-_t5F-ALz2U/hqdefault.jpg",
+        "durationInMinutes": 173,
+        "releaseDate": 1432541028000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

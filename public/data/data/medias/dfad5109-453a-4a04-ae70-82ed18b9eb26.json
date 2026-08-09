@@ -1,0 +1,45 @@
+{
+  "id": "dfad5109-453a-4a04-ae70-82ed18b9eb26",
+  "title": "High-Rise",
+  "originalTitle": "High-Rise",
+  "overview": "Egy toronyház lakóinak élete egy váratlan esemény miatt kicsúszik az irányításuk alól.",
+  "backdropPath": "/gsqKgZbXmge1FR7KHBKM5AQ93mb.jpg",
+  "posterPath": "/47aaJXO87scDABLUT7vg2bHsdrF.jpg",
+  "releaseDate": "2015-11-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1803d0a5-13c6-414f-b8de-86c65e0934ca",
+      "title": "High-Rise",
+      "subtitle": null,
+      "timestampString": "03:00:45",
+      "timestampInSeconds": 10845,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #251",
+        "youtubeId": "sMMPgkRN14I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/sMMPgkRN14I/hqdefault.jpg",
+        "durationInMinutes": 273,
+        "releaseDate": 1678475107000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          }
+        ]
+      }
+    }
+  ]
+}

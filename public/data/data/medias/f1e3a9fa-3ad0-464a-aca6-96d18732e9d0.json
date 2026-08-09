@@ -1,0 +1,41 @@
+{
+  "id": "f1e3a9fa-3ad0-464a-aca6-96d18732e9d0",
+  "title": "Tron: Ares",
+  "originalTitle": "TRON: Ares",
+  "overview": "A kultikus Tron franchise harmadik felvonása, amely főszerepében az Oscar-díjas Jared Leto látható, és amelyet ezúttal a Demóna 2 rendezője, Joachim Rønning készített.  Egy Ares nevű, magasan fejlett programot a digitális világból a valós világba küldenek egy veszélyes küldetésre. Ez lesz az emberiség első találkozása mesterséges intelligenciájú létformával.",
+  "backdropPath": "/pUNfHmVqfwRdILhCkU8TdysVOXo.jpg",
+  "posterPath": "/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
+  "releaseDate": "2025-10-08T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5419f509-196e-49ea-a944-367a58dd2102",
+      "title": "Tron: Ares",
+      "subtitle": null,
+      "timestampString": "01:31:45",
+      "timestampInSeconds": 5505,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #312",
+        "youtubeId": "D9M4DcSbjik",
+        "thumbnailUrl": "https://i.ytimg.com/vi/D9M4DcSbjik/hqdefault.jpg",
+        "durationInMinutes": 187,
+        "releaseDate": 1760711928000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "678e1e64-e3ba-4743-917a-c6c02ed11931",
+            "name": "Krisztián"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

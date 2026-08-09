@@ -1,0 +1,45 @@
+{
+  "id": "535f6c51-96f4-4c46-a9b1-bab3d67e00fb",
+  "title": "Hubie, a halloween hőse",
+  "originalTitle": "Hubie Halloween",
+  "overview": "Hubie nem éppen közkedvelt a massachusettsi Salemben, de egy valóban parás Halloween alkalmával a jószívű fickó, aki mellesleg egy gyáva nyúl, a város védelmére kel.",
+  "backdropPath": "/aOeshAxAhiDVIiHsXVFmF6bgclh.jpg",
+  "posterPath": "/ydQpguJVxdW64i1uYQv3sCKMEM1.jpg",
+  "releaseDate": "2020-10-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a6891fb6-1b4f-469a-b75e-d6a169895665",
+      "title": "Hubie, a halloween hőse",
+      "subtitle": null,
+      "timestampString": "01:32:15",
+      "timestampInSeconds": 5535,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #199",
+        "youtubeId": "fQW3yV4nVGM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fQW3yV4nVGM/hqdefault.jpg",
+        "durationInMinutes": 264,
+        "releaseDate": 1603214829000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          }
+        ]
+      }
+    }
+  ]
+}

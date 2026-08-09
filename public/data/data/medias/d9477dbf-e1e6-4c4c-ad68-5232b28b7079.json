@@ -1,0 +1,45 @@
+{
+  "id": "d9477dbf-e1e6-4c4c-ad68-5232b28b7079",
+  "title": "Ne bántsátok a feketerigót",
+  "originalTitle": "To Kill a Mockingbird",
+  "overview": "Az amerikai \"forró\" Dél: Alabama állam az 1930-as években. Dúl a fajgyűlölet, így amikor az egyik városkában megerőszakolnak egy fiatal fehér nőt, szinte mindenki szentül hiszi, hogy csakis egy fekete lehet a tettes. A helyi rendőrség hamar ki is pécéz egy megfelelő gyanúsítottat, a tagbaszakadt Tom Robinsont többen is látták a bűntény közelében. Ebben a környezetben a színes bőrű Robinson esélyei a felmentésre szinte a nullával egyenlők, nem vitás, hogy a bíróság gyorsított menetben ítéli majd halálra, ha csak a felbőszült tömeg már annak előtte meg nem lincseli. A város köztiszteletben álló, minden ízében tisztességes ügyvédje, Atticus Finch közmegdöbbenésre vállalja Robinson védelmét - tudván, hogy ez a döntés egész pályafutása végét jelentheti...",
+  "backdropPath": "/wYRpVySPCC7wA28p54yAaoMT478.jpg",
+  "posterPath": "/19kuYMZvABG0UxJvCyBd6w4Geot.jpg",
+  "releaseDate": "1962-12-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3c6d08e1-4663-468b-94ac-02eca70c6812",
+      "title": "Ne bántsátok a feketerigót",
+      "subtitle": null,
+      "timestampString": "02:00:19",
+      "timestampInSeconds": 7219,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #73",
+        "youtubeId": "CojqY6DJFQM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/CojqY6DJFQM/hqdefault.jpg",
+        "durationInMinutes": 197,
+        "releaseDate": 1431625186000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

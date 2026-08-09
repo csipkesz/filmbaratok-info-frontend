@@ -1,0 +1,71 @@
+{
+  "id": "fcd0b0ac-232a-4cf2-a26d-efecfc14f31c",
+  "title": "Narcos",
+  "originalTitle": "Narcos",
+  "overview": "A sorozat Pablo Escobar életének egy részét mutatja be, a medellíni kartell hétköznapjai mellett. Escobar-t, aki nem csak a Medellin kartel vezetője volt és ismert terrorista, hanem országgyűlési képviselő és családapa, sőt, a szegények afféle Robin Hood-ként tekintettek rá, Wagner Moura alakítja",
+  "backdropPath": "/y9ekzkPFmWSqUU3Kj0wHmYUM8qu.jpg",
+  "posterPath": "/rTmal9fDbwh5F0waol2hq35U4ah.jpg",
+  "releaseDate": "2015-08-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2f441ae4-bc7b-4e01-8d53-056a4f1ca821",
+      "title": "Narcos",
+      "subtitle": null,
+      "timestampString": "01:58:13",
+      "timestampInSeconds": 7093,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #82",
+        "youtubeId": "g8wdyUhhVtI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/g8wdyUhhVtI/hqdefault.jpg",
+        "durationInMinutes": 170,
+        "releaseDate": 1443630602000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aa693763-b39b-49c8-8b8d-9a02e1f3f76a",
+      "title": "Narcos (sorozatajánló & 3. évad kibeszélő)",
+      "subtitle": "sorozatajánló & 3. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Narcos (sorozatajánló & 3. évad kibeszélő)",
+        "youtubeId": "IfPj_mO1-6I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IfPj_mO1-6I/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1505192355000,
+        "participants": [
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

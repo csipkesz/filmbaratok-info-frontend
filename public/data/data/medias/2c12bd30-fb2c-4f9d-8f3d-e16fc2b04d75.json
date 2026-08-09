@@ -1,0 +1,28 @@
+{
+  "id": "2c12bd30-fb2c-4f9d-8f3d-e16fc2b04d75",
+  "title": "Mike",
+  "originalTitle": "Mike",
+  "overview": "A sorozat Mike Tysont a fókuszba helyezve veszi górcső alá Amerika társadalmi osztályait, a faji hovatartozás kérdését, a hírnév jelenségét és a média hatalmát, a nőgyűlöletet, a vagyoni különbségeket, az amerikai álom ígéretét, és végül a saját szerepünket Mike történetének formálásában.",
+  "backdropPath": "/3MCHc74eGFBcE507jKQez6xMpFH.jpg",
+  "posterPath": "/dF997CwJNM1953E45BfWPB5MffY.jpg",
+  "releaseDate": "2022-08-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "78d1906d-26cc-4a74-90ef-8f0a870e93da",
+      "title": "Mike",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Mike",
+        "youtubeId": "fPCsds29PFk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fPCsds29PFk/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1675541138000,
+        "participants": []
+      }
+    }
+  ]
+}

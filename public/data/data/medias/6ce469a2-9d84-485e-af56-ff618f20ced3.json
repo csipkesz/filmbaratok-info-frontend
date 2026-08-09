@@ -1,0 +1,45 @@
+{
+  "id": "6ce469a2-9d84-485e-af56-ff618f20ced3",
+  "title": "Bronxi mese",
+  "originalTitle": "A Bronx Tale",
+  "overview": "A kilencéves Calogero New York olaszok lakta negyedében, Bronxban él a szüleivel. Apja, a buszvezető Lorenzo vasszigorra neveli őt, de egyúttal igyekszik a legtöbbet nyújtani neki és megóvni az utca kegyetlenségétől. A fiú szemtanúja lesz egy gyilkosságnak, de a rendőrök erőteljes ráhatása ellenére sem hajlandó azonosítani az elkövetőt. A helyi keresztapa, Sonny felfigyel a srác bátor tettére, és védőszárnyai alá veszi a gyereket. Calogero hamarosan a maffia nagykutyái között találja magát és apjaként kezdi tisztelni a törvényen kívüli Sonnyt. Fia megóvása érdekében Lorenzo nem fél szembeszállni a város rettegett gengszterével, de ekkorra már kérdésessé válik, hogy melyikük képes nagyobb hatással lenni a könnyen befolyásolható Calogeróra.",
+  "backdropPath": "/ggzzn1Hf4zBz1VVywpQhGtDxKtA.jpg",
+  "posterPath": "/dTU1foCwqq25osyCNtAUaDyZHS0.jpg",
+  "releaseDate": "1993-10-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7a54791a-6488-442d-a8b9-f576ab27a2a4",
+      "title": "Bronxi mese",
+      "subtitle": null,
+      "timestampString": "02:13:06",
+      "timestampInSeconds": 7986,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #82",
+        "youtubeId": "g8wdyUhhVtI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/g8wdyUhhVtI/hqdefault.jpg",
+        "durationInMinutes": 170,
+        "releaseDate": 1443630602000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

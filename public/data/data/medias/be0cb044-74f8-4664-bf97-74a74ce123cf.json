@@ -1,0 +1,41 @@
+{
+  "id": "be0cb044-74f8-4664-bf97-74a74ce123cf",
+  "title": "12:01",
+  "originalTitle": "12:01",
+  "overview": "Barry egy fizikai kíserleteket folytató cégnél dolgozik az adminisztrációs osztályon. Szemet vet Lisa-ra, a kutató részleg csinos munkatársára.Ám amint rászánná magát, hogy érzéseit bevallja a lánynak,megtörténik a tragédia. A nap végén az épuletből kivonuló dolgozók szeme láttára egy furgonból lelövik a hölgyet. Aztán reggel Barry ráébred,hogy megtörtént az időugrás. De miért csak ő vette észre? Miért, és ki ölte meg Lisa-t? Kinek állt ez érdekében,és miért? A srácnak napi 8 óraja van rá, hogy választ kapjon kérdéseire, megmentse szerelmét, jól beolvasson főnökének, és elviselje idióta munkatársa tréfáit. A gond csak az, hogy minden napot előlről kell kezdeni...",
+  "backdropPath": "/jZBJfWHHGw9kbRQs2hnY1n1bQpm.jpg",
+  "posterPath": "/lqtLVVMQUYDQ9yxDmS0XEdQjFUs.jpg",
+  "releaseDate": "1993-12-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e58c2338-3f29-4742-9f1f-4e2eb8cb745e",
+      "title": "12: 01",
+      "subtitle": null,
+      "timestampString": "03:45:36",
+      "timestampInSeconds": 13536,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #231",
+        "youtubeId": "GwvFCLoE8cY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GwvFCLoE8cY/hqdefault.jpg",
+        "durationInMinutes": 252,
+        "releaseDate": 1650126613000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

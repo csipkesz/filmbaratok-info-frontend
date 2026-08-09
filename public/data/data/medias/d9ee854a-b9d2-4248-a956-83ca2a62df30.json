@@ -1,0 +1,45 @@
+{
+  "id": "d9ee854a-b9d2-4248-a956-83ca2a62df30",
+  "title": "Kálmán-nap",
+  "originalTitle": "Kálmán-nap",
+  "overview": "Kálmánhoz és Olgához (Hajdu Szabolcs és Tóth Orsi) vendégségbe érkezik Levente és Zita (Szabó Domokos és Földeáki Nóra). A két negyvenes páros Kálmán névnapját készül ünnepelni, de az egyre sűrűsödő koccintások mentén gyorsan felsejlenek a már nehezen titkolható párkapcsolati nehézségek. Hajdu Szabolcs kapcsolati trilógiájának második darabja is a színpadról kerül a filmvászonra. Míg az Ernelláék Farkaséknál című filmben a konfliktusok a gyermeknevelés körül forogtak, a Kálmán-napban az intimitás és a szexualitás hiányából fakadó feszültségek és morális dilemmák kerülnek a középpontba. A történet megtévesztően egyszerű és hétköznapi, amit az apró részletek tesznek lenyűgözővé.",
+  "backdropPath": "/9QQgeSC6eSXrc7gpwfUtghZYdzV.jpg",
+  "posterPath": "/gpaYPazuDEOmBhRNjohSfLQjpaF.jpg",
+  "releaseDate": "2023-11-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0dd892b2-275e-4b7e-8a99-d6c202ddc048",
+      "title": "Kálmán-nap",
+      "subtitle": null,
+      "timestampString": "01:40:00",
+      "timestampInSeconds": 6000,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #276",
+        "youtubeId": "ozdxgj2AwCk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ozdxgj2AwCk/hqdefault.jpg",
+        "durationInMinutes": 248,
+        "releaseDate": 1713292727000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

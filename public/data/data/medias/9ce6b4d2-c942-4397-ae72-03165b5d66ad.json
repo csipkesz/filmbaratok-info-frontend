@@ -1,0 +1,45 @@
+{
+  "id": "9ce6b4d2-c942-4397-ae72-03165b5d66ad",
+  "title": "Detroit Rock City",
+  "originalTitle": "Detroit Rock City",
+  "overview": "Amióta a Kiss rockegyüttes megénekelte az amerikai autógyártás fellegvárát, azóta Detroitot nemcsak Motor Citynek, hanem Rock Citynek is nevezik. Itt cseperedett fel a hetvenes évek végén a négy jó barát, Hawk, Lex, Trip és Jam. A tizenéves fanatikus rockrajongók megtudják, hogy a városban is fellép a Kiss együttes. Sikerül is jegyet szerezniük a koncertre, ám egyikük anyja, aki a gonosz megtestesülésének tartja a zenekart, elégeti a belépőket. A négy tinédzsert azonban ez sem rettenti el attól, hogy valóra váltsák az álmukat, és izgalmas kalandok során eljussanak a koncertre.",
+  "backdropPath": "/NH15yF3nLKyYpog18sy5ynnGBf.jpg",
+  "posterPath": "/jedOctnsD20K4IvOeh5jG811B8L.jpg",
+  "releaseDate": "1999-08-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f031bd46-84a0-48d5-bf10-522f14afb014",
+      "title": "Detroit Rock City",
+      "subtitle": null,
+      "timestampString": "00:59:55",
+      "timestampInSeconds": 3595,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #202",
+        "youtubeId": "E2b82odyb3w",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E2b82odyb3w/hqdefault.jpg",
+        "durationInMinutes": 223,
+        "releaseDate": 1608135119000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

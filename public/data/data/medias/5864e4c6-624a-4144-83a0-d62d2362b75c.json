@@ -1,0 +1,41 @@
+{
+  "id": "5864e4c6-624a-4144-83a0-d62d2362b75c",
+  "title": "Marty Supreme",
+  "originalTitle": "Marty Supreme",
+  "overview": "A szélhámosból lett pingpongbajnok Marty Reisman útja a manhattani fogadásoktól a 22 bajnoki cím megnyeréséig. Marty rekordot állított be azzal, hogy 67 évesen ő lett a legidősebb, aki országos versenyt nyert a sportágban.",
+  "backdropPath": "/6h7w8R4BA7vubEmEEW5vYEjuoz6.jpg",
+  "posterPath": "/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+  "releaseDate": "2025-12-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1a927c79-9bb7-4231-aa33-ca323fd59eca",
+      "title": "Marty Supreme",
+      "subtitle": null,
+      "timestampString": "01:41:20",
+      "timestampInSeconds": 6080,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #320",
+        "youtubeId": "JOlQcUNht4E",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JOlQcUNht4E/hqdefault.jpg",
+        "durationInMinutes": 181,
+        "releaseDate": 1771072699000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

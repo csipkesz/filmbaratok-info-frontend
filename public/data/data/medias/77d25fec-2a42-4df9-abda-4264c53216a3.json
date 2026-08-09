@@ -1,0 +1,45 @@
+{
+  "id": "77d25fec-2a42-4df9-abda-4264c53216a3",
+  "title": "Argo 2",
+  "originalTitle": "Argo 2",
+  "overview": "Balog Tibi (Kovács Lajos) és bandája (Scherer Péter, Bicskey Lukács, Kiss József) tíz év után sem lett okosabb. Továbbra is pitiáner, suttyó bűnözők, akik nagymenőknek hiszik magukat és a nagy lóvéra vágynak.  Egy japán szindikátus árnyékembere (Kulka János) balszerencséjére pont Tibiéket bízza meg egy felbecsülhetetlen értékű adathordozó megszerzésével. Tibiék vajmi keveset értenek az IT világához, ezért egy számítástechnika tanárt (Bán János) visznek magukkal a lehetetlennek tűnő műveletre. A bajt a roma maffia feje (Nagypál Gábor) fokozza, aki egy régi ügy miatt elégtételt akar venni Tibin. A hajsza során Tibiék mindezeken túl japán bérgyilkosokat és a szlovák hadsereget is magukra haragítják, így az esélyük arra, hogy a nagy zsével Malibu tengerpartjára szökjenek, radikálisan csökken.  De aki Tibit alábecsüli, annak annyi. Mert Tibi megoldja okosban.",
+  "backdropPath": "/45ejYHv3oJrwJGBqI6csWHLv7Ck.jpg",
+  "posterPath": "/pzaDW6NOoOh5hVxUn01xo30lPtq.jpg",
+  "releaseDate": "2015-04-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0dce2a07-064f-4259-935c-908136f5b94e",
+      "title": "Argo 2",
+      "subtitle": null,
+      "timestampString": "00:46:56",
+      "timestampInSeconds": 2816,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #72",
+        "youtubeId": "Mkw8rsdw7bc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Mkw8rsdw7bc/hqdefault.jpg",
+        "durationInMinutes": 199,
+        "releaseDate": 1430242149000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

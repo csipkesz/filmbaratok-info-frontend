@@ -1,0 +1,45 @@
+{
+  "id": "59d5881c-f34c-4e54-a636-3500a50cd4f6",
+  "title": "Érzelmek tengerében",
+  "originalTitle": "Gods and Monsters",
+  "overview": "Amikor Clayton Boone (Brendan Fraser) a fiatal csavargó egy rossz kedélyű öregember szolgálatába áll, meglepve jön rá, hogy munkaadója nem más mint James Whale (Ian McKellen) a harmincas években készült Frankestein filmek egykor zseniális alkotója.\r Első találkozásukkor az idős férfit elkápráztatja az erőtől duzzadó ifjú és megpróbál barátságot kötni vele. Claytonnak legyezgeti a hiúságát a felkérés ezért beleegyezik, hogy Whale megfesse az arcképét.\r Amikor barátainak beszámol híres munkaadójáról, azok gyanakodva fogadják a hírt, miközben féltékenyek is a gazdag és pompás világra amelybe barátjuk keveredett. Az idős ember és a fiatal férfi barátsága támadások és előítéletek tüzében edződik és bizonyság arra, hogy az igaz barátság és megértés minden előítéletet legyőz.",
+  "backdropPath": "/v1HOjtXoGwQz26fT4elHeNT0JnW.jpg",
+  "posterPath": "/kdNJd1g6B7EhZEq0HA4hXhBCIbX.jpg",
+  "releaseDate": "1998-09-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "26e8b6a9-29f3-4f12-b348-82e9a9e609e4",
+      "title": "Érzelmek tengerében",
+      "subtitle": null,
+      "timestampString": "04:10:10",
+      "timestampInSeconds": 15010,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #183",
+        "youtubeId": "uA5tRdykPyw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uA5tRdykPyw/hqdefault.jpg",
+        "durationInMinutes": 277,
+        "releaseDate": 1579802407000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

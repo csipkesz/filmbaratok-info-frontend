@@ -1,0 +1,41 @@
+{
+  "id": "f114ac55-b7a7-4661-b470-6e2c37bcb8be",
+  "title": "A vörös kör",
+  "originalTitle": "Le Cercle rouge",
+  "overview": "Corey-t ötéves börtönbüntetése letöltése után szabadlábra helyezik. A férfinak van néhány elintézetlen ügye a volt bandájával. Vogel, a brutális gyilkos megszökik az őt börtönbe szállító vonatról. Amikor a két bűnöző találkozik egymással az alkalom ideálisnak tűnik, hogy közösen kiterveljenek valamit. A célpont egy ékszerbolt. Mattei felügyelő azonban állandóan a nyomukban van.",
+  "backdropPath": "/93iDrZmjDF01Tn3PxOYL8Zz9hBM.jpg",
+  "posterPath": "/4hpZidfTXKh11kQeOPeSGwwSILg.jpg",
+  "releaseDate": "1970-10-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b5a462a3-9731-46bc-a5cc-4048c990d60e",
+      "title": "A vörös kör",
+      "subtitle": null,
+      "timestampString": "01:56:45",
+      "timestampInSeconds": 7005,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #122",
+        "youtubeId": "-MTE2KExAs0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-MTE2KExAs0/hqdefault.jpg",
+        "durationInMinutes": 192,
+        "releaseDate": 1495810296000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

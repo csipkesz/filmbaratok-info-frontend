@@ -1,0 +1,45 @@
+{
+  "id": "9974e9ee-815c-4cf9-99b7-65da78bda432",
+  "title": "The invisible guest",
+  "originalTitle": "The Invisible Guest",
+  "overview": "",
+  "backdropPath": "/thKVLeS5rgEJzT40FiYFBRl0r3t.jpg",
+  "posterPath": "/z3ZQXbY05pfeDwbozfxdbj7yQjM.jpg",
+  "releaseDate": "2026-08-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "415e1593-a2c7-46b1-96b0-bb9ac538a6be",
+      "title": "The invisible guest",
+      "subtitle": null,
+      "timestampString": "02:27:35",
+      "timestampInSeconds": 8855,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #202",
+        "youtubeId": "E2b82odyb3w",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E2b82odyb3w/hqdefault.jpg",
+        "durationInMinutes": 223,
+        "releaseDate": 1608135119000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

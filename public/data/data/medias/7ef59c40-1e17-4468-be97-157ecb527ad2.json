@@ -1,0 +1,41 @@
+{
+  "id": "7ef59c40-1e17-4468-be97-157ecb527ad2",
+  "title": "Escobar",
+  "originalTitle": "Loving Pablo",
+  "overview": "1983-ban Virginia Vallejo, a szépségéről is híres médiaszereplő, akinek kegyeiért milliomosok versengnek, megismeri Pablo Escobart. Négy évig tartó románcuk egy olyan világba enged bepillantást, amelyet a kábítószer, a korrupció, erőszakos hatalmi harcok és páratlan gazdagság ural. A borzalmas és szenvedélyes szerelmi történet korunk egyik legsötétebb bűnöző elméjének fejlődéstörténete is egyben. A legendás drogbáró elképesztő kegyetlenséggel építi birodalmát, amelyet nemcsak az illegális üzleti világhoz fűznek erős szálak, de természetesen a politikához is. A film Virginis Vallejo Loving Pablo, Hating Escobar című könyve alapján készült.",
+  "backdropPath": "/pcIXV6Od8KeDsLWKu7Wzthaur4V.jpg",
+  "posterPath": "/bxss3UQ04DIdUvcX7OCNC4Q6zVp.jpg",
+  "releaseDate": "2017-12-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1b8e3309-2fd6-49bf-b918-bf49668df237",
+      "title": "Escobar",
+      "subtitle": null,
+      "timestampString": "01:22:28",
+      "timestampInSeconds": 4948,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #148",
+        "youtubeId": "keV4hpdXcYo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/keV4hpdXcYo/hqdefault.jpg",
+        "durationInMinutes": 206,
+        "releaseDate": 1533062167000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

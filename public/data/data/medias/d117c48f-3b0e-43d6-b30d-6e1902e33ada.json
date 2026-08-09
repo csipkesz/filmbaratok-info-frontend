@@ -1,0 +1,45 @@
+{
+  "id": "d117c48f-3b0e-43d6-b30d-6e1902e33ada",
+  "title": "Az Adam-projekt",
+  "originalTitle": "The Adam Project",
+  "overview": "Miután az időutazó vadászpilóta, Adam Reed kénytelen kényszerleszállást végezni 2022-ben, összeáll 12 éves önmagával, hogy együtt megmentsék a jövőt.",
+  "backdropPath": "/ewUqXnwiRLhgmGhuksOdLgh49Ch.jpg",
+  "posterPath": "/sMBVaUrpr7vboWFgbTSi4haGPVB.jpg",
+  "releaseDate": "2022-03-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4ae2ebd3-6f68-4f0c-83d6-21f78ac598c7",
+      "title": "Az Adam-projekt",
+      "subtitle": null,
+      "timestampString": "01:11:10",
+      "timestampInSeconds": 4270,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #229",
+        "youtubeId": "yp41gn4f4Wo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/yp41gn4f4Wo/hqdefault.jpg",
+        "durationInMinutes": 273,
+        "releaseDate": 1648126053000,
+        "participants": [
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

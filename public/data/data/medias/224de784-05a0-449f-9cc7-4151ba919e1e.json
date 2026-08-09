@@ -1,0 +1,41 @@
+{
+  "id": "224de784-05a0-449f-9cc7-4151ba919e1e",
+  "title": "Szabotázs",
+  "originalTitle": "Sabotage",
+  "overview": "A kábítószer ellenes csoport kommandós osztagának tagjai, az utolsó akciójukból szerzett zsákmányt szépen elosztják maguk között. Nem számolva azzal, hogy megjelenik a színen egy titokzatos bérgyilkos és egyenként, de szisztematikusan, kíméletlenül likvidálni kezdi őket.",
+  "backdropPath": "/tcvi2IYhU4bfwOMGn9xUI4cueT5.jpg",
+  "posterPath": "/lvmjzEFFldFCyjhsiBNixjk5l9R.jpg",
+  "releaseDate": "2014-03-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "07e32ea5-37da-4845-837f-7f7c6548056d",
+      "title": "Szabotázs",
+      "subtitle": null,
+      "timestampString": "01:59:50",
+      "timestampInSeconds": 7190,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #54",
+        "youtubeId": "z2MBRvmBR0k",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z2MBRvmBR0k/hqdefault.jpg",
+        "durationInMinutes": 188,
+        "releaseDate": 1406308806000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

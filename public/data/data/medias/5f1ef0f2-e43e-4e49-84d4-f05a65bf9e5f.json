@@ -1,0 +1,45 @@
+{
+  "id": "5f1ef0f2-e43e-4e49-84d4-f05a65bf9e5f",
+  "title": "Utoya, július 22.",
+  "originalTitle": "Utøya 22. juli",
+  "overview": "Fiatalok táboroznak egy norvég szigeten, 2011 júliusában. Az oslói bombamerénylet híre eléri őket, de nem sejtik, hogy ők sincsenek biztonságban. Hirtelen lövések zaja töri meg a csendet. Amikor felfogják, hogy ők lesznek a következő áldozatok, elkeseredett menekülés kezdődik a merénylő elől. Kaja, a fiatal lány kétségbeesetten próbálja túlélni a poklot, segíteni a társainak és közben megkeresni a húgát. A gyilkos eközben bejárja a szigetet, még több áldozat után kutatva.",
+  "backdropPath": "/w4pUYpFTywnCn40NV9XKy2Wdacv.jpg",
+  "posterPath": "/6gfNYcF3AW6EDbkEDKT0M3IMyHv.jpg",
+  "releaseDate": "2018-03-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "17a3dee6-860e-40b8-b469-d1fc150e9c60",
+      "title": "Utoya, július 22.",
+      "subtitle": null,
+      "timestampString": "01:38:40",
+      "timestampInSeconds": 5920,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #153",
+        "youtubeId": "o2r_oHM2CEM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/o2r_oHM2CEM/hqdefault.jpg",
+        "durationInMinutes": 239,
+        "releaseDate": 1539286396000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

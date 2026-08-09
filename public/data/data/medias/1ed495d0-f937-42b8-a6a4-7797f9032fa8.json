@@ -1,0 +1,49 @@
+{
+  "id": "1ed495d0-f937-42b8-a6a4-7797f9032fa8",
+  "title": "Amikor leszáll az éj",
+  "originalTitle": "Arcadian",
+  "overview": "Senki nem tudja, honnan jöttek és miért vannak itt. Egy dolog biztos, sötétedés után érkeznek és mindent elpusztítanak, ami az útjukba kerül. Paul (Nicolas Cage) és két tizenéves fia minden nap a túlélésért küzd ebben a posztapokaliptikus világban, amit ismeretlen lények uralnak. A legfontosabb szabály, hogy sötétedés után be kell zárkózni. Paul egyik fia azonban balesetet szenved az erdőben, miközben leszáll az éj…",
+  "backdropPath": "/9s9o9RT9Yj6nDuRJjnJm78WFoFl.jpg",
+  "posterPath": "/4ZLe0Nn77tz0lSCmHjlbNOoYl8N.jpg",
+  "releaseDate": "2024-04-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5a1b359c-9d65-4d35-accb-3646ca2c45e9",
+      "title": "Amikor leszáll az éj",
+      "subtitle": null,
+      "timestampString": "03:00:40",
+      "timestampInSeconds": 10840,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #280",
+        "youtubeId": "hOuoPd65teo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/hOuoPd65teo/hqdefault.jpg",
+        "durationInMinutes": 259,
+        "releaseDate": 1718650807000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

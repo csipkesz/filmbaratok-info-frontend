@@ -1,0 +1,37 @@
+{
+  "id": "473f8be7-9d96-4429-b5d1-cf2c2b3cfe6f",
+  "title": "Űrdongó",
+  "originalTitle": "Bumblebee",
+  "overview": "1987-ben ŰrDongó egy kaliforniai tengerparti kisváros roncstelepén rejtőzik el. Charlie éppen 18 éves lesz, és keresi a helyét a világban. Ő talál rá az ütött-kopott, lerobbant járgányra. Amikor életre kelti, hamar ráébred, hogy ez az autó nem csak egy közönséges Volkswagen Bogár...",
+  "backdropPath": "/hMANgfPHR1tRObNp2oPiOi9mMlz.jpg",
+  "posterPath": "/dRabXQP2mhEpEkPak0VxVtLVpfG.jpg",
+  "releaseDate": "2018-11-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4d5333c0-3041-4eba-ba22-06ef8fc2424f",
+      "title": "Űrdongó",
+      "subtitle": null,
+      "timestampString": "01:15:30",
+      "timestampInSeconds": 4530,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #158",
+        "youtubeId": "0hDBNbfAMGU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/0hDBNbfAMGU/hqdefault.jpg",
+        "durationInMinutes": 112,
+        "releaseDate": 1545678001000,
+        "participants": [
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

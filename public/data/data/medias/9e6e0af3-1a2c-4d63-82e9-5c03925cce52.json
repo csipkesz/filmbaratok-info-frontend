@@ -1,0 +1,41 @@
+{
+  "id": "9e6e0af3-1a2c-4d63-82e9-5c03925cce52",
+  "title": "Hivatali eltávozás",
+  "originalTitle": "Corporate Animals",
+  "overview": "Az ehető evőeszközöket gyártó cégvezető, az egocentrikus és megalomán Lucy úgy érzi, ideje kicsit összekovácsolni az irodai dolgozókat, aminek a legjobb módja egy minőségi és profin kivitelezett csapatépítő nap Új-Mexikó mesés hegyvidékén. Amikor a csapat leereszkedik egy felfedezetlen barlangba a kissé eszelős túravezető irányításával, az addig sem felhőtlen túra katasztrofális fordulatot vesz. A csoport bent ragad a barlangban, ahol aztán kezdetét veszi az igazi csapat építés, vagyis inkább leépítés…",
+  "backdropPath": "/wXi3KtVDiTCXXtf0odDCRDW6pOf.jpg",
+  "posterPath": "/8nnGz6naOR3Y5fqfJQyMmCBKi79.jpg",
+  "releaseDate": "2019-09-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "991ee69a-9911-4f2c-ba9b-33f2cb896f21",
+      "title": "Hivatali eltávozás",
+      "subtitle": null,
+      "timestampString": "01:35:20",
+      "timestampInSeconds": 5720,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #196",
+        "youtubeId": "FsFQg0igAJI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/FsFQg0igAJI/hqdefault.jpg",
+        "durationInMinutes": 181,
+        "releaseDate": 1598446254000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

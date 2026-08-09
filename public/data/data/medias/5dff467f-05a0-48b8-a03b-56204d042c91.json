@@ -1,0 +1,45 @@
+{
+  "id": "5dff467f-05a0-48b8-a03b-56204d042c91",
+  "title": "Agyugrász",
+  "originalTitle": "Hoppers",
+  "overview": "Egy állatbarát megragadja a lehetőséget, hogy olyan technológiát használjon, amely tudatát egy robothódba helyezi és olyan rejtélyeket fedez fel az állatvilágban, amelyek minden elképzelését felülmúlják.",
+  "backdropPath": "/3Jj0A10NVu2dWnoEL5t5oT79L1Y.jpg",
+  "posterPath": "/4u7fQkCOgKGuwwkjcw9fuu6Z14U.jpg",
+  "releaseDate": "2026-03-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8b22e270-e8de-4099-bd6a-4aa0cc58b5e5",
+      "title": "Agyugrász",
+      "subtitle": null,
+      "timestampString": "03:28:37",
+      "timestampInSeconds": 12517,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #322",
+        "youtubeId": "f696VdP9-xg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/f696VdP9-xg/hqdefault.jpg",
+        "durationInMinutes": 273,
+        "releaseDate": 1773775641000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

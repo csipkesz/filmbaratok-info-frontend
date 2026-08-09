@@ -1,0 +1,45 @@
+{
+  "id": "7dbfba8c-9cc8-4bea-8156-84e9d9cde868",
+  "title": "Jason Bourne",
+  "originalTitle": "Jason Bourne",
+  "overview": "Miután Jason Bourne korábban nem csak a memóriáját, hanem a barátnőjét is elveszítette és hadjáratot indított az őt üldöző CIA-val szemben, Nicki Parson segítségével eltűnik a térképről. De nem sokáig tart a nyugalma, már ugyan tudja, hogy ki ő, de azt nem, kik teremtették meg. Megpróbál utánajárni a múltjában rejlő titkoknak",
+  "backdropPath": "/7mHeyU0a538bgguOeF57I8ZroSk.jpg",
+  "posterPath": "/f9vK0KevGgCBElOwoX4r4vftG96.jpg",
+  "releaseDate": "2016-07-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5d89be91-11ed-40cb-90d6-1e1acab7d1c9",
+      "title": "Jason Bourne",
+      "subtitle": null,
+      "timestampString": "01:27:37",
+      "timestampInSeconds": 5257,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #105",
+        "youtubeId": "73Hk03Cs0mQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/73Hk03Cs0mQ/hqdefault.jpg",
+        "durationInMinutes": 214,
+        "releaseDate": 1471773217000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

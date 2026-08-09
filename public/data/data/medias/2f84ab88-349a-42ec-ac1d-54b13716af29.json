@@ -1,0 +1,41 @@
+{
+  "id": "2f84ab88-349a-42ec-ac1d-54b13716af29",
+  "title": "Steve-O: Demise and Rise",
+  "originalTitle": "Steve-O: Demise and Rise",
+  "overview": "",
+  "backdropPath": null,
+  "posterPath": "/hM0A7prxO50E7RMSF4NRKZGl9QG.jpg",
+  "releaseDate": "2009-05-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1893fea0-b1a1-4b8c-a2e8-5c495800cd6a",
+      "title": "Steve-O: Demise and Rise",
+      "subtitle": null,
+      "timestampString": "01:53:45",
+      "timestampInSeconds": 6825,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #47",
+        "youtubeId": "48-yuKdU7cg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/48-yuKdU7cg/hqdefault.jpg",
+        "durationInMinutes": 147,
+        "releaseDate": 1394966291000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

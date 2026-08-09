@@ -1,0 +1,45 @@
+{
+  "id": "6949a5c8-ee93-4b93-a13f-567cc4b9dee5",
+  "title": "Egy kívételes barát / A Beautiful Day in the Neighborhood",
+  "originalTitle": "A Beautiful Day in the Neighborhood",
+  "overview": "A csipkelődő újságíró, Lloyd Vogel nem épp a kedvére való feladatot kap, a közismert műsorvezetőt, Fred Rogers-t kell meginterjúvolnia. Fred évtizedeken át a gyerekek kedvenceként jelent meg a képernyőn, rendszeresen szórakoztatta a legkisebbeket jellegzetes piros pulóverében. Érzései ellenére Lloyd kénytelen belátni, hogy egy publicistának néha felül kell kerekednie saját önfejűségén. A két férfi beszélgetése nem az eredeti elképzelés szerint alakul, valószínűleg egyikük élete sem lesz már a régi. Azt azonban senki sem tudhatja, hogy jobb vagy rosszabb irányba terelődik-e a sorsuk.",
+  "backdropPath": "/cSJMk9Jar8SibFXL8JAF9p2fhKu.jpg",
+  "posterPath": "/oW02oSXRGcM1AQ3RVg7LZnHfyf8.jpg",
+  "releaseDate": "2019-09-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c99ef30a-04fa-4d91-8c70-e33294e5a0f1",
+      "title": "Egy kívételes barát / A Beautiful Day in the Neighborhood",
+      "subtitle": null,
+      "timestampString": "03:02:28",
+      "timestampInSeconds": 10948,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #185",
+        "youtubeId": "eq07jUces30",
+        "thumbnailUrl": "https://i.ytimg.com/vi/eq07jUces30/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1582698378000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

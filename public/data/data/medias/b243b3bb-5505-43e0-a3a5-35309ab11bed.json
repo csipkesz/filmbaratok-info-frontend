@@ -1,0 +1,45 @@
+{
+  "id": "b243b3bb-5505-43e0-a3a5-35309ab11bed",
+  "title": "Fortune-hadművelet: A nagy átverés",
+  "originalTitle": "Operation Fortune: Ruse de Guerre",
+  "overview": "A nemzetközi hírszerző ügynökség beszervezi Orson Fortune MI6-ügynököt, hogy megakadályozza egy új fegyvertechnológia eladását, amely a világrend megbomlásával fenyeget.",
+  "backdropPath": "/sNnPbPopZxGO3s7Hd5qcqoMyLXl.jpg",
+  "posterPath": "/u2WvouPFFjdYQUtLShPuztDWBy4.jpg",
+  "releaseDate": "2023-01-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "07427331-c337-46c7-9f63-df468229af0a",
+      "title": "Fortune-hadművelet: A nagy átverés",
+      "subtitle": null,
+      "timestampString": "01:18:00",
+      "timestampInSeconds": 4680,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #248",
+        "youtubeId": "VCD8rEWrtzs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VCD8rEWrtzs/hqdefault.jpg",
+        "durationInMinutes": 221,
+        "releaseDate": 1674626980000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

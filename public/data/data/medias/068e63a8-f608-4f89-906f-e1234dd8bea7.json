@@ -1,0 +1,45 @@
+{
+  "id": "068e63a8-f608-4f89-906f-e1234dd8bea7",
+  "title": "Toy Story 5",
+  "originalTitle": "Toy Story 5",
+  "overview": "Woody, Buzz, Jessie és a banda többi tagja nehézségekbe ütközik, amikor a játékidőt érintő új fenyegetéssel kell szembenézniük: a technológiával.  (Szarka Károly)R3",
+  "backdropPath": "/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
+  "posterPath": "/2Dib7rMctmMthKo75lhs3jtvqUo.jpg",
+  "releaseDate": "2026-06-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d9191c6b-b443-494d-b82b-f0572e5339f3",
+      "title": "Toy Story 5",
+      "subtitle": null,
+      "timestampString": "01:07:45",
+      "timestampInSeconds": 4065,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #329",
+        "youtubeId": "mMxJ3JAYZY4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/mMxJ3JAYZY4/hqdefault.jpg",
+        "durationInMinutes": 212,
+        "releaseDate": 1782846925000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "b0395d3c-4a58-4534-97fe-4154fbb8709d",
+            "name": "Márk"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

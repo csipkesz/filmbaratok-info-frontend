@@ -1,0 +1,45 @@
+{
+  "id": "1c072639-22db-4433-8a90-5aad11c95bff",
+  "title": "Nosferatu [2024]",
+  "originalTitle": "Nosferatu",
+  "overview": "Robert Eggers új Nosferatu-adaptációja a megszállottság tiszta története. A történet középpontjában egy elszánt fiatal nő és a szörnyű vámpír áll, aki felemészti gondolatait, ami elképzelhetetlen borzalmakhoz vezet. Az Északi, A világítótorony és A boszorkány rendezője letért a tipikus horror útjáról, és helyette Murnau – és Herzog – klasszikusának sajátos feldolgozását választotta.",
+  "backdropPath": "/2gAStVyyv9C3BSEKhP0a1aM3Qy9.jpg",
+  "posterPath": "/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg",
+  "releaseDate": "2024-12-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "61f4cb63-831c-406a-bdd7-65c9c7eda79a",
+      "title": "Nosferatu [2024]",
+      "subtitle": null,
+      "timestampString": "01:02:55",
+      "timestampInSeconds": 3775,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #294",
+        "youtubeId": "MjMjFJlwupc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/MjMjFJlwupc/hqdefault.jpg",
+        "durationInMinutes": 207,
+        "releaseDate": 1737058478000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

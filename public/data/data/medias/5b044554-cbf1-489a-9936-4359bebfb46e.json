@@ -1,0 +1,41 @@
+{
+  "id": "5b044554-cbf1-489a-9936-4359bebfb46e",
+  "title": "Beverly Hills-i zsaru: Axel Foley",
+  "originalTitle": "Beverly Hills Cop: Axel F",
+  "overview": "Negyven évvel első felejthetetlen Beverly Hills-i ügye után a detroiti zsaru, Axel Foley visszatér specialitásához: bűnügyeket old meg, és felfordulást okoz.",
+  "backdropPath": "/rrwt0u1rW685u9bJ9ougg5HJEHC.jpg",
+  "posterPath": "/1jEoGXmAu0kZBYioD7wjZbb8RP8.jpg",
+  "releaseDate": "2024-06-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b5846d49-dd4e-4c13-96a6-4be8dc61d033",
+      "title": "Beverly Hills-i zsaru: Axel Foley",
+      "subtitle": null,
+      "timestampString": "01:57:48",
+      "timestampInSeconds": 7068,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #282",
+        "youtubeId": "gcFN31mIkUo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gcFN31mIkUo/hqdefault.jpg",
+        "durationInMinutes": 188,
+        "releaseDate": 1720893631000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

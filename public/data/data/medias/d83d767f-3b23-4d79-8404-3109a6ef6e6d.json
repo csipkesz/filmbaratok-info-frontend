@@ -1,0 +1,41 @@
+{
+  "id": "d83d767f-3b23-4d79-8404-3109a6ef6e6d",
+  "title": "A figyelők",
+  "originalTitle": "The Watchers",
+  "overview": "Te nem látod őket. Ők viszont mindent látnak. Mina (Dakota Fanning) valahol Írország nyugati részén eltéved egy hatalmas, alig feltérképezett erdőben. Az autója elromlik, nem tudja, hol van. Kis szerencse a sok balszerencse közt: talál egy vasbeton bunkert, ahol átmenetileg meghúzhatja magát. Szerencse? Élete leglidércesebb napjainak kezdete. Mert becsapódik mögötte a vasajtó. És nincs kijárat. Csak három ismeretlen, akik szintén benn ragadtak ebben a furcsa épületben. És egy hatalmas, tükrös ablak – olyan, mintha egy óriási kirakatba kerültek volna. Mert vannak valakik az ablak túloldalán, akik őket figyelik és tanulmányozzák. Nincs hova bújniuk, kíváncsi, titokzatos szemek kísérik minden mozdulatukat. És akik ennyire kíváncsiak rájuk, azok már soha többé nem akarják szabadon engedni a foglyaikat.",
+  "backdropPath": "/whnFKx0Y54Ktg6o2TiwbnQfXdZf.jpg",
+  "posterPath": "/cM6RCA6Du7OZYvPP9leGxdzXyEO.jpg",
+  "releaseDate": "2024-06-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "61f23318-2539-4e1f-8ffe-6c3248025d83",
+      "title": "A figyelők",
+      "subtitle": null,
+      "timestampString": "02:04:00",
+      "timestampInSeconds": 7440,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #281",
+        "youtubeId": "ov4eiYi-ekw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ov4eiYi-ekw/hqdefault.jpg",
+        "durationInMinutes": 248,
+        "releaseDate": 1719661725000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

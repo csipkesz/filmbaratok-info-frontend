@@ -1,0 +1,41 @@
+{
+  "id": "0e27cb87-4bda-445b-89e9-f262b9a3c266",
+  "title": "Mulholland Drive",
+  "originalTitle": "Mulholland Drive",
+  "overview": "Szép lány menekül sokkos állapotban az éjszakában egy baleset helyszínéről, a Los Angeles feletti hírhedt Mulholland Drive-on. Másnap reggelre elcsigázottan surran be egy elegáns lakásba. Megérkezik szerencsét próbálni Betty, a vidéki színésznő-jelölt, akinek nagynénje kiadta a lakást. Betty felfedezi az idegent, aki Ritának adja ki magát, de szívesen segít szorult helyzetén. Segít felgöngyölíteni a lány életének és a baleset előtti utolsó órák szálait. Rita és Betty számára rémálommá változik az idő minden szeglete: lehet, hogy ők nem egyszerűen azok, akinek eddig magukat hitték. A helyzet egyik kulcsa lehet Adam, a rendező, akinek a maffia nyomására kell női főszereplőt választania új filmjéhez. Ellentmondani életveszélyes...",
+  "backdropPath": "/g9ClaS5EqU0Hk8WIbMNhld0Bk6f.jpg",
+  "posterPath": "/xl3QRj6pSNuqL9OmMcHT7f3QkCI.jpg",
+  "releaseDate": "2001-06-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "457bcc09-8e93-41cc-af9b-c7442ecac9ec",
+      "title": "Mulholland Drive",
+      "subtitle": null,
+      "timestampString": "02:20:16",
+      "timestampInSeconds": 8416,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #59",
+        "youtubeId": "xa1Ymms2_9c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/xa1Ymms2_9c/hqdefault.jpg",
+        "durationInMinutes": 189,
+        "releaseDate": 1413978295000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

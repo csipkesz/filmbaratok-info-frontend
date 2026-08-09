@@ -1,0 +1,53 @@
+{
+  "id": "1414f23d-0079-46a3-b275-bfa56252c295",
+  "title": "Mi",
+  "originalTitle": "Us",
+  "overview": "Adelaide visszatér gyermekkori otthonába férjével és két gyermekükkel. Miután eltöltenek egy feszült napot a barátaikkal, Tylerékkal a tengerparton, Adelaide és a családja visszatérnek a nyaralójukba. Amikor besötétedik, észreveszik egy család sziluettjét, akik egymás kezét fogva állnak a kocsibejárójuknál, és furcsán ismerősnek tűnnek...",
+  "backdropPath": "/sC0b8iPUHfZdD8kseLiHw3N8gkp.jpg",
+  "posterPath": "/tqlQvSl5gJs5pXqOdGvI3gbVS79.jpg",
+  "releaseDate": "2019-03-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "76343032-5b88-4fe5-b211-0d720c7a2c17",
+      "title": "Mi [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "03:34:40",
+      "timestampInSeconds": 12880,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #165",
+        "youtubeId": "RSBwJungF40",
+        "thumbnailUrl": "https://i.ytimg.com/vi/RSBwJungF40/hqdefault.jpg",
+        "durationInMinutes": 274,
+        "releaseDate": 1554109205000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "c5262472-3021-44f9-a952-d8db721b220a",
+            "name": "Károly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

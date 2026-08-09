@@ -1,0 +1,45 @@
+{
+  "id": "a8083ebe-b672-46ed-a0b4-a61abe0463b2",
+  "title": "A beszéd",
+  "originalTitle": "Le Discours",
+  "overview": "A 35 éves Adrien éppen halálra unja magát a családi vacsorán: ma este is minden ugyanúgy történik, ahogy a megelőző ezer alkalommal. Unalma váratlanul pánikba fordul át, amikor leendő sógora felkéri, hogy tartson beszédet közelgő esküvőjükön. Adrien nincs olyan állapotban, hogy esküvői beszédet tartson. Barátnője nemrég szakított vele, őt pedig csak az érdekli, hogy visszaszerezze.",
+  "backdropPath": "/w3sqSIZDQLthCPpOCkcN5CkLRYM.jpg",
+  "posterPath": "/eVmMOVKYau6HmoF5AEUabePDNmU.jpg",
+  "releaseDate": "2020-09-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "56064b33-420f-43b1-86ee-dc3c1627a9ce",
+      "title": "A beszéd",
+      "subtitle": null,
+      "timestampString": "02:56:44",
+      "timestampInSeconds": 10604,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #192",
+        "youtubeId": "U-r1xMhFqug",
+        "thumbnailUrl": "https://i.ytimg.com/vi/U-r1xMhFqug/hqdefault.jpg",
+        "durationInMinutes": 257,
+        "releaseDate": 1593098527000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

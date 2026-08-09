@@ -1,0 +1,45 @@
+{
+  "id": "7bdc045b-b05b-4b1e-a129-b68b8ae34af3",
+  "title": "Megalopolis",
+  "originalTitle": "Megalopolis",
+  "overview": "A Megalopolisz jövőképében Új Róma városának fényűző, hatalmas felhőkarcolói között komoly ellentétek feszülnek. Az ambiciózus és vizionárius építész, Cesar Catilina progresszív gondolkodásával szemben áll Franklyn Cicero polgármester hatalmi beágyazottsága és kapzsiságtól hajtott játszmái. A kettejük közötti konfliktust tovább hevíti Cesar kapcsolata a polgármester lányával, Juliával, aki számára a tét nemcsak a város jövője, hanem szerelme és családja is.",
+  "backdropPath": "/1DHbZ1XRvdeXbD2P7W1OJbxqN9b.jpg",
+  "posterPath": "/pH5BFEYuzaqPlezx4h1c8bLuAVW.jpg",
+  "releaseDate": "2024-09-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c407cec9-e82c-4bb0-ba1a-733b68c2210a",
+      "title": "Megalopolis",
+      "subtitle": null,
+      "timestampString": "03:06:16",
+      "timestampInSeconds": 11176,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #288",
+        "youtubeId": "y8PRwmbTmMM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/y8PRwmbTmMM/hqdefault.jpg",
+        "durationInMinutes": 241,
+        "releaseDate": 1729192342000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "e6fbcfc5-3a5a-4094-92a5-8620ac7a25db",
+  "title": "Alien: Romulus",
+  "originalTitle": "Alien: Romulus",
+  "overview": "A Weyland-Yutani cég egyik bányászplanétáján, ahol soha nem süt a nap, egy csapat fiatal bányász elhatározza, hogy ha törik, ha szakad meglépnek erről a kilátástalan, élhetetlen planétáról. Kapóra jön, hogy egy sodródó, Romulus nevű űrállomás tűnik fel a bolygó felett. A fiatalok önkényesen a létesítményre mennek, hogy az ott lévő hibernálókamrákkal eljuttassák magukat egy élhetőbb bolygóra. Arról azonban fogalmuk sem lehet, hogy a kihaltnak tűnő bázison egy idegen életforma is van, ami mindenre és mindenkire veszélyes. A kis csapat hamar szembesül vele, hogy itt még inkább a túlélésük a tét…",
+  "backdropPath": "/iYqSQaWDttQIQzsxg9xHyg0bttG.jpg",
+  "posterPath": "/5n62DVirTazDk4NvzO2uLvxeJbb.jpg",
+  "releaseDate": "2024-08-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8e5202b7-89f9-4248-9684-d5ee66996260",
+      "title": "Alien: Romulus [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "03:35:00",
+      "timestampInSeconds": 12900,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #285 (1999-es filmek)",
+        "youtubeId": "9AOI1V1MgRI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9AOI1V1MgRI/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1725038107000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

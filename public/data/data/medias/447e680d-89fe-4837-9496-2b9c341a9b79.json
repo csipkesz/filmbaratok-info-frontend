@@ -1,0 +1,49 @@
+{
+  "id": "447e680d-89fe-4837-9496-2b9c341a9b79",
+  "title": "Mátrix",
+  "originalTitle": "The Matrix",
+  "overview": "Két valóság létezik. Az egyik mindennapi életünk - a másik az, ami mögötte van. Az egyik álom. A másik a mátrix. Neo kétségbeesetten kutatja az igazságot a mátrixról. Erről a titokzatos és ismeretlen valamiről. Neo csak mendemondákból hallott - de biztos benne, hogy ez az elképzelhetetlen dolog rosszindulatú, és titokban irányítja az életét. Neo úgy véli, Morpheus, ez a legendák övezte férfi, akit a világ legveszélyesebb emberének tartanak, megmutatja neki az igazságot.",
+  "backdropPath": "/tlm8UkiQsitc8rSuIAscQDCnP8d.jpg",
+  "posterPath": "/zgJgkFJrLPWQaBtVx9OtTeMrJmo.jpg",
+  "releaseDate": "1999-03-31T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e8f83210-b0d5-4e81-b956-40b4f083b9a3",
+      "title": "Mátrix trilógia",
+      "subtitle": null,
+      "timestampString": "02:41:49",
+      "timestampInSeconds": 9709,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #78",
+        "youtubeId": "MfKijNw0U44",
+        "thumbnailUrl": "https://i.ytimg.com/vi/MfKijNw0U44/hqdefault.jpg",
+        "durationInMinutes": 236,
+        "releaseDate": 1438367365000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f7442b58-b6a4-483f-ab1a-f61c46e2fbe1",
+            "name": "Kvízmester"
+          }
+        ]
+      }
+    }
+  ]
+}

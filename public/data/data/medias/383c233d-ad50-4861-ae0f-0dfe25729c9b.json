@@ -1,0 +1,45 @@
+{
+  "id": "383c233d-ad50-4861-ae0f-0dfe25729c9b",
+  "title": "Halloween (2018)",
+  "originalTitle": "Halloween",
+  "overview": "Laurie Strode visszatér, hogy még egyszer utoljára szembeszálljon Michael Myersszel, az álarcos alakkal, aki azóta kísérti, amióta éppen hogy sikerült elmenekülnie előle egy halloweeni mészárláskor, négy évtizeddel ezelőtt.",
+  "backdropPath": "/8VjIXC2x8SHwAO52rfFpejKL4wc.jpg",
+  "posterPath": "/meHHvZwDzE1r7bOcq2Wtglv9UFz.jpg",
+  "releaseDate": "2018-10-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0b61eaad-c5ec-42a7-94a3-42fa63dae76b",
+      "title": "Halloween (2018)",
+      "subtitle": null,
+      "timestampString": "02:07:03",
+      "timestampInSeconds": 7623,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #156",
+        "youtubeId": "cklwRxW_tOo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/cklwRxW_tOo/hqdefault.jpg",
+        "durationInMinutes": 258,
+        "releaseDate": 1543425795000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

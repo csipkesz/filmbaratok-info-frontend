@@ -1,0 +1,41 @@
+{
+  "id": "926c5134-6df8-4996-93ef-7a8bda76cee3",
+  "title": "Shop Stop 2",
+  "originalTitle": "Clerks II",
+  "overview": "Dante és Randal már harmincas éveikben járnak, és még mindig a New Jersey-beli élelmiszerbolt és videotéka alkalmazottai. Körülbelül még egy percig, ugyanis a film elején lángokba borul az épület. Új munkahelyük a Mooby's gyorsétterem, melynek színvonalát jelzi, hogy tehénbőgésre nyílik az ajtó, és a desszert-specialitást tehénlepénynek hívják. Ám úgy tűnik, hogy Dante mégis megütötte a főnyereményt, gyönyörű barátnője van, akivel Floridába készül költözni, ahol a lány szüleitől ajándékba kapott ház és új állás várja. De vajon Emma-e a tökéletes nő számára vagy Becky, a gyorsétterem bájos vezetője? Randal nem örül a változásnak, ám felülemelkedik bánatán, és egy emlékezetes, állati jó búcsúpartival kedveskedik barátjának.",
+  "backdropPath": "/9qaTlXgurqg85Ya5AW4Ab8RixqD.jpg",
+  "posterPath": "/56QgTDwKsln4OuIpDbZ5QHiSK7J.jpg",
+  "releaseDate": "2006-07-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1683b4c5-53b2-47ae-bae6-7ca1fac74302",
+      "title": "Shop Stop 1-2",
+      "subtitle": null,
+      "timestampString": "01:06:31",
+      "timestampInSeconds": 3991,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #35",
+        "youtubeId": "iZP3HzNbpJk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/iZP3HzNbpJk/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1378351959000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

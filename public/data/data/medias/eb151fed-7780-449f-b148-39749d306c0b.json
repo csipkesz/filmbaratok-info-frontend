@@ -1,0 +1,45 @@
+{
+  "id": "eb151fed-7780-449f-b148-39749d306c0b",
+  "title": "Legendás állatok: Dumbledore titkai",
+  "originalTitle": "Fantastic Beasts: The Secrets of Dumbledore",
+  "overview": "Albus Dumbledore egykori tanítványa segítségét kéri, hogy meghiúsítsa Grindelwald varázslóvilág feletti irányítás átvételére irányuló terveit. Göthe beleegyezik, hogy egy varázslókból, boszorkányokból és a bátor mugli pékből álló csapatot, egy veszélyes küldetésre vezesse, ahol régi és új vadállatokkal találkoznak, és összecsapnak Grindelwald követőinek egyre növekvő légiójával.",
+  "backdropPath": "/zGLHX92Gk96O1DJvLil7ObJTbaL.jpg",
+  "posterPath": "/gBBHCJ3rYhS9zPkvSdEmifVS4Aq.jpg",
+  "releaseDate": "2022-04-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "62ed8a99-3894-4d56-a94d-0836d5507685",
+      "title": "Legendás állatok: Dumbledore titkai",
+      "subtitle": null,
+      "timestampString": "01:27:30",
+      "timestampInSeconds": 5250,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #232",
+        "youtubeId": "9TzGQXyouWk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9TzGQXyouWk/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1651670332000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

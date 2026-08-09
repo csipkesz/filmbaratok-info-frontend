@@ -1,0 +1,41 @@
+{
+  "id": "8ac2436f-060b-4cd3-ae2e-76adab5bb206",
+  "title": "Álmaid hőse",
+  "originalTitle": "Dream Scenario",
+  "overview": "Te mit tennél, ha hirtelen mindenki felismerne az utcán? Ez történik a biológiaprofesszor Paullal, aki eddig meglehetősen szürke családi életet élt. Úgy érezte, karrierje zsákutcába került, és folyamatosan frusztrálták a kollégái sikerei. A hírnév most mégis utoléri, de nem a végre-valahára megírt könyvének, hanem annak köszönhetően, hogy Paul egyre több ember álmában tűnik fel. Olyanok is vele álmodnak, akikkel korábban sohasem találkozott. Az eleinte bosszantó, majd egyre imponálóbb helyzetből pokoli tortúra lesz, amikor Paul a rémálmok lidércévé változik, és a rajongói ellene fordulnak.",
+  "backdropPath": "/2WRe1y5S1jGWTKUcSPPmD1Ixq56.jpg",
+  "posterPath": "/gkwv2NMaBmGcTOVGipYShWqsEuu.jpg",
+  "releaseDate": "2023-11-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "70e4a3f1-5362-4961-aaf5-ad3bf1df873d",
+      "title": "Álmaid hőse",
+      "subtitle": null,
+      "timestampString": "01:30:16",
+      "timestampInSeconds": 5416,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #271",
+        "youtubeId": "vCypCwFTSIU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/vCypCwFTSIU/hqdefault.jpg",
+        "durationInMinutes": 227,
+        "releaseDate": 1706733909000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          }
+        ]
+      }
+    }
+  ]
+}

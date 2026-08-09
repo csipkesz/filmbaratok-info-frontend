@@ -1,0 +1,41 @@
+{
+  "id": "a51b6d6d-e0be-4878-a60d-81b404189cf3",
+  "title": "Until dawn",
+  "originalTitle": "Until Dawn",
+  "overview": "Egy véget nem érő rémálom – vagy ha véget ér, akkor csak kezdődik újra. Clover és barátai egy kietlen völgybe merészkednek, de nem csak városnézők. Egyáltalán nem. Egy évvel ezelőtt Clover húga, Melanie nyomtalanul eltűnt ezen a helyen. A csoportot még mindig kísérti az eltűnése, képtelenek elfogadni a múltat, válaszokat keresnek. De hamarosan a túlélés lesz az egyetlen céljuk. Amikor leszáll az éjszaka, egy elszigetelt turistaházban keresnek menedéket, csakhogy egy álarcos gyilkos vadászik rájuk, aki egyenként lemészárolja őket. Nincs menekvés. Mindegyikük szörnyű sorsra jut... Amíg fel nem ébrednek, és újra csapdába nem esnek ugyanabban az éjszakában. De ezúttal minden megváltozott. A gyilkos módszerei megváltoztak. A brutalitás fokozódik. Az őrület egyre mélyül. Nem kell sok idő, hogy rájöjjenek a szörnyű igazságra: az esélyeik fogytán vannak. És hajnalra csak egyikük juthat ki élve.",
+  "backdropPath": "/3xKJ0nyUTlySmMBCpOcsuSnFPI1.jpg",
+  "posterPath": "/fpVWBUhobRnjmqMsSGKFQxrDiK5.jpg",
+  "releaseDate": "2025-04-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "bce4bf69-f7f1-4377-8a0a-7ad0c6caae13",
+      "title": "Until dawn",
+      "subtitle": null,
+      "timestampString": "01:53:30",
+      "timestampInSeconds": 6810,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #303",
+        "youtubeId": "4E-63IAlyvU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/4E-63IAlyvU/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1748626806000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "4cfaccb4-8e2e-4bf8-81c4-18a6e12cb7c0",
+            "name": "Ódor Kristóf"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

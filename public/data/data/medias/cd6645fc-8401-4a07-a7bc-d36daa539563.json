@@ -1,0 +1,41 @@
+{
+  "id": "cd6645fc-8401-4a07-a7bc-d36daa539563",
+  "title": "The Two Escobars",
+  "originalTitle": "The Two Escobars",
+  "overview": "",
+  "backdropPath": "/9JzpVcqBlJouPyIvnQz0kdDnAPC.jpg",
+  "posterPath": "/qYnslGb1D0JgYLQYiwPqQ2ojQDv.jpg",
+  "releaseDate": "2010-06-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "184e105a-99a1-4cb1-bfee-bc376d257024",
+      "title": "The Two Escobars",
+      "subtitle": null,
+      "timestampString": "02:09:40",
+      "timestampInSeconds": 7780,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #84",
+        "youtubeId": "s9vFywEHs8Y",
+        "thumbnailUrl": "https://i.ytimg.com/vi/s9vFywEHs8Y/hqdefault.jpg",
+        "durationInMinutes": 172,
+        "releaseDate": 1445961315000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

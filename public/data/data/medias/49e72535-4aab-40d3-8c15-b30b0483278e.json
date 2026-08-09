@@ -1,0 +1,28 @@
+{
+  "id": "49e72535-4aab-40d3-8c15-b30b0483278e",
+  "title": "The amazing Bulk",
+  "originalTitle": "The Amazing Bulk",
+  "overview": "",
+  "backdropPath": "/6gXEchOPnTARjMREp6WJPIp9ECF.jpg",
+  "posterPath": "/mClp6KhHY42iDQIC5Spha8ozbvr.jpg",
+  "releaseDate": "2012-04-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fce90e26-c3c0-46fb-9afe-9b5a1a6831ff",
+      "title": "The amazing Bulk",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "AUDIO_COMMENTARY",
+        "title": "Filmbarátok Audiokommentár: The amazing Bulk",
+        "youtubeId": "kAMhJbYph4c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/kAMhJbYph4c/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1631376035000,
+        "participants": []
+      }
+    }
+  ]
+}

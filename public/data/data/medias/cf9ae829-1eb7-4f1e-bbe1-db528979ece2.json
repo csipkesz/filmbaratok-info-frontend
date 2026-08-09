@@ -1,0 +1,45 @@
+{
+  "id": "cf9ae829-1eb7-4f1e-bbe1-db528979ece2",
+  "title": "Járvány [1987]",
+  "originalTitle": "Epidemic",
+  "overview": "A Járvány főszereplői maguk az alkotók Lars von Trier és Niels Vorsel, akik sem nevüket, sem foglalkozásukat nem változtatták meg a filmben. A történet elején a rendezőnek és a forgatókönyvírónak A zsaru és a kurva címmel forgatókönyvet kell írnia. Miután a kézirat egy számítógép hiba miatt eltűnik, már csak öt napjuk van, hogy megírjanak egy kétszáz oldalas forgatókönyvet. Úgy döntenek, hogy rövidebbre fogják az új történetet, aminek Járvány lesz címe. Ez a \"belső\" film egy fiatal, idealista orvosról szól, aki megpróbálja felvenni a harcot egy egész Európát fenyegető járvánnyal. Mindeközben az alkotóknak sejtésük sincsen róla, hogy éppen körülöttük van egy járvány kialakulóban.",
+  "backdropPath": "/dLiEN68i1HgTf2voTzPAtsI1P1m.jpg",
+  "posterPath": "/egw9S9F850OmwKPTf38gNTDoOww.jpg",
+  "releaseDate": "1987-09-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1a1c49fd-7c8f-4f30-96a9-0ecc98bc673c",
+      "title": "Járvány [1987]",
+      "subtitle": null,
+      "timestampString": "03:01:08",
+      "timestampInSeconds": 10868,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #310",
+        "youtubeId": "snN5b4JzNgw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/snN5b4JzNgw/hqdefault.jpg",
+        "durationInMinutes": 230,
+        "releaseDate": 1758218455000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "b0395d3c-4a58-4534-97fe-4154fbb8709d",
+            "name": "Márk"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

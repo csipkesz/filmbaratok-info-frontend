@@ -1,0 +1,41 @@
+{
+  "id": "18b54ebc-27a2-44ca-a6a6-7d2f58cca3db",
+  "title": "Best Worst Movie",
+  "originalTitle": "Best Worst Movie",
+  "overview": "A dokumentumfilm bepillantást enged a Troll 2 (1990) című film készítésébe és kulisszái mögé, valamint részesei lehetünk, amint \"minden idők legrosszabb filmjéből\" dédelgetett kultuszfilmmé válik.",
+  "backdropPath": "/kyIMvZQiHqZpzcw5jSI2AIti6zI.jpg",
+  "posterPath": "/4LQ6kdvVJW9y0B9O4qDTsazNzER.jpg",
+  "releaseDate": "2009-03-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2084b931-367b-4357-85e7-5682fbcfed88",
+      "title": "Best Worst Movie",
+      "subtitle": null,
+      "timestampString": "01:48:55",
+      "timestampInSeconds": 6535,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #59",
+        "youtubeId": "xa1Ymms2_9c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/xa1Ymms2_9c/hqdefault.jpg",
+        "durationInMinutes": 189,
+        "releaseDate": 1413978295000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "69edb7e5-844a-48ea-bf91-c0041359365b",
+  "title": "A csapda / Követés",
+  "originalTitle": "Following",
+  "overview": "Bill, egy fiatal angol író, aki Londonban követi az embereket, s folyton kiválaszt valakit, mert szereti megfigyelni a viselkedésüket. Egy napon azonban Bill lebukik, ugyanis egy fickó észreveszi és kérdőre vonja. Végül pedig úgy alakul, hogy belerángatja Bill-t több betörésbe is, de szinte semmit sem tulajdonítanak el, csak az izgalomért csinálják. Bill így aztán észre sem veszi, hogy szépen lassan egy olyan szövevényes ügybe keveredik, amelyre legrosszabb rémálmaiban sem számított…",
+  "backdropPath": "/yf5I5VHllK4h5VdbxHfQ40RBTe8.jpg",
+  "posterPath": "/gtzwdeEPRhAo9DQ9NjRzU5XWQ3k.jpg",
+  "releaseDate": "1999-04-02T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f65cafa8-6976-4a6e-ab6b-1905a8aa809e",
+      "title": "A csapda / Követés",
+      "subtitle": null,
+      "timestampString": "03:11:49",
+      "timestampInSeconds": 11509,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #67",
+        "youtubeId": "FATQkJjmAQg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/FATQkJjmAQg/hqdefault.jpg",
+        "durationInMinutes": 206,
+        "releaseDate": 1424108444000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "a5ce04d7-bc57-4ac2-a53d-ae31b3d6a408",
+  "title": "Woodstock 99 dokumentumfilm",
+  "originalTitle": null,
+  "overview": null,
+  "backdropPath": null,
+  "posterPath": null,
+  "releaseDate": null,
+  "topics": [
+    {
+      "id": "b00084e1-2dd8-4501-930a-5b3c2a9144d5",
+      "title": "Woodstock 99 dokumentumfilm",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Woodstock 99 dokumentumfilm",
+        "youtubeId": "z41steiy_5U",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z41steiy_5U/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1629817223000,
+        "participants": []
+      }
+    }
+  ]
+}

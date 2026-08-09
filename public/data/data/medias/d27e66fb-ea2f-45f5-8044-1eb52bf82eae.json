@@ -1,0 +1,45 @@
+{
+  "id": "d27e66fb-ea2f-45f5-8044-1eb52bf82eae",
+  "title": "Kinek a háza?",
+  "originalTitle": "His House",
+  "overview": "Egy fiatal pár maga mögött hagyja a háború dúlta Dél-Szudánt, és Angliában keres menedéket és új kezdetet, ám otthonukat sötét erő forgatja fel.",
+  "backdropPath": "/bNZB25TQxt0jEVgJOJ09tD2es7k.jpg",
+  "posterPath": "/zdWjTbKndtxonKYldVo9rDUAJBa.jpg",
+  "releaseDate": "2020-01-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e2996fe7-b91a-4bc2-909c-32ec64845e32",
+      "title": "Kinek a háza?",
+      "subtitle": null,
+      "timestampString": "01:40:00",
+      "timestampInSeconds": 6000,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #223",
+        "youtubeId": "uKeMDPapOJE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uKeMDPapOJE/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1639837304000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "fdd261cd-e975-41f3-961c-0e00e19216db",
+  "title": "Galaxy Quest",
+  "originalTitle": "Galaxy Quest",
+  "overview": "A terem zsúfolásig tele űrhajósokkal és űrlényekkel. Mindenki a Protector űrhajó elszánt legénységét várja a színpadra. Talán egy csillagközi űrtalálkozón vagyunk? Nem. A színfalak mögött a már rég nem futó, de rajongóik körében még mindig hihetetlenül népszerű Galaxy Quest tévésorozat elfásult szereplői várják, hogy elmondhassák szokott szövegüket, és dedikálják fényképeiket, majd felvegyék gázsijukat, amiből a következő konferenciáig kihúzzák valahogy. Ám ma a jelmezes rajongók közt van néhány fura figura is. Ûrlényeknek öltöztek, és kétségbeesetten kérik Taggart kapitányt, hogy mentse meg népüket a gonosz Sarristól... És a haknizó csepűrágók életébe kis változatosságot hoz a másnap...",
+  "backdropPath": "/yzQ0mkz1OUJKtUK1NWp53jiGcaJ.jpg",
+  "posterPath": "/rlUDgQhsTihh1tqzZdBFZbKo6nn.jpg",
+  "releaseDate": "1999-12-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a44110e7-8f0a-4df6-b721-a9ab5beda010",
+      "title": "Galaxy Quest",
+      "subtitle": null,
+      "timestampString": "04:09:59",
+      "timestampInSeconds": 14999,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #227",
+        "youtubeId": "aLZRPLtke70",
+        "thumbnailUrl": "https://i.ytimg.com/vi/aLZRPLtke70/hqdefault.jpg",
+        "durationInMinutes": 275,
+        "releaseDate": 1645191276000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

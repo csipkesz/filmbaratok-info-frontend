@@ -1,0 +1,45 @@
+{
+  "id": "0e863932-a39d-4afe-9c7b-6ce95ed71e1b",
+  "title": "Az alkotó",
+  "originalTitle": "The Creator",
+  "overview": "Az emberi faj és a mesterséges intelligencia erői közötti háború közepette a tapasztalt ex-különleges ügynök, Joshua - aki a felesége eltűnése miatt is őrlődik - azt a feladatot kapja, hogy felkutassa és megölje az Alkotót, a fejlett mesterséges intelligencia megfoghatatlan építészét, aki kifejlesztett egy rejtélyes fegyvert, amely képes véget vetni a háborúnak - és magának az emberiségnek is.",
+  "backdropPath": "/kjQBrc00fB2RjHZB3PGR4w9ibpz.jpg",
+  "posterPath": "/5nG96Dvoyv4PkoAhft1bseYOxtP.jpg",
+  "releaseDate": "2023-09-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d5c71480-5360-4dfc-b34c-98fd527e34c4",
+      "title": "Az alkotó",
+      "subtitle": null,
+      "timestampString": "00:26:10",
+      "timestampInSeconds": 1570,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #265",
+        "youtubeId": "W7K_jzS7pPg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/W7K_jzS7pPg/hqdefault.jpg",
+        "durationInMinutes": 254,
+        "releaseDate": 1698781502000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "4bc4c659-171a-417e-9819-965e9d34135e",
+  "title": "Fekete pont",
+  "originalTitle": "Fekete pont",
+  "overview": "Szimler Bálint első nagyjátékfilmje személyes élményekből szőtt, iskolai közegben játszódó történet, melynek főhősei egy alsós diákfiú és egy tanárnő.",
+  "backdropPath": "/otYaFP7WKuzgaFFtqNrBnXbJYsd.jpg",
+  "posterPath": "/A3BaQ0Adb0RmttV1VkQ3LZvVdje.jpg",
+  "releaseDate": "2024-09-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "78074d44-66d3-489e-bd5e-f8c45569d3cd",
+      "title": "Fekete pont",
+      "subtitle": null,
+      "timestampString": "01:33:25",
+      "timestampInSeconds": 5605,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #288",
+        "youtubeId": "y8PRwmbTmMM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/y8PRwmbTmMM/hqdefault.jpg",
+        "durationInMinutes": 241,
+        "releaseDate": 1729192342000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

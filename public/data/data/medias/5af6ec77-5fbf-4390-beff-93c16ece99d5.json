@@ -1,0 +1,45 @@
+{
+  "id": "5af6ec77-5fbf-4390-beff-93c16ece99d5",
+  "title": "A szurdok",
+  "originalTitle": "The Gorge",
+  "overview": "Két tapasztalt ügynök egymásra talál, miután egy titokzatos szurdok két szélére helyezik őket. Amikor a gonosz feltör a mélyből, összefognak, hogy túléljék az ismeretlent.",
+  "backdropPath": "/9nhjGaFLKtddDPtPaX5EmKqsWdH.jpg",
+  "posterPath": "/4v7EOTO8S8uFHmMoxiBa836Y0LT.jpg",
+  "releaseDate": "2025-02-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4e91eb9d-ecf5-4d03-a173-62f6c202a328",
+      "title": "A szurdok",
+      "subtitle": null,
+      "timestampString": "01:48:20",
+      "timestampInSeconds": 6500,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #298",
+        "youtubeId": "3I1VL7x6j0A",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3I1VL7x6j0A/hqdefault.jpg",
+        "durationInMinutes": 195,
+        "releaseDate": 1742031565000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

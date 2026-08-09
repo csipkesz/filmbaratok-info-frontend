@@ -1,0 +1,41 @@
+{
+  "id": "279cd458-48ba-4f3b-901a-681112d5a66b",
+  "title": "Betolakodók",
+  "originalTitle": "Intruders",
+  "overview": "Két különböző országban él az a két gyermek, akiket minden éjjel meglátogat egy arctalan betolakodó, amely mindkettőjüket hatalmába akarja keríteni. A szülők először látomásokra és besurranó tolvajokra gyanakodnak, de mikor felismerik a valódi veszélyt, ki-ki a maga módján próbál szembeszállni a természetfelettivel.",
+  "backdropPath": "/5xkUNp36OqJLm7ERfVIEinZrxQW.jpg",
+  "posterPath": "/RrBCqoCHqgYMIm9JcFyfO3LFeo.jpg",
+  "releaseDate": "2011-09-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "42b26d56-9641-4870-9859-43aeff6f4716",
+      "title": "Betolakodók",
+      "subtitle": null,
+      "timestampString": "00:48:31",
+      "timestampInSeconds": 2911,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #46 (Oscar 2014)",
+        "youtubeId": "BjIg8Ny1Bfg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/BjIg8Ny1Bfg/hqdefault.jpg",
+        "durationInMinutes": 145,
+        "releaseDate": 1393580650000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

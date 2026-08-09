@@ -1,0 +1,41 @@
+{
+  "id": "66c49c5d-57b9-4da1-a743-90430daf5878",
+  "title": "Mission: Impossible – Utóhatás",
+  "originalTitle": "Mission: Impossible - Fallout",
+  "overview": "Amikor Ethan Hunt eltökéli, hogy végrehajtja az eredeti megbízatást, a CIA megkérdőjelezi hűségét és indítékait. Az IMF csapata az idővel versenyez, miközben bérgyilkosoktól üldözve próbálnak megakadályozni egy világméretű katasztrófát.",
+  "backdropPath": "/3IzR3VhZAyhxVnuRRUHFLkfK4hT.jpg",
+  "posterPath": "/mPWqVA8jPv4rL4l9Ut1wxdum3YE.jpg",
+  "releaseDate": "2018-07-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "71118fc8-103b-4971-ac18-2f92ca9fd5ef",
+      "title": "Mission: Impossible – Utóhatás",
+      "subtitle": null,
+      "timestampString": "00:44:45",
+      "timestampInSeconds": 2685,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #149",
+        "youtubeId": "VBEVVw6KCTg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VBEVVw6KCTg/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1534514845000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

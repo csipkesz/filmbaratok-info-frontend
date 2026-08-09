@@ -1,0 +1,41 @@
+{
+  "id": "60441ba7-45fd-465f-bb5d-4a002d3c8587",
+  "title": "Ádám almái",
+  "originalTitle": "Adams æbler",
+  "overview": "Az újnáci Adamot 12 hét közmunkára ítélik. A büntetést a jólelkű pap, Iván közösségében kell letöltenie. A csupa furcsa alakból álló társaság kíváncsian tekint a jövevényre, akinek célja felforgató jellegű - a paplak kertjének büszkeségét, az almafát veszi célba, almatortát akar sütni. Ám hiába Ádám eltökéltsége, az almafa termése ki van téve a madarak és a kukacok támadásainak, ráadásul villám is sújtja. Ivan úgy véli, az ördög packázik velük, Adam szerint mindez Isten műve, hiszen a gonosz talán nem is létezik.",
+  "backdropPath": "/iVnsOj0MtVE1lzfillNAPqCdhpR.jpg",
+  "posterPath": "/lBQYQwhWXUf6JkXQbvRg790SkS9.jpg",
+  "releaseDate": "2005-04-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "18d2bc3f-df84-4c56-806e-d0a7d30b2d1e",
+      "title": "Ádám almái",
+      "subtitle": null,
+      "timestampString": "02:29:23",
+      "timestampInSeconds": 8963,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #321",
+        "youtubeId": "ASzT3k0iUdk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ASzT3k0iUdk/hqdefault.jpg",
+        "durationInMinutes": 176,
+        "releaseDate": 1772128964000,
+        "participants": [
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          }
+        ]
+      }
+    }
+  ]
+}

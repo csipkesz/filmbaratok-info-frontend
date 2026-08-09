@@ -1,0 +1,45 @@
+{
+  "id": "f00688b3-f46c-4cd2-a4e2-fbc7752d6993",
+  "title": "Sing Street",
+  "originalTitle": "Sing Street",
+  "overview": "Dublin, 1985. A Lalor család ifjú tagja egy tinédzser zenekart alapít, hogy elnyerje egy lány szerelmét és elmeneküljön a családi problémák elől. A botcsinálta banda egyre jobbá válik és a srácok mind érzékletesebben fejezik ki öltözetükkel és zenéjükkel a serdülőkor dühét és lázadását. A zenekaron és a szerelmespár humoros-romantikus kapcsolatán keresztül pedig kibontakozik a nyolcvanas évek Írországának kulturális közege és a fiatal generáció jövőképe, illetve annak hiánya.",
+  "backdropPath": "/zArKQrtZRb4lqjYXepBMLdegiDz.jpg",
+  "posterPath": "/sUWpVlrvzU2SJbnVZqIeKulPKwk.jpg",
+  "releaseDate": "2016-03-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "42f6dc67-869f-447b-962d-7d122611ee54",
+      "title": "Sing Street",
+      "subtitle": null,
+      "timestampString": "02:44:48",
+      "timestampInSeconds": 9888,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #107",
+        "youtubeId": "nil8BrN67hQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nil8BrN67hQ/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1475265113000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "68c6a379-c539-4074-948b-8d7e3b919c0b",
+            "name": "Emese"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

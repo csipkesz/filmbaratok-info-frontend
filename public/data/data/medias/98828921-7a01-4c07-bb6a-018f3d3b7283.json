@@ -1,0 +1,45 @@
+{
+  "id": "98828921-7a01-4c07-bb6a-018f3d3b7283",
+  "title": "A bébiszitter - A kárhozottak királynője",
+  "originalTitle": "The Babysitter: Killer Queen",
+  "overview": "Két évvel azután, hogy Cole túlélte találkozását a sátánista szektával, amit a bébicsősze, Bee vezetett, itt az újabb rémálom: a középiskola. De amikor régi ellenségei váratlanul visszatérnek, Cole-nak újra túl kell járnia a gonosz erők eszén.",
+  "backdropPath": "/qDV3sQRhqyXflUfH6gOTGkPXTaV.jpg",
+  "posterPath": "/3BcHEwfCJQpkUQEdCnTP3pzSbLQ.jpg",
+  "releaseDate": "2020-09-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4aaebb06-ffd3-4046-9c2f-d32077b99d43",
+      "title": "A bébiszitter - A kárhozottak királynője",
+      "subtitle": null,
+      "timestampString": "01:11:11",
+      "timestampInSeconds": 4271,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #198",
+        "youtubeId": "A61oXuDlUgE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/A61oXuDlUgE/hqdefault.jpg",
+        "durationInMinutes": 168,
+        "releaseDate": 1601560074000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

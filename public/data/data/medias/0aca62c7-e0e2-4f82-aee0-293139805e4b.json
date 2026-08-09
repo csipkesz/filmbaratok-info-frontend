@@ -1,0 +1,45 @@
+{
+  "id": "0aca62c7-e0e2-4f82-aee0-293139805e4b",
+  "title": "Sly",
+  "originalTitle": "Sly",
+  "overview": "A film iránti rajongása a zűrös gyermekkorból való meneküléssel indult. Sylvester Stallone az esélytelenségből hollywoodi legendává vált. A dokumentumfilmben elmeséli a történetét.",
+  "backdropPath": "/eca3tlO1vtnua8LUK70ISDMYcwF.jpg",
+  "posterPath": "/1utWajLPvv1R9ZwkD98s2ZEngS.jpg",
+  "releaseDate": "2023-09-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6c4cd63e-2342-4ae3-9126-104ebd344a03",
+      "title": "Sly",
+      "subtitle": null,
+      "timestampString": "00:17:05",
+      "timestampInSeconds": 1025,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #268",
+        "youtubeId": "9TmBeKJi0og",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9TmBeKJi0og/hqdefault.jpg",
+        "durationInMinutes": 211,
+        "releaseDate": 1702918793000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

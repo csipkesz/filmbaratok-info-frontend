@@ -1,0 +1,45 @@
+{
+  "id": "8a2595ac-911b-4176-846b-3e131ddd2d4b",
+  "title": "A Wall Street pillangói",
+  "originalTitle": "Hustlers",
+  "overview": "Ramona New York egyik legmenőbb sztriptízbárjában dolgozik, ahol a Wall Street-i dúsgazdag bankárok naponta több százezer dollárt költenek el a szexi táncosokra. A táncosok megelégelik, hogy mindenki csak hasznot húz belőlük: Ramona irányításával összefognak, és az évszázad egyik legnagyobb csalását viszik véghez, amihez tehetős ügyfeleik hiszékenységét, és pénzzel teli bankkártyáját használják fel. Az üzlet beindul, a pillangók szárnyalnak, és közben dől a lé. De ahol a kapzsiság felüti a fejét, ott egyre nagyobb az esélye, hogy valaki elkövet egy apró hibát…",
+  "backdropPath": "/jTab4cf4X1dJJVS4F8UOGuesvPd.jpg",
+  "posterPath": "/2c6NjtdfMagqNjMPNnxNfzv5Ayv.jpg",
+  "releaseDate": "2019-09-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d952ba3b-3b40-47cd-8554-826f4eacdf7f",
+      "title": "A Wall Street pillangói",
+      "subtitle": null,
+      "timestampString": "01:00:00",
+      "timestampInSeconds": 3600,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #176",
+        "youtubeId": "IBv2w6mBz1s",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IBv2w6mBz1s/hqdefault.jpg",
+        "durationInMinutes": 267,
+        "releaseDate": 1570124501000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "6cc19fdd-bf42-4bb9-a33e-1801b4a039e1",
+  "title": "Önkéntesek",
+  "originalTitle": "Volunteers",
+  "overview": "A gazdag egyetemista Lawrence Bourne szenvedélyes szerencsejátékos. Amikor azonban az adóssága már 28 ezer dollárra rúg, az apja elhatározza, hogy ezennel nem húzza ki őt a bajból. Lawrence-nek így két választása marad: vagy elverik és elveszik mindenét, vagy beáll a Thaiföldre induló békemisszióba. Az utóbbit választja és két nap múlva már Bangkokban landol két újdonsült társával együtt. Feladatuk pedig, hogy egy eldugott kis falut híddal összekössenek a civilizációval, ám a hídra a kínai ópiummaffiának is szüksége van. A híd elkészül, ám egyszerre érnek oda az Egyesült Államok hadseregének bulldózerei, az ópiumcsempészek karavánja és a kommunista gerillák. Túlélik-e vajon az építők és a híd a nagy találkozást?",
+  "backdropPath": "/xuwqYwzsgwfr0mk6sBNRy6C8JpK.jpg",
+  "posterPath": "/9uONWjy59mU3CFhIIOW7yLOtCyq.jpg",
+  "releaseDate": "1985-08-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "70820179-26ac-4c7a-9f4d-a5dba6179bcd",
+      "title": "Önkéntesek",
+      "subtitle": null,
+      "timestampString": "04:02:08",
+      "timestampInSeconds": 14528,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #220",
+        "youtubeId": "V6uGh9dBdAw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/V6uGh9dBdAw/hqdefault.jpg",
+        "durationInMinutes": 284,
+        "releaseDate": 1634383916000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

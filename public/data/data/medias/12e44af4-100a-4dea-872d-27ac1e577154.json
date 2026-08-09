@@ -1,0 +1,41 @@
+{
+  "id": "12e44af4-100a-4dea-872d-27ac1e577154",
+  "title": "Rent-a-Pal",
+  "originalTitle": "Rent-A-Pal",
+  "overview": "David (Brian Landis), a magányos agglegény megelégeli idősödő anyja (Kathleen Brady) gondozását, s próbál menekülni az egyre lehetetlenebbé váló helyzetből. Miközben video társkereső szolgáltatással keres partnert, ráakad egy Rent-A-Pal című VHS kazettára. A szalagon keresztül különös kapcsolatot alakít ki egy Andy (Wil Wheaton) nevű férfival. Andy barátsága azonban nem várt költségekkel jár, s David kétségbeesetten küzd, hogy megfizethesse a belépőt.",
+  "backdropPath": "/aDyHYVjMzc5YdX0hM27lLnerjjE.jpg",
+  "posterPath": "/wFaO4uc8po7uNCTSdvbqduMTyuu.jpg",
+  "releaseDate": "2020-10-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2a4fb7c1-4a14-460a-b84a-e4e2849eddbb",
+      "title": "Rent-a-Pal",
+      "subtitle": null,
+      "timestampString": "02:09:28",
+      "timestampInSeconds": 7768,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #320",
+        "youtubeId": "JOlQcUNht4E",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JOlQcUNht4E/hqdefault.jpg",
+        "durationInMinutes": 181,
+        "releaseDate": 1771072699000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

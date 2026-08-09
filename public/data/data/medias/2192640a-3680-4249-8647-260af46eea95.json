@@ -1,0 +1,45 @@
+{
+  "id": "2192640a-3680-4249-8647-260af46eea95",
+  "title": "Fyre",
+  "originalTitle": "Fyre",
+  "overview": "A Fyre fesztiválra mindenki nagyon rákészült, mint a világ legexkluzívabb bulijára, ám buli nem lett, csak hatalmas botrány. A dokumentumfilm exkluzív felvételekkel jár utána, hogy mi is történt pontosan.",
+  "backdropPath": "/5i2prsAzznXWGSmhkr9yMh5tnmO.jpg",
+  "posterPath": "/yFsP0BAJhAH3RTXCAnGvI1CtaUb.jpg",
+  "releaseDate": "2019-01-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7bfd9f52-9dc7-4f7a-8d2d-f41a714b0241",
+      "title": "Fyre",
+      "subtitle": null,
+      "timestampString": "01:58:40",
+      "timestampInSeconds": 7120,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #162",
+        "youtubeId": "Pm_3kToMJek",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Pm_3kToMJek/hqdefault.jpg",
+        "durationInMinutes": 231,
+        "releaseDate": 1550070901000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

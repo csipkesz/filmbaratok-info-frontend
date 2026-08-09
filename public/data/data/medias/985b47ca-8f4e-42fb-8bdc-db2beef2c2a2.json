@@ -1,0 +1,45 @@
+{
+  "id": "985b47ca-8f4e-42fb-8bdc-db2beef2c2a2",
+  "title": "The First Purge",
+  "originalTitle": "The First Purge",
+  "overview": "Minden hagyomány mögött egy forradalom nyugszik. Üdvözlünk a mozgalomban, mely egy egyszerű kísérletnek indult: Az első Irtásban. Hogy a bűnözési rátát egy százalék alá csökkenthessék, az Alapítók szociológia elképzelésre alapozva meghirdették az Irtást, mely egyetlen éjszakára szabad utat adott az agressziónak. Azonban amikor az elnyomók erőszakossága találkozik az elnyomottak dühével, a kísérlet túllép a város keretein, és a nemzet egészére kiterjed.",
+  "backdropPath": "/r4clWIxKeWoqrHspQP0XunuUmB7.jpg",
+  "posterPath": "/sWBh6UeZhfPMnsNuLPB3GGSRABl.jpg",
+  "releaseDate": "2018-07-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1a3c1424-403e-4a83-ae13-45d225272633",
+      "title": "The First Purge",
+      "subtitle": null,
+      "timestampString": "01:56:53",
+      "timestampInSeconds": 7013,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #152",
+        "youtubeId": "1ER_tqoHZVM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/1ER_tqoHZVM/hqdefault.jpg",
+        "durationInMinutes": 208,
+        "releaseDate": 1537972086000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

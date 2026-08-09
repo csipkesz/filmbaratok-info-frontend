@@ -1,0 +1,41 @@
+{
+  "id": "ab33516e-ca7a-46a3-9e25-38603e547ae0",
+  "title": "Az első ómen",
+  "originalTitle": "The First Omen",
+  "overview": "Egy fiatal amerikai nőt Rómába küldenek, hogy az egyház szolgálatának szentelje életét. Ott azonban olyan sötétséggel találkozik, ami kétségeket ébreszt tulajdon hitében, s egy borzongató összeesküvésre is fényt derít, aminek célja, hogy biztosítsa a megtestesült gonosz világra jövetelét.",
+  "backdropPath": "/mIBG74mhGEJnBubhYLkCtvplcNr.jpg",
+  "posterPath": "/gki7uSG5F8Dy05wwAVnBMSZYPQT.jpg",
+  "releaseDate": "2024-04-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "116a2c99-90c0-43d1-8361-ee3d4b693195",
+      "title": "Az első ómen",
+      "subtitle": null,
+      "timestampString": "02:33:08",
+      "timestampInSeconds": 9188,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #277",
+        "youtubeId": "VVHLdlqq_xY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VVHLdlqq_xY/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1714501831000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

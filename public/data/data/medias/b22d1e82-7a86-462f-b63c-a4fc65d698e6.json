@@ -1,0 +1,45 @@
+{
+  "id": "b22d1e82-7a86-462f-b63c-a4fc65d698e6",
+  "title": "A halhatatlan gárda / The old guard",
+  "originalTitle": "The Old Guard",
+  "overview": "Négy halhatatlan harcos, akik évszázadok óta titokban védik az emberiséget. Hirtelen veszélybe kerülnek a képességeik miatt, amikor új halhatatlant fedeznek fel.",
+  "backdropPath": "/m0ObOaJBerZ3Unc74l471ar8Iiy.jpg",
+  "posterPath": "/fWDP0ngpkrtgw3l5sMJmAJ1noNx.jpg",
+  "releaseDate": "2020-07-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6f0c44b5-df24-403d-bf33-b54c33a03e2b",
+      "title": "A halhatatlan gárda / The old guard",
+      "subtitle": null,
+      "timestampString": "01:23:50",
+      "timestampInSeconds": 5030,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #194",
+        "youtubeId": "2m4_RXJX-Pw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/2m4_RXJX-Pw/hqdefault.jpg",
+        "durationInMinutes": 236,
+        "releaseDate": 1596041624000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "a9106f7e-c8f8-4ed6-8a88-4a42b5e0f8b9",
+            "name": "Anna"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

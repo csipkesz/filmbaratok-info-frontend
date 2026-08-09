@@ -1,0 +1,41 @@
+{
+  "id": "0003d66d-5f96-42ce-80e2-588127f67770",
+  "title": "A Manderley-ház asszonya",
+  "originalTitle": "Rebecca",
+  "overview": "",
+  "backdropPath": "/46p36NyMO6f25YtSqSYiwz4mKbW.jpg",
+  "posterPath": "/2WyBx0Ya0Hww99yxIcYtGGQ6Izi.jpg",
+  "releaseDate": "1940-03-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d176b4fd-1043-4eed-9af9-602d0e6a4f79",
+      "title": "A Manderley-ház asszonya",
+      "subtitle": null,
+      "timestampString": "01:53:20",
+      "timestampInSeconds": 6800,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #121",
+        "youtubeId": "-73qLSZm328",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-73qLSZm328/hqdefault.jpg",
+        "durationInMinutes": 130,
+        "releaseDate": 1494559801000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

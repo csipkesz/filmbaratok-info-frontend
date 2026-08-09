@@ -1,0 +1,45 @@
+{
+  "id": "fcce5a9a-bc92-425d-9745-22da9b632c79",
+  "title": "Mustang",
+  "originalTitle": "Mustang",
+  "overview": "Öt lánytestvér egy török faluban él nagybátyjukkal és nagyanyjukkal. A kamaszlányok felhőtlen boldogságban vágnak neki a nyári szünetnek, de a bigott török közeg a legkisebb kilengést sem tűri: az egyik szomszédasszony jelenti a lányok erkölcseire vigyázó nagymamának, hogy azok együtt fürödtek a tengerben a falubeli fiúkkal. A nyári vakáció a lányok számára nem azt a szabadságot hozza, amire számítottak, éppen ellenkezőleg, nevelőik egyre drasztikusabb módszerekkel próbálják betörni őket és megakadályozni, hogy az ezeréves tradíciók ellenében viselkedjenek. Az öt lány öt különböző választ ad az elnyomásra.",
+  "backdropPath": "/e26lUsaE9Ni7MmdhaVHVNbuzVyo.jpg",
+  "posterPath": "/vmjjJCsGSuLoF4G6UGDirjOipsN.jpg",
+  "releaseDate": "2015-06-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3ad99361-8013-4359-8cf8-f4db630bd441",
+      "title": "Mustang",
+      "subtitle": null,
+      "timestampString": "03:30:30",
+      "timestampInSeconds": 12630,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #91",
+        "youtubeId": "G-6KMqIQhQQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/G-6KMqIQhQQ/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1454001243000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

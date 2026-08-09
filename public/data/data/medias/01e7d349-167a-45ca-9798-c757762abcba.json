@@ -1,0 +1,45 @@
+{
+  "id": "01e7d349-167a-45ca-9798-c757762abcba",
+  "title": "Szeplőtlen",
+  "originalTitle": "Immaculate",
+  "overview": "Cecilia, a mélyen hívő amerikai apáca (Sydney Sweeney) egy messze eső zárdába érkezik Olaszország festői vidékére. Szívélyes fogadtatását követően azonban egyre inkább úgy érzi, rémálomba csöppent; hamarosan világossá válik számára, hogy új otthona baljós titkokat őriz és kimondhatatlan borzalmaknak ad helyet.",
+  "backdropPath": "/oC198kEoJIctNCxtFYBzydKULmN.jpg",
+  "posterPath": "/oiYAJWdNzG80dUlR9b2gg03vWz2.jpg",
+  "releaseDate": "2024-03-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a3a5a5bf-15d3-44a0-82b6-1b220389fa1a",
+      "title": "Szeplőtlen",
+      "subtitle": null,
+      "timestampString": "02:11:05",
+      "timestampInSeconds": 7865,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #276",
+        "youtubeId": "ozdxgj2AwCk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ozdxgj2AwCk/hqdefault.jpg",
+        "durationInMinutes": 248,
+        "releaseDate": 1713292727000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

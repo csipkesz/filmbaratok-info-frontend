@@ -1,0 +1,41 @@
+{
+  "id": "6d5d0faf-07f2-48d6-8472-b68037f922c6",
+  "title": "Jay és Néma Bob Reboot",
+  "originalTitle": "Jay and Silent Bob Reboot",
+  "overview": "Jay és Néma Bob Hollywoodba utazik, hogy megakadályozzák a Bluntman és Chronic film rebootjának elkészülését.",
+  "backdropPath": "/z7U3MXCHsnIBiYOMXnXZSiapmyc.jpg",
+  "posterPath": "/1WHO8nDPi0gHiLrxY6FVgNp4AnM.jpg",
+  "releaseDate": "2019-10-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "be64b4b5-4766-4bac-850c-3097b211996f",
+      "title": "Jay és Néma Bob Reboot",
+      "subtitle": null,
+      "timestampString": "02:20:56",
+      "timestampInSeconds": 8456,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #195",
+        "youtubeId": "ub7UnLmmwMA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ub7UnLmmwMA/hqdefault.jpg",
+        "durationInMinutes": 217,
+        "releaseDate": 1597415274000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

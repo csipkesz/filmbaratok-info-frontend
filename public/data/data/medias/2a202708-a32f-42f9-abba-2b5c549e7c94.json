@@ -1,0 +1,45 @@
+{
+  "id": "2a202708-a32f-42f9-abba-2b5c549e7c94",
+  "title": "A nevem Dolemite",
+  "originalTitle": "Dolemite Is My Name",
+  "overview": "Az Oscar-díjas Eddie Murphy főszereplésével a film az élő legendának, Rudy Ray Moore-nak állít portét. A komikus rapper minden negatív hangot megcáfolt, amikor vicces, helyenként obszcén, kung-fus alteregója, Dolemite a 70-es évek Blaxploitation fenoménjává vált.",
+  "backdropPath": "/2ycAZWELqHygeqivCLuqNQsYPSP.jpg",
+  "posterPath": "/pSTzexZCYi7UtCofHdw3FIDSj2n.jpg",
+  "releaseDate": "2019-10-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "17e9474b-5b65-4d8c-8d71-4151f8d49a77",
+      "title": "A nevem Dolemite",
+      "subtitle": null,
+      "timestampString": "01:19:38",
+      "timestampInSeconds": 4778,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #178",
+        "youtubeId": "9GYtmUHS9Wg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9GYtmUHS9Wg/hqdefault.jpg",
+        "durationInMinutes": 253,
+        "releaseDate": 1573139236000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

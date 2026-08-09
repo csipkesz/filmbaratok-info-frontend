@@ -1,0 +1,41 @@
+{
+  "id": "689f3a5d-c1cb-4273-90e0-a328e7ff4399",
+  "title": "Rosszfiúk 2",
+  "originalTitle": "The Bad Guys 2",
+  "overview": "Mindenki kedvenc bűnözői visszatértek, és ezúttal társaságot kaptak. Az állatbűnözőkből álló, őrült csapat tagjai keményen próbálkoznak, hogy jók legyenek, de ehelyett egy nagy tétekkel teli, világkörüli rablásba keverednek, amelyet egy új, lányokból álló bűnözői csapat tervez.",
+  "backdropPath": "/jvpkBenB6hv19WWYVlaiow8zklq.jpg",
+  "posterPath": "/c0vuuCfz2Jd3nEOdPSntayOT0Gu.jpg",
+  "releaseDate": "2025-07-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2b916d13-5792-48d2-8f4a-8a78903f1b7d",
+      "title": "Rosszfiúk 2",
+      "subtitle": null,
+      "timestampString": "01:08:50",
+      "timestampInSeconds": 4130,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #308",
+        "youtubeId": "JX8Yhmv3ho0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JX8Yhmv3ho0/hqdefault.jpg",
+        "durationInMinutes": 210,
+        "releaseDate": 1755468901000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

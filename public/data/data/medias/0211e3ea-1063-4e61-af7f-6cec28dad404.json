@@ -1,0 +1,45 @@
+{
+  "id": "0211e3ea-1063-4e61-af7f-6cec28dad404",
+  "title": "Motor City",
+  "originalTitle": "Motor City",
+  "overview": "Egy 1970-es évekbeli Detroitban játszódó történetben egy munkásosztálybeli férfit, Johnt egy kegyetlen gengszter csapdába csal és börtönbe juttat, miután beleszeretett a férfi barátnőjébe. Évekkel később szabadul, és egyetlen cél vezérli: bosszút állni azon, aki tönkretette az életét, és visszaszerezni azt, amit elveszített.",
+  "backdropPath": "/l7asYmqOad01F2u0oCMM8nQjoEP.jpg",
+  "posterPath": "/lGovcOtxugJPhfJjFKud9EbWtOA.jpg",
+  "releaseDate": "2026-07-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a0873010-658f-46a5-bfb8-9d9d3a0341db",
+      "title": "Motor City",
+      "subtitle": null,
+      "timestampString": "01:46:16",
+      "timestampInSeconds": 6376,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #331",
+        "youtubeId": "cygAIMZOaYA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/cygAIMZOaYA/hqdefault.jpg",
+        "durationInMinutes": 229,
+        "releaseDate": 1785534622000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

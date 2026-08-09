@@ -1,0 +1,45 @@
+{
+  "id": "e8e4129a-f756-40ff-bc27-edb020d94bc4",
+  "title": "Megaagy",
+  "originalTitle": "Megamind",
+  "overview": "Megaagy a világ a legbriliánsabb gonosztevője. És a legsikertelenebb is. Az évek során minden elképzelhető eszközzel megpróbálta meghódítani Metro Cityt, ám minden kísérlet kolosszális kudarcba fulladt a Metro Man néven ismert szuperhős miatt. Metro Man legyőzhetetlen volt, egészen addig, amíg Megaagy meg nem ölte az egyik elfuserált gonosz terve keretében.",
+  "backdropPath": "/irpJXGiVr539uuspcQcNdkhS2lq.jpg",
+  "posterPath": "/7q5G9c9KpBpLMCYllaAbCHOJrz.jpg",
+  "releaseDate": "2010-10-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "21a2f420-1a3f-4634-b241-b86879550950",
+      "title": "Megaagy",
+      "subtitle": null,
+      "timestampString": "03:44:10",
+      "timestampInSeconds": 13450,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #276",
+        "youtubeId": "ozdxgj2AwCk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ozdxgj2AwCk/hqdefault.jpg",
+        "durationInMinutes": 248,
+        "releaseDate": 1713292727000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

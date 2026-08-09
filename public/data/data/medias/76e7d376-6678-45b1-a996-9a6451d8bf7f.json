@@ -1,0 +1,45 @@
+{
+  "id": "76e7d376-6678-45b1-a996-9a6451d8bf7f",
+  "title": "Under the Sun",
+  "originalTitle": "Under the Sun",
+  "overview": "",
+  "backdropPath": null,
+  "posterPath": null,
+  "releaseDate": "1989-05-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ec0ba81b-da40-4393-bf18-f7ee52ed31e1",
+      "title": "Under the Sun",
+      "subtitle": null,
+      "timestampString": "02:49:07",
+      "timestampInSeconds": 10147,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #125",
+        "youtubeId": "4TEl2okYMLY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/4TEl2okYMLY/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1500394983000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ff248333-0d00-40bd-af3c-6049f0a070c6",
+            "name": "Szöllőskei Gábor"
+          }
+        ]
+      }
+    }
+  ]
+}

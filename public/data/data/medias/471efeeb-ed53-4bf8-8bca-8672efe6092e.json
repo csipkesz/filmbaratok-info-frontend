@@ -1,0 +1,45 @@
+{
+  "id": "471efeeb-ed53-4bf8-8bca-8672efe6092e",
+  "title": "A kedvenc",
+  "originalTitle": "The Favourite",
+  "overview": "A 18. század eleje. Anglia háborúban áll a franciákkal. Ettől függetlenül a kacsafuttatás és az ananászfogyasztás virágzik. A törékeny Anna királynő foglalja el a trónt, nevében közeli barátja, Lady Sarah Malborough kormányozza az országot, s közben el is látja a betegeskedő uralkodót. Mikor egy új szolgáló, Abigail megérkezik az udvarba, bája és talpraesettsége révén Lady Sarah hamar szárnyai alá veszi – Abigail pedig csak az alkalmat keresi, hogy visszatérhessen arisztokrata életéhez. Ahogy a politika és a háború egyre inkább lefoglalja Sarah-t, Abigail szép lassan elfoglalja a helyét Anna mellett. Szárba szökkent barátsága a királynővel lehetőséget kínál számára, hogy megvalósítsa célját, és ebben se nő, se férfi, se politika, se nyúl nem gátolhatja meg.",
+  "backdropPath": "/iSskYDN193CJfTbSpFfscSwZ9Sx.jpg",
+  "posterPath": "/FJEPA5CpsdI0OTnZdGwITfiSHS.jpg",
+  "releaseDate": "2018-11-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "45931881-c335-41c0-9b44-c67658168f27",
+      "title": "A kedvenc",
+      "subtitle": null,
+      "timestampString": "01:25:10",
+      "timestampInSeconds": 5110,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #162",
+        "youtubeId": "Pm_3kToMJek",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Pm_3kToMJek/hqdefault.jpg",
+        "durationInMinutes": 231,
+        "releaseDate": 1550070901000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

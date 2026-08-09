@@ -1,0 +1,41 @@
+{
+  "id": "4fbd7dba-4395-4915-816a-b2a8e9e18ff9",
+  "title": "Starred Up",
+  "originalTitle": "Starred Up",
+  "overview": "Eric 19 évesen már nem menekülhet meg attól, hogy erőszakos cselekedei miatt a felnőtteknek kijáró bánásmódban részesítsék, börtönbe zárják. A rács mögött találkozik újra apjával, Neville-lel, akit már 5 éves kora óta nem látott, mióta állami nevelőintézetbe került. Az apja, aki látja, hogy fiát is hasonló természettel áldotta meg a sors, mint őt, szeretne segíteni Ericen.",
+  "backdropPath": "/blHv4GsQr5zD9fP8mWph01RfzG4.jpg",
+  "posterPath": "/cy0A9BUQoL7daCBVFRyyWecoeyu.jpg",
+  "releaseDate": "2014-03-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c7d0563a-81dd-47d9-ae79-aeeaef843920",
+      "title": "Starred Up",
+      "subtitle": null,
+      "timestampString": "01:56:55",
+      "timestampInSeconds": 7015,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #71",
+        "youtubeId": "K9mj59Uot1I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/K9mj59Uot1I/hqdefault.jpg",
+        "durationInMinutes": 176,
+        "releaseDate": 1428520974000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

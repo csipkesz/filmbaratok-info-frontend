@@ -1,0 +1,75 @@
+{
+  "id": "e5232c6c-a48c-42cd-b2dd-dedc16799160",
+  "title": "Időről időre",
+  "originalTitle": "About Time",
+  "overview": "21 éves korában Tim Lake rájön, hogy képes az időutazásra...  Egy újabb gyászos szilveszteri buli után Tim apja közli a fiával, hogy a család férfitagjai mindig is képesek voltak utazni az időben. Tim nem írhatja át a történelmet, de változtathat azon, ami a saját életében történt és történni fog. Így hát úgy dönt, jobbá teszi a világot... azzal, hogy szerez egy barátnőt. Sajnos kiderül, hogy ez nem is olyan könnyű, mint hinnénk.",
+  "backdropPath": "/einbto9qLXFx9QXxEHylaxDbKPx.jpg",
+  "posterPath": "/r2EChswmN039Yjozt3Vvq1uPgwY.jpg",
+  "releaseDate": "2013-09-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "321307d1-86b3-4ab9-ac05-9320e9f00993",
+      "title": "Időről időre",
+      "subtitle": null,
+      "timestampString": "02:21:11",
+      "timestampInSeconds": 8471,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #66",
+        "youtubeId": "E4v-47u65NI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E4v-47u65NI/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1422556505000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7e1a6e0f-7960-468f-94b3-606b951281dc",
+      "title": "Időről időre",
+      "subtitle": null,
+      "timestampString": "01:29:00",
+      "timestampInSeconds": 5340,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #43",
+        "youtubeId": "WupIquHhCt0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/WupIquHhCt0/hqdefault.jpg",
+        "durationInMinutes": 164,
+        "releaseDate": 1389645501000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

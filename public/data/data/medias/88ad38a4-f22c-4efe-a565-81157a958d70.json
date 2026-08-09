@@ -1,0 +1,45 @@
+{
+  "id": "88ad38a4-f22c-4efe-a565-81157a958d70",
+  "title": "Spiritwalker",
+  "originalTitle": "유체이탈자",
+  "overview": "Egy fantasy-akciófilm, amelynek középpontjában egy férfi áll, aki elveszíti az emlékezetét, majd tizenkét óránként új testben tér magához.",
+  "backdropPath": "/9GVaQMfv8uhIKWQdDUxP02intKW.jpg",
+  "posterPath": "/jsJluzrVEkQBYYkTNj3FQJ0LkAM.jpg",
+  "releaseDate": "2021-10-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7f0b4272-0db4-4580-8ab1-7a164436ef90",
+      "title": "Spiritwalker",
+      "subtitle": null,
+      "timestampString": "02:11:00",
+      "timestampInSeconds": 7860,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #245",
+        "youtubeId": "thnBmMbVpOo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/thnBmMbVpOo/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1671033623000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

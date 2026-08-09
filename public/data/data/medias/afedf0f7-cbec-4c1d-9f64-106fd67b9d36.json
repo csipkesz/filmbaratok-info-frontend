@@ -1,0 +1,41 @@
+{
+  "id": "afedf0f7-cbec-4c1d-9f64-106fd67b9d36",
+  "title": "Firkák",
+  "originalTitle": "Sketch",
+  "overview": "Amikor egy fiatal lány vázlatfüzete egy különös tóba esik, rajzai életre kelnek – kiszámíthatatlanul, kaotikusan és veszélyesen valóságosan. Miközben a város felbolydul, a lány és a bátyjának fel kell kutatniuk a lényeket, mert azok maradandó károkat okoznak. Apjuk versenyt fut az idővel, hogy ebben a felfordulásban megtalálja őket és megállítsák a katasztrófát, amit soha nem akartak előidézni.",
+  "backdropPath": "/3htgvJ6d0GV633oHYueeISk8J7w.jpg",
+  "posterPath": "/oES8m1d6yE7TuBA1fMN2Q6dX66s.jpg",
+  "releaseDate": "2025-07-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a19b0393-2530-4b6f-8236-6baadd1ba9f2",
+      "title": "Firkák",
+      "subtitle": null,
+      "timestampString": "01:53:40",
+      "timestampInSeconds": 6820,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #312",
+        "youtubeId": "D9M4DcSbjik",
+        "thumbnailUrl": "https://i.ytimg.com/vi/D9M4DcSbjik/hqdefault.jpg",
+        "durationInMinutes": 187,
+        "releaseDate": 1760711928000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "678e1e64-e3ba-4743-917a-c6c02ed11931",
+            "name": "Krisztián"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

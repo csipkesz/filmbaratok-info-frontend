@@ -1,0 +1,71 @@
+{
+  "id": "43bb337a-b124-4690-b082-cf877b6b796e",
+  "title": "Blackfish",
+  "originalTitle": "Blackfish",
+  "overview": "A Blackfish című dokumentumfilm egy akváriumban dolgozó nő halálát járja körbe. A negyven éves nővel 2010-ben végzett egy gyilkos bálna, akinek az idomárja volt.",
+  "backdropPath": "/tCW0uGWwfZzRkupNFdI0yUo4A0w.jpg",
+  "posterPath": "/g4n4hFXTRKYqUqm3Je599BGbcRC.jpg",
+  "releaseDate": "2013-06-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4850daac-9c87-491b-bb42-d2cd6f30e809",
+      "title": "Blackfish",
+      "subtitle": null,
+      "timestampString": "02:07:33",
+      "timestampInSeconds": 7653,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #50",
+        "youtubeId": "3fU-zjKUKtc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3fU-zjKUKtc/hqdefault.jpg",
+        "durationInMinutes": 195,
+        "releaseDate": 1399567403000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8e6667a0-d3f9-4766-9cbb-93c7450ec272",
+      "title": "Blackfish",
+      "subtitle": null,
+      "timestampString": "01:08:54",
+      "timestampInSeconds": 4134,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #44",
+        "youtubeId": "_NwJoO7yxrE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_NwJoO7yxrE/hqdefault.jpg",
+        "durationInMinutes": 137,
+        "releaseDate": 1391206083000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "e7676d5d-5dca-44ea-badd-a85e01368ba0",
+            "name": "Émi"
+          }
+        ]
+      }
+    }
+  ]
+}

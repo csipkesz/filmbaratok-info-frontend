@@ -1,0 +1,45 @@
+{
+  "id": "5a0ce80f-a729-4fad-9087-bb7157580bab",
+  "title": "Nevem: Thomas",
+  "originalTitle": "Il mio nome è Thomas",
+  "overview": "Thomas csak egy kis nyugalomra vágyik, ezért fogja a Harley-át, és nekivág a spanyol vidéknek. Ám útközben összetalálkozik egy bajban lévő fiatal lánnyal, és a találkozás mindkettejük életét megváltoztatja.",
+  "backdropPath": "/iO2tUBjXUsz5o4mPtfYgl9i3VJf.jpg",
+  "posterPath": "/msnJAHngDjhLtghWnvku61kpf1p.jpg",
+  "releaseDate": "2018-04-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a9616b1b-884f-42b4-91e7-bd57a4a3203f",
+      "title": "Nevem: Thomas",
+      "subtitle": null,
+      "timestampString": "01:19:00",
+      "timestampInSeconds": 4740,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #152",
+        "youtubeId": "1ER_tqoHZVM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/1ER_tqoHZVM/hqdefault.jpg",
+        "durationInMinutes": 208,
+        "releaseDate": 1537972086000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

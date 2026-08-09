@@ -1,0 +1,79 @@
+{
+  "id": "4c4465a1-86d8-49cd-9799-9a6b233d9c14",
+  "title": "Haverok fegyverben",
+  "originalTitle": "War Dogs",
+  "overview": "Ne légy szerény! Ez az üzleti világ alapszabálya. Efraim Diveroli és David Packouz ugyan semmit sem tud, sem szabályokról, sem az üzleti világról. Lepukkant kis szobában élnek Miamiban és napjuk nagy részét különféle füvek szívásával töltik. Amikor meghökkentő módon az ölükbe pottyan a szerencse, nem mondanak nemet: hamarosan aláírnak egy háromszáz millió dolláros szerződést a Védelmi Minisztériummal. Vállalják, hogy fegyvert és muníciót szállítanak Afganisztánba az USA szövetségeseinek. Nem csináltak még ilyet soha, ennyi pénzről még csak álmodni sem mertek, de igent mondanak és igyekeznek a lehető legtöbbet kihozni a helyzetből. Ezzel elképesztő bonyodalmakba keverik magukat. Orosz fegyverkereskedők, albán gengszterek, washingtoni politikusok és egy svájci külkereskedő keringenek körülöttük. Miami Beachtől az iraki-afgán határig ver hullámokat ez a szélhámosság.",
+  "backdropPath": "/oNoprEND25zXR6Fns8cIZUkuoMc.jpg",
+  "posterPath": "/3AiFSy3lbcxxhzShaLzHF3SLotd.jpg",
+  "releaseDate": "2016-08-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "80e366cf-fb87-4165-93e8-1791523c1ecb",
+      "title": "Haverok fegyverben",
+      "subtitle": null,
+      "timestampString": "01:09:15",
+      "timestampInSeconds": 4155,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #134",
+        "youtubeId": "gB5CFdGY70M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gB5CFdGY70M/hqdefault.jpg",
+        "durationInMinutes": 218,
+        "releaseDate": 1513874512000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bbac3f55-6a4c-4474-b9eb-257ff8bf46a9",
+      "title": "Haverok fegyverben",
+      "subtitle": null,
+      "timestampString": "02:23:00",
+      "timestampInSeconds": 8580,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #105",
+        "youtubeId": "73Hk03Cs0mQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/73Hk03Cs0mQ/hqdefault.jpg",
+        "durationInMinutes": 214,
+        "releaseDate": 1471773217000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

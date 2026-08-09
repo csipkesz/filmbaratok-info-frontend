@@ -1,0 +1,45 @@
+{
+  "id": "47bf4f38-01d4-4190-84e2-e1e54f462abb",
+  "title": "A látogatás [Speak no evil]",
+  "originalTitle": "Speak No Evil",
+  "overview": "A dán házaspár nyaral Olaszországban, Toszkánában.  Hamarosan megismerkednek egy holland házaspárral és kisfiukkal, Abellel, aki nyelv nélkül született. Amikor hazatérnek, meghívást kapnak a holland házaspártól, hogy töltsenek velük egy hétvégét vidéki házukban. Autóval utaznak, és két nap múlva Louise kényelmetlenül érzi magát a holland házaspár által teremtett furcsa helyzetekben, és ráveszi férjét, hogy az éjszaka közepén térjenek haza. Lányok azonban ottfelejti a játékát, ezért visszatérnek a házba, hogy visszaszerezzék azt. Patrick és Karin bocsánatot kérnek a helytelen viselkedésükért, Bjørn és Louise pedig úgy dönt, hogy a nyaralás hátralévő részét ott töltik. Az éjszaka folyamán azonban Bjørn szaglászik, és sötét titkokat fedez fel a házban, majd Louise-nak azt mondja, hogy azonnal elmennek, de nem árulja el neki, mit talált.",
+  "backdropPath": "/lHhRU3jEnju4pKibOeYOgxaEw2y.jpg",
+  "posterPath": "/lXSTUW2Rq6rxhNPDplipAOYDgfn.jpg",
+  "releaseDate": "2022-03-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "17f94d78-db13-416b-ba73-8add54ac2d41",
+      "title": "A látogatás [Speak no evil]",
+      "subtitle": null,
+      "timestampString": "02:02:50",
+      "timestampInSeconds": 7370,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #241",
+        "youtubeId": "wkIRMrjPzTE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wkIRMrjPzTE/hqdefault.jpg",
+        "durationInMinutes": 228,
+        "releaseDate": 1665676839000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

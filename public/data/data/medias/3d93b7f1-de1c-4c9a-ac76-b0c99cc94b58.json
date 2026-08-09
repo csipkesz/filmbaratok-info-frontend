@@ -1,0 +1,49 @@
+{
+  "id": "3d93b7f1-de1c-4c9a-ac76-b0c99cc94b58",
+  "title": "Oats Studios - Volume 1 - Zygote",
+  "originalTitle": "Zygote",
+  "overview": "A bányában rekedt túlélők kétségbeesetten próbálnak minél tovább életben maradni, és rejtekhelyre lelni valami elől, ami...",
+  "backdropPath": "/4umJhUsj8ppev0TA0J0CVJaXeO1.jpg",
+  "posterPath": "/lowSe0hdmFdtEuIA6aOVfkPjk1c.jpg",
+  "releaseDate": "2017-07-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "bdf20dc7-8386-417d-89d5-0a45d72ba19c",
+      "title": "Oats Studios - Volume 1 - Zygote",
+      "subtitle": null,
+      "timestampString": "03:15:10",
+      "timestampInSeconds": 11710,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #127",
+        "youtubeId": "XWuPbD-kRic",
+        "thumbnailUrl": "https://i.ytimg.com/vi/XWuPbD-kRic/hqdefault.jpg",
+        "durationInMinutes": 241,
+        "releaseDate": 1503602035000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ff248333-0d00-40bd-af3c-6049f0a070c6",
+            "name": "Szöllőskei Gábor"
+          }
+        ]
+      }
+    }
+  ]
+}

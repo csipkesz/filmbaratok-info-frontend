@@ -1,0 +1,41 @@
+{
+  "id": "0c74c9dd-f1f6-4a39-8c68-31c84f63627a",
+  "title": "Nauszika – A szél harcosai",
+  "originalTitle": "風の谷のナウシカ",
+  "overview": "Ezer évvel az után, hogy a Hétnapos Tűz megsemmisítette szinte az egész bolygó emberi lakosságát, a Földnek csak kis részén maradtak túlélők. A rettegett erdő, Átokfölde elborított szinte mindent, gyilkos óriásrovarok nyüzsögnek benne, s gigantikus fái halálos méregspórákat termelnek. Az emberlakta terület zsugorodik, s a megmaradt városok öldöklő háborúkat vívnak. A Szél Völgyében, melynek hercegnője a fiatal és talpraesett Nauszika, még béke uralkodik...",
+  "backdropPath": "/ulVUa2MvnJAjAeRt7h23FFJVRKH.jpg",
+  "posterPath": "/d138kV3Iy1Nck45DA0AbSuWlhQi.jpg",
+  "releaseDate": "1984-03-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d224936b-d573-40f1-85aa-09c0fc2f90f5",
+      "title": "Nauszika – A szél harcosai",
+      "subtitle": null,
+      "timestampString": "01:58:10",
+      "timestampInSeconds": 7090,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #116",
+        "youtubeId": "z6ZDT1e89XY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z6ZDT1e89XY/hqdefault.jpg",
+        "durationInMinutes": 146,
+        "releaseDate": 1487003611000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

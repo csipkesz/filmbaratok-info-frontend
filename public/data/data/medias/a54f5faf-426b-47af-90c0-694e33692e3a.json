@@ -1,0 +1,45 @@
+{
+  "id": "a54f5faf-426b-47af-90c0-694e33692e3a",
+  "title": "Nyughatatlan özvegyek",
+  "originalTitle": "Widows",
+  "overview": "Négy nő, akikben nincs semmi közös – pusztán egy dolog: az adósság, ami halott férjeik alvilági tevékenysége után maradt. Napjaink Chicagójában, egy zaklatott korban Veronica, Alice, Linda és Belle maguk kívánják alakítani sorsukat; együtt igyekeznek változtatni szorult helyzetükön és biztosítani jövőjüket, szembeszállva néhai férjeik ellenségeivel.",
+  "backdropPath": "/tkri1hMrb1FhWfb2bWpprsvq9Sd.jpg",
+  "posterPath": "/fRtZWnHvLUPnhRBR930oYy5QBqt.jpg",
+  "releaseDate": "2018-11-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "be8f5909-ccef-4203-918f-c728abd6a376",
+      "title": "Nyughatatlan özvegyek",
+      "subtitle": null,
+      "timestampString": "01:02:25",
+      "timestampInSeconds": 3745,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #156",
+        "youtubeId": "cklwRxW_tOo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/cklwRxW_tOo/hqdefault.jpg",
+        "durationInMinutes": 258,
+        "releaseDate": 1543425795000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

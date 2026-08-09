@@ -1,0 +1,41 @@
+{
+  "id": "5a58695a-b052-4114-bf43-74a60ea91b59",
+  "title": "Amerika Kapitány: A tél katonája",
+  "originalTitle": "Captain America: The Winter Soldier",
+  "overview": "Steve Rogers - aki az 1940-es évek elején vett részt az USA hadseregének titkos kísérletében - most Washingtonban éli csendes hétköznapjait és próbál alkalmazkodni a modern világ kihívásaihoz. Azonban amikor a terrorelhárítással és hírszerzéssel foglalkozó S.H.I.E.L.D egyik munkatársát megtámadják, a férfi egy olyan összeesküvés közepén találja magát, amely az egész világot fenyegeti. Újra feltűnik régi szövetségese, a Fekete Özvegy is, akivel minden erejükre szükségük lesz, hogy felderítsék a konspirációt és leküzdjék a megsemmisítésükre küldött bérgyilkosok hadát. Amikor rájönnek, hogy valójában mivel állnak szemben, felismerik, hogy további partnerekre lesz szükségük, ha győzni szeretnének. Csatlakozik hozzájuk legújabb szövetségesük, Sólyom is, azonban váratlanul egy rendkívül erős ellenféllel, a tél katonájával találják szemben magukat.",
+  "backdropPath": "/1RWLMyC9KcFfcaoViMiJGSSZzzr.jpg",
+  "posterPath": "/amcGqkrcR0KatRBJgJG4B5espk1.jpg",
+  "releaseDate": "2014-03-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "105c3310-75b0-47cb-8a84-d11c914019e4",
+      "title": "Amerika Kapitány: A tél katonája",
+      "subtitle": null,
+      "timestampString": "00:41:50",
+      "timestampInSeconds": 2510,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #49",
+        "youtubeId": "KInB1pvzVo0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/KInB1pvzVo0/hqdefault.jpg",
+        "durationInMinutes": 177,
+        "releaseDate": 1397986559000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

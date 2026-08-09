@@ -1,0 +1,41 @@
+{
+  "id": "3a0db063-663b-4f2d-b24f-a5ac532d060b",
+  "title": "Csibefutam: A csirkefalatok hajnala",
+  "originalTitle": "Chicken Run: Dawn of the Nugget",
+  "overview": "Rettenthetetlen csibék egy csoportja összefog, hogy megmentsék baromfitársaikat egy ijesztő új fenyegetéstől: egy közeli farmon gyanús dolgokat készülnek kifőzni.",
+  "backdropPath": "/utChUdMhCEWKjHTc8DO5aK8dUVS.jpg",
+  "posterPath": "/gwYJf8kBUGUwfVGC103n8vTyIdF.jpg",
+  "releaseDate": "2023-12-08T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a51a7440-7d58-41c6-88b9-c82289a64f34",
+      "title": "Csibefutam: A csirkefalatok hajnala",
+      "subtitle": null,
+      "timestampString": "02:03:35",
+      "timestampInSeconds": 7415,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #270",
+        "youtubeId": "Hk6gv0cu8TY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Hk6gv0cu8TY/hqdefault.jpg",
+        "durationInMinutes": 222,
+        "releaseDate": 1705227394000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

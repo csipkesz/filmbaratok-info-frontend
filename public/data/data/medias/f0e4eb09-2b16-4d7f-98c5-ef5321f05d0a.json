@@ -1,0 +1,45 @@
+{
+  "id": "f0e4eb09-2b16-4d7f-98c5-ef5321f05d0a",
+  "title": "Czukor Show",
+  "originalTitle": "Czukor Show",
+  "overview": "Egy fiktív országos televízió kibeszélő-showjába érkezik egy vidéki férfi és \"sleppje\". A téma: \"Ma rendbe hozom a családomat\".\r A társaságot a férfi hat éve nem látott húga hívja össze. El nem mondott érzések, ki nem beszélt fojtások mozgatják a kompániát, csak az alig felnőtt szerető látja aztán tisztán a helyzetet.\r A film két drámát mutat be egyszerre. Egy szerelmi háromszög szomorú történetét Füst Milán: Boldogtalanok című színműve alapján, illetve a \"dráma drámáját\", hogy egy családi tragédia hogyan válik árucikké és médiaeseménnyé, ha a kényelmetlen \"utó- és mellékhatásoktól\" megszabadítják a befogadót. Ehhez érkezik egy nyugat-európai befektető, hiszen a kelet-európai médiapiac csábos befektetés, gazdaságilag mindenképpen. Más meg úgysem számít.",
+  "backdropPath": null,
+  "posterPath": "/jQMV0wMCpqGeb5dl6TGBQQeofGd.jpg",
+  "releaseDate": "2010-04-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d72a036e-259f-46a2-9ce7-25799da36374",
+      "title": "Czukor Show",
+      "subtitle": null,
+      "timestampString": "03:04:50",
+      "timestampInSeconds": 11090,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #223",
+        "youtubeId": "uKeMDPapOJE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uKeMDPapOJE/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1639837304000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

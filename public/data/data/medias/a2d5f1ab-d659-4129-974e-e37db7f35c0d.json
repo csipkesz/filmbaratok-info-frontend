@@ -1,0 +1,45 @@
+{
+  "id": "a2d5f1ab-d659-4129-974e-e37db7f35c0d",
+  "title": "Csillagok között",
+  "originalTitle": "Interstellar",
+  "overview": "A nem túl távoli jövőben járunk, melyben bolygónk kezd lakhatatlanná válni. A föld alig hoz termést, rendszeresek a homokviharok, és lassan levegőt se lehet venni. Egy jelenés Coopert a NASA titkos telepére vezeti, ahol felkérik, hogy legyen a tagja annak a csapatnak, mely az emberiségnek új lakhelyet keres az univerzumban. Egy ismeretlen segítséggel megnyitott átjárón keresztül eljutnak egy galaxisba, ahol a közelben kialakult fekete lyuk miatt az idő is másképp telik. Ami nekik egy óra, az a végét járó földön éveket jelent. Alaposan meg kell hát gondolnia Coopernek, hogy a szóba jöhető bolygók közül melyikre látogat el, ha vissza akar térni a lányához, ahogy azt megígérte.",
+  "backdropPath": "/5XNQBqnBwPA9yT0jZ0p3s8bbLh0.jpg",
+  "posterPath": "/6KiSSndIMLj1swkpPNq2lYppDVQ.jpg",
+  "releaseDate": "2014-11-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7d24790a-9c16-444a-be62-9a4f4ffeb629",
+      "title": "Csillagok között (SPOILERES)",
+      "subtitle": null,
+      "timestampString": "01:34:45",
+      "timestampInSeconds": 5685,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #61",
+        "youtubeId": "lu3n5Wpq2k0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/lu3n5Wpq2k0/hqdefault.jpg",
+        "durationInMinutes": 185,
+        "releaseDate": 1415901482000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

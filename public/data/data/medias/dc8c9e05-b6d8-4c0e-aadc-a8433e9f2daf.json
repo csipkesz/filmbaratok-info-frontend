@@ -1,0 +1,45 @@
+{
+  "id": "dc8c9e05-b6d8-4c0e-aadc-a8433e9f2daf",
+  "title": "Radio Flyer - Repül a testvérem",
+  "originalTitle": "Radio Flyer",
+  "overview": "Két fiatal testvér fantasztikus tervvel áll elő, hogy meglépjen bántalmazó nevelőapjuk elől. Amikor a férfi egyre erőszakosabbá válik, a két fiú egy olyan kocsit tervez a fiatalabb testvér menekülésére, amely biztosan segít neki elrepülni.",
+  "backdropPath": "/qupyOOes39BBlCtgvH77vgGVpA1.jpg",
+  "posterPath": "/yXitftfqjPn5wL5jtt5ZnhdmSjJ.jpg",
+  "releaseDate": "1992-02-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "cd5d82ca-ab13-446d-b94c-3f97fc563351",
+      "title": "Radio Flyer - Repül a testvérem",
+      "subtitle": null,
+      "timestampString": "03:38:10",
+      "timestampInSeconds": 13090,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #255",
+        "youtubeId": "z9qYgREOM9c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z9qYgREOM9c/hqdefault.jpg",
+        "durationInMinutes": 258,
+        "releaseDate": 1685482206000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

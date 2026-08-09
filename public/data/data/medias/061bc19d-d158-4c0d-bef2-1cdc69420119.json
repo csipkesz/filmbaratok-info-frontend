@@ -1,0 +1,37 @@
+{
+  "id": "061bc19d-d158-4c0d-bef2-1cdc69420119",
+  "title": "Szörnyeteg: Az Ed Gein-sztori",
+  "originalTitle": "Monster: The Ed Gein Story",
+  "overview": "Ed Gein, a hollywoodi filmek számos ikonikus gyilkosához ihletül szolgáló hírhedt gyilkos és sírrabló életének sokkoló és igaz története.",
+  "backdropPath": "/cm2oUAPiTE1ERoYYOzzgloQw4YZ.jpg",
+  "posterPath": "/p5RoNxDElEDfNXigULRkHiwynbG.jpg",
+  "releaseDate": "2025-10-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "50987a80-18e6-4813-86c4-ca9cd0d2d348",
+      "title": "Szörnyeteg: Az Ed Gein-sztori",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Szörnyeteg: Az Ed Gein-sztori",
+        "youtubeId": "bOiyMl-8zCs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/bOiyMl-8zCs/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1763660804000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

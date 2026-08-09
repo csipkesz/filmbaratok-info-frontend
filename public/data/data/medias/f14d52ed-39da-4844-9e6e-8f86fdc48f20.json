@@ -1,0 +1,45 @@
+{
+  "id": "f14d52ed-39da-4844-9e6e-8f86fdc48f20",
+  "title": "Ítélet Nürnbergben",
+  "originalTitle": "Judgment at Nuremberg",
+  "overview": "A második világháború befejezése után megkezdődött a német háborús bűnösök felelősségre vonása. A megszállt Németországban, Nürnberg városában több per is zajlik. Ezek egyikében négy német bíró áll amerikai bíróság elé. Ezek az emberek teljes mértékben kiszolgálták a náci rendszert. Közülük egyedül Dr. Janning az, aki nem próbálja tagadni a bűnösségét. Mindezt azzal magyarázza, hogy honfitársaihoz hasonlóan ő sem figyelt fel a rémtettek előjeleire. Az ügyben Dan Haywood bíró ítélkezik. Az öreg bíró nehéz helyzetben van, a borzalmak ellenére tárgyilagosnak kell maradnia.",
+  "backdropPath": "/aSlDcWtKNfRkW0SbsnEjnGBs9jV.jpg",
+  "posterPath": "/eLYorpygdYX17Tt6kFGjMIy2Mha.jpg",
+  "releaseDate": "1961-12-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d4ed75db-35a0-4050-97ee-5f437a54c1ce",
+      "title": "Ítélet Nürnbergben",
+      "subtitle": null,
+      "timestampString": "04:08:30",
+      "timestampInSeconds": 14910,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #91",
+        "youtubeId": "G-6KMqIQhQQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/G-6KMqIQhQQ/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1454001243000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

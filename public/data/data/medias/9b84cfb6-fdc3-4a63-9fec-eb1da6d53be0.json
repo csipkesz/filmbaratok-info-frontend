@@ -1,0 +1,41 @@
+{
+  "id": "9b84cfb6-fdc3-4a63-9fec-eb1da6d53be0",
+  "title": "Liza, a rókatündér",
+  "originalTitle": "Liza, a rókatündér",
+  "overview": "Liza ápolónő és a szerelmet keresi. Egyetlen társasága egy rég meghalt japán popsztár, akit csak Liza lát. Miután minden férfi, aki Lizára vágyik bizarr körülmények között meghal, arra a következtetésre jut, hogy ő egy elátkozott rókatündér.",
+  "backdropPath": "/3pNf4EyNet3WNHRpxtQrsUlZeEf.jpg",
+  "posterPath": "/fJaE1v3c8uFbkRl46VyVS2sgP9L.jpg",
+  "releaseDate": "2015-02-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "03ae78e3-870c-44a1-8fe7-1abf35c9fbdd",
+      "title": "Liza, a rókatündér",
+      "subtitle": null,
+      "timestampString": "01:47:40",
+      "timestampInSeconds": 6460,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #70",
+        "youtubeId": "_vL1V5oablM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_vL1V5oablM/hqdefault.jpg",
+        "durationInMinutes": 182,
+        "releaseDate": 1427860093000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

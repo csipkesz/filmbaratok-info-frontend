@@ -1,0 +1,41 @@
+{
+  "id": "d3ccd42f-9856-4a96-b11b-ecb86607313b",
+  "title": "Zanox",
+  "originalTitle": "Zanox - Kockázatok és mellékhatások",
+  "overview": "A kétes eredetű házipálinkák sok fejfájást okoznak, a Zanox nevű kísérleti szerrel viszont lehetővé teszik az időutazást. Ráadásul más piákkal ellentétben nem előre, hanem a múltba. Misivel is ez történik, akit a következő reggelen a másnaposság helyett ismét az érettségi vár. A szokatlan helyzettel élve Misi bátrabban kezdeményez Jankánál, akibe régóta szerelmes, megpróbál megakadályozni egy gyilkosságot, és a töri tételt is átnézi, amit húzni fog. Arra viszont nem gondol, hogy mennyi mindennek kell a helyén lennie ahhoz, hogy napját valóban a legjobbá alakítsa, miközben vészesen fogy az időutazás üzemanyaga, a házipálinka.",
+  "backdropPath": "/jEnjpMAhpDfvjZjH8onONF5tY8A.jpg",
+  "posterPath": "/db1ni4k6iW9DMSYonSYy7Ki1wMe.jpg",
+  "releaseDate": "2022-05-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4e4288c4-3315-42b6-8d71-749f6687527a",
+      "title": "Zanox",
+      "subtitle": null,
+      "timestampString": "00:36:15",
+      "timestampInSeconds": 2175,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #234",
+        "youtubeId": "IyLcC8Sig7I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IyLcC8Sig7I/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1655823277000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "13ef0b0e-6261-41bc-876d-e7c052f1456c",
+  "title": "Fall",
+  "originalTitle": "Fall",
+  "overview": "A legjobb barátok, Becky és Hunter egy 600 méter magas rádiótorony tetején találják magukat, ahonnan életveszélyes út vezet lefelé.",
+  "backdropPath": "/hT3OqvzMqCQuJsUjZnQwA5NuxgK.jpg",
+  "posterPath": "/jOOrOrb0YlmjOhPKdUgOOqSVRwA.jpg",
+  "releaseDate": "2022-08-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "aa1866f7-8b38-4566-a6d9-79d9ce2a3a3a",
+      "title": "Fall",
+      "subtitle": null,
+      "timestampString": "01:35:05",
+      "timestampInSeconds": 5705,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #240",
+        "youtubeId": "T9F8CwPjgqQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/T9F8CwPjgqQ/hqdefault.jpg",
+        "durationInMinutes": 249,
+        "releaseDate": 1664376879000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

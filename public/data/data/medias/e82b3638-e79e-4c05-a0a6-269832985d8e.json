@@ -1,0 +1,45 @@
+{
+  "id": "e82b3638-e79e-4c05-a0a6-269832985d8e",
+  "title": "One Cut of the dead",
+  "originalTitle": "カメラを止めるな！",
+  "overview": "Nagyot fordul a világ egy tehetségtelen rendezővel és csapatával, mikor zombi-filmjük forgatása közben igazi zombik támadnak rájuk.",
+  "backdropPath": "/oslUsPw3PUhDVK7a5soTvCAuaO7.jpg",
+  "posterPath": "/wFbAxK10CiJA1XxgJaEc16UeHTb.jpg",
+  "releaseDate": "2017-11-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6c364603-1685-40aa-8db7-9c5e43f8f935",
+      "title": "One Cut of the dead [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "01:13:25",
+      "timestampInSeconds": 4405,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #223",
+        "youtubeId": "uKeMDPapOJE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uKeMDPapOJE/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1639837304000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

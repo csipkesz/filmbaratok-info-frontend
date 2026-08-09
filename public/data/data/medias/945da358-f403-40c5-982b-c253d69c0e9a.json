@@ -1,0 +1,45 @@
+{
+  "id": "945da358-f403-40c5-982b-c253d69c0e9a",
+  "title": "The room / A szoba [2019]",
+  "originalTitle": "The Room",
+  "overview": "Matt és Kate új otthonukba költözik, ám rövidesen felfedeznek egy titkos szobát a házban, amely különös erővel bír, és amely úgy tűnik, teljesíti minden kívánságukat.",
+  "backdropPath": "/snbRXbkzEpc35mFDlwUg41cN8aw.jpg",
+  "posterPath": "/cofVXDelkQNDuvoBAVeKfClcYVy.jpg",
+  "releaseDate": "2019-09-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b633ce01-ffe3-455b-bbe1-e9cdd8b5b40a",
+      "title": "The room / A szoba [2019]",
+      "subtitle": null,
+      "timestampString": "01:53:46",
+      "timestampInSeconds": 6826,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #194",
+        "youtubeId": "2m4_RXJX-Pw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/2m4_RXJX-Pw/hqdefault.jpg",
+        "durationInMinutes": 236,
+        "releaseDate": 1596041624000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "a9106f7e-c8f8-4ed6-8a88-4a42b5e0f8b9",
+            "name": "Anna"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

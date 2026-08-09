@@ -1,0 +1,41 @@
+{
+  "id": "a3e9623e-fd68-46be-a2a8-b2e3a9526f80",
+  "title": "Arthur király - A kard legendája",
+  "originalTitle": "King Arthur: Legend of the Sword",
+  "overview": "Arthur egy ravasz, nagyszájú csirkefogó, aki Londonium sikátoraiban vezeti a bandjáját, és megpróbál életben maradni a riválisai ellenébe. Születése azonban titkot rejt. A férfi egészen addig nem sejt semmit, amíg rá nem talál egy különleges kardra, az Excaliburra. Arthur az Ellenállás tagjai közé keveredik, ahol megismerkedik a fiatal és titokzatos nővel, Guinevere-rel, kitanulja a kardforgatást, és miután készen áll, népével a zsarnok Vortigern ellen vonul, aki meggyilkolta szüleit, és elrabolta koronáját.",
+  "backdropPath": "/sVkjgKq8cwKm95LCyfrLldLbQIG.jpg",
+  "posterPath": "/onoqnPSfJBH5ilQMEOkETDGr8xW.jpg",
+  "releaseDate": "2017-05-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0b0ac7cb-f8cb-43a7-abd0-db122e50f849",
+      "title": "Arthur király - A kard legendája",
+      "subtitle": null,
+      "timestampString": "00:55:18",
+      "timestampInSeconds": 3318,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #122",
+        "youtubeId": "-MTE2KExAs0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-MTE2KExAs0/hqdefault.jpg",
+        "durationInMinutes": 192,
+        "releaseDate": 1495810296000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

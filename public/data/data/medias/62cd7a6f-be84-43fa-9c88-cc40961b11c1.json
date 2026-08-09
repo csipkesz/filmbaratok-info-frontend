@@ -1,0 +1,41 @@
+{
+  "id": "62cd7a6f-be84-43fa-9c88-cc40961b11c1",
+  "title": "Logan",
+  "originalTitle": "Logan",
+  "overview": "2029-et járunk, a mutánsok szétszéledtek. A megfáradt, magányos Logan a mexikói határ szélén, egy porfészekben bujkál, alkoholba fojtva bánatát. Társa a száműzetésben a csavargó Caliban, és a beteg X professzor, akinek elméjét súlyos rohamok gyötrik. Egyik nap egy titokzatos nő keresi fel Farkast. Egy különös kislánnyal érkezett, akit Logannek kellene biztonságba juttatnia. És a sokat próbált harcos elindul, hogy egy utolsó, életre-halálra szóló küldetés során beteljesítse sorsát.",
+  "backdropPath": "/4DZxWNSAyksN6N3JkvpJ53Yq6zU.jpg",
+  "posterPath": "/q1syDAa5lb7llDF4da0ZlUm74La.jpg",
+  "releaseDate": "2017-02-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "aeaa8e6b-ade0-48ab-8b89-c0f0efb18ba0",
+      "title": "Logan",
+      "subtitle": null,
+      "timestampString": "01:09:05",
+      "timestampInSeconds": 4145,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #118",
+        "youtubeId": "tsYYwq3fdTw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tsYYwq3fdTw/hqdefault.jpg",
+        "durationInMinutes": 239,
+        "releaseDate": 1490634596000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

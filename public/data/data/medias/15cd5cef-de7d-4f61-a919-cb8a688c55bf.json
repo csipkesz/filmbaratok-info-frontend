@@ -1,0 +1,45 @@
+{
+  "id": "15cd5cef-de7d-4f61-a919-cb8a688c55bf",
+  "title": "Széttörve",
+  "originalTitle": "Split",
+  "overview": "Miközben a disszociatív identitászavar mentális megosztottsága régóta lenyűgözi és próbára teszi a tudományt, él az a vélekedés is, hogy egyeseknél sajátos testi attribútumok rendelődnek minden személyiséghez, és adott esetben fizikálisan is több személyiségre oszlik az az egyetlen illető.  Noha Kevin már feltárt 23 személyiséget pszichiáterének, Dr. Fletchernek, még van egy rejtett személyisége, amely felbukkan, és dominálja a többit. Miután elrabol három tinédzser lányt, köztük az önfejű és eszes Caseyt, Kevinben kitör a harc a túlélésért a többi személyiségével - és a körülötte lévőkkel - miközben elkezdnek leomlani benne a különböző énjeit elválasztó falak.",
+  "backdropPath": "/9pkZesKMnblFfKxEhQx45YQ2kIe.jpg",
+  "posterPath": "/bBrnKpA3mL9S6IItKTTa3vqYL6z.jpg",
+  "releaseDate": "2017-01-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "19108b9e-ce05-4ef3-829f-7226329e076a",
+      "title": "Széttörve",
+      "subtitle": null,
+      "timestampString": "03:12:08",
+      "timestampInSeconds": 11528,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #115",
+        "youtubeId": "kbUqk0bddqo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/kbUqk0bddqo/hqdefault.jpg",
+        "durationInMinutes": 231,
+        "releaseDate": 1485969786000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "9b9d8775-a86d-4339-b302-1fab3d4d53a1",
+  "title": "The dawn wall",
+  "originalTitle": "The Dawn Wall",
+  "overview": "2015-ben két amerikai sziklamászó, Tommy Caldwell és Kevin Jorgeson az egész világot lenyűgözte azzal, hogy megpróbálták a lehetetlen: megmászni a Dawn Wallt, a Yosemite Nemzeti Park ikonikus sziklája, az El Capitan 910 méteres falát. A páros hetekig a kopár sziklafalon élt, az egész világ rájuk figyelt. Tommy Caldwell-nek a Dawn Wall megmászása sokkal több volt, mint egy kőkemény sportteljesítmény. Tommynak rengeteg nehézséggel kellett szembenéznie élete során. 22 évesen Kirgizisztánban mászott, amikor lázadók ejtették túszul. Nem sokkal később egy balesetben elveszített a mutatóujját, de ezután csak még elszántabban kezdett mászni. Amikor tönkrement a házassága, azzal próbálta feledtetni a fájdalmát, hogy elkezdett a Dawn Wall kötél nélküli megmászásán dolgozni. Az elszántság és a megszállottság határmezsgyéjén mozogva Caldwell és Jorgenson hat évet töltött el azzal, hogy centiméterről centiméterre megtervezte és begyakorolta az utat.",
+  "backdropPath": "/ipXrm6SEjfNkD8FKfj9VLUE9fUU.jpg",
+  "posterPath": "/6ABvyCzqfXbP1shesBdW7JR3FfC.jpg",
+  "releaseDate": "2017-11-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "847e17b6-db0a-4ac2-9fec-42673fbff2e6",
+      "title": "The dawn wall",
+      "subtitle": null,
+      "timestampString": "02:49:23",
+      "timestampInSeconds": 10163,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #265",
+        "youtubeId": "W7K_jzS7pPg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/W7K_jzS7pPg/hqdefault.jpg",
+        "durationInMinutes": 254,
+        "releaseDate": 1698781502000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

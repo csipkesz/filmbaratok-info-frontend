@@ -1,0 +1,75 @@
+{
+  "id": "8e969da9-792f-4c72-bd0a-62b87e84c714",
+  "title": "A farkas gyermekei",
+  "originalTitle": "Raised by Wolves",
+  "overview": "A világűr gyarmatosításának korai szakaszában két android feladata, hogy emberi gyerekeket neveljenek egy bolygón. Apának és Anyának komoly kihívással kell szembenéznie, amikor a kolóniát széteséssel fenyegeti egy vallási konfliktus.",
+  "backdropPath": "/na2xUduK8HviOFT97TiFG2MkJmY.jpg",
+  "posterPath": "/5nM5qJTgHZPgzfUfZPQazOJB8fA.jpg",
+  "releaseDate": "2020-09-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "47f2ed22-0fb1-4408-8574-0287d315a5f5",
+      "title": "A farkas gyermekei 2. évad",
+      "subtitle": "2. évad",
+      "timestampString": "00:31:45",
+      "timestampInSeconds": 1905,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Sorozatok (Békeharcos, A farkas gyermekei 2. évad, Holdlovag)",
+        "youtubeId": "b3LUO08pTFI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/b3LUO08pTFI/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1653110209000,
+        "participants": [
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          },
+          {
+            "id": "f9066580-796b-460b-9966-73bcbf3400a7",
+            "name": "Shirin"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c8ec4381-2305-4983-acb2-1bb10006cb3d",
+      "title": "A farkas gyermekei 1. évad [SPOILERES]",
+      "subtitle": "1. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": true,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: A farkas gyermekei 1. évad [SPOILERES]",
+        "youtubeId": "33dV3QKrFHw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/33dV3QKrFHw/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1603103916000,
+        "participants": [
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f9066580-796b-460b-9966-73bcbf3400a7",
+            "name": "Shirin"
+          }
+        ]
+      }
+    }
+  ]
+}

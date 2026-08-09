@@ -1,0 +1,45 @@
+{
+  "id": "9e57c82c-9d57-4a41-8563-37cef439131a",
+  "title": "A hihetetlenül zsugorodó ember",
+  "originalTitle": "The Incredible Shrinking Man",
+  "overview": "Egy különös sugárzás és egy rovarirtó együttes hatásának köszönhetően Scott Carey elképesztő módon zsugorodni kezd. A folyamat visszafordíthatatlannak látszik, s bár az orvosok próbálnak segíteni rajta, és felesége is mellette áll, hamarosan már pár centi magasan kell küzdenie az életben maradásért.",
+  "backdropPath": "/bd9lxQ4SgnNb6NPIph4pz5HGLpY.jpg",
+  "posterPath": "/vReYNuCJya07BWRyGHJc6LFrDBX.jpg",
+  "releaseDate": "1957-02-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "30f56d9f-e0c9-4980-b851-fa6b214dae53",
+      "title": "A hihetetlenül zsugorodó ember",
+      "subtitle": null,
+      "timestampString": "03:04:03",
+      "timestampInSeconds": 11043,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #88",
+        "youtubeId": "wEd9ZOCpPII",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wEd9ZOCpPII/hqdefault.jpg",
+        "durationInMinutes": 226,
+        "releaseDate": 1450458682000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

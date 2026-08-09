@@ -1,0 +1,41 @@
+{
+  "id": "52745512-5eaa-424e-a26f-d8ae45d81252",
+  "title": "Tyler Rake - A kimenekítés / Extraction",
+  "originalTitle": "Extraction",
+  "overview": "A harcedzett bérgyilkos legújabb küldetése a túlélésért folyó versenyfutássá válik, amikor egy drogbáró elrabolt fiát kell megmentenie Bangladesben.",
+  "backdropPath": "/1R6cvRtZgsYCkh8UFuWFN33xBP4.jpg",
+  "posterPath": "/tVyM1jnAwCZfCyy9WtGUMbawfGk.jpg",
+  "releaseDate": "2020-04-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8407367a-c6d9-4482-a39c-86c354c24a5f",
+      "title": "Tyler Rake - A kimenekítés / Extraction",
+      "subtitle": null,
+      "timestampString": "01:29:33",
+      "timestampInSeconds": 5373,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #190",
+        "youtubeId": "w7oFnCSc3u4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/w7oFnCSc3u4/hqdefault.jpg",
+        "durationInMinutes": 188,
+        "releaseDate": 1590603790000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

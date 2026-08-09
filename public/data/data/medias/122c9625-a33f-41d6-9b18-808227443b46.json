@@ -1,0 +1,45 @@
+{
+  "id": "122c9625-a33f-41d6-9b18-808227443b46",
+  "title": "Oscar (1991)",
+  "originalTitle": "Oscar",
+  "overview": "Angelo Provolone ismert és megbecsült tagja az alvilágnak. Alkohol-csempészésből igen szép vagyonra tett szert, gyönyörű házzal és csodaszép feleséggel büszkélkedhet. Egy napon haldokló apja megesketi fiát, hogy felhagy a törvényszegéssel, a bűnözéssel és jó útra tér. Csakhogy a bűnös élet nem akar szakítani vele. Sőt, minden összeesküszik ellene: felbukkan egy lány, aki Angelót apjaként tünteti fel. Megjelenik az érzékeny lelkű nyelvészprofesszor, dr. Poole, aki a nap végén, mint vőlegény távozik. A szexis szobalány a felfordulás közepén kilép, ám nem a megfelelő kofferral távozik.",
+  "backdropPath": "/6fAIKXVzkIil9NEyYuwvSivWvV9.jpg",
+  "posterPath": "/p19xue8ObelQpokf4TcgVttKUOF.jpg",
+  "releaseDate": "1991-04-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "02cf2b49-b3e2-4126-922b-6d70d5fb70c4",
+      "title": "Oscar (1991)",
+      "subtitle": null,
+      "timestampString": "02:14:04",
+      "timestampInSeconds": 8044,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #142",
+        "youtubeId": "9S7p7P1Y2po",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9S7p7P1Y2po/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1525105433000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

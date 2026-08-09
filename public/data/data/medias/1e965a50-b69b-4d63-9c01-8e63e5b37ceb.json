@@ -1,0 +1,45 @@
+{
+  "id": "1e965a50-b69b-4d63-9c01-8e63e5b37ceb",
+  "title": "Egy boltkóros naplója",
+  "originalTitle": "Confessions of a Shopaholic",
+  "overview": "A huszonöt éves Rebecca tipikus nagyvárosi szenvedélybetegségben, vásárlási kényszerben szenved. Valójában nincs gondja semmire, hiszen állása van, és a város előkelő negyedében lakik a barátnőjénél. Amikor a betegsége az anyagi csőd szélére sodorja, Rebecca az unalmasnak tartott munkáját jövedelmezőbbre cseréli, az egyik pénzügyi tanácsadó lapnál helyezkedik el. Az egyszerű, hétköznapi embereknek szóló cikkeivel gyorsan népszerű lesz. A jóképű, ambiciózus munkatársa, Luke figyelmét is felkelti. Kérdés, milyen hatással lesz mindez a lányra. Sophie Kinsella regényei nyomán.",
+  "backdropPath": "/vTMM4QXG6Jye7yffsOpz24oPNg1.jpg",
+  "posterPath": "/zj1jvyK4Kh9LvN7KmGneNNaoDyq.jpg",
+  "releaseDate": "2009-02-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a244f66e-2897-40d1-9cc3-17e726d44012",
+      "title": "Egy boltkóros naplója",
+      "subtitle": null,
+      "timestampString": "02:57:35",
+      "timestampInSeconds": 10655,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #172",
+        "youtubeId": "ahOskajDN8o",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ahOskajDN8o/hqdefault.jpg",
+        "durationInMinutes": 250,
+        "releaseDate": 1564145413000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

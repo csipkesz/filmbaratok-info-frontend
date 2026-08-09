@@ -1,0 +1,28 @@
+{
+  "id": "d332646d-ac6f-45d8-ac9f-5b42a94fbbbe",
+  "title": "Shop-Stop dokumentumfilm",
+  "originalTitle": null,
+  "overview": null,
+  "backdropPath": null,
+  "posterPath": null,
+  "releaseDate": null,
+  "topics": [
+    {
+      "id": "1dea0133-6f69-4cf7-9e1e-0c2c8127283a",
+      "title": "Shop-Stop dokumentumfilm",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Shop-Stop dokumentumfilm",
+        "youtubeId": "MI0KgwiZUKM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/MI0KgwiZUKM/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1466962120000,
+        "participants": []
+      }
+    }
+  ]
+}

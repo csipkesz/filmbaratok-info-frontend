@@ -1,0 +1,45 @@
+{
+  "id": "e7291ffa-3e88-4344-a72f-72feda316d3d",
+  "title": "Ad Astra - Út a csillagokba",
+  "originalTitle": "Ad Astra",
+  "overview": "Roy McBride asztronauta a Naprendszer peremvidékére utazik, hogy megtalálja eltűnt édesapját és a végére járjon egy bolygónkat fenyegető rejtélynek. Küldetése során olyan titkokra derít fényt, amik megkérdőjelezik az emberi lét természetét és helyünket a kozmoszban.",
+  "backdropPath": "/AeDS2MKGFy6QcjgWbJBde0Ga6Hd.jpg",
+  "posterPath": "/9c385rj3LEBrwnjZLdKEv0E9f6C.jpg",
+  "releaseDate": "2019-09-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0e3ac4f8-6808-41fb-aae5-2f722bccd226",
+      "title": "Ad Astra - Út a csillagokba",
+      "subtitle": null,
+      "timestampString": "02:38:58",
+      "timestampInSeconds": 9538,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #176",
+        "youtubeId": "IBv2w6mBz1s",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IBv2w6mBz1s/hqdefault.jpg",
+        "durationInMinutes": 267,
+        "releaseDate": 1570124501000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

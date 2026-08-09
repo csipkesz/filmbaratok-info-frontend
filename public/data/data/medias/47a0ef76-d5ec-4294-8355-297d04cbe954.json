@@ -1,0 +1,45 @@
+{
+  "id": "47a0ef76-d5ec-4294-8355-297d04cbe954",
+  "title": "Holt költők társasága",
+  "originalTitle": "Dead Poets Society",
+  "overview": "Ifjú lelkeket lángra lobbantó különc tanárember kezdi meg varázslatos működését 1959-ben a Welton Akadémia ódon falai között. Lapról lapra tépeti szét diákjaival a tankönyvet, mert azt akarja, hogy felfedezzék: életük maga a költészet. A felismerés egyeseknek életreszóló szerelmet, másoknak tragédiát hoz. A hagyománytisztelő iskolában pedig tanyát ver a lázadás szelleme.",
+  "backdropPath": "/lFIXZpwwlF9hg8NM3RazaIJDuaj.jpg",
+  "posterPath": "/fS866ZYGYa8Hdx3xSrvoUpdgNjf.jpg",
+  "releaseDate": "1989-06-02T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a40ec384-c55d-406e-bda5-d2c736ba710b",
+      "title": "Holt költők társasága",
+      "subtitle": null,
+      "timestampString": "04:35:15",
+      "timestampInSeconds": 16515,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #197",
+        "youtubeId": "j1hyfnPoTyg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/j1hyfnPoTyg/hqdefault.jpg",
+        "durationInMinutes": 296,
+        "releaseDate": 1600408834000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

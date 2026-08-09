@@ -1,0 +1,45 @@
+{
+  "id": "167a89da-f0d2-4ace-81df-a8676f6194c0",
+  "title": "Nincs kiút",
+  "originalTitle": "Cash Out",
+  "overview": "A visszavonult hivatásos tolvaj, Mason Goddard, egy nagy munkára vissza kell térni a lazításból testvérével. A bankrablásba természetesen gond csúszik, így mindenféle rendőri szervvel körülvéve találják magukat egy túsz helyzetben. A feszültség tovább fokozódik, mivel Masonnak a volt szeretőjével Amelia Decker-el, a hatóság vezető tárgyalópartnerével kell egyezkednie.",
+  "backdropPath": "/6VoxDupaW2VXfLtJyeOoGCgXSjD.jpg",
+  "posterPath": "/7tdrL3UYjXa3LwtKZUkNXjvzbQZ.jpg",
+  "releaseDate": "2024-04-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7f0218d2-06f1-4002-9fbe-7fe6681609cb",
+      "title": "Nincs kiút [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "02:54:50",
+      "timestampInSeconds": 10490,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #268",
+        "youtubeId": "9TmBeKJi0og",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9TmBeKJi0og/hqdefault.jpg",
+        "durationInMinutes": 211,
+        "releaseDate": 1702918793000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

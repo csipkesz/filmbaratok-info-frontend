@@ -1,0 +1,45 @@
+{
+  "id": "6f7b373e-612f-4c9a-a671-9bd6dc49bea9",
+  "title": "Harry Potter 20. évforduló - Visszatérés Roxfortba",
+  "originalTitle": "Harry Potter 20th Anniversary: Return to Hogwarts",
+  "overview": "Daniel Radcliffe, Rupert Grint és Emma Watson a nyolc Harry Potter-film összes nagyra becsült szereplőjével együtt újra visszatérnek Roxfortba, hogy megünnepeljék a mágikus filmes univerzum 20 éve bemutatott első filmjének, a Harry Potter és a bölcsek kövének évfordulóját. A különleges, retrospektív film elmeséli, hogyan készült minden idők egyik legelbűvölőbb közönségkedvence: újonnan leforgatott mélyinterjúkon és a szereplők beszélgetésein keresztül tárul fel újra ez a varázslatos világ, amely a mai napig az egyik legkedveltebb filmes franchise.",
+  "backdropPath": "/8rft8A9nH43IReybFtYt21ezfMK.jpg",
+  "posterPath": "/fPuw5jGZmLRSeOevmUnayAIOeZK.jpg",
+  "releaseDate": "2022-01-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "83675c6a-9260-4a6b-9ca4-783c3299cab5",
+      "title": "Harry Potter 20. évforduló - Visszatérés Roxfortba",
+      "subtitle": null,
+      "timestampString": "02:29:20",
+      "timestampInSeconds": 8960,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #226",
+        "youtubeId": "g-SEAVbxOlA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/g-SEAVbxOlA/hqdefault.jpg",
+        "durationInMinutes": 224,
+        "releaseDate": 1643475639000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

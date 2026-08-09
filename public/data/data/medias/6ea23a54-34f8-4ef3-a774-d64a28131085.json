@@ -1,0 +1,41 @@
+{
+  "id": "6ea23a54-34f8-4ef3-a774-d64a28131085",
+  "title": "Exit through the gift shop",
+  "originalTitle": "Exit Through the Gift Shop",
+  "overview": "Adott a világ egyik leghíresebb graffitise, szebben fogalmazva street art művésze, Banksy, valamint egy fura francia bolt tulaj, aki amatőr filmes. Utóbbi elhatározza, hogy dokumentumfilmet forgat Banksyről, aki mivel művészete büntetőjogi kategóriának minősül, nem fogadja lelkesen újdonsült \"barátja\" közeledését. Végül Banksy a kamerát az operatőr \"ellen\" fordítja, így végül a filmes lett alkotásának főszereplője, de persze feltűnnek a világ leghíresebb graffiti művészei is.",
+  "backdropPath": "/yGtoR1fi3e2xU7N91cb2DKJjtyL.jpg",
+  "posterPath": "/ruM5ehUQlHC1Kx3SF18d6klfrAx.jpg",
+  "releaseDate": "2010-03-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e2e08239-3ab7-485b-92a6-dea19f6709b0",
+      "title": "Exit through the gift shop",
+      "subtitle": null,
+      "timestampString": "03:03:56",
+      "timestampInSeconds": 11036,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #120",
+        "youtubeId": "-3teFOfAauw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-3teFOfAauw/hqdefault.jpg",
+        "durationInMinutes": 251,
+        "releaseDate": 1493646027000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

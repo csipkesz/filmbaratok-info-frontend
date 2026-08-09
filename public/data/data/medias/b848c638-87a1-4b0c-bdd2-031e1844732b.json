@@ -1,0 +1,41 @@
+{
+  "id": "b848c638-87a1-4b0c-bdd2-031e1844732b",
+  "title": "Mosolyogj 2",
+  "originalTitle": "Smile 2",
+  "overview": "Miközben a popsztár Skye Riley (Naomi Scott) egy új világkörüli turnéra készül, ijesztő és megmagyarázhatatlan események gyötrik. A szörnyűségek fokozódnak, és a hírnév nyomása egyre nagyobb, így szembe kell néznie sötét múltjával, hogy visszaszerezze az irányítást az élete felett, mielőtt az káoszba torkollik. A kritikusok által elismert és közönségkedvenc Mosolyogj folytatása hátborzongató élményt ígér.",
+  "backdropPath": "/iR79ciqhtaZ9BE7YFA1HpCHQgX4.jpg",
+  "posterPath": "/xbKGOKsRrn9ljJanDW27FXrvjzL.jpg",
+  "releaseDate": "2024-10-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "367dae09-14f5-464d-a05f-d7760489dcee",
+      "title": "Mosolyogj 2",
+      "subtitle": null,
+      "timestampString": "00:52:00",
+      "timestampInSeconds": 3120,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #289",
+        "youtubeId": "25swweCqsZY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/25swweCqsZY/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1730401855000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "a4e3128c-c862-407a-86fe-ed1e2d69e0e4",
+  "title": "A szakasz",
+  "originalTitle": "Platoon",
+  "overview": "Önkéntesnek jelentkezik a vietnami háborúba az ifjú Chris Taylor. Ahhoz az egységhez osztják be, amelyet Elias és Barnes őrmester vezet. Elias betartja a játékszabályokat, törődik az embereivel, a kegyetlen Barnest viszont csak a harc, a küzdelem érdekli. Barnesnek és az embereinek semmi sem számít, hidegvérrel kivégzik az ártatlan embereket is. Amikor Eliasnak sikerül megakadályoznia az újabb mészárlást, a feldühödött Barnes lelövi. Chris sejti, mi történt. Mielőtt azonban az ügy kipattanna, a vietkongok támadásba lendülnek.",
+  "backdropPath": "/q4A2A7h9HsKKBfTxESAdc2N4hVg.jpg",
+  "posterPath": "/nAZFkap1AMwzvXoWBsHeKP5uAlY.jpg",
+  "releaseDate": "1986-12-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "aa933f21-707d-4ad0-a835-e83c8928537e",
+      "title": "A szakasz",
+      "subtitle": null,
+      "timestampString": "02:45:44",
+      "timestampInSeconds": 9944,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #148",
+        "youtubeId": "keV4hpdXcYo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/keV4hpdXcYo/hqdefault.jpg",
+        "durationInMinutes": 206,
+        "releaseDate": 1533062167000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

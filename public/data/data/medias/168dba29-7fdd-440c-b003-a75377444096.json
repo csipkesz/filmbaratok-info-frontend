@@ -1,0 +1,45 @@
+{
+  "id": "168dba29-7fdd-440c-b003-a75377444096",
+  "title": "Nincs baj, drágám",
+  "originalTitle": "Don't Worry Darling",
+  "overview": "Minden tökéletes. Alice és Jack szeretik egymást, boldogok, és a férfi munkahelye által fenntartott kisvárosban, Victoryban, egy szép házban élnek. Körülöttük mindenki szép, boldog, és ugyanannál a titokzatos cégnél dolgozik. De mit csinálnak, amikor nincsenek otthon? Mivel foglalkozik ez a bőkezű vállalat? Alice először unalmában kezd kérdezősködni, azután egyre több furcsa részletre akad, és a cég képviselőinek nagyon nem tetszik a kíváncsisága. Számukra, úgy látszik csak az a lényeg, hogy senki ne tudja meg, min dolgoznak – és bármire hajlandóak, hogy megőrizzék a titkaikat.",
+  "backdropPath": "/tfCNMP37jRX3TOetuce7FLkxNKa.jpg",
+  "posterPath": "/4YIrb99N83djhOREBKcJOajkELY.jpg",
+  "releaseDate": "2022-09-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "15df6d3c-b547-4fe2-a948-7145f27a00c5",
+      "title": "Nincs baj, drágám [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "02:17:30",
+      "timestampInSeconds": 8250,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #241",
+        "youtubeId": "wkIRMrjPzTE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wkIRMrjPzTE/hqdefault.jpg",
+        "durationInMinutes": 228,
+        "releaseDate": 1665676839000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "194f4fc6-8f95-47df-904f-33d1009cd7d5",
+  "title": "Dexter: New Blood",
+  "originalTitle": "Dexter: New Blood",
+  "overview": "Tíz évvel azt követően, hogy Dexter eltűnt a Laura hurrikánban, álnéven bukkan fel egy New York-i kisvárosban, Iron Lake-ben. Dextert látszólag mindenki szereti és ő maga is elfogadta új életét, de a kis közösségben bekövetkező váratlan események következtében a rég elveszettnek hitt Sötét Utas ismét előkerül…",
+  "backdropPath": "/e6v08948EZVvLrx0sWpmglguY9e.jpg",
+  "posterPath": "/mosRL9dmILAARswiNVpkFa9X60o.jpg",
+  "releaseDate": "2021-11-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "93129de2-87a7-4329-978f-a86156d6277d",
+      "title": "Dexter: New Blood",
+      "subtitle": null,
+      "timestampString": "00:00:45",
+      "timestampInSeconds": 45,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Sorozatok (Dexter: New Blood / For all mankind)",
+        "youtubeId": "F7IMiGfgA1I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/F7IMiGfgA1I/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1652187650000,
+        "participants": [
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f9066580-796b-460b-9966-73bcbf3400a7",
+            "name": "Shirin"
+          }
+        ]
+      }
+    }
+  ]
+}

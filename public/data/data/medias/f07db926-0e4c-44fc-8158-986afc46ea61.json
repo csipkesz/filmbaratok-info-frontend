@@ -1,0 +1,45 @@
+{
+  "id": "f07db926-0e4c-44fc-8158-986afc46ea61",
+  "title": "A világ legrosszabb embere",
+  "originalTitle": "Verdens verste menneske",
+  "overview": "Julie-t négy éven keresztül követjük, a norvég lány a szerelmi életében és karrierjében is a helyes, sorsfordító döntéseket próbálja meghozni – még ha egyszer megfontolt, máskor elhamarkodott választásaival fájdalmat is okoz a szeretteinek, vagy éppen saját magának. Ahhoz, hogy Julie élete egyenesbe jöjjön, először önmagát kell megtalálnia és elfogadnia – rögös út vezet ennek az beismeréséhez.",
+  "backdropPath": "/woYGBHERSMhIHqmkkRCbCXp81l4.jpg",
+  "posterPath": "/fkCoOWrJ8jDsKKRQDKnJ8A4Ijd8.jpg",
+  "releaseDate": "2021-10-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "99e3d285-42b8-42bc-9a2c-830249a280ac",
+      "title": "A világ legrosszabb embere",
+      "subtitle": null,
+      "timestampString": "02:09:21",
+      "timestampInSeconds": 7761,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #226",
+        "youtubeId": "g-SEAVbxOlA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/g-SEAVbxOlA/hqdefault.jpg",
+        "durationInMinutes": 224,
+        "releaseDate": 1643475639000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

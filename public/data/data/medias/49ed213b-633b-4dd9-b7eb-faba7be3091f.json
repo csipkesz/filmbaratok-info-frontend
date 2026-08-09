@@ -1,0 +1,45 @@
+{
+  "id": "49ed213b-633b-4dd9-b7eb-faba7be3091f",
+  "title": "Tiszta románc",
+  "originalTitle": "True Romance",
+  "overview": "Clarence, a képregénybolti eladó, aki amúgy az ázsiai akciófilmek megszállott rajongója, és Alabama, a múltjával leszámolni készülő call-girl egymásba szeret. Clarence - biztos, ami biztos - lerendezi kedvese túlságosan ragaszkodó stricijét, s a kisebb vérfürdőbe torkolló akció végén felkap egy kokainnal teli bőröndöt is. Útnak indulnak, hogy túladjanak a szajrén, csakhogy a nyomukban liheg a maffia, míg a célállomásnál a rendőrség vár rájuk. Ám pokoljárásuk végén, dacára a körülöttük tobzódó erőszaknak, ott mosolyog rájuk az elkerülhetetlen happy end.",
+  "backdropPath": "/1Uh8yuXlFcMDpVHWZJidjanT06e.jpg",
+  "posterPath": "/tOOKBfmVzdZBPNNryFYw6ArwR1B.jpg",
+  "releaseDate": "1993-09-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "aa2be28a-6429-43d4-9d84-376567c66910",
+      "title": "Tiszta románc",
+      "subtitle": null,
+      "timestampString": "03:46:53",
+      "timestampInSeconds": 13613,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #114",
+        "youtubeId": "-MXopm_I1eY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-MXopm_I1eY/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1484786554000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

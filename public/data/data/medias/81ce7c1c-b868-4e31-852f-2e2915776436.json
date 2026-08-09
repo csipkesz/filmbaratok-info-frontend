@@ -1,0 +1,45 @@
+{
+  "id": "81ce7c1c-b868-4e31-852f-2e2915776436",
+  "title": "Harakiri",
+  "originalTitle": "切腹",
+  "overview": "Hanshiro bosszút áll egy klán vezetőin, mert vejét kényszerítették, hogy bambuszkéssel harakirit hajtson végre, elrettentésül azok számára, akik, mint ő, nyomorúságukban már a kardjukat is eladták, és abban a reményben jönnek a klánhoz, hogy annak vezetői -harakirire is kész szamuráj-büszkeségük láttán- alkalmazzák őket...",
+  "backdropPath": "/nC3IjYhUgZWgfKfFX0ygMigFwgc.jpg",
+  "posterPath": "/zL7wROlStCwPVIgjfTSU6ESRZHh.jpg",
+  "releaseDate": "1962-09-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b716e560-eaa6-47d4-8022-5d21f9f4db3c",
+      "title": "Harakiri",
+      "subtitle": null,
+      "timestampString": "02:50:23",
+      "timestampInSeconds": 10223,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #323",
+        "youtubeId": "1Y8m-2qsHhw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/1Y8m-2qsHhw/hqdefault.jpg",
+        "durationInMinutes": 209,
+        "releaseDate": 1775020201000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "d02f13c2-655a-4eaf-b11d-ef1565d64ced",
+            "name": "Zétény"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "ec2cedaf-7d37-4d88-9063-962ae6fa201c",
+  "title": "Uncharted",
+  "originalTitle": "Uncharted",
+  "overview": "Nathan Drake és a kincsvadász, Victor \"Sully\" Sullivan útra kel, hogy visszaszerezzék az 500 éve elveszett Magellan vagyont. Santiago Moncada azt hiszi, hogy ő és családja a jogos örökösök. Ha Nate és Sully megfejtik a világ egyik legrégebbi rejtélyét, 5 milliárd dollár értékű kincset találnak, és talán Nate rég elveszett testvérét is...",
+  "backdropPath": "/fwrqW8Lp5VQuppFrODd4iJ8LySE.jpg",
+  "posterPath": "/rJHC1RUORuUhtfNb4Npclx0xnOf.jpg",
+  "releaseDate": "2022-02-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5c7791cf-5ffe-43a5-8d2f-be9b58ab71a3",
+      "title": "Uncharted",
+      "subtitle": null,
+      "timestampString": "02:09:25",
+      "timestampInSeconds": 7765,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #227",
+        "youtubeId": "aLZRPLtke70",
+        "thumbnailUrl": "https://i.ytimg.com/vi/aLZRPLtke70/hqdefault.jpg",
+        "durationInMinutes": 275,
+        "releaseDate": 1645191276000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

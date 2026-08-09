@@ -1,0 +1,45 @@
+{
+  "id": "d777a636-df4f-498e-8910-71f605d07570",
+  "title": "Bazi nagy pizza",
+  "originalTitle": "Fat Pizza",
+  "overview": "A film tulajdonképpen a Pizza nevű tévé-show terjedelmesebb változatának tekinthető, miközben a cselekménye nem egyértelműen követhető nyomon. Vannak itt jó csajok nagy dudákkal, pia és zene dögivel. A legnagyobb gyorsétterem-lánc kifigurázásán keresztül egyéb őrült helyzeteken át, egészen Bobo-ig, a mogorva pizzéria tulajdonos-séfig, aki mindent megtesz azért, hogy félőrült pizzafutárjai leszállítsák a megrendelt ételt. De persze azok folyamatosan a lehető legmorbidabb helyzetekben találják magukat.",
+  "backdropPath": "/m49dLlJH81YCw4USCNyzoimixae.jpg",
+  "posterPath": "/2jMmRkSlH1bzposjtGQ9DnSWF6q.jpg",
+  "releaseDate": "2003-04-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "53c60056-0c8f-41c3-a8cf-674b0ea54b57",
+      "title": "Bazi nagy pizza",
+      "subtitle": null,
+      "timestampString": "02:32:25",
+      "timestampInSeconds": 9145,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #177",
+        "youtubeId": "SiiouPY48NM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/SiiouPY48NM/hqdefault.jpg",
+        "durationInMinutes": 237,
+        "releaseDate": 1571926127000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

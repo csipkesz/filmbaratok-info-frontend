@@ -1,0 +1,45 @@
+{
+  "id": "c0d986b7-689d-443f-b6b3-1de7c0bd98c2",
+  "title": "Shadow in the cloud",
+  "originalTitle": "Shadow in the Cloud",
+  "overview": "A titokzatos csomagot szállító Maude Garrett egy olyan B-17-esen kap helyet, amin nem ő az egyetlen olyan utas, akire a legénység nem számított. Egy gremlin is rejtőzik a repülőn.",
+  "backdropPath": "/aHYUj0hICtWZ5tPiCIm6pWUcjYK.jpg",
+  "posterPath": "/2tMZX6CfKN8Haeay0Ry7zB3jLL8.jpg",
+  "releaseDate": "2021-01-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b1034c9a-7628-4613-ba76-3b975d4ada72",
+      "title": "Shadow in the cloud",
+      "subtitle": null,
+      "timestampString": "01:28:30",
+      "timestampInSeconds": 5310,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #204",
+        "youtubeId": "uCWG2Ku59nQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uCWG2Ku59nQ/hqdefault.jpg",
+        "durationInMinutes": 207,
+        "releaseDate": 1610723034000,
+        "participants": [
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "a9106f7e-c8f8-4ed6-8a88-4a42b5e0f8b9",
+            "name": "Anna"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

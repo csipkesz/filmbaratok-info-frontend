@@ -1,0 +1,41 @@
+{
+  "id": "23566792-7cf7-4523-883b-3cfacd4e5bfd",
+  "title": "Ismeretlen támadók",
+  "originalTitle": "War Machine",
+  "overview": "Az elit kiképzés utolsó, embert próbáló bevetésén egy katona egy óriási, földöntúli pusztítógép ellen vezeti egységét.",
+  "backdropPath": "/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
+  "posterPath": "/rV8KlXpQi0LruJglMcigiOu7Kqi.jpg",
+  "releaseDate": "2026-02-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1868bcc3-da45-4495-993e-73c3b03e2bdb",
+      "title": "Ismeretlen támadók",
+      "subtitle": null,
+      "timestampString": "01:56:30",
+      "timestampInSeconds": 6990,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #324",
+        "youtubeId": "Df6QbCuxjIs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Df6QbCuxjIs/hqdefault.jpg",
+        "durationInMinutes": 174,
+        "releaseDate": 1776433338000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

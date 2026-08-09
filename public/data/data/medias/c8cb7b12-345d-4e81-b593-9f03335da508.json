@@ -1,0 +1,45 @@
+{
+  "id": "c8cb7b12-345d-4e81-b593-9f03335da508",
+  "title": "Félvilág",
+  "originalTitle": "Félvilág",
+  "overview": "Ki ölte meg Mágnás Elzát és miért? Az I. világháború előtt hónapokig ez a kérdés tartotta lázban Budapestet, és foglalkoztatja száz év elteltével is a közvéleményt. Erről a rejtélyről lebbenti fel a fátylat a Félvilág, amely Mágnás Elza (KovácsPatrícia) utolsó napjait dolgozza fel. A félvilági életet élő kurtizán és bigott komornája, Rózsi (Gryllus Dorka), valamint a fiatal és naív cselédlány, Kató (Döbrösi Laura) között szövődő bizarr, szenvedélyes viszonyokat és sikamlós hatalmi játszmákat bonyolítják tovább az Elza körül felbukkanó férfiak (Kulka János és Sándor Péter), egészen a sokkoló végkifejletig.",
+  "backdropPath": "/cvOxBnR3IP2YBIvjFGBc0NDYpg6.jpg",
+  "posterPath": "/v5Z1tGkXHH2ToWOmrpMj7E6jhGe.jpg",
+  "releaseDate": "2015-12-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7b977c04-2b89-4927-b2e8-dbc5a22acba8",
+      "title": "Félvilág",
+      "subtitle": null,
+      "timestampString": "03:46:14",
+      "timestampInSeconds": 13574,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #91",
+        "youtubeId": "G-6KMqIQhQQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/G-6KMqIQhQQ/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1454001243000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

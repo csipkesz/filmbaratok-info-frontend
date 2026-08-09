@@ -1,0 +1,45 @@
+{
+  "id": "f94d183e-37d9-4588-acae-0093b05db82d",
+  "title": "Csapd le csimpánz 2",
+  "originalTitle": "MVP 2: Most Vertical Primate",
+  "overview": "A ZHL új jégkorongcsapata, a Seattle Majmok menedzsere szenzációs bejelentést tesz, miszerint csatlakozik a ligához Jack, a jégkorongozó csimpánz. Először csak ő lesz a csapat kabalája, de később a jégpályán azt is bebizonyítja, hogy úgy játszik, mint a legjobb játékosok. Hamarosan tehát mindenki kedvencévé válik. Kivéve a csapatkapitányt, Pete Poirier-t, aki borzasztóan féltékeny Jack sikereire.",
+  "backdropPath": "/chxJU2BqSefUVEDnY4rfrJ24XcP.jpg",
+  "posterPath": "/pPk31fkbAGwwMG2Ylk6629NZ1ui.jpg",
+  "releaseDate": "2001-10-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "18f28811-ead2-4aef-bc76-d4ea8b908f1b",
+      "title": "Csapd le csimpánz 2",
+      "subtitle": null,
+      "timestampString": "00:40:00",
+      "timestampInSeconds": 2400,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #249",
+        "youtubeId": "1greFyKaw1M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/1greFyKaw1M/hqdefault.jpg",
+        "durationInMinutes": 296,
+        "releaseDate": 1676703823000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

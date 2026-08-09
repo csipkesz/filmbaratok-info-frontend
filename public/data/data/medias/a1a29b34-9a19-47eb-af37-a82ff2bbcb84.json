@@ -1,0 +1,41 @@
+{
+  "id": "a1a29b34-9a19-47eb-af37-a82ff2bbcb84",
+  "title": "A hangya és a darázs",
+  "originalTitle": "Ant-Man and the Wasp",
+  "overview": "Scott Lang, azaz a Hangya próbál egyensúlyozni két élete közt: miközben szuperhősként a lehetetlent is képes véghezvinni, családapaként is helyt kell állnia a magánéletében. Közben egy új küldetésre kell indulnia, de ezúttal nem egyedül, hanem Hope van Dyne oldalán. Ő Dr. Hank Pym lánya, aki Darázsként szintúgy szupererőre tett szert. A küldetés során titkokat tárhatnak fel a saját múltjukból.",
+  "backdropPath": "/iYdgEUE2W2aJkgqfSjf1x3gFfuV.jpg",
+  "posterPath": "/aXyA7J1ujizCPwbNVlwp1GOtdph.jpg",
+  "releaseDate": "2018-07-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "12bb814c-604d-4b40-b520-1d9ee3e3c009",
+      "title": "A hangya és a darázs",
+      "subtitle": null,
+      "timestampString": "00:49:28",
+      "timestampInSeconds": 2968,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #148",
+        "youtubeId": "keV4hpdXcYo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/keV4hpdXcYo/hqdefault.jpg",
+        "durationInMinutes": 206,
+        "releaseDate": 1533062167000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

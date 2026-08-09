@@ -1,0 +1,62 @@
+{
+  "id": "1dd63681-777a-4f47-8efc-5a706297bfcd",
+  "title": "Kút",
+  "originalTitle": "Kút",
+  "overview": "Valahol az osztrák határ közelében a semmi közepén áll egy benzinkút. A környéken nincs élet, ami épp kapóra jön egy vállalkozónak, aki lányok svájci futtatásából él és a tranzitmegállóban nem hívja fel a lányokra a figyelmet. A gengszter megtartotta a kúton dolgozó öreg alkoholistát, Istvánt és két-három hetente a töltőállomás érintésével indítja útnak külföldre a kis háremét. A forró nyári semmittevésbe váratlanul toppan be István rég nem látott fia, akit az anyja hagy hátra a megdöbbent férfinak. Ugyanekkor a legújabb fuvar lerobban a benzinkúton és a Svájcba tartó lányok sofőrjeikkel napokra ott ragadnak Istvánnal és fiával. Az érzelmek mellett jól őrzött titkok is a felszínre törnek.",
+  "backdropPath": "/eRyP0FTJj4C7xWE3lwU6sjba6xA.jpg",
+  "posterPath": "/zcqUtMq75cOdEwb04DPvlotK4Ij.jpg",
+  "releaseDate": "2016-09-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "159c4fe8-c909-4873-be7e-b9dd008544c8",
+      "title": "Kút",
+      "subtitle": null,
+      "timestampString": "01:48:30",
+      "timestampInSeconds": 6510,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #107",
+        "youtubeId": "nil8BrN67hQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nil8BrN67hQ/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1475265113000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "68c6a379-c539-4074-948b-8d7e3b919c0b",
+            "name": "Emese"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c40d45b9-5c65-4bb4-a29f-f3ac57f3e982",
+      "title": "Kút",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "AUDIO_COMMENTARY",
+        "title": "Filmbarátok Audiokommentár: Kút",
+        "youtubeId": "SsXqHUqqADs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/SsXqHUqqADs/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1506099555000,
+        "participants": []
+      }
+    }
+  ]
+}

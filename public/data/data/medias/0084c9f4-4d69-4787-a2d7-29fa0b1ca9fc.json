@@ -1,0 +1,45 @@
+{
+  "id": "0084c9f4-4d69-4787-a2d7-29fa0b1ca9fc",
+  "title": "Beetlejuice Beetlejuice",
+  "originalTitle": "Beetlejuice Beetlejuice",
+  "overview": "Beetlejuice visszatér! Egy családi tragédia arra készteti a Deetzek három generációját, hogy visszatérjenek rég elhagyott Winter River-i otthonukba. Lydia (Winona Ryder), akit az évek során a különc Beetlejuice (Michael Keaton) emlékei kísértettek, pánikba esik, amikor lázadó tinédzser lánya (Jenna Ortega) felfedezi a padláson a város titokzatos makettjét, és akaratlanul is kaput nyit a túlvilágra.  Hamarosan kiderül, hogy súlyos veszélyek fenyegetik mindkét világot. Mivel Beetlejuice készen áll arra, hogy pusztítást végezzen, ha csak háromszor kimondja a nevét, a káosz elszabadul. Tim Burton, akit olyan filmek Oscar-díjra jelölt munkáiról ismerhetünk, mint az Alice Csodaországban és a Charlie és a csokoládégyár, újra összeáll Michael Keatonnal, hogy felújítsa a kultikus klasszikusukat.  Jenna Ortega és a legutóbbi, Wednesday című projektjük kulcsfontosságú írói csatlakoznak hozzájuk, és egy egyedülállóan komikus utazást ígérnek a természetfeletti világba.",
+  "backdropPath": "/kF8ljC7Y4p1UsmKBi2LxelZpqw.jpg",
+  "posterPath": "/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg",
+  "releaseDate": "2024-09-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8cef9a44-e36c-4c33-bcce-ce918a6b871a",
+      "title": "Beetlejuice Beetlejuice",
+      "subtitle": null,
+      "timestampString": "01:21:50",
+      "timestampInSeconds": 4910,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #286",
+        "youtubeId": "ZbuQSmPb5sM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ZbuQSmPb5sM/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1726511195000,
+        "participants": [
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

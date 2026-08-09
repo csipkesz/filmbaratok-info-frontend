@@ -1,0 +1,41 @@
+{
+  "id": "0ab1fe76-2735-454d-90e8-065e648ae313",
+  "title": "A hullahó-akció",
+  "originalTitle": "Red One",
+  "overview": "Van az Északi-sarkon egy titkos bázis. Különlegesen kiképzett szolgálat őrzi, high-tech kütyük segítségével irányítják, és a személyzete csupán egyetlen, pontosan meghatározott célra koncentrál. De szerencsére nem katonák, nem deszantosok és nem titkosügynökök. Hanem manók. Főnökük pedig a Mikulás (J. K. Simmons), akinek – bármilyen jóságos – megvan az oka az óvatosságra. Ezért van mindig mellette a hű testőre, a világ legnagyobb manója, a kősziklakeménységű Dwayne Johnson. Amikor valaki betör a behavazott kupola alá, és elrabolja a Mikulást, neki kell a nyomába erednie. Csakhogy az év legfontosabb napja vészesen közeledik, ezért bevonnak az akcióba egy civilt, a menő embervadászt (Chris Evans) is. A mesék világán edződött szuperhős és cinikus földi bűnöző kénytelen összefogni, hogy együtt mentsék meg az ünnepet. De ehhez ki kell nyomozniuk, ki rabolta el a Mikulást, miért támadnak rájuk felbőszült hóemberek, és mekkora taslit tud adni a rosszak listájának örök toplistása: a Krampusz.",
+  "backdropPath": "/rOmUuQEZfPXglwFs5ELLLUDKodL.jpg",
+  "posterPath": "/xmKcROGZHbyqIemfv4SAjve7LLr.jpg",
+  "releaseDate": "2024-10-31T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6829dc42-e446-4887-89e2-d3f92baeab24",
+      "title": "A hullahó-akció",
+      "subtitle": null,
+      "timestampString": "01:40:25",
+      "timestampInSeconds": 6025,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #290",
+        "youtubeId": "SsQxsH7PCqY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/SsQxsH7PCqY/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1731829298000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

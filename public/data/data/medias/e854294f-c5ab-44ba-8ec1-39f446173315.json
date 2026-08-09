@@ -1,0 +1,45 @@
+{
+  "id": "e854294f-c5ab-44ba-8ec1-39f446173315",
+  "title": "Misztikus játék",
+  "originalTitle": "Mazes and Monsters",
+  "overview": "A történet az amerikai Grant Universityn játszódik, ahol egyetemistákból álló baráti társaságok szerepjátékot játszanak. Az egyik ilyen társaságnak sikerül eljutnia a játék kilencedik szintjére, amikor a harmadik játékos rejtélyes módon eltűnik. Robbie, akit éppen a játékszenvedélye miatt tanácsoltak el egy másik egyetemről, szintén a kilencedik szinten áll, így vele kiegészül a társaság. J.J. azonban már nem elégszik meg a játék nyújtotta izgalmakkal, s valódi helyszínen akarja folytatni a játékot. Váratlanul azonban Robbie is eltűnik. Társai a játék szabályai és a valódi események nyomán próbálják megtalálni, de vajon hol ér véget a játék és hol kezdődik a nyomasztó valóság?",
+  "backdropPath": "/A3QZT4yMvLE8RsnBxISrWgTdzQq.jpg",
+  "posterPath": "/pGLBZlEPEjcTJ4GtFqrqfzR9zdW.jpg",
+  "releaseDate": "1982-12-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3f9296d8-5012-4518-b6b1-369b4958ff0d",
+      "title": "Misztikus játék",
+      "subtitle": null,
+      "timestampString": "03:12:35",
+      "timestampInSeconds": 11555,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #243",
+        "youtubeId": "gCWkf0UnSwY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gCWkf0UnSwY/hqdefault.jpg",
+        "durationInMinutes": 296,
+        "releaseDate": 1668706204000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          }
+        ]
+      }
+    }
+  ]
+}

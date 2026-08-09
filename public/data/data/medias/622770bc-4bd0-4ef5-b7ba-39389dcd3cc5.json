@@ -1,0 +1,45 @@
+{
+  "id": "622770bc-4bd0-4ef5-b7ba-39389dcd3cc5",
+  "title": "Metro Manila",
+  "originalTitle": "Metro Manila",
+  "overview": "Metro Manila, azaz Manila és agglomerációja együttesen a világ 11. legnagyobb metropoliszát alkotja, ahol több mint 16 millió ember él egy Budapestnél nem sokkal nagyobb területen összezsúfolódva. Egy 2008-as felmérés szerint a Fülöp-szigetek fővárosa egyúttal a világ 28. legvagyonosabb agglomerációja. A pénzszállítás hatalmas biznisz, a pénzből viszont a vidéki tömegeknek semmi sem jut. Oscar Ramirez és családja is megtapasztalja a nélkülözést és a szebb jövő reményében egy rizstermesztő vidékről a metropoliszba költözik, ahol a megbízhatóság mintafigurájaként a férfi hamarosan egy pénzszállító autón kap biztonsági őr állást.",
+  "backdropPath": "/6HIJVGWxEwGFBvv0PCM5lgc9ZKC.jpg",
+  "posterPath": "/o3HLYPfgNK1N04TqZSOU4Hv4iaq.jpg",
+  "releaseDate": "2013-07-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "34145c68-2614-4c8a-91a3-068969af76dd",
+      "title": "Metro Manila",
+      "subtitle": null,
+      "timestampString": "02:52:08",
+      "timestampInSeconds": 10328,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #88",
+        "youtubeId": "wEd9ZOCpPII",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wEd9ZOCpPII/hqdefault.jpg",
+        "durationInMinutes": 226,
+        "releaseDate": 1450458682000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

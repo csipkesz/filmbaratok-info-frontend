@@ -1,0 +1,41 @@
+{
+  "id": "1baf7630-d600-4883-9401-647f317cfa02",
+  "title": "Gonosz Halott 2",
+  "originalTitle": "Evil Dead II",
+  "overview": "Ash és barátnője Linda a hegyekbe indul. Egy elhagyatott házat találnak. Az egyik szoba asztalán egy magnót találnak. Amikor bekapcsolják egy professzor egy gonosz igét mormol a szalagon, a halottak könyvéből. Lindát elrabolja az erdő szelleme, de amikor Ash utána megy megtámadja, majd Ash lecsapja fejét egy ásóval. Amikor Linda újraéled Ash kettévágja egy láncfűrésszel. Később Ash a saját kezét is levágja mert megszállja a gonosz. Ezután bezárják Asht a pincébe. Amikor tovább hallgatják a szalagot kiderül hogy a professzor a feleségét is megszállta a gonosz, és a pincébe ásta el...",
+  "backdropPath": "/dOvEJK2u0slAGTfhdZOjnNgCQet.jpg",
+  "posterPath": "/gGzj7LPi6XBKlpG26LC7zjKw8pY.jpg",
+  "releaseDate": "1987-03-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9bfbb366-3173-4535-bda0-5a7a31e5574f",
+      "title": "Gonosz Halott 2",
+      "subtitle": null,
+      "timestampString": "02:36:10",
+      "timestampInSeconds": 9370,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #111",
+        "youtubeId": "klorpdDyo7M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/klorpdDyo7M/hqdefault.jpg",
+        "durationInMinutes": 230,
+        "releaseDate": 1480773115000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

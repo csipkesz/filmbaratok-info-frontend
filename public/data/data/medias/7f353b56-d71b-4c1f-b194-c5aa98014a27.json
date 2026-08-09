@@ -1,0 +1,45 @@
+{
+  "id": "7f353b56-d71b-4c1f-b194-c5aa98014a27",
+  "title": "Doctor Strange az őrület multiverzumában",
+  "originalTitle": "Doctor Strange in the Multiverse of Madness",
+  "overview": "Doctor Strange, régi és új misztikus szövetségesei segítségével bejárja a Multiverzum észbontó és veszélyes alternatív valóságait, hogy szembeszálljon egy titokzatos új ellenféllel.",
+  "backdropPath": "/lv3TXqhpaIxkclIHbhN2MRMOemQ.jpg",
+  "posterPath": "/2elKJvY70TQx3jW9GQum3SCQ0xk.jpg",
+  "releaseDate": "2022-05-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "477450a7-8ef8-4dd5-84b0-e253c26ec262",
+      "title": "Doctor Strange az őrület multiverzumában",
+      "subtitle": null,
+      "timestampString": "01:27:35",
+      "timestampInSeconds": 5255,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #233",
+        "youtubeId": "YF7Jep8cRvw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/YF7Jep8cRvw/hqdefault.jpg",
+        "durationInMinutes": 256,
+        "releaseDate": 1654016337000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

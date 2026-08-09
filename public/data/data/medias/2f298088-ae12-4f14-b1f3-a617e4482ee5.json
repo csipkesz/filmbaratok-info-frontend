@@ -1,0 +1,41 @@
+{
+  "id": "2f298088-ae12-4f14-b1f3-a617e4482ee5",
+  "title": "Kilakoltatás",
+  "originalTitle": "Kilakoltatás",
+  "overview": "Richárd, az elszánt bírósági végrehajtó-tanonc, és Ilona néni - akinek esze ágában sincs elhagyni a házát - heroikus küzdelme egy napba sűrítve. Megtörtént események alapján.",
+  "backdropPath": "/zr8OoKyESCAgInVFpavPyf5KZYj.jpg",
+  "posterPath": "/vOggvAPXYUGCYvVDIU6mmM8vJrf.jpg",
+  "releaseDate": "2022-03-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b6efc115-b67d-428c-9fd2-244ee8314bf5",
+      "title": "Kilakoltatás",
+      "subtitle": null,
+      "timestampString": "00:56:45",
+      "timestampInSeconds": 3405,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #231",
+        "youtubeId": "GwvFCLoE8cY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GwvFCLoE8cY/hqdefault.jpg",
+        "durationInMinutes": 252,
+        "releaseDate": 1650126613000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

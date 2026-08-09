@@ -1,0 +1,45 @@
+{
+  "id": "2d63e712-2c89-4808-9ca2-e273a881d5b0",
+  "title": "Perfect blue",
+  "originalTitle": "PERFECT BLUE",
+  "overview": "Ügynöke legnagyobb megdöbbenésére Mima nem csupán közepesen sikeres tini-zenekarából lép ki, de ártatlanságot tükröző imázsát is hátrahagyja, hogy egy fülledt hangulatú tévésorozatban vállaljon szerepet. A karrierváltást nem minden rajongója veszi jó néven. Mimát hamarosan üldözni kezdi egy rettenetes figura, ráadásul valaki intim részleteket közöl róla az Interneten. Később új arculatának két legfőbb alakítóját, egy forgatókönyvírót és egy fényképészt brutálisan meggyilkolnak, Mimát pedig régi énjének víziói kísértik. A lányon egyre jobban eluralkodik az a szörnyű érzés, hogy talán köze lehet a halálesetekhez...",
+  "backdropPath": "/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
+  "posterPath": "/4DZS9XoE9gUQxN4Y9bOUI32ccHU.jpg",
+  "releaseDate": "1998-02-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fa37ae75-c1e2-44f6-aecf-9d04b9ba2f24",
+      "title": "Perfect blue",
+      "subtitle": null,
+      "timestampString": "03:32:55",
+      "timestampInSeconds": 12775,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #316",
+        "youtubeId": "tj6Fv2PRYFw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tj6Fv2PRYFw/hqdefault.jpg",
+        "durationInMinutes": 318,
+        "releaseDate": 1765639323000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

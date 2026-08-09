@@ -1,0 +1,71 @@
+{
+  "id": "8b76f59e-f96a-468d-8b53-918ac911c55a",
+  "title": "Dollár, kanna, szerelem",
+  "originalTitle": "The Brass Teapot",
+  "overview": "John és Alice egy tipikus, amerikai kisvárosi fiatal pár. Alice nem talál munkát, John pedig kissé neurotikus, tele fóbiákkal, és munkahelyi konfliktusokkal. Miközben barátaik jól élnek, számukra a csekkek befizetése is gondot okoz. Egy apróbb autós baleset rendezése közben Alice betéved egy útszéli antik boltba, ahol beleszeret egy antik teáskannába. A kanna olyan mágikus hatással van a lányra, hogy azonnal ellopja. Titokzatos véletlenek sorozata révén rájönnek, hogy a teáskanna pénzt terem minden alkalommal, valahányszor fájdalmat okoznak maguknak, vagy egymásnak.",
+  "backdropPath": "/tnIr0EPYySwj4bzPhU3gLjEYlX1.jpg",
+  "posterPath": "/hG0YewJ9UjUmaQ5yLBXXim6Brja.jpg",
+  "releaseDate": "2012-09-08T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a96c25af-97e4-4a08-af48-d46438741e99",
+      "title": "Dollár, kanna, szerelem",
+      "subtitle": null,
+      "timestampString": "01:14:42",
+      "timestampInSeconds": 4482,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #119",
+        "youtubeId": "y4ke6vT4qms",
+        "thumbnailUrl": "https://i.ytimg.com/vi/y4ke6vT4qms/hqdefault.jpg",
+        "durationInMinutes": 111,
+        "releaseDate": 1491032632000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    },
+    {
+      "id": "abaa09b7-1434-4357-b7fa-0e834c7e9dca",
+      "title": "Dollár, Kanna, Szerelem",
+      "subtitle": null,
+      "timestampString": "02:17:05",
+      "timestampInSeconds": 8225,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #53",
+        "youtubeId": "m4ZV-tpyiqU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/m4ZV-tpyiqU/hqdefault.jpg",
+        "durationInMinutes": 174,
+        "releaseDate": 1404572612000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

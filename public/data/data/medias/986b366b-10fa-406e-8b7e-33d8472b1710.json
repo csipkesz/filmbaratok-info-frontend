@@ -1,0 +1,45 @@
+{
+  "id": "986b366b-10fa-406e-8b7e-33d8472b1710",
+  "title": "Majd, ha fagy",
+  "originalTitle": "Mystery, Alaska",
+  "overview": "Mysteryben a csendes alaszkai kisvárosban soha nem történik semmi. Egészen addig, amíg a város egyik elszármazott és egyetlen híres polgára szellemes, ám nem túl hízelgő cikket ír a népszerű Sports Illustrated magazinban a város amatőr jégkorong-csapatáról. Egy élelmes üzletember óriási lehetőséget és persze sok pénzt lát egy világraszóló barátságos mérkőzés létrehozásában. Ezért megszervezik a szenzációs New York Rangers-Mystery párharcot, amelyben a helyi alakulatnak szánják a nevetséges balfékek szerepét. A város hokicsapata persze minden szempontból meg is felel ennek a követelményeknek, mivel néhány játékostól eltekintve az egész együttes balfácánok gyülekezete. Mystery apraja-nagyja most azonban összefog, hogy ne égjenek le élőben, az egész világ előtt.",
+  "backdropPath": "/swwCQk5sDGeuVWub4GLyS2YETrT.jpg",
+  "posterPath": "/3DWJsLl0E1QiH52iE7yiqm9Qufk.jpg",
+  "releaseDate": "1999-10-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9f6de6de-1b88-4aea-9d84-5e571244d28c",
+      "title": "Majd, ha fagy",
+      "subtitle": null,
+      "timestampString": "02:53:52",
+      "timestampInSeconds": 10432,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #65",
+        "youtubeId": "Nho9twpqK9c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Nho9twpqK9c/hqdefault.jpg",
+        "durationInMinutes": 210,
+        "releaseDate": 1420868167000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

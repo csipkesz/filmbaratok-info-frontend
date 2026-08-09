@@ -1,0 +1,45 @@
+{
+  "id": "5a904bb1-7fc4-4168-b2e9-58657636df22",
+  "title": "Tanítóm, a polip",
+  "originalTitle": "My Octopus Teacher",
+  "overview": "A filmkészítő furcsa barátságot köt egy dél-afrikai moszaterdőben élő polippal, és betekintést nyer az állat életének rejtelmeibe.",
+  "backdropPath": "/sW7VOrkHKYIeV9PaYc5IqGU2XK8.jpg",
+  "posterPath": "/oiqdvhZP4NKOiJQg43WtCVLqhK.jpg",
+  "releaseDate": "2020-09-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "415059f7-c5a5-4a87-97e8-ca8428450aef",
+      "title": "Tanítóm, a polip",
+      "subtitle": null,
+      "timestampString": "02:21:55",
+      "timestampInSeconds": 8515,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #211",
+        "youtubeId": "e7FpksPcoKY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/e7FpksPcoKY/hqdefault.jpg",
+        "durationInMinutes": 232,
+        "releaseDate": 1621526653000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

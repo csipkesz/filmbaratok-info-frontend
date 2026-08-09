@@ -1,0 +1,45 @@
+{
+  "id": "a5fb6b7d-c59f-4270-9134-1e0eb54b0d46",
+  "title": "Hosszúsági fok",
+  "originalTitle": "Longitude",
+  "overview": "A Dava Sobel regényéből készült pazar kiállítású, két részes, megtörtént eseményeken alapuló történet a XVIII. századi John Harrisonnak és az elfeledett tengerészeti kronométereket eredeti pompájukba visszaállító tengerésztisztnek, a XX. századi Rupert T. Gouldnak állít maradandó emléket. A két idősíkban, párhuzamosan zajló cselekményt olyan neves brit színészek keltik életre, mint Michael Gambon, Jeremy Irons és Ian Hart.",
+  "backdropPath": "/tBiNdJtJdYwu8IQvkbrGZ6NMTnX.jpg",
+  "posterPath": "/qtCkQkWQ7yos9vKHTSj6yK1ymoG.jpg",
+  "releaseDate": "2000-01-02T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "91360e1a-0d6b-479e-9721-f233e7e7b69e",
+      "title": "Hosszúsági fok",
+      "subtitle": null,
+      "timestampString": "01:21:00",
+      "timestampInSeconds": 4860,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #134",
+        "youtubeId": "gB5CFdGY70M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gB5CFdGY70M/hqdefault.jpg",
+        "durationInMinutes": 218,
+        "releaseDate": 1513874512000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

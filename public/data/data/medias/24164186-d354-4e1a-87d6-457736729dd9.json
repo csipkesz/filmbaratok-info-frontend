@@ -1,0 +1,45 @@
+{
+  "id": "24164186-d354-4e1a-87d6-457736729dd9",
+  "title": "Dínó tesó",
+  "originalTitle": "The Good Dinosaur",
+  "overview": "Mi lett volna, ha az aszteroida, mely örökre megváltoztatta a életet a Földön, elkerülte volna a bolygónkat, és így a gigászi dinoszauruszok is életben maradtak volna. A Pixar eredeti és humoros történetének középpontjában Arlo, a melegszívű Apatosaurus áll. Miután Arlo elveszti családját, elindul élete kalandjára, mely közben különleges társra tesz szert egy embergyermek személyében.",
+  "backdropPath": "/cF3H9pyUF6dsvqlYUcH0TyBAMTG.jpg",
+  "posterPath": "/aSl5WxdotXTnxSwraBW9x97VY7g.jpg",
+  "releaseDate": "2015-11-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c613bafd-b782-431d-a661-ad751ab39c90",
+      "title": "Dínó tesó",
+      "subtitle": null,
+      "timestampString": "00:57:31",
+      "timestampInSeconds": 3451,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #88",
+        "youtubeId": "wEd9ZOCpPII",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wEd9ZOCpPII/hqdefault.jpg",
+        "durationInMinutes": 226,
+        "releaseDate": 1450458682000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

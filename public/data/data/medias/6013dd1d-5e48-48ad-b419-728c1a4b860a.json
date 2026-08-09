@@ -1,0 +1,75 @@
+{
+  "id": "6013dd1d-5e48-48ad-b419-728c1a4b860a",
+  "title": "Paterson",
+  "originalTitle": "Paterson",
+  "overview": "A film egy Paterson nevű buszsofőrről szól, aki már régóta járja a szintén Paterson névre keresztelt new jersey-i kisváros utcáit. A település sajátos lakói és a mindennapi történések arra ihletik Patersont, hogy az utcai padon eltöltött ebédidejében verseket írjon. A férfi felesége azonban teljes ellentéte urának: a pörgés és a változások éltetik őt, minden napnak új tervekkel indul neki. Ennek ellenére tökéletes a harmónia kettejük között.",
+  "backdropPath": "/5Bk7kYSKAuNrxI5BXpDqlsln2P0.jpg",
+  "posterPath": "/rTBPfp7M7IfMd9EP0ISbtKXvtOK.jpg",
+  "releaseDate": "2016-11-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "70f578e2-fb0c-4524-916f-40e537a1893e",
+      "title": "Paterson",
+      "subtitle": null,
+      "timestampString": "00:48:40",
+      "timestampInSeconds": 2920,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #134",
+        "youtubeId": "gB5CFdGY70M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gB5CFdGY70M/hqdefault.jpg",
+        "durationInMinutes": 218,
+        "releaseDate": 1513874512000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d4419702-8d1c-468d-aa18-4b66399955b7",
+      "title": "Paterson",
+      "subtitle": null,
+      "timestampString": "01:52:35",
+      "timestampInSeconds": 6755,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #118",
+        "youtubeId": "tsYYwq3fdTw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tsYYwq3fdTw/hqdefault.jpg",
+        "durationInMinutes": 239,
+        "releaseDate": 1490634596000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

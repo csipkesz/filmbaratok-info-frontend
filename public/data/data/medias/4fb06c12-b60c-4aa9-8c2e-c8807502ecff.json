@@ -1,0 +1,79 @@
+{
+  "id": "4fb06c12-b60c-4aa9-8c2e-c8807502ecff",
+  "title": "Amadeus",
+  "originalTitle": "Amadeus",
+  "overview": "Mozart és Salieri: a tehetség és a középszerűség ellentéte, örök harca sokakat megihletett már. Milos Forman szakított e művészi hagyományokkal. Filmje nem a középszerűség szívósságát és a zseni törékenységét ábrázolja. Az Amadeusban két súlyos egyéniség mérkőzik, ütközik meg. Forman Salierije cseppet sem kisszerű, csupán a tehetség félreismerhetetlen nagyvonalúsága hiányzik belőle. Az a fajta művészi és emberi természetesség, ami Mozartot igazán naggyá tette... Mozart halálos ágyánál Salierinek lassacskán megvilágosodik: hiába a düh és a görcsös akarás, a tehetség egészen más anyagból van. Mozarttal olyan ember távozott, aki valóban a teremtő kegyeltje volt.",
+  "backdropPath": "/rnQyWw68dPHPRtvSWMtLSueXf05.jpg",
+  "posterPath": "/gQRfiyfGvr1az0quaYyMram3Aqt.jpg",
+  "releaseDate": "1984-09-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "84c5fd36-d931-44ca-b115-b34396fbe5ff",
+      "title": "Amadeus",
+      "subtitle": null,
+      "timestampString": "02:08:15",
+      "timestampInSeconds": 7695,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #55",
+        "youtubeId": "QgGmQw_m1m8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/QgGmQw_m1m8/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1407941546000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f7f43ff9-cb04-4c2f-9815-a4f32aac9cc1",
+      "title": "Amadeus",
+      "subtitle": null,
+      "timestampString": "02:09:30",
+      "timestampInSeconds": 7770,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #58",
+        "youtubeId": "fTyqWvDVF00",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fTyqWvDVF00/hqdefault.jpg",
+        "durationInMinutes": 178,
+        "releaseDate": 1412093302000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "8d59fd25-322f-441b-bf3e-bb2cdab871e0",
+  "title": "Money Heist",
+  "originalTitle": null,
+  "overview": null,
+  "backdropPath": null,
+  "posterPath": null,
+  "releaseDate": null,
+  "topics": [
+    {
+      "id": "4394ea93-09a2-4942-b4a5-667ef1fc32a1",
+      "title": "Money Heist",
+      "subtitle": null,
+      "timestampString": "03:39:15",
+      "timestampInSeconds": 13155,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #197",
+        "youtubeId": "j1hyfnPoTyg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/j1hyfnPoTyg/hqdefault.jpg",
+        "durationInMinutes": 296,
+        "releaseDate": 1600408834000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

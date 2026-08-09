@@ -1,0 +1,45 @@
+{
+  "id": "21e8672a-5d37-4edd-a877-760178354b66",
+  "title": "Sicario 2: A zsoldos",
+  "originalTitle": "Sicario: Day of the Soldado",
+  "overview": "Egy kíméletlen drogháborúban nincsenek szabályok... Miután a mexikói kartellek terjeszkedése egyre nagyobb méreteket ölt az Egyesült Államok területén, Matt Graver különleges ügynök újabb véres küldetésre indul: ismét szövetkezik a hidegvérű kolumbiai bérgyilkossal, Alejandróval, aki évekkel ezelőtt bosszút esküdött, amikor a kartell emberei megölték a családját.",
+  "backdropPath": "/tnwMCH4yLBY4qpe6Nr4n66u4U3f.jpg",
+  "posterPath": "/c6Yjx0D3cDXug7i77DxHorCE8wn.jpg",
+  "releaseDate": "2018-06-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5d95a136-585e-42c9-a95b-a781dc589daa",
+      "title": "Sicario 2: A zsoldos",
+      "subtitle": null,
+      "timestampString": "00:47:11",
+      "timestampInSeconds": 2831,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #147",
+        "youtubeId": "VFKKYddusFg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VFKKYddusFg/hqdefault.jpg",
+        "durationInMinutes": 235,
+        "releaseDate": 1531561740000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

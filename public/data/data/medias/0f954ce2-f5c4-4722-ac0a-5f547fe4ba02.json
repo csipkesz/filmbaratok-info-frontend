@@ -1,0 +1,45 @@
+{
+  "id": "0f954ce2-f5c4-4722-ac0a-5f547fe4ba02",
+  "title": "Pókember: Idegenben",
+  "originalTitle": "Spider-Man: Far From Home",
+  "overview": "Pókember nem pihenhet. Az már kiderült, hogy az ifjú pók egyedül is képes megmenteni a világot, és csoportban is megállja a helyét, de közben ő úgy érzi, hogy neki is jár mindaz, ami bármelyik középiskolásnak: és a haverjaival európai utazásra indul.  De éppen, amikor végre élvezhetné mindazt, amit a baráti lazulás kínálhat, újabb ellenség tör a világra. A rejtélyes Mysterio erősebb az eddigi ellenfeleknél, és könnyen lehet, hogy Pókember, aki nagy nehezen próbálja a hátizsákos utazást a hősi küzdelemmel összehangolni, kénytelen régi bosszúálló társaitól segítséget kérni.",
+  "backdropPath": "/vamhMTvh9m9zFHDoR0v1nRtf6T4.jpg",
+  "posterPath": "/nAAockG0HFADBwq1t9oNplVH924.jpg",
+  "releaseDate": "2019-06-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f04e8e06-86b6-46a2-b015-feb213c5e0b8",
+      "title": "Pókember: Idegenben",
+      "subtitle": null,
+      "timestampString": "00:22:55",
+      "timestampInSeconds": 1375,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #172",
+        "youtubeId": "ahOskajDN8o",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ahOskajDN8o/hqdefault.jpg",
+        "durationInMinutes": 250,
+        "releaseDate": 1564145413000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

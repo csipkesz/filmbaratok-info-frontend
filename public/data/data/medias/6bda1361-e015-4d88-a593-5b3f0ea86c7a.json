@@ -1,0 +1,49 @@
+{
+  "id": "6bda1361-e015-4d88-a593-5b3f0ea86c7a",
+  "title": "Air",
+  "originalTitle": "Air",
+  "overview": "A sport világa többé soha nem lesz olyan, mint volt. Egy hízásra hajlamos, korosodó kosaras játékos-megfigyelő (Matt Damon) a Nike alkamazottja lesz. Szenvedélyesen keresi azt a kosarast, akivel szerződve az akkor még kis cég megmutathatja a világnak, mit tud. Keresi, keresi, végül megtalálja az emberét: egy olyan játékos személyében, aki még egy percet sem töltött az NBA pályáin. Ő mégis harcba száll azért, amiben hisz: hogy ha ezzel a zöldfülű kosarassal kötnek szerződést, az magasra viheti a céget. Új cipőt terveztet. Újfaja szerződést köt. Mindenkivel szembeszáll... Ő és társai másképpen gondolkodtak, mint a szakmájukban mindenki más. Mindent kockára tettek és igazuk lett.",
+  "backdropPath": "/aT3sRVqgpkyCo23fp9myVfKPWbA.jpg",
+  "posterPath": "/aEWXC0pse1Z3gkhELPZ9QpmzSXC.jpg",
+  "releaseDate": "2023-04-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "61c919bd-99ee-460b-9a7d-4be567a5343e",
+      "title": "Air",
+      "subtitle": null,
+      "timestampString": "03:22:09",
+      "timestampInSeconds": 12129,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #253",
+        "youtubeId": "qh8K0plyKrk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/qh8K0plyKrk/hqdefault.jpg",
+        "durationInMinutes": 284,
+        "releaseDate": 1682442009000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "a5727bbe-af5a-4721-8c07-2290e07b1211",
+            "name": "ChatGPT"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

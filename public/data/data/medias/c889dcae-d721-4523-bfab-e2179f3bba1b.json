@@ -1,0 +1,45 @@
+{
+  "id": "c889dcae-d721-4523-bfab-e2179f3bba1b",
+  "title": "Kim Dotcom: Caught in the Web",
+  "originalTitle": "Kim Dotcom: Caught in the Web",
+  "overview": "",
+  "backdropPath": "/ht9MCD7zFQ1Wav5zKdZmZ7wp0GR.jpg",
+  "posterPath": "/lXEUqP9TmWvbnq8VcbJY7qMv7oD.jpg",
+  "releaseDate": "2017-03-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "23f0781d-2707-49f9-b5ac-ef7b27e0c9dc",
+      "title": "Kim Dotcom: Caught in the Web",
+      "subtitle": null,
+      "timestampString": "03:35:10",
+      "timestampInSeconds": 12910,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #128",
+        "youtubeId": "YoKRZAg1KR0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/YoKRZAg1KR0/hqdefault.jpg",
+        "durationInMinutes": 252,
+        "releaseDate": 1505410953000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

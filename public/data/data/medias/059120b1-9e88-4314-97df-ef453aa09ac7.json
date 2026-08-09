@@ -1,0 +1,45 @@
+{
+  "id": "059120b1-9e88-4314-97df-ef453aa09ac7",
+  "title": "Halál a hídon",
+  "originalTitle": "Blow Out",
+  "overview": "Jack hangmérnökként dolgozik a filmgyárban, a munkája megszállottja. Egyik éjszaka mezei kirándulásra indul, hogy magnóra vegye a szél fütyülését egy készülő horrorfilmhez. Munkáját váratlan közjáték szakítja meg, egy közlekedési baleset szemtanúja lesz. Először autógumi kipukkanását hallja, majd látja, amint egy autó áttöri a híd korlátját és a mélybe zuhan. Jack a vízbe ugrik, és sikerül kimentenie a kocsi utasát, Sallyt, a fiatal lányt. A sofőr, a szépreményű elnökjelölt azonban halott. A rendőrségi vizsgálat szerint baleset történt, ám Jack rájön, hogy valójában merényletről van szó. Néhány embernek nem áll érdekében, hogy mindez kiderüljön.",
+  "backdropPath": "/nk87CtgZ7wd86W37oJHGYAJbmLz.jpg",
+  "posterPath": "/hYXLX4G7p1ZA0Sde5lHwOsJGWvP.jpg",
+  "releaseDate": "1981-07-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d5c7a357-8fdd-4f1f-8776-1085b4271602",
+      "title": "Halál a hídon",
+      "subtitle": null,
+      "timestampString": "03:45:35",
+      "timestampInSeconds": 13535,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #272",
+        "youtubeId": "KpeK1-FjITs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/KpeK1-FjITs/hqdefault.jpg",
+        "durationInMinutes": 253,
+        "releaseDate": 1708456799000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

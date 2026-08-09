@@ -1,0 +1,58 @@
+{
+  "id": "025f1055-7ec5-4869-8827-9d49d5627a29",
+  "title": "Roma",
+  "originalTitle": "Rome",
+  "overview": "Miután a nyolcéves háborúskodást követően Gaius Julius Caesar sikerrel meghódította Galliát, visszatérni készül Itáliába. Vele vannak harcedzett légiói, a bizalmi emberei és rengeteg rabszolga. Arany és más zsákmány mellett egy elképzelést is visz magával arról, milyen gyökeres társadalmi változásokra van szükség Rómában. A megrettent arisztokraták azzal fenyegetőznek, hogy mondvacsinált okokkal bíróság elé állítják, ha beteszi lábát a városba. A szenátusban az erőegyensúlyt Caesar régi barátja, társa és mentora, Pompeius Magnus tartja fenn. Ebben a helyzetben Caesar 13. légiójának két katonája, Lucius Vorenus és Titus Pullo parancsot kap, hogy induljanak a gall vadonba, és szerezzék vissza Caesar légióinak ellopott jelvényét. Ez indítja el a körülmények különös láncolatát, melyek egymásba fonódnak az ókori Róma történetének sorsfordító eseményeiben.",
+  "backdropPath": "/b2fhZk0xB2TgMsDXT6goR28PoHX.jpg",
+  "posterPath": "/zpxo917xU81p7w2virQMbhnJGqG.jpg",
+  "releaseDate": "2005-08-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c460e083-d6a3-457d-9d96-61f006b3a738",
+      "title": "Róma",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Róma",
+        "youtubeId": "gfon8BOBcQU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gfon8BOBcQU/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1377335702000,
+        "participants": []
+      }
+    },
+    {
+      "id": "f184ca95-1ae2-42e8-adb7-5879fca4c75e",
+      "title": "Roma",
+      "subtitle": null,
+      "timestampString": "01:18:24",
+      "timestampInSeconds": 4704,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #160",
+        "youtubeId": "_a3zVw9qNvs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_a3zVw9qNvs/hqdefault.jpg",
+        "durationInMinutes": 196,
+        "releaseDate": 1547731556000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

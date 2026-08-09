@@ -1,0 +1,41 @@
+{
+  "id": "7318ba67-54f0-4581-9861-64a9524f5339",
+  "title": "Sehol se otthon",
+  "originalTitle": "A Complete Unknown",
+  "overview": "New York, 1960-as évek eleje. Az élénk zenei élet és a viharos kulturális felfordulás hátterében egy rejtélyes, 19 éves minnesotai fiatal érkezik West Village-be gitárjával és forradalmi tehetségével, akinek az a sorsa, hogy megváltoztassa az amerikai zene irányvonalát.",
+  "backdropPath": "/otugS74HEHdca4aTCtt8HtXvPYV.jpg",
+  "posterPath": "/854kExJU9Pgi1RUaU70ZxTtPXjW.jpg",
+  "releaseDate": "2024-12-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0b1ab5e8-1a08-4813-9d3f-477dd6f9b21d",
+      "title": "Sehol se otthon",
+      "subtitle": null,
+      "timestampString": "02:15:12",
+      "timestampInSeconds": 8112,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #296",
+        "youtubeId": "2X4YekH4jj4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/2X4YekH4jj4/hqdefault.jpg",
+        "durationInMinutes": 189,
+        "releaseDate": 1739562524000,
+        "participants": [
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4952c7e1-7be2-4c23-8804-424143b21353",
+  "title": "Vérző olaj",
+  "originalTitle": "There Will Be Blood",
+  "overview": "Az 1900-as évek elején minden az olajról szól az amerikai határvidéken. Amikor Daniel Plainview hírét veszi, hogy van egy kisváros nyugaton, amely szinte fürdik az olajban, felkerekedik és a fiával együtt útnak indul Kaliforniába. Számítását siker koronázza, megcsinálja a szerencséjét, gazdag emberré válik. Ám a kitermelt olaj mennyiségével egyenes arányban növekszik a konfliktusok száma. Az olajbányászat velejárója a korrupció, a csalás, a pénz, a gazdagság ígérete elvakítja az embereket, veszélybe kerülnek a hagyományos értékek.",
+  "backdropPath": "/9UAKA6ceZi6TgQwTAAMt7DWwYPI.jpg",
+  "posterPath": "/qIfJ55NdX3Z0R2h0Xjm4X4ITw7e.jpg",
+  "releaseDate": "2007-12-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "47a1dc84-dae5-4e54-8b37-b111552e6270",
+      "title": "Vérző olaj",
+      "subtitle": null,
+      "timestampString": "03:55:05",
+      "timestampInSeconds": 14105,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #216",
+        "youtubeId": "30tV_qEGOIE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/30tV_qEGOIE/hqdefault.jpg",
+        "durationInMinutes": 291,
+        "releaseDate": 1629219607000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

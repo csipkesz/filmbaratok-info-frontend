@@ -1,0 +1,41 @@
+{
+  "id": "83592e6d-1153-48cb-8d78-b64044a0f705",
+  "title": "aMItől félsz",
+  "originalTitle": "Afraid",
+  "overview": "Ez olyan, mintha megütötték volna a főnyereményt! Curtist (John Cho) az a szerencse éri, hogy egy családoknak segítő mesterséges szuperintelligencia kissé bolondos kifejlesztője neki ajánlja fel a nagy lehetőséget: az ő családjánál próbálják ki, milyen az, ha a szokásos unalmas, kellemetlen, zavaros családi ügyeket egy gépre bízzák, és ő mindent elintéz – pontosabban, gyorsabban, készségesebben, mint a szülők és a három gyerek.  De az MI túl jól dolgozik. Mindent elkövet, hogy pontosan végrehajtsa, amire programozták; megvédi a gazdáit, nem törődik vele, hogy milyen eszközöket kell hozzá bevetnie, és kin kell átgázolnia hozzá. Ráadásul úgy tűnik, kikapcsolhatatlan. Ha viszont lázadó családtagot sejt valahol, akkor nem ismer kegyelmet.",
+  "backdropPath": "/zu4m80pS1EBqDd000xD6exSyHp4.jpg",
+  "posterPath": "/lokCn3g5fNqOv9VexVWE6VGTUCf.jpg",
+  "releaseDate": "2024-08-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "03aecf8a-c975-4d79-b9af-bf15db95367e",
+      "title": "aMItől félsz",
+      "subtitle": null,
+      "timestampString": "00:49:30",
+      "timestampInSeconds": 2970,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #287",
+        "youtubeId": "t0z5SbpHLjU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/t0z5SbpHLjU/hqdefault.jpg",
+        "durationInMinutes": 151,
+        "releaseDate": 1727611956000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "191624f4-27e9-47ff-a2e5-665143acf5c4",
+  "title": "Kivert kutyák",
+  "originalTitle": "Strays",
+  "overview": "Amikor Reggie az utcára kerül, az eb biztos abban, hogy szeretett gazdája, Doug sosem hagyná őt magára. Ám miután összeismerkedik Bogárral, a mosdatlan szájú kóbor kutyával, Reggie rájön, hogy Doug mekkora egy rohadék. Így aztán Reggie, Bogár és cimborái bosszúra éhesen tervet kovácsolnak, hogy Doug megkapja amit érdemel.",
+  "backdropPath": "/1HzL603WOer58xtnrRYdSIL5K04.jpg",
+  "posterPath": "/1xMvKMPJUwgCLWNPnLBnfwP6ydo.jpg",
+  "releaseDate": "2023-08-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e372b6b9-37b1-4a80-8b0f-45b623e562a3",
+      "title": "Kivert kutyák",
+      "subtitle": null,
+      "timestampString": "02:10:20",
+      "timestampInSeconds": 7820,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #261",
+        "youtubeId": "riCSpLjExWo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/riCSpLjExWo/hqdefault.jpg",
+        "durationInMinutes": 207,
+        "releaseDate": 1693369891000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

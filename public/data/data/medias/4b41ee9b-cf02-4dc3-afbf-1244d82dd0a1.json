@@ -1,0 +1,41 @@
+{
+  "id": "4b41ee9b-cf02-4dc3-afbf-1244d82dd0a1",
+  "title": "Excsajok szelleme",
+  "originalTitle": "Ghosts of Girlfriends Past",
+  "overview": "Connor Mead hírességek fotósa, imádja a szabadságot, a jó hangulatot és a nőket ebben a sorrendben. Ő a született agglegény, aki teljesen helyénvalónak tartja, ha konferenciahívás keretében egyszerre szakít három barátnőjével. Az öccsét viszont más fából faragták és a srác esküvőjére összegyűlő násznép nem tartja túl nagyra a báty csábítási hőstetteit. A legkevesebbre régi haverja, a férfi csáberejére egyedül érzéketlen Jenny értékeli. Úgy néz ki, Connor egymaga képes elrontani az öccse lagziját, de a nagy nap előtti éjszakán kísértet lát: megjelenik neki Wayne bácsi, az egykori nőcsábász agglegény, hősünk örök példaképe. Meglátogatják őt régi barátnői szellemei: magukkal ragadják, elviszik a múltba és a jövőbe, hogy szembenézzen sok elrontott, tönkretett és szétzilált kapcsolatával.",
+  "backdropPath": "/oy9Ox4WGPkOJ3656CNKasVjAnKS.jpg",
+  "posterPath": "/cAz6si7EpI0wQbC8cgbcPTPlNM2.jpg",
+  "releaseDate": "2009-05-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "061254f1-821b-4503-b2c2-633632b9a744",
+      "title": "Excsajok szelleme",
+      "subtitle": null,
+      "timestampString": "02:25:05",
+      "timestampInSeconds": 8705,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #56",
+        "youtubeId": "IGq19Ebu3DU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IGq19Ebu3DU/hqdefault.jpg",
+        "durationInMinutes": 199,
+        "releaseDate": 1409327568000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

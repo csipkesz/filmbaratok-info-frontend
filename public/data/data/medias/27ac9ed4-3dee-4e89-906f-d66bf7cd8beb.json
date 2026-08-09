@@ -1,0 +1,45 @@
+{
+  "id": "27ac9ed4-3dee-4e89-906f-d66bf7cd8beb",
+  "title": "Nyírjuk ki Gunthert",
+  "originalTitle": "Killing Gunther",
+  "overview": "A bérgyilkosok világában játszódó vígjátékban egy csapat fiatal, menő és fegyelmezetlen bérgyilkos rákényszerít egy dokumentumfilm-forgatócsoportot, hogy kövessék őket és vegyék fel, hogy bizonyíthassák: ők azok, akik kinyírták mindenidők leghírhedtebb zsoldosát, Günthert. De Günther mindig egy lépéssel előttük jár, és mindent megtesz azért, hogy pokollá tegye életüket. Gyilkos versenyfutás veszi kezdetét: ölsz, vagy megölnek; a vadászok nagyon gyorsan prédává válhatnak.",
+  "backdropPath": "/u39BX33drFeaUTobnECyRRQbCED.jpg",
+  "posterPath": "/AnBYQFgEZGZ6AhC0lianGBAmcSz.jpg",
+  "releaseDate": "2017-09-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d6d573b7-3f97-4242-9288-e6d5a2ac4b56",
+      "title": "Nyírjuk ki Gunthert",
+      "subtitle": null,
+      "timestampString": "00:47:55",
+      "timestampInSeconds": 2875,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #131",
+        "youtubeId": "QymLKg2wvV4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/QymLKg2wvV4/hqdefault.jpg",
+        "durationInMinutes": 230,
+        "releaseDate": 1509033085000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

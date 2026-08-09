@@ -1,0 +1,45 @@
+{
+  "id": "80ff3da0-ff1d-482e-92eb-dc809b0fb865",
+  "title": "Maradj!",
+  "originalTitle": "Stay",
+  "overview": "Sam Foster New York-i pszichiáter minden igyekezetével azon van, hogy megakadályozza fiatal páciense öngyilkosságát. Henry Letham egy hét múlva, a huszonegyedik születésnapján akar végezni magával. Miközben Sam egyre mélyebbre hatol Henry tudatalattijának labirintusába, a pszichiáter racionális világfelfogása is omladozni kezd. Sam hamarosan képtelen megkülönböztetni a valóságot az álomvilágtól, Nem tudja, hol végződik az ő, és hol kezdődik Henry világa. A kérdés voltaképpen az, hogy kicsoda ez a Henry Letham, és miért zúzza darabjaira Sam világát?",
+  "backdropPath": "/eUNQJ0XKHoGDDQzj1Y4WhE5zAFJ.jpg",
+  "posterPath": "/8CAr3IUE2wLH239hdzXws40Ezh1.jpg",
+  "releaseDate": "2005-09-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e32b7ea8-a022-44c3-b437-5fd4480475b6",
+      "title": "Maradj!",
+      "subtitle": null,
+      "timestampString": "01:09:03",
+      "timestampInSeconds": 4143,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #157",
+        "youtubeId": "IAfkWR4qRU4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IAfkWR4qRU4/hqdefault.jpg",
+        "durationInMinutes": 222,
+        "releaseDate": 1545146746000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

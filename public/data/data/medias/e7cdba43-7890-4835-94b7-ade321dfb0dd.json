@@ -1,0 +1,58 @@
+{
+  "id": "e7cdba43-7890-4835-94b7-ade321dfb0dd",
+  "title": "The Star Wars Holiday Special",
+  "originalTitle": "The Star Wars Holiday Special",
+  "overview": "Chewbacca és Han Solo meglátogatja Chewbacca családját .",
+  "backdropPath": "/sPD0PDHStJo619mJzCrBuuYrN1o.jpg",
+  "posterPath": "/lGJDx7RCgyMMa3owtp150umMnnJ.jpg",
+  "releaseDate": "1978-11-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f2b30327-e903-44b5-b8e2-6a0a99daf1e2",
+      "title": "The Star Wars Holiday Special",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "AUDIO_COMMENTARY",
+        "title": "Filmbarátok Audiokommentár: The Star Wars Holiday Special",
+        "youtubeId": "nT99LQIhFUQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nT99LQIhFUQ/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1497253279000,
+        "participants": []
+      }
+    },
+    {
+      "id": "fbea0263-0e7d-4f2f-9858-a3b47ea86ddb",
+      "title": "The Star Wars Holiday Special",
+      "subtitle": null,
+      "timestampString": "02:17:05",
+      "timestampInSeconds": 8225,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #123",
+        "youtubeId": "bURb6dAUghs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/bURb6dAUghs/hqdefault.jpg",
+        "durationInMinutes": 147,
+        "releaseDate": 1497253469000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

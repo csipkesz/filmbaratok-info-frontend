@@ -1,0 +1,45 @@
+{
+  "id": "678a493f-f2f2-445c-8483-50a73c78a1fc",
+  "title": "A felolvasó",
+  "originalTitle": "The Reader",
+  "overview": "A második világháború után a kamasz Michael rosszul lesz az utcán, és egy ismeretlen nő segít neki hazajutni. Felgyógyulása után a fiú felkeresi a nála kétszer idősebb Hannát, hogy megköszönje neki a segítségét. Szenvedélyes és titkos viszony alakul ki kettejük között. Michael rendszeresen felolvas a nőnek, aki idővel váratlanul eltűnik, kétségek közt hagyva a fülig szerelmes kamaszt. Nyolc esztendővel később a joghallgató Michael a náci háborús bűnösök tárgyalásaira jár. Megdöbben, amikor a vádlottak padján látja viszont kamaszkori szerelmét.",
+  "backdropPath": "/waMGsUEoHfYj3A1uRMUUgpBa71d.jpg",
+  "posterPath": "/ck9on0l5OXEXu9KwR1DUsiRjeBq.jpg",
+  "releaseDate": "2008-12-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b201921d-e739-4743-ae31-17f8e0f45361",
+      "title": "A felolvasó",
+      "subtitle": null,
+      "timestampString": "02:49:10",
+      "timestampInSeconds": 10150,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #204",
+        "youtubeId": "uCWG2Ku59nQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uCWG2Ku59nQ/hqdefault.jpg",
+        "durationInMinutes": 207,
+        "releaseDate": 1610723034000,
+        "participants": [
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "a9106f7e-c8f8-4ed6-8a88-4a42b5e0f8b9",
+            "name": "Anna"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

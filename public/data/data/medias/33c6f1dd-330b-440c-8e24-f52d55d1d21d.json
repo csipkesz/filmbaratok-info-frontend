@@ -1,0 +1,41 @@
+{
+  "id": "33c6f1dd-330b-440c-8e24-f52d55d1d21d",
+  "title": "Az asztronauta",
+  "originalTitle": "The Astronaut's Wife",
+  "overview": "Két asztronauta elhagyja az űrhajót, hogy megjavítson egy elromlott műholdat, és ekkor két percre megszakad velük a földi kapcsolat. Mindketten épségben hazatérnek, de valahogy már egyikük sem ugyanolyan, mint régen.",
+  "backdropPath": "/c77Aq23NdM8UAzlH5GuniJBuCPd.jpg",
+  "posterPath": "/rEATfBs4exRHDGA15QkZH7TDXLv.jpg",
+  "releaseDate": "1999-08-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b2cea3d5-ff3b-4733-9839-19c52e1ecea5",
+      "title": "Az asztronauta",
+      "subtitle": null,
+      "timestampString": "03:28:47",
+      "timestampInSeconds": 12527,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #302",
+        "youtubeId": "3K4xdZiHI_w",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3K4xdZiHI_w/hqdefault.jpg",
+        "durationInMinutes": 235,
+        "releaseDate": 1747414746000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "002d2b56-ade0-4bb3-b31d-4552de5b8391",
+  "title": "Részeges karatemester 2",
+  "originalTitle": "醉拳二",
+  "overview": "Az első világháború kitörése előtt, a Mandzsu dinasztia bukása, és az egyre sűrűbb helyi felkelések, népmozgalmak ideje kifejezetten kedvezett egy nagyszabású csempészhálózat kialakításának Kínában. A mindenre hajlandó, eszközökben nem válogató angol konzul vezetésével, a helybeli tisztviselők mohó közreműködésével kísérlet indul a koronaékszerek kicsempészésére az országból. Csak egy valakinek, a legendás hősnek, Huang Fei-hungnak van elegendő bátorsága ahhoz, hogy szembeszálljon az ősi kultúrát sem tisztelő bűnözőkkel...",
+  "backdropPath": "/zo14UuFDTVy91cBNWHplHCqHCPt.jpg",
+  "posterPath": "/oocaK2MZhlR0aYHdQpYAyJhutL8.jpg",
+  "releaseDate": "1994-02-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b7ae340d-44de-42c9-ae98-a0d355776dea",
+      "title": "Részeges karatemester 2",
+      "subtitle": null,
+      "timestampString": "00:59:00",
+      "timestampInSeconds": 3540,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #223",
+        "youtubeId": "uKeMDPapOJE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uKeMDPapOJE/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1639837304000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

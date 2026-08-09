@@ -1,0 +1,45 @@
+{
+  "id": "0a0f0189-004f-4eed-88d5-7dace40f7348",
+  "title": "Palmer",
+  "originalTitle": "Palmer",
+  "overview": "Tizenkét börtönben töltött év után az egykori gimnáziumi futballsztár, Eddie Palmer hazatér, hogy helyrehozza az életét - közben nem mindennapi barátságot köt Sammel, a problémás családból származó, különc fiúval. Azonban Eddie múltja veszélybe sodorja új életét és családját.",
+  "backdropPath": "/mlBmnjDJfsAhvqRVc2aFOjsfh8M.jpg",
+  "posterPath": "/xSDdRAjxKAGi8fUBLOqSrBhJmF0.jpg",
+  "releaseDate": "2021-01-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "41c0bc9a-2718-4719-b93c-33453b9749bb",
+      "title": "Palmer",
+      "subtitle": null,
+      "timestampString": "00:43:45",
+      "timestampInSeconds": 2625,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #208",
+        "youtubeId": "VmpaZBFyHfg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VmpaZBFyHfg/hqdefault.jpg",
+        "durationInMinutes": 205,
+        "releaseDate": 1616583355000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

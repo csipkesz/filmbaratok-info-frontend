@@ -1,0 +1,45 @@
+{
+  "id": "3a60a419-a7be-4d87-a783-05ac0e017ebf",
+  "title": "Joker",
+  "originalTitle": "Joker",
+  "overview": "Nem volt még őrültebb, veszélyesebb és viccesebb antihős a képregényvilágban. De hogyan lett Jokerből Joker, a komor Batman örök ellensége és ellentéte? Ez a történet megmutatja, miképpen válhat egy ártatlan lúzerből világok felforgatója, hadseregek legyőzője és szuperhősök méltó ellenfele.",
+  "backdropPath": "/rlay2M5QYvi6igbGcFjq8jxeusY.jpg",
+  "posterPath": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+  "releaseDate": "2019-10-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8dc53086-d0ec-43c1-9144-9ec90c0b5566",
+      "title": "Joker",
+      "subtitle": null,
+      "timestampString": "00:40:00",
+      "timestampInSeconds": 2400,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #177",
+        "youtubeId": "SiiouPY48NM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/SiiouPY48NM/hqdefault.jpg",
+        "durationInMinutes": 237,
+        "releaseDate": 1571926127000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

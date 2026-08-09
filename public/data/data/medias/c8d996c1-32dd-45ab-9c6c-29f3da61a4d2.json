@@ -1,0 +1,45 @@
+{
+  "id": "c8d996c1-32dd-45ab-9c6c-29f3da61a4d2",
+  "title": "A buborék",
+  "originalTitle": "The Bubble",
+  "overview": "Egy sokoldalú színészekből álló csapat a pandémia következtében egy patinás hotelben reked. Ebben a buborékban próbálják meg befejezni a repülő dínókról szóló akciófilmjük (Cliff Beast) következő részét...",
+  "backdropPath": "/y89hoB6di11oe3C2LJxNm2NyLJC.jpg",
+  "posterPath": "/jJaeDXOeN1iyK7TgGQHxBdR0QNv.jpg",
+  "releaseDate": "2022-03-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c9b788a4-c3d1-4ffb-a534-6e9b99658623",
+      "title": "A buborék",
+      "subtitle": null,
+      "timestampString": "03:06:45",
+      "timestampInSeconds": 11205,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #233",
+        "youtubeId": "YF7Jep8cRvw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/YF7Jep8cRvw/hqdefault.jpg",
+        "durationInMinutes": 256,
+        "releaseDate": 1654016337000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

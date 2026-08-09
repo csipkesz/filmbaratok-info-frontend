@@ -1,0 +1,41 @@
+{
+  "id": "efa128d8-ee0a-42ff-a0be-248a4060f0da",
+  "title": "An American Pickle",
+  "originalTitle": "An American Pickle",
+  "overview": "Az Amerikába emigrált Herschel Greenbaum (Seth Rogen), aki mindig is jobb életet álmodott családjának, egy nap véletlenül belepottyan egy hordónyi ecetes uborkába, ami száz évig tartósítja őt. Így jut el 1920-ból 2020-ba, vele együtt pedig dédunokájához, Benhez. A 100 éves férfi megpróbál beilleszkedni a modern társadalomba és közben be akarja tartani feleségének tett ígéretét is.",
+  "backdropPath": "/3H1yUIL1KxIuIMRwNMSL9cvifby.jpg",
+  "posterPath": "/5uP90xWS8KvCyp8ZWpQVZGT20ue.jpg",
+  "releaseDate": "2020-08-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f4ed6d56-5277-478c-a1fa-6a6f3a46cabc",
+      "title": "An American Pickle",
+      "subtitle": null,
+      "timestampString": "02:50:00",
+      "timestampInSeconds": 10200,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #195",
+        "youtubeId": "ub7UnLmmwMA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ub7UnLmmwMA/hqdefault.jpg",
+        "durationInMinutes": 217,
+        "releaseDate": 1597415274000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

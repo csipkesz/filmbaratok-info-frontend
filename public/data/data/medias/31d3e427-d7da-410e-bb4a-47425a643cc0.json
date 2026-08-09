@@ -1,0 +1,45 @@
+{
+  "id": "31d3e427-d7da-410e-bb4a-47425a643cc0",
+  "title": "Amszterdam",
+  "originalTitle": "Amsterdam",
+  "overview": "Az 1930-as években három barát – egy orvos, egy nővér és egy ügyvéd – gyilkosság szemtanúja lesz, maguk is gyanúsítottakká válnak, és feltárják Észak-Amerika történelmének egyik legfelháborítóbb összeesküvését.",
+  "backdropPath": "/qyI3NAVrzq0THorufGdY91CK0Ea.jpg",
+  "posterPath": "/gP8mSvgGyXTigbnbAH3xZX5aKDb.jpg",
+  "releaseDate": "2022-09-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c8e84c14-4fd2-4e20-a816-6ef4f71a6456",
+      "title": "Amszterdam",
+      "subtitle": null,
+      "timestampString": "01:33:40",
+      "timestampInSeconds": 5620,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #243",
+        "youtubeId": "gCWkf0UnSwY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gCWkf0UnSwY/hqdefault.jpg",
+        "durationInMinutes": 296,
+        "releaseDate": 1668706204000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          }
+        ]
+      }
+    }
+  ]
+}

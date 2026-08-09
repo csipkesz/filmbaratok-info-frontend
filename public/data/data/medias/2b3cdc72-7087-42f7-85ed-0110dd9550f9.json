@@ -1,0 +1,37 @@
+{
+  "id": "2b3cdc72-7087-42f7-85ed-0110dd9550f9",
+  "title": "A holnap határa",
+  "originalTitle": "Edge of Tomorrow",
+  "overview": "Bill Cage katona, de eddig elkerülte a veszélyt - pedig az emberiség egy űrből érkezett, könyörtelen fajjal vív hosszú, elkeseredett háborút. Amikor váratlanul mégis bevetik, ő rossz felszereléssel, kevés tapasztalattal indul csatába és nem is bírja sokáig: gyors és kegyetlen hősi halált hal. Azután feltámad és újra harcba indul. És újra és újra és újra. A földönkívülivel való közvetlen érintkezés időhurokba sodorta és ő kénytelen számtalanszor végigélni ugyanazt a pokoli küzdelmet, hogy azután újra alul maradjon. Ám az esélyei egyre jobbak. Amikor pedig felbukkan mellette egy különlegesen kiképzett katona, még az is lehetővé válik, hogy ne csak magukat mentsék meg, hanem az egész világot.",
+  "backdropPath": "/4V1yIoAKPMRQwGBaSses8Bp2nsi.jpg",
+  "posterPath": "/k486ngiWxHjPuxRQULXmvpMGjNv.jpg",
+  "releaseDate": "2014-05-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "47fcc4d0-5f02-487f-8039-38f1416a1a39",
+      "title": "A holnap határa",
+      "subtitle": null,
+      "timestampString": "00:27:30",
+      "timestampInSeconds": 1650,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #52",
+        "youtubeId": "z5hnMqJSVxs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z5hnMqJSVxs/hqdefault.jpg",
+        "durationInMinutes": 121,
+        "releaseDate": 1403347391000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

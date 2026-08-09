@@ -1,0 +1,45 @@
+{
+  "id": "04b428ef-7ff5-46b5-848e-b9d091f2b298",
+  "title": "Nap nap után",
+  "originalTitle": "Every Day",
+  "overview": "A 16 éves Rhiannon beleszeret egy különös lélekbe, akit csak A-nak hívnak, és minden egyes nap más ágyban, más-más testben ébred. A kettejük között kialakuló kapcsolat olyan erős, hogy elhatározzák, minden nap megkeresik egymást, pedig még csak nem is sejtik, mit és kit hoz a következő reggel. Ahogy egyre inkább beleszeretnek egymásba, a realitásokkal is kénytelenek szembenézni: vajon képesek lehetnek úgy leélni közös életüket, hogy egyikük minden 24 órában más személyt testesít meg?",
+  "backdropPath": "/wEXYJgW5l2IwwNdRVk9ixgKl8qu.jpg",
+  "posterPath": "/koibF8Yqq3xRQosQjvsTHR6MqT3.jpg",
+  "releaseDate": "2018-02-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b0e39587-8b99-4c01-829b-4f1318b94a8d",
+      "title": "Nap nap után",
+      "subtitle": null,
+      "timestampString": "01:12:35",
+      "timestampInSeconds": 4355,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #141",
+        "youtubeId": "gWd3V1HCpWA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gWd3V1HCpWA/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1522558409000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

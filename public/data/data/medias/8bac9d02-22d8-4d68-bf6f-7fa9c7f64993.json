@@ -1,0 +1,45 @@
+{
+  "id": "8bac9d02-22d8-4d68-bf6f-7fa9c7f64993",
+  "title": "Az utolsó akcióhős",
+  "originalTitle": "Last Action Hero",
+  "overview": "Jack Slater (Arnold Schwarzenegger) nyomozó még soha egyetlen ügyből sem került ki vesztesként. Los Angeles magányos hőse a filmek világában él, a mozivászon az otthona. Ez a világ azonban egyik pillanatról a másikra felbolydul, amikor a 11 éves Danny (Austin O'Brien) egy varázserővel bíró mozijegynek köszönhetően egy Slater-film kellős közepén találja magát, kedvenc hőse oldalán. Az igazi bonyodalmak azonban akkor kezdődnek, amikor Danny varázsjegye a bűnözők kezébe kerül, akik ennek segítségével a filmből a valóságba menekülnek. Az őket üldöző Slaternek azonban szembe kell néznie a szomorú ténnyel, hogy néha a rosszak győzedelmeskednek. Ám Slatert nem olyan fából faragták, hogy egy kis valóság a kedvét szegje.",
+  "backdropPath": "/bumIpNTKmLY380bruTgIDTrXfpZ.jpg",
+  "posterPath": "/sXwXj5HUzUO8TuMCFElxVDQfrL5.jpg",
+  "releaseDate": "1993-06-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2a38e384-de2a-4a9e-88b5-f3959bab5136",
+      "title": "Az utolsó akcióhős",
+      "subtitle": null,
+      "timestampString": "02:33:33",
+      "timestampInSeconds": 9213,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #279",
+        "youtubeId": "xiW0oPdZsx4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/xiW0oPdZsx4/hqdefault.jpg",
+        "durationInMinutes": 209,
+        "releaseDate": 1717092028000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

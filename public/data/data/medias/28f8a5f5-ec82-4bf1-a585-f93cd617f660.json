@@ -1,0 +1,45 @@
+{
+  "id": "28f8a5f5-ec82-4bf1-a585-f93cd617f660",
+  "title": "Steve Jobs",
+  "originalTitle": "Steve Jobs",
+  "overview": "A három ikonikus termékbemutató kulisszái mögött játszódó, és az iMac 1998-as prezentációjával végződő STEVE JOBS betekintést nyújt a digitális forradalom műhelytitkaiba, és intim portrét rajzol az események középpontjában álló briliáns emberről.",
+  "backdropPath": "/xj49X22pmh61fWBsveCkHtVtOBS.jpg",
+  "posterPath": "/ljiRO29Y9khEERRqMluptUYunJ9.jpg",
+  "releaseDate": "2015-10-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f7e94dbf-6189-4469-bbc9-e34b0c142e10",
+      "title": "Steve Jobs",
+      "subtitle": null,
+      "timestampString": "02:48:12",
+      "timestampInSeconds": 10092,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #91",
+        "youtubeId": "G-6KMqIQhQQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/G-6KMqIQhQQ/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1454001243000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

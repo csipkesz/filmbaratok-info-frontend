@@ -1,0 +1,45 @@
+{
+  "id": "76201122-eee0-4b67-8c3e-5d6d9a13c0dc",
+  "title": "Szemtől szemben",
+  "originalTitle": "Heat",
+  "overview": "A legprofibb rendőr játszmája a legprofibb bankrabló ellen. Neil McCauley a bűnözők királya, az évszázad bűntényére készül. Vincent Hanna nyomozó, a rendőrség legjobb koponyája, aki már szinte mániákusan üldözi McCauley-t, bármi áron el akarja kapni. Az ár magasabb lesz, mint akár ő maga is hitte volna.",
+  "backdropPath": "/xKsnZDERG1dk95wuZ5q9iks3OL3.jpg",
+  "posterPath": "/Ya8u7WQPRwuKea2XRKPrVCTK1l.jpg",
+  "releaseDate": "1995-12-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5d1d472a-f23f-42d3-b828-6051131fe38b",
+      "title": "Szemtől szemben",
+      "subtitle": null,
+      "timestampString": "01:33:52",
+      "timestampInSeconds": 5632,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #299",
+        "youtubeId": "xjwmsXHThGE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/xjwmsXHThGE/hqdefault.jpg",
+        "durationInMinutes": 200,
+        "releaseDate": 1742750106000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

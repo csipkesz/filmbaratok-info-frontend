@@ -1,0 +1,45 @@
+{
+  "id": "af8920fc-3ae8-48fb-857e-877de4a4dfdc",
+  "title": "Spielberg",
+  "originalTitle": "Spielberg",
+  "overview": "Steven Spielberg egyike a világ leghíresebb filmeseinek. A közel ötven éves pályafutása során páratlan életművet alkotott. Most elmeséli életét, egyedülálló kapcsolatát a filmkészítéssel. A keserédes gyerekkorától kezdve végigkövethetjük pályáját a felemelkedésen, majd a hihetetlen kasszasikereken át a drámai alkotásokig. Az HBO saját gyártású filmje betekintést nyújt a Spielberg család tagjainak életébe is, megszólalnak a barátai és kollégái, és számos kulisszák mögötti felvételt is láthatunk.",
+  "backdropPath": "/fHM3ChEYaoAEcCCpRokQzN2DBYy.jpg",
+  "posterPath": "/2AAvIR2PHoxNITgLDOkXXlWLlua.jpg",
+  "releaseDate": "2017-10-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b68fd040-191d-4253-b8f8-057a0584f831",
+      "title": "Spielberg",
+      "subtitle": null,
+      "timestampString": "02:54:50",
+      "timestampInSeconds": 10490,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #133",
+        "youtubeId": "HByKV2iRM34",
+        "thumbnailUrl": "https://i.ytimg.com/vi/HByKV2iRM34/hqdefault.jpg",
+        "durationInMinutes": 235,
+        "releaseDate": 1512135779000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

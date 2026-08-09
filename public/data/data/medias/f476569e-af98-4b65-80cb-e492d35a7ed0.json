@@ -1,0 +1,53 @@
+{
+  "id": "f476569e-af98-4b65-80cb-e492d35a7ed0",
+  "title": "Unsane",
+  "originalTitle": "Unsane",
+  "overview": "Egy lány elhagyja szülővárosát, hogy maga mögött hagyja múltját és új munkát találjon. A nő végül egy pszichiátriai intézetben köt ki, ahova akarata ellenére zárják. Hiába próbál meggyőzni másokat, hogy élete veszélyben forog, senki nem hisz neki, még a hatóságok sem. Lassan már a saját elméje is képtelen eldönteni, a félelme valódi vagy csak a képzeletének gyümölcse.",
+  "backdropPath": "/5u0ImRdr8Z6uyDfmSWcThXEb8cl.jpg",
+  "posterPath": "/nbyqW7XPMJKJHIueN4AZKRnGML5.jpg",
+  "releaseDate": "2018-03-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c2c1960b-5491-4019-8602-8c51e3bdf1db",
+      "title": "Unsane",
+      "subtitle": null,
+      "timestampString": "01:23:55",
+      "timestampInSeconds": 5035,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #145",
+        "youtubeId": "oIN5otdDLXA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/oIN5otdDLXA/hqdefault.jpg",
+        "durationInMinutes": 299,
+        "releaseDate": 1528994767000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "77d14e6b-7100-40fe-af2f-f7dda477ca51",
+            "name": "Gábor (Videodrome)"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ff248333-0d00-40bd-af3c-6049f0a070c6",
+            "name": "Szöllőskei Gábor"
+          }
+        ]
+      }
+    }
+  ]
+}

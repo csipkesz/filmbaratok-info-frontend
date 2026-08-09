@@ -1,0 +1,45 @@
+{
+  "id": "a7f47ddf-3ab6-4bc9-a8d7-a7b4f7b71f06",
+  "title": "Képzeletbeli",
+  "originalTitle": "Imaginary",
+  "overview": "Amikor Jessica a családjával visszaköltözik gyermekkori otthonába, legfiatalabb mostohalánya, Alice kísérteties kötődést alakít ki egy Chauncey nevű plüss medvével, akit az alagsorban talál. Alice nyugtalanító játékba kezd Chauncey-val, ami egyre baljósabb és veszélyesebb lesz. Ahogy Alice viselkedése is egyre aggasztóbbá válik, Jessica ráébred, hogy Chauncey sokkal több, mint a kitömött játékmaci, akinek hitte.",
+  "backdropPath": "/TGsfNWkASegCfAn6ED1b08a9O6.jpg",
+  "posterPath": "/oyxAtmNtpxLZjpFfQUlUOtGoK3R.jpg",
+  "releaseDate": "2024-03-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "dc5b8fdd-0493-42f4-b21a-19096d1ad095",
+      "title": "Képzeletbeli",
+      "subtitle": null,
+      "timestampString": "01:43:40",
+      "timestampInSeconds": 6220,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #274",
+        "youtubeId": "U5btDyv5pPk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/U5btDyv5pPk/hqdefault.jpg",
+        "durationInMinutes": 285,
+        "releaseDate": 1710534459000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

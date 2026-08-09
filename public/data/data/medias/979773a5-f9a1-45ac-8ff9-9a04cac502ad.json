@@ -1,0 +1,49 @@
+{
+  "id": "979773a5-f9a1-45ac-8ff9-9a04cac502ad",
+  "title": "Resident Evil",
+  "originalTitle": "Resident Evil",
+  "overview": "Egy szerencsétlen futár, akit azzal bíznak meg, hogy egy csomagot eljuttasson egy távoli kórházba, egy járvány kellős közepébe csöppen, és mutálódott lények hordáin kell keresztülverekednie magát, hogy életben maradjon. (Csillag Lajos)",
+  "backdropPath": "/ddfXMkaPViSrg0P5aoYGFMc58x2.jpg",
+  "posterPath": "/qku2uWSoJ9amQV5MWo1Eek29iji.jpg",
+  "releaseDate": "2026-09-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2712186c-9365-4235-83cc-dcc4d8bb0db0",
+      "title": "Resident Evil",
+      "subtitle": null,
+      "timestampString": "01:47:55",
+      "timestampInSeconds": 6475,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #301 [Videojáték megfilmesítések Stökivel]",
+        "youtubeId": "b-yzUkXog24",
+        "thumbnailUrl": "https://i.ytimg.com/vi/b-yzUkXog24/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1745990091000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f30d30c4-98cb-4dec-a665-44bf3e081c4e",
+            "name": "Stöckert Gábor"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "e139e5ce-5d3e-4301-974d-b457eb5a9454",
+  "title": "A galaxis őrzői vol. 2",
+  "originalTitle": "Guardians of the Galaxy Vol. 2",
+  "overview": "Folytatódnak a csapat kalandjai, melyek a kozmosz távolabbi szegleteibe vezetik őket. Az őrzőknek sokat kell tenniük azért, hogy összetartsák újdonsült családjukat, miközben kiderítenek egyet s mást Peter Quill igazi szüleiről is.",
+  "backdropPath": "/bW93ycPSSi3Hxx1NvlMX5qm2mQu.jpg",
+  "posterPath": "/9FE5szVvKwpDS5UfSaDUS3e8yYA.jpg",
+  "releaseDate": "2017-04-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "db17a149-9a03-4ec2-9d14-3ec0eb2ff173",
+      "title": "A galaxis őrzői vol. 2",
+      "subtitle": null,
+      "timestampString": "00:28:30",
+      "timestampInSeconds": 1710,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #121",
+        "youtubeId": "-73qLSZm328",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-73qLSZm328/hqdefault.jpg",
+        "durationInMinutes": 130,
+        "releaseDate": 1494559801000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

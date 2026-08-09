@@ -1,0 +1,41 @@
+{
+  "id": "1706f7cc-d3b6-45f3-bd79-bedf4fd26dfa",
+  "title": "Shop Stop 1",
+  "originalTitle": "Clerks",
+  "overview": "Vannak üzletek, amelyek különösen vonzzák a rigolyás különc vevőket. Ilyen a New Yersey-beli Quick Shop is. A 22 éves Dantéra zord hajnal virrad. A főnöke felhívja és megkéri, hogy ugorjon be a kora reggeli műszakba helyettesíteni. Úgy volt, hogy sokáig alszik, szórakozik, csajozik; ehelyett az üzletben sorozatosan balul ütnek ki a dolgok. Ráadásul a barátnője szexuális partnereinek nem csekély számával idegesíti. Aztán itt van még Randal, a szomszédos videokölcsönzőben kiszolgáló kollégája, aki állandóan Danténál lóg és szemérmetlenül inzultálja a hóbortos vevőket.",
+  "backdropPath": "/sjfbZVKRGh84lNxhqvuhdvovh18.jpg",
+  "posterPath": "/6kwwspG8890XMQn5wsAernfzOFW.jpg",
+  "releaseDate": "1994-10-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1683b4c5-53b2-47ae-bae6-7ca1fac74302",
+      "title": "Shop Stop 1-2",
+      "subtitle": null,
+      "timestampString": "01:06:31",
+      "timestampInSeconds": 3991,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #35",
+        "youtubeId": "iZP3HzNbpJk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/iZP3HzNbpJk/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1378351959000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3d6cb7c4-c199-462a-9d8d-36e90bee83b0",
+  "title": "Karate kölyök",
+  "originalTitle": "The Karate Kid",
+  "overview": "Miyagi, a harcművészetek idős mentora a karate legöregebb, legjobb és leghíresebb oktatója. Egyetlen szívfájdalma, hogy eddig nem talált olyan utódot, akinek átadhatná tudását. Amikor összebarátkozik a szerény és félénk Daniellel, rájön: a fiú alkalmas nemcsak a karate fogásainak, hanem a harci művészetek egész filozófiájának elsajátítására, így méltó lehet arra, hogy az örökébe lépjen.",
+  "backdropPath": "/j1xaeJZOEOiVBD1rk3dg4YaAk23.jpg",
+  "posterPath": "/AmxOPJtUKgmza19lUDH4TI8VaAb.jpg",
+  "releaseDate": "1984-06-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6b01770f-3ce9-4bf1-afeb-784ea90b76d0",
+      "title": "Karate kölyök",
+      "subtitle": null,
+      "timestampString": "01:52:20",
+      "timestampInSeconds": 6740,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #196",
+        "youtubeId": "FsFQg0igAJI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/FsFQg0igAJI/hqdefault.jpg",
+        "durationInMinutes": 181,
+        "releaseDate": 1598446254000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

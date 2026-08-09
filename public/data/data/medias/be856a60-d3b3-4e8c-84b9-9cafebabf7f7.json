@@ -1,0 +1,41 @@
+{
+  "id": "be856a60-d3b3-4e8c-84b9-9cafebabf7f7",
+  "title": "Blindspotting",
+  "originalTitle": "Blindspotting",
+  "overview": "Ashley partnere és gyermekének apja börtönbe kerül. Egyedül kénytelen túltenni magát a krízisen, miközben összeköltözik az anyósával és féltestvérével.",
+  "backdropPath": "/dPvtJIKG9AeNcm0V2mJn8SEPyh.jpg",
+  "posterPath": "/igf2O23e4Jbc9QzI6vIPnxLhvvQ.jpg",
+  "releaseDate": "2021-06-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "463ce13b-0240-4d9a-bb1d-9f16cd716059",
+      "title": "Blindspotting",
+      "subtitle": null,
+      "timestampString": "02:45:53",
+      "timestampInSeconds": 9953,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #160",
+        "youtubeId": "_a3zVw9qNvs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_a3zVw9qNvs/hqdefault.jpg",
+        "durationInMinutes": 196,
+        "releaseDate": 1547731556000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

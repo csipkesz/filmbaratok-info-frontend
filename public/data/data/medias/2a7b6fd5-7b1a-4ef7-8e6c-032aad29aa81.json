@@ -1,0 +1,49 @@
+{
+  "id": "2a7b6fd5-7b1a-4ef7-8e6c-032aad29aa81",
+  "title": "Senki többet",
+  "originalTitle": "La migliore offerta",
+  "overview": "Virgil Oldman az egyik vezető aukciós ház világhírű antik műértője. Ám amennyire otthonosan mozog a műtárgyak világában, annyira magányos az emberi kapcsolataiban. A hatvanharmadik születésnapján azután felhívja a Claire nevű rejtélyes nő, és a segítségét kéri a családja birtokában lévő művészeti gyűjtemény eladásában. Virgilt egyre inkább elbűvöli a különös lány, aki csak vastag falakon és nehéz ajtókon keresztül halandó kommunikálni vele. Sajátos kapcsolatuk örökre megváltoztatja az életét.",
+  "backdropPath": "/4EdN5rIT43xcqi4IVRrhxiDOz6z.jpg",
+  "posterPath": "/iKQBo65KX6A79TFv5lzjNVfYqjq.jpg",
+  "releaseDate": "2013-01-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "23215088-e9dc-464c-945d-bbbd5acccb1c",
+      "title": "Senki többet",
+      "subtitle": null,
+      "timestampString": "05:04:00",
+      "timestampInSeconds": 18240,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #187",
+        "youtubeId": "Jy2n7Zw18FQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Jy2n7Zw18FQ/hqdefault.jpg",
+        "durationInMinutes": 339,
+        "releaseDate": 1585709102000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

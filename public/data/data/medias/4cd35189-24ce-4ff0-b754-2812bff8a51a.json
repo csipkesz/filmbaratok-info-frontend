@@ -1,0 +1,45 @@
+{
+  "id": "4cd35189-24ce-4ff0-b754-2812bff8a51a",
+  "title": "Fekete telefon",
+  "originalTitle": "The Black Phone",
+  "overview": "A félénk, de okos 13 éves fiút egy szadista gyilkos elrabolja, és egy hangszigetelt pincébe zárja. Amikor egy lekapcsolt telefon a falon csörögni kezd, Finney rájön, hogy a gyilkos korábbi áldozatainak hangját hallja. És készen állnak arra, hogy gondoskodjanak róla, hogy ami velük történt, az ne történjen meg vele.",
+  "backdropPath": "/AfvIjhDu9p64jKcmohS4hsPG95Q.jpg",
+  "posterPath": "/6RARiiQyxU0vQApdoUIUaLWD45U.jpg",
+  "releaseDate": "2022-06-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "38fd7a55-38d7-4fe7-95c0-06a4fb6f5687",
+      "title": "Fekete telefon",
+      "subtitle": null,
+      "timestampString": "01:41:03",
+      "timestampInSeconds": 6063,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #235",
+        "youtubeId": "E8HgTAqoW8U",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E8HgTAqoW8U/hqdefault.jpg",
+        "durationInMinutes": 220,
+        "releaseDate": 1657007879000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "a9106f7e-c8f8-4ed6-8a88-4a42b5e0f8b9",
+            "name": "Anna"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

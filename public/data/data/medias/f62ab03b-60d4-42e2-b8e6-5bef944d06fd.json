@@ -1,0 +1,58 @@
+{
+  "id": "f62ab03b-60d4-42e2-b8e6-5bef944d06fd",
+  "title": "Andor",
+  "originalTitle": "Andor",
+  "overview": "A Zsivány Egyes történetében bemutatott Cassian Andor előtörténetével ismerkedhetünk meg, amint a lázadás kialakulásának kezdeti éveiben tevékenykedik. A veszélyekkel, megtévesztésekkel és intrikákkal teli korszakban Cassian Andor felfedezi a különbséget a zsarnoki Galaktikus Birodalom elleni küzdelemben. Olyan ösvényre lép, mely során lázadó hőssé változik.",
+  "backdropPath": "/quCeAmVQHfsdcYkicbxZWVauCVb.jpg",
+  "posterPath": "/lIpB8N1lzwr6YA3JL6IB09GDDKG.jpg",
+  "releaseDate": "2022-09-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1fe977e7-1f97-4301-8f4b-8acbff3381d5",
+      "title": "Andor (2. évad)",
+      "subtitle": "2. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Andor (2. évad)",
+        "youtubeId": "fsirxUzdTWo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fsirxUzdTWo/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1748282346000,
+        "participants": []
+      }
+    },
+    {
+      "id": "74a3e301-0bad-4b7d-b199-8be7c6b21ee0",
+      "title": "Andor (1. évad)",
+      "subtitle": "1. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Andor (1. évad)",
+        "youtubeId": "k-eKBmUR35Q",
+        "thumbnailUrl": "https://i.ytimg.com/vi/k-eKBmUR35Q/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1669572600000,
+        "participants": [
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          },
+          {
+            "id": "f9066580-796b-460b-9966-73bcbf3400a7",
+            "name": "Shirin"
+          }
+        ]
+      }
+    }
+  ]
+}

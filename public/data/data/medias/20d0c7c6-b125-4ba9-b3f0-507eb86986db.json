@@ -1,0 +1,49 @@
+{
+  "id": "20d0c7c6-b125-4ba9-b3f0-507eb86986db",
+  "title": "Mátrix: Feltámadások",
+  "originalTitle": "The Matrix Resurrections",
+  "overview": "Neo nem halt meg. A Mátrix működik, de megújult, erősebb és biztonságosabb, mint valaha. Az élet megy tovább. Vannak hősök, akik képesek a feltámadásra. Vannak szörnyű erők, amelyek ellen mindig újra harcba kell szállni. És van néhány nagy titok, amelynek segítségével a hősök vállalhatják a harcot, és szembeszállhatnak azzal, aki/ami az elpusztításukra tör. Legfeljebb maguk sem értik, hogy történik mindez.",
+  "backdropPath": "/eNI7PtK6DEYgZmHWP9gQNuff8pv.jpg",
+  "posterPath": "/t2YfHHigRqCrQbK5lg0MG5UPQJ3.jpg",
+  "releaseDate": "2021-12-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ed486549-69e3-45d5-a7b5-aee48db7b841",
+      "title": "Mátrix: Feltámadások [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "01:30:30",
+      "timestampInSeconds": 5430,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #224",
+        "youtubeId": "Qi7D54DuANc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Qi7D54DuANc/hqdefault.jpg",
+        "durationInMinutes": 380,
+        "releaseDate": 1640954125000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

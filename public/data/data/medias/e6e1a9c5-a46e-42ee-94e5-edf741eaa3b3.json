@@ -1,0 +1,41 @@
+{
+  "id": "e6e1a9c5-a46e-42ee-94e5-edf741eaa3b3",
+  "title": "Cannibal Holocaust",
+  "originalTitle": "Cannibal Holocaust",
+  "overview": "1979-ben négy dokumentumfilmes eltünt a Dél-Amerikai dzsungelben miközben filmet forgattak a kannibalizmusról. Hat hónappal később a New York Egyetem és a Pan American Broadcasting Co. kereső csapatot küldött az eltűnt filmesek után. A kutatás eredménye mindenkit elborzasztott.",
+  "backdropPath": "/7QBBvE6tA1kUlo7AKeZZMygdSHp.jpg",
+  "posterPath": "/qcqCoNs7fZCUnLj9LaMb8xGWGSI.jpg",
+  "releaseDate": "1980-02-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4b7cb724-54c6-4e97-b2d3-f7273f98f687",
+      "title": "Cannibal Holocaust",
+      "subtitle": null,
+      "timestampString": "02:21:45",
+      "timestampInSeconds": 8505,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #330",
+        "youtubeId": "AgwfP4V1UCo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/AgwfP4V1UCo/hqdefault.jpg",
+        "durationInMinutes": 207,
+        "releaseDate": 1784150438000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "b0395d3c-4a58-4534-97fe-4154fbb8709d",
+            "name": "Márk"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

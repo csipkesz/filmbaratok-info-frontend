@@ -1,0 +1,45 @@
+{
+  "id": "9c06eeab-48ec-441e-9259-81a3037eb4d6",
+  "title": "Sinister 2: Az átkozott ház",
+  "originalTitle": "Sinister 2",
+  "overview": "Courtney végre boldog. Reméli, megállapodhat. Ikerfiai és ő beköltöznek egy magányosan álló, nagy, vidéki házba - ami bár öreg és kopott, mégis különleges hangulata van. Nem is sejti, mennyire különleges. A házban démon lakik. Az egyik fia, Dylan, valahol egy sötét sarokban ráakad néhány régi filmtekercsre, megnézi őket, és borzasztó dolgokat lát. De még annál is borzasztóbb, amit életre ébreszt. Egy régi sorozatgyilkosság emléke kísérti a házat: és a falak között lapuló démon nem nyughat. Akárki költözik oda, magával akarja vinni.",
+  "backdropPath": "/iQY3kJ2oqHqmcSm32xPfkFF4xW9.jpg",
+  "posterPath": "/hF6ORyihtAWHqKkIQI8BSpLQyON.jpg",
+  "releaseDate": "2015-08-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "94443c96-e50a-4968-8d33-b90c3bf7c9cb",
+      "title": "Sinister 2: Az átkozott ház",
+      "subtitle": null,
+      "timestampString": "01:20:35",
+      "timestampInSeconds": 4835,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #80",
+        "youtubeId": "z4DzygJMKgc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z4DzygJMKgc/hqdefault.jpg",
+        "durationInMinutes": 227,
+        "releaseDate": 1440780590000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

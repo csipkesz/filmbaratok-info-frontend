@@ -1,0 +1,45 @@
+{
+  "id": "13fd87a8-571f-4411-b4c8-cfaeef9d0d06",
+  "title": "Wind River - Gyilkos nyomon",
+  "originalTitle": "Wind River",
+  "overview": "Holttestet találnak a Wind River indiánrezervátumban. A világtól elzárt térségbe hamarosan egy FBI ügynök érkezik, aki megállapítja, hogy a tinédzser lány gyilkosság áldozata lett. A holttestre rátaláló tapasztalt nyomkövető és az ügynök együtt próbál a bűnügy végére járni, ám a zárkózott, bizalmatlan helyiek nem segítik az ügy felgöngyölítését. Ráadásul az Egyesült Államok egyik legelszigeteltebb térségében a legtöbb gyilkossági ügyet sosem oldják meg, a legtöbb bűnözőt sosem fogják el.",
+  "backdropPath": "/zcbb4XArMpGSNUQUZTdemp2WOTs.jpg",
+  "posterPath": "/gVrrudTjz53pCWBKcWErP5yBPt4.jpg",
+  "releaseDate": "2017-08-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c3816c45-c1c2-4c12-af90-58522cc8623b",
+      "title": "Wind River - Gyilkos nyomon",
+      "subtitle": null,
+      "timestampString": "01:49:10",
+      "timestampInSeconds": 6550,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #128",
+        "youtubeId": "YoKRZAg1KR0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/YoKRZAg1KR0/hqdefault.jpg",
+        "durationInMinutes": 252,
+        "releaseDate": 1505410953000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

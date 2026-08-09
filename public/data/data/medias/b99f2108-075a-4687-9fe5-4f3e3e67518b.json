@@ -1,0 +1,45 @@
+{
+  "id": "b99f2108-075a-4687-9fe5-4f3e3e67518b",
+  "title": "Tortúra",
+  "originalTitle": "Misery",
+  "overview": "Súlyos autóbaleset éri a behavazott, néptelen coloradói országúton Peter Sheldont, a népszerű regényírót. Úgy tűnik, mégis szerencséje van, az egyik rajongója találja meg és siet a segítségére. Annie Wilkes, aki ráadásul szakképzett ápolónő, a saját házában helyezi biztonságba a mozgásképtelen írót. A középkorú nő rajong Sheldon regényhőséért, Miseryért. Az ápolásnak azonban csak nem akar vége szakadni. Az író hamarosan ráébred, a nő valójában foglyul ejtette, és semmitől sem riad vissza, hogy örökre megtartsa magának.",
+  "backdropPath": "/rUAn3Ul1tL7JXMjZ951UOI3F0UA.jpg",
+  "posterPath": "/vTv9qrNnwrUOSdorxGWEswC2iBl.jpg",
+  "releaseDate": "1990-11-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4b2302da-597d-4d6e-b646-72a0145c6f3a",
+      "title": "Tortúra",
+      "subtitle": null,
+      "timestampString": "03:08:33",
+      "timestampInSeconds": 11313,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #192",
+        "youtubeId": "U-r1xMhFqug",
+        "thumbnailUrl": "https://i.ytimg.com/vi/U-r1xMhFqug/hqdefault.jpg",
+        "durationInMinutes": 257,
+        "releaseDate": 1593098527000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

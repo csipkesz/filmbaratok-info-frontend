@@ -1,0 +1,45 @@
+{
+  "id": "7173d447-bf1e-496c-a3ac-1d103c46e47d",
+  "title": "A pók feje",
+  "originalTitle": "Spiderhead",
+  "overview": "Különleges kapcsolat alakul ki két fogvatartott (Miles Teller és Jurnee Smollett) között, miközben a múltjukkal küszködik egy modern büntetés-végrehajtási intézetben, amelyet a zseniális látnok (Chris Hemsworth) vezet, aki tudatmódosító szerekkel kísérletezik alanyain.",
+  "backdropPath": "/ulkWS7Atv0vv33KVCSAmNizAmJd.jpg",
+  "posterPath": "/5dfQmXXxGSPu6V1DZwOl8ZB5017.jpg",
+  "releaseDate": "2022-06-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a659ae2c-0298-4a7e-bc8e-12626824cc5c",
+      "title": "A pók feje",
+      "subtitle": null,
+      "timestampString": "02:01:47",
+      "timestampInSeconds": 7307,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #235",
+        "youtubeId": "E8HgTAqoW8U",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E8HgTAqoW8U/hqdefault.jpg",
+        "durationInMinutes": 220,
+        "releaseDate": 1657007879000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "a9106f7e-c8f8-4ed6-8a88-4a42b5e0f8b9",
+            "name": "Anna"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "d62175dd-95a7-4a59-8bd0-099a038aeae5",
+  "title": "Solo: Egy Star Wars-történet",
+  "originalTitle": "Solo: A Star Wars Story",
+  "overview": "A történet a fiatal Han Solo és vuki társa, Csubakka megismerkedését és kalandjaik kezdetét mutatja be, köztük a Millennium Falcon kártyán való elnyerését Lando Calrissiantól. Han a Korélia nevű bolygón él, ahol van egy Qi’ra nevű barátnője. Gyakorlatilag rabszolgaként kell dolgozniuk. Mivel nincsenek hivatalos okmányaik, amivel elhagyhatnák a bolygót, Han szökést tervez, ami megvesztegetéssel majdnem sikerül, de barátnőjét az őrök visszarángatják. A vámtisztviselő a „Solo” családnevet adja neki, amikor Han azt mondja, hogy nincs családja, „egyedül” van (azaz „szólóban”).",
+  "backdropPath": "/7LZ0K4FsALrt7OeNIGOVLNuKQRU.jpg",
+  "posterPath": "/v6nAqRHTlOmKY5ZrLcziMMEPX86.jpg",
+  "releaseDate": "2018-05-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c30991fa-4adb-4c2f-90d3-8d136ab1fdc4",
+      "title": "Solo: Egy Star Wars-történet [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "03:21:55",
+      "timestampInSeconds": 12115,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #145",
+        "youtubeId": "oIN5otdDLXA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/oIN5otdDLXA/hqdefault.jpg",
+        "durationInMinutes": 299,
+        "releaseDate": 1528994767000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "77d14e6b-7100-40fe-af2f-f7dda477ca51",
+            "name": "Gábor (Videodrome)"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ff248333-0d00-40bd-af3c-6049f0a070c6",
+            "name": "Szöllőskei Gábor"
+          }
+        ]
+      }
+    }
+  ]
+}

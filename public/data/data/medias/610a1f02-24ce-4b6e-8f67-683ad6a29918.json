@@ -1,0 +1,49 @@
+{
+  "id": "610a1f02-24ce-4b6e-8f67-683ad6a29918",
+  "title": "Összeomlás",
+  "originalTitle": "Falling Down",
+  "overview": "Ebben az akciókban gazdag, izgalmas filmben Michael Douglas tőle szokatlan szerepben jelenik meg. Egyszerű, hétköznapi tisztviselőt alakít, aki egy napon, egy reménytelennek tűnő forgalmi dugóban ücsörögve bekattan: kocsiját maga mögött hagyva gyalogosan elindul hazafelé. Kislányának születésnapja van, ezért olyan fontos időben hazaérnie. A baj csak ott kezdődik, hogy a hazafelé vezető úton többen is az útjába kerülnek. Az akadályokra - az elkeseredett, mindenre elszánt férfi - agresszióval válaszol: útját holttestek és sebesültek sora jelzi. Hamarosan a rendőrséggel a nyomában menekül és csak egyetlen ember van a városban - az ügyben nyomozó detektívfelügyelő -, aki sejti, hogy mi lehet az öldöklés hátterében.",
+  "backdropPath": "/cS45swrlrTJijH1RblBLe8LlW2p.jpg",
+  "posterPath": "/g8DJZ6BCQlttWvsJRE5aY9tDLrW.jpg",
+  "releaseDate": "1993-02-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8f139b7c-010e-4f8d-a3f0-f2647987f295",
+      "title": "Összeomlás",
+      "subtitle": null,
+      "timestampString": "02:41:00",
+      "timestampInSeconds": 9660,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #193",
+        "youtubeId": "WZrbCRuXQqU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/WZrbCRuXQqU/hqdefault.jpg",
+        "durationInMinutes": 250,
+        "releaseDate": 1594492684000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ff248333-0d00-40bd-af3c-6049f0a070c6",
+            "name": "Szöllőskei Gábor"
+          }
+        ]
+      }
+    }
+  ]
+}

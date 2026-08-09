@@ -1,0 +1,41 @@
+{
+  "id": "8626486f-68fc-440c-bfb1-12383163f0af",
+  "title": "Zack Snyder: Az Igazság Ligája",
+  "originalTitle": "Zack Snyder's Justice League",
+  "overview": "Hogy Superman végső áldozata ne legyen hiábavaló, Bruce Wayne és Diana összefog, és verbuválnak egy metahumán csapatot, hogy elhárítsák a világot fenyegető katasztrófát. A feladat nehezebbnek bizonyul, mint ahogy azt Bruce elképzelte, mivel az újoncoknak meg kell küzdeniük saját démonjaikkal, hogy ütőképes lehessen a világ különlegesebb hőseiből verbuvált liga. A kérdés már csak az, hogy Batman, Wonder Woman, Aquaman, Cyborg és Flash alkotta csapatnak lesz-e elég ideje megmenteni a bolygót.",
+  "backdropPath": "/13Nz8EchKRdCgJcKdEoJAnpiVn2.jpg",
+  "posterPath": "/utPWLyqFVjRqTJtYpbZJY10aoa.jpg",
+  "releaseDate": "2021-03-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c78b853e-2a77-4a88-bc6f-0b64456428b4",
+      "title": "Zack Snyder: Az Igazság Ligája",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #209 [Snyder Cut]",
+        "youtubeId": "HKEsbhR6TAU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/HKEsbhR6TAU/hqdefault.jpg",
+        "durationInMinutes": 153,
+        "releaseDate": 1617252301000,
+        "participants": [
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f9066580-796b-460b-9966-73bcbf3400a7",
+            "name": "Shirin"
+          }
+        ]
+      }
+    }
+  ]
+}

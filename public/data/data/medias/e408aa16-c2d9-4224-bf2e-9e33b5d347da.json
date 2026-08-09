@@ -1,0 +1,45 @@
+{
+  "id": "e408aa16-c2d9-4224-bf2e-9e33b5d347da",
+  "title": "Akik már nem öregszenek meg",
+  "originalTitle": "They Shall Not Grow Old",
+  "overview": "Az első világháború végének századik évfordulójára emlékezünk ezzel a dokumentumfilmmel, amely a nagyközönség számára eddig ismeretlen felvételekkel és archív anyagokkal mutatja be az első nagy háborút.",
+  "backdropPath": "/94PXfCDB6TrTx1YwuUjzIpVXT2i.jpg",
+  "posterPath": "/v445Wo2sTYXM6XcOceZIqfECeH0.jpg",
+  "releaseDate": "2018-11-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9337da14-adb0-441b-b967-542d03c2e6c0",
+      "title": "Akik már nem öregszenek meg",
+      "subtitle": null,
+      "timestampString": "02:56:45",
+      "timestampInSeconds": 10605,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #183",
+        "youtubeId": "uA5tRdykPyw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uA5tRdykPyw/hqdefault.jpg",
+        "durationInMinutes": 277,
+        "releaseDate": 1579802407000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

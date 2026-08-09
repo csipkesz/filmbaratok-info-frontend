@@ -1,0 +1,45 @@
+{
+  "id": "9e598956-de35-411e-8a1f-f9d468a3d32a",
+  "title": "July 22",
+  "originalTitle": "22 July",
+  "overview": "3 részből álló történet, amely Norvégia legszörnyűbb terrortámadását rekonstruálja, amelyben közel hetven ember vesztette életét.",
+  "backdropPath": "/rKzHtW1bdboA89FwiyRBNTY7edc.jpg",
+  "posterPath": "/rd940KzuIZwbdOvOUF7XDTzn8te.jpg",
+  "releaseDate": "2018-10-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "65e3df15-f81d-429d-b4dd-f20707f4fab1",
+      "title": "July 22",
+      "subtitle": null,
+      "timestampString": "02:28:00",
+      "timestampInSeconds": 8880,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #154",
+        "youtubeId": "8kJ3-leKXJo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/8kJ3-leKXJo/hqdefault.jpg",
+        "durationInMinutes": 220,
+        "releaseDate": 1541001500000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

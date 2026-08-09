@@ -1,0 +1,41 @@
+{
+  "id": "2c7d9df1-c610-4c9a-bb46-602bfad01290",
+  "title": "Nyers",
+  "originalTitle": "Grave",
+  "overview": "A családi hagyományt folytatva Justine (Garance Mallirier) nem csupán vegetáriánus, de ugyanabba a bentlakásos állatorvosi egyetemre iratkozik be, ahová most végzős nővére, Alexia (Ella Rumpf) és egykoron szülei is jártak. A magába húzódó lány hamarosan egy embert próbáló beavatási szertartáson esik át, melynek keretében egy darabka nyers húst is el kell fogyasztania, melyre teste először elutasítással és allergiás rohamokkal reagál, később azonban felébreszt benne valami mélyen szunnyadó vágyat, amely egyre többet és többet követel tőle.",
+  "backdropPath": "/46GikxYW84dRh71sWVY0eRQiHLX.jpg",
+  "posterPath": "/5RFndyEp9y3MqVNP4C1IMh1QkmH.jpg",
+  "releaseDate": "2017-03-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ec9cf4b0-8786-4e04-9603-8a6cd6e4be6c",
+      "title": "Nyers",
+      "subtitle": null,
+      "timestampString": "02:10:50",
+      "timestampInSeconds": 7850,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #120",
+        "youtubeId": "-3teFOfAauw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-3teFOfAauw/hqdefault.jpg",
+        "durationInMinutes": 251,
+        "releaseDate": 1493646027000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

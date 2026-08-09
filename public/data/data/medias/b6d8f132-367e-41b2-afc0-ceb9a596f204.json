@@ -1,0 +1,49 @@
+{
+  "id": "b6d8f132-367e-41b2-afc0-ceb9a596f204",
+  "title": "Renfield",
+  "originalTitle": "Renfield",
+  "overview": "Miután belefáradt a Drakula lakájaként eltöltött évszázadokba, Rebecca Quincy felbukkanása után Renfield új életre – és talán megváltásra is – talál, amikor beleesik a vad, örökké dühös közlekedési rendőrnőbe.",
+  "backdropPath": "/nBEFrdcVhwceGSFw83RksxY9Blg.jpg",
+  "posterPath": "/67FfhwvwiuWCcbVWJsXnwDKjnd6.jpg",
+  "releaseDate": "2023-04-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "102cdf01-c6dc-4358-824c-d368ab41f087",
+      "title": "Renfield",
+      "subtitle": null,
+      "timestampString": "03:37:02",
+      "timestampInSeconds": 13022,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #253",
+        "youtubeId": "qh8K0plyKrk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/qh8K0plyKrk/hqdefault.jpg",
+        "durationInMinutes": 284,
+        "releaseDate": 1682442009000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "a5727bbe-af5a-4721-8c07-2290e07b1211",
+            "name": "ChatGPT"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

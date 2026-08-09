@@ -1,0 +1,45 @@
+{
+  "id": "0b73abf1-b3bc-4b77-970b-009d60d7be64",
+  "title": "Evil Dead (2013)",
+  "originalTitle": "Evil Dead",
+  "overview": "Öt huszonéves fiatal egy mindentől távoli erdei lakra bukkan, ahol egy különleges könyvet találnak, a Holtak Könyvét. Amikor felolvasnak belőle, életre keltenek párat a környéken szunnyadó, cseppet sem barátságos démonok közül.",
+  "backdropPath": "/6RDgtEBzjuF7W25DVziXRABchpX.jpg",
+  "posterPath": "/aq8QE5Okn6KuJFv7SDb0QSpKKzK.jpg",
+  "releaseDate": "2013-04-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5e77e73b-30bf-4cdb-8f19-a6bc25107055",
+      "title": "Evil Dead (2013)",
+      "subtitle": null,
+      "timestampString": "00:27:20",
+      "timestampInSeconds": 1640,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #32",
+        "youtubeId": "6P4PZX3FJGA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/6P4PZX3FJGA/hqdefault.jpg",
+        "durationInMinutes": 125,
+        "releaseDate": 1373643280000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "8b6aaf27-9193-4674-bdd6-ced0afb2ac10",
+            "name": "DreamerInstinct"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

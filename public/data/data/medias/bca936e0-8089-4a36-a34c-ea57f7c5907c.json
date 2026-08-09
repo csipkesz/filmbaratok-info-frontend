@@ -1,0 +1,45 @@
+{
+  "id": "bca936e0-8089-4a36-a34c-ea57f7c5907c",
+  "title": "A halottak hadserege",
+  "originalTitle": "Army of the Dead",
+  "overview": "Egy zombijárvány után Las Vegasban egy csapatnyi zsoldos mindent kockára tesz, amikor behatolnak a karanténzónába, hogy végrehajtsák a valaha volt legnagyobb rablást.",
+  "backdropPath": "/c0izdYdnTe4uMRifHgvTA85wPz0.jpg",
+  "posterPath": "/gvGyGQ1srRfg4RqO9BE1uLuUI8t.jpg",
+  "releaseDate": "2021-05-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "05152be6-e2b6-43c1-992e-6ec9c4d1f9c6",
+      "title": "A halottak hadserege",
+      "subtitle": null,
+      "timestampString": "01:05:50",
+      "timestampInSeconds": 3950,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #212",
+        "youtubeId": "mV_Pe_oXmww",
+        "thumbnailUrl": "https://i.ytimg.com/vi/mV_Pe_oXmww/hqdefault.jpg",
+        "durationInMinutes": 226,
+        "releaseDate": 1622736018000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

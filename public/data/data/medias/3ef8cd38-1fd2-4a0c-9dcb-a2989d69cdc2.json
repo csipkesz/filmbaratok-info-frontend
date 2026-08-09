@@ -1,0 +1,45 @@
+{
+  "id": "3ef8cd38-1fd2-4a0c-9dcb-a2989d69cdc2",
+  "title": "Az igazság bajnokai",
+  "originalTitle": "Retfærdighedens ryttere",
+  "overview": "Mathilde egy tragikus vonatbalesetben veszíti el édesanyját. Apja, Markus hivatásos katonaként hosszú éveket töltött távol otthonuktól, most hazatér egyedül maradt lányához. Hamarosan felkeresi Markust egy különös figura, Otto, aki szintén a vonaton utazott és állítja, hogy a baleset nem volt véletlen. A gyilkosságot egy koronatanú kiiktatására tervelték ki, aki az Igazság bajnokai nevű motorosbanda feje ellen tanúskodott volna, Markus felesége pedig csupán véletlen áldozata volt a merényletnek. A katona nem habozik, Ottoval és barátaival – akik a feladatra tökéletesen alkalmatlanok – bosszúhadjáratra indul, még ha ehhez a fél alvilággal le is kell számolnia.",
+  "backdropPath": "/7XZsVVnqTsMJXg3J4CHzeV2Lro9.jpg",
+  "posterPath": "/idRxzYGXcyUIxxZLd6Uoe9GFPVj.jpg",
+  "releaseDate": "2020-11-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2795edcc-6908-4ca2-9c02-51098a76ba24",
+      "title": "Az igazság bajnokai",
+      "subtitle": null,
+      "timestampString": "01:15:16",
+      "timestampInSeconds": 4516,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #222",
+        "youtubeId": "KUigEmDa7Nc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/KUigEmDa7Nc/hqdefault.jpg",
+        "durationInMinutes": 265,
+        "releaseDate": 1637694008000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

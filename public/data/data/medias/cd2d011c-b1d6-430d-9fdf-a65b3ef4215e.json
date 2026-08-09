@@ -1,0 +1,45 @@
+{
+  "id": "cd2d011c-b1d6-430d-9fdf-a65b3ef4215e",
+  "title": "Brian élete",
+  "originalTitle": "Life of Brian",
+  "overview": "Júdeában vagyunk, ott és akkor, amikor Jézus született. Vele szinte egy időben és egészen a közelében megszületik egy másik gyermek is, Brian. Róla a napkeleti bölcsek tévedésből azt hiszik, hogy ő a megváltó. Brian élete ettől a perctől kezdve tévedések és félreértések sorozata.",
+  "backdropPath": "/lOrM3OQhHlzEkpF7Ih3GghecrA8.jpg",
+  "posterPath": "/rvX2uldiR7ZDsD26T35CT951GFR.jpg",
+  "releaseDate": "1979-08-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "15841eb4-ddd3-4b5f-ac39-610356dba839",
+      "title": "Brian élete",
+      "subtitle": null,
+      "timestampString": "02:33:40",
+      "timestampInSeconds": 9220,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #276",
+        "youtubeId": "ozdxgj2AwCk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ozdxgj2AwCk/hqdefault.jpg",
+        "durationInMinutes": 248,
+        "releaseDate": 1713292727000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

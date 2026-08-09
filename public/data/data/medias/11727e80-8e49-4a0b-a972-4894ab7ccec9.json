@@ -1,0 +1,41 @@
+{
+  "id": "11727e80-8e49-4a0b-a972-4894ab7ccec9",
+  "title": "Good vibrations",
+  "originalTitle": "Good Vibrations",
+  "overview": "A radikális lázadó zenebarát Terri Hooley éli az életét a hetvenes évek Belfastjában, amikor véres konfliktus tör ki a városban. Barátai fegyvert ragadnak, Terri viszont inkább lemezboltot nyit Good Vibrations néven Európa legkeményebb tűzfészkében. A bolt által felfedezi a városban születő underground punk szcéna hangját. A fiatal zenészeket akcióra buzdítva egy srácokból és punkokból álló tiritarka csapat valószínűtlen vezetőjévé válik, akik csatlakoznak missziójához: új közösséget, egy alternatív Ulstert teremteni, életre kelteni a várost.",
+  "backdropPath": "/qaWWVqXZ7JVr7eJGfyQmN7zA9o2.jpg",
+  "posterPath": "/s3C0o05CE1zumEB6XTwLI5yLSA0.jpg",
+  "releaseDate": "2012-05-31T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "eb823697-c90a-40cd-ba86-5726fde98fa0",
+      "title": "Good vibrations",
+      "subtitle": null,
+      "timestampString": "02:49:05",
+      "timestampInSeconds": 10145,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #296",
+        "youtubeId": "2X4YekH4jj4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/2X4YekH4jj4/hqdefault.jpg",
+        "durationInMinutes": 189,
+        "releaseDate": 1739562524000,
+        "participants": [
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

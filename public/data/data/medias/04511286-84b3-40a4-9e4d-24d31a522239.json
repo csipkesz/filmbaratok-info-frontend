@@ -1,0 +1,45 @@
+{
+  "id": "04511286-84b3-40a4-9e4d-24d31a522239",
+  "title": "Mortal Kombat",
+  "originalTitle": "Mortal Kombat",
+  "overview": "Van, aki abból él, hogy bírja, ha ütik. Cole Young ilyen. Pénzért bunyózik, és többnyire veszít. Nem tudja, hogy mennyivel többre hivatott, és milyen sok múlik rajta. Pedig csak el kellene gondolkodnia különös, sárkány alakú anyajegyén…",
+  "backdropPath": "/6ELCZlTA5lGUops70hKdB83WJxH.jpg",
+  "posterPath": "/nkayOAUBUu4mMvyNf9iHSUiPjF1.jpg",
+  "releaseDate": "2021-04-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fb4085c5-733a-44e8-8027-41bf70b0ba41",
+      "title": "Mortal Kombat",
+      "subtitle": null,
+      "timestampString": "02:04:25",
+      "timestampInSeconds": 7465,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #212",
+        "youtubeId": "mV_Pe_oXmww",
+        "thumbnailUrl": "https://i.ytimg.com/vi/mV_Pe_oXmww/hqdefault.jpg",
+        "durationInMinutes": 226,
+        "releaseDate": 1622736018000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "51afd541-9554-4e30-b633-17994fa27738",
+  "title": "Kopogás a kunyhóban",
+  "originalTitle": "Knock at the Cabin",
+  "overview": "Egy kislány a szüleivel egy elhagyatott kunyhóban vakációzna, azonban négy fegyveres idegen túszul ejti őket, és azt követelik a családtól, hogy hozzanak meg egy képtelen döntést az apokalipszis elkerülésének érdekében. A család a külvilággal szinte nem tud kommunikálni, így kell eldönteniük, mit hisznek el és mit nem, mielőtt mindennek vége.",
+  "backdropPath": "/sANUefL2v8VI6fSfK3gWAG3XBt4.jpg",
+  "posterPath": "/bxhdZQHzMMGNha5h8V7lW561ZbJ.jpg",
+  "releaseDate": "2023-02-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "57474ce2-89c6-4f41-93e9-9ad4b9328472",
+      "title": "Kopogás a kunyhóban [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "04:16:50",
+      "timestampInSeconds": 15410,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #249",
+        "youtubeId": "1greFyKaw1M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/1greFyKaw1M/hqdefault.jpg",
+        "durationInMinutes": 296,
+        "releaseDate": 1676703823000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

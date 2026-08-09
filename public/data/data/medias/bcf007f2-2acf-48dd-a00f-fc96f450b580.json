@@ -1,0 +1,41 @@
+{
+  "id": "bcf007f2-2acf-48dd-a00f-fc96f450b580",
+  "title": "Francia kapcsolat",
+  "originalTitle": "The French Connection",
+  "overview": "Jimmy alias:Popeye Doyle a legkeményebb öklű New York-i rendőr: előbb üt, azután kérdez. Ezúttal azonban nagy fába vágja a fejszéjét: az Amerikát kábítószerrel elárasztó \"francia kapcsolatot\" kellene partnerével felgöngyölítenie. Doyle egy bulldog szívósságával ered a hálózat feltételezett vezetőjének a nyomába, s a törvény minden betűjére fittyet hányva csapdát állít neki.",
+  "backdropPath": "/AsaW2VwcArvQmYjf2wsDjqWEn6f.jpg",
+  "posterPath": "/m2fj4AOLburb0lT1DElkf2XuWhw.jpg",
+  "releaseDate": "1971-10-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7f5081dd-d467-4870-92c2-c85a3f506d5e",
+      "title": "Francia kapcsolat",
+      "subtitle": null,
+      "timestampString": "02:42:53",
+      "timestampInSeconds": 9773,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #75",
+        "youtubeId": "5hqAh129dAE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/5hqAh129dAE/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1434729270000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "4f0a9ce6-35e3-4e8d-a0b6-2ba302bf5a1c",
+  "title": "Richard király",
+  "originalTitle": "King Richard",
+  "overview": "A történet arról, hogyan szolgált Richard Williams edzőként lányai Venus és Serena számára, akik hamarosan a történelem két leglegendásabb teniszezőjévé válnak.",
+  "backdropPath": "/ljCKYCSRMNyZNyke5Lc1I8nW5b2.jpg",
+  "posterPath": "/lfYqLrCZzRTsTOOPIIKj9NKBib6.jpg",
+  "releaseDate": "2021-11-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b818a63c-24a5-44f6-aa22-96a70a7a655a",
+      "title": "Richard király",
+      "subtitle": null,
+      "timestampString": "02:33:08",
+      "timestampInSeconds": 9188,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #227",
+        "youtubeId": "aLZRPLtke70",
+        "thumbnailUrl": "https://i.ytimg.com/vi/aLZRPLtke70/hqdefault.jpg",
+        "durationInMinutes": 275,
+        "releaseDate": 1645191276000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

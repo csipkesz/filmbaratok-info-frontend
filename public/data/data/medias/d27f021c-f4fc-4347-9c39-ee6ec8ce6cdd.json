@@ -1,0 +1,45 @@
+{
+  "id": "d27f021c-f4fc-4347-9c39-ee6ec8ce6cdd",
+  "title": "28 héttel később",
+  "originalTitle": "28 Weeks Later",
+  "overview": "Fél év telt el azóta, hogy egy vírus néptelen metropolisszá változtatta Londont. Lakóit gyilkos dühre sarkallta: a fertőzöttek egymást irtották ki. Az Egyesült Államok megszálló hadserege azóta helyreállította a rendet, szigorúan ellenőrzött és védett körzeteket hozott létre, és a kevés túlélő visszaköltözhet a városba. Közöttük van Don is a gyerekeivel. A kiskamaszok az eltűnt anyjuk után kutatnak a romok között, és meglepetésükre meg is találják. Az orvosok vizsgálni kezdik az asszonyt, hogyan maradhatott életben a fertőzött területen. Közben újra felüti fejét a járvány.",
+  "backdropPath": "/83ownpZPvBHJD5UVNShzQfa3LaW.jpg",
+  "posterPath": "/46cv37Y5fGGjRyj9xC96e8rlMkv.jpg",
+  "releaseDate": "2007-04-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b2448045-94a2-4959-a431-001dbee3e761",
+      "title": "28 héttel később [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "01:33:27",
+      "timestampInSeconds": 5607,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #306",
+        "youtubeId": "fhwjWo2MiYI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fhwjWo2MiYI/hqdefault.jpg",
+        "durationInMinutes": 272,
+        "releaseDate": 1752602894000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "c829429d-7467-4568-8b63-1c8be4311ba5",
+  "title": "Gyilkos randi",
+  "originalTitle": "Drop",
+  "overview": "Egy megözvegyült anya évek óta az első randevúján vesz részt. Egy előkelő étterembe érkezik, ahol megkönnyebbülve tapasztalja, hogy a partnere, Henry sokkal sármosabb és jóképűbb, mint amire számított. Kettejük között azonban kezd megromlani a kémia, amikor Violet-et előbb irritálni, majd terrorizálni kezdi a telefonjára érkező névtelen hívások sorozata.  (szarka84)",
+  "backdropPath": "/akBGSguhkAj1TXOdZUcL11e1hpH.jpg",
+  "posterPath": "/z4vVKHVEsNlgGQrevxO5QwGF3nD.jpg",
+  "releaseDate": "2025-04-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4ae62508-5889-4f7b-b753-c92d48925d30",
+      "title": "Gyilkos randi",
+      "subtitle": null,
+      "timestampString": "00:47:22",
+      "timestampInSeconds": 2842,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #302",
+        "youtubeId": "3K4xdZiHI_w",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3K4xdZiHI_w/hqdefault.jpg",
+        "durationInMinutes": 235,
+        "releaseDate": 1747414746000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

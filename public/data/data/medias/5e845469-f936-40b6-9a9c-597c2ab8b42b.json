@@ -1,0 +1,45 @@
+{
+  "id": "5e845469-f936-40b6-9a9c-597c2ab8b42b",
+  "title": "Sikoly 7",
+  "originalTitle": "Scream 7",
+  "overview": "Amikor egy új Ghostface-jelmezt öltött gyilkos bukkan fel az álmos kisvárosban, ahol Sidney Prescott új életet kezdett, a nő legsötétebb rémálmai válnak valóra: lánya lesz a következő célpont. Sidney bármeddig hajlandó elmenni, hogy megvédje családját, így hát szembenéz a múltjában rejlő borzalmakkal, hogy egyszer s mindenkorra véget vessen a vérontásnak.",
+  "backdropPath": "/3eUyLEF5M0ky3h6KJsWiWzaakB8.jpg",
+  "posterPath": "/9WhnX2bLuVzcYsSDg84SL0KwBTV.jpg",
+  "releaseDate": "2026-02-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7fe62338-5a03-4638-a4dc-2e60eaa876a9",
+      "title": "Sikoly 7",
+      "subtitle": null,
+      "timestampString": "01:06:04",
+      "timestampInSeconds": 3964,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #322",
+        "youtubeId": "f696VdP9-xg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/f696VdP9-xg/hqdefault.jpg",
+        "durationInMinutes": 273,
+        "releaseDate": 1773775641000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "fcf0951a-f546-462a-849d-6069cc402e96",
+  "title": "Oldboy (2013)",
+  "originalTitle": "Oldboy",
+  "overview": "Joe Doucett egy tönkretett találkozó után, részegen elmegy egy barátjához, de a férfi nem engedi be. Mikor egy hotelszobában ébred, rádöbben, hogy fogoly. Elrablói 20 éven át fogva tartják, anélkül, hogy tudná annak okát. Mikor váratlanul egyik napról a másikra elengedik, a férfi megszállott küldetésbe kezd, hogy magyarázatot találjon gyötrelmes büntetésének okára.",
+  "backdropPath": "/yl9waUJoMTp1NnraBn4KWHuUSsx.jpg",
+  "posterPath": "/lb0btJSeYPn4RQe0cPAibVwnFd.jpg",
+  "releaseDate": "2013-11-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8c1827ba-44fc-49a4-8077-52d6b03b3a6f",
+      "title": "Oldboy (2013)",
+      "subtitle": null,
+      "timestampString": "01:38:40",
+      "timestampInSeconds": 5920,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #45",
+        "youtubeId": "9hNSnIZK61I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9hNSnIZK61I/hqdefault.jpg",
+        "durationInMinutes": 145,
+        "releaseDate": 1392563971000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

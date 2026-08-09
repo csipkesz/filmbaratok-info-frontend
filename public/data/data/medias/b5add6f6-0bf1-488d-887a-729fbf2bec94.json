@@ -1,0 +1,45 @@
+{
+  "id": "b5add6f6-0bf1-488d-887a-729fbf2bec94",
+  "title": "Kémek hídja",
+  "originalTitle": "Bridge of Spies",
+  "overview": "A hatvanas években játszódó, megtörtént eseményeken alapuló film történetének főhőse egy ügyvéd, James Donovan, akit a CIA arra utasít, hogy védjen meg egy KGB-ügynököt, Rudolf Abelt. Miután a szovjetek foglyul ejtenek egy amerikai pilótát, Francis Gary Powerst, az ügyvédnek Kelet-Berlinben kell végrehajtania a fogolycserét.",
+  "backdropPath": "/12M3SvYO4WMdlXCajWklz1zUAly.jpg",
+  "posterPath": "/sN1gK62W5N5dNn4g0uzvmKpKdOv.jpg",
+  "releaseDate": "2015-10-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "26bae76f-6af7-40c6-aea0-62ccfb60d1c8",
+      "title": "Kémek hídja",
+      "subtitle": null,
+      "timestampString": "00:09:59",
+      "timestampInSeconds": 599,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #88",
+        "youtubeId": "wEd9ZOCpPII",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wEd9ZOCpPII/hqdefault.jpg",
+        "durationInMinutes": 226,
+        "releaseDate": 1450458682000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

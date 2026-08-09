@@ -1,0 +1,45 @@
+{
+  "id": "a094d271-46ce-4db2-808f-bf6bfedf4a62",
+  "title": "Páratlan párosok",
+  "originalTitle": "Splitsville",
+  "overview": "Carey (Kyle Marvin) kedves, jóhiszemű férj. Váratlanul hagyja el felesége, Ashley (Adria Arjona), aki bejelenti, hogy válni szeretne és megcsalta őt. Carey zavarodottan felkeresi barátait, Julie-t (Dakota Johnson) és Pault (Michael Angelo Covino), akik nyitott házasságban élnek. Carey számára ez a kapcsolat először felszabadítónak tűnik, ám amikor túl messzire megy, Carey és Julie egymásba keverednek, az ő kapcsolataik és barátságaik is kaotikus katasztrófa felé sodródnak.",
+  "backdropPath": "/AbaRJXNmyLjG4tY48k2fhNNmuW4.jpg",
+  "posterPath": "/w7KrIFEg7IKfN84cOocidiznpJJ.jpg",
+  "releaseDate": "2025-08-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fa7f4d9b-11e5-43ba-9915-c61a5669660f",
+      "title": "Páratlan párosok",
+      "subtitle": null,
+      "timestampString": "02:39:20",
+      "timestampInSeconds": 9560,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #310",
+        "youtubeId": "snN5b4JzNgw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/snN5b4JzNgw/hqdefault.jpg",
+        "durationInMinutes": 230,
+        "releaseDate": 1758218455000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "b0395d3c-4a58-4534-97fe-4154fbb8709d",
+            "name": "Márk"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

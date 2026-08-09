@@ -1,0 +1,45 @@
+{
+  "id": "aadcaaf9-f749-4806-8b2f-62e1456b1c4c",
+  "title": "Idegpálya",
+  "originalTitle": "Nerve",
+  "overview": "Vee nem az a bátor és hivalkodó lány. Egyáltalán nem egy bevállalós típus. Ám egy nap mégis benevez egy online játékba, hiszen nem bírja tovább barátnői unszolását. Az Idegpálya egy igen népszerű „felelsz vagy mersz” típusú játék, ahol az előfizetők mondják meg a szereplőknek, hogy mit tegyenek. Az izgalmas valóságshow úgy tűnik jó hatással van Vee életére, hiszen megismerkedik Iannel, akivel csakhamar közel kerülnek egymáshoz. Ráadásul  a játék népszerű szereplői lesznek. Az eleinte játéknak tűnő dolog azonban hamar egyre inkább elvadul és szinte hajszává válik. A nézők egyre komolyabb és komolyabb próbatétel elé állítják hőseinket. A dolog pedig lassan odáig fajul, hogy már nem népszerűség és a győzelemért járó pénzdíj a tét, hanem Vee testi épsége és élete.",
+  "backdropPath": "/fg04CQyJzuDJ82jm2meY37n9XyE.jpg",
+  "posterPath": "/3HZQIBAPsrk6DCdvyMmIADetiMo.jpg",
+  "releaseDate": "2016-06-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "83dc3e6f-178b-4f03-8e39-e76e606172f5",
+      "title": "Idegpálya",
+      "subtitle": null,
+      "timestampString": "02:25:38",
+      "timestampInSeconds": 8738,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #107",
+        "youtubeId": "nil8BrN67hQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nil8BrN67hQ/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1475265113000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "68c6a379-c539-4074-948b-8d7e3b919c0b",
+            "name": "Emese"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "0cfcdd02-e5ec-424f-bac5-03761f056a28",
+  "title": "Bill & Ted face the music",
+  "originalTitle": "Bill & Ted Face the Music",
+  "overview": "2020-at írunk, amikor az időutazó, wannabe rocksztárok, Bill (Alex Winter) és Ted (Keanu Reeves) élik az átlagos középkorúak mindennapi életét: dolgozni járnak, gyereket nevelnek. Ám máig nem sikerült megírniuk azt a megjövendölt dalt, ami egyesítené a széthullóban levő világot, így a Földet katasztrófa fenyegeti. Ez az utolsó esélyük, hogy beteljesítsék rock and roll sorsukat, ami egyúttal a bolygó valóságának megmentését is jelenti, ezért a már fáradékony és nem éppen fiatal legjobb barátok új kalandra indulnak. Elutaznak a jövőbe, hogy jövőbeli énjüktől kérjenek segítséget a dal megírásához, amivel elkerülhető az emberiség pusztulása. Útjuk során segítségükre sietnek lányaik, néhány történelmi személyiség és pár zenei legenda is.",
+  "backdropPath": "/ceVaixg5VUfx8j0N81FT0hRayRm.jpg",
+  "posterPath": "/s7Tx2OujO62rD8GB3s9Vi6OaFnF.jpg",
+  "releaseDate": "2020-08-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d8a2e8e2-d5d2-4f7d-a0e4-c301bf900a36",
+      "title": "Bill & Ted face the music",
+      "subtitle": null,
+      "timestampString": "03:13:16",
+      "timestampInSeconds": 11596,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #197",
+        "youtubeId": "j1hyfnPoTyg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/j1hyfnPoTyg/hqdefault.jpg",
+        "durationInMinutes": 296,
+        "releaseDate": 1600408834000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

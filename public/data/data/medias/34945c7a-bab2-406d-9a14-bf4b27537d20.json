@@ -1,0 +1,58 @@
+{
+  "id": "34945c7a-bab2-406d-9a14-bf4b27537d20",
+  "title": "Remélem legközelebb sikerül meghalnod :)",
+  "originalTitle": "Remélem legközelebb sikerül meghalnod :)",
+  "overview": "Eszter a tinédzserkor megpróbáltatásait a mangák világában igyekszik átvészelni. Kívülállóként szemléli kortársait, náluk sokkal többet jelent neki, hogy angoltanára külön figyelmet fordít rá. Amikor egy nap a tanár váratlanul elmegy a gimnáziumból, Eszter lába alól kicsúszik a talaj. Muszáj szembenéznie tinédzser korosztályával, azok hiúságával és saját csapongó érzelmeivel.",
+  "backdropPath": "/fdcJQ4SmSZmNfJfZu7hAOO3AQR2.jpg",
+  "posterPath": "/8uirHZL1yYMdKABYPsyLyW4a41P.jpg",
+  "releaseDate": "2018-09-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7c249e76-a517-4637-8023-8847a9f4a097",
+      "title": "Remélem legközelebb sikerül meghalnod :)",
+      "subtitle": null,
+      "timestampString": "01:32:43",
+      "timestampInSeconds": 5563,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #151",
+        "youtubeId": "hcylcX_kgM0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/hcylcX_kgM0/hqdefault.jpg",
+        "durationInMinutes": 234,
+        "releaseDate": 1537428229000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bb084f21-8636-4aae-92c9-6dcfbd2282ad",
+      "title": "Remélem legközelebb sikerül meghalnod :)",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "AUDIO_COMMENTARY",
+        "title": "Filmbarátok Audiokommentár: Remélem legközelebb sikerül meghalnod :)",
+        "youtubeId": "YOOttqnEDrc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/YOOttqnEDrc/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1579366452000,
+        "participants": []
+      }
+    }
+  ]
+}

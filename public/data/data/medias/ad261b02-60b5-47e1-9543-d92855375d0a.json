@@ -1,0 +1,41 @@
+{
+  "id": "ad261b02-60b5-47e1-9543-d92855375d0a",
+  "title": "Rebel Moon",
+  "originalTitle": null,
+  "overview": null,
+  "backdropPath": null,
+  "posterPath": null,
+  "releaseDate": null,
+  "topics": [
+    {
+      "id": "f9b7b8af-a116-46e3-bb81-f58c228e1cfb",
+      "title": "Rebel Moon",
+      "subtitle": null,
+      "timestampString": "00:30:30",
+      "timestampInSeconds": 1830,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #270",
+        "youtubeId": "Hk6gv0cu8TY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Hk6gv0cu8TY/hqdefault.jpg",
+        "durationInMinutes": 222,
+        "releaseDate": 1705227394000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

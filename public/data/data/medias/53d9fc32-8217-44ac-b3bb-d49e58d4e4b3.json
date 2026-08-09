@@ -1,0 +1,41 @@
+{
+  "id": "53d9fc32-8217-44ac-b3bb-d49e58d4e4b3",
+  "title": "Sweeney - A törvény ereje",
+  "originalTitle": "The Sweeney",
+  "overview": "Jack Regan társával, George Carterrel már régóta kemény bűnözők ellen küzd. Csapatuk bűnözőktől átvett módszerek alapján működik, s e módszerek nagyban eltérnek a rendőrségtől megszokott eljárásoktól. Általában erősen felfegyverkeznek, provokatívak, olykor aljasak, és legfőképpen igen hatékonyak. Mikor egy régi ellenfelük ismét Londonban garázdálkodik, Regan és Carter úgy dönt, bármi áron megállítják.",
+  "backdropPath": "/mfYG7D6fQdnKopR6DqnXyfkWG8W.jpg",
+  "posterPath": "/8RgstJSzm8uzwCpLGzREQ0RAEY4.jpg",
+  "releaseDate": "2012-09-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "01f02eb5-ca4f-42f4-b1b8-c19bd6346d35",
+      "title": "Sweeney - A törvény ereje",
+      "subtitle": null,
+      "timestampString": "02:29:39",
+      "timestampInSeconds": 8979,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #50",
+        "youtubeId": "3fU-zjKUKtc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3fU-zjKUKtc/hqdefault.jpg",
+        "durationInMinutes": 195,
+        "releaseDate": 1399567403000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

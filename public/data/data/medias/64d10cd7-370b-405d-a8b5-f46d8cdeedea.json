@@ -1,0 +1,41 @@
+{
+  "id": "64d10cd7-370b-405d-a8b5-f46d8cdeedea",
+  "title": "Kramer kontra Kramer",
+  "originalTitle": "Kramer vs. Kramer",
+  "overview": "Ted Kramer imádja családját: feleségét és hatéves kisfiát, de azért a munka a legfontosabb számára, minden mást a karrierjének rendel alá. Egyik este arra ér haza, hogy Joanna, a felesége szárazon közli vele: elhagyja, hogy az anyaszerepből kiszakadva végre megpróbálja megvalósítani önmagát. Így a gyerekkel járó összes gond az apára szakad, aki kénytelen újra felépíteni az életét: megtanulni a gyereknevelés csínját-bínját, s mindeközben az állását is megtartani. Ted főz, vásárol, takarít, játszótérre jár, s megérzi és megérti tündéri kisfia minden vágyát és félelmét. Kisebb-nagyobb zűrök mellett is olyan ajándék ez, amiben kevés apának van része. S másfél év után, miután a legapróbb részlet is a helyére került, ismét megjelenik Joanna...",
+  "backdropPath": "/9pUh1fC8TqVtYPeKpdfNyVK0qnn.jpg",
+  "posterPath": "/4IMJlttJWvHCRYQyUdyOYGAu5ER.jpg",
+  "releaseDate": "1979-12-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c81a3a6f-efd4-48fe-8713-3fd84d4be0c6",
+      "title": "Kramer kontra Kramer",
+      "subtitle": null,
+      "timestampString": "02:07:55",
+      "timestampInSeconds": 7675,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #318",
+        "youtubeId": "97jsp1z7nD4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/97jsp1z7nD4/hqdefault.jpg",
+        "durationInMinutes": 190,
+        "releaseDate": 1768489534000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "b0395d3c-4a58-4534-97fe-4154fbb8709d",
+            "name": "Márk"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "16d9a65d-3e81-4181-bfc3-0e8f020aa4cd",
+  "title": "Bigyó felügyelő",
+  "originalTitle": "Gadget & the Gadgetinis",
+  "overview": "",
+  "backdropPath": "/hwRMAKsJsJmPqhID7eCd3ODeOQr.jpg",
+  "posterPath": "/p5TcfEDUrb1FNI1fOy1TFpKSlgB.jpg",
+  "releaseDate": "2002-09-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3614bd7e-e12b-4989-abaf-d57f084544ce",
+      "title": "Bigyó felügyelő",
+      "subtitle": null,
+      "timestampString": "04:07:30",
+      "timestampInSeconds": 14850,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #185",
+        "youtubeId": "eq07jUces30",
+        "thumbnailUrl": "https://i.ytimg.com/vi/eq07jUces30/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1582698378000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "4e74ba84-3e5b-4f0a-aef9-d58c81d0ab3b",
+  "title": "Irány a Mississippi (A csodaszer)",
+  "originalTitle": "The Cure",
+  "overview": "Erik érdeklődve figyeli a szomszédságukba költözött új lakókat. Kiderül, hogy Dexter, az Erikkel azonos korú kisfiú AIDS-beteg, a rettegett HIV-vírussal fertőzték meg vérátömlesztés során. Nem csoda, hogy állandó célpontja lesz a kölykök piszkálódásának. Erik kezdetben ugyancsak idegenkedik tőle, de hamar összebarátkoznak. Később megvédi Dextert a többiek gúnyolódásától. A két fiú megpróbál minél többet megtudni a betegségről. Egyik nap azt olvassák, hogy egy New Orleans-i orvos megtalálta a vírus ellenszerét. Erik és Dexter útra kel, hogy megszerezze a \"csodaszert\".",
+  "backdropPath": "/cXliQvK1xSi9lSqP7qaBUyED1Az.jpg",
+  "posterPath": "/wHX2Yik29eBKW4l7Wt0DRIcUO78.jpg",
+  "releaseDate": "1995-04-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c171cc7c-f222-4c7a-bb19-2358a5d89f0b",
+      "title": "Irány a Mississippi (A csodaszer)",
+      "subtitle": null,
+      "timestampString": "02:30:34",
+      "timestampInSeconds": 9034,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #66",
+        "youtubeId": "E4v-47u65NI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E4v-47u65NI/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1422556505000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

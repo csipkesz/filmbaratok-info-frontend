@@ -1,0 +1,45 @@
+{
+  "id": "f8954797-75d9-41f8-b83f-fb821e939b88",
+  "title": "A szerelem hálójában",
+  "originalTitle": "You've Got Mail",
+  "overview": "Kathleen Kelly a világ talán legszebb gyermekkönyvboltjának a tulajdonosa. Egy nap azonban az utca túloldalán Joe Fox megnyitja könyváruházát, ami korántsem olyan meghitt, viszont sokkal nagyobb, mint Kathleené. A két magányos üzletvezető és harcias ellenfél éjszakánként NY152 és Shopgirl álnév alatt ismerkedik és hamarosan egymásra is találnak a hálón. Álnéven egymásnak tanácsokat adnak és még egymásba is szeretnek. De eljön a nap, amikor fény derül kilétükre.",
+  "backdropPath": "/9lYpkcO7WuruOXB2mn8ppC6Ecaq.jpg",
+  "posterPath": "/cqQ5Np6In1hIMlUSKbpSGKIpb3C.jpg",
+  "releaseDate": "1998-12-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "cdaf89f8-0e4c-480b-a125-ea79a9c24c8b",
+      "title": "A szerelem hálójában",
+      "subtitle": null,
+      "timestampString": "03:42:30",
+      "timestampInSeconds": 13350,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #215",
+        "youtubeId": "J6qemr4xa1Y",
+        "thumbnailUrl": "https://i.ytimg.com/vi/J6qemr4xa1Y/hqdefault.jpg",
+        "durationInMinutes": 287,
+        "releaseDate": 1627662350000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

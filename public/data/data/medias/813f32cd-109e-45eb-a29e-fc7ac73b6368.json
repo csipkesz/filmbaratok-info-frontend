@@ -1,0 +1,45 @@
+{
+  "id": "813f32cd-109e-45eb-a29e-fc7ac73b6368",
+  "title": "Arnold",
+  "originalTitle": "Arnold",
+  "overview": "A bensőséges dokumentumfilm Arnold Schwarzenegger sokoldalú életét és karrierjét mutatja be testépítőbajnoki éveitől a hollywoodi sikereken át politikusi tevékenységéig.",
+  "backdropPath": "/A5ITI2kmvcMpQYEPpToTSdtWZzX.jpg",
+  "posterPath": "/o9KmWrG9rbFhB7jWW4vFHTmqv28.jpg",
+  "releaseDate": "2023-06-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "cafe943f-c01f-4256-95a6-22bf4fa760ef",
+      "title": "Arnold",
+      "subtitle": null,
+      "timestampString": "02:36:25",
+      "timestampInSeconds": 9385,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #256",
+        "youtubeId": "yK5fnD61khw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/yK5fnD61khw/hqdefault.jpg",
+        "durationInMinutes": 224,
+        "releaseDate": 1686942465000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

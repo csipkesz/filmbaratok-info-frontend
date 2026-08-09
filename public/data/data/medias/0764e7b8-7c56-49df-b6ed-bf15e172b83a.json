@@ -1,0 +1,41 @@
+{
+  "id": "0764e7b8-7c56-49df-b6ed-bf15e172b83a",
+  "title": "Boogeyman",
+  "originalTitle": "Boogeyman",
+  "overview": "Tim (Barry Watson) látszólag normális, pedig nyolcéves kora óta egy szörnyeteg tartja rettegésben. Miután apját szörnyű kínok között elrabolja a szobájából, a lakásában megszüntetett minden sötét sarkot; nehogy a gonosz erő rejtekhelyet találjon magának. Egy nap azonban barátnője, Jessica (Tory Mussett) szüleihez utaznak, ezért el kell hagynia a biztonságos övezetet. Amint kilép saját védett burkából, a dolgok lassan összeomlanak körülötte.",
+  "backdropPath": "/sJEcInnWer58nvYEbZmrx5eAQ7R.jpg",
+  "posterPath": "/5KffN0UcuAKJdUAcOvZ21OrqXc8.jpg",
+  "releaseDate": "2005-02-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c61288ca-3164-44d0-897a-4fec16ddd640",
+      "title": "Boogeyman",
+      "subtitle": null,
+      "timestampString": "03:17:29",
+      "timestampInSeconds": 11849,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #295",
+        "youtubeId": "GjY5Xs-Vbyc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GjY5Xs-Vbyc/hqdefault.jpg",
+        "durationInMinutes": 231,
+        "releaseDate": 1738346406000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "4a6ebfe9-9839-42f7-a009-f147acc0c2b4",
+  "title": "Házassági történet",
+  "originalTitle": "Marriage Story",
+  "overview": "A színpadi rendező Charlie és színésznő felesége, Nicole, egy fárasztó válással küzdenek, melynek hatására személyiségük szélsőségeken megy keresztül.",
+  "backdropPath": "/wDwQXLDUuiEaaiuWIDBpbqnwYGX.jpg",
+  "posterPath": "/3b8cjQRN8W9AUvIOX6hLe35qOgj.jpg",
+  "releaseDate": "2019-09-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "aa8b5a73-4545-417b-9a76-00001ea19e55",
+      "title": "Házassági történet",
+      "subtitle": null,
+      "timestampString": "00:20:00",
+      "timestampInSeconds": 1200,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #183",
+        "youtubeId": "uA5tRdykPyw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uA5tRdykPyw/hqdefault.jpg",
+        "durationInMinutes": 277,
+        "releaseDate": 1579802407000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

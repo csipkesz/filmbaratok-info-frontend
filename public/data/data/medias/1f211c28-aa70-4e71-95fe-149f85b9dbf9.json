@@ -1,0 +1,41 @@
+{
+  "id": "1f211c28-aa70-4e71-95fe-149f85b9dbf9",
+  "title": "Bűnösök",
+  "originalTitle": "Sinners",
+  "overview": "Az ikertestvérek visszatérnek szülővárosukba, hogy újrakezdjék az életüket. Ott azonban egy gonosz lény várja őket vissza...",
+  "backdropPath": "/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
+  "posterPath": "/3x1lwI6bg7MzXwz87tzePEftvl.jpg",
+  "releaseDate": "2025-04-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "10ab72d8-42e6-4b2d-860d-f3beca532f0a",
+      "title": "Bűnösök",
+      "subtitle": null,
+      "timestampString": "01:51:27",
+      "timestampInSeconds": 6687,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #302",
+        "youtubeId": "3K4xdZiHI_w",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3K4xdZiHI_w/hqdefault.jpg",
+        "durationInMinutes": 235,
+        "releaseDate": 1747414746000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

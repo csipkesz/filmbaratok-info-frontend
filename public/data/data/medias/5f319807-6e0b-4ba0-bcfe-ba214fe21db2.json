@@ -1,0 +1,45 @@
+{
+  "id": "5f319807-6e0b-4ba0-bcfe-ba214fe21db2",
+  "title": "Ithaca",
+  "originalTitle": "Ithaca",
+  "overview": "",
+  "backdropPath": "/pY9vGDtO6PKMZHvth3FCQkncgUW.jpg",
+  "posterPath": "/oCyNJbfZ7kQVhRyOlNcJhlsizLb.jpg",
+  "releaseDate": "2015-10-29T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6024144a-8118-4702-af8b-0022dc80fe36",
+      "title": "Ithaca",
+      "subtitle": null,
+      "timestampString": "01:57:00",
+      "timestampInSeconds": 7020,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #254",
+        "youtubeId": "TI74Dk0Q_o4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/TI74Dk0Q_o4/hqdefault.jpg",
+        "durationInMinutes": 202,
+        "releaseDate": 1683715646000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "9b185b66-340f-496a-8ba5-0b94426b771d",
+  "title": "Bosszúállók: Végtelen háború",
+  "originalTitle": "Avengers: Infinity War",
+  "overview": "A Bosszúállóknak és a Földnek egy minden korábbinál nagyobb fenyegetéssel kell szembenézniük, egy új veszedelemmel, mely a kozmikus árnyékból emelkedik ki, Thanosszal, akinek eltökélt célja, hogy megszerezze mind a hat végtelen követ, és ezzel korlátlan hatalomra tegyen szert. A Bosszúállók minden eddigi harca ehhez a pillanathoz vezetett – a Föld, és a létezés sorsa soha nem volt még annyira bizonytalan, mint most.",
+  "backdropPath": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+  "posterPath": "/pq1VMwnSRclXCMRk0OeERLAz4JM.jpg",
+  "releaseDate": "2018-04-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c4b7af13-e057-46ab-b583-413d2685114f",
+      "title": "Bosszúállók: Végtelen háború [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "02:29:10",
+      "timestampInSeconds": 8950,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #142",
+        "youtubeId": "9S7p7P1Y2po",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9S7p7P1Y2po/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1525105433000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

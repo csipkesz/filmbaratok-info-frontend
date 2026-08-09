@@ -1,0 +1,45 @@
+{
+  "id": "c28fd4c1-0f02-440c-b16c-80eae7651fde",
+  "title": "Szárnyas fejvadász",
+  "originalTitle": "Blade Runner",
+  "overview": "2019-et írunk. Egy speciális osztaghoz tartozó Deckard éppen visszavonulni készül, amikor újabb feladatot kap. Öt replikáns eltérített egy űrhajót, hogy visszatérjenek a Földre és megkeressék megalkotójukat: az életüket szeretnék meghosszabbítani. Deckard feladata, hogy megakadályozza ezt, felkutassa és végezzen a replikánsokkal.",
+  "backdropPath": "/hJ5R9d6QuH3tzr8L8neZZTuzNXm.jpg",
+  "posterPath": "/q66NTyCJKvJmGS0h3n02I7CGmBt.jpg",
+  "releaseDate": "1982-06-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0153f34a-8e44-46dd-92be-9aef4816fffd",
+      "title": "Szárnyas fejvadász",
+      "subtitle": null,
+      "timestampString": "02:10:18",
+      "timestampInSeconds": 7818,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #131",
+        "youtubeId": "QymLKg2wvV4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/QymLKg2wvV4/hqdefault.jpg",
+        "durationInMinutes": 230,
+        "releaseDate": 1509033085000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

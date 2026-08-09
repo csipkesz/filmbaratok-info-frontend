@@ -1,0 +1,45 @@
+{
+  "id": "041613bc-0340-4131-9910-c6263a1df98a",
+  "title": "Tőzsdecápák",
+  "originalTitle": "Wall Street",
+  "overview": "Gordon Gekko semmi sem drága, semmi sem értékes és csupán egyetlen dolog érdekli: a siker. Egy fiatal, nagyra törő alkalmazottjában felismeri ugyanezt a tulajdonságot és tanítványául fogadja őt. Bud Fox pedig mindent megtenne, hogy elleshesse a győzhetetlennek tűnő tőzsdemágus titkait. Eladja neki a lelkét. És mit kap cserébe? Ő azt hiszi, a boldogságot.",
+  "backdropPath": "/v46Uq29FXcl4huvu1Nh7tJ5qAjZ.jpg",
+  "posterPath": "/4EY1iG437U7jbFZnWz1aDqu7QLX.jpg",
+  "releaseDate": "1987-12-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "06b88ba9-8789-48d7-8144-d0a830c2ac59",
+      "title": "Tőzsdecápák",
+      "subtitle": null,
+      "timestampString": "03:09:10",
+      "timestampInSeconds": 11350,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #162",
+        "youtubeId": "Pm_3kToMJek",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Pm_3kToMJek/hqdefault.jpg",
+        "durationInMinutes": 231,
+        "releaseDate": 1550070901000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

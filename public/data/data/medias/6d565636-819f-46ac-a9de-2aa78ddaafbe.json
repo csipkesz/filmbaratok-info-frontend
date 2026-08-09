@@ -1,0 +1,45 @@
+{
+  "id": "6d565636-819f-46ac-a9de-2aa78ddaafbe",
+  "title": "Az örökbeadás",
+  "originalTitle": "Nowhere Special",
+  "overview": "Miután felesége belehalt a szülésbe, John egyedül neveli 3 éves kisfiát. A férfit azonban rövidesen újabb csapás éri, az orvosok csupán néhány hónapot jósolnak neki, így John egyre elszántabban próbál nevelőszülőket találni fia számára.",
+  "backdropPath": "/wrEbKIbW1q6AOaZrpiscjTgfBvp.jpg",
+  "posterPath": "/eho2jpjNQblPzlFODQoPgGNJAmd.jpg",
+  "releaseDate": "2020-09-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4ec5553c-a9b6-4864-a2b5-3e81df66515b",
+      "title": "Az örökbeadás",
+      "subtitle": null,
+      "timestampString": "01:24:30",
+      "timestampInSeconds": 5070,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #226",
+        "youtubeId": "g-SEAVbxOlA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/g-SEAVbxOlA/hqdefault.jpg",
+        "durationInMinutes": 224,
+        "releaseDate": 1643475639000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

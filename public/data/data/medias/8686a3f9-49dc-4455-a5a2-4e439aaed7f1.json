@@ -1,0 +1,49 @@
+{
+  "id": "8686a3f9-49dc-4455-a5a2-4e439aaed7f1",
+  "title": "A zűrhajó",
+  "originalTitle": "(T)Raumschiff Surprise - Periode 1",
+  "overview": "Évszázadokkal azután, hogy az emberek megtelepedtek a Marson, 2304-ben támadás éri a Földet. A Mars hadserege meg akarja hódítani a kék bolygót. Metapha királynő és tanácsadói kifogytak az ötletekből, ráadásul az egész űrflottából csak egy hajó maradt, a Surprise. Az ugyanis oly messze járt, hogy igazából senki sem hiányolta sem az űrhajót, sem annak meleg legénységét. Mialatt a földiek a puszta túlélésért küzdenek, Kork kapitány, Schrotty főmérnök és a vulkáni származású elsőtiszt, Mr. Spuck az éves Miss Waikiki szépségversenyre készülődik valahol az univerzum túlsó végén. Ekkor üzenet érkezik a Földről, amelyben hazahívják őket. A hiperhajtómű azonban meghibásodik, így végül Rock, az űrtaxis viszi a legénységet a Földre. A Surprise emberei kétségbeesett tervet kovácsolnak a bolygó megmentésére.",
+  "backdropPath": "/wrTM20Hh6rc0Gzw6AkIF0sVBnOc.jpg",
+  "posterPath": "/ju66IZDJIdA6rm5VofNw8KEEHwk.jpg",
+  "releaseDate": "2004-07-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "063db2f5-277c-43a6-a680-05b5a7166801",
+      "title": "A zűrhajó",
+      "subtitle": null,
+      "timestampString": "03:50:05",
+      "timestampInSeconds": 13805,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #280",
+        "youtubeId": "hOuoPd65teo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/hOuoPd65teo/hqdefault.jpg",
+        "durationInMinutes": 259,
+        "releaseDate": 1718650807000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6288d5b5-4f6b-4dfa-97c3-cd2769ee3996",
+  "title": "Palackposta",
+  "originalTitle": "Flaskepost fra P",
+  "overview": "Skóciában egy palackba zárt üzenetet sodor partra a tenger. A foszladozó papíron már alig olvashatók a vérrel írt sorok, amelyben egy testvérpár kér segítséget. A vizsgálódó helyi rendőrök kiderítik, hogy a palackot Dániában dobták vízbe, 1996-ban. Így kerül az ügy a koppenhágai rendőrség döglött aktákkal foglalkozó Q-ügyosztályára, Carl Morck nyomozó asztalára. Carl, valamint segítői, Assad és Rose gyorsan rájönnek arra, hogy a levelet egy bizonyos Poul Holt írta, akit öccsével együtt raboltak el tizenhárom évvel ezelőtt, ám az eltűnésüket annak idején nem jelentették. De élnek, élhetnek-e még, s ha igen, vajon hol?",
+  "backdropPath": "/vDSDu2okecJy1gcmPf26bJBMhhV.jpg",
+  "posterPath": "/gnJrMSsBAkJ1PT3L0Kg0mOiKvtT.jpg",
+  "releaseDate": "2016-03-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1a7bafa4-a406-4749-a82c-e56b908c11f8",
+      "title": "Palackposta",
+      "subtitle": null,
+      "timestampString": "01:20:56",
+      "timestampInSeconds": 4856,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #106",
+        "youtubeId": "HldVi4TfJ9Y",
+        "thumbnailUrl": "https://i.ytimg.com/vi/HldVi4TfJ9Y/hqdefault.jpg",
+        "durationInMinutes": 146,
+        "releaseDate": 1473495633000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

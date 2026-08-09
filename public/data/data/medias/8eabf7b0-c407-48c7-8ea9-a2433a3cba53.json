@@ -1,0 +1,41 @@
+{
+  "id": "8eabf7b0-c407-48c7-8ea9-a2433a3cba53",
+  "title": "Creed 2",
+  "originalTitle": "Creed II",
+  "overview": "Az élet kötéltánccá vált Adonis Creed számára. Személyes kötelezettségei és a következő nagy meccsre való felkészülése között megtalálni az egyensúlyt komoly kihívásnak bizonyul. Az, hogy ellenfele családja és a sajátja közös múlttal bír, csak feszültebbé teszi a közeledő megmérettetést a ringben. Rocky Balboa viszont mindvégig ott van mellette, így együtt néznek szembe régi sérelmeikkel, együtt jönnek rá, miért is érdemes küzdeni és együtt fedezik fel, hogy semmi sem fontosabb a családnál.",
+  "backdropPath": "/9il7qNbeYnPMYlutsVYDsj4hRyb.jpg",
+  "posterPath": "/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg",
+  "releaseDate": "2018-11-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4d9ab63e-aa0b-4cea-a797-093cb01171bc",
+      "title": "Creed 2 [Enyhén spoileres]",
+      "subtitle": null,
+      "timestampString": "00:40:55",
+      "timestampInSeconds": 2455,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #160",
+        "youtubeId": "_a3zVw9qNvs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_a3zVw9qNvs/hqdefault.jpg",
+        "durationInMinutes": 196,
+        "releaseDate": 1547731556000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

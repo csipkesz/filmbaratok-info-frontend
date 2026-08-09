@@ -1,0 +1,45 @@
+{
+  "id": "65870d70-7d22-4a8c-8d08-bfdd5c8b0e2b",
+  "title": "Randevú",
+  "originalTitle": "Randevú",
+  "overview": "",
+  "backdropPath": null,
+  "posterPath": null,
+  "releaseDate": "2004-04-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "33a8e8cb-f843-4ea3-b8af-ddbe98bbe64b",
+      "title": "Randevú [2019, SPOILERES]",
+      "subtitle": null,
+      "timestampString": "03:10:20",
+      "timestampInSeconds": 11420,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #268",
+        "youtubeId": "9TmBeKJi0og",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9TmBeKJi0og/hqdefault.jpg",
+        "durationInMinutes": 211,
+        "releaseDate": 1702918793000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

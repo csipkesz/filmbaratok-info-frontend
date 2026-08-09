@@ -1,0 +1,45 @@
+{
+  "id": "706b1fc5-0065-478b-bfef-233a55be3895",
+  "title": "Veszélyes",
+  "originalTitle": "Dangerous",
+  "overview": "Dylan Forrester, egy bűnös múltú szociopata, a feltételes szabadlábra helyezését nyugodt körülmények közt szeretné tölteni, az antidepresszánsok és a különös pszichiátere segítségével. Egy nap azonban Dylan testvére, Sean Forrester professzor rejtélyes körülmények közt meghal. Dylan elhatározza, hogy utánajár az igazságnak. Eközben nemcsak az FBI ered a nyomába, hanem egy csapat felfegyverezett zsoldos is a színre lép, hogy megszerezzenek valamit, amit Dylan testvére rejtegetett. Dylannek a túléléshez minden taktikai képességére szüksége lesz.",
+  "backdropPath": "/mo57hzhW3BcZL1f7MNteWKHsmlN.jpg",
+  "posterPath": "/lAThaL4zG7jY7eEFf22xdXNACit.jpg",
+  "releaseDate": "2021-11-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "35ef990b-45b6-4898-927a-fa8fbbc66302",
+      "title": "Veszélyes",
+      "subtitle": null,
+      "timestampString": "03:35:29",
+      "timestampInSeconds": 12929,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #227",
+        "youtubeId": "aLZRPLtke70",
+        "thumbnailUrl": "https://i.ytimg.com/vi/aLZRPLtke70/hqdefault.jpg",
+        "durationInMinutes": 275,
+        "releaseDate": 1645191276000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

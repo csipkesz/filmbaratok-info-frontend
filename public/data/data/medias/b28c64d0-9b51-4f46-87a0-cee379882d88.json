@@ -1,0 +1,45 @@
+{
+  "id": "b28c64d0-9b51-4f46-87a0-cee379882d88",
+  "title": "Még egy kört mindenkinek",
+  "originalTitle": "Druk",
+  "overview": "Négy jóbarát, akik gimnáziumi tanárok, letesztelnek egy elméletet. Feltevésük szerint egy csekély alkoholszint fenntartása a vérben, vagyis a folyamatos, enyhe spicces állapot jobbá teszi az életüket. A kezdeti felszabadultság azonban lassan, de megállíthatatlanul fordul át kontrollálhatatlan ivászatba.",
+  "backdropPath": "/a2pPepVPtKY7E4XEkT7W3ZxUOY5.jpg",
+  "posterPath": "/iNQQD97XbcyPBKGXoo7KpZIAOmG.jpg",
+  "releaseDate": "2020-09-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c630cac9-6c21-431d-8e36-2743674046df",
+      "title": "Még egy kört mindenkinek",
+      "subtitle": null,
+      "timestampString": "00:54:49",
+      "timestampInSeconds": 3289,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #207",
+        "youtubeId": "nRj4p0apAgo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nRj4p0apAgo/hqdefault.jpg",
+        "durationInMinutes": 247,
+        "releaseDate": 1614949852000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

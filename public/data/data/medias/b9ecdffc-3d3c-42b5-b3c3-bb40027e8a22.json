@@ -1,0 +1,41 @@
+{
+  "id": "b9ecdffc-3d3c-42b5-b3c3-bb40027e8a22",
+  "title": "Kung Fury",
+  "originalTitle": "Kung Fury",
+  "overview": "A világhálóra felkerült Kung Fury kétségtelenül az év trashfilmje. A félórás agymenést író, rendező és annak címszerepét, azaz a jövőből a '80-as évekbe (és tovább) visszautazó Kung Fury nevű zsarut játszó David Sandberg a Kickstarter támogatásával alkotta meg ezt a verekedős, időutazós, dinoszauruszos, nácis paródiát, amely a maga giccsességével egyszerre lett borzalmas és mégis rettenetesen vagány. A '80-as évek egyik ikonja, David Hasselhoff mellékszereplésével forgatott iszonyat pörgős rövidfilmet most te is végignézheted.",
+  "backdropPath": "/gdxPHC5nw9sBrrUyiOnzkWqnLE4.jpg",
+  "posterPath": "/f1QpIlCqlFXp1hjnLplXb5irxip.jpg",
+  "releaseDate": "2015-05-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2e913d9e-d672-4106-a161-8f63ddd14549",
+      "title": "Kung Fury",
+      "subtitle": null,
+      "timestampString": "02:29:44",
+      "timestampInSeconds": 8984,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #75",
+        "youtubeId": "5hqAh129dAE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/5hqAh129dAE/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1434729270000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

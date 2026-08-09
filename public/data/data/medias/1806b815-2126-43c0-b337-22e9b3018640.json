@@ -1,0 +1,45 @@
+{
+  "id": "1806b815-2126-43c0-b337-22e9b3018640",
+  "title": "Új mutánsok",
+  "originalTitle": "The New Mutants",
+  "overview": "Egy csapat ifjú mutánst pszichiátriai megfigyelés céljából tartanak bent egy a világtól elzárt kórházban. Amikor új mutációs képességeiket és barátságukat is próbatétel elé állító, különös dolgok történnek, a fiatalok elszánt küzdelembe kezdenek, hogy élve kijussanak.",
+  "backdropPath": "/1MoeNacOltBWojkStjhT3svBTOK.jpg",
+  "posterPath": "/9TDIa6bi1JoQhkQYvhnRlBGm8GR.jpg",
+  "releaseDate": "2020-04-02T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "44432d7c-126b-494c-af46-25a2b5cc3cc5",
+      "title": "Új mutánsok",
+      "subtitle": null,
+      "timestampString": "02:14:37",
+      "timestampInSeconds": 8077,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #197",
+        "youtubeId": "j1hyfnPoTyg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/j1hyfnPoTyg/hqdefault.jpg",
+        "durationInMinutes": 296,
+        "releaseDate": 1600408834000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

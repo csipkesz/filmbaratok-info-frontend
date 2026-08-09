@@ -1,0 +1,41 @@
+{
+  "id": "dfb9ce93-80e8-491b-9a4c-aa754d64a439",
+  "title": "The Wanderers",
+  "originalTitle": "The Wanderers",
+  "overview": "1963, New York és annak is a legnehezebben túlélhető része, Bronx. Bandákba verődve élik mindennapjaikat a különböző nemzetiségek fiai. Az összecsapások elkerülhetetlenek. Ha fiatal vagy és olasz, csak egy bandához csatlakozhatsz, a Wanderershez. A nagyvárosi fiatalság hatvanas évekbeli életérzését híven tükröző alkotásban megszólalnak a kor nagy slágerei is. Kaufman gyakran idézett filmje a gyermekkori vad fantáziák és a túlzásba vitt azonosulási vágyak világát mutatja be. Csodás keveréke a vígjátéknak és a tragédiának.",
+  "backdropPath": "/c4hWk3pBYlpukYNFeEq29wpxAO1.jpg",
+  "posterPath": "/7RNSGxtCJWPGoSDc0TS5OzsZTmk.jpg",
+  "releaseDate": "1979-07-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "86756b2f-fffd-4160-aaf4-02e872ec4512",
+      "title": "The Wanderers",
+      "subtitle": null,
+      "timestampString": "02:14:23",
+      "timestampInSeconds": 8063,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #324",
+        "youtubeId": "Df6QbCuxjIs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Df6QbCuxjIs/hqdefault.jpg",
+        "durationInMinutes": 174,
+        "releaseDate": 1776433338000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

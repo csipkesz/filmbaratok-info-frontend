@@ -1,0 +1,45 @@
+{
+  "id": "0f1d8f23-5ea7-41de-9afd-8e208e1c9bbf",
+  "title": "Fekete Párduc",
+  "originalTitle": "Black Panther",
+  "overview": "T’Challa apja halálát követően hazatér az elszigetelt, ám technológiailag fejlett afrikai országba, Wakanda királyságába, hogy elfoglalja az őt megillető helyet a trónon. Ám mikor egy nagy hatalmú ősi ellenség ismét feltűnik a színen, T’Challa királyként és a Fekete Párducként is próbára tétetik: a félelmetes összecsapás kimenetelén nem pusztán Wakanda, hanem az egész világ sorsa áll. Árulások és veszélyek közepette az ifjú uralkodónak maga mellé kell állítania szövetségeseit és felszínre kell engednie a Fekete Párduc minden erejét, hogy legyőzze ellenfeleit és biztonságban tudhassa népét.",
+  "backdropPath": "/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg",
+  "posterPath": "/6CIAH9jlbuOz05M7OEn0MlnvMxF.jpg",
+  "releaseDate": "2018-02-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "acd138b7-1ba4-4312-851e-a49f90cd269b",
+      "title": "Fekete Párduc",
+      "subtitle": null,
+      "timestampString": "00:55:20",
+      "timestampInSeconds": 3320,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #138",
+        "youtubeId": "nNL55zk0j6I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nNL55zk0j6I/hqdefault.jpg",
+        "durationInMinutes": 255,
+        "releaseDate": 1519187400000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

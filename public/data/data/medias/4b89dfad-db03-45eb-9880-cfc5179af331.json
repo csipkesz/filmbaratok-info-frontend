@@ -1,0 +1,41 @@
+{
+  "id": "4b89dfad-db03-45eb-9880-cfc5179af331",
+  "title": "A katonaszökevény (Blood & Gold)",
+  "originalTitle": "Blood & Gold",
+  "overview": "A film 1945 tavaszán játszódik, közvetlenül a második világháború vége előtt. Elsa és Heinrich hamar rájönnek, hogy több közös van bennük, mint a közös ellenség. Mindketten az igazságért harcolnak, a nácik ellen és a családjukért. Heinrich a lányát keresi. Elsa távoli falujában azonban egy zsidó aranykincset rejteget, amelyet a nácik el akarnak rabolni. Akciódús keresés kezdődik a kincsért, falusiak az SS ellen. Az arany utáni mohóság titkokra derít fényt, és véres leszámolással végződik a falu templomában.",
+  "backdropPath": "/aCqsz1Wol8QImZPa3AjecpZPCpy.jpg",
+  "posterPath": "/yPvC2ZIGq6YWSprJDj1EAXjsRrU.jpg",
+  "releaseDate": "2023-04-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "92c425f9-5510-4a30-81b3-bd013e2d9c37",
+      "title": "A katonaszökevény (Blood & Gold)",
+      "subtitle": null,
+      "timestampString": "02:42:00",
+      "timestampInSeconds": 9720,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #270",
+        "youtubeId": "Hk6gv0cu8TY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Hk6gv0cu8TY/hqdefault.jpg",
+        "durationInMinutes": 222,
+        "releaseDate": 1705227394000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

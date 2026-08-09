@@ -1,0 +1,45 @@
+{
+  "id": "fa4e65e9-9abd-42ac-b309-de2785164dcd",
+  "title": "Ecc, pecc, ki lehetsz?",
+  "originalTitle": "See How They Run",
+  "overview": "London, az 1950-es években. A West Enden egy nagy sikerű színdarab filmváltozatát készítik elő, egészen addig, mígnem a hollywoodi rendező gyilkosság áldozatává válik. A sokat látott Stoppard felügyelő és a bizonyítási vágytól fűtött újonc, Stalker közrendőr kapják az ügyet, ám csakhamar egy olyan fejtörővel szembesülnek a fénylően mocskos színházvilág kulisszái között, ami tulajdon életükre is veszélyt jelent.",
+  "backdropPath": "/cn9GQzCaeYylEV2hymVR8bskRMJ.jpg",
+  "posterPath": "/llcKRdI1CtwfII0WeCccqbmUdgB.jpg",
+  "releaseDate": "2022-09-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2d592dda-a125-4fda-a845-4ee8f646e9a9",
+      "title": "Ecc, pecc, ki lehetsz?",
+      "subtitle": null,
+      "timestampString": "01:26:30",
+      "timestampInSeconds": 5190,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #241",
+        "youtubeId": "wkIRMrjPzTE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wkIRMrjPzTE/hqdefault.jpg",
+        "durationInMinutes": 228,
+        "releaseDate": 1665676839000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

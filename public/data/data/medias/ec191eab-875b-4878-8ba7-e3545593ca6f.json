@@ -1,0 +1,45 @@
+{
+  "id": "ec191eab-875b-4878-8ba7-e3545593ca6f",
+  "title": "A leleplezés napja",
+  "originalTitle": "Disclosure Day",
+  "overview": "Te hogy éreznéd magad, ha kiderülne, hogy nem vagyunk egyedül az univerzumban? Ha megtudnád, hogy nem vagyunk egyedül, ha valaki megmutatná, bebizonyítaná neked, az megrémítene? Nyáron az igazság feltárul hétmilliárd embernek. Közeledik… A leleplezés napja.",
+  "backdropPath": "/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
+  "posterPath": "/d7HowAWxG2TOPCkbIjk9gmHz7oC.jpg",
+  "releaseDate": "2026-06-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "61953344-beab-4b0e-bfd1-e8410b0e104f",
+      "title": "A leleplezés napja [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "02:54:04",
+      "timestampInSeconds": 10444,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #329",
+        "youtubeId": "mMxJ3JAYZY4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/mMxJ3JAYZY4/hqdefault.jpg",
+        "durationInMinutes": 212,
+        "releaseDate": 1782846925000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "b0395d3c-4a58-4534-97fe-4154fbb8709d",
+            "name": "Márk"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "f5a6cd34-e95c-4dbc-b6a0-b67c927718f2",
+  "title": "Horgonyt fel",
+  "originalTitle": "Anchors Aweigh",
+  "overview": "Két tengerész - egy nagyvilági kalandor és naiv cimborája - hajóútja során rövid kimaradást kap és beveszi magát a nagyvárosba, Los Angelesbe. A románcra vágyó cimborák hamarosan a szerelem hálójában találják magukat - de korántsem ott, ahol várnánk, a vigalmi negyedben...",
+  "backdropPath": "/oRw716yj4jgshktF03s2is7HGun.jpg",
+  "posterPath": "/fPa79qA8qaikB0wiloKnfSm9NiJ.jpg",
+  "releaseDate": "1945-08-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b330eba0-781d-4307-a386-87ccadddfe1e",
+      "title": "Horgonyt fel",
+      "subtitle": null,
+      "timestampString": "03:27:54",
+      "timestampInSeconds": 12474,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #118",
+        "youtubeId": "tsYYwq3fdTw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tsYYwq3fdTw/hqdefault.jpg",
+        "durationInMinutes": 239,
+        "releaseDate": 1490634596000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

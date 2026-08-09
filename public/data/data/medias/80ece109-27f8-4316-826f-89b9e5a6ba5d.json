@@ -1,0 +1,49 @@
+{
+  "id": "80ece109-27f8-4316-826f-89b9e5a6ba5d",
+  "title": "A hitetlen",
+  "originalTitle": "The Believer",
+  "overview": "Danny Balint egy szélsőségesen rasszista skinhead-banda tagja, aki társai közül talán a legradikálisabban fogalmazza meg antiszemita nézeteit. Hamarosan a szekta egyik kulcsfigurája, hangadója lesz. Senkinek még csak meg sem fordul a fejében, hogy Danny súlyos titkot őriz: ő maga is zsidó származású!",
+  "backdropPath": "/cDTDGNaF5zu4LYD4gZjkaZ8DjjY.jpg",
+  "posterPath": "/oyEi3m7cAZpHQ2f0R5pkC9P1D5N.jpg",
+  "releaseDate": "2001-08-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "efbdcf7e-cbd0-4c9d-bb61-8d84e5e30e2d",
+      "title": "A hitetlen",
+      "subtitle": null,
+      "timestampString": "04:00:14",
+      "timestampInSeconds": 14414,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #236",
+        "youtubeId": "amde_-Gdpc4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/amde_-Gdpc4/hqdefault.jpg",
+        "durationInMinutes": 262,
+        "releaseDate": 1658250003000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

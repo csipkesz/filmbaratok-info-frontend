@@ -1,0 +1,49 @@
+{
+  "id": "5caa0db8-b07e-4cf5-a813-aee5cbe1521d",
+  "title": "7500",
+  "originalTitle": "7500",
+  "overview": "Miközben terroristák próbálják átvenni az irányítást a Berlin–Párizs járat felett, egy csendes, fiatal amerikai másodplióta megpróbálja megmenteni az utasok és a személyzet életét, s meglepő kapcsolatot alakít ki az egyik gépeltérítővel.",
+  "backdropPath": "/72QAA1dKmOrqZafe7UhHafDTjEq.jpg",
+  "posterPath": "/6S4FL7bi7CyPWLJT4fmOHLR6mmX.jpg",
+  "releaseDate": "2019-12-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "456527d7-45df-4a7b-a13f-db41a565adc6",
+      "title": "7500",
+      "subtitle": null,
+      "timestampString": "02:29:00",
+      "timestampInSeconds": 8940,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #193",
+        "youtubeId": "WZrbCRuXQqU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/WZrbCRuXQqU/hqdefault.jpg",
+        "durationInMinutes": 250,
+        "releaseDate": 1594492684000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ff248333-0d00-40bd-af3c-6049f0a070c6",
+            "name": "Szöllőskei Gábor"
+          }
+        ]
+      }
+    }
+  ]
+}

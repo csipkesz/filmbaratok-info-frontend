@@ -1,0 +1,45 @@
+{
+  "id": "b1d8feb4-4518-4f0a-ae91-1ea571a18d52",
+  "title": "...és megint dühbe jövünk",
+  "originalTitle": "Pari e dispari",
+  "overview": "Egy Parapolis nevű hírhedt görög tartja a markában Miamiban a kaszinókat és a fogadóirodákat. O'Connor admirális megelégeli a dolgot és hadat üzen az alvilágnak. Johnny Firpo hadnagyot bízza meg az akció lebonyolításával. Féltestvére, Charlie régen szerencsejátékosként kereste a kenyerét, most betanítja a kártyatrükkökre testvérét is, így a két fivér együtt indul harcba a maffia ellen a kaszinóban.",
+  "backdropPath": "/2OPIWYGSRUPc0UPiA0Xn4gG7CBe.jpg",
+  "posterPath": "/hysQZOF5YoUy1emAFTqjDYmw6R9.jpg",
+  "releaseDate": "1978-10-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fe6c9412-e24f-4c25-ba8f-470bc4e9cd87",
+      "title": "...és megint dühbe jövünk",
+      "subtitle": null,
+      "timestampString": "03:10:08",
+      "timestampInSeconds": 11408,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #105",
+        "youtubeId": "73Hk03Cs0mQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/73Hk03Cs0mQ/hqdefault.jpg",
+        "durationInMinutes": 214,
+        "releaseDate": 1471773217000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

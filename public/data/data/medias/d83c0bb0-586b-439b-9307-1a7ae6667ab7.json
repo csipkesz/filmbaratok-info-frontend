@@ -1,0 +1,49 @@
+{
+  "id": "d83c0bb0-586b-439b-9307-1a7ae6667ab7",
+  "title": "Külön falka",
+  "originalTitle": "Külön falka",
+  "overview": "A Külön falka történetében a tizenkét éves Niki nagyszüleivel él, akik nem tudják kordában tartani a vadóc, az iskolában nehezen beilleszkedő gyereket. Amikor Niki megtudja, hogy édesapját, Tibort kiengedték a börtönből, minden tiltás ellenére felkeresi a férfit. Tibor kidobóként dolgozik a budapesti éjszakában. Magának való alkat, erőszakos természete miatt állandó harcban áll a környezetével. Sötét múltja és egy családi titok miatt kerüli a lányával való találkozást, de Nikit nehezebb lerázni, mint gondolta. A két kívülálló lassan közeledni kezd egymáshoz, de minden az ellen szól, hogy a család egyesülhessen.",
+  "backdropPath": "/i6nTaWRwYRm9EQlObo5vgPPowdF.jpg",
+  "posterPath": "/w0oA3qKF6T19u4RGV8C6iAx4Kq3.jpg",
+  "releaseDate": "2021-09-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c3538858-a506-4bf2-acce-8f935942c518",
+      "title": "Külön falka",
+      "subtitle": null,
+      "timestampString": "02:48:20",
+      "timestampInSeconds": 10100,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #220",
+        "youtubeId": "V6uGh9dBdAw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/V6uGh9dBdAw/hqdefault.jpg",
+        "durationInMinutes": 284,
+        "releaseDate": 1634383916000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

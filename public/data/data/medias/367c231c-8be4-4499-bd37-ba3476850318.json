@@ -1,0 +1,53 @@
+{
+  "id": "367c231c-8be4-4499-bd37-ba3476850318",
+  "title": "Vihar előtt",
+  "originalTitle": "Serenity",
+  "overview": "Dill hajóskapitányként turistákat visz horgászni egy karib-tengeri szigeten. Széthullott életébe lép be Karen –nyomasztó múltjának egyik főszereplője–, aki arra akarja felbérelni, hogy etesse meg brutális férjét a cápákkal. Bár a csalira nem akar ráharapni, Dill lassan rájön, hogy nem minden az, aminek látszik.",
+  "backdropPath": "/ridcUDnFumpMB5AAsIvFafTSx5i.jpg",
+  "posterPath": "/3CMcOQmfmxMZTer5YZSp2LtFpfw.jpg",
+  "releaseDate": "2019-01-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "361accfe-845b-45db-b340-5d735fd35c76",
+      "title": "Vihar előtt [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "02:56:56",
+      "timestampInSeconds": 10616,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #165",
+        "youtubeId": "RSBwJungF40",
+        "thumbnailUrl": "https://i.ytimg.com/vi/RSBwJungF40/hqdefault.jpg",
+        "durationInMinutes": 274,
+        "releaseDate": 1554109205000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "c5262472-3021-44f9-a952-d8db721b220a",
+            "name": "Károly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

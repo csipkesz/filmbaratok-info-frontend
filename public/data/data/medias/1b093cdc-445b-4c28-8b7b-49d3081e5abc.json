@@ -1,0 +1,49 @@
+{
+  "id": "1b093cdc-445b-4c28-8b7b-49d3081e5abc",
+  "title": "Spenser az igazság nyomában",
+  "originalTitle": "Spenser Confidential",
+  "overview": "Spenser, a frissen szabadult exzsaru összeáll Hawkkal, a feltörekvő bunyóssal, hogy leleplezzenek egy sötét összeesküvést két bostoni rendőr halálával kapcsolatban.",
+  "backdropPath": "/ftODZXaXpWtV5XFD8gS9n9KwLDr.jpg",
+  "posterPath": "/wNb4QGLAuTihS9BGrLLVe2424U5.jpg",
+  "releaseDate": "2020-03-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d15731e7-1c0e-4de3-a21d-8a5623aec94d",
+      "title": "Spenser az igazság nyomában",
+      "subtitle": null,
+      "timestampString": "04:17:05",
+      "timestampInSeconds": 15425,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #187",
+        "youtubeId": "Jy2n7Zw18FQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Jy2n7Zw18FQ/hqdefault.jpg",
+        "durationInMinutes": 339,
+        "releaseDate": 1585709102000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

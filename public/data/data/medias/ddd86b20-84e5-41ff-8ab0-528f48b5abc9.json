@@ -1,0 +1,41 @@
+{
+  "id": "ddd86b20-84e5-41ff-8ab0-528f48b5abc9",
+  "title": "Kimi",
+  "originalTitle": "Kimi",
+  "overview": "Egy agorafóbiás seattle-i műszaki dolgozó bűntényre utaló bizonyítékot fedez fel, és egy hatalmas összeesküvés kellős közepébe csöppen.",
+  "backdropPath": "/mruT954ve6P1zquaRs6XG0hA5k9.jpg",
+  "posterPath": "/okNgwtxIWzGsNlR3GsOS0i0Qgbn.jpg",
+  "releaseDate": "2022-02-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "416814a9-f004-4836-be66-c54bd1dc06ee",
+      "title": "Kimi",
+      "subtitle": null,
+      "timestampString": "01:08:40",
+      "timestampInSeconds": 4120,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #231",
+        "youtubeId": "GwvFCLoE8cY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GwvFCLoE8cY/hqdefault.jpg",
+        "durationInMinutes": 252,
+        "releaseDate": 1650126613000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

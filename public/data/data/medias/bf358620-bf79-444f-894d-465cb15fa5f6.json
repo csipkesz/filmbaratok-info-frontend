@@ -1,0 +1,45 @@
+{
+  "id": "bf358620-bf79-444f-894d-465cb15fa5f6",
+  "title": "A Sunset Limited",
+  "originalTitle": "The Sunset Limited",
+  "overview": "A két New York-i férfi egyike fehér, a másik fekete. A fehér egyetemi professzor véget akart vetni az életének, ám öngyilkossági kísérletét a másik megakadályozta. A fekete felviszi magához a lepukkant lakásába, és megpróbál a lelkére beszélni. Furcsa helyzet, hiszen gyilkosságért ült, ám amikor megérintette a halál szele, Isten megszólította őt, és új célt, értelmet adott életének. Az ateista professzor viszont kiábrándult a világból, ön- és embergyűlölő lett. Különös vita bontakozik ki kettejük között az életről, Istenről, az emberekről.",
+  "backdropPath": "/iraunnwrss2DJy4xayyntWHaAZR.jpg",
+  "posterPath": "/p586R0x7g6mguSPFFIja9XLkXpw.jpg",
+  "releaseDate": "2011-02-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ec4e2703-0ee7-4482-af5d-2f0b45d262bf",
+      "title": "A Sunset Limited",
+      "subtitle": null,
+      "timestampString": "02:22:03",
+      "timestampInSeconds": 8523,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #63",
+        "youtubeId": "PgKECs1kHoY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/PgKECs1kHoY/hqdefault.jpg",
+        "durationInMinutes": 195,
+        "releaseDate": 1418847403000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

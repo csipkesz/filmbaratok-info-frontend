@@ -1,0 +1,37 @@
+{
+  "id": "f07ae58c-7031-445f-b105-8906e34226b8",
+  "title": "Star Wars: Jedihistóriák",
+  "originalTitle": "Star Wars: Tales of the Jedi",
+  "overview": "Egy 6 epizódból álló sorozat, amely a Jedik köré épült példázatokat tartalmazza a előzmény korszakból. Utazz két teljesen különböző Jedi – Ahsoka Tano és Dooku gróf – életébe. Mindkettejüket próbára teszik, amikor olyan döntéseket kell hozniuk, melyek meghatározzák sorsukat.",
+  "backdropPath": "/vp52Er9JebGn49GG37jFTwx15Lw.jpg",
+  "posterPath": "/qnG7lSpjpI6TIRV2NBXHVZwxtcL.jpg",
+  "releaseDate": "2022-10-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ae0452e7-90db-4142-8465-fc25b60fdcc8",
+      "title": "Star Wars: Jedihistóriák (1. évad)",
+      "subtitle": "1. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Star Wars: Jedihistóriák (1. évad)",
+        "youtubeId": "FRQ7ueHkULA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/FRQ7ueHkULA/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1684649846000,
+        "participants": [
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f9066580-796b-460b-9966-73bcbf3400a7",
+            "name": "Shirin"
+          }
+        ]
+      }
+    }
+  ]
+}

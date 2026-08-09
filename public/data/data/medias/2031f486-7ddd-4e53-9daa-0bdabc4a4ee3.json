@@ -1,0 +1,45 @@
+{
+  "id": "2031f486-7ddd-4e53-9daa-0bdabc4a4ee3",
+  "title": "A számolás joga",
+  "originalTitle": "Hidden Figures",
+  "overview": "Az ötvenes évek vége: az Egyesült Államok elképesztő hajszával igyekszik legyőzni az űrversenyben Oroszországot. De már úgy tűnik, pénz, ész és elszántság mind kevés lehet… amikor találnak néhány kiaknázatlan, kihasználatlan lángeszet, akiket addig senkinek nem jutott eszébe használni. Hiszen többszörösen gyanúsak: nők és feketék. A három nő igazi emberi kompjúter: senki nem érti, hogyan képesek megcsinálni azokat a számításokat, amiket végeznek, de rakétasebességgel emelkednek a NASA ranglétráján, ott, ahol a kor legnagyobb tudósai dolgoznak. A cél: John Glennt feljuttatni az űrbe… és azután haza is hozni.",
+  "backdropPath": "/rfkIeCaIHhN3K5wjJJqKmfUjYp8.jpg",
+  "posterPath": "/kMlrCzI3powhSs2YwOf4IjJdaGN.jpg",
+  "releaseDate": "2016-12-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "34a80aff-ce4e-4014-846b-609f680be626",
+      "title": "A számolás joga",
+      "subtitle": null,
+      "timestampString": "01:32:35",
+      "timestampInSeconds": 5555,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #115",
+        "youtubeId": "kbUqk0bddqo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/kbUqk0bddqo/hqdefault.jpg",
+        "durationInMinutes": 231,
+        "releaseDate": 1485969786000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

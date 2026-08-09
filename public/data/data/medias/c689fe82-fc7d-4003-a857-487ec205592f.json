@@ -1,0 +1,45 @@
+{
+  "id": "c689fe82-fc7d-4003-a857-487ec205592f",
+  "title": "Üvegtigris",
+  "originalTitle": "Üvegtigris",
+  "overview": "Az Üvegtigris hat barát napjainak története. Lali, az amerika mániás büfés, aki az Üvegtigris nevû rozoga, útszéli büfékocsi tulajdonosa, Gaben, az autónepper, Róka, a piti csencselő, Sanyi, a félnótás hajléktalan, Csoki, aki mindig arról szövegel, hogy majd szerez pénzt és elmegy Amerikába és Cingár, aki a többiek idegeit nem kímélve szaxizik. Gaben rábeszéli Lalit, hogy vegyen meg egy, az amerikai álmot ízig-vérig megtestesítő régi Chevrolet Imapalát, közben Róka izgatottan keresi a „Vasat”, melyet korábban odavitt, hátha akad rá vevő. Lali azonban pár nappal azelőtt eladta a semmire sem használhatónak vélt „fémhulladékot”. Rókára rászálltak a nehézfiúk, s halálosan megfenyegették, hogy hozza vissza vagy fizessen. Pénzt kell tehát szerezni mindenáron. Csoki szerint egyetlen megoldás van, ki kell rabolni a közeli postát. Mindenki kocsiba száll. A nagy balhé azonban nem sikerül tökéletesen…",
+  "backdropPath": null,
+  "posterPath": "/tBSZcB63mGsnrEJ5y9uwPw0p8tz.jpg",
+  "releaseDate": "2001-10-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fd8fb7a7-517d-4f9a-86e3-c484345307cf",
+      "title": "Üvegtigris",
+      "subtitle": null,
+      "timestampString": "01:32:05",
+      "timestampInSeconds": 5525,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #316",
+        "youtubeId": "tj6Fv2PRYFw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tj6Fv2PRYFw/hqdefault.jpg",
+        "durationInMinutes": 318,
+        "releaseDate": 1765639323000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "a9f5de68-d511-452f-8a16-48795273ab5d",
+  "title": "Egy maréknyi dollárért",
+  "originalTitle": "Per un pugno di dollari",
+  "overview": "A messziről érkezett, titokzatos Joe a mexikói határon lévő kis településen akar meggazdagodni két csempészbanda háborújából, akik régóta rivalizálnak egymással. Helyesen okoskodik, ám jó szíve eltéríti az üzlettől. Jóságán majdnem rajtaveszít, s csupán lélekjelenlétének és józan eszének köszönheti, hogy kiszabadul a rettegett Ramón fogságából. Ezután azonban már csak a bosszú érdekli.",
+  "backdropPath": "/9gMkOYzk7P9QXwndhLRAC8cMZcJ.jpg",
+  "posterPath": "/bVxQdpVBQ7VPpMWmlW4re54L8IO.jpg",
+  "releaseDate": "1964-09-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "241cde1a-2788-4395-8296-03991e6b648a",
+      "title": "Egy maréknyi dollárért",
+      "subtitle": null,
+      "timestampString": "01:59:20",
+      "timestampInSeconds": 7160,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #274",
+        "youtubeId": "U5btDyv5pPk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/U5btDyv5pPk/hqdefault.jpg",
+        "durationInMinutes": 285,
+        "releaseDate": 1710534459000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

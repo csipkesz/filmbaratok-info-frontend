@@ -1,0 +1,45 @@
+{
+  "id": "ce25d31d-f32d-4282-9226-cac7320429fd",
+  "title": "Only the brave",
+  "originalTitle": "Only the Brave",
+  "overview": "Minden férfi egyformának teremtetett...csak épp néhányuk tűzoltóként kezd el dolgozni. Egy igaz történeten alapuló film a Granite Mountain térségében kitört erdőtűz során dolgozó tűzoltók önfeláldozásáról.",
+  "backdropPath": "/zaX6d5GCtb2CmOH9jrHBl58xxBY.jpg",
+  "posterPath": "/aZF56IZDhFOlKtG4qQJ3NSSOinH.jpg",
+  "releaseDate": "2017-09-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "099394ec-d66b-41dd-a85e-6ac90369b7a9",
+      "title": "Only the brave",
+      "subtitle": null,
+      "timestampString": "01:45:33",
+      "timestampInSeconds": 6333,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #141",
+        "youtubeId": "gWd3V1HCpWA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gWd3V1HCpWA/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1522558409000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "da3bee74-0c99-4d2f-9f86-4534fd08e699",
+  "title": "Senki 2",
+  "originalTitle": "Nobody 2",
+  "overview": "Ebben a következő fejezetben Hutch reméli, hogy maga mögött hagyhatja a káoszt, és élvezheti családjával a régóta szükséges vakációt. De bár ezúttal talán nem a bajt keresi, a bajnak megvan a módja, hogy megtalálja őt...",
+  "backdropPath": "/82C04rTiXYZ7c8XZv91Nu53w82Y.jpg",
+  "posterPath": "/6foKAzwxZ6afnKBp6TLAJEYFGSX.jpg",
+  "releaseDate": "2025-08-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5126e88f-65d8-4ee8-8ab2-5ee56db5c9af",
+      "title": "Senki 2",
+      "subtitle": null,
+      "timestampString": "00:51:00",
+      "timestampInSeconds": 3060,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #309",
+        "youtubeId": "yH7NkqL8uXA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/yH7NkqL8uXA/hqdefault.jpg",
+        "durationInMinutes": 148,
+        "releaseDate": 1756490346000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

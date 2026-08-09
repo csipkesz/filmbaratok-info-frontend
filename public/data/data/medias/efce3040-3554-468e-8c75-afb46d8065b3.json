@@ -1,0 +1,41 @@
+{
+  "id": "efce3040-3554-468e-8c75-afb46d8065b3",
+  "title": "Rázós futam",
+  "originalTitle": "Shaker Run",
+  "overview": "Egy szigorúan titkos katonai laboratóriumból egy újonnan kitenyésztett, halálos baktériumot csempész ki egy orvosnő és barátja. A lopást persze hamar észreveszik, s így gyorsan menekülniük kell, hogy minél előbb kijuttassák az országból a veszélyes anyagot. Erre a feladatra a vérbeli profi, ámde mit sem sejtő autóversenyzőt kérik fel. Az őrült sofőr, segítője Casey, s a doktornő így indulnak egy őrült vágtára, melyben mindennél fontosabb, hogy gyorsabbak legyenek üldözőiknél, s időben kijuttassák a baktériumot Új-Zélandról, amelyre az amerikai C.I.A. is szemet vetett...",
+  "backdropPath": "/62M23fwl5Cw0syHFvj0X0DYJwzc.jpg",
+  "posterPath": "/bc07cEh3erg8Po2wYKLMYJK3dl0.jpg",
+  "releaseDate": "1985-05-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1e5e3347-c3a1-4ea3-9f18-a9d233eac985",
+      "title": "Rázós futam",
+      "subtitle": null,
+      "timestampString": "02:37:13",
+      "timestampInSeconds": 9433,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #308",
+        "youtubeId": "JX8Yhmv3ho0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JX8Yhmv3ho0/hqdefault.jpg",
+        "durationInMinutes": 210,
+        "releaseDate": 1755468901000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

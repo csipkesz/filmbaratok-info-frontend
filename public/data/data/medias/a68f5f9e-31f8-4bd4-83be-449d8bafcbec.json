@@ -1,0 +1,45 @@
+{
+  "id": "a68f5f9e-31f8-4bd4-83be-449d8bafcbec",
+  "title": "Hurrikán meló",
+  "originalTitle": "The Hurricane Heist",
+  "overview": "Dörzsölt bűnözők eszelős tervet agyalnak ki az Egyesült Államok egyik pénzverdéjének kirablásához: az egyik legdurvább hurrikán pusztítását használnák elterelésnek arra, hogy lelépjenek 600 millió dollárral. A kincstár egyik elszánt őre és egy zűrös viharvadász eltökéli, hogy megállítják a tolvajokat és kiszabadítják túszaikat, mielőtt a vihar elsöpri az egész várost.",
+  "backdropPath": "/3ZQRLuXNTbewOHDfxF51fy74gh4.jpg",
+  "posterPath": "/bAEpCFU606L8sS8MUwWt1ciLuDB.jpg",
+  "releaseDate": "2018-02-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9fd448fe-d8fb-4b38-bbc3-50e2fd5562bf",
+      "title": "Hurrikán meló",
+      "subtitle": null,
+      "timestampString": "01:11:55",
+      "timestampInSeconds": 4315,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #142",
+        "youtubeId": "9S7p7P1Y2po",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9S7p7P1Y2po/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1525105433000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

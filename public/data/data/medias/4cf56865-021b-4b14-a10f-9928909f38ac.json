@@ -1,0 +1,45 @@
+{
+  "id": "4cf56865-021b-4b14-a10f-9928909f38ac",
+  "title": "Biciklitolvajok",
+  "originalTitle": "Ladri di biciclette",
+  "overview": "Antonio, a külvárosi, munkanélküli családapa hosszú hónapok óta először dolgozhatna plakátragasztóként. A munkához azonban elengedhetetlenül szüksége lenne biciklire. Miután a megváltó jármű a zálogházban helyet cserél a feleség utolsó lepedőjével, úgy tűnik, Róma kiábrándító mocska enged szorításából. Ám az első munkanapon ellopják a kerékpárt. Antonio hű barátja, Bruno a tolvaj után veti magát. \"A Biciklitolvajokban egy római munkanélküli végre foglalkozáshoz jut s ennek ellátásához kerékpárra van szüksége. De miközben plakátokat ragaszt a falakra, ellopják a kerékpárját. Egész álló nap járja Rómát, hogy megtalálja nélkülözhetetlen munkaeszközét, de hiába. Így lesz ez a hétköznapi esemény egy szívettépő tragédia tárgya...\" Georges Sadoul",
+  "backdropPath": "/nd6ItWuWGmTKhHXuxVC8kp86CmQ.jpg",
+  "posterPath": "/x1xTzpw9mxwDxSqZVd00fGOoo26.jpg",
+  "releaseDate": "1948-07-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1dcc9e56-0e3f-4546-ac6e-4965b06d3f43",
+      "title": "Biciklitolvajok",
+      "subtitle": null,
+      "timestampString": "01:10:08",
+      "timestampInSeconds": 4208,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #88",
+        "youtubeId": "wEd9ZOCpPII",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wEd9ZOCpPII/hqdefault.jpg",
+        "durationInMinutes": 226,
+        "releaseDate": 1450458682000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "24908a16-1dae-4bcd-9e37-b835a283de46",
+  "title": "You're next",
+  "originalTitle": "You're Next",
+  "overview": "Crispian és barátnője Erin, családlátogatásra tartanak, a srác szüleinek házassági évfordulójára. A família apraja-nagyja összegyűlik egy hétvégére, ahol sütögetéssel, nosztalgiával és ismerkedéssel ütik el az időt. Az ominózus éjszakán azonban furcsa állatmaszkos idegenek törnek rájuk és mindenkit holtan akarnak látni. A kezdeti pánik után kiderül, hogy Erinnek van némi tapasztalata a túlélést illetően!",
+  "backdropPath": "/okjEw4GrEqn4seWkvUHIUXogQZD.jpg",
+  "posterPath": "/6bM0mSz1AqIYAISFNnODl8sNnv.jpg",
+  "releaseDate": "2013-08-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b1cba360-c25b-42fa-855f-b2149d2f290b",
+      "title": "You're next",
+      "subtitle": null,
+      "timestampString": "01:54:04",
+      "timestampInSeconds": 6844,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #142",
+        "youtubeId": "9S7p7P1Y2po",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9S7p7P1Y2po/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1525105433000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

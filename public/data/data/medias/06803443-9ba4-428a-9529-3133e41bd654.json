@@ -1,0 +1,41 @@
+{
+  "id": "06803443-9ba4-428a-9529-3133e41bd654",
+  "title": "Kész katasztrófa",
+  "originalTitle": "Trainwreck",
+  "overview": "Amy egy modern kori csaj életét éli, egyedül él, azt csinál amit akar és mindennap más és más pasival jön össze. A munkájának köszönhetően azonban összetalálkozik Aaronnal, akivel kicsit másképp alakulnak a dolgok és ezt nem tudja kezelni magában.",
+  "backdropPath": "/9O6pLFE630h7IxslegYR9CV64aE.jpg",
+  "posterPath": "/c7dhDaK3QXrPXFNb19gNq5D0fZD.jpg",
+  "releaseDate": "2015-07-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3876745f-3088-487c-8768-0c149c49de88",
+      "title": "Kész katasztrófa",
+      "subtitle": null,
+      "timestampString": "00:53:30",
+      "timestampInSeconds": 3210,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #81",
+        "youtubeId": "jxVu-FT-Qv8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/jxVu-FT-Qv8/hqdefault.jpg",
+        "durationInMinutes": 158,
+        "releaseDate": 1442306890000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

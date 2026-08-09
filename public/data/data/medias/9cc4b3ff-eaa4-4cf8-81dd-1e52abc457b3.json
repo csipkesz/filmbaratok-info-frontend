@@ -1,0 +1,45 @@
+{
+  "id": "9cc4b3ff-eaa4-4cf8-81dd-1e52abc457b3",
+  "title": "Peppermint: A bosszú angyala",
+  "originalTitle": "Peppermint",
+  "overview": "Riley North, szerető anya és feleség élete egy pillanat alatt összeomlik, mikor férjét és kislányát egy brutális támadásban megölik. A kómából felébredt nő igazságot akar, de az elkövetőket – egy befolyásos kartell tagjait – a korrupt bíróság felmenti.  Riley nem nyugszik, amíg le nem számol a tettesekkel: vérbeli harcossá képezi ki magát, hogy egytől-egyig kiiktassa a családja haláláért felelős bűnözőket. A mindenre elszánt magányos harcosnak nem csak az alvilág felbőszült embereit, de a rendőrséget, és az FBI ügynökeit is ki kell játszania, hogy kíméletlen bosszúhadjáratát beteljesítse.",
+  "backdropPath": "/14HPHJnNUVAdbYKnG46WnBh4OD6.jpg",
+  "posterPath": "/7imJs2hSm3eM9HgxLKbEKA8LBEz.jpg",
+  "releaseDate": "2018-09-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "bcccac89-0b80-428f-985c-178367415f8f",
+      "title": "Peppermint: A bosszú angyala",
+      "subtitle": null,
+      "timestampString": "02:01:25",
+      "timestampInSeconds": 7285,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #153",
+        "youtubeId": "o2r_oHM2CEM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/o2r_oHM2CEM/hqdefault.jpg",
+        "durationInMinutes": 239,
+        "releaseDate": 1539286396000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

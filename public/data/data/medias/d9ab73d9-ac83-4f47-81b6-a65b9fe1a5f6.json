@@ -1,0 +1,45 @@
+{
+  "id": "d9ab73d9-ac83-4f47-81b6-a65b9fe1a5f6",
+  "title": "Hamu és hó",
+  "originalTitle": "Ashes and Snow",
+  "overview": "",
+  "backdropPath": "/80G63mIJ1Ae6oEuPO1Zz7aOoy82.jpg",
+  "posterPath": "/kLhHfPdYnuDkR6FAB1WAAMpUOVh.jpg",
+  "releaseDate": "2005-03-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4f47ecea-5756-41cd-b1a4-03d6ec0a8636",
+      "title": "Hamu és hó",
+      "subtitle": null,
+      "timestampString": "02:29:25",
+      "timestampInSeconds": 8965,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #316",
+        "youtubeId": "tj6Fv2PRYFw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tj6Fv2PRYFw/hqdefault.jpg",
+        "durationInMinutes": 318,
+        "releaseDate": 1765639323000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

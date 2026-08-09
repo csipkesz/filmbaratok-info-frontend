@@ -1,0 +1,37 @@
+{
+  "id": "9141ca96-7219-4df8-bc60-e83eca475866",
+  "title": "Hogyan rohanj a VeszTEDbe",
+  "originalTitle": "A Million Ways to Die in the West",
+  "overview": "Albertet, a gyáva birkatenyésztő farmert, miután kihátrál egy pisztolypárbajból, szeszélyes barátnője elhagyja egy másik férfiért. Amikor egy titokzatos, gyönyörű nő lovagol be a városba, segít hősünknek megtalálni a bátorságát, és közben egymásba szeretnek. Ám amikor a nő férje, a hírhedt bandita bosszúszomjasan megérkezik, Albertnek próbára kell tennie újdonsült bátorságát.",
+  "backdropPath": "/5ZDM988DfYLFPBqy4CNvQ9AXnp4.jpg",
+  "posterPath": "/2nLcHsjdRrBv2ig1NMeQyHVZbIx.jpg",
+  "releaseDate": "2014-05-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "dad438f5-0bd3-4869-8e6c-a5fc93cc8ee3",
+      "title": "Hogyan rohanj a VeszTEDbe",
+      "subtitle": null,
+      "timestampString": "00:44:18",
+      "timestampInSeconds": 2658,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #52",
+        "youtubeId": "z5hnMqJSVxs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z5hnMqJSVxs/hqdefault.jpg",
+        "durationInMinutes": 121,
+        "releaseDate": 1403347391000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

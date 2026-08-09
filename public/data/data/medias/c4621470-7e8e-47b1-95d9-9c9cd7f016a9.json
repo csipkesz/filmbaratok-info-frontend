@@ -1,0 +1,49 @@
+{
+  "id": "c4621470-7e8e-47b1-95d9-9c9cd7f016a9",
+  "title": "Eddie, a sas",
+  "originalTitle": "Eddie the Eagle",
+  "overview": "Ő a tipikus angol hős. Eddie nem igazán ügyes, sőt, első ránézésre kifejezetten kétballábasnak tűnik, viszont nagyon kedves. Mégis ő az egyetlen, aki síugróként a brit színeket képviseli az 1988-as Calgary téli olimpián.  És ő lesz a brit sporttörténet egyik legnagyobb legendája: példa arra, hogy nem szabad feladni, hogy érdemes küzdeni, és nem a győzelem a fontos ? bár az is nagyon jól tud esni.  Eddie és edzője a lehetetlent vállalják, és talán valóra is váltják. Egy egykor hatalmas nemzet tőlük várja, hogy újra igazán büszkék lehessenek.",
+  "backdropPath": "/jbcEWHYpnlZ1aiMCLcRyiIhwUwY.jpg",
+  "posterPath": "/neNBUXpdxlNZ3SaibFnY2FI5RU1.jpg",
+  "releaseDate": "2016-02-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "28f68630-874c-4d48-9137-dd7b781f652e",
+      "title": "Eddie, a sas",
+      "subtitle": null,
+      "timestampString": "02:03:05",
+      "timestampInSeconds": 7385,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #97",
+        "youtubeId": "544nF31uOsc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/544nF31uOsc/hqdefault.jpg",
+        "durationInMinutes": 219,
+        "releaseDate": 1461517994000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

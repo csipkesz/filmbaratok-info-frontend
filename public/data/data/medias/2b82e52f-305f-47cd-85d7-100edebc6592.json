@@ -1,0 +1,45 @@
+{
+  "id": "2b82e52f-305f-47cd-85d7-100edebc6592",
+  "title": "Predator",
+  "originalTitle": "Predator",
+  "overview": "A különlegesen képzett kommandót egy dél-amerikai dzsungelbe vezénylik, hogy felkutassák és kimentsék bajba jutott társaikat - akik a környéken tűntek el és akik egy ideje nem adnak életjelet. A veszélyes terepen rutinosan mozognak a minden lehetséges veszélyre felkészült férfiak, ám az igazi fenyegetést nem a vadállatok, nem az embertelen éghajlat és környezet, de nem is fegyveres terroristák jelentik, hanem egy titokzatos, arctalan lény, akiről csak akkor vesznek tudomást, amikor már majdnem késő. A láthatatlan teremtmény sorra végez áldozataival, de nem a bosszú hajtja, hanem a puszta vadászszenvedély: egy másik bolygó lakója, aki azért látogatott a földre, hogy trófeákat gyűjtsön. A megfogyatkozott kommandó utolsó tagjai elkeseredett harcot vívnak az idegennel, aki erőben, ügyességben és technikai felszereltségben jóval az emberek felett áll, s így szinte lehetetlen legyőzni. Szinte...",
+  "backdropPath": "/YL3GPOiDcNraIJOVDCZsoOBoDy.jpg",
+  "posterPath": "/1pFpJjhrwpVsLIz7xidQ9fIyYvq.jpg",
+  "releaseDate": "1987-06-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b658bea0-c290-41f5-b50e-fd43c3012e19",
+      "title": "Predator",
+      "subtitle": null,
+      "timestampString": "03:23:30",
+      "timestampInSeconds": 12210,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #107",
+        "youtubeId": "nil8BrN67hQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nil8BrN67hQ/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1475265113000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "68c6a379-c539-4074-948b-8d7e3b919c0b",
+            "name": "Emese"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

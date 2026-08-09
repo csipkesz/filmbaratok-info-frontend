@@ -1,0 +1,45 @@
+{
+  "id": "debe1cb1-e595-4190-8b8c-be8a92a58516",
+  "title": "Patriots day",
+  "originalTitle": "Patriots Day",
+  "overview": "A film a 2013-as bostoni maratonon bekövetkezett 265 sérültet és számos halottat számláló bombamerénylet történetét dolgozza fel. A terrortámadást követően hatalmas hajtóvadászat indult, hogy elkapják a merénylőket. A pánik és a félelem helyett az egész város a terroristák ellen, hogy mielőbb kézre kerüljenek.",
+  "backdropPath": "/lWcNlDMmZ6xJVoCZjhFxqVl0TIa.jpg",
+  "posterPath": "/nLERdT9cI9IYAwOixTYw5GOnljd.jpg",
+  "releaseDate": "2016-12-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a5322f10-bb96-4dfa-b0f6-47b8c8e7d2e0",
+      "title": "Patriots day",
+      "subtitle": null,
+      "timestampString": "02:08:45",
+      "timestampInSeconds": 7725,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #134",
+        "youtubeId": "gB5CFdGY70M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gB5CFdGY70M/hqdefault.jpg",
+        "durationInMinutes": 218,
+        "releaseDate": 1513874512000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

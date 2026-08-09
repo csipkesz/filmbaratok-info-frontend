@@ -1,0 +1,41 @@
+{
+  "id": "5abee71c-010e-48e8-a03b-7d368e978999",
+  "title": "Időzített bomba",
+  "originalTitle": "Fuze",
+  "overview": "London belvárosában 500 kilós II. világháborús bombát találnak. A környéket kiürítik, a mindig zsúfolt, örökké izgatott városban egy egész kerületet zárnak le. Kiszállnak a tűzszerészek és munkához látnak. A tét nagy, a feszültség kézzelfogható, a bomba bármikor robbanhat - de szakemberek dolgoznak az ügyön. Csak éppen semmi sem igaz az egészből. A bomba nem világháborús, nem véletlenül került elő és nem lesz olyan könnyű hatástalanítani. Igazából egy bankrabló banda helyezte el: így akarják elterelni munkájukról a figyelmet és nyugodt körülményeket teremteni maguknak egy földalatti páncélterem feltöréséhez. Vagy ez sem igaz? Ők is csak áldozatok? Rendőrök, katonák, bankrablók és nemzetközi szélhámosok keresik a választ ugyanazokra a kérdésekre. Az időzítőszerkezet közben tovább ketyeg. Mert egyvalami azért biztos: a bomba mindjárt robbanni fog…",
+  "backdropPath": "/8wIaBCeGv3UhIn5CJOWQGHT1Cif.jpg",
+  "posterPath": "/lRI7LdfUlRXwewyU0DUZcrAsF9y.jpg",
+  "releaseDate": "2026-03-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "10e036b7-8254-4715-873f-1a7b5ef3217b",
+      "title": "Időzített bomba",
+      "subtitle": null,
+      "timestampString": "01:16:50",
+      "timestampInSeconds": 4610,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #326",
+        "youtubeId": "PyX_W5BWsXo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/PyX_W5BWsXo/hqdefault.jpg",
+        "durationInMinutes": 236,
+        "releaseDate": 1778948292000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "299c6586-1d77-44dc-9968-8ce357268674",
+  "title": "Kész dráma",
+  "originalTitle": "The Drama",
+  "overview": "A film középpontjában egy pár áll, akik az esküvőjüket megelőző napokban válságba kerülnek, amikor váratlan felfedezések kisiklatják azt, amit egyikük a másikról tudni vélt. A történet a szerelem vakságával foglalkozik.",
+  "backdropPath": "/1oKLEA9JOhvaBwLpqjROisvWMy7.jpg",
+  "posterPath": "/bzG1da6xgTe4ItXR4EHIrIsRUOn.jpg",
+  "releaseDate": "2026-04-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a084c6a9-730d-4c13-83e4-1f322d4abdd1",
+      "title": "Kész dráma",
+      "subtitle": null,
+      "timestampString": "01:43:44",
+      "timestampInSeconds": 6224,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #324",
+        "youtubeId": "Df6QbCuxjIs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Df6QbCuxjIs/hqdefault.jpg",
+        "durationInMinutes": 174,
+        "releaseDate": 1776433338000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "be175b7a-908a-4933-8644-004c57d1cc87",
+  "title": "Török Star Wars",
+  "originalTitle": null,
+  "overview": null,
+  "backdropPath": null,
+  "posterPath": null,
+  "releaseDate": null,
+  "topics": [
+    {
+      "id": "75fbaa82-f2e1-4ed1-bad5-34620c71d13a",
+      "title": "Török Star Wars",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "AUDIO_COMMENTARY",
+        "title": "Filmbarátok Audiokommentár: Török Star Wars",
+        "youtubeId": "S7G9M-GS5ag",
+        "thumbnailUrl": "https://i.ytimg.com/vi/S7G9M-GS5ag/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1523992419000,
+        "participants": []
+      }
+    }
+  ]
+}

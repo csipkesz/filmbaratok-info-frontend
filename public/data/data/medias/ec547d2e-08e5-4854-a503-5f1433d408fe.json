@@ -1,0 +1,45 @@
+{
+  "id": "ec547d2e-08e5-4854-a503-5f1433d408fe",
+  "title": "Halálhegy - A Dyatlov-rejtély",
+  "originalTitle": "The Dyatlov Pass Incident",
+  "overview": "Az igaz történeten alapuló film Oroszországba repíti nézőit, ahová öt mindenre elszánt amerikai diák indul útnak a múlt rejtélyes haláleseteit kutatni.  1959-ben kilenc tapasztalt szovjet túrázó holttestére bukkantak a Halálhegyen. Az eset érdekessége, hogy a túrázók halálának okát eddig megoldatlan rejtély övezi. Miért voltak radioaktívak a holttestek? Hogyan sebesülhettek meg úgy a túrázók, hogy semmi nem utalt külső támadásra? A megtörtént esemény feljegyzéseit és a nyomozást még abban az évben titkosították. Közel fél évszázaddal később az öt amerikai diák azzal a céllal utazik a kietlen orosz vidékre, hogy felelevenítse és megoldja a Dyatlov-rejtélyt. Azonban nem sejtik, hogy az események bizarrabbak és félelmetesebbek, mint azt valaha is képzelték.",
+  "backdropPath": "/j5iUZRZtaPJbYJxvB6ZtmbE5LsZ.jpg",
+  "posterPath": "/wnccryYpuWbX1rWs2mIDugs4Spi.jpg",
+  "releaseDate": "2013-02-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "218e185f-14dd-4d1f-9672-334275a5857e",
+      "title": "Halálhegy - A Dyatlov-rejtély",
+      "subtitle": null,
+      "timestampString": "01:24:00",
+      "timestampInSeconds": 5040,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #99",
+        "youtubeId": "i9LKNH-nFAY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/i9LKNH-nFAY/hqdefault.jpg",
+        "durationInMinutes": 105,
+        "releaseDate": 1464062052000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

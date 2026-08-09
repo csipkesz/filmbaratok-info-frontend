@@ -1,0 +1,45 @@
+{
+  "id": "b815b293-0f5f-4565-a0e7-27f2f67bf4ee",
+  "title": "A rosszfiúk",
+  "originalTitle": "The Bad Guys",
+  "overview": "Miután egy életen át legendás rablásokat hajtottak végre, öt hírhedt rosszfiú – Mr. Farkas, Mr. Kígyó, Mr. Piranha, Mr. Cápa és Ms. Tarantula – nekiveselkednek az eddigi legnehezebb kihívásnak... megpróbálnak jó útra térni.",
+  "backdropPath": "/oXx1QZzeF5V3HMQ11q6WCkA2pQh.jpg",
+  "posterPath": "/ocFG1cYpiyQ29TezvYYBGp623x0.jpg",
+  "releaseDate": "2022-03-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a8e2e78e-e291-4f41-a064-34698f0f7bbf",
+      "title": "A rosszfiúk",
+      "subtitle": null,
+      "timestampString": "02:03:20",
+      "timestampInSeconds": 7400,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #232",
+        "youtubeId": "9TzGQXyouWk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9TzGQXyouWk/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1651670332000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

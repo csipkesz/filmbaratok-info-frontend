@@ -1,0 +1,45 @@
+{
+  "id": "2d36d0dd-945e-4ccf-9ece-b0dc4b32845f",
+  "title": "Tusk",
+  "originalTitle": "Tusk",
+  "overview": "Wallace Bryton és Teddy Craft a legjobb barátok, akik együtt készítenek egy népszerű podcast-sorozatot, amiben megalázó netes videókon gúnyolódnak. Egyik ilyen szereplőjük, a Kill Bill-kölyök a mutatványa közben megvágja a lábát a kardjával, Wallace pedig úgy gondolja, jó móka lesz meglátogatni őt Kanadában és meginterjúvolni. A film közbeni visszaemlékezésekből kiderül, hogy Wallace egy sikertelen stand up komikus, aki a bunkó stílusával lett végül népszerű, és hogy a rajongóival rendszeresen megcsalja barátnőjét, Allyt.",
+  "backdropPath": "/bQSfsZDaBWZCHI8Z2nrN1hkR6EG.jpg",
+  "posterPath": "/a72NDh7bGIoPAeGAhV9MstLEAbZ.jpg",
+  "releaseDate": "2014-09-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3d46206d-d681-4fec-b062-7508a576dd8b",
+      "title": "Tusk",
+      "subtitle": null,
+      "timestampString": "02:09:36",
+      "timestampInSeconds": 7776,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #63",
+        "youtubeId": "PgKECs1kHoY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/PgKECs1kHoY/hqdefault.jpg",
+        "durationInMinutes": 195,
+        "releaseDate": 1418847403000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

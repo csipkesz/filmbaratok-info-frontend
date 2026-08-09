@@ -1,0 +1,49 @@
+{
+  "id": "a656f99f-ced6-4c52-a52d-cd5d85ea350b",
+  "title": "Mank",
+  "originalTitle": "Mank",
+  "overview": "Az 1930-as évek Hollywoodjának metszően szellemes újraértékelése az Aranypolgárt befejezni igyekvő alkoholista forgatókönyvíró, Herman J. Mankiewicz szemén keresztül.",
+  "backdropPath": "/hBOH4PNnhcGPgZbZjBwkx9gnNxI.jpg",
+  "posterPath": "/4yzTcAtvzyZLLto4z04xobUK9el.jpg",
+  "releaseDate": "2020-11-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fe66aec0-8462-491c-8564-3911cee5cecc",
+      "title": "Mank",
+      "subtitle": null,
+      "timestampString": "01:21:10",
+      "timestampInSeconds": 4870,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #203",
+        "youtubeId": "TH0CGD6FmvQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/TH0CGD6FmvQ/hqdefault.jpg",
+        "durationInMinutes": 297,
+        "releaseDate": 1609408808000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

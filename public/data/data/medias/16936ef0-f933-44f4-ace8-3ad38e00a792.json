@@ -1,0 +1,45 @@
+{
+  "id": "16936ef0-f933-44f4-ace8-3ad38e00a792",
+  "title": "Cthulhu hívása",
+  "originalTitle": "The Call of Cthulhu",
+  "overview": "Egy haldokló professzor unokaöccsére hagyományozza a Cthulhu szektára vonatkozó iratainak gyűjteményét. A fiatalember lassan rájön, hogy a szekta miért foglalkoztatta annyira az öregembert. Fokról-fokra összeáll előtte, milyen félelmetes következményekkel jártak az öreg kutatásai, és a Cthulhu szekta utáni nyomozást hamarosan saját küldetésének kezdi tekinteni.",
+  "backdropPath": "/bH0HBG088hmtPutVaUpjpOvZw8f.jpg",
+  "posterPath": "/dCrOkzrWs8ux31oVCc1R8tt6zTC.jpg",
+  "releaseDate": "2006-04-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "040abffd-8443-4ece-b7c0-2d03448d7115",
+      "title": "Cthulhu hívása",
+      "subtitle": null,
+      "timestampString": "04:04:20",
+      "timestampInSeconds": 14660,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #222",
+        "youtubeId": "KUigEmDa7Nc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/KUigEmDa7Nc/hqdefault.jpg",
+        "durationInMinutes": 265,
+        "releaseDate": 1637694008000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

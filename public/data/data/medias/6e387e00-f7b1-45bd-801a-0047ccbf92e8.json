@@ -1,0 +1,45 @@
+{
+  "id": "6e387e00-f7b1-45bd-801a-0047ccbf92e8",
+  "title": "Terminál",
+  "originalTitle": "The Terminal",
+  "overview": "Viktor Navorski éppen New Yorkba repül Kelet-Európából, amikor hazájában heves harcokkal kísért államcsíny bontakozik ki. A gyanútlan utazó egyszerre ott találja magát a John F. Kennedy repülőtéren, Amerika kapujában, ám útlevele egy éppen nem létező országból való, ezért nem teheti be a lábát az Ígéret Földjére. A reptéren rekedt Navorskinak így fel kell találnia magát, be kell rendezkednie a várakozásra, amíg az otthoni háború véget nem ér. Ahogy telnek-múlnak a hetek, hónapok, Viktor felfedezi, hogy a terminál kicsinyített univerzuma gazdagon összetett világ, ahol fontos szerephez jut az abszurditás, a kicsinyesség, a nagylelkűség, az ambíció, néhány véletlen egybeesés, sőt, még a romantika is egy gyönyörű légikísérő, Amelia képében.",
+  "backdropPath": "/zywtNiaZ9r7azrcNdl2j0jOgrkw.jpg",
+  "posterPath": "/1vsEnJaVaRgykVw4lu7ykx3uint.jpg",
+  "releaseDate": "2004-06-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "bb8cfc15-db89-4319-9c24-2d9acc2799a1",
+      "title": "Terminál",
+      "subtitle": null,
+      "timestampString": "02:29:45",
+      "timestampInSeconds": 8985,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #204",
+        "youtubeId": "uCWG2Ku59nQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uCWG2Ku59nQ/hqdefault.jpg",
+        "durationInMinutes": 207,
+        "releaseDate": 1610723034000,
+        "participants": [
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "a9106f7e-c8f8-4ed6-8a88-4a42b5e0f8b9",
+            "name": "Anna"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

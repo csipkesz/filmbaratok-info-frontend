@@ -1,0 +1,41 @@
+{
+  "id": "a051b224-ee1c-44e7-b299-5a8bc7ed8e06",
+  "title": "Megszólít az éjszaka",
+  "originalTitle": "The Mothman Prophecies",
+  "overview": "Egy nyugat-virginiai kisvárosban éjszakánként szárnyas teremtmények jelennek meg a házak között. John Klein (Richard Gere), a feleségét gyászoló újságíró a helyszínre utazik, ahol megdöbbenve tapasztalja, hogy a teremtmények épp olyanok, mint azok a fura lények, akiket Klein haldokló felesége rajzolgatott. A környékbeliek azt állítják, hogy õk jól ismerik a férfit. A tér átalakul, Klein váratlanul egy idegen kisvárosban találja magát, melynek folyója fölött különös fény ragyog, lakói pedig ugyanazt álmodják: éjszakánként egy közeledõ szárnyas lényt látnak maguk elõtt.",
+  "backdropPath": "/zQM01PhOwJY9ePnWPQ8L0YeKf8c.jpg",
+  "posterPath": "/pWIN0Q6rZU1h7PXx1Cwi52XKruO.jpg",
+  "releaseDate": "2002-01-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0c397618-278a-4779-8ad4-dd2e2e8c9810",
+      "title": "Megszólít az éjszaka",
+      "subtitle": null,
+      "timestampString": "02:40:26",
+      "timestampInSeconds": 9626,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #70",
+        "youtubeId": "_vL1V5oablM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_vL1V5oablM/hqdefault.jpg",
+        "durationInMinutes": 182,
+        "releaseDate": 1427860093000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

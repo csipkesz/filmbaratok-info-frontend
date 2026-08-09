@@ -1,0 +1,45 @@
+{
+  "id": "ed6869f0-c61b-4e7d-812f-970f4434da7a",
+  "title": "Csak egy kis pánik",
+  "originalTitle": "Analyze This",
+  "overview": "Egy keresztapa esetében a gyengeség, a pánikbetegség rosszabb a halálnál. Pedig New York soron következő donjából hirtelen elszállt a merészség. Éjszaka izzadtságban fürdik, nappal remeg, reszket, és a sírás kerülgeti. Ám a szerencse elé vet egy halk szavú, szemüveges pszichológust. A maffiafőnök gorillái kíséretében bekopog a rendelésre, és ráparancsol a rémült doktorra, hogy kezelje őt. A pszichológus inkább menekülne, de hát profikkal van dolga. Nem tehet mást, nekilát, hogy a keresztapát megszabadítsa a gátlásaitól.",
+  "backdropPath": "/oas0DvvhhaMncvn805LjepxeoZh.jpg",
+  "posterPath": "/zhdMUAO8jteLcShA4pnUHJbF1bR.jpg",
+  "releaseDate": "1999-03-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "05629707-fd9f-408c-acaa-6d628ab2c626",
+      "title": "Csak egy kis pánik",
+      "subtitle": null,
+      "timestampString": "03:32:40",
+      "timestampInSeconds": 12760,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #147",
+        "youtubeId": "VFKKYddusFg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VFKKYddusFg/hqdefault.jpg",
+        "durationInMinutes": 235,
+        "releaseDate": 1531561740000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

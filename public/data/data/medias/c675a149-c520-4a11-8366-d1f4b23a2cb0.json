@@ -1,0 +1,45 @@
+{
+  "id": "c675a149-c520-4a11-8366-d1f4b23a2cb0",
+  "title": "A berni követ",
+  "originalTitle": "A berni követ",
+  "overview": "Napra pontosan két hónappal Nagy Imre és mártírtársai kivégzése után a Magyar Népköztársaság berni követsége ellen két magyar emigráns fegyveres támadást hajtott végre. Az indíték homályos, bár helyi lapértesülések szerint, Nagy Sándor és Papp Endre a svájci magyar kommunista ügynökök aktáit akarta megszerezni a magyar nagykövet túszulejtésével. Ugyanakkor bizonyos forrásokból kiderül, hogy a támadók a megtorlások elleni tiltakozó, figyelemfelkeltő, demonstratív akciónak szánták fellépésüket. Céljukat tulajdonképpen elérték, mert heteken keresztül a külföldi sajtó napirenden tartotta a támadás - és ezáltal a levert forradalom - ügyét, hiszen nemcsak a nemzetközi politika, a diplomácia, de a helyi képes újságok is több alkalommal foglalkoztak a témával.",
+  "backdropPath": "/o5x66WKv4j5pYCzgrphL8GKhW9H.jpg",
+  "posterPath": "/uQMTQTfCo0nfZixzkQEvB1yfyt.jpg",
+  "releaseDate": "2014-02-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6ea41ae5-7cb8-44a3-9002-e8a42d11f27d",
+      "title": "A berni követ",
+      "subtitle": null,
+      "timestampString": "01:00:00",
+      "timestampInSeconds": 3600,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #51",
+        "youtubeId": "E9iOfzIEJFU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E9iOfzIEJFU/hqdefault.jpg",
+        "durationInMinutes": 176,
+        "releaseDate": 1401305269000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

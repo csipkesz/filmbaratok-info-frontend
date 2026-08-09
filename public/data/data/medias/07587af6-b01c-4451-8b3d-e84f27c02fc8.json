@@ -1,0 +1,45 @@
+{
+  "id": "07587af6-b01c-4451-8b3d-e84f27c02fc8",
+  "title": "Az ember, akit Ottónak hívnak",
+  "originalTitle": "A Man Called Otto",
+  "overview": "Otto egy mogorva, magányosan élő özvegyember, akinek határozott elvei vannak, szigorú rutinja, és persze nagy szája. A férfi, amikor csak teheti, megnehezíti a szomszédai életét, mivel folyamatosan figyeli őket. Amikor már úgy tűnik, hogy végleg lemondott az életről, új szomszédjaival egy váratlan barátság alakul ki. Otto apránként finom változáson megy keresztül. A kérdés már csak az, vajon tényleg képes-e a változásra?",
+  "backdropPath": "/v2LilmCylr3bL9TCZSj6syjowZh.jpg",
+  "posterPath": "/mjZKNZxHb9ghHftfPmxZtyjp2yI.jpg",
+  "releaseDate": "2022-12-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9b8667cb-fa56-4a6c-a359-9abd08453b61",
+      "title": "Az ember, akit Ottónak hívnak",
+      "subtitle": null,
+      "timestampString": "01:44:15",
+      "timestampInSeconds": 6255,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #249",
+        "youtubeId": "1greFyKaw1M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/1greFyKaw1M/hqdefault.jpg",
+        "durationInMinutes": 296,
+        "releaseDate": 1676703823000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

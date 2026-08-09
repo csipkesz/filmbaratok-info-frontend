@@ -1,0 +1,41 @@
+{
+  "id": "2e0cba15-7402-4db9-9bf3-5a3c053708f1",
+  "title": "A bűn útja",
+  "originalTitle": "Crime 101",
+  "overview": "A bűn útja egy ékszertolvaj (Chris Hemsworth) története, akinek aprólékosan megtervezett rablásai a napos Los Angelesben, a 101-es autópálya mentén, fejtörést okoznak a rendőrséget. Egy magányos nyomozó (Mark Ruffalo) a nyomába ered. Amikor útjaik keresztezik egy kiábrándult biztosítási ügynökét (Halle Berry), sorsdöntő döntéseket kell hozniuk egy halálos végjátékban, ahol milliók forognak kockán.",
+  "backdropPath": "/kKF4gEiBDArhONlCcunHVgBp3bA.jpg",
+  "posterPath": "/7ryVqPv2hKHgSWJPsMLnZlynHij.jpg",
+  "releaseDate": "2026-02-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d9d80a8d-1559-435a-b8f1-a044cf87da87",
+      "title": "A bűn útja",
+      "subtitle": null,
+      "timestampString": "02:13:14",
+      "timestampInSeconds": 7994,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #321",
+        "youtubeId": "ASzT3k0iUdk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ASzT3k0iUdk/hqdefault.jpg",
+        "durationInMinutes": 176,
+        "releaseDate": 1772128964000,
+        "participants": [
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "19574b35-a1de-45fc-a61b-d4e04cdef833",
+  "title": "Sikoly [2022]",
+  "originalTitle": "Scream",
+  "overview": "Huszonöt évvel azután, hogy Woodsboro csendes kisvárosát brutális gyilkosságsorozat rázta meg, egy új gyilkos ölti magára a maszkot, hogy egy csapat tinédzsert kiszemelve felszínre hozza a település véráztatta múltjának titkait.",
+  "backdropPath": "/ifUfE79O1raUwbaQRIB7XnFz5ZC.jpg",
+  "posterPath": "/4CsSlG5h1Ju71dZSxkpDxGzkC6K.jpg",
+  "releaseDate": "2022-01-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "10d706c9-592c-4e3e-86a1-edbe6c4718f8",
+      "title": "Sikoly [2022]",
+      "subtitle": null,
+      "timestampString": "00:55:00",
+      "timestampInSeconds": 3300,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #226",
+        "youtubeId": "g-SEAVbxOlA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/g-SEAVbxOlA/hqdefault.jpg",
+        "durationInMinutes": 224,
+        "releaseDate": 1643475639000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

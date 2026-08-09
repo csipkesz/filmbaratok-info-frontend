@@ -1,0 +1,45 @@
+{
+  "id": "e5ea01c4-1159-47b7-b50f-6ac9c56ce81b",
+  "title": "Rossz anyák",
+  "originalTitle": "Bad Moms",
+  "overview": "Anyának lenni nem könnyű feladat. Amynek látszólag tökéletes az élete, csodás otthonában éldegél a férjével, két eminens gyerekével, gyönyörűen néz ki, és a munkahelyén is folyamatosan helyt áll. De egy nap eljön az a pillanat, amikor besokall a napi rutintól, a ráháruló feladatoktól és a szülői munkaközösségben tevékenykedő, túlbuzgó anyáktól. Két hasonlóan túlstresszelt anyatársával úgy döntenek, kimenőt adnak maguknak, és vad tivornyázásba kezdenek. Csak egy dolog számít: hogy jól érezzék magukat. Visszatér a régi koleszos csajbulik ideje nagy ivászatokkal, kalóriadús kajálásokkal, hajnalig tartó dumálásokkal. Az iskola makulátlan szülői azonban görbe szemmel nézik a lázadást, és keresztes hadjáratot hirdetnek \"felelőtlen\" társaik ellen - ám a szabadelvű anyatriót nem kell félteni.",
+  "backdropPath": "/zci26eN6YKEg9gPLUp3wB5eqcEx.jpg",
+  "posterPath": "/2B97DUcgXMxqFc499c759742NME.jpg",
+  "releaseDate": "2016-07-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "16edb5b5-f381-4cbc-a4c2-4e75bdc7ef36",
+      "title": "Rossz anyák",
+      "subtitle": null,
+      "timestampString": "02:35:42",
+      "timestampInSeconds": 9342,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #105",
+        "youtubeId": "73Hk03Cs0mQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/73Hk03Cs0mQ/hqdefault.jpg",
+        "durationInMinutes": 214,
+        "releaseDate": 1471773217000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

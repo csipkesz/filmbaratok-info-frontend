@@ -1,0 +1,41 @@
+{
+  "id": "1c63bb59-5875-4e34-8d7c-1a264c3dfbb6",
+  "title": "Ahsoka",
+  "originalTitle": "Ahsoka",
+  "overview": "A Galaktikus Birodalom bukása után az egykori Jedi lovag, Ahsoka Tano a sebezhető galaxisra leselkedő fenyegetés után nyomoz. A Star Wars: Lázadók című animációs sorozat élőszereplős folytatása.",
+  "backdropPath": "/loDy1LWCkPjECjVTRmyKtOoUpNN.jpg",
+  "posterPath": "/eiJeWeCAEZAmRppnXHiTWDcCd3Q.jpg",
+  "releaseDate": "2023-08-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e9d00bd7-aadc-49a5-bcdc-eba47f8c6b0a",
+      "title": "Ahsoka 1. évad",
+      "subtitle": "1. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Ahsoka 1. évad",
+        "youtubeId": "ZYSoc-VPWCI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ZYSoc-VPWCI/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1698613222000,
+        "participants": [
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          },
+          {
+            "id": "f9066580-796b-460b-9966-73bcbf3400a7",
+            "name": "Shirin"
+          }
+        ]
+      }
+    }
+  ]
+}

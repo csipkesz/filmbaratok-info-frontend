@@ -1,0 +1,49 @@
+{
+  "id": "58e59cd4-0fcf-42f7-ba5e-22a358e44fd2",
+  "title": "Star Wars: Skywalker kora",
+  "originalTitle": "Star Wars: The Rise of Skywalker",
+  "overview": "A túlélő ellenállás ismét az első renddel találja szembe magát, miközben Rey, Finn és Poe Dameron útja folytatódik. A nemzedékek hatalmával és tudásával mögöttük, megkezdődik a végső csata.",
+  "backdropPath": "/jOzrELAzFxtMx2I4uDGHOotdfsS.jpg",
+  "posterPath": "/54TKPY2QayAIgrmNrovTjdcu8L6.jpg",
+  "releaseDate": "2019-12-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "66294868-8bf0-490b-86b2-decf2ae5c868",
+      "title": "Star Wars: Skywalker kora [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "00:36:48",
+      "timestampInSeconds": 2208,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #181",
+        "youtubeId": "z9U8kAhpH0E",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z9U8kAhpH0E/hqdefault.jpg",
+        "durationInMinutes": 313,
+        "releaseDate": 1577711730000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

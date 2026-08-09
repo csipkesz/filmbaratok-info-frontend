@@ -1,0 +1,41 @@
+{
+  "id": "7226f2f2-f840-49a8-ab03-36fa4677a789",
+  "title": "A platform 2",
+  "originalTitle": "El hoyo 2",
+  "overview": "Miután egy titokzatos vezető ráhúzza saját törvényeit egy szintekre bontott kegyetlen börtön működésére, egy új érkező lázadást szít az ételelosztás módja ellen.",
+  "backdropPath": "/3m0j3hCS8kMAaP9El6Vy5Lqnyft.jpg",
+  "posterPath": "/vzHzcmDQIl1MN1RZOMnJxoLL08m.jpg",
+  "releaseDate": "2024-09-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "743dedaf-713f-4453-afea-ba83f5741d2c",
+      "title": "A platform 2",
+      "subtitle": null,
+      "timestampString": "02:38:20",
+      "timestampInSeconds": 9500,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #289",
+        "youtubeId": "25swweCqsZY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/25swweCqsZY/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1730401855000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

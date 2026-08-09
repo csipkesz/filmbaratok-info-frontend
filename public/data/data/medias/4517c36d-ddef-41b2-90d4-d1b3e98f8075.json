@@ -1,0 +1,49 @@
+{
+  "id": "4517c36d-ddef-41b2-90d4-d1b3e98f8075",
+  "title": "One Night in Miami...",
+  "originalTitle": "One Night in Miami...",
+  "overview": "Fiktív beszámoló egy hihetetlen éjszakáról, mely során Muhammad Ali, Macolm X, Sam Cooke és Jim Brown találkoztak, hogy megvitassák szerepüket a hatvanas évek polgárjogi és kulturális mozgalmában.",
+  "backdropPath": "/yUyuDacqA0IhWqEbPQPXBsEIbPX.jpg",
+  "posterPath": "/g6oOb4t1Uo7Uby2tmV3x61ERqBI.jpg",
+  "releaseDate": "2020-12-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f99d2d64-7b43-41b8-afea-7612e00883fa",
+      "title": "One Night in Miami...",
+      "subtitle": null,
+      "timestampString": "02:32:28",
+      "timestampInSeconds": 9148,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #210",
+        "youtubeId": "33ZlR26Llk0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/33ZlR26Llk0/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1619018789000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

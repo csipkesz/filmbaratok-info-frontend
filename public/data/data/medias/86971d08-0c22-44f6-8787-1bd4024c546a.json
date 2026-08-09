@@ -1,0 +1,45 @@
+{
+  "id": "86971d08-0c22-44f6-8787-1bd4024c546a",
+  "title": "21 Bridges",
+  "originalTitle": "21 Bridges",
+  "overview": "Manhattan szigetén nyolc rendőrt holtan találnak. A New York-i rendőrség nyomozója a helyszínre érve blokádot rendel el, hogy a gyilkosoknak esélye se legyen elhagyni a szigetet. A Manhattan-be vezető hidakat eltorlaszolják, az alagutakat lezárják, a metrókat elterelik. A hajtóvadászat során egyre sötétebb titkokra derül fény, ami nem várt események sorát indítja el. A kialakuló káoszban, a nyomozó már maga sem tudja ki az, akit üldöz, és ki az, aki őt üldözi…",
+  "backdropPath": "/3pMU7OGlcksMb7YkMthj5A1Y08B.jpg",
+  "posterPath": "/fQojZDLd7zVjmGOTl2WtyHFKg7q.jpg",
+  "releaseDate": "2019-10-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f0351521-957a-40fc-b8ee-f24fae95f410",
+      "title": "21 Bridges",
+      "subtitle": null,
+      "timestampString": "03:21:36",
+      "timestampInSeconds": 12096,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #202",
+        "youtubeId": "E2b82odyb3w",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E2b82odyb3w/hqdefault.jpg",
+        "durationInMinutes": 223,
+        "releaseDate": 1608135119000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "69752f3a-b5e5-4c03-9645-051500442f89",
+  "title": "Konklávé",
+  "originalTitle": "Conclave",
+  "overview": "Egy bíboros, akit az új pápa megválasztásának lebonyolításával bíznak meg, egy összeesküvés középpontjában találja magát, és olyan titokra bukkan, amely alapjaiban rengetheti meg az egyházat.",
+  "backdropPath": "/eZzNdjNDvaSoyywy9ICg2UmFwul.jpg",
+  "posterPath": "/1UtjGyQSOaBBKmk21qbeJXSru29.jpg",
+  "releaseDate": "2024-10-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "022f2aac-7a25-44f3-905e-bbec8cd9afb0",
+      "title": "Konklávé",
+      "subtitle": null,
+      "timestampString": "00:51:05",
+      "timestampInSeconds": 3065,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #290",
+        "youtubeId": "SsQxsH7PCqY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/SsQxsH7PCqY/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1731829298000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

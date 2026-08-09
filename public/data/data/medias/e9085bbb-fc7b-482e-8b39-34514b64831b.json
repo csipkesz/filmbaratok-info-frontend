@@ -1,0 +1,45 @@
+{
+  "id": "e9085bbb-fc7b-482e-8b39-34514b64831b",
+  "title": "Így neveld a sárkányodat 3",
+  "originalTitle": "How to Train Your Dragon: The Hidden World",
+  "overview": "Hablaty és Fogatlan végre megtalálják igazi rendeltetésüket. Hablaty a falu főnöke lesz Astriddal az oldalán, míg Fogatlan a sárkányok vezérévé válik. Ám az eddig látott legsötétebb veszedelem – és egy Éjfúria lány felbukkanása – még sosem tapasztalt módon teszi próbára hőseink barátságát…",
+  "backdropPath": "/h3KN24PrOheHVYs9ypuOIdFBEpX.jpg",
+  "posterPath": "/xHUOk4ERI4U0xlZK3DwvB3qS0tZ.jpg",
+  "releaseDate": "2019-01-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5861e28b-56f8-4e4c-bf84-0971f2dae87c",
+      "title": "Így neveld a sárkányodat 3",
+      "subtitle": null,
+      "timestampString": "00:38:22",
+      "timestampInSeconds": 2302,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #164",
+        "youtubeId": "8dO_Vj7_jg8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/8dO_Vj7_jg8/hqdefault.jpg",
+        "durationInMinutes": 258,
+        "releaseDate": 1553010517000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

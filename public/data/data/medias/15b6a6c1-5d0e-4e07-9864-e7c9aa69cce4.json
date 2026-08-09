@@ -1,0 +1,41 @@
+{
+  "id": "15b6a6c1-5d0e-4e07-9864-e7c9aa69cce4",
+  "title": "Emlékezz!",
+  "originalTitle": "Remember",
+  "overview": "Zev demenciában szenved, idős napjait egy öregek otthonában tölti, állandó felügyelet alatt. Egy nap rájön, hogy a férfi, aki hetven éve meggyilkolta családját egy koncentrációs táborban, Amerikában él. Elhatározza, hogy bosszút áll rajta.",
+  "backdropPath": "/3HJpbh02zCrnjH9TnhKRB7pCHme.jpg",
+  "posterPath": "/r4jtXcyw731OylTnZzKquoSXc6o.jpg",
+  "releaseDate": "2015-10-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "566ef5f5-be0e-4613-90f7-234c15222bf7",
+      "title": "Emlékezz!",
+      "subtitle": null,
+      "timestampString": "00:49:15",
+      "timestampInSeconds": 2955,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #104",
+        "youtubeId": "OY96XihUHYY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/OY96XihUHYY/hqdefault.jpg",
+        "durationInMinutes": 230,
+        "releaseDate": 1469739871000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

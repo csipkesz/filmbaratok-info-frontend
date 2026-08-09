@@ -1,0 +1,45 @@
+{
+  "id": "4d5ad159-393e-47ec-9d2b-e7106e9ea187",
+  "title": "Megan is missing",
+  "originalTitle": "Megan Is Missing",
+  "overview": "A történet, két tinédzser lány köré öszpontosul. Megan 14 éves, falja a férfiakat,nyári táborok, egy éjszakás kalandok, közben a 13 éves ártatlan tapasztalatlan Amyt traktálja szexuális kalandjaival. A két lány interneten keresztül összeismerkedik a náluk jóval idősebb Josh-al. Megan találkozik a fiúval majd nyomtalanul eltűnik.A férfi azonban már nem elégszik meg Megannal az ártatlan Amyt kezdi el fenyegetni.",
+  "backdropPath": "/hGTK2dnm1vXYpr26QGWjXIVpI9l.jpg",
+  "posterPath": "/lDmIqn0HJDjQJZDZaofuyaAnw2X.jpg",
+  "releaseDate": "2011-05-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "695c9c8d-58ce-4edf-b7a3-86dec1de6575",
+      "title": "Megan is missing",
+      "subtitle": null,
+      "timestampString": "02:41:25",
+      "timestampInSeconds": 9685,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #249",
+        "youtubeId": "1greFyKaw1M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/1greFyKaw1M/hqdefault.jpg",
+        "durationInMinutes": 296,
+        "releaseDate": 1676703823000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

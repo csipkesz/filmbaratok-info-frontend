@@ -1,0 +1,45 @@
+{
+  "id": "f397cefc-3fd2-478f-9d87-6465c042adee",
+  "title": "Ellenség a kapuknál",
+  "originalTitle": "Enemy at the Gates",
+  "overview": "Az orosz mesterlövész, Vaszilij Zajcsev tettei legendássá váltak a sztálingrádi csatában. Hogy megállítsák őt, a nácik kiküldik legjobb mesterlövészüket, így magánháborúba kezdenek a bátorságért, a becsületért és a hazáért.",
+  "backdropPath": "/pnEMDuaZeDXUQPPhhGTo9QMfMeA.jpg",
+  "posterPath": "/iDP2YwCe4BrIWq8yBzIiyNQRsPC.jpg",
+  "releaseDate": "2001-02-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e8997fc9-0954-4a16-bdd5-3764ea60b5de",
+      "title": "Ellenség a kapuknál",
+      "subtitle": null,
+      "timestampString": "03:03:00",
+      "timestampInSeconds": 10980,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #252",
+        "youtubeId": "BAb0S4ADaoM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/BAb0S4ADaoM/hqdefault.jpg",
+        "durationInMinutes": 219,
+        "releaseDate": 1680329169000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "8936b26e-bdf1-4d90-ae4d-90344b181470",
+  "title": "A texasi láncfűrészes mészárlás [2022]",
+  "originalTitle": "Texas Chainsaw Massacre",
+  "overview": "Az influenszerek, akik új életet akarnak lehelni a texasi szellemvárosba, találkoznak Bőrpofával, a hírhedt gyilkossal, aki emberi bőrből készült maszkot visel.",
+  "backdropPath": "/aTSA5zMWlVFTYBIZxTCMbLkfOtb.jpg",
+  "posterPath": "/5wmAc1SQvqQu9SCYV51xGYkAtT.jpg",
+  "releaseDate": "2022-02-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e832f536-9126-48b1-9045-5793296a6bdf",
+      "title": "A texasi láncfűrészes mészárlás [2022]",
+      "subtitle": null,
+      "timestampString": "02:01:53",
+      "timestampInSeconds": 7313,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #228",
+        "youtubeId": "lv3ZpY859Dw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/lv3ZpY859Dw/hqdefault.jpg",
+        "durationInMinutes": 218,
+        "releaseDate": 1646480502000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

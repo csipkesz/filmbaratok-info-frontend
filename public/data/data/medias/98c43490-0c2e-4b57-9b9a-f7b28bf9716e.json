@@ -1,0 +1,45 @@
+{
+  "id": "98c43490-0c2e-4b57-9b9a-f7b28bf9716e",
+  "title": "65",
+  "originalTitle": "65",
+  "overview": "Katasztrofális baleset következtében a Mills vezette űrhajó egy ismeretlen bolygóra zuhan. A Földre... 65 millió évvel ezelőtt. Mills és Koa egyetlen esélye a menekülésre, ha átkelnek a veszélyekkel teli ismeretlen terepen.",
+  "backdropPath": "/eSVu1FvGPy86TDo4hQbpuHx55DJ.jpg",
+  "posterPath": "/1jWBBxhJzfJAF3h2MFhKfgcuyLS.jpg",
+  "releaseDate": "2023-03-02T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e747e09e-005f-4e81-9356-8e23c39f28aa",
+      "title": "65",
+      "subtitle": null,
+      "timestampString": "01:48:00",
+      "timestampInSeconds": 6480,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #252",
+        "youtubeId": "BAb0S4ADaoM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/BAb0S4ADaoM/hqdefault.jpg",
+        "durationInMinutes": 219,
+        "releaseDate": 1680329169000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

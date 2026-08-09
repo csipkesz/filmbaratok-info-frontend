@@ -1,0 +1,45 @@
+{
+  "id": "c19e9f56-3272-42f5-bcdb-718cbae49abd",
+  "title": "Hullajó (Braindead)",
+  "originalTitle": "Braindead",
+  "overview": "Valami gonosz érkezett egy Új-Zélandi kisvárosba. Patkánymajom névre hallgató lény harapása nem halálos ,de végzetes. A gyanútlan vadász aki megtalálta azóta jobb létre szenderült. Köszönhetõen annak a gyógykezelésnek amelyben a helyiek részesítették. Lionel aki régóta szenved édesanyja sanyargatásától még nem is sejti hogy sorsa milyen szorosan összefonódik ezzel a szörnnyel. Ami miatt az egész környezete zombivá változik.",
+  "backdropPath": "/ecZ6MQ3Y63dtn35km6odO0e39aQ.jpg",
+  "posterPath": "/uFY3HkDFgEgWOCuI4MbOHPbXyLY.jpg",
+  "releaseDate": "1992-08-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "66db44c2-6290-47ac-9e0c-74959beb5790",
+      "title": "Hullajó (Braindead)",
+      "subtitle": null,
+      "timestampString": "01:06:15",
+      "timestampInSeconds": 3975,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #32",
+        "youtubeId": "6P4PZX3FJGA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/6P4PZX3FJGA/hqdefault.jpg",
+        "durationInMinutes": 125,
+        "releaseDate": 1373643280000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "8b6aaf27-9193-4674-bdd6-ced0afb2ac10",
+            "name": "DreamerInstinct"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

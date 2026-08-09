@@ -1,0 +1,45 @@
+{
+  "id": "1eb093de-4bd5-47df-915a-3a6af5e8171b",
+  "title": "Wonder Woman 1984",
+  "originalTitle": "Wonder Woman 1984",
+  "overview": "Hidegháború. Az ezerkilencszázhetvenes-nyolcvanas évekbeli Európában, a közelinek látszó atomháború árnyékában igazán szükség volt hősökre. Diana sem maradhat tétlen: igazságérzete a régi, ereje nagyobb, mint valaha, úgy érzi, tennie kell valamit azért, hogy a világ kevésbé veszélyes hely legyen.",
+  "backdropPath": "/egg7KFi18TSQc1s24RMmR9i2zO6.jpg",
+  "posterPath": "/z9hVW2JKLbWLFjYSbVyN6T1mYef.jpg",
+  "releaseDate": "2020-12-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ab5f54c4-0574-4cca-bb4c-d40a5b21c35c",
+      "title": "Wonder Woman 1984",
+      "subtitle": null,
+      "timestampString": "00:31:08",
+      "timestampInSeconds": 1868,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #204",
+        "youtubeId": "uCWG2Ku59nQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uCWG2Ku59nQ/hqdefault.jpg",
+        "durationInMinutes": 207,
+        "releaseDate": 1610723034000,
+        "participants": [
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "a9106f7e-c8f8-4ed6-8a88-4a42b5e0f8b9",
+            "name": "Anna"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

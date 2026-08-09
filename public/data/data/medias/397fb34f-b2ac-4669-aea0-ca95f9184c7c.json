@@ -1,0 +1,45 @@
+{
+  "id": "397fb34f-b2ac-4669-aea0-ca95f9184c7c",
+  "title": "A bűnös",
+  "originalTitle": "The Guilty",
+  "overview": "A bűnös egyetlen reggel történéseit mutatja be egy segélyhívó központban. Joe Bayler telefonos ügyintéző (Gyllenhaal) igyekszik megmenteni egy veszélyben lévő betelefonálót, de hamarosan rádöbben, hogy semmi sem az, aminek látszik, és kénytelen szembenézni az igazsággal, ha meg akarja találni a kiutat.",
+  "backdropPath": "/5wPWgTvdoVKW6ICeEAg86IBJOBW.jpg",
+  "posterPath": "/AvKkinYwfAHzpT7GvvdKAdoVFWL.jpg",
+  "releaseDate": "2021-09-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "14b6f18b-bcfa-40c3-b204-a463e4834788",
+      "title": "A bűnös",
+      "subtitle": null,
+      "timestampString": "01:37:05",
+      "timestampInSeconds": 5825,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #154",
+        "youtubeId": "8kJ3-leKXJo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/8kJ3-leKXJo/hqdefault.jpg",
+        "durationInMinutes": 220,
+        "releaseDate": 1541001500000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

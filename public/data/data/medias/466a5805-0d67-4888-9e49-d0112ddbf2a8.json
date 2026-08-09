@@ -1,0 +1,41 @@
+{
+  "id": "466a5805-0d67-4888-9e49-d0112ddbf2a8",
+  "title": "Száll a kakukk fészkére",
+  "originalTitle": "One Flew Over the Cuckoo's Nest",
+  "overview": "McMurphy, a kisstílű bűnöző a börtön helyett elmegyógyintézetbe záratja magát. Hamarosan rájön: a műintézmény lakói -akik ellentétben vele, nem tettetésből kerültek ide- semmivel sem bolondabbak nála, annál inkább bolond a világ, amely idejuttatta őket. McMurphy hamar elveszti a kívülállás páncélját, ezért megpróbál segíteni társain, akiken látja: az orvostudomány köntösébe bújtatott érzéketlenség és álszent gyógyítás - valójában fegyelmezni, idomítani akarás - csak rontja állapotukat.",
+  "backdropPath": "/uA8eSNAUUUyfHNIrG4h0zHxzt9W.jpg",
+  "posterPath": "/sP9ClE7184WD0kUvCxnRGIKqwIz.jpg",
+  "releaseDate": "1975-11-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fd6bec9d-6a8a-45c8-9411-1be1fff4ff64",
+      "title": "Száll a kakukk fészkére",
+      "subtitle": null,
+      "timestampString": "02:47:48",
+      "timestampInSeconds": 10068,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #262",
+        "youtubeId": "vHivX-OmQEI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/vHivX-OmQEI/hqdefault.jpg",
+        "durationInMinutes": 199,
+        "releaseDate": 1695357459000,
+        "participants": [
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          }
+        ]
+      }
+    }
+  ]
+}

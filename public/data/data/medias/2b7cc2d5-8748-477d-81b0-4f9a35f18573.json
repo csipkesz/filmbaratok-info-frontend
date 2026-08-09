@@ -1,0 +1,45 @@
+{
+  "id": "2b7cc2d5-8748-477d-81b0-4f9a35f18573",
+  "title": "Téboly",
+  "originalTitle": "Unhinged",
+  "overview": "Veled is szembejöhet a legrosszabb rémálmod… Rachel a reggeli rohanásban, a végeláthatatlan dugóban ülve ledudál egy idegent és elhajt mellette. A férfi ettől hirtelen bekattan és egy halálos országúti bosszúhadjáratba kezd. Üldözőbe veszi a nőt, akit pokoli leckék végtelen során keresztül próbál teljesen kikészíteni. A tébolyult ámokfutó nem kímél senkit, aki az útjába kerül...",
+  "backdropPath": "/wXk9y36eTmNl6XwEuOfw6yNNClr.jpg",
+  "posterPath": "/ezyLt88g2LaI0ktK12EgGhF6Ml2.jpg",
+  "releaseDate": "2020-07-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "148f7504-d601-493d-a5e3-212673daa9c8",
+      "title": "Téboly",
+      "subtitle": null,
+      "timestampString": "00:46:20",
+      "timestampInSeconds": 2780,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #198",
+        "youtubeId": "A61oXuDlUgE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/A61oXuDlUgE/hqdefault.jpg",
+        "durationInMinutes": 168,
+        "releaseDate": 1601560074000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

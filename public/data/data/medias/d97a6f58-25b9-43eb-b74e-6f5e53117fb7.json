@@ -1,0 +1,45 @@
+{
+  "id": "d97a6f58-25b9-43eb-b74e-6f5e53117fb7",
+  "title": "Arany",
+  "originalTitle": "Gold",
+  "overview": "Kenny Wells egy csóró, ám annál ambiciózusabb üzletember, aki miután egy elképesztően gazdag aranybányára bukkan, hirtelen a Wall Street csúcsán találja magát. Dőlnek a milliárdok, ám az aranyásók rocksztárjának az FBI és az indonéziai kormány embereivel is szembe kell szállnia.",
+  "backdropPath": "/mDzzAQypU9CaolRyMiDVwlwffBY.jpg",
+  "posterPath": "/sChpljNELpA4iVWq45xycz15VU6.jpg",
+  "releaseDate": "2016-02-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b32a46b3-386f-43e4-b9b6-303350d4da3a",
+      "title": "Arany",
+      "subtitle": null,
+      "timestampString": "03:27:12",
+      "timestampInSeconds": 12432,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #232",
+        "youtubeId": "9TzGQXyouWk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9TzGQXyouWk/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1651670332000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "65c8dcb3-e6fe-40cb-af77-cfdbe57f6c2b",
+  "title": "Nürnberg",
+  "originalTitle": "Nuremberg",
+  "overview": "A második világháború végén élve sikerül elfogni az egyik legfőbb náci vezetőt és háborús bűnöst, Hermann Göringet. A szövetséges országok precedens nélküli jogi lépésre készülnek, amikor bíróság elé állítják Göringet, hogy feleljen a háborús tetteiért. A történet középpontjában egy amerikai pszichiáter áll, akinek az a feladata, hogy megállapítsa, alkalmasak-e a náci vezetők arra, hogy a nemzetközi bíróság előtt számon kérjék őket háborús bűneik miatt. Göring nagyon magas intelligenciájú ember, a pszichiáter pedig a beszélgetéseik során egyre inkább a hatása alá kerül.",
+  "backdropPath": "/bf5TG9RODkPXmtJSgf8Iymof1wl.jpg",
+  "posterPath": "/zCXd8hYLEjjPglPXIOIdI0fVgy.jpg",
+  "releaseDate": "2025-11-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b0b7383c-e636-47e1-9785-41888fcc0511",
+      "title": "Nürnberg",
+      "subtitle": null,
+      "timestampString": "00:59:24",
+      "timestampInSeconds": 3564,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #318",
+        "youtubeId": "97jsp1z7nD4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/97jsp1z7nD4/hqdefault.jpg",
+        "durationInMinutes": 190,
+        "releaseDate": 1768489534000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "b0395d3c-4a58-4534-97fe-4154fbb8709d",
+            "name": "Márk"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

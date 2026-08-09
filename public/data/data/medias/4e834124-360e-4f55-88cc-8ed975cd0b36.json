@@ -1,0 +1,62 @@
+{
+  "id": "4e834124-360e-4f55-88cc-8ed975cd0b36",
+  "title": "365 nap: Egy újabb nap",
+  "originalTitle": "Kolejne 365 dni",
+  "overview": "Laura és Massimo kapcsolata a tét, ahogy megpróbálják leküzdeni a bizalmi problémákat és a féltékenységet, miközben a kitartó Nacho azon dolgozik, hogy szétválassza őket.",
+  "backdropPath": "/6cpRpfD3isvluFwXDGSiDVyibPJ.jpg",
+  "posterPath": "/wBw5ItwEI80XewMBRUB5cFu5Ok6.jpg",
+  "releaseDate": "2022-08-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b0cf7dc1-8148-467f-84be-0146f2d6bb04",
+      "title": "365 nap: Egy újabb nap",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "AUDIO_COMMENTARY",
+        "title": "Filmbarátok audiokommentár: 365 nap: Egy újabb nap",
+        "youtubeId": "pjbqkxn2v0U",
+        "thumbnailUrl": "https://i.ytimg.com/vi/pjbqkxn2v0U/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1661328395000,
+        "participants": []
+      }
+    },
+    {
+      "id": "f1219a5d-053a-4a1b-8b5e-659a4963b7f7",
+      "title": "365 nap: Egy újabb nap",
+      "subtitle": null,
+      "timestampString": "02:40:09",
+      "timestampInSeconds": 9609,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #238",
+        "youtubeId": "B0d915GjLlk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/B0d915GjLlk/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1661879000000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "bcfcb83a-4062-4b6d-b4cc-86ffa95ad731",
+  "title": "Gemini Man",
+  "originalTitle": "Gemini Man",
+  "overview": "Az idősödő bérgyilkos, Henry Brogen megpróbál szakítani a hivatásával és \"nyugdíjba\" vonulni. Hamarosan azonban már az élete lesz a tét, ellenfele pedig egy 25 éves ifjonc bérgyilkos, aki sokban hasonlít az ő 25 éves önmagára, amikor még a képességei csúcsán volt.",
+  "backdropPath": "/hmv300bqfZmxvdXCtCsruDH0ycT.jpg",
+  "posterPath": "/oEK55vHGBRHCw0thT0djxGdCbee.jpg",
+  "releaseDate": "2019-10-02T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ef610fe2-65fc-4838-b4d4-53bb9b3dd2ff",
+      "title": "Gemini Man",
+      "subtitle": null,
+      "timestampString": "01:16:50",
+      "timestampInSeconds": 4610,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #177",
+        "youtubeId": "SiiouPY48NM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/SiiouPY48NM/hqdefault.jpg",
+        "durationInMinutes": 237,
+        "releaseDate": 1571926127000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "8f06717a-80e2-4289-949b-04fcc2548e0c",
+  "title": "Hamnet",
+  "originalTitle": "Hamnet",
+  "overview": "1580, Anglia. Az elszegényedett latintanár, William Shakespeare megismerkedik a szabadszellemű Agnes-szel, és a pár egymástól elragadtatva szenvedélyes viszonyba keveredik, amelynek vége házasság és három gyermek lesz. Viszont miközben Will a távoli Londonban egyengeti bimbózó színészi karrierjét, Agnes-nek egyedül kell helyt állnia otthon. Amikor tragédia történik, a pár egykor megingathatatlan köteléke próbára tétetik, ám a közös élményeik alapozzák meg Shakespeare időtlen remekművének, a Hamletnek a megírását.",
+  "backdropPath": "/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
+  "posterPath": "/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+  "releaseDate": "2025-11-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a6a8dffc-1d36-4419-b40f-62792beaed8e",
+      "title": "Hamnet",
+      "subtitle": null,
+      "timestampString": "01:02:55",
+      "timestampInSeconds": 3775,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #320",
+        "youtubeId": "JOlQcUNht4E",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JOlQcUNht4E/hqdefault.jpg",
+        "durationInMinutes": 181,
+        "releaseDate": 1771072699000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

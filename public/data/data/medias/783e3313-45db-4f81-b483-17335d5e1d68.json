@@ -1,0 +1,45 @@
+{
+  "id": "783e3313-45db-4f81-b483-17335d5e1d68",
+  "title": "Monster hunter",
+  "originalTitle": "Monster Hunter",
+  "overview": "Artemis hadnagy és emberei egy távoli bolygóra kerülnek – és az új világ régi lakói nem fogadják őket szeretettel. A hatalmas, elképesztő erejű, meghökkentő harci technikákkal felszerelt szörnyek kérdés nélkül, azonnal végezni akarnak látszólag védtelen ellenfeleikkel.",
+  "backdropPath": "/8tNX8s3j1O0eqilOQkuroRLyOZA.jpg",
+  "posterPath": "/dzPkxFr9Cc2NGPxyMsB4QJapJsJ.jpg",
+  "releaseDate": "2020-12-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3ff2d514-9045-40f8-9dd4-24b3ab5c53e0",
+      "title": "Monster hunter",
+      "subtitle": null,
+      "timestampString": "02:00:52",
+      "timestampInSeconds": 7252,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #207",
+        "youtubeId": "nRj4p0apAgo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nRj4p0apAgo/hqdefault.jpg",
+        "durationInMinutes": 247,
+        "releaseDate": 1614949852000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

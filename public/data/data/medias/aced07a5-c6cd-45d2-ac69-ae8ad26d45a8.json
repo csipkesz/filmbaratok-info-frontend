@@ -1,0 +1,45 @@
+{
+  "id": "aced07a5-c6cd-45d2-ac69-ae8ad26d45a8",
+  "title": "A Viszkis",
+  "originalTitle": "A Viszkis",
+  "overview": "Vagány volt, híres lett. Ő az, akit mindenki ismer, olyasmit mert, amit senki előtte, és aki mindig egy lépéssel a rendőrség előtt járt. És aki minden bankrablása előtt megivott egy pohár viszkit. Ambrus Attila félárván nő fel, zűrös kamaszkort és javítóintézeti éveket hagy maga mögött, amikor Erdélyből kalandos körülmények között Magyarországra szökik. De az új élet nehezebbnek bizonyul, mint a régi. Egy hokicsapat kapusa és szertárosa lesz, de továbbra sincs pénze, se barátnője... míg rá nem jön, miben jó igazán. Vakmerő, gyors és alapos. Egymás után fosztja ki a postákat, bankokat, utazási irodákat. Egyre nagyobbakat kaszál, egyre éhesebb a sikerre, egyre többet akar magának, és új szerelmének. De az utolsó balhéja kudarcba fullad, és végül a régóta nyomában lihegő makacs nyomozó kezei közé kerül, aki kíméletlenül szembesíti őt a tetteivel. Kettejük játszmája azonban korántsem zárul le a Viszkis elfogásával...",
+  "backdropPath": "/qLIcg7J94StYDFqTU5tPlQifNI.jpg",
+  "posterPath": "/7bGuxNsheIzRdtLzYHQ4XvfOgU3.jpg",
+  "releaseDate": "2017-11-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f4936544-dc48-4844-86b8-b7cfc7a2835d",
+      "title": "A Viszkis",
+      "subtitle": null,
+      "timestampString": "00:37:18",
+      "timestampInSeconds": 2238,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #133",
+        "youtubeId": "HByKV2iRM34",
+        "thumbnailUrl": "https://i.ytimg.com/vi/HByKV2iRM34/hqdefault.jpg",
+        "durationInMinutes": 235,
+        "releaseDate": 1512135779000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "71916fe3-d2d1-41d4-ba58-89dae7bd99f9",
+  "title": "Amerika Kapitány: Polgárháború",
+  "originalTitle": "Captain America: Civil War",
+  "overview": "Steve Rogers az újjáalakult Bosszúállók csapatának élén próbál gondoskodni az emberiség biztonságáról. Azonban egy újabb incidens következik be, amelynek nem várt következményei lesznek. A Bosszúállókon egyre nő a politikai nyomás, hogy egy kormányzati szerv irányítsa őket, akiknek be kell számolniuk akcióikról. Az új rend megosztja a Bosszúállókat, a csapat két részre szakad. Az egyik csoport élén Steve Rogers áll, aki úgy véli, a Bosszúállóknak szabadon kellene tevékenykednie, hogy védelmezhessék az emberiséget. A másik csoport élén Tony Stark, aki az irányítás és elszámoltathatóság eszméjét támogatja.",
+  "backdropPath": "/wdwcOBMkt3zmPQuEMxB3FUtMio2.jpg",
+  "posterPath": "/dQgJCkS5RVpVLjhHIAVKl8MP4D4.jpg",
+  "releaseDate": "2016-04-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8647c008-fa69-4a17-8557-d6b5b4d7b98a",
+      "title": "Amerika Kapitány: Polgárháború",
+      "subtitle": null,
+      "timestampString": "00:43:40",
+      "timestampInSeconds": 2620,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #98",
+        "youtubeId": "5mDA3_R1VRw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/5mDA3_R1VRw/hqdefault.jpg",
+        "durationInMinutes": 152,
+        "releaseDate": 1463075301000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

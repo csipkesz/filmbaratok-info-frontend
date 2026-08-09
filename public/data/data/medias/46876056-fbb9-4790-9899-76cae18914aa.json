@@ -1,0 +1,41 @@
+{
+  "id": "46876056-fbb9-4790-9899-76cae18914aa",
+  "title": "A tengeralattjáró",
+  "originalTitle": "Das Boot",
+  "overview": "1942, La Rochelle: az U-612 első útjára indul a legénységgel és Klaus Hoffmann kapitánnyal. A parton Simone Strasser világa irányíthatatlanná válik, amint veszélyes viszonyba keveredik.",
+  "backdropPath": "/fO7130S6aBRzZvu5ty9ZUZbrU04.jpg",
+  "posterPath": "/xVTv85i5JEovFFUl4JCZGHcMZs7.jpg",
+  "releaseDate": "2018-11-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "110c9cdc-aa1c-44b2-8460-b884579bb2b8",
+      "title": "A tengeralattjáró",
+      "subtitle": null,
+      "timestampString": "03:01:40",
+      "timestampInSeconds": 10900,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #75",
+        "youtubeId": "5hqAh129dAE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/5hqAh129dAE/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1434729270000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

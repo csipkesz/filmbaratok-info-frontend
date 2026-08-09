@@ -1,0 +1,45 @@
+{
+  "id": "46e5c18e-3745-4d6d-8ecb-3e14403dfef9",
+  "title": "Münó, a holdbéli manó",
+  "originalTitle": "Mune, le gardien de la lune",
+  "overview": "Létezik egy távoli csodálatos világ, ahol a nappalokat és az éjszakákat legendás őrzők vigyázzák. A régiek ideje azonban lejárt: a Napnak és a Holdnak új őrzőt kell választania. A Nap választása Szolárra esik, ami nem okoz nagy meglepetést, hiszen a kissé öntelt és magamutogató figura egész életében erre a feladatra készült. Ám amikor a Hold Münót, az apró és kissé kétbalkezes teremtményt jelöli ki őrzőjéül, mindenki felbolydul. Maga Münó sem érti, miért ő lett a kiválasztott. Ám a felelősség alól nincs kibúvó. Egy este azonban bekövetkezik a baj: a tapasztalatlan Münó egy óvatlan pillanatban elveszíti a Holdat. A kegyvesztett, bosszúra éhes Nekrossz, a Nap egykori őrzője kapva kap az alkalmon, és miközben mindenki a Holdat keresi, ellopja a Napot, teljes sötétségbe borítva ezzel a bolygót. Münó, Szolár és a törékeny, ám talpraesett viaszlányka, Tündi felkerekednek, hogy együtt nézzenek szembe a gonosz alvilági figurával, és visszaszerezzék a Napot és a Holdat.",
+  "backdropPath": "/oqblGh9vRXFBV9Auu8St5i50njr.jpg",
+  "posterPath": "/gd12NXCgJuVOo1wlBvkM7R9Qq7Y.jpg",
+  "releaseDate": "2015-02-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d59b8820-eeeb-4e59-9c32-64f737a33b0a",
+      "title": "Münó, a holdbéli manó",
+      "subtitle": null,
+      "timestampString": "01:47:46",
+      "timestampInSeconds": 6466,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #254",
+        "youtubeId": "TI74Dk0Q_o4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/TI74Dk0Q_o4/hqdefault.jpg",
+        "durationInMinutes": 202,
+        "releaseDate": 1683715646000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "131a0422-ee0c-4132-9fb7-1c6edf53c584",
+  "title": "365 nap",
+  "originalTitle": "365 dni",
+  "overview": "Massimo Torricellinek, a szicíliai maffia fiatal és jóképű vezérének nincs más választása, mint átvenni a szervezet vezetését az apja meggyilkolása után. Laura egy varsói luxusszálloda értékesítési igazgatója. Sikeres karriert tudhat magáénak, de magánélete mentes a szenvedélytől. A nő tesz egy utolsó kísérletet, hogy megmentse a kapcsolatát. Keményfejű párjával, Martinnal és néhány barátjával együtt Szicíliába utaznak. Csakhogy az utazás váratlan fordulatot vesz, amikor Massimo, a sziget legveszélyesebb embere elrabolja, és 365 napig fogságban tartja őt, mely idő alatt a nő gyengéd érzelmeket kezd el táplálni a maffiózó iránt.  Közép-európai Netflix korhatár: 17 évtől.  Magyar korhatár: 18+.",
+  "backdropPath": "/29mZ5bR5m2w3xuvwJH7BHMFQQwH.jpg",
+  "posterPath": "/3ncM6ZqQFZaqvKu2G97zti0RxTx.jpg",
+  "releaseDate": "2020-02-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3d70c668-4d72-4600-9d03-943792e06d1c",
+      "title": "365 nap (freddyD kiadás)",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "AUDIO_COMMENTARY",
+        "title": "Filmbarátok Audiokommentár: 365 nap (freddyD kiadás)",
+        "youtubeId": "ipEEV-cZQOY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ipEEV-cZQOY/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1597415293000,
+        "participants": []
+      }
+    },
+    {
+      "id": "f8fd3608-9660-4ffe-8275-ef4b47f45d08",
+      "title": "365 nap",
+      "subtitle": null,
+      "timestampString": "00:41:45",
+      "timestampInSeconds": 2505,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #195",
+        "youtubeId": "ub7UnLmmwMA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ub7UnLmmwMA/hqdefault.jpg",
+        "durationInMinutes": 217,
+        "releaseDate": 1597415274000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

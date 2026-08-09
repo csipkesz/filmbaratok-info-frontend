@@ -1,0 +1,53 @@
+{
+  "id": "9321007f-4a08-4bef-bec7-e6a5cb0368fc",
+  "title": "Johnny háborúba megy",
+  "originalTitle": "Johnny Got His Gun",
+  "overview": "Johnny, annyi kortársához hasonlóan, önkéntesként jelentkezik a Nagy Háborúba. És a harcmezőn, mint megannyi sorstársa, az ellenséges tűzben borzalmasan megsebesül. Szerencse, vagy inkább balszerencse, hogy életben marad, holott keze-lába és arca nagy része odaveszett. Így egy külön kórteremben, vakon-némán-süketen tengeti napjait. Az orvosok meggyőződése, hogy nincs magánál, így az emberi test működését illusztráló, amolyan bemutató \"mintadarabként\" tartják mesterségesen életben. Johnny azonban öntudatra ébred, s végletesen korlátozott eszközeivel, kétségbeesetten próbál kapcsolatba lépni a külvilággal, miközben agyában újra és újra, egyre vadabb fordulatokkal tarkítva, leperegnek életének eseményei.",
+  "backdropPath": "/cnf41Zu7ue1VgYdJEIYRC9w5yhS.jpg",
+  "posterPath": "/wjyXznmGSmcsYuGHMzQLpPdyPPh.jpg",
+  "releaseDate": "1971-08-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3c07388c-bfc3-4165-85df-70402220cf29",
+      "title": "Johnny háborúba megy",
+      "subtitle": null,
+      "timestampString": "02:27:13",
+      "timestampInSeconds": 8833,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #165",
+        "youtubeId": "RSBwJungF40",
+        "thumbnailUrl": "https://i.ytimg.com/vi/RSBwJungF40/hqdefault.jpg",
+        "durationInMinutes": 274,
+        "releaseDate": 1554109205000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "c5262472-3021-44f9-a952-d8db721b220a",
+            "name": "Károly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "d54ee183-ac52-41a9-9864-31776424b6ad",
+            "name": "Gábor"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

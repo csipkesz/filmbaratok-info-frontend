@@ -1,0 +1,49 @@
+{
+  "id": "9320cd22-e828-4f71-b67d-f75681445dc9",
+  "title": "Star Wars VII – Az ébredő erő",
+  "originalTitle": "Star Wars: The Force Awakens",
+  "overview": "Luke Skywalker eltűnt. Hiánya közben a gonosz Első Rend emelkedett ki a Birodalom hamvaiból, és nem nyughat amíg Skywalker, az utolsó jedi el nem pusztul. A Köztársaság támogatásával Leia Organa tábornok bátor ellenállást vezet. Kétségbeesetten keresik Luke-ot hogy segítségével visszaállítsák a békét és igazságot a galaxisban.  Leia legbátrabb pilótáját titkos küldetésben a Jakku bolygóra küldte, ahol egy régi szövetséges talált egy nyomot ami elvezetheti őket Luke-hoz...",
+  "backdropPath": "/k6EOrckWFuz7I4z4wiRwz8zsj4H.jpg",
+  "posterPath": "/acyhWPMCrQFspMygH0d6SZ5jFCR.jpg",
+  "releaseDate": "2015-12-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1a50d35e-385f-4209-85f6-60f6a8b99792",
+      "title": "Star Wars VII – Az ébredő erő *SPOILERES",
+      "subtitle": null,
+      "timestampString": "00:07:20",
+      "timestampInSeconds": 440,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #89",
+        "youtubeId": "AHN1RytoJ24",
+        "thumbnailUrl": "https://i.ytimg.com/vi/AHN1RytoJ24/hqdefault.jpg",
+        "durationInMinutes": 253,
+        "releaseDate": 1451303363000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ff248333-0d00-40bd-af3c-6049f0a070c6",
+            "name": "Szöllőskei Gábor"
+          }
+        ]
+      }
+    }
+  ]
+}

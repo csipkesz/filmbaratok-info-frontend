@@ -1,0 +1,45 @@
+{
+  "id": "50b31339-3bbe-4433-b814-578a637d852e",
+  "title": "A szörfös",
+  "originalTitle": "The Surfer",
+  "overview": "Egy férfi visszatér gyermekkora idilli színterére, hogy szörfözzön egyet fiával. Ám terveit keresztülhúzza egy csapat helyi figura, akik folyvást azt vágják a képébe, hogy „ha nem lakol itt, nem szörfölsz itt.” A megszégyenült és dühtől fűtött férfi mélyebbre és mélyebbre merül ebben az idegtépő konfliktusban, miközben a hőség is egyre elviselhetetlenebb – csak idő kérdése, hogy az agya végleg elboruljon…",
+  "backdropPath": "/iuW4CPRcaTZzTRDr8iLg2KYdKCM.jpg",
+  "posterPath": "/3CHMB6eOjmNoSQjQq14stq1RUVt.jpg",
+  "releaseDate": "2025-04-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f440633c-56ea-44d9-8cf9-0c26e9dcb3cb",
+      "title": "A szörfös",
+      "subtitle": null,
+      "timestampString": "02:07:15",
+      "timestampInSeconds": 7635,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #304",
+        "youtubeId": "ok8JUwMUPIA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ok8JUwMUPIA/hqdefault.jpg",
+        "durationInMinutes": 212,
+        "releaseDate": 1749920369000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

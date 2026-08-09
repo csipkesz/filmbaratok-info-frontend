@@ -1,0 +1,45 @@
+{
+  "id": "ad0ce949-0cbb-47f1-9206-05f468e5f206",
+  "title": "Kalózok: A kétballábas banda",
+  "originalTitle": "The Pirates! In an Adventure with Scientists!",
+  "overview": "Mi teszi a jó kalózt? A lelkesedés, a vágy a zsákmány után és a hatalmas, dúsan göndörödő szakáll. E film főszereplője tökéletes kalóz: csak az a kis hibája van, hogy soha, egyetlen terve sem válik valóra - de legalább kitartóan próbálkozik.  Hű társaival hét tengert hajóz be, hogy legyőzze ellenségeit Büszke Bellamy kapitányt meg Penge Lizt, és végre elnyerje a legnagyobb, legrégebben vágyott kincset: Az év kalóza-díjat.  Kalandos útja során bejár néhány távoli egzotikus szigetet és a ködös Londont, megküzd a rossz természetű királynővel, szövetkezik egy zseniális ifjú tudóssal, és közben sosem veszíti szem elöl azt, ami a jó kalóz számára az igazi lényeg: kaland és körszakáll!",
+  "backdropPath": "/9UZnCIeUVHzZQLDXN7lht2T4ndB.jpg",
+  "posterPath": "/tZ9Zt7Kda2BuL400xiVPJZBJjnn.jpg",
+  "releaseDate": "2012-03-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "bb165a13-3394-4930-9988-e6fd94f9a861",
+      "title": "Kalózok: A kétballábas banda",
+      "subtitle": null,
+      "timestampString": "01:56:51",
+      "timestampInSeconds": 7011,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #63",
+        "youtubeId": "PgKECs1kHoY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/PgKECs1kHoY/hqdefault.jpg",
+        "durationInMinutes": 195,
+        "releaseDate": 1418847403000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

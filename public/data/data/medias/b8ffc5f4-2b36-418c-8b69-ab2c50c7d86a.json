@@ -1,0 +1,41 @@
+{
+  "id": "b8ffc5f4-2b36-418c-8b69-ab2c50c7d86a",
+  "title": "Horns",
+  "originalTitle": "Horns",
+  "overview": "A film alapjául Stephen King fiának nálunk is megjelent regénye szolgál, amelyben egy fiatalembert gyanúsítanak meg barátnője megölésével. Az eset után a férfi furcsa változásokat vesz észre magán, konkrétan szarvai nőnek, de ezzel együtt olyan képességet is kap többek között, amivel igazmondásra bírja az embereket. Nem is tétovázik tovább, elindul, hogy kiderítse az igazságot..",
+  "backdropPath": "/mORSowyx92dlvx9zYOKXZx0NpAW.jpg",
+  "posterPath": "/9Bx9GU4IzVc8bKIDVAR6B00LmM8.jpg",
+  "releaseDate": "2013-09-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9dfc65ea-4f7c-4eab-a0f1-9361537c5363",
+      "title": "Horns",
+      "subtitle": null,
+      "timestampString": "01:09:17",
+      "timestampInSeconds": 4157,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #59",
+        "youtubeId": "xa1Ymms2_9c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/xa1Ymms2_9c/hqdefault.jpg",
+        "durationInMinutes": 189,
+        "releaseDate": 1413978295000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "a881e455-c7fc-42a1-bc5e-c837f9b7bfca",
+  "title": "A gyilkos járat",
+  "originalTitle": "Bullet Train",
+  "overview": "Aki egyszer a bűn útjára lép, az nem szállhat ki többet. Ladybug (Brad Pitt) megpróbálta letenni a fegyvert, és nem sikerült. Újabb megbízást kap titokzatos főnökétől (Sandra Bullock), és újra munkába kell állnia. Ezúttal egy aktatáskát kell megszereznie bármi áron. Mindegy hányan halnak meg érte.A táska az óránként több száz kilométeres sebességgel haladó japán szupervonaton utazik. Ladybug felszáll, egyszerű, tiszta munkára számít, és rájön, mennyire kellemetlen, ha nincs kiszállás. Mert a vonaton vannak még néhányan, akik a) a táskával b) vele c) valami egészen mással akarnak valamit, ami őrült, kiszámíthatatlan és kegyetlen. Bérgyilkosok, bosszúállók, simlisek és rablók küzdenek egymással először óvatosan azután egyre vadabbul. És nincs kiszállás. Mert a vonat száguld tovább.  A Deadpool 2. rendezőjének japánban játszódó akcióvígjátéka elképesztő tempót diktál, nagyon gátlástalan, nagyon vicces, és csupa zseniális színész őrültködik benne.",
+  "backdropPath": "/y2Ca1neKke2mGPMaHzlCNDVZqsK.jpg",
+  "posterPath": "/yD69G8HgQ8TagDinbh7gExeiGFz.jpg",
+  "releaseDate": "2022-08-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d6531106-dd87-45e0-9121-efc078fde28e",
+      "title": "A gyilkos járat",
+      "subtitle": null,
+      "timestampString": "01:20:18",
+      "timestampInSeconds": 4818,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #237",
+        "youtubeId": "c2QWiknBzts",
+        "thumbnailUrl": "https://i.ytimg.com/vi/c2QWiknBzts/hqdefault.jpg",
+        "durationInMinutes": 246,
+        "releaseDate": 1660371499000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

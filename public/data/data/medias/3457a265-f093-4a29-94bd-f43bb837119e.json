@@ -1,0 +1,37 @@
+{
+  "id": "3457a265-f093-4a29-94bd-f43bb837119e",
+  "title": "Bright",
+  "originalTitle": "Bright",
+  "overview": "Egy világban ahol mágikus lények élnek közöttünk, a fajok közti feszültség egyre fokozódik. A Los Angeles utcáin szolgáló Daryl és ork kollégája nagy erejű varázstárgyra bukkan, és egy megjövendölt háború közepén találják magukat.",
+  "backdropPath": "/hu4psJoKxDYezvvS4GlLF531fom.jpg",
+  "posterPath": "/whkT53Sv2vKAUiknQ13pqcWaPXB.jpg",
+  "releaseDate": "2017-12-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1a71d1c2-f120-4b67-a1ed-a66c17a2c179",
+      "title": "Bright",
+      "subtitle": null,
+      "timestampString": "02:09:55",
+      "timestampInSeconds": 7795,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #136",
+        "youtubeId": "4b51e0H7UII",
+        "thumbnailUrl": "https://i.ytimg.com/vi/4b51e0H7UII/hqdefault.jpg",
+        "durationInMinutes": 187,
+        "releaseDate": 1516893789000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

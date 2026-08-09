@@ -1,0 +1,45 @@
+{
+  "id": "2ce1d8fb-dbae-48bd-8d63-a6248de1200b",
+  "title": "Ex Machina",
+  "originalTitle": "Ex Machina",
+  "overview": "Caleb 24 éves, és programozó a világ legnagyobb internetes cégénél. Megnyer egy versenyt, amelynek díja, hogy egy hetet tölthet egy privát hegyi nyaralóban, amely Nathannek, a cég vezérigazgatójának tulajdona. Ám amikor Caleb megérkezik a mindentől távol eső luxusházba, rájön, hogy tulajdonképpen egy különös és lenyűgöző kísérletben kell részt vennie: kapcsolatba kell lépnie a világ első igazi mesterséges intelligenciájával, amely egy gyönyörű robotlány testében lakik.",
+  "backdropPath": "/uqOuJ50EtTj7kkDIXP8LCg7G45D.jpg",
+  "posterPath": "/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg",
+  "releaseDate": "2015-01-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5448c61f-6e10-4b94-abda-fc7263231710",
+      "title": "Ex Machina",
+      "subtitle": null,
+      "timestampString": "01:29:30",
+      "timestampInSeconds": 5370,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #74",
+        "youtubeId": "-_t5F-ALz2U",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-_t5F-ALz2U/hqdefault.jpg",
+        "durationInMinutes": 173,
+        "releaseDate": 1432541028000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

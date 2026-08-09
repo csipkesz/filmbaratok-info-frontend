@@ -1,0 +1,45 @@
+{
+  "id": "fe6c4b35-2b11-4510-8aab-5abce7a33f89",
+  "title": "Accidental Courtesy: Daryl Davis, Race & America",
+  "originalTitle": "Accidental Courtesy: Daryl Davis, Race & America",
+  "overview": "",
+  "backdropPath": null,
+  "posterPath": "/rnEZp4yeHfru0ujaHErcweUJYzZ.jpg",
+  "releaseDate": "2016-03-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b70bae70-9b61-4f14-92fd-bbb538cbfdea",
+      "title": "Accidental Courtesy: Daryl Davis, Race & America",
+      "subtitle": null,
+      "timestampString": "02:35:45",
+      "timestampInSeconds": 9345,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #235",
+        "youtubeId": "E8HgTAqoW8U",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E8HgTAqoW8U/hqdefault.jpg",
+        "durationInMinutes": 220,
+        "releaseDate": 1657007879000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "a9106f7e-c8f8-4ed6-8a88-4a42b5e0f8b9",
+            "name": "Anna"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

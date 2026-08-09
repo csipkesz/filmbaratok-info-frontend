@@ -1,0 +1,45 @@
+{
+  "id": "eb375c8f-1b69-411e-aad9-63a1497a3757",
+  "title": "Faun labirintusa",
+  "originalTitle": "El laberinto del fauno",
+  "overview": "Spanyolország, 1944. A polgárháború véget ért, de a hegyekben még harcolnak a gerillák. Carmen (Ariadna Gil) kislányával, Oféliával (Ivana Baquero) új férjéhez, a hideg, kegyetlen és autoriter Vidal (Sergi López) kapitányhoz költözik, aki Franco seregében szolgál. Ofélia nem szenvedheti az új életét, így a ház mögött felfedezett rejtélyes labirintusba menekül. Pán - védelmezője és vezetője - egy mesebeli figura meggyőzi, hogy a kislány egy mágikus királyság rég elveszett hercegnője. Hogy az elveszett igazságot megtalálja, Oféliának három próbát kell kiállnia, olyanokat, melyekre senki nem készítette fel.",
+  "backdropPath": "/6G6nqSW9S7EHA9HrYl0Z8uo2H7f.jpg",
+  "posterPath": "/19tmsPjx1T21OO5z65S9bLplGaY.jpg",
+  "releaseDate": "2006-10-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "52aa368f-6708-4c88-b18e-ffbbc00ad637",
+      "title": "Faun labirintusa",
+      "subtitle": null,
+      "timestampString": "03:51:00",
+      "timestampInSeconds": 13860,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #278",
+        "youtubeId": "RevEenp3eWU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/RevEenp3eWU/hqdefault.jpg",
+        "durationInMinutes": 268,
+        "releaseDate": 1715968812000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "3fa3ed85-f02d-44c8-a8ab-c4053fe764ce",
+  "title": "Suspiria / Sóhajok (1977)",
+  "originalTitle": "Suspiria",
+  "overview": "Susy Bannion egy viharos, szörnyű éjszakán érkezik meg a németországi Freiburgba, amelynek világhírű balettanodájában szeretné a táncművészet legmagasabb fokát elsajátítani. Az intézet azonban minden, csak nem marasztaló: az őrült-expresszionista épület tele van gonosz tanárokkal és üresfejű, önző tanulókkal, akik sorra életüket vesztik. Suzy-t nem hagyja nyugodni a hely nyomasztó hangulata és társai eltűnése, magánnyomozásba kezd...",
+  "backdropPath": "/9uXGLBPIJkPqmVwiyh3FI0iAe6n.jpg",
+  "posterPath": "/jRJ2plFEIln1pIqyRfEayIbcs9i.jpg",
+  "releaseDate": "1977-02-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9ce450d7-843d-4fac-8fc2-9ec8a7a3f7cd",
+      "title": "Suspiria / Sóhajok (1977)",
+      "subtitle": null,
+      "timestampString": "03:17:30",
+      "timestampInSeconds": 11850,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #156",
+        "youtubeId": "cklwRxW_tOo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/cklwRxW_tOo/hqdefault.jpg",
+        "durationInMinutes": 258,
+        "releaseDate": 1543425795000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "23d4eb05-0f9a-4bec-9d70-3f901e2b8a2e",
+  "title": "Tesó",
+  "originalTitle": "Tesó",
+  "overview": "Adott a lakótelep. Abban Artin, a huszonhárom évesen is egy kiskamasz mentalitásával bíró, terepfüggő zenebuzi, és bátyja, Nate, a lyukból lyukba menekülő, szexőrült pornóíró. Aztán ott van még egynéhány tulajdontárgy: egy használt nagylakás, egy örökölt kislakás, meg egy használtan örökölt nő. De melyik kinek jut?",
+  "backdropPath": null,
+  "posterPath": "/vwrW5qCHRnDk0JBxFiIs9mS4JQs.jpg",
+  "releaseDate": "2003-05-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "327d6e60-74b7-4988-8145-71b26d672514",
+      "title": "Tesó",
+      "subtitle": null,
+      "timestampString": "02:24:13",
+      "timestampInSeconds": 8653,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #149",
+        "youtubeId": "VBEVVw6KCTg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VBEVVw6KCTg/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1534514845000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

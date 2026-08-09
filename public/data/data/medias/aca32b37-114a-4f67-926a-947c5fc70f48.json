@@ -1,0 +1,41 @@
+{
+  "id": "aca32b37-114a-4f67-926a-947c5fc70f48",
+  "title": "Nyugati nyaralás",
+  "originalTitle": "Nyugati nyaralás",
+  "overview": "Magyarország a ’80-as évek derekán. Maurer Gyuri ügyes, veszprémi autószerelő, aki mindent meg tud oldani – még a pártvezetők Ladáit is ő szereli. Családja a riviéra lázában ég, már épp indulnának nyaralni, ám a négy útlevél helyett csak három érkezik meg. Gyuri hirtelen megvilágosodik: kölcsönveszik egy disszidens magyar nála hagyott autócsodáját. A német verdával és papírokkal a nyugatra igyekvő magyarok helyett nyugatról érkező turisták lesznek, akik a legnagyobb luxust élvezhetik a Balatonnál. Nem is sejtik, hogy a “kölcsönvett” autóval egyenesen a hidegháborúba hajtanak bele…",
+  "backdropPath": "/6CvAHb9UyNMIIHybe6aiKBOlBnL.jpg",
+  "posterPath": "/3Y18gekCB8UDggo8u1rdJxUoQrU.jpg",
+  "releaseDate": "2022-09-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "bd3ffd34-8425-4304-a8dc-7578b8e934d2",
+      "title": "Nyugati nyaralás",
+      "subtitle": null,
+      "timestampString": "02:01:15",
+      "timestampInSeconds": 7275,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #240",
+        "youtubeId": "T9F8CwPjgqQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/T9F8CwPjgqQ/hqdefault.jpg",
+        "durationInMinutes": 249,
+        "releaseDate": 1664376879000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

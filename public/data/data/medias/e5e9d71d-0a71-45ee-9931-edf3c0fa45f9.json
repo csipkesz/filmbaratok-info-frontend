@@ -1,0 +1,41 @@
+{
+  "id": "e5e9d71d-0a71-45ee-9931-edf3c0fa45f9",
+  "title": "Troll 2",
+  "originalTitle": "Troll 2",
+  "overview": "Miután egy veszélyes új troll ámokfutásba kezd a szülőföldjükön, Nora, Andreas és Kris kapitány egy minden eddiginél veszélyesebb küldetésre indulnak.",
+  "backdropPath": "/lZYMXx74pWmbj5Q5jp1QaMvmuuR.jpg",
+  "posterPath": "/plyEn5uDNXXDYihF8Z7YOe2PVKE.jpg",
+  "releaseDate": "2025-11-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5b95a388-3ee7-4840-bb9a-7c8fd750f2ad",
+      "title": "Troll 2",
+      "subtitle": null,
+      "timestampString": "01:34:36",
+      "timestampInSeconds": 5676,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #59",
+        "youtubeId": "xa1Ymms2_9c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/xa1Ymms2_9c/hqdefault.jpg",
+        "durationInMinutes": 189,
+        "releaseDate": 1413978295000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

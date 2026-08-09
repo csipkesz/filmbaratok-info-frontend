@@ -1,0 +1,41 @@
+{
+  "id": "1f83e387-7e17-49a0-a778-58f91a931b82",
+  "title": "A nagy szökés",
+  "originalTitle": "The Great Escape",
+  "overview": "A második világháború derekán a németek új, különleges fogolytábort építenek, miután megelégelték a szökött szövetséges katonák utáni hajszát. A legszigorúbb biztonsági intézkedések mellett itt tartják fogva azokat a foglyokat, akik már többször sikeresen megléptek. A szövetséges katonákat azonban kemény fából faragták. Amikor Bartlett repülőtiszt is idekerül, elhatározza, hogy több ember fog innen megszökni, mint eddig bárhonnan. A céljuk nem csak az, hogy kiszabaduljanak, hanem, hogy lekössék a közelben állomásozó német csapatokat is. Elképesztő akció veszi kezdetét.",
+  "backdropPath": "/q8niSuT02ZlBJDfCxoK2YZal3PL.jpg",
+  "posterPath": "/nPoYEqqi6blNIYGY0QbTHPkRSju.jpg",
+  "releaseDate": "1963-07-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "647108df-11d4-4b29-86bd-2efa9b15be75",
+      "title": "A nagy szökés",
+      "subtitle": null,
+      "timestampString": "01:43:05",
+      "timestampInSeconds": 6185,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #112",
+        "youtubeId": "M7gzW5_pVZk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/M7gzW5_pVZk/hqdefault.jpg",
+        "durationInMinutes": 160,
+        "releaseDate": 1481731219000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

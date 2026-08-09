@@ -1,0 +1,45 @@
+{
+  "id": "cb9b810b-cb64-4286-917b-b90847b7d63f",
+  "title": "Ház az utca végén",
+  "originalTitle": "House at the End of the Street",
+  "overview": "Egy édesanya és a lánya egy másik városban kezdenek új életet. Csak később szereznek tudomást arról, hogy pont egy olyan ház mellé költöztek, ahol egy gyermek megölte a saját szüleit. A család fia túlélte a gyilkosságot. Amikor az újdonsült szomszéd lány és az árva fiú összebarátkoznak, akkor derül ki, hogy a gyilkosság történetének koránt sincs még vége.",
+  "backdropPath": "/czaJqcaFFq6KSvlOZsDu3eJa35V.jpg",
+  "posterPath": "/iWD1h7HoHLV6lDdxFBiB98J6LRh.jpg",
+  "releaseDate": "2012-09-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6aa4fdc5-ed6e-4918-b314-d22885ed8b8a",
+      "title": "Ház az utca végén",
+      "subtitle": null,
+      "timestampString": "01:59:03",
+      "timestampInSeconds": 7143,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #58",
+        "youtubeId": "fTyqWvDVF00",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fTyqWvDVF00/hqdefault.jpg",
+        "durationInMinutes": 178,
+        "releaseDate": 1412093302000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

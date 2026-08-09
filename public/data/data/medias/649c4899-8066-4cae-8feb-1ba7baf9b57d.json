@@ -1,0 +1,45 @@
+{
+  "id": "649c4899-8066-4cae-8feb-1ba7baf9b57d",
+  "title": "A Riviéra vadorzói",
+  "originalTitle": "Dirty Rotten Scoundrels",
+  "overview": "Lawrence Jamieson elegáns, kifinomult úriember, aki könnyedén elhiteti a turistákkal, hogy személyében egy száműzött uralkodót tisztelhetnek. Egy szép nap a vonaton ülve megismerkedik egy kisstílű szélhámossal, Freddy Bensonnal, aki szegény öreg nagyanyja javára gyűjt könyöradományokat. A baj csak az, hogy mindketten azonos helyen, a Riviéra exkluzív felségterületén szeretnének mindenkit megkopasztani. Ezt a gondot csak egyféleképp lehet megoldani: ha szövetkeznek egymással és ki-ki a maga módján, de mégis közös erővel fosztják ki a hiszékenyeket.",
+  "backdropPath": "/mFV1JHptSBFX4x1K1Qz4Zqb4MwB.jpg",
+  "posterPath": "/aZxgRBcyG4Zz41SvASfXn3fapdq.jpg",
+  "releaseDate": "1988-12-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "07177e15-de23-462e-9f82-5c6d0c3ca944",
+      "title": "A Riviéra vadorzói",
+      "subtitle": null,
+      "timestampString": "03:04:30",
+      "timestampInSeconds": 11070,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #156",
+        "youtubeId": "cklwRxW_tOo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/cklwRxW_tOo/hqdefault.jpg",
+        "durationInMinutes": 258,
+        "releaseDate": 1543425795000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

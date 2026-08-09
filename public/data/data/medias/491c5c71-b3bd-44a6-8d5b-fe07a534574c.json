@@ -1,0 +1,37 @@
+{
+  "id": "491c5c71-b3bd-44a6-8d5b-fe07a534574c",
+  "title": "Véres gyémánt",
+  "originalTitle": "Blood Diamond",
+  "overview": "Solomon, akit elválasztanak a családjától és arra kényszerítenek, hogy a gyémántmezőkön dolgozzon, egy nap különleges drágakövet talál, amit élete kockáztatásával elrejt, hogy az érte kapott pénzzel megmentse a családját. Archer, az exzsoldos tudomást szerez a kincsről és Mady Bowen újságírónő közvetítésével Solomon mellé szegődik abban a reményben, hogy a kincs sikeres értékesítésével ő is jól jár és végre elhagyhatja Afrikát. A két ember sorsa végzetesen összefonódik az életveszélyes vállalkozás során.",
+  "backdropPath": "/dZ8BVgAMxUpM9t5flLeQbtTX7Zq.jpg",
+  "posterPath": "/4Rj4N2nxXzK1HprWu33aQ24hIPl.jpg",
+  "releaseDate": "2006-12-08T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c8ac9bb2-7a68-461b-945d-bd22fb04be91",
+      "title": "Véres gyémánt",
+      "subtitle": null,
+      "timestampString": "01:07:19",
+      "timestampInSeconds": 4039,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #52",
+        "youtubeId": "z5hnMqJSVxs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z5hnMqJSVxs/hqdefault.jpg",
+        "durationInMinutes": 121,
+        "releaseDate": 1403347391000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

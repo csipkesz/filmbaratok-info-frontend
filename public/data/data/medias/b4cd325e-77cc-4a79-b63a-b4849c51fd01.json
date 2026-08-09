@@ -1,0 +1,45 @@
+{
+  "id": "b4cd325e-77cc-4a79-b63a-b4849c51fd01",
+  "title": "Ocean's Eleven – Tripla vagy semmi",
+  "originalTitle": "Ocean's Eleven",
+  "overview": "Három alapszabály van: senki ne sérüljön meg, senkit ne érjen kár és játssz úgy, mintha nem volna veszteni valód. Danny Ocean 24 órával feltételes szabadlábra helyezése után már új, eddigi legmerészebb tervén dolgozik. Egy nagy bokszmeccs éjszakáján Las Vegas három legnagyobb kaszinóját akarja kirabolni. A bandája csupa különleges emberekből áll. Mindannyian profik, akik tudják: a tét 150 millió dollár. Azt, hogy a három kaszinónak ugyanaz a tulajdonosa és Ocean egykori feleségével jár mostanában, azt egyikük sem sejti.",
+  "backdropPath": "/ncoqdHs1poUaBqyKic9YI8ai7MP.jpg",
+  "posterPath": "/jcwEsTcEWirY0FpSQ8u8pKQixSc.jpg",
+  "releaseDate": "2001-12-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4d16694d-6ed9-475a-b6ad-561998cab65d",
+      "title": "Ocean's Eleven – Tripla vagy semmi",
+      "subtitle": null,
+      "timestampString": "00:46:02",
+      "timestampInSeconds": 2762,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #61",
+        "youtubeId": "lu3n5Wpq2k0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/lu3n5Wpq2k0/hqdefault.jpg",
+        "durationInMinutes": 185,
+        "releaseDate": 1415901482000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

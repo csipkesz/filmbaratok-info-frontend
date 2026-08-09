@@ -1,0 +1,41 @@
+{
+  "id": "9fca4fe2-c215-4736-82d8-8701e3c51aa3",
+  "title": "Ragadozó városok",
+  "originalTitle": "Mortal Engines",
+  "overview": "Évezredekkel azután, hogy a civilizációt elpusztította egy kataklizmikus esemény, az emberiség alkalmazkodott a körülményekhez, és új életmódot fejlesztett ki. Hatalmas mozgó városok róják a föld felszínét, és könyörtelenül vadásznak a kisebb városokra. Tom Natsworthy, aki a mozgó London város egyik alsó soráról származik, találkozik a veszélyes szökevénnyel, Hester Shaw-val, és kisvártatva a saját életéért kell küzdenie...  A két ellenlábas, akiknek sosem kellett volna találkozniuk, váratlanul szövetségre lép, hogy megváltoztassa a jövő alakulását...",
+  "backdropPath": "/rm2oMykm5nX6SzXFr7TGHkO6r8Z.jpg",
+  "posterPath": "/eGzLG4vi4TUQGo97lX1UPoJJtxR.jpg",
+  "releaseDate": "2018-11-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "71abcc03-3711-48b9-b224-ee040388cc48",
+      "title": "Ragadozó városok",
+      "subtitle": null,
+      "timestampString": "02:03:03",
+      "timestampInSeconds": 7383,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #160",
+        "youtubeId": "_a3zVw9qNvs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_a3zVw9qNvs/hqdefault.jpg",
+        "durationInMinutes": 196,
+        "releaseDate": 1547731556000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

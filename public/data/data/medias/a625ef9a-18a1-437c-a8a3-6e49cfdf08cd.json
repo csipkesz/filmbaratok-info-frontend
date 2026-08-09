@@ -1,0 +1,41 @@
+{
+  "id": "a625ef9a-18a1-437c-a8a3-6e49cfdf08cd",
+  "title": "Fegyverek",
+  "originalTitle": "Weapons",
+  "overview": "Egy kisvárosi iskolában rejtélyes esemény történik: egy reggel az egyik osztályterem üresen marad. A biztonsági kamerák felvételei szerint az előző éjjel az összes gyerek ugyanabban a pillanatban kelt fel, ment ki az utcára – és örökre eltűnt. Senki sem tudja, mi történt, a város lakói pedig döbbenten kutatnak a válaszok után.",
+  "backdropPath": "/8VyTWJrNEyV2MTWvniDVp0MpOAe.jpg",
+  "posterPath": "/uUOX2lv1O9LptSEbTm0OJC193Nj.jpg",
+  "releaseDate": "2025-08-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "282aacc5-7a57-4019-87eb-eb2ace3a9a90",
+      "title": "Fegyverek [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "02:55:30",
+      "timestampInSeconds": 10530,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #308",
+        "youtubeId": "JX8Yhmv3ho0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JX8Yhmv3ho0/hqdefault.jpg",
+        "durationInMinutes": 210,
+        "releaseDate": 1755468901000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "dcb58af3-9bb4-4759-a7bb-a1fa6622a58a",
+  "title": "LA 92",
+  "originalTitle": "LA 92",
+  "overview": "1991 tavaszán egy Rodney King nevű színes bőrű motorost egy autós üldözés után brutálisan megvert négy fehér bőrű rendőr Los Angeles-ben. Egy közeli ház erkélyéről valaki videóra vette az ütlegelést, így a rendőröket nem sokkal később bíróság állították – ám ártatlannak ítéltettek. Az ítélet nyilvánosságra kerülése után az amerikai történelem egyik legsúlyosabb zavargása tört ki a városban…",
+  "backdropPath": "/lj79NEheTtAqHXjNvWaIPjd7ERe.jpg",
+  "posterPath": "/oT7OmkAoVnYDa8XbGipCEj6PVmN.jpg",
+  "releaseDate": "2017-04-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1d7f216f-99e2-424d-8a96-1ce0021fe06e",
+      "title": "LA 92",
+      "subtitle": null,
+      "timestampString": "02:58:30",
+      "timestampInSeconds": 10710,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #125",
+        "youtubeId": "4TEl2okYMLY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/4TEl2okYMLY/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1500394983000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "ff248333-0d00-40bd-af3c-6049f0a070c6",
+            "name": "Szöllőskei Gábor"
+          }
+        ]
+      }
+    }
+  ]
+}

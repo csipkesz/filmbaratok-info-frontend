@@ -1,0 +1,45 @@
+{
+  "id": "c2b8f700-f915-4524-83f8-c7bdbdb1deaa",
+  "title": "Death Note (2017)",
+  "originalTitle": "Death Note",
+  "overview": "Light Truner, a visszahúzódó gimnazista tinédzser ölébe hullik a Halállista névre hallgató, természetfeletti erővel rendelkező jegyzetfüzet, melybe ha beleírja valaki nevét - akinek nem csak a nevét, de az arcát is ismeri -, akkor az az illető meghal. A jegyzetfüzettel jön annak eredeti birtokosa és megalkotója, Ryuk, a haláldémon is (Willem Dafoe hátborzongató hangján megszólalva), aki ugyan nem szól bele abba, hogy Light mire használja a füzetet, de azért terelgeti őt az úton. Azon az úton, amely ugyan - a klisével élve - jó szándékkal van kikövezve, végül a pokolba vezet.",
+  "backdropPath": "/nDAbr3NSkkOMIkFrQ3ycVxzgaMc.jpg",
+  "posterPath": "/hMLy5G1Mn6XSuHXjPCLiBp3FoRX.jpg",
+  "releaseDate": "2017-08-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7db45730-00b4-4a0f-864f-aaac4031cd25",
+      "title": "Death Note (2017)",
+      "subtitle": null,
+      "timestampString": "02:49:40",
+      "timestampInSeconds": 10180,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #128",
+        "youtubeId": "YoKRZAg1KR0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/YoKRZAg1KR0/hqdefault.jpg",
+        "durationInMinutes": 252,
+        "releaseDate": 1505410953000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "b6e5e2e1-9979-4e5e-8c7a-e29aaee8a25d",
+  "title": "Batman kezdődik",
+  "originalTitle": "Batman Begins",
+  "overview": "Bruce Wayne, az árva milliomos önszántából járja meg az erőszak poklát, amikor Henri Ducard, a keleti mester a harcosai közé veszi és tökéletesen kiképzi. Wayne azonban nem osztozik mestere elvakult nézeteiben és visszatér Gotham Citybe. Célja, hogy az igazságtalanság ellen harcoljon minden lehetséges eszközzel. A várost azonban megfertőzte a korrupció, csak a fiatal ügyésznő, Rachel és James Gordon nyomozó mernek szembeszállni Ra's Al Ghul embereivel.",
+  "backdropPath": "/9IIBboV7MCT0bTxzXHmWK1Hq558.jpg",
+  "posterPath": "/A92FwaxylVAEC1g88ncRjPNupJE.jpg",
+  "releaseDate": "2005-06-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e15b0b07-d134-4405-83e6-61c024eebab2",
+      "title": "Batman kezdődik",
+      "subtitle": null,
+      "timestampString": "02:46:52",
+      "timestampInSeconds": 10012,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #299",
+        "youtubeId": "xjwmsXHThGE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/xjwmsXHThGE/hqdefault.jpg",
+        "durationInMinutes": 200,
+        "releaseDate": 1742750106000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

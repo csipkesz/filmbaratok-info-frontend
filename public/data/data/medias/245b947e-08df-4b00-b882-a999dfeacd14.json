@@ -1,0 +1,41 @@
+{
+  "id": "245b947e-08df-4b00-b882-a999dfeacd14",
+  "title": "New Kids Turbo",
+  "originalTitle": "New Kids Turbo",
+  "overview": "A New Kids egy Comedy central tv csatornán látható komédia-paródia sorozat mozira vitt filmje. Főszereplői \"menő csávók\" a grundról, sört isznak, gyorsulnak utcában és ráadásul utca seprők.Az öt barátot Maaskantje-ből a gazdasági válság miatt kirúgták. Úgy döntenek, hogy többet már nem fizetnek semmiért. Sört és ételt lopnak, de a rendőrség ezt nem nézi jó szemmel. A szerencsétlen, hülye zsaru nem tudja leállítani őket, úgyhogy a helyi rendőrség bevon más zsarukat is..",
+  "backdropPath": "/fkZFA9SHDijvl2tPxZRWogAJeWm.jpg",
+  "posterPath": "/qrrgS5mKY8np25tWqG75sqOaXRF.jpg",
+  "releaseDate": "2010-12-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6bf6dd85-29b5-4b8f-94fd-3ad7947ecfd4",
+      "title": "New Kids Turbo",
+      "subtitle": null,
+      "timestampString": "02:50:00",
+      "timestampInSeconds": 10200,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #56",
+        "youtubeId": "IGq19Ebu3DU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IGq19Ebu3DU/hqdefault.jpg",
+        "durationInMinutes": 199,
+        "releaseDate": 1409327568000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

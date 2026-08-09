@@ -1,0 +1,45 @@
+{
+  "id": "cedf0915-0a71-4aa4-ad85-886a09925ef6",
+  "title": "Háromezer év vágyakozás",
+  "originalTitle": "Three Thousand Years of Longing",
+  "overview": "Dr. Alithea Binnie elégedett magányos, emberektől elszigetelődött életével. Azonban a tudományt és logikát mindennél többre tartó nő élete fenekestül felfordul, mikor egy isztambuli útja során összesodorja a sors egy dzsinnel. A mágikus lény mindenképp szeretné teljesíteni a nő három kívánságát, de Alithea ebbe nem akar belemenni, hisz számos monda megörökítette már, milyen balul sül el általában, ha valaki varázslat útján szeretne elérni valamit. Hogy a nőt meggyőzze ennek ellenkezőjéről, a dzsinn történeteket mesél neki hosszú és izgalmas élete különböző állomásairól. Végül Alithea kötélnek áll, ám kívánsága nem csak a dzsinnt, de még őt magát is meglepi.",
+  "backdropPath": "/90IcDDC47Rck4D2fyZbpZ1rbFZW.jpg",
+  "posterPath": "/wJAfi5oZZVpXsnaYWiwJCJZjgeT.jpg",
+  "releaseDate": "2022-08-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0c17f558-4a05-488c-b1a9-b8aead4710d2",
+      "title": "Háromezer év vágyakozás",
+      "subtitle": null,
+      "timestampString": "02:43:55",
+      "timestampInSeconds": 9835,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #239",
+        "youtubeId": "fLgXm-yTEGg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fLgXm-yTEGg/hqdefault.jpg",
+        "durationInMinutes": 259,
+        "releaseDate": 1663259409000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

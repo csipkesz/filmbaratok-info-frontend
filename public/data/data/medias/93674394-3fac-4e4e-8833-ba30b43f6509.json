@@ -1,0 +1,41 @@
+{
+  "id": "93674394-3fac-4e4e-8833-ba30b43f6509",
+  "title": "Star Trek: Mindenen túl",
+  "originalTitle": "Star Trek Beyond",
+  "overview": "Az Enterprise az űr felfedezetlen zugaiba merészkedik, ahol egy új, titokzatos ellenséggel találkoznak, és ez a találkozás komoly próbára teszi a legénységet, és mindazt, amit a Föderáció jelent.",
+  "backdropPath": "/sUJrnMbL2xLMjMHk4VdReNrL7BK.jpg",
+  "posterPath": "/6IGCrsLcaAb5O5WO5xZcyDoCCDX.jpg",
+  "releaseDate": "2016-07-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "05ab7f5e-f74e-468f-9e69-efea93c87356",
+      "title": "Star Trek: Mindenen túl",
+      "subtitle": null,
+      "timestampString": "00:28:40",
+      "timestampInSeconds": 1720,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #104",
+        "youtubeId": "OY96XihUHYY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/OY96XihUHYY/hqdefault.jpg",
+        "durationInMinutes": 230,
+        "releaseDate": 1469739871000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

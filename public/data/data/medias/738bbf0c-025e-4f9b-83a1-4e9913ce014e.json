@@ -1,0 +1,41 @@
+{
+  "id": "738bbf0c-025e-4f9b-83a1-4e9913ce014e",
+  "title": "Cop Mortem",
+  "originalTitle": "Cop Mortem",
+  "overview": "A történet hősei budapesti rendőrök, akik egy rituális gyilkosságsorozat tetteseit üldözik. A nyomozásban végletekig kimerült zsaruk egyszerre vadászok és vadak ebben a játszmában, az áldozatok ugyanis egytől-egyig rendőrök. Ebben a kiélezett helyzetben nem fogadják tárt karokkal a Londonból érkező Interpol ügynököt, John Holdont (Kamarás Iván), a sorozatgyilkosságok szakértőjét. Rezes századossal (Páll Zsolt), a gyilkosságiak nyomozójával hol rivalizálva, hol vállvetve, de kérlelhetetlen elszántsággal vetik magukat az elkövetők nyomába. Versenyfutásuk az idővel motoros klubokon, egyetemeken, bérverekedők titkos edzőtermein át vezet. Az életveszélyes akciók és vérre menő küzdelmek során azonban egyre inkább megkérdőjeleződik, valójában ki kinek az oldalán is áll..",
+  "backdropPath": "/1p3y0rT1ngT8JCkgBLJMRily7x0.jpg",
+  "posterPath": "/9FmBNY17qeIzmc6wQkErLBxuBwx.jpg",
+  "releaseDate": "2016-11-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d9eba4b2-1908-4d82-b072-f4ab829fa566",
+      "title": "Cop Mortem",
+      "subtitle": null,
+      "timestampString": "02:15:55",
+      "timestampInSeconds": 8155,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #111",
+        "youtubeId": "klorpdDyo7M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/klorpdDyo7M/hqdefault.jpg",
+        "durationInMinutes": 230,
+        "releaseDate": 1480773115000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

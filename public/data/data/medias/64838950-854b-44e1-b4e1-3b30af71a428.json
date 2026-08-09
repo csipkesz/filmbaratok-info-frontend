@@ -1,0 +1,49 @@
+{
+  "id": "64838950-854b-44e1-b4e1-3b30af71a428",
+  "title": "A hangya",
+  "originalTitle": "Ant-Man",
+  "overview": "A börtönviselt Scott Lang, egy betörés okán szert tesz egy ruhára, amelynek különleges képessége, hogy viselője rendkívül apróra tud zsugorodni, miközben megsokszorozza erejét. A ruha kifejlesztője -Dr. Hank Pym- segítségével próbálják megakadályozni, hogy a technológia rossz kezekbe kerüljön, ehhez pedig végre kell hajtsák az évezred betörését.",
+  "backdropPath": "/1K3JmSNUN8OpjYsCjc0Hy0SYxAb.jpg",
+  "posterPath": "/fMU1EqMW3T87hEf6JHrx64b4tQt.jpg",
+  "releaseDate": "2015-07-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "50df037c-6941-4d96-ab85-1e982650df26",
+      "title": "A hangya",
+      "subtitle": null,
+      "timestampString": "01:12:45",
+      "timestampInSeconds": 4365,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #78",
+        "youtubeId": "MfKijNw0U44",
+        "thumbnailUrl": "https://i.ytimg.com/vi/MfKijNw0U44/hqdefault.jpg",
+        "durationInMinutes": 236,
+        "releaseDate": 1438367365000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "748617b6-5527-4d07-8e10-a79648d06d79",
+            "name": "Zoly"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f7442b58-b6a4-483f-ab1a-f61c46e2fbe1",
+            "name": "Kvízmester"
+          }
+        ]
+      }
+    }
+  ]
+}

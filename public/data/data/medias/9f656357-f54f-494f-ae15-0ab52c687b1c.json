@@ -1,0 +1,45 @@
+{
+  "id": "9f656357-f54f-494f-ae15-0ab52c687b1c",
+  "title": "Szupercella 3. - Az ördögverem",
+  "originalTitle": "Escape Plan: The Extractors",
+  "overview": "Ray Breslin és csapata ismét lehetetlen küldetésre vállalkoznak: az Ördögveremből, egy régi romvárosra épült erődből próbálják kimenteni újdonsült társuk egykori pártfogoltját. A helyszínen azonban hamar világossá válik, hogy semmi sem az, aminek látszik, és a csapatnak halálos próbatételeket kell kiállnia, hogy élve teljesítsék az akciót...",
+  "backdropPath": "/yxmfjj4YiFcJipn9nYVBRxeCvo9.jpg",
+  "posterPath": "/kDWLFhFMzEuC2j1gO5UC4Aabwe6.jpg",
+  "releaseDate": "2019-06-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8fe3e726-8e09-4e1e-a8d5-4c1f790af017",
+      "title": "Szupercella 3. - Az ördögverem",
+      "subtitle": null,
+      "timestampString": "01:30:30",
+      "timestampInSeconds": 5430,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #172",
+        "youtubeId": "ahOskajDN8o",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ahOskajDN8o/hqdefault.jpg",
+        "durationInMinutes": 250,
+        "releaseDate": 1564145413000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "45ffd705-cf46-48a4-bfbc-d54f5ac7e854",
+            "name": "Sorter"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "b955a7c1-8503-46d9-bc44-2bd7d927ff69",
+  "title": "Luke Cage",
+  "originalTitle": "Luke Cage",
+  "overview": null,
+  "backdropPath": null,
+  "posterPath": null,
+  "releaseDate": null,
+  "topics": [
+    {
+      "id": "61b104e4-8910-42a7-8e9a-bacd76252cf7",
+      "title": "Luke Cage",
+      "subtitle": null,
+      "timestampString": "02:10:35",
+      "timestampInSeconds": 7835,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #108",
+        "youtubeId": "zNzDplhnvlg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/zNzDplhnvlg/hqdefault.jpg",
+        "durationInMinutes": 175,
+        "releaseDate": 1476476267000,
+        "participants": [
+          {
+            "id": "1480f5e2-5231-470c-909d-951ce4bc47af",
+            "name": "freddyD"
+          },
+          {
+            "id": "cba90934-2930-4092-81bc-8638e4460039",
+            "name": "Gergő"
+          },
+          {
+            "id": "f56febd5-4e3f-429c-946a-4a4eaf20a597",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}
