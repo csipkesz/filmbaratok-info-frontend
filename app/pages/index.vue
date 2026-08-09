@@ -10,9 +10,12 @@ import type {MediaIndexItem} from "~/models/indexes/media-index-item.ts";
 import type {ContentIndexItem} from "~/models/indexes/content-index-item.ts";
 
 useHead({
-  title: 'Filmbarátok Info - Archívum és Kereső',
+  title: 'Filmbarátok Info',
   meta: [
-    { name: 'description', content: 'Keresd meg és fedezd fel a Filmbarátok podcast adásaiban kibeszélt filmeket és sorozatokat.' }
+    {
+      name: 'description',
+      content: 'Keresd meg és fedezd fel a Filmbarátok podcast adásaiban kibeszélt filmeket és sorozatokat.'
+    }
   ]
 })
 

@@ -113,7 +113,7 @@ import type {MediaIndexItem} from "~/models/indexes/media-index-item.ts";
 import Fuse from "fuse.js";
 
 useHead({
-  title: 'Filmbarátok - Kibeszélt tartalmak',
+  title: 'Filmbarátok info - Kibeszélt tartalmak',
   meta: [
     {
       name: 'description',
