@@ -88,8 +88,8 @@
     <div class="pt-2">
       <NuxtLink
           v-if="dailyMedia"
-          to="/"
-          class="inline-flex items-center justify-center gap-2 rounded-xl bg-marquee/90 hover:bg-marquee text-ink font-semibold text-sm px-5 py-3 transition-all hover:shadow-md active:scale-95"
+          @click="handleMediaSelect()"
+          class="inline-flex items-center justify-center gap-2 rounded-xl bg-marquee/90 hover:bg-marquee text-ink font-semibold text-sm px-5 py-3 transition-all hover:shadow-md active:scale-95 cursor-pointer"
       >
         <span>Megnézem az adásokat</span>
         <UIcon name="i-lucide-arrow-right" class="w-4 h-4"/>
@@ -97,12 +97,16 @@
 
       <USkeleton v-else class="h-11 w-48 rounded-xl bg-white/10"/>
     </div>
+
+    <MediaContentModal v-model="isModalOpen" :media="selectedMedia"/>
   </div>
 </template>
 
 <script setup lang="ts">
 import type {MediaIndexItem} from "~/models/indexes/media-index-item.ts";
 import type {MediaDetail} from "~/models/media-detail.ts";
+import {ref} from "vue";
+import MediaContentModal from "~/components/media-content-modal.vue";
 
 const TMDB_POSTER_BASE = 'https://image.tmdb.org/t/p/w500'
 
@@ -125,6 +129,8 @@ async function fetchDailyCommentaryContent(mediaId: string) {
 }
 
 const dailyMedia = ref<MediaDetail | null>(null)
+const selectedMedia = ref<MediaIndexItem | null>(null)
+const isModalOpen = ref(false)
 
 // Év kiszámítása a releaseDate stringből
 const releaseYear = computed(() => {
@@ -148,8 +154,29 @@ watch(() => props.indexMedias, async (newIndexMedias) => {
 
   try {
     dailyMedia.value = await fetchDailyCommentaryContent(randomMedia.id);
+    selectedMedia.value = randomMedia
   } catch (error) {
     console.error("Hiba a napi téma betöltésekor:", error)
   }
 }, {immediate: true})
+
+function handleMediaSelect() {
+  if (!selectedMedia.value || !selectedMedia.value.contents || selectedMedia.value.contents.length === 0) {
+    return
+  }
+
+  if (selectedMedia.value.contents.length === 1) {
+    const content = selectedMedia.value.contents[0]
+    if (content?.youtubeId) {
+      let url = `https://www.youtube.com/watch?v=${content.youtubeId}`
+      if (content.timestampInSeconds) {
+        url += `&t=${content.timestampInSeconds}s`
+      }
+
+      window.open(url, '_blank', 'noopener,noreferrer')
+    }
+  } else {
+    isModalOpen.value = true
+  }
+}
 </script>
