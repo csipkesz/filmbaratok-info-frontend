@@ -34,54 +34,19 @@
           </div>
 
           <!-- Platforms -->
-          <!--          TODO: Optiimze with component and array with icon, title, link-->
           <div class="space-y-3">
             <p class="font-body text-xs font-bold uppercase tracking-widest text-paper">Filmbarátok Platformok</p>
             <div class="flex flex-col space-y-2 text-sm text-fog">
               <a
-                  href="https://www.youtube.com/@filmbaratokpodcast"
+                  v-for="platform in platforms"
+                  :key="platform.title"
+                  :href="platform.link"
                   target="_blank"
                   rel="noopener"
                   class="flex items-center gap-2 hover:text-paper transition-colors"
               >
-                <UIcon name="i-simple-icons-youtube" class="size-4 text-red-500"/>
-                <span>YouTube</span>
-              </a>
-              <!--              <a-->
-              <!--                  href="https://open.spotify.com/show/4fCq74pC7x5qE82L1j8Nn6"-->
-              <!--                  target="_blank"-->
-              <!--                  rel="noopener"-->
-              <!--                  class="flex items-center gap-2 hover:text-paper transition-colors"-->
-              <!--              >-->
-              <!--                <UIcon name="i-simple-icons-spotify" class="size-4 text-green-500"/>-->
-              <!--                <span>Spotify</span>-->
-              <!--              </a>-->
-              <a
-                  href="https://podcasts.apple.com/hu/podcast/filmbar%C3%A1tok-podcast/id1165929483"
-                  target="_blank"
-                  rel="noopener"
-                  class="flex items-center gap-2 hover:text-paper transition-colors"
-              >
-                <UIcon name="i-simple-icons-applepodcasts" class="size-4 text-purple-400"/>
-                <span>iTunes</span>
-              </a>
-              <a
-                  href="https://soundcloud.com/filmbaratokpodcast"
-                  target="_blank"
-                  rel="noopener"
-                  class="flex items-center gap-2 hover:text-paper transition-colors"
-              >
-                <UIcon name="i-simple-icons-soundcloud" class="size-4 text-red-500"/>
-                <span>SoundCloud</span>
-              </a>
-              <a
-                  href="https://filmbaratok.blog.hu/"
-                  target="_blank"
-                  rel="noopener"
-                  class="flex items-center gap-2 hover:text-paper transition-colors"
-              >
-                <UIcon name="i-simple-icons-wordpress" class="size-4 text-blue-500"/>
-                <span>Hivatalos kereső</span>
+                <UIcon :name="platform.icon" class="size-4"/>
+                <span>{{ platform.title }}</span>
               </a>
             </div>
           </div>
@@ -108,3 +73,25 @@
     </div>
   </footer>
 </template>
+
+<script setup lang="ts">
+const platforms: { icon: string, title: string, link: string }[] = [
+  {icon: 'i-simple-icons-youtube', title: 'YouTube', link: 'https://www.youtube.com/@filmbaratokpodcast'},
+  {icon: 'i-simple-icons-spotify', title: 'Spotify', link: 'https://open.spotify.com/show/6yJdzElUC2xXgoXancHNTL'},
+  {
+    icon: 'i-simple-icons-applepodcasts',
+    title: 'iTunes',
+    link: 'https://podcasts.apple.com/hu/podcast/filmbar%C3%A1tok-podcast/id1165929483'
+  },
+  {
+    icon: 'i-simple-icons-soundcloud',
+    title: 'SoundCloud',
+    link: 'https://soundcloud.com/filmbaratokpodcast'
+  },
+  {
+    icon: 'i-simple-icons-wordpress',
+    title: 'Hivatalos kereső',
+    link: 'https://filmbaratok.blog.hu/'
+  }
+]
+</script>
