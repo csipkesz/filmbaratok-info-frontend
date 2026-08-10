@@ -99,6 +99,7 @@
 import {computed} from 'vue'
 import type {MediaIndexItem} from '~/models/indexes/media-index-item.ts'
 import {getYouTubeUrl} from "~/utils/get-youtube-url.ts";
+import {formatCategory} from "~/utils/format-category.ts";
 
 
 const TMDB_POSTER_BASE = 'https://image.tmdb.org/t/p/w500'
@@ -120,24 +121,6 @@ const isOpen = computed({
   get: () => props.modelValue,
   set: (value: boolean) => emit('update:modelValue', value),
 })
-
-//TODO: i18n or composable
-function formatCategory(cat: string): string {
-  switch (cat) {
-    case 'PODCAST':
-      return 'Podcast'
-    case 'EXPRESS':
-      return 'Express'
-    case 'AUDIO_COMMENTARY':
-      return 'Audiokommentár'
-    case 'ON_SITE':
-      return 'Helyszíni'
-    case 'GAME':
-      return 'Játék'
-    default:
-      return cat
-  }
-}
 
 // TODO: We have it at server, but stay for now.
 function formatTimestamp(seconds?: number): string {

@@ -112,6 +112,7 @@ import {useIntersectionObserver} from '@vueuse/core'
 import type {MediaIndexItem} from "~/models/indexes/media-index-item.ts";
 import Fuse from "fuse.js";
 import {getYouTubeUrl} from "~/utils/get-youtube-url.ts";
+import {FilmbaratokCategory} from "~/models/enums.ts";
 
 useHead({
   title: 'Filmbarátok info - Kibeszélt tartalmak',
@@ -139,9 +140,9 @@ const isModalOpen = ref(false)
 
 const categoryFilters = [
   {label: 'Összes', value: 'ALL'},
-  {label: 'Podcast', value: 'PODCAST'},
-  {label: 'Expressz', value: 'EXPRESS'},
-  {label: 'Audiokommentár', value: 'AUDIO_COMMENTARY'},
+  {label: 'Podcast', value: FilmbaratokCategory.PODCAST},
+  {label: 'Expressz', value: FilmbaratokCategory.EXPRESS},
+  {label: 'Audiokommentár', value: FilmbaratokCategory.AUDIO_COMMENTARY},
   // { label: 'Helyszíni', value: 'ON_SITE' },
   // { label: 'Játék', value: 'GAME' },
 ]

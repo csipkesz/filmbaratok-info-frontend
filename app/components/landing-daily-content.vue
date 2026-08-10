@@ -15,7 +15,7 @@
             v-if="dailyContent"
             class="rounded-md bg-white/5 border border-white/10 px-2 py-0.5 text-[10px] font-mono font-semibold uppercase tracking-wider text-fog/90"
         >
-          {{ formattedCategory }}
+          {{ formatCategory(dailyContent.category) }}
         </div>
       </div>
 
@@ -121,6 +121,7 @@
 
 <script setup lang="ts">
 import type {ContentIndexItem} from "~/models/indexes/content-index-item.ts";
+import {formatCategory} from "~/utils/format-category.ts";
 
 const seededRandom = useSeededRandom()
 
@@ -142,25 +143,6 @@ const formattedDate = computed(() => {
     month: 'short',
     day: 'numeric'
   }).format(date);
-})
-
-// Format raw category Enum string into presentable label
-const formattedCategory = computed(() => {
-  const cat = dailyContent.value?.category;
-  if (!cat) {
-    return '';
-  }
-  
-  switch (cat) {
-    case 'PODCAST':
-      return 'Podcast';
-    case 'EXPRESS':
-      return 'Express';
-    case 'AUDIO_COMMENTARY':
-      return 'Audiokommentár';
-    default:
-      return cat;
-  }
 })
 
 watch(() => props.indexContents, async (newIndexContents) => {

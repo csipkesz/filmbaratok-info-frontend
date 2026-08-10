@@ -67,6 +67,7 @@
 <script setup lang="ts">
 import {computed} from 'vue'
 import type {MediaIndexItem} from '~/models/indexes/media-index-item.ts'
+import {formatCategory} from "~/utils/format-category.ts";
 
 const TMDB_POSTER_BASE = 'https://image.tmdb.org/t/p/w500'
 
@@ -98,20 +99,4 @@ const uniqueCategories = computed(() => {
   return Array.from(new Set(categories))
 })
 
-function formatCategory(cat: string): string {
-  switch (cat) {
-    case 'PODCAST':
-      return 'Podcast'
-    case 'EXPRESS':
-      return 'Express'
-    case 'AUDIO_COMMENTARY':
-      return 'Audiokommentár'
-    case 'ON_SITE':
-      return 'Helyszíni'
-    case 'GAME':
-      return 'Játék'
-    default:
-      return cat
-  }
-}
 </script>
