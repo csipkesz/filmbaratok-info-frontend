@@ -119,15 +119,7 @@ const props = defineProps({
 })
 
 const seededRandom = useSeededRandom()
-
-async function fetchDailyCommentaryContent(mediaId: string) {
-  const mediaDetail = await $fetch<MediaDetail | null>(`/data/data/medias/${mediaId}.json`);
-  if (!mediaDetail) {
-    throw new Error(`Media detail not found: ${mediaId}`)
-  }
-
-  return mediaDetail;
-}
+const jsonRepo = useJsonRepo()
 
 const dailyMedia = ref<MediaDetail | null>(null)
 const selectedMedia = ref<MediaIndexItem | null>(null)
@@ -153,12 +145,12 @@ watch(() => props.indexMedias, async (newIndexMedias) => {
   const randomIndex = seededRandom.getDailyIndex(newIndexMedias.length)
   const randomMedia = newIndexMedias[randomIndex] as MediaIndexItem
 
-  try {
-    dailyMedia.value = await fetchDailyCommentaryContent(randomMedia.id);
-    selectedMedia.value = randomMedia
-  } catch (error) {
-    console.error("Hiba a napi téma betöltésekor:", error)
+  dailyMedia.value = await jsonRepo.fetchMediaDetail(randomMedia.id);
+  if (!dailyMedia.value) {
+    throw new Error('Daily media not found: ' + randomMedia.id)
   }
+
+  selectedMedia.value = randomMedia
 }, {immediate: true})
 
 function handleMediaSelect() {

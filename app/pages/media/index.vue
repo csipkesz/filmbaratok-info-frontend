@@ -124,6 +124,7 @@ useHead({
 })
 
 const PAGE_SIZE = 24
+const jsonRepo = useJsonRepo()
 
 const allMedias = ref<MediaIndexItem[]>([])
 const isLoading = ref(true)
@@ -146,14 +147,8 @@ const categoryFilters = [
 ]
 
 onMounted(async () => {
-  try {
-    const data = await $fetch<MediaIndexItem[]>('/data/index/medias.json')
-    allMedias.value = data || []
-  } catch (e) {
-    console.error('Error on load medias index:', e)
-  } finally {
-    isLoading.value = false
-  }
+  allMedias.value = await jsonRepo.fetchIndex('medias');
+  isLoading.value = false
 })
 
 // TODO: Merge search result grid and this functionality

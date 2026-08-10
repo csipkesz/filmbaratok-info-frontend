@@ -135,15 +135,7 @@ const dailyCommentaryMedia = ref<MediaDetail | null>(null)
 const dailyCommentaryContent = ref<ContentDetail | null>(null)
 
 const seededRandom = useSeededRandom()
-
-async function fetchDailyCommentaryContent(mediaId: string) {
-  const mediaDetail = await $fetch<MediaDetail | null>(`/data/data/medias/${mediaId}.json`);
-  if (!mediaDetail) {
-    throw new Error(`Media detail not found: ${mediaId}`)
-  }
-
-  return mediaDetail;
-}
+const jsonRepo = useJsonRepo()
 
 watch(() => props.indexMedias, async (newIndexMedias) => {
   if (newIndexMedias && newIndexMedias.length > 0) {
@@ -157,16 +149,16 @@ watch(() => props.indexMedias, async (newIndexMedias) => {
       const randomIndex = seededRandom.getDailyIndex(commentaryMedias.length)
       const selectedMedia = commentaryMedias[randomIndex] as MediaIndexItem
 
-      try {
-        const detail = await fetchDailyCommentaryContent(selectedMedia.id);
-        dailyCommentaryMedia.value = detail
-
-        dailyCommentaryContent.value = detail.topics
-            .flatMap(t => t.content)
-            .find((c) => c.category === FilmbaratokCategory.AUDIO_COMMENTARY) as ContentDetail
-      } catch (error) {
-        console.error("Hiba az audiokommentár betöltésekor:", error)
+      const detail = await jsonRepo.fetchMediaDetail(selectedMedia.id);
+      if (!detail) {
+        throw new Error(`Media detail not found: ${selectedMedia.id}`)
       }
+      dailyCommentaryMedia.value = detail
+
+      dailyCommentaryContent.value = detail.topics
+          .flatMap(t => t.content)
+          .find((c) => c.category === FilmbaratokCategory.AUDIO_COMMENTARY) as ContentDetail
+
     }
   }
 }, {immediate: true})
