@@ -64,9 +64,9 @@
           </p>
         </div>
 
-        <!-- Copyright -->
         <div class="text-center sm:text-right text-[11px]">
-          {{ new Date().getFullYear() }} Filmbarátok Info - Hobbi Projekt
+          {{ new Date().getFullYear() }} Filmbarátok Info - Hobbi Projekt by <a target="_blank"
+                                                                                href="https://github.com/csipkesz">csipkesz</a>
         </div>
       </div>
 
