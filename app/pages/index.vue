@@ -8,6 +8,7 @@ import LandingDailyContent from "~/components/landing-daily-content.vue";
 import SearchResultGrid from "~/components/search-result-grid.vue";
 import type {MediaIndexItem} from "~/models/indexes/media-index-item.ts";
 import type {ContentIndexItem} from "~/models/indexes/content-index-item.ts";
+import {useJsonRepo} from "~/composables/use-json-repo.ts";
 
 useHead({
   title: 'Filmbarátok Info',
@@ -21,6 +22,7 @@ useHead({
 
 const indexMedias = ref<MediaIndexItem[]>([])
 const indexContents = ref<ContentIndexItem[]>([])
+const jsonRepo = useJsonRepo();
 
 // Local reactive search query state (NO router synchronization)
 const searchQuery = ref('')
@@ -29,19 +31,8 @@ const searchQuery = ref('')
 const isSearching = computed(() => searchQuery.value.trim().length > 0)
 
 onMounted(async () => {
-  try {
-    const mediaIndex = await $fetch<MediaIndexItem[]>('/data/index/medias.json')
-    indexMedias.value = mediaIndex || [];
-  } catch (e) {
-    console.error('Error loading on medias index: ', e)
-  }
-
-  try {
-    const contentIndex = await $fetch<ContentIndexItem[]>('/data/index/contents.json')
-    indexContents.value = contentIndex || [];
-  } catch (e) {
-    console.error('Error loading on contents index: ', e)
-  }
+  indexMedias.value = await jsonRepo.fetchIndex('medias');
+  indexContents.value = await jsonRepo.fetchIndex('contents');
 })
 </script>
 

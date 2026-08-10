@@ -112,6 +112,7 @@ import {useIntersectionObserver} from '@vueuse/core'
 import type {MediaIndexItem} from "~/models/indexes/media-index-item.ts";
 import Fuse from "fuse.js";
 import {getYouTubeUrl} from "~/utils/get-youtube-url.ts";
+import {FilmbaratokCategory} from "~/models/enums.ts";
 
 useHead({
   title: 'Filmbarátok info - Kibeszélt tartalmak',
@@ -124,6 +125,7 @@ useHead({
 })
 
 const PAGE_SIZE = 24
+const jsonRepo = useJsonRepo()
 
 const allMedias = ref<MediaIndexItem[]>([])
 const isLoading = ref(true)
@@ -138,22 +140,16 @@ const isModalOpen = ref(false)
 
 const categoryFilters = [
   {label: 'Összes', value: 'ALL'},
-  {label: 'Podcast', value: 'PODCAST'},
-  {label: 'Expressz', value: 'EXPRESS'},
-  {label: 'Audiokommentár', value: 'AUDIO_COMMENTARY'},
+  {label: 'Podcast', value: FilmbaratokCategory.PODCAST},
+  {label: 'Expressz', value: FilmbaratokCategory.EXPRESS},
+  {label: 'Audiokommentár', value: FilmbaratokCategory.AUDIO_COMMENTARY},
   // { label: 'Helyszíni', value: 'ON_SITE' },
   // { label: 'Játék', value: 'GAME' },
 ]
 
 onMounted(async () => {
-  try {
-    const data = await $fetch<MediaIndexItem[]>('/data/index/medias.json')
-    allMedias.value = data || []
-  } catch (e) {
-    console.error('Error on load medias index:', e)
-  } finally {
-    isLoading.value = false
-  }
+  allMedias.value = await jsonRepo.fetchIndex('medias');
+  isLoading.value = false
 })
 
 // TODO: Merge search result grid and this functionality

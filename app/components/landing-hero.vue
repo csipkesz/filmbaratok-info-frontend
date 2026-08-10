@@ -50,6 +50,8 @@
 import {watchDebounced} from "@vueuse/core";
 
 const TMDB_BACKDROP_BASE = 'https://image.tmdb.org/t/p/w1280'
+const jsonRepo = useJsonRepo()
+
 const query = defineModel<string>('search-query', {default: ''})
 const heroBackdrop = ref('')
 
@@ -71,15 +73,15 @@ watch(query, (newVal) => {
 })
 
 onMounted(async () => {
-  try {
-    const backdrops = await $fetch<string[]>('/data/data/backdrops.json')
-    if (backdrops && backdrops.length > 0) {
-      const randomIndex = Math.floor(Math.random() * backdrops.length)
-      heroBackdrop.value = `${TMDB_BACKDROP_BASE}${backdrops[randomIndex]}`
-    }
-  } catch (err) {
-    console.error('Error landing hero backdrop loading: ', err)
+  const backdrops = await jsonRepo.fetchBackdrops();
+  if (!backdrops.length) {
+    console.error('No backdrops found')
+    return
   }
+
+  const randomIndex = Math.floor(Math.random() * backdrops.length)
+  heroBackdrop.value = `${TMDB_BACKDROP_BASE}${backdrops[randomIndex]}`
+
 })
 </script>
 
