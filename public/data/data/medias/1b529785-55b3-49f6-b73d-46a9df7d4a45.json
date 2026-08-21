@@ -1,0 +1,45 @@
+{
+  "id": "1b529785-55b3-49f6-b73d-46a9df7d4a45",
+  "title": "A cipőbűvölő",
+  "originalTitle": "The Cobbler",
+  "overview": "Egy magányos New York-i cipész hirtelen ráeszmél, hogy elment mellette az élet. Amikor rálel a családi örökségre, amely mágikus módon lehetővé teszi, hogy mások (cipőjébe) helyébe kerüljön, minden megváltozik.",
+  "backdropPath": "/ysSUDoBeG5oIz7e4vkTtsuGBXfe.jpg",
+  "posterPath": "/dd8FcUv27Akpo53T86QTPgkMZW1.jpg",
+  "releaseDate": "2014-09-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "25e2d4a5-4375-4e72-985f-bb7da4125bc5",
+      "title": "A cipőbűvölő",
+      "subtitle": null,
+      "timestampString": "01:22:32",
+      "timestampInSeconds": 4952,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #73",
+        "youtubeId": "CojqY6DJFQM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/CojqY6DJFQM/hqdefault.jpg",
+        "durationInMinutes": 197,
+        "releaseDate": 1431625186000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

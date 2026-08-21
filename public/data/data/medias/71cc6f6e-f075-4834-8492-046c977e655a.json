@@ -1,0 +1,41 @@
+{
+  "id": "71cc6f6e-f075-4834-8492-046c977e655a",
+  "title": "A túlélő",
+  "originalTitle": "Lone Survivor",
+  "overview": "2005. június 28-án a Navy Seals négy tagját veszélyes és titkos akcióba küldik Afganisztán Hindu Kush régiójában. A Vörös Szárnyak fedőnevű küldetés célja magas rangú tálib vezetők semlegesítése. Azonban a küldetés balul sül el, a csapatra ellenséges erők támadnak, s a négy katona csakhamar magára marad, minimális eséllyel a túlélésre.",
+  "backdropPath": "/hmEbQB5UlcwobldcSDNlLZiUnmA.jpg",
+  "posterPath": "/oRbsgb9W5TpXsjvyHxN9QtyhedY.jpg",
+  "releaseDate": "2013-12-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6738534f-7fb0-4e2e-a486-750527e93c92",
+      "title": "A túlélő",
+      "subtitle": null,
+      "timestampString": "00:57:40",
+      "timestampInSeconds": 3460,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #45",
+        "youtubeId": "9hNSnIZK61I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9hNSnIZK61I/hqdefault.jpg",
+        "durationInMinutes": 145,
+        "releaseDate": 1392563971000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

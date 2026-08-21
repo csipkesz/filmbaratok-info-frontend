@@ -1,0 +1,45 @@
+{
+  "id": "c41c4d69-a747-490e-aee0-f30e522cc040",
+  "title": "Apostle",
+  "originalTitle": "Apostle",
+  "overview": "Egy férfi megpróbálja kiszabadítani húgát, akit foglyul ejtettek egy szekta tagjai.",
+  "backdropPath": "/tvGTSdLjKJgFHTcF4x9HSxoTIgW.jpg",
+  "posterPath": "/rd269f2Yftxxam3EOJPYVwrvjIJ.jpg",
+  "releaseDate": "2018-09-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4325946b-f046-4f48-a9d1-151e48a2a0b9",
+      "title": "Apostle",
+      "subtitle": null,
+      "timestampString": "02:39:10",
+      "timestampInSeconds": 9550,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #154",
+        "youtubeId": "8kJ3-leKXJo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/8kJ3-leKXJo/hqdefault.jpg",
+        "durationInMinutes": 220,
+        "releaseDate": 1541001500000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

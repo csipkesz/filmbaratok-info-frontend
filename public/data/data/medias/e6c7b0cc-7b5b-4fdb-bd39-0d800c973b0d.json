@@ -1,0 +1,45 @@
+{
+  "id": "e6c7b0cc-7b5b-4fdb-bd39-0d800c973b0d",
+  "title": "Peninsula: Holtak szigete",
+  "originalTitle": "반도",
+  "overview": "Jung-seok a katona, aki korábban elmenekült a beteg sivatagból, újraéli a rémületet, amikor két egyszerű célú küldetéssel bízzák meg: \"hozza vissza és élje túl\". Amikor csapata váratlanul belebotlik a túlélőkbe, életük attól függ, hogy az emberi természet legjobb vagy legrosszabb oldala érvényesül ezen körülmények között...",
+  "backdropPath": "/gEjNlhZhyHeto6Fy5wWy5Uk3A9D.jpg",
+  "posterPath": "/s6Vd7mrQza9waXQ3WmauuLEjuqH.jpg",
+  "releaseDate": "2020-07-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a29d778b-a925-44f8-8d7b-3f6368e95110",
+      "title": "Peninsula: Holtak szigete",
+      "subtitle": null,
+      "timestampString": "01:26:20",
+      "timestampInSeconds": 5180,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #198",
+        "youtubeId": "A61oXuDlUgE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/A61oXuDlUgE/hqdefault.jpg",
+        "durationInMinutes": 168,
+        "releaseDate": 1601560074000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

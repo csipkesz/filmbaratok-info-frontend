@@ -1,0 +1,41 @@
+{
+  "id": "c9dcc4a9-6e73-4af6-b0c4-2e522d7745ed",
+  "title": "Idétlen időkig",
+  "originalTitle": "Groundhog Day",
+  "overview": "Az időjós Phil önző, cinikus szűklátókörű alak, aki utálja a világot és pokollá teszi mások életét. Amikor vidékről kell tudósítania, már alig várja, hogy visszatérhessen Pittsburghbe a \"száműzetéséből\". Ebben azonban megakadályozza a váratlan hóvihar, amelyről azt jósolta, hogy nagy ívben elkerüli a környéket. Másnap reggel különös dolog történik vele: úgy érzi megismétlődik vele az előző nap, minden nyomorúságával együtt. A következő nap sem változik a helyzet, megint minden újra megismétlődik. A kétségbeesett Phil orvoshoz, majd pszichiáterhez fordul segítségért.",
+  "backdropPath": "/4W6RYDNe4OByNryOCvJprrutm9h.jpg",
+  "posterPath": "/gf0P5ZY74QriyrhgmfG7XpBhCtY.jpg",
+  "releaseDate": "1993-02-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8a2c981f-94dd-4980-9bc7-40ffce5d597c",
+      "title": "Idétlen időkig",
+      "subtitle": null,
+      "timestampString": "01:47:09",
+      "timestampInSeconds": 6429,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #54",
+        "youtubeId": "z2MBRvmBR0k",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z2MBRvmBR0k/hqdefault.jpg",
+        "durationInMinutes": 188,
+        "releaseDate": 1406308806000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7ee17e3c-b6d4-4903-8ee9-1a163cc3a0ea",
+  "title": "Polar Expressz",
+  "originalTitle": "The Polar Express",
+  "overview": "Főhősünk még csak tíz éves, de már majdnem biztos benne, hogy a Mikulás nem létezik és a karácsony csak a szülők trükkje, amikor az éjszaka közepén, hatalmas robajjal csillogó fekete vonat áll meg közvetlenül a házuk előtt. A kalauz azt mondja, egyenest érte jöttek. Miután hitetlen hősünk habozva felszáll, a Polar Expressz pöfögve megindul: apró, pizsamás utasaival az Északi-sarkra, hogy részesei lehessenek annak az ünnepi pillanatnak, amikor a Mikulás a manók jelenlétében átadja az általa választott gyermeknek az első karácsonyi ajándékot.",
+  "backdropPath": "/jtOvTVlkF8TlaOq94oNXRc9u2yp.jpg",
+  "posterPath": "/iJMKyiD6lwP7BYk5zDNVGEvG46W.jpg",
+  "releaseDate": "2004-11-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "46f473ca-bcb9-4d33-8af8-be56452e295e",
+      "title": "Polar Expressz",
+      "subtitle": null,
+      "timestampString": "03:24:20",
+      "timestampInSeconds": 12260,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #231",
+        "youtubeId": "GwvFCLoE8cY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GwvFCLoE8cY/hqdefault.jpg",
+        "durationInMinutes": 252,
+        "releaseDate": 1650126613000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "19436f88-a19a-453d-9bc6-3ecb8b770485",
+  "title": "Egy kis szívesség",
+  "originalTitle": "A Simple Favor",
+  "overview": "Stephanie, az egyedülálló blogger anyuka nyugodt, kisvárosi élete egy csapásra megváltozik, mikor megismerkedik a gyönyörű és titokzatos Emilyvel. Egy nap Stephanie-t felhívja újdonsült barátnője és egy kis szívességre kéri, ami váratlan események sorozatát indítja el. Emily rejtélyes módon eltűnik és az aggódó Stephanie blogja olvasóihoz valamint Emily jóképű férjéhez, Seanhoz fordul segítségért. Az eltűnt nő utáni nyomozás során sötét titkok kerülnek a felszínre, ami meghökkentő fordulatot hoz mindenki életébe.",
+  "backdropPath": "/1Qd8vjISNiKNT2l5PxkJZpItyW3.jpg",
+  "posterPath": "/amJlIHZsfjJDGe9Dd7oi3fwkW0l.jpg",
+  "releaseDate": "2018-09-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f21c67d5-ce90-4604-a0f9-db71f13d400e",
+      "title": "Egy kis szívesség",
+      "subtitle": null,
+      "timestampString": "03:01:51",
+      "timestampInSeconds": 10911,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #151",
+        "youtubeId": "hcylcX_kgM0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/hcylcX_kgM0/hqdefault.jpg",
+        "durationInMinutes": 234,
+        "releaseDate": 1537428229000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

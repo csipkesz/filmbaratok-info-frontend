@@ -1,0 +1,45 @@
+{
+  "id": "52d59967-85ec-4192-8135-8c15c8d77c0b",
+  "title": "Ember a magasban",
+  "originalTitle": "Man on Wire",
+  "overview": "A film egy francia kötéltáncos, Philippe Petit elképesztő kis sétájáról szól a World Trade Center két tornya közé kifeszített drótkötélen 1974-ben. A film kevésbé magáról a mutatványról, inkább az előkészületekről mesél: a hat évig tartó tervezésről Párizsban és New Yorkban, valamint a végrehajtáshoz összeállt különös kompániáról, köztük értetlen amerikaiakkal, gyanakvó franciákkal és egy szál ausztrállal, akit csak Ausztrálnak neveznek. Petit vérbeli bűnöző elme, WTC-akcióját hosszas megfigyelés előzte meg, társaival együtt iratokat hamisított hozzá, üzletembernek és munkásnak álcázta magát.",
+  "backdropPath": "/yKEe2nFu4fRYcmVdeAwZxTZvP3g.jpg",
+  "posterPath": "/pKrnD0tP5vfrbjANvQIJP64K2Q4.jpg",
+  "releaseDate": "2008-08-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e1e15421-ebf1-4c4c-bba5-4f9d5ba792ad",
+      "title": "Ember a magasban",
+      "subtitle": null,
+      "timestampString": "02:03:28",
+      "timestampInSeconds": 7408,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #83",
+        "youtubeId": "hnUVtArlE_k",
+        "thumbnailUrl": "https://i.ytimg.com/vi/hnUVtArlE_k/hqdefault.jpg",
+        "durationInMinutes": 177,
+        "releaseDate": 1445005790000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

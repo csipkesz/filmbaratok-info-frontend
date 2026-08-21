@@ -1,0 +1,45 @@
+{
+  "id": "a31dfaee-2846-46f8-887d-9edffc5f1512",
+  "title": "Vakság",
+  "originalTitle": "Blindness",
+  "overview": "Az Orvos és a Felesége két hétköznapi ember, aki a káosz középpontjában találja magát. A véletlennek köszönhetően az asszony immunis a különös járványra, amelynek hatására egy egész város lakossága megvakul. A hatóságok karantént rendelnek el. Annak ellenére, hogy az asszony lát, vakságot színlel, hogy ne szakítsák el a férjétől. A maga számára is meglepő módon az elhagyott szanatórium rettenetes világában valódi vezérré válik és arra ösztönzi az embereket, hogy tanuljanak meg a gyötrelmek és a bizonytalanság közepette életben maradni.",
+  "backdropPath": "/sN0czEtCT1jEFQVajWBsKwdFBKm.jpg",
+  "posterPath": "/fxkuff9SIjHCCB7CGm8QIIwpIG5.jpg",
+  "releaseDate": "2008-05-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ef18da9a-3e7c-4464-9ba2-575031871c73",
+      "title": "Vakság",
+      "subtitle": null,
+      "timestampString": "02:33:09",
+      "timestampInSeconds": 9189,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #58",
+        "youtubeId": "fTyqWvDVF00",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fTyqWvDVF00/hqdefault.jpg",
+        "durationInMinutes": 178,
+        "releaseDate": 1412093302000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

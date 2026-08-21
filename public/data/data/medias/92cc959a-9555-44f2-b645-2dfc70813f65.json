@@ -1,0 +1,41 @@
+{
+  "id": "92cc959a-9555-44f2-b645-2dfc70813f65",
+  "title": "Űrkamionosok",
+  "originalTitle": "Space Truckers",
+  "overview": "Az idő sürgeti az űrkamion legénységét, így eltérnek a megszokott útvonaltól. Űrkalózok fogságába esnek, ráadásul a szállítmány is \"életjelt ad magáról\". Kezdetét veszi a halálos fogócska...",
+  "backdropPath": "/ArrbOtK8WcXueDNlz7HbkbAMHNb.jpg",
+  "posterPath": "/5DgwdKD3w4Qqm0I1KqTrse0YjfG.jpg",
+  "releaseDate": "1996-10-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "bae647ad-3106-4433-8210-44d077fc363e",
+      "title": "Űrkamionosok",
+      "subtitle": null,
+      "timestampString": "02:16:30",
+      "timestampInSeconds": 8190,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #282",
+        "youtubeId": "gcFN31mIkUo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gcFN31mIkUo/hqdefault.jpg",
+        "durationInMinutes": 188,
+        "releaseDate": 1720893631000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "c1e8e768-452a-4db8-a7fe-b342d7fd7dfc",
+  "title": "Hős6os",
+  "originalTitle": "Big Hero 6",
+  "overview": "A brilliáns robotikazseni, Hiro Hamada egy bűnhálózat nyomára bukkan, amely San Fransokyo high-tech városát a totális megsemmisüléssel fenyegeti. Legjobb barátja és társa, egy Baymax vévre hallgató robot segítségével Hiro összefog egy hősies egyénekből álló, ám teljesen kezdő bűnüldözőcsapattal, hogy közös erővel szembeszálljanak a gonosszal, és megmentsék a várost.",
+  "backdropPath": "/4s2d3xdyqotiVNHTlTlJjrr3q0H.jpg",
+  "posterPath": "/sXMFtmMcDnPbYVMMNvzOdkcpBUZ.jpg",
+  "releaseDate": "2014-10-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fca6d649-2184-4bc9-ac3f-aced92345f2d",
+      "title": "Hős6os",
+      "subtitle": null,
+      "timestampString": "01:20:55",
+      "timestampInSeconds": 4855,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #64",
+        "youtubeId": "vMZFtpkoCfs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/vMZFtpkoCfs/hqdefault.jpg",
+        "durationInMinutes": 229,
+        "releaseDate": 1420013879000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

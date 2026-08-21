@@ -1,0 +1,28 @@
+{
+  "id": "110a7975-a5c3-4007-b82d-956bf170e0fd",
+  "title": "The Room",
+  "originalTitle": "The Room",
+  "overview": "Johnny sikeres bankár, aki nagy tisztelettel és odaadással viseltetik az életében jelen lévő emberek iránt, különösen jövendőbelije, Lisa iránt. A boldog-boldogtalan fickó azt látja, hogy a világa darabokra hullik, amikor a barátai egytől egyig kezdik elárulni.",
+  "backdropPath": "/6OnOH5FIp0ZJQgPlu0ehDfXzVyp.jpg",
+  "posterPath": "/9QscHN4pXj6Ja1k7e1ZT4vWDGnr.jpg",
+  "releaseDate": "2003-06-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f0fe4a59-6533-4327-8a61-99506875d676",
+      "title": "The Room",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "AUDIO_COMMENTARY",
+        "title": "Filmbarátok Audiokommentár : The Room",
+        "youtubeId": "HGX_3syHpTk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/HGX_3syHpTk/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1652952465000,
+        "participants": []
+      }
+    }
+  ]
+}

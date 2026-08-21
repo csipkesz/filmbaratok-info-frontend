@@ -1,0 +1,45 @@
+{
+  "id": "269ae7ee-6d4d-4ac8-8537-9925dc3641fb",
+  "title": "Győzzünk már!",
+  "originalTitle": "Win Win",
+  "overview": "Mike Flaherty nem túl sikeres ügyvéd, aki emellett önkéntes edzője egy bukdácsoló középiskolai birkózócsapatnak. Az egyik ügyfele unokája felbolygatja a férfi életét. Kyle megszökött otthonról, miután a drogos anyja rehabra került. A nagyapjával akar élni, aki azonban a betegsége miatt Mike-ra bízza a fiút. A férfi rájön, hogy a srác tehetséges birkózó, ezért beíratja az iskolába, és beveszi a csapatba. Mike úgy érzi, hogy Kyle új értelmet ad az értelmének. Ám feltűnik a színen a fiú anyja, ami azzal fenyeget, hogy keresztülhúzza a jövőről szőtt álmait.",
+  "backdropPath": "/k3v0axkDebnAq4L0v06YikelD98.jpg",
+  "posterPath": "/tfBjrBVX8i1XSYKkp4ov1FM7hDn.jpg",
+  "releaseDate": "2011-03-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c0a58663-b07b-4c42-b543-27fc7ed2ef2d",
+      "title": "Győzzünk már!",
+      "subtitle": null,
+      "timestampString": "03:28:00",
+      "timestampInSeconds": 12480,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #174",
+        "youtubeId": "SKngLJZbCLc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/SKngLJZbCLc/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1567606261000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

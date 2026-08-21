@@ -1,0 +1,45 @@
+{
+  "id": "cd69be9e-5446-46db-977d-ce093c2ee50d",
+  "title": "Az utolsó bűntény",
+  "originalTitle": "The Last Days of American Crime",
+  "overview": "A nem túl távoli jövőben az Egyesült Államok kormánya a terrorizmusra és a bűnözésre adott végső válaszként olyan jelet tervez sugározni, amely lehetetlenné teszi bárki számára, hogy tudatosan jogellenes cselekményeket kövessen el. Emiatt egy bankrabló élete utolsó, történelmi rablására készül, még mielőtt a kormány bekapcsonál ezt a tudatmódosító jelet, amely véget vetne minden bűnözői tevékenységnek.",
+  "backdropPath": "/t93doi7EzoqLFckidrGGnukFPwd.jpg",
+  "posterPath": "/z4gzjWTiR9Rx7glkitYElZUksB6.jpg",
+  "releaseDate": "2020-06-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6d80febc-1f60-45f9-9b85-d6914d0820ff",
+      "title": "Az utolsó bűntény",
+      "subtitle": null,
+      "timestampString": "01:31:25",
+      "timestampInSeconds": 5485,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #192",
+        "youtubeId": "U-r1xMhFqug",
+        "thumbnailUrl": "https://i.ytimg.com/vi/U-r1xMhFqug/hqdefault.jpg",
+        "durationInMinutes": 257,
+        "releaseDate": 1593098527000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

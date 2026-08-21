@@ -1,0 +1,45 @@
+{
+  "id": "c8940a7c-f9f5-464f-86a9-3e8ca9a30e39",
+  "title": "Ananász expressz",
+  "originalTitle": "Pineapple Express",
+  "overview": "Dale-nek elvei vannak: 1. dolgozz minél kevesebbet. 2. szívj minél többet. 3. ne látogasd meg a csajod szüleit. De eljön az a nap, amikor az összes elvét kénytelen felrúgni. A dealere, a hozzá hasonlóan szuperlusta Saul egy fantasztikus, új anyaggal kínálja meg: az Ananász Expresszel, ami ugyan üveges tekintetet és múlhatatlan jókedvet okoz, viszont ennek köszönhetően tanúja lesz egy gyilkosságnak, áldozata egy nyomába eredő kábítószer-kereskedő bandának és még a barátnője apja is egy puskával üldözi, egyre több őrült, lehetetlen, lövöldözéssel, robbanással, bujkálással és autós száguldozással járó kaland következik. Ő csak heverészni szeret és szívni, de az Ananász Expressz száguld vele.",
+  "backdropPath": "/aO6Z7ErkEoahGFKYdEs4k4ilWFe.jpg",
+  "posterPath": "/rsa7UnYwKe7lfaRQjSpBBYXRQ5u.jpg",
+  "releaseDate": "2008-08-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "813b0299-a3ff-4ebe-9382-7779f1db2149",
+      "title": "Ananász expressz",
+      "subtitle": null,
+      "timestampString": "01:40:06",
+      "timestampInSeconds": 6006,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #65",
+        "youtubeId": "Nho9twpqK9c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Nho9twpqK9c/hqdefault.jpg",
+        "durationInMinutes": 210,
+        "releaseDate": 1420868167000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

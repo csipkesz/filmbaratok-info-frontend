@@ -1,0 +1,41 @@
+{
+  "id": "1f32bb52-a7ac-4b1b-a9e0-c9ae1009bfb2",
+  "title": "Tűnj el!",
+  "originalTitle": "Get Out",
+  "overview": "Az afroamerikai Chris és fehér barátnője, Rose kapcsolata elérkezett ahhoz a mérföldkőhöz, hogy a fiú végre megismerkedhet a lány szüleivel, Missy-vel és Dean-nel. Erre egy hétvégi kiruccanás keretein belül kerül sor. Eleinte Chris úgy látja, a lány családja nem nézi jó szemmel a rasszok közti kapcsolatot, de a hétvége előrehaladtával rájön, olyan információk húzódnak a háttérben, melyet korábban elképzeni sem tudott.",
+  "backdropPath": "/bBQHALHRAaaORlPNXv7fNcRXYdx.jpg",
+  "posterPath": "/zMuU3UIF3AE2gvGrqQMZGAhHJ6X.jpg",
+  "releaseDate": "2017-02-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f1973486-1d2a-498e-b66b-f445dbbf852d",
+      "title": "Tűnj el!",
+      "subtitle": null,
+      "timestampString": "03:35:13",
+      "timestampInSeconds": 12913,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #120",
+        "youtubeId": "-3teFOfAauw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-3teFOfAauw/hqdefault.jpg",
+        "durationInMinutes": 251,
+        "releaseDate": 1493646027000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

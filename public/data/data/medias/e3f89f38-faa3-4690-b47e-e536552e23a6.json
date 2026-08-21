@@ -1,0 +1,45 @@
+{
+  "id": "e3f89f38-faa3-4690-b47e-e536552e23a6",
+  "title": "Út a díjesőig",
+  "originalTitle": "Competencia oficial",
+  "overview": "A milliárdos vállalkozónak zseniális ötlete támad, hogy neve az örökkévalóságig fennmaradjon. Elhatározza, hogy egy korszakalkotó filmet készít és ehhez a legjobbakra van szüksége. Az elismert filmest, Lola Cuevast (Penélope Cruz) bízza meg a nagyratörő terv kivitelezésével. A világsztár csapat két hatalmas tehetségű, de még annál is nagyobb egojú színésszel egészül ki: a hollywoodi szívtipróval, Félix Riveroval (Antonio Banderas), valamint a megrögzött színpadi színésszel, Iván Torres-szel (Oscar Martínez). Mindketten legendás művészek, de nem épp a legjobb barátok. Lola egy sor egyre bizarrabb próbának veti alá őket, melyek során Félix és Iván nemcsak egymással kerülnek szembe, de mindazzal, amit eddigi pályafutásuk alatt értékesnek véltek. Vajon melyikük marad talpon a forgatás kezdetéig?",
+  "backdropPath": "/cuyXEls6uOMDqflx2MSzZOuQSn2.jpg",
+  "posterPath": "/77PxecsA0YhnZIvKNqyrjlwZRHP.jpg",
+  "releaseDate": "2021-09-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "16e55517-852c-459c-a337-d0592ef005a0",
+      "title": "Út a díjesőig",
+      "subtitle": null,
+      "timestampString": "02:37:32",
+      "timestampInSeconds": 9452,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #232",
+        "youtubeId": "9TzGQXyouWk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9TzGQXyouWk/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1651670332000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

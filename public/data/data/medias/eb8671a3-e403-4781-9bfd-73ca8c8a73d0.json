@@ -1,0 +1,45 @@
+{
+  "id": "eb8671a3-e403-4781-9bfd-73ca8c8a73d0",
+  "title": "Én, Earl és a csaj, aki meg fog halni",
+  "originalTitle": "Me and Earl and the Dying Girl",
+  "overview": "Greg, a kissé különc középiskolás srác előtt két cél lebeg: valamiként túlélni a sulit és legjobb barátjával, Earllel régi filmek olcsó verziójának elkészítéséből karriert befutni. Édesanyja javaslatára azonban elkezd barátkozni a rákos Rachellel, s a kezdetben nyűgnek érzett feladat szép lassan értékes élménnyé változik. Szoros barátság alakul ki kettejük között, miközben Greg életfelfogása is átformálódik.",
+  "backdropPath": "/4sOeeDX9uBteu81ty2bcdbzU933.jpg",
+  "posterPath": "/iLfY1Hc0MnGaHFRCn6SjQcH8C3r.jpg",
+  "releaseDate": "2015-06-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "85764082-9582-48c7-95c2-d75d0e4a8a39",
+      "title": "Én, Earl és a csaj, aki meg fog halni",
+      "subtitle": null,
+      "timestampString": "01:11:25",
+      "timestampInSeconds": 4285,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #82",
+        "youtubeId": "g8wdyUhhVtI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/g8wdyUhhVtI/hqdefault.jpg",
+        "durationInMinutes": 170,
+        "releaseDate": 1443630602000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

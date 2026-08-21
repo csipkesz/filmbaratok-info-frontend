@@ -1,0 +1,41 @@
+{
+  "id": "74a134b4-2513-4024-9412-7721d749e598",
+  "title": "A híd túl messze van",
+  "originalTitle": "A Bridge Too Far",
+  "overview": "Market Garden hadművelet, 1944. szeptember. A szövetségesek megkíséreltek elfoglalni több stratégiailag fontos hidat Hollandiában a német vonalak áttörésének reményében.",
+  "backdropPath": "/1oRug23GWxgyQmqQGbX7ke974lp.jpg",
+  "posterPath": "/aCEOI7f6kWQS9CJ2PLO1Z9uGJFi.jpg",
+  "releaseDate": "1977-06-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ca53b6fb-6aca-4fbb-8b84-20977cf45779",
+      "title": "A híd túl messze van",
+      "subtitle": null,
+      "timestampString": "02:01:50",
+      "timestampInSeconds": 7310,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #146",
+        "youtubeId": "sfip_5w7OMc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/sfip_5w7OMc/hqdefault.jpg",
+        "durationInMinutes": 163,
+        "releaseDate": 1530162133000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "15a53a44-af10-4843-b447-7f9fbb845f56",
+            "name": "Szöllőskei Gábor"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

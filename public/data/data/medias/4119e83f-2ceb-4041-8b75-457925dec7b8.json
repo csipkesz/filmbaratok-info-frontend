@@ -1,0 +1,45 @@
+{
+  "id": "4119e83f-2ceb-4041-8b75-457925dec7b8",
+  "title": "21 Jump Street",
+  "originalTitle": "21 Jump Street",
+  "overview": "",
+  "backdropPath": "/gTN0SAdXsDUE6SFFRo8QsJgXDIg.jpg",
+  "posterPath": "/9w2y0146P5EjLw63FHGWRRpqQ6v.jpg",
+  "releaseDate": "1987-04-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7fc1ed10-509c-489e-ab2b-d24ebef58b59",
+      "title": "21 Jump Street",
+      "subtitle": null,
+      "timestampString": "01:58:38",
+      "timestampInSeconds": 7118,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #55",
+        "youtubeId": "QgGmQw_m1m8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/QgGmQw_m1m8/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1407941546000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

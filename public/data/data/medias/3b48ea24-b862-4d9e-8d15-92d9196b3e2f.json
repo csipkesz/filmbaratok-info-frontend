@@ -1,0 +1,45 @@
+{
+  "id": "3b48ea24-b862-4d9e-8d15-92d9196b3e2f",
+  "title": "Az 5. hullám",
+  "originalTitle": "The 5th Wave",
+  "overview": "Sötétség. Rombolás. Járvány. Invázió. És ez csak a kezdet. Eddig négy hullámot kellett kibírniuk a Föld lakóinak. Az idegenek nem kérdeznek, nem magyaráznak. Megfosztják az emberiséget az energiájuktól, a földdel teszik egyenlővé a városaikat, betegségeket küldenek rájuk, és támadásba lendülnek. De a legrosszabb még hátravan. Az érkezők emberi alakot tudnak felvenni. Így már a legyőzöttek közötti bizalomnak is vége, senki nem tudhatja, hogy embertársa nem-e az ellenség ügynöke. Egy kamaszlány azonban nem törődik azzal, hogy semmi esélye. Amikor elrabolják az öccsét, a nyomába ered, és makacs elszántsága minden támadót meglep. Reménytelen, őrült harca során egy srác az egyetlen segítsége. Csak az nem biztos, hogy ember-e egyáltalán.",
+  "backdropPath": "/hqrwXs3KqPuU5rWoconbmQUn6rh.jpg",
+  "posterPath": "/89NVdoRIvIcK2vfKXK7TtQ47xwc.jpg",
+  "releaseDate": "2016-01-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f0aec48e-55bf-4ca0-9dfd-0270244f579f",
+      "title": "Az 5. hullám",
+      "subtitle": null,
+      "timestampString": "03:08:22",
+      "timestampInSeconds": 11302,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #91",
+        "youtubeId": "G-6KMqIQhQQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/G-6KMqIQhQQ/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1454001243000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

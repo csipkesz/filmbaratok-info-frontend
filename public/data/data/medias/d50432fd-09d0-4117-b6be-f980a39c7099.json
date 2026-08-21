@@ -1,0 +1,41 @@
+{
+  "id": "d50432fd-09d0-4117-b6be-f980a39c7099",
+  "title": "Hellraiser [2022]",
+  "originalTitle": "Hellraiser",
+  "overview": "Clive Barker korszakalkotó Hellraiser filmjének újragondolásában egy fiatal nőnek szembe kell néznie a bátyja eltűnéséért felelős rejtélyes rejtvénydoboz mögött álló szadista, természetfeletti erőkkel.",
+  "backdropPath": "/3r3tZgKTw1554hcFoUfydLHE38w.jpg",
+  "posterPath": "/viYdqfm6lLQSU8f2jMOQdr6tWP5.jpg",
+  "releaseDate": "2022-09-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b18891da-2724-42db-8523-05f23cdfa0f1",
+      "title": "Hellraiser [2022]",
+      "subtitle": null,
+      "timestampString": "01:27:50",
+      "timestampInSeconds": 5270,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #242",
+        "youtubeId": "aT0O2kW4N38",
+        "thumbnailUrl": "https://i.ytimg.com/vi/aT0O2kW4N38/hqdefault.jpg",
+        "durationInMinutes": 223,
+        "releaseDate": 1667206800000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

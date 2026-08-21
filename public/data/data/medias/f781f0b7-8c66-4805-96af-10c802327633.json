@@ -1,0 +1,45 @@
+{
+  "id": "f781f0b7-8c66-4805-96af-10c802327633",
+  "title": "Pamela közelről",
+  "originalTitle": "Pamela, A Love Story",
+  "overview": "A popkultúra ikonjának, Pamela Andersonnak az életét követhetjük nyomon, soha nem látott archív felvételek és személyes naplók segítségével.",
+  "backdropPath": "/aJvgoRMrYFTMu7MrcfxYVPMRuU5.jpg",
+  "posterPath": "/dDeZstMRGLEtAVp3gW0M4B2Yh5j.jpg",
+  "releaseDate": "2023-01-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "16089f9f-436d-4986-b9f7-95cf31ef0f57",
+      "title": "Pamela közelről",
+      "subtitle": null,
+      "timestampString": "03:02:38",
+      "timestampInSeconds": 10958,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #255",
+        "youtubeId": "z9qYgREOM9c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z9qYgREOM9c/hqdefault.jpg",
+        "durationInMinutes": 258,
+        "releaseDate": 1685482206000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "59b84839-caa3-434c-85d1-8aa9eb7df865",
+  "title": "Életem legjobb száma",
+  "originalTitle": "Power Ballad",
+  "overview": "A zeneileg tehetséges, de elkötelezettség-fóbiás Robbie Hart, a leendő rocksztár esküvői énekes lesz. A kedves felszolgálóval való románca azonban veszélybe kerül, amikor egykori ingatag szerelme, Amanda felbérli, hogy énekeljen a nászéjszakáján.  (Szarka Károly)",
+  "backdropPath": "/euUEDjof7fVX2t3nYFvLLN9ADK2.jpg",
+  "posterPath": "/tJPGXKqwNFzaBFDvrVs84bUkrwN.jpg",
+  "releaseDate": "2026-05-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fed03770-12e9-41e1-b097-687c1c913ae2",
+      "title": "Életem legjobb száma",
+      "subtitle": null,
+      "timestampString": "02:10:55",
+      "timestampInSeconds": 7855,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #329",
+        "youtubeId": "mMxJ3JAYZY4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/mMxJ3JAYZY4/hqdefault.jpg",
+        "durationInMinutes": 212,
+        "releaseDate": 1782846925000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

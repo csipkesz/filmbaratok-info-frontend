@@ -1,0 +1,41 @@
+{
+  "id": "8eec745f-72e5-445a-82d8-40e6987eea4a",
+  "title": "Amikor kialszik a fény",
+  "originalTitle": "Lights Out",
+  "overview": "Amíg ég a villany, minden rendben van. De amikor elsötétül a ház, valaki életre kel, és szabadon járkál a szobákban. És kicsit sem barátságos… Martin apja rejtélyes körülmények között tűnt el, az anyja gyógyszereken él, ő pedig nem tud aludni – nagyon fél a sötétben. Egyedül a nővére hisz neki, hogy nem csak hiszti: ő is találkozott már az árnyékkal, aki csak addig erős, amíg sötét van.",
+  "backdropPath": "/xxyAStrE7vVeKto3dGDAKAZRM68.jpg",
+  "posterPath": "/xGWCvWJ3k8TgRURNk2a5Jgup723.jpg",
+  "releaseDate": "2016-07-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1f2fbe42-9a23-45d6-b07c-9f2e05925fcf",
+      "title": "Amikor kialszik a fény",
+      "subtitle": null,
+      "timestampString": "01:30:50",
+      "timestampInSeconds": 5450,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #104",
+        "youtubeId": "OY96XihUHYY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/OY96XihUHYY/hqdefault.jpg",
+        "durationInMinutes": 230,
+        "releaseDate": 1469739871000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

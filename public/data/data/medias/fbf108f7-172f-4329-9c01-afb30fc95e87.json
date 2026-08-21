@@ -1,0 +1,71 @@
+{
+  "id": "fbf108f7-172f-4329-9c01-afb30fc95e87",
+  "title": "A komédia királya",
+  "originalTitle": "The King of Comedy",
+  "overview": "Robert Pupkin a hírnév bűvöletében él. Ő az, aki bármit megtenne azért, hogy valóra váltsa az igazi amerikai álmot, melyet a hírnév és a pénz jelent. Pupkin ígéretes komikus, aki bármit megtenne, hogy azonnal a csúcsra jusson. Az első lépés ennek érdekében: bejutni az ország legnézettebb talk-show-jába és ott egy rövid előadást tartani. Pupkin azonban egyvalamire nem gondol: minél magasabbra kerül annál nagyobbat zuhan az ember.",
+  "backdropPath": "/7Mh1DM4kCMbN93C2MlUavYbH5YM.jpg",
+  "posterPath": "/m24EbHxT9NGYEkOlu29YcLOgjgK.jpg",
+  "releaseDate": "1982-12-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5da171d7-e47d-4c61-8f82-e61bb97b0ac8",
+      "title": "A komédia királya",
+      "subtitle": null,
+      "timestampString": "00:26:12",
+      "timestampInSeconds": 1572,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #180",
+        "youtubeId": "jgXB2dSNVBA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/jgXB2dSNVBA/hqdefault.jpg",
+        "durationInMinutes": 286,
+        "releaseDate": 1576606373000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "64148302-5174-4cc4-9f3f-3efee639822a",
+      "title": "A komédia királya",
+      "subtitle": null,
+      "timestampString": "01:44:30",
+      "timestampInSeconds": 6270,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #79",
+        "youtubeId": "MFtdt9e1-5Y",
+        "thumbnailUrl": "https://i.ytimg.com/vi/MFtdt9e1-5Y/hqdefault.jpg",
+        "durationInMinutes": 158,
+        "releaseDate": 1439397604000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

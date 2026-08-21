@@ -1,0 +1,45 @@
+{
+  "id": "ba9fc588-8047-4e65-9534-33bd454cb035",
+  "title": "A hihetetlen család 2",
+  "originalTitle": "Incredibles 2",
+  "overview": "Ezúttal Helen kerül középpontba, így Bobra hárul a feladat, hogy Illana és Vill segítségével megoldja otthon a hétköznapi élet kihívásait. Nehéz változás ez mindannyiuk számára, amit nem könnyít meg az sem, hogy senki nem tudja még mindig, milyen erő is lakozik Furiban. Amikor egy új gonosztevő elméjéből kipattan egy briliáns és veszedelmes terv, a családnak ismét egy csapatként kell dolgoznia – ám az sem olyan egyszerű, ha mind hihetetlen figurák!",
+  "backdropPath": "/mabuNsGJgRuCTuGqjFkWe1xdu19.jpg",
+  "posterPath": "/f2GXm4Mev6SCTuBw6K6XQSDL0VA.jpg",
+  "releaseDate": "2018-06-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3831cbdd-bdeb-4d7b-a914-44303ed6b5a8",
+      "title": "A hihetetlen család 2",
+      "subtitle": null,
+      "timestampString": "01:20:00",
+      "timestampInSeconds": 4800,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #147",
+        "youtubeId": "VFKKYddusFg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VFKKYddusFg/hqdefault.jpg",
+        "durationInMinutes": 235,
+        "releaseDate": 1531561740000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

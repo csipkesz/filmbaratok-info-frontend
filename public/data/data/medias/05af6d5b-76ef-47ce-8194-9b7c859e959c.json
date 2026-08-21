@@ -1,0 +1,45 @@
+{
+  "id": "05af6d5b-76ef-47ce-8194-9b7c859e959c",
+  "title": "The white tiger",
+  "originalTitle": "The White Tiger",
+  "overview": "Egy tehetős indiai házaspár ambiciózus és furfangos sofőrje az eszét felhasználva tör ki a szegénységből, majd saját vállalkozásba kezd.",
+  "backdropPath": "/wz4BoW7k5LNluY4PmxHBU1IS5Bc.jpg",
+  "posterPath": "/c1lphivvRct6l7RQgsUxpwPhuT1.jpg",
+  "releaseDate": "2021-01-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2fe9b920-c613-4c22-9974-33f0a2bfc2be",
+      "title": "The white tiger",
+      "subtitle": null,
+      "timestampString": "01:19:10",
+      "timestampInSeconds": 4750,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #207",
+        "youtubeId": "nRj4p0apAgo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nRj4p0apAgo/hqdefault.jpg",
+        "durationInMinutes": 247,
+        "releaseDate": 1614949852000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

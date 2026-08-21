@@ -1,0 +1,49 @@
+{
+  "id": "389bc872-dc32-473d-b892-25534d6c7b1a",
+  "title": "Mátrix - Újratöltve",
+  "originalTitle": "The Matrix Reloaded",
+  "overview": "Mi történne, ha a prófécia igaznak bizonyulna? Mi lenne, ha holnap véget érne a harc? Thomas \"Neo\" Anderson (Keanu Reeves) úgy dönt, szembenéz a kérdéssel, amelyet Morpheus (Laurence Fishburne) és Trinity (Carrie-Anne Moss) sugallt neki. Elindul, hogy felkutassa és megismerje az igazságot, és értelmét kiszabadítsa a Mátrix rabságából.A trilógia második epizódjában Neo elhatározza, hogy a benne rejlő erőket még jobban uralma alá hajtja. A gépek hadserege támadást indít Zion városa ellen. Órák kérdése csupán, hogy a Föld utolsó ember uralta területét is elfoglalják az emberiség elpusztítására beprogramozott gépek. Morpheusnak azonban sikerül felráznia Zion polgárait, és meggyőznie őket arról, hogy be fog teljesülni a jóslat, és a Kiválasztott véget fog vetni a gépekkel vívott háborúnak. Szerelmükkel és egymásba vetett hitükkel felvértezve Neo és Trinity úgy döntenek, visszatérnek a Mátrixba, hogy különleges képességeiket és fegyvereiket latba vetve szembeszálljanak a zsarnoksággal.",
+  "backdropPath": "/ihOJcrorpDQtHTzIOrobbOhpJsj.jpg",
+  "posterPath": "/wrBGACmsnGatuLmOTqkpaeJTscW.jpg",
+  "releaseDate": "2003-05-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b44acce7-cbf8-452b-ac4f-7c6ab4a0be21",
+      "title": "Mátrix trilógia",
+      "subtitle": null,
+      "timestampString": "02:41:49",
+      "timestampInSeconds": 9709,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #78",
+        "youtubeId": "MfKijNw0U44",
+        "thumbnailUrl": "https://i.ytimg.com/vi/MfKijNw0U44/hqdefault.jpg",
+        "durationInMinutes": 236,
+        "releaseDate": 1438367365000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "30b06a55-5fbf-4673-bd8d-fff0c5bee210",
+            "name": "Kvízmester"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

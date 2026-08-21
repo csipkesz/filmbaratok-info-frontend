@@ -1,0 +1,45 @@
+{
+  "id": "d7c7e102-500d-4ff4-be46-d4d2d735c518",
+  "title": "The Cloverfield Paradox",
+  "originalTitle": "The Cloverfield Paradox",
+  "overview": "Egy váratlan felfedezés kellemetlen helyzetbe hozza az űrhajósokat az űrbázison. Kénytelenek harcolni a túlélésükért, miközben egyre jobban elmosódik a határ a valóság és a fantázia között.",
+  "backdropPath": "/2cnUCcNmmj79hGmimvWlUo5P2K8.jpg",
+  "posterPath": "/4G6GZPWi3BmGYYunN7gm8P3ZbEt.jpg",
+  "releaseDate": "2018-02-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b80d7d28-ab80-4ae0-98f5-456f4ff949b1",
+      "title": "The Cloverfield Paradox",
+      "subtitle": null,
+      "timestampString": "02:57:36",
+      "timestampInSeconds": 10656,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #138",
+        "youtubeId": "nNL55zk0j6I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nNL55zk0j6I/hqdefault.jpg",
+        "durationInMinutes": 255,
+        "releaseDate": 1519187400000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

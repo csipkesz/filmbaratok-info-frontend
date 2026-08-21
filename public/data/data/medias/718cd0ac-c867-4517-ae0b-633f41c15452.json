@@ -1,0 +1,45 @@
+{
+  "id": "718cd0ac-c867-4517-ae0b-633f41c15452",
+  "title": "A védelmező",
+  "originalTitle": "The Equalizer",
+  "overview": "Robert McCall egy nyugodt életet élő bostoni állampolgár, senki sem gondolná róla, hogy egy visszavonult volt kommandós. A saját halálát megjátszó ügynök újraéled önálló száműzetéséből, hogy megmentsen egy fiatal lányt az erőszakos orosz gengszterektől. De a bosszúhadjárat nem csak a bosszúról szól, hanem folyamatosan felfedi, hogy a törvény néha nem elég és át kell lépni a határokat. Ha valaki bajba kerül és nincs hová fordulnia, rá biztosan számíthat, ő a tehetetlenek védelmezője.",
+  "backdropPath": "/9vAoubhoZE8aSkUZoSfxs3UWZhO.jpg",
+  "posterPath": "/wqDQ4grIDzrLQ0iph1lvmvJ9dcS.jpg",
+  "releaseDate": "2014-09-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8e795e17-e5fb-4a02-9eb1-74a017760476",
+      "title": "A védelmező",
+      "subtitle": null,
+      "timestampString": "01:04:52",
+      "timestampInSeconds": 3892,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #58",
+        "youtubeId": "fTyqWvDVF00",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fTyqWvDVF00/hqdefault.jpg",
+        "durationInMinutes": 178,
+        "releaseDate": 1412093302000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

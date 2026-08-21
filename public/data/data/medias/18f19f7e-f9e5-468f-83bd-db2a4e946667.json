@@ -1,0 +1,37 @@
+{
+  "id": "18f19f7e-f9e5-468f-83bd-db2a4e946667",
+  "title": "Europa Report",
+  "originalTitle": "Europa Report",
+  "overview": "Hat kutatótiszt egy űrhajóban olyan hosszú útra indul, mint még senki előtte, a Jupiter negyedik holdja az úticéljuk. Céljuk, hogy mintákat gyűjtsenek a hold jegéből és jege alól, arra keresve a választ, alakulhatott-e ki ott is élet. Miután leszállnak a hold felszínére, különös jelenségnek lesznek tanúi, és egyre inkább magával ragadja őket a tudományos kíváncsiság.",
+  "backdropPath": "/nnGluGp4Bowcy7STdDAEScQcwzV.jpg",
+  "posterPath": "/sKFnwDgJMYyG9LBZyFGmHHZElxd.jpg",
+  "releaseDate": "2013-06-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d589e03d-e210-4c57-b9cb-e0038a93ed37",
+      "title": "Europa Report",
+      "subtitle": null,
+      "timestampString": "01:39:03",
+      "timestampInSeconds": 5943,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #33",
+        "youtubeId": "IomFNhWRQNA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IomFNhWRQNA/hqdefault.jpg",
+        "durationInMinutes": 148,
+        "releaseDate": 1375255137000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "776cb833-1102-41a0-814e-1fbac83bffed",
+  "title": "Jurassic World: Világuralom",
+  "originalTitle": "Jurassic World Dominion",
+  "overview": "Négy évvel azután, hogy a Nublar-sziget elpusztult, a dinoszauruszok most már világszerte az emberek között élnek – és vadásznak. Ez a törékeny egyensúly átformálja a jövőt és egyszer s mindenkorra meghatározza, hogy az emberi lények maradnak-e a fő ragadozók a bolygón, melyen most a történelem legfélelmetesebb teremtményeivel kell osztozniuk.",
+  "backdropPath": "/698FjyzLdpgXmUSr63LaRwblTmx.jpg",
+  "posterPath": "/jJAroLVhgH2NunVoAgHGA2mG0SX.jpg",
+  "releaseDate": "2022-06-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e55c33d1-5c41-48a1-97a7-8ab8d0729d7d",
+      "title": "Jurassic World: Világuralom",
+      "subtitle": null,
+      "timestampString": "00:52:15",
+      "timestampInSeconds": 3135,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #234",
+        "youtubeId": "IyLcC8Sig7I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IyLcC8Sig7I/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1655823277000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

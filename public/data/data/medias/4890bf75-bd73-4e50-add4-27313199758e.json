@@ -1,0 +1,37 @@
+{
+  "id": "4890bf75-bd73-4e50-add4-27313199758e",
+  "title": "Fenegyerek",
+  "originalTitle": "Son of a Gun",
+  "overview": "A19 éves JR (Brenton Thwaites) belekóstol a kegyetlen börtönélet valóságába, amikor egy kisebb bűncselekmény miatt hűvösre vágják. Nehéz bent megmaradni védelem nélkül, de a magányos srácot hamarosan Brendan Lynch (Ewan McGregor), Ausztrália leghírhedtebb bűnözője veszi a szárnyai alá. Ennek viszont ára van: JR-nek a szabadulását követően segítenie kell kívülről Brendan szökésében. JR kötélnek áll és az első rablásnál beszáll a buliba védelmezője mellett. A több milliót érő aranyrudak közelségében azonban halálos macska-egér játék veszi kezdetét, melyben nincs már helye az illúzióknak és el kell dönteni, ki kivel van.",
+  "backdropPath": "/qF1zeLIhTe3ZtP9q7Ca7EsM9KAR.jpg",
+  "posterPath": "/v5KG3wuvtQptyPKGCtPdzY3DAZO.jpg",
+  "releaseDate": "2014-10-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d17bd4f8-e0f5-4c27-ac13-1ed906126387",
+      "title": "Fenegyerek",
+      "subtitle": null,
+      "timestampString": "02:02:50",
+      "timestampInSeconds": 7370,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #79",
+        "youtubeId": "MFtdt9e1-5Y",
+        "thumbnailUrl": "https://i.ytimg.com/vi/MFtdt9e1-5Y/hqdefault.jpg",
+        "durationInMinutes": 158,
+        "releaseDate": 1439397604000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

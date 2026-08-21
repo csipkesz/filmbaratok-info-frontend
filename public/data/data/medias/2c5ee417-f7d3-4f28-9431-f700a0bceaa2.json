@@ -1,0 +1,87 @@
+{
+  "id": "2c5ee417-f7d3-4f28-9431-f700a0bceaa2",
+  "title": "10 Cloverfield Lane",
+  "originalTitle": "10 Cloverfield Lane",
+  "overview": "Egy nő egy szörnyű baleset után egy pincében tér magához, és attól fél, hogy elrabolták. \"Fogvatartója\", aki fel van készülve a világvégére, azt állítja, hogy megmentette a nő életét, mivel borzalmas támadás érte a Földet, és emiatt a külvilág már lakhatatlan...",
+  "backdropPath": "/dMERTVrObB7TkRVIFmcndR2sZFH.jpg",
+  "posterPath": "/z1sV4HAu4RVhakcDDNQpx1lsjSW.jpg",
+  "releaseDate": "2016-03-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "67511428-fab2-4899-abe4-964a970b08b0",
+      "title": "10 Cloverfield Lane",
+      "subtitle": null,
+      "timestampString": "03:06:00",
+      "timestampInSeconds": 11160,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #97",
+        "youtubeId": "544nF31uOsc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/544nF31uOsc/hqdefault.jpg",
+        "durationInMinutes": 219,
+        "releaseDate": 1461517994000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a7f3e0c5-ca2c-4d19-b476-ba6556565ee8",
+      "title": "10 Cloverfield Lane [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "03:18:23",
+      "timestampInSeconds": 11903,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #97",
+        "youtubeId": "544nF31uOsc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/544nF31uOsc/hqdefault.jpg",
+        "durationInMinutes": 219,
+        "releaseDate": 1461517994000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

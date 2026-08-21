@@ -1,0 +1,41 @@
+{
+  "id": "5e4fb16f-8da6-4857-8a7a-862f4ce6e7b5",
+  "title": "Amerika Kapitány: Szép új világ",
+  "originalTitle": "Captain America: Brave New World",
+  "overview": "Miután hőseinknek sikerült legyőzniük az univerzum legnagyobb gonoszát, Thanost, maga Amerika Kapitány juttatta vissza a végtelen köveket az eredeti helyükre. Steve Rogers azonban belefáradt hősnek lenni, így meghozta döntését, hogy a továbbaikaban saját boldogságáért tegyen. Így kapta meg Amerika Kapitány pajzsát Sam Wilson, azaz Sólyom, aki kezdetekben úgy érezte, nem méltó annak viselésére. A hősöket azonban a tetteik formálják, Sam Wilsonnak pedig azt a sorsot jelölte ki, hogy ő vegye át Rogers helyét. A folytatásban egy új Amerika Kapitány lép elénk, aki továbbra is az igazságot képviseli a világban.",
+  "backdropPath": "/ce3prrjh9ZehEl5JinNqr4jIeaB.jpg",
+  "posterPath": "/c3QfSInnmFHYPEIYJeHMXtHrgBL.jpg",
+  "releaseDate": "2025-02-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "825b0d60-9872-4318-b490-9097cc7b218a",
+      "title": "Amerika Kapitány: Szép új világ",
+      "subtitle": null,
+      "timestampString": "01:26:15",
+      "timestampInSeconds": 5175,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #296",
+        "youtubeId": "2X4YekH4jj4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/2X4YekH4jj4/hqdefault.jpg",
+        "durationInMinutes": 189,
+        "releaseDate": 1739562524000,
+        "participants": [
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

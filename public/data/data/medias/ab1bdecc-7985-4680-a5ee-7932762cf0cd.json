@@ -1,0 +1,79 @@
+{
+  "id": "ab1bdecc-7985-4680-a5ee-7932762cf0cd",
+  "title": "Én, Tonya",
+  "originalTitle": "I, Tonya",
+  "overview": "Tonya Harding bulvártörténete a kilencvenes évek amerikai médiaeseményeinek egyik legnagyobb port kavaró sztorija volt. A tehetséges fiatal műkorcsolyázó karrierje ragyogóan ívelt felfelé, amelyben a sportoló elszántsága mellett elvitathatatlan része volt a nem éppen finomkodó nevelési és edzői módszereket alkalmazó szabad szájú anyjának. Aztán Tonya egy nap megismerkedett egy férfival, s az élete innentől meredeken más irányt vett. Például egy, legnagyobb riválisa elleni merényletig. Tonya egyszeriben a legnagyobb közellenséggé vált, pedig lehet, hogy ő is csak egy áldozat volt, neveltetése és ex-pasija áldozata.",
+  "backdropPath": "/5owIV2sqdfILBKyOOIkLYVqanZp.jpg",
+  "posterPath": "/afrmc0KjTq2WMPOEGAqiWjXyeHD.jpg",
+  "releaseDate": "2017-12-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "006e2b29-0b44-4f24-8094-d32266e51842",
+      "title": "Én, Tonya",
+      "subtitle": null,
+      "timestampString": "02:28:20",
+      "timestampInSeconds": 8900,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #140",
+        "youtubeId": "LQ8tU4s4F2M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/LQ8tU4s4F2M/hqdefault.jpg",
+        "durationInMinutes": 184,
+        "releaseDate": 1521209750000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a5ce66db-29df-4a85-8165-df5a98a6fa76",
+      "title": "Én, Tonya",
+      "subtitle": null,
+      "timestampString": "00:28:00",
+      "timestampInSeconds": 1680,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #138",
+        "youtubeId": "nNL55zk0j6I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nNL55zk0j6I/hqdefault.jpg",
+        "durationInMinutes": 255,
+        "releaseDate": 1519187400000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

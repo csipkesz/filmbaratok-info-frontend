@@ -1,0 +1,41 @@
+{
+  "id": "d62dd697-cd11-447b-a6e5-329c90c7fd9e",
+  "title": "Neon Démon",
+  "originalTitle": "The Neon Demon",
+  "overview": "Jesse, a feltörekvő modell Los Angelesbe költözik, hogy valóra váltsa az álmát. A divatvilág azonban nem várt módon szippantja be, ráadásul egy csoport varázslatos modell között nem várt konfliktusba keveredik. Mindannyian szenvedélyesen vágynak a kifutó sikerére és ezért szemmel láthatóan bármit hajlandók lennének megtenni. Jesse-nek azonban siker mellett meg kell küzdenie a fotósok fantáziajeleneteivel, a lakásába behatoló ismeretlenekkel és a mind furcsábban viselkedő kollégáival is.",
+  "backdropPath": "/xcfjWEmSpgJe8htlg1qFTwQfPG7.jpg",
+  "posterPath": "/2dmxPzNEfT1rIdj8hZphi3Mhgc8.jpg",
+  "releaseDate": "2016-06-08T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6b6b6196-9821-413d-b0b5-88830bc3ea96",
+      "title": "Neon Démon",
+      "subtitle": null,
+      "timestampString": "01:43:28",
+      "timestampInSeconds": 6208,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #104",
+        "youtubeId": "OY96XihUHYY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/OY96XihUHYY/hqdefault.jpg",
+        "durationInMinutes": 230,
+        "releaseDate": 1469739871000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

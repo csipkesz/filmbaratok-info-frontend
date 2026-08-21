@@ -1,0 +1,41 @@
+{
+  "id": "d9a448af-6074-4a1e-844f-71fc801da04e",
+  "title": "Szeptember 5",
+  "originalTitle": "September 5",
+  "overview": "A Szeptember 5 feltárja azt a döntő pillanatot, amely örökre megváltoztatta a tévés közvetítések világát, és a mai napig hatással van az élő tudósításokra. Az 1972-es müncheni nyári olimpiai játékok alatt játszódó film az amerikai sportközvetítő stábot követi nyomon, akik gyorsan átálltak a sportközvetítésről a túszul ejtett izraeli sportolókról való tudósításra. A film az ő lencséjükön keresztül kínál friss nézőpontot ahhoz a közvetítéshez, melyet a becslések szerint egymilliárd ember követett élőben.",
+  "backdropPath": "/s1PW2xCJPehFP4J5YNkg8GecBU7.jpg",
+  "posterPath": "/vwKSNGBP0bGuwIT9jF5dldetvCk.jpg",
+  "releaseDate": "2024-11-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "359dd59e-4feb-4add-ab36-8f8f557963dc",
+      "title": "Szeptember 5",
+      "subtitle": null,
+      "timestampString": "01:33:00",
+      "timestampInSeconds": 5580,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #297",
+        "youtubeId": "3hKlobo8elk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3hKlobo8elk/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1740760443000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

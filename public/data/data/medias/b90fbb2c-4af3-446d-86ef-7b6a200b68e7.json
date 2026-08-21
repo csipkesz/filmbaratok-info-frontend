@@ -1,0 +1,45 @@
+{
+  "id": "b90fbb2c-4af3-446d-86ef-7b6a200b68e7",
+  "title": "Last shift [2014]",
+  "originalTitle": "Last Shift",
+  "overview": "A filmben egy fiatal nyomozó, Jessica Loren kerül bajba, ugyanis őt jelölik ki az őrség teljesítésére egy rendőrőrsön, s meg kell várnia az őt váltó legénységet. Semmi esetre sem szabad elhagynia az elhagyatott őrsöt, de hamarosan tudatosodik benne, hogy ez egyáltalán nem egy elhagyatott rendőrségi bázis, hanem egy ördögi szörnyeteg és harminc vérszomjas követőjének a lakóhelye...",
+  "backdropPath": "/gYhheyDkKanBAN2JAi7ZuPiwH36.jpg",
+  "posterPath": "/iEE85jSGNaiPGvVLx2PS52SJ4y0.jpg",
+  "releaseDate": "2014-10-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ff314ed1-6668-416c-bd0c-aac63aae8d4f",
+      "title": "Last shift [2014]",
+      "subtitle": null,
+      "timestampString": "01:51:19",
+      "timestampInSeconds": 6679,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #268",
+        "youtubeId": "9TmBeKJi0og",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9TmBeKJi0og/hqdefault.jpg",
+        "durationInMinutes": 211,
+        "releaseDate": 1702918793000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "77535108-7be4-4e80-b327-038ede121e4a",
+  "title": "A fattyú",
+  "originalTitle": "Bastarden",
+  "overview": "1755-ben Ludvig Kahlen kapitány elindul, hogy teljesítsen egy lehetetlennek tűnő küldetést: meg akarja hódítani a zord, lakhatatlan dán vidéket. A férfi célja, hogy kolóniát építsen a király nevében. De egy könyörtelen helyi földesúr másképp gondolkodik és arrogánsan azt hiszi, hogy ez a föld kizárólag az övé. Kahlen keményfejű és úgy érzi, a király megbízása és saját elszántsága elegendő ahhoz, hogy sikerrel járjon. Az összecsapás elkerülhetetlennek tűnik a két fél között, a kapitányt ráadásul az érzelmei is fűtik, miután rátalál élete szerelmére.",
+  "backdropPath": "/pERcOAR1Teg4sLDDqRXj1TBjVsn.jpg",
+  "posterPath": "/giQcwyUDiNqip2tLq4zF5bfx6Iq.jpg",
+  "releaseDate": "2023-10-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0b982dcb-5594-42d2-987b-67799e41c5cd",
+      "title": "A fattyú",
+      "subtitle": null,
+      "timestampString": "03:06:00",
+      "timestampInSeconds": 11160,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #276",
+        "youtubeId": "ozdxgj2AwCk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ozdxgj2AwCk/hqdefault.jpg",
+        "durationInMinutes": 248,
+        "releaseDate": 1713292727000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "a46e8b8b-6487-40fa-8bbc-1d159d9bd24c",
+  "title": "Steve-O - Gnarly",
+  "originalTitle": "Steve-O: Gnarly",
+  "overview": "",
+  "backdropPath": "/bBc344tqBcw2Ff0mwyj74jjBpCR.jpg",
+  "posterPath": "/cLFhw5Pej93iccm2yzz5wht0ruD.jpg",
+  "releaseDate": "2020-07-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "db32b5da-aaf4-4a77-943c-3a60f2abf240",
+      "title": "Steve-O - Gnarly",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Steve-O - Gnarly",
+        "youtubeId": "jtDEaYc6hkU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/jtDEaYc6hkU/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1599033120000,
+        "participants": []
+      }
+    }
+  ]
+}

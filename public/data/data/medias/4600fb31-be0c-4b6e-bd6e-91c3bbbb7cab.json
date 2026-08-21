@@ -1,0 +1,37 @@
+{
+  "id": "4600fb31-be0c-4b6e-bd6e-91c3bbbb7cab",
+  "title": "Beépített hiba",
+  "originalTitle": "Inherent Vice",
+  "overview": "A 70-es évek kezdetén járunk Los Angelesben. Larry Sportello lecsúszott, füvező magánnyomozóhoz volt nője toppan be egy érdekes sztorival: dúsgazdag barátját kellene megtalálnia, valószínűleg a férfi nejének lehet köze az esethez. A nyomozás nem megy könnyen, őrült szörfösök, kisstílű bűnözők, gyilkos kedvű uzsorások, kurvák és pszichedelikus rockzenészek keresztezik Sportello útját.",
+  "backdropPath": "/cwytQHRHSrMnsSEowcY4Z6jIEeb.jpg",
+  "posterPath": "/lGU8W0RHUuNSpdsll4SxBmBuZnc.jpg",
+  "releaseDate": "2014-12-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "82c79ff7-e48d-4413-ac51-987441906ce5",
+      "title": "Beépített hiba",
+      "subtitle": null,
+      "timestampString": "02:16:00",
+      "timestampInSeconds": 8160,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #79",
+        "youtubeId": "MFtdt9e1-5Y",
+        "thumbnailUrl": "https://i.ytimg.com/vi/MFtdt9e1-5Y/hqdefault.jpg",
+        "durationInMinutes": 158,
+        "releaseDate": 1439397604000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

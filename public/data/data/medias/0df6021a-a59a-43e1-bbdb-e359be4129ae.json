@@ -1,0 +1,41 @@
+{
+  "id": "0df6021a-a59a-43e1-bbdb-e359be4129ae",
+  "title": "Hitman",
+  "originalTitle": "Hitman",
+  "overview": "Egy Interpol-ügynök hazamegy és egy bérgyilkost talál a szobájában. A 47-es rá vár. De mielőtt végezne áldozatával, elmondja, hogy került oda. Nigériától Moszkváig mérnöki precizitással kidolgozott gyilkosságok és menekülések jelzik a 47-es útját, miközben az Interpol embere mindig a sarkában maradt: de sosem érte utol az emberét. Átverések, árulások, kettős játszmák és gyilkosságok macska-egér játékába bonyolódva élnek évek óta. Lassacskán már abban sem biztosak, melyikük üldözi melyiküket. Most azonban eljött a végső leszámolás pillanata. Ám amikor titokzatos, közös múltjuk lezárulni látszik - hiszen egyikük mindjárt meghúzza a ravaszt - egy újabb fordulat ismét mindent megváltoztat.",
+  "backdropPath": "/9LMIoURuLvxEVKMib4DoVVcJJ5l.jpg",
+  "posterPath": "/l8BxJ1TtO7bsanBo2ZZ3b9uyBTF.jpg",
+  "releaseDate": "2007-11-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9b6e15d1-87f8-48be-b36f-74999412e2d8",
+      "title": "Hitman",
+      "subtitle": null,
+      "timestampString": "01:19:56",
+      "timestampInSeconds": 4796,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #81",
+        "youtubeId": "jxVu-FT-Qv8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/jxVu-FT-Qv8/hqdefault.jpg",
+        "durationInMinutes": 158,
+        "releaseDate": 1442306890000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

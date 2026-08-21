@@ -1,0 +1,41 @@
+{
+  "id": "5ac5b0ec-e470-4e5c-8a99-5e8e8aaeeb31",
+  "title": "Az ismeretlen Drakula",
+  "originalTitle": "Dracula Untold",
+  "overview": "Bram Stoker klasszikus történetének legújabb feldolgozásában a havasalföldi fejedelem, III. Karóbahúzó Vlad történetét ismerhetjük meg. Az uralkodó nem a saját érdekeit tartja szem előtt, a legfontosabb az számára, hogy megmentse a birodalmat és ezzel együtt a családját is. Ehhez pedig kénytelen alkut kötni a gonosszal, egy olyan „szerződést” amelynek következtében ő maga is pokoli szörnyeteggé válik és így vonul be a történelembe.",
+  "backdropPath": "/oa0bHsnrD96miW3Yx10HWb211Sj.jpg",
+  "posterPath": "/6YdAlLvuoVwNSf43Zzv4c66r4Dl.jpg",
+  "releaseDate": "2014-10-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "05c62055-431f-46cd-a69b-b9179c715572",
+      "title": "Az ismeretlen Drakula",
+      "subtitle": null,
+      "timestampString": "0:58:49",
+      "timestampInSeconds": 3529,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #60",
+        "youtubeId": "r6yj-sa2ZsA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/r6yj-sa2ZsA/hqdefault.jpg",
+        "durationInMinutes": 125,
+        "releaseDate": 1414771113000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

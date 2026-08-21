@@ -1,0 +1,45 @@
+{
+  "id": "8f873264-4698-408d-a448-2074a54cc8e8",
+  "title": "Zöld könyv - Útmutató az élethez",
+  "originalTitle": "Green Book",
+  "overview": "Tony Lip nem egy bonyolult fickó, aki szereti inkább az öklével elsimítani a konfliktusokat. Amikor egy kis mellékes melót ajánlanak neki, örömmel elvállalja. Ám a feladatról kiderül, hogy nem olyan egyszerű, amilyennek tűnik: egy neves afroamerikai zongorista sofőrje lesz ugyanis, aki az amerikai Délre indul turnéra - oda, ahol nem szívesen látják az olyanokat, mint ő. A két férfi stílusa, neveltetése és életvitele merőben másmilyen - ám a hosszú út során rájönnek, hogy annyira azért mégsem különböznek.",
+  "backdropPath": "/5En0fmDagt3Pk8d7P3uTwfeQceg.jpg",
+  "posterPath": "/caCezzKD0V0UM2bIP3vNQmMAKTp.jpg",
+  "releaseDate": "2018-11-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3c415382-8ba2-4754-be5a-d05b37226297",
+      "title": "Zöld könyv - Útmutató az élethez",
+      "subtitle": null,
+      "timestampString": "00:07:44",
+      "timestampInSeconds": 464,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #163 (Oscar)",
+        "youtubeId": "eQI9z_VhYj4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/eQI9z_VhYj4/hqdefault.jpg",
+        "durationInMinutes": 244,
+        "releaseDate": 1550837351000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "15a53a44-af10-4843-b447-7f9fbb845f56",
+            "name": "Szöllőskei Gábor"
+          },
+          {
+            "id": "e4d249a5-e251-44d9-8c10-8e2e3e9a6069",
+            "name": "Anna"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

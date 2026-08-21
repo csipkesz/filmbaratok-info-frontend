@@ -1,0 +1,45 @@
+{
+  "id": "7fc8ff82-8b15-41ce-bb23-9351d5cc0e43",
+  "title": "Dark Skies – Sötét égboltok",
+  "originalTitle": "Dark Skies",
+  "overview": "A Barret család a külvárosban él és gyökeresen megváltozik minden körülöttük, amikor egy idegen létforma kezdi el őket terrorizálni esténként. Egyre jobban elszigetelődnek a szomszédoktól, barátoktól,így csak magukra számíthatnak abban, hogy felvegyék a küzdelmet az ismeretlennel...",
+  "backdropPath": "/oLuAgHcYk9UrulfFJCmYfcnvmgB.jpg",
+  "posterPath": "/9OAamASgTPFS9KdmdVQJwidmIEV.jpg",
+  "releaseDate": "2013-02-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1db5185a-2e8b-4ca2-bce8-d50043f440b8",
+      "title": "Dark Skies – Sötét égboltok",
+      "subtitle": null,
+      "timestampString": "02:54:30",
+      "timestampInSeconds": 10470,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #80",
+        "youtubeId": "z4DzygJMKgc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z4DzygJMKgc/hqdefault.jpg",
+        "durationInMinutes": 227,
+        "releaseDate": 1440780590000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

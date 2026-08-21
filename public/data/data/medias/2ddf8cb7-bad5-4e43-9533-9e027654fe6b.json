@@ -1,0 +1,45 @@
+{
+  "id": "2ddf8cb7-bad5-4e43-9533-9e027654fe6b",
+  "title": "Halott madarak",
+  "originalTitle": "Dead Birds",
+  "overview": "A bankrablást követõen néhány bűnözõ egy elhagyatott házban lel menedéket. Nem sejtik, miféle gonosz erõket zavartak meg szendergésükben. A régóta üresen álló és a civilizációtól elzárt ház minden, csak nem biztonságos. Az éjszaka beköszöntével a menekülteknek furcsa látomásaik támadnak, amelyek a házban réges-rég történt szörnyű eseményekrõl tanúskodnak. Ahogy a gonosz erõk fokozatosan testet öltenek, a társaságon egyre inkább úrrá lesz a rettegés. A kényszerű lakók egymás ellen fordulnak, és az ódon falak között elszabadul a pokol.",
+  "backdropPath": "/WyCraJdklEeet3hTJiAjzhmhWx.jpg",
+  "posterPath": "/1DDpg9nTFGKtYalRFzwGZZnYvYD.jpg",
+  "releaseDate": "2005-04-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9838291f-7081-454f-8a72-2a7f6eb1f060",
+      "title": "Halott madarak",
+      "subtitle": null,
+      "timestampString": "01:10:21",
+      "timestampInSeconds": 4221,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #65",
+        "youtubeId": "Nho9twpqK9c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Nho9twpqK9c/hqdefault.jpg",
+        "durationInMinutes": 210,
+        "releaseDate": 1420868167000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "db4ba854-30c9-4032-8122-3ef29e668d6e",
+  "title": "Országúti bosszú",
+  "originalTitle": "The Rover",
+  "overview": "Tíz évvel a világgazdaság összeomlása után egy ex-katona magányosan rója az utakat autójával. Egy nap betér egy út menti csehóba, majd arra lesz figyelmes, hogy elkötik a kint parkoló járgányát. Nem az értékről, hanem az elvről van szó: a kalandor nem tűri, hogy lopjanak tőle. Üldözőbe veszi az őt megrövidítő bűnözőket, és bár mindössze a saját autóját szeretné visszaszerezni, miután ezt szép szóval nem éri el, kíméletlen bosszúba kezd. Ebben váratlanul a segítségére lesz a banda egy rablás során megsérült és hátrahagyott tagja, a sótlan és szellemileg kissé visszamaradott Rey, akivel furcsa párost formálnak a bosszúhadjárat során.",
+  "backdropPath": "/wXI4ljoRVDBp2vHRoXKb2jPlmAj.jpg",
+  "posterPath": "/f3AtTZiawp3fqq4To0iBfaid0or.jpg",
+  "releaseDate": "2014-06-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e40cc1f2-c8ea-44b6-b52c-564d623af524",
+      "title": "Országúti bosszú",
+      "subtitle": null,
+      "timestampString": "00:47:28",
+      "timestampInSeconds": 2848,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #55",
+        "youtubeId": "QgGmQw_m1m8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/QgGmQw_m1m8/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1407941546000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

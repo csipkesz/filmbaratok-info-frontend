@@ -1,0 +1,45 @@
+{
+  "id": "bcf6dadf-d1f1-4358-9531-7337f8cb9293",
+  "title": "Finch",
+  "originalTitle": "Finch",
+  "overview": "Egy masszív napkitörés következtében az ózonréteg erősen megsérült, a Föld felszíne pedig lakhatatlanná vált. Az emberek többsége a föld alá menekült, s hasonlóképp tett főhősünk, Finch is, aki egyetlen élő társával, az ír terrier kutyussal, Goodyearrel éli túl a mindennapokat az őket körülvevő veszélyes és megtépázott világban.",
+  "backdropPath": "/uoc358GH6Yl7TufbUKHkETPu64B.jpg",
+  "posterPath": "/eEJtzD1F05xDipFEDY98CTH5yZn.jpg",
+  "releaseDate": "2021-11-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c9a7e4d2-c626-4b30-a8b1-6050db0b7838",
+      "title": "Finch",
+      "subtitle": null,
+      "timestampString": "03:27:15",
+      "timestampInSeconds": 12435,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #222",
+        "youtubeId": "KUigEmDa7Nc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/KUigEmDa7Nc/hqdefault.jpg",
+        "durationInMinutes": 265,
+        "releaseDate": 1637694008000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

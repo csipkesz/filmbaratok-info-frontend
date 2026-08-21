@@ -1,0 +1,41 @@
+{
+  "id": "a7509107-5763-4982-9c23-54763a14b0df",
+  "title": "A Simpson család - A film",
+  "originalTitle": "The Simpsons Movie",
+  "overview": "Springfieldben, az Örökzöld sétány 742. szám alatti házban élő Simpson család korántsem hétköznapi família. Nem elég, hogy sárgák (pedig nem is kínaiak), csúcsfejűek, gülüs szeműek, ráadásul imádják a fánkot. A kelekótya család bajba kerül, amikor a családfő, Homer véletlenül mérgező anyagot önt a városka folyójába. Arnold Schwarzenegger kormányzó emiatt katasztrófa sújtotta övezetnek nyilvánítja a várost, amely fölé üvegbúrát építenek, hogy elszigeteljék a külvilágtól. Homernek nincs más választása, a tettek mezejére kell lépnie, hogy megmentse a világot és a világukat.",
+  "backdropPath": "/8ln5VUVk7gnNGIb2VNgw8nICDVt.jpg",
+  "posterPath": "/1aYQNrsq5LLsdqUTfHe7XxbOiMq.jpg",
+  "releaseDate": "2007-07-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ca4f3e18-7f50-48b7-b410-415a60a40c1f",
+      "title": "A Simpson család - A film",
+      "subtitle": null,
+      "timestampString": "01:48:54",
+      "timestampInSeconds": 6534,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #309",
+        "youtubeId": "yH7NkqL8uXA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/yH7NkqL8uXA/hqdefault.jpg",
+        "durationInMinutes": 148,
+        "releaseDate": 1756490346000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

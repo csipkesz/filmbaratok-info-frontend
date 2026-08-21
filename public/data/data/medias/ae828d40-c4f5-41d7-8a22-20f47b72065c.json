@@ -1,0 +1,45 @@
+{
+  "id": "ae828d40-c4f5-41d7-8a22-20f47b72065c",
+  "title": "A csúf mostohatestvér",
+  "originalTitle": "Den stygge stesøsteren",
+  "overview": "A Grimm testvérek klasszikusa alapján. Hamupipőke történetét mindenki ismeri, ám ezúttal a gonosz mostohája, Elvira szemszögéből ismerhetjük meg a történéseket, aki épp ugyanúgy vágyik arra, hogy rátaláljon a herceg.",
+  "backdropPath": "/kG8bBajeSTUxJGmS47WujcraZUk.jpg",
+  "posterPath": "/xglqrmSAJikvaOzcUcYc4y9oF7Y.jpg",
+  "releaseDate": "2025-03-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "792cfe6d-1aef-4db6-aa80-5b7b62cd41a2",
+      "title": "A csúf mostohatestvér",
+      "subtitle": null,
+      "timestampString": "01:51:33",
+      "timestampInSeconds": 6693,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #304",
+        "youtubeId": "ok8JUwMUPIA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ok8JUwMUPIA/hqdefault.jpg",
+        "durationInMinutes": 212,
+        "releaseDate": 1749920369000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

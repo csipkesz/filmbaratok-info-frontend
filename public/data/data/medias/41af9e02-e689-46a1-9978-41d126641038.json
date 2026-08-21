@@ -1,0 +1,45 @@
+{
+  "id": "41af9e02-e689-46a1-9978-41d126641038",
+  "title": "Larry Crowne",
+  "originalTitle": "Larry Crowne",
+  "overview": "Larry Crowne-t váratlanul kirúgják a munkahelyéről. Hirtelenjében nem tud mit kezdeni a nyakába szakadt tengernyi időjével, a házára felvett kölcsönt viszont fizetnie kell. Miközben egy étteremben vállal munkát, a szomszédja tanácsára és a szebb jövő reményében beiratkozik a főiskolára. Kiderül, hogy csupa hasonszőrű, lúzer figura jár oda. Hamarosan megtetszik neki a szónoklattant oktató, csinos Mercedes Tainot. Az sem riasztja, hogy a nő ugyanúgy unja a tanítást, mint a férjét. Larry akaratlanul is hozzájárul, hogy a férje lapátra teszi nőt.",
+  "backdropPath": "/1kgIEwNkT5XxFgHy5glFHmNL7Dc.jpg",
+  "posterPath": "/sRODELMq8rTcX7LIwuIFf1SeBRv.jpg",
+  "releaseDate": "2011-06-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d1e33ae4-38e3-4d0a-a527-80b55ca7895e",
+      "title": "Larry Crowne",
+      "subtitle": null,
+      "timestampString": "02:37:50",
+      "timestampInSeconds": 9470,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #251",
+        "youtubeId": "sMMPgkRN14I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/sMMPgkRN14I/hqdefault.jpg",
+        "durationInMinutes": 273,
+        "releaseDate": 1678475107000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

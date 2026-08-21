@@ -1,0 +1,45 @@
+{
+  "id": "d28784f5-482f-47aa-b714-155879fdaf8b",
+  "title": "A bosszú",
+  "originalTitle": "A bosszú",
+  "overview": "Dosztojevszkij \"Feljegyzések az egérlyukból\" című novellája alapján készült.\r Dobronravovot, az egyszerű kishivatalnokot lenézik egykori iskolatársai. Ő azonban gondol egyet, és annak ellenére, hogy nem hívták meg a többiek a találkozójukra, elmegy. Majd amikor a gyűlölt \"gazdagok\" a görbe estét egy piros lámpás házban folytatják tovább, pénzt kér kölcsön, és oda is utánuk megy. Ekkor ismeri meg a szépséges Lizát...",
+  "backdropPath": null,
+  "posterPath": "/dlodDVw3DZo8Qq32dk75NV9ztzK.jpg",
+  "releaseDate": "1977-01-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f79ff676-fba3-4c09-bc42-a6c758f2b715",
+      "title": "A bosszú",
+      "subtitle": null,
+      "timestampString": "01:21:30",
+      "timestampInSeconds": 4890,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #143",
+        "youtubeId": "l804b8dtAzA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/l804b8dtAzA/hqdefault.jpg",
+        "durationInMinutes": 166,
+        "releaseDate": 1526485744000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

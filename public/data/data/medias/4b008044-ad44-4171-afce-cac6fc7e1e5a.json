@@ -1,0 +1,45 @@
+{
+  "id": "4b008044-ad44-4171-afce-cac6fc7e1e5a",
+  "title": "Dominó",
+  "originalTitle": "Domino",
+  "overview": "Egy koppenhágai rendőr társát egy titokzatos férfi meggyilkolja. A rendőr volt partnere szeretőjével kezd nyomozni az ügyben - mindketten küldetésként élik meg az elkövető levadászását. A hajsza közben akaratlanul egy CIA ügynök játszmájába csöppennek és egy nemzetközi macska-egér játszmában futnak versenyt az idővel. Már nem csak a bosszúvágy hajtja őket, a puszta túlélésért is küzdeniük kell.",
+  "backdropPath": "/oVW0qhssm5NsOqTEJgO9DRH2lYT.jpg",
+  "posterPath": "/xzWegKdeYkVzMIFBRmTWPEw1Dm4.jpg",
+  "releaseDate": "2019-05-31T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "887b4104-ec48-4cc8-96c4-094b3c47cca0",
+      "title": "Dominó",
+      "subtitle": null,
+      "timestampString": "02:27:24",
+      "timestampInSeconds": 8844,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #170",
+        "youtubeId": "tw65hAXphtM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tw65hAXphtM/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1561124178000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

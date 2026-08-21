@@ -1,0 +1,41 @@
+{
+  "id": "6104580d-36c6-440a-8cda-4cf8d7b37690",
+  "title": "Sisu",
+  "originalTitle": "Sisu",
+  "overview": "A sisu finn szó. Azt jelenti, hogy nem az a lényeg, ki milyen erős, hanem hogy nem szabad feladni. Aki nagyon akar valamit, az nem hal meg. Nem azért mert halhatatlan, hanem mert nem hajlandó rá. Aatami a kutyájával és a lovával él a végtelen pusztaságban: aranyásó. Amikor végre óriási aranyrögöket talál, az is csak azt bizonyítja, hogy nincs szerencséje. Hiszen a felperzselt Lappföldön van, az idő 1944, a környéken mindenütt aknák várják áldozataikat és a visszavonuló, barbár náci hordák már csak rabolni és gyilkolni akarnak. Ő mégis elindul a város felé. Viszi magával az aranyát. Akárhányan vadásznak rá, akárhányféleképpen próbálják lelőni, felrobbantani, agyonverni, vízbe fojtani, felakasztani vagy széjjeltépni, nem hajlandó meghalni. Akár egy hadsereggel is szembeszáll.",
+  "backdropPath": "/pBdQ4iorzRV2G38mdS6rzrmUfMA.jpg",
+  "posterPath": "/5Lxk0w2U8NCXGXPTBjMiw07FXfo.jpg",
+  "releaseDate": "2022-09-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2899f3a4-fed7-4972-91ca-a8dced118e5a",
+      "title": "Sisu",
+      "subtitle": null,
+      "timestampString": "01:56:45",
+      "timestampInSeconds": 7005,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #258",
+        "youtubeId": "sLW3E8Fk1Lk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/sLW3E8Fk1Lk/hqdefault.jpg",
+        "durationInMinutes": 200,
+        "releaseDate": 1689285300000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

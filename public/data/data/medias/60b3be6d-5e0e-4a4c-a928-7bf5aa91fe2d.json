@@ -1,0 +1,45 @@
+{
+  "id": "60b3be6d-5e0e-4a4c-a928-7bf5aa91fe2d",
+  "title": "A halál jele / Memories of murder",
+  "originalTitle": "살인의 추억",
+  "overview": "Park Doo-Man és Cho Yong-koo detektív egy brutális, kitervelt gyilkosság-sorozat ügyében nyomoznak. Négy év alatt, 1986-tól 1991-ig tíz nő esett áldozatul a kegyetlen sorozatgyilkosnak, akinek a kézre kerítéséért több mint 3000 gyanúsítottat hallgattak ki. A hatalmas nyomozásban több mint 300.000 rendőr vett részt. Senki sem maradt gyanún kívül. A különféle nyomozási módszerek alkalmazása ellenére a kegyetlen gyilkost a mai napig nem kapták el.",
+  "backdropPath": "/2NArMoObkAbnIPvqlHC3gRGsfBb.jpg",
+  "posterPath": "/sfp7xC7fGNW2baDGoVVGDcTctXG.jpg",
+  "releaseDate": "2003-04-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9d046437-5a34-43f8-a860-9731bce2d2bf",
+      "title": "A halál jele / Memories of murder",
+      "subtitle": null,
+      "timestampString": "01:07:10",
+      "timestampInSeconds": 4030,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #268",
+        "youtubeId": "9TmBeKJi0og",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9TmBeKJi0og/hqdefault.jpg",
+        "durationInMinutes": 211,
+        "releaseDate": 1702918793000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "49ee1250-2dcd-4922-8e14-f14ddf83efe8",
+  "title": "Capone",
+  "originalTitle": "Capone",
+  "overview": "Az egykor kegyetlen üzletember és szeszcsempész, Alfonse Capone vasszigorral uralta Chicago városát, aki az amerikai történelem leghírhedtebb és legfélelmetesebb gengszterévé vált. Negyvenhét évesen, közel egy évtizednyi börtönélet után a demencia elhatalmasodott Alfonse elméjén, a múlt kísértő és erőszakos emlékei azonban rendre megelevenedtek számára.",
+  "backdropPath": "/x7iqHlTbFpZDOMZJHNxfQsG7E13.jpg",
+  "posterPath": "/4dIo9k7aoJDi6OHK62YBAH3skOZ.jpg",
+  "releaseDate": "2020-06-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "364d8bbd-4524-499a-bc8f-2f691b1dd549",
+      "title": "Capone",
+      "subtitle": null,
+      "timestampString": "01:48:20",
+      "timestampInSeconds": 6500,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #190",
+        "youtubeId": "w7oFnCSc3u4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/w7oFnCSc3u4/hqdefault.jpg",
+        "durationInMinutes": 188,
+        "releaseDate": 1590603790000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

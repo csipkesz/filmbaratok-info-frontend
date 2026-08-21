@@ -1,0 +1,49 @@
+{
+  "id": "fdc44b7e-92ee-4862-8ac6-72d000a82b98",
+  "title": "A régi város",
+  "originalTitle": "Manchester by the Sea",
+  "overview": "Nem mintha olyan nagyszerű élete volna eddig, de Lee ragaszkodik hozzá. Amikor a bátyja halála után kiderül, hogy neki kell felelősséget vállalnia kamaszodó unokaöccséért, mégis kénytelen mindent feladni és visszaköltözni abba a kisvárosba, ahol felnőtt. És ahol túl sok emlék várja. Régi nő, régi barátok, régi titkok. És a feladat: túllendülni a gyászon, és talán belekezdeni egy másik életbe – amit a bátyja, a rábízott kamaszsrác apja választott számára.",
+  "backdropPath": "/fjk4eE8Ypke4YLv5A3ArDH4GzYH.jpg",
+  "posterPath": "/o4JLYLNA8cjVhmbnv1BCpGrhvhU.jpg",
+  "releaseDate": "2016-11-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c6757a3a-0b6e-480f-9c13-7051900695d9",
+      "title": "A régi város",
+      "subtitle": null,
+      "timestampString": "01:05:30",
+      "timestampInSeconds": 3930,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #117",
+        "youtubeId": "pgzo-WxFTbU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/pgzo-WxFTbU/hqdefault.jpg",
+        "durationInMinutes": 176,
+        "releaseDate": 1487953222000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "15a53a44-af10-4843-b447-7f9fbb845f56",
+            "name": "Szöllőskei Gábor"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

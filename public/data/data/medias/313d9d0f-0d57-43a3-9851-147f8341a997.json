@@ -1,0 +1,41 @@
+{
+  "id": "313d9d0f-0d57-43a3-9851-147f8341a997",
+  "title": "Fogságban",
+  "originalTitle": "Prisoners",
+  "overview": "Keller Dover minden szülő rémálmával néz szembe, mikor 6 éves kislánya, Anna, barátnőjével együtt eltűnik. A kétségbeesés óráiban teljesen eluralkodik a családon a pánik. Az egyetlen nyom egy rozzant lakókocsi, amit az utcájukban láttak parkolni. A nyomozást vezető detektív letartóztatja a sofőrt, Alex Jonest, de bizonyítékok hiányában mégis szabadon kell engednie. Az őrjöngő apa tudva, hogy gyermeke élete forog kockán és a rendőrség egyetlen nyomot követve nem bukkant a kislányokra, úgy dönt, nincs más esélye: kezébe veszi az irányítást, kerüljön bármibe.",
+  "backdropPath": "/3RFmTz5h2UuFWEV4oH00XICBR9y.jpg",
+  "posterPath": "/ojfvEddujBhYgdpuwdpGz50KkHZ.jpg",
+  "releaseDate": "2013-09-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0f889c54-f7d0-4c09-8ec7-b3e115b78791",
+      "title": "Fogságban",
+      "subtitle": null,
+      "timestampString": "03:21:35",
+      "timestampInSeconds": 12095,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #118",
+        "youtubeId": "tsYYwq3fdTw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tsYYwq3fdTw/hqdefault.jpg",
+        "durationInMinutes": 239,
+        "releaseDate": 1490634596000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

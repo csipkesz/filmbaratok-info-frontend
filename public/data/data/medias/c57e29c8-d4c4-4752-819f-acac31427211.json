@@ -1,0 +1,79 @@
+{
+  "id": "c57e29c8-d4c4-4752-819f-acac31427211",
+  "title": "Ősember",
+  "originalTitle": "Primal",
+  "overview": "Az történet főhőse egy barlanglakó az evolúció hajnalán, és egy dinoszaurusz a kihalás szélén. Egy tragédia összeköti őket, és ebben az erőszakos, ősi világban valószínűtlen kötelékük válik a túlélés egyetlen reményévé.",
+  "backdropPath": "/tbHQDtoDZGJsfe7Kx6BEShcrZAa.jpg",
+  "posterPath": "/7okrLdr2X2Nu30FbsI0v4uIqAGH.jpg",
+  "releaseDate": "2019-10-08T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "375de2e3-00e7-4ae7-924a-0de141e2d79a",
+      "title": "Ősember",
+      "subtitle": null,
+      "timestampString": "02:12:12",
+      "timestampInSeconds": 7932,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #138",
+        "youtubeId": "nNL55zk0j6I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nNL55zk0j6I/hqdefault.jpg",
+        "durationInMinutes": 255,
+        "releaseDate": 1519187400000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "641735af-43ca-4c0d-8534-2d7ac2670203",
+      "title": "Ősember",
+      "subtitle": null,
+      "timestampString": "02:21:32",
+      "timestampInSeconds": 8492,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #140",
+        "youtubeId": "LQ8tU4s4F2M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/LQ8tU4s4F2M/hqdefault.jpg",
+        "durationInMinutes": 184,
+        "releaseDate": 1521209750000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "21662b47-9031-47a5-ace4-cd9ce1ea1944",
+  "title": "Véletlenül írtam egy könyvet",
+  "originalTitle": "Véletlenül írtam egy könyvet",
+  "overview": "A családi film főszereplője, Katinka még csak 12 éves, de már tudja, hogy író szeretne lenni, méghozzá híres író. Ebben a szomszédjában élő, épp alkotói válságban szenvedő írónő segít neki, némi kertészkedésért cserébe. Miközben Katinka írni tanul, felfedezi családjának történetét, megismeri önmagát és feldolgozza anyukája elvesztésének traumáját, míg azon veszi észre magát, hogy az életéből egy kalandokkal teli, izgalmas könyv lett.",
+  "backdropPath": "/dMbTVD7ylqa9p7o0QN7bCoPZeGT.jpg",
+  "posterPath": "/fFya2L7H7XK333IISu1Ds8BFFWd.jpg",
+  "releaseDate": "2025-01-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "334c89a1-8a7a-4a4b-8822-95c05aad62c9",
+      "title": "Véletlenül írtam egy könyvet",
+      "subtitle": null,
+      "timestampString": "02:35:00",
+      "timestampInSeconds": 9300,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #296",
+        "youtubeId": "2X4YekH4jj4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/2X4YekH4jj4/hqdefault.jpg",
+        "durationInMinutes": 189,
+        "releaseDate": 1739562524000,
+        "participants": [
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

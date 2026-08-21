@@ -1,0 +1,41 @@
+{
+  "id": "c5c4cbbb-ec0f-49a4-9092-9820ceaf4905",
+  "title": "Gallipoli",
+  "originalTitle": "Gallipoli",
+  "overview": "Ausztrália és németekkel szövetkezett törökök közti összecsapás századik évfordulójára készült egy mini-sorozat, mely igyekszik felidézni ezt az emlékezetes eseményt, melyet már 1981-ben Peter Weir feldolgozott. ",
+  "backdropPath": "/6s6egHhbGlgWR82y3tA2YAw6tjv.jpg",
+  "posterPath": "/oreAFlmrnEsxNwZvLxBAeyYUyY9.jpg",
+  "releaseDate": "2015-02-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a72f641c-bce6-41c8-bef7-c13633d2d432",
+      "title": "Gallipoli",
+      "subtitle": null,
+      "timestampString": "01:36:45",
+      "timestampInSeconds": 5805,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #54",
+        "youtubeId": "z2MBRvmBR0k",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z2MBRvmBR0k/hqdefault.jpg",
+        "durationInMinutes": 188,
+        "releaseDate": 1406308806000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "c533c238-5a0c-489f-a6ae-8afd213a936a",
+  "title": "Westworld",
+  "originalTitle": "Westworld",
+  "overview": "Az 1973-as Feltámad a vadnyugat című film alapján készült sorozat a jövőbe kalauzolja el a nézőt. Helyszíne egy kalandpark, ahol szép kis summáért vakációzhat a lakosság tehetősebb része.",
+  "backdropPath": "/rX5hvSRB2k4YoIvRg6Zky52rWk0.jpg",
+  "posterPath": "/ALlSU9du9iRiKIIoY1sREGNqQ5.jpg",
+  "releaseDate": "2016-10-02T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "98725c6d-5528-44a0-b419-06ae19d13177",
+      "title": "Westworld (1. évad)",
+      "subtitle": "1. évad",
+      "timestampString": "01:56:40",
+      "timestampInSeconds": 7000,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #112",
+        "youtubeId": "M7gzW5_pVZk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/M7gzW5_pVZk/hqdefault.jpg",
+        "durationInMinutes": 160,
+        "releaseDate": 1481731219000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

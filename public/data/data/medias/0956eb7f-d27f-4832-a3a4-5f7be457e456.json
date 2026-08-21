@@ -1,0 +1,45 @@
+{
+  "id": "0956eb7f-d27f-4832-a3a4-5f7be457e456",
+  "title": "A fekete múmia átka",
+  "originalTitle": "A fekete múmia átka",
+  "overview": "A film a \"Detektív, a cowboy és a légió\" című kisregényt, Rejtő Jenő egyik kevésbé ismert művét adaptálja: egy fergeteges komédia keretében mutatja be az irodalmi kávéház közegét. Görbe tükröt állítva hívja a nézőt a kulisszák mögé, hogy betekintést nyerhessünk, hogyan is születtek az évszázad legsikeresebb ponyvaregényei.",
+  "backdropPath": "/trBIHJ7Ntz3nbaBVlj04adO085t.jpg",
+  "posterPath": "/sYj8QZoF9BNtoHg3YZwfQzitVHt.jpg",
+  "releaseDate": "2015-09-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "189d003a-ea02-4e76-8dbf-091ced8330c7",
+      "title": "A fekete múmia átka",
+      "subtitle": null,
+      "timestampString": "01:36:13",
+      "timestampInSeconds": 5773,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #82",
+        "youtubeId": "g8wdyUhhVtI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/g8wdyUhhVtI/hqdefault.jpg",
+        "durationInMinutes": 170,
+        "releaseDate": 1443630602000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

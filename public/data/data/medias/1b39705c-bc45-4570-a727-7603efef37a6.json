@@ -1,0 +1,49 @@
+{
+  "id": "1b39705c-bc45-4570-a727-7603efef37a6",
+  "title": "Pókember: Nincs hazaút",
+  "originalTitle": "Spider-Man: No Way Home",
+  "overview": "Peter Parker lelepleződik, már nem tudja elválasztani a normális és a szuperhős életét. Amikor Strange segítségét kéri, a tét még veszélyesebbé válik, és arra kényszeríti, hogy felfedezze, mit is jelent valójában Pókembernek lenni.",
+  "backdropPath": "/uyrOU4BDm2kbVxFsMiDFIHDhc4d.jpg",
+  "posterPath": "/nKFco1gLSpSwAb9Z8ZjDjM1Byol.jpg",
+  "releaseDate": "2021-12-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4a53e8c1-a639-46df-bd2f-8295f3c39301",
+      "title": "Pókember: Nincs hazaút [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "00:24:22",
+      "timestampInSeconds": 1462,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #224",
+        "youtubeId": "Qi7D54DuANc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Qi7D54DuANc/hqdefault.jpg",
+        "durationInMinutes": 380,
+        "releaseDate": 1640954125000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

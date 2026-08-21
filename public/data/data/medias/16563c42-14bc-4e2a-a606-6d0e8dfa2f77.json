@@ -1,0 +1,41 @@
+{
+  "id": "16563c42-14bc-4e2a-a606-6d0e8dfa2f77",
+  "title": "Bridget Jones: Bolondulásig",
+  "originalTitle": "Bridget Jones: Mad About the Boy",
+  "overview": "Bridget Jones végre szerencsés az életben. Van egy remek forgatókönyvírói állása, kis, bár apátlan családja és egy új barátja. Ám hamarosan nem csak az okoz gondot, hogy a férfi több mint húsz évvel fiatalabb nála...",
+  "backdropPath": "/zwSDvbnN51JqU1ULzPnEc22DkqV.jpg",
+  "posterPath": "/tSW4GXL89mzD4tJXnZysFhrrGpq.jpg",
+  "releaseDate": "2025-02-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5146e981-aaee-4c3c-b6b1-189fb5965c86",
+      "title": "Bridget Jones: Bolondulásig",
+      "subtitle": null,
+      "timestampString": "01:59:36",
+      "timestampInSeconds": 7176,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #297",
+        "youtubeId": "3hKlobo8elk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3hKlobo8elk/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1740760443000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

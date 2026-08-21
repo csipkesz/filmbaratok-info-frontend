@@ -1,0 +1,45 @@
+{
+  "id": "cc13bec5-f33d-4aae-a91f-e7c4a6d6b31b",
+  "title": "Káposztaleves",
+  "originalTitle": "La Soupe aux choux",
+  "overview": "Claude és Francis, a két falusi parasztember, vagy ahogy lakóhelyükön szólítják őket Puklis és Kló, nem örvendenek túl nagy népszerűségnek, hála otromba és ostoba tréfáiknak. Amikor éppen vidám szellentő bajnoksággal múlatják idejüket, elementáris elektromos vihar szabadul el villámlásokkal kísérve. Mindez egy furcsa földönkívüli lény látogatását előzi meg, aki hatalmas űrhajójával a veteményesben landol. Az idegen viszonylag barátságos és valósággal rajong a káposztalevesért, ezért felveszi Claude feleségének alakját, hogy tovább maradhasson a Földön.",
+  "backdropPath": "/6FLkGMQXlEJDDpkynZCYlchx2E0.jpg",
+  "posterPath": "/3cxxRraeXD2WjnY8xyM70hTlbOA.jpg",
+  "releaseDate": "1981-12-02T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a79845bf-1ca9-49ec-8aae-c1c39f747433",
+      "title": "Káposztaleves",
+      "subtitle": null,
+      "timestampString": "02:21:09",
+      "timestampInSeconds": 8469,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #74",
+        "youtubeId": "-_t5F-ALz2U",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-_t5F-ALz2U/hqdefault.jpg",
+        "durationInMinutes": 173,
+        "releaseDate": 1432541028000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

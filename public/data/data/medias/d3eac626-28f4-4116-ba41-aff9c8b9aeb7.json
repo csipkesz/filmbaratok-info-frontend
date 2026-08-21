@@ -1,0 +1,41 @@
+{
+  "id": "d3eac626-28f4-4116-ba41-aff9c8b9aeb7",
+  "title": "Bugonia",
+  "originalTitle": "Bugonia",
+  "overview": "Két konspirációmániás fiatalember elrabolja egy multicég befolyásos igazgatóját, mert szilárd meggyőződésük, hogy a nő földönkívüli, és az a szándéka, hogy elpusztítsa a Földet… Yorgos Lanthimos rendező (Szegény párák, A kedvenc, A kegyelem fajtái) ezúttal egy 2003-as koreai film (Mentsétek meg a zöld bolygót) remake-jével lepi meg a mozinézőket Emma Stone (Szegény párák, A kedvenc, A kegyelem fajtái) és Jesse Plemons (A kegyelem fajtái, Megfojtott virágok, A kutya karmai közt) segítségével.",
+  "backdropPath": "/tN3pTxkQoP96wtaEahYuRVdUWb2.jpg",
+  "posterPath": "/rSdOua3wKMEaFWDcKAYWRjXQWOt.jpg",
+  "releaseDate": "2025-10-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "adee73ff-5487-4334-bddb-748426b85568",
+      "title": "Bugonia",
+      "subtitle": null,
+      "timestampString": "02:05:15",
+      "timestampInSeconds": 7515,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #314",
+        "youtubeId": "tV5E0wGOsV8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tV5E0wGOsV8/hqdefault.jpg",
+        "durationInMinutes": 217,
+        "releaseDate": 1763147106000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

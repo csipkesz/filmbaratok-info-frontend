@@ -1,0 +1,49 @@
+{
+  "id": "effda226-e002-4768-ae9d-7a480ee825f7",
+  "title": "A martfűi rém",
+  "originalTitle": "A martfűi rém",
+  "overview": "Halálra ítéltek egy férfit egy fiatal nő brutális meggyilkolásáért Martfűn, 1957-ben. Hét évvel később azonban ismét egymást követik a megrázó halálesetek. A forradalom utáni politikai tébolyban nehéz megtalálni az összefüggéseket és újra felvenni a nyomozás fonalát. Egy országban, ahol nem léteznek sorozatgyilkosok, egyre több az áldozat. A kirendelt fiatal ügyésznek minden kitartására szükség lesz, ha le akarja leplezni a rettegő kisváros kíméletlen ragadozóját.",
+  "backdropPath": "/iYTWSplMqEuUTZt85jKvNFlmzPH.jpg",
+  "posterPath": "/zk8AdxhckMsh2FsjG9oeLRwUkkI.jpg",
+  "releaseDate": "2016-11-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "23ec0301-6dc2-4ac0-826d-36a812e75c0d",
+      "title": "A martfűi rém",
+      "subtitle": null,
+      "timestampString": "02:30:03",
+      "timestampInSeconds": 9003,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #110",
+        "youtubeId": "8krx-cw6vdg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/8krx-cw6vdg/hqdefault.jpg",
+        "durationInMinutes": 260,
+        "releaseDate": 1479296565000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

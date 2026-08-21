@@ -1,0 +1,45 @@
+{
+  "id": "6022f418-f3d7-4d1b-9c5e-2e710a279722",
+  "title": "Tűzgyűrű: Lázadás",
+  "originalTitle": "Pacific Rim: Uprising",
+  "overview": "Tíz év telt el azóta, hogy idegen dimenziókból lények, kaijuk érkeztek a Földre, s az óceánok mélyéről támadást indítottak az emberiség ellen. A Jaeger program, mely a kaijukkal harcoló óriásrobotokat felvértezte, azóta az emberi történelem legerősebb védelmi erejevé fejlődött. Miután az idegenek általi fenyegetés még mindig ott lóg a levegőben, újra olyan hősöket keresnek, akik fel tudják venni a harcot a pusztító ellenséggel.",
+  "backdropPath": "/oMaj75G2WFw66xI1TREg1hrToSg.jpg",
+  "posterPath": "/deMneQYuuyDqdvxwP4FccpHGSgp.jpg",
+  "releaseDate": "2018-03-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4c298f1a-e783-47c8-92ce-1d6b33fa0fe2",
+      "title": "Tűzgyűrű: Lázadás",
+      "subtitle": null,
+      "timestampString": "00:54:30",
+      "timestampInSeconds": 3270,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #142",
+        "youtubeId": "9S7p7P1Y2po",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9S7p7P1Y2po/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1525105433000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

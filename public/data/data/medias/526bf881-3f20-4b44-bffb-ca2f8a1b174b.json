@@ -1,0 +1,62 @@
+{
+  "id": "526bf881-3f20-4b44-bffb-ca2f8a1b174b",
+  "title": "Thor",
+  "originalTitle": "Thor",
+  "overview": "Thor meggondolatlan tette miatt újra fellángol egy régi háború. Büntetésül a Földre száműzik, ahol kénytelen az emberek között élni. Amikor a világából érkező gonosz le akarja igázni a Földet, Thornak el kell döntenie, melyik oldalra áll.",
+  "backdropPath": "/cDJ61O1STtbWNBwefuqVrRe3d7l.jpg",
+  "posterPath": "/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg",
+  "releaseDate": "2011-04-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4b836c98-f445-412b-bee2-eae82ed2a9ab",
+      "title": "Thor",
+      "subtitle": null,
+      "timestampString": "01:55:23",
+      "timestampInSeconds": 6923,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #157",
+        "youtubeId": "IAfkWR4qRU4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IAfkWR4qRU4/hqdefault.jpg",
+        "durationInMinutes": 222,
+        "releaseDate": 1545146746000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ab96c8a5-727d-4223-bfac-24f37114b1a1",
+      "title": "Thor (freddy kiadás)",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "AUDIO_COMMENTARY",
+        "title": "Filmbarátok audiokommentár: Thor (freddy kiadás)",
+        "youtubeId": "EGlhJFAMfPM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/EGlhJFAMfPM/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1546705652000,
+        "participants": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "eb8cb567-5340-482d-829a-ad46babde2a1",
+  "title": "Legénylakás",
+  "originalTitle": "The Apartment",
+  "overview": "A szürke kis irodakukac, \"Buddy\" Baxter egyszerűen képtelen nemet mondani, amikor főnökei nógatják: engedje át legénylakását holmi alkalmi légyottokhoz. Mivel fél, hogy végképp elvágja magát a munkahelyén, jobb meggyőződése ellenére ismét és ismét enged - mígnem egy este ott találja a lakásán közvetlen főnöke elhagyott szeretőjét, aki bánatában kis híján öngyilkos lett. Miss Kubelik, a liftes lány az illető, akibe titkon Baxter maga is szerelmes. Most két legyet üthet egy csapásra: megmenti imádottja életét, s életében első ízben a szavát is felemeli mind a lány, mind a maga érdekében.",
+  "backdropPath": "/2L8U8rUyWeFTb6n1egTNeJsEsvj.jpg",
+  "posterPath": "/zuZC6UI6mOR4A9tzLzB92JxFH5p.jpg",
+  "releaseDate": "1960-06-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4e21b52b-87ea-40cb-82f4-795733fb2de5",
+      "title": "Legénylakás",
+      "subtitle": null,
+      "timestampString": "02:14:44",
+      "timestampInSeconds": 8084,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #49",
+        "youtubeId": "KInB1pvzVo0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/KInB1pvzVo0/hqdefault.jpg",
+        "durationInMinutes": 177,
+        "releaseDate": 1397986559000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

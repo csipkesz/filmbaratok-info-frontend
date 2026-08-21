@@ -1,0 +1,41 @@
+{
+  "id": "e3ba4fa9-f90a-4c0a-8e66-6fbc71d3d1c9",
+  "title": "Halálos Iramban 8",
+  "originalTitle": "The Fate of the Furious",
+  "overview": "Dom és Letty nászúton vannak, Brian és Mia pedig kiszálltak a játékból. A világjáró csapat többi tagja szétszéledt, és próbálnak a normálisra emlékeztető életet élni. Ám egy titokzatos nő visszacsábítja Domot a bűn világába, ahonnét, úgy tűnik, nincs menekvés, sőt, arra is ráveszi, hogy árulja el a hozzá legközelebb állókat...  A kubai partoktól New York utcáin át a Barents tenger jégpáncéljáig világszerte számos helyen folyik a hajsza, amit hőseink csapata folytat, hogy útját állják egy anarchistának, aki káoszt akar a világra szabadítani... és hogy hazahozzák a férfit, aki családot csinált belőlük.",
+  "backdropPath": "/3IJ8kG8i84PncXkSovu0PaZQfjM.jpg",
+  "posterPath": "/3TTCwqMbLXINCy0OLOcPiNepWOC.jpg",
+  "releaseDate": "2017-04-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "036640a4-12c3-47db-bb5b-0d8ceeb5bcb6",
+      "title": "Halálos Iramban 8",
+      "subtitle": null,
+      "timestampString": "01:25:45",
+      "timestampInSeconds": 5145,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #120",
+        "youtubeId": "-3teFOfAauw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-3teFOfAauw/hqdefault.jpg",
+        "durationInMinutes": 251,
+        "releaseDate": 1493646027000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "8a7cacf9-0c72-4ce5-8c93-c9f44ac759bb",
+  "title": "Straight Outta Compton",
+  "originalTitle": "Straight Outta Compton",
+  "overview": "Az 1980-as évek közepén a kaliforniai Compton utcái az ország legveszélyesebbjeinek számítottak. Öt fiatal férfi brutálisan őszinte zenébe öntötte élményeit arról, hogy hogyan nőttek fel, hogyan lázadtak a bántalmazó hatóságok ellen: kirobbanó hangot adtak egy elnémított generációnak. Az N.W.A. nevű formáció valósággal forradalmasítja a zenét és a popkultúrát. Azonban amilyen robbanásszerű a felemelkedés, olyan hirtelen jön a bukás is...",
+  "backdropPath": "/8r9RoGfwGmn1pn0G3sbvHHemSWF.jpg",
+  "posterPath": "/rXxalYuaRtEs4PN5OdJpuNpPA9s.jpg",
+  "releaseDate": "2015-08-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "15885e4c-db2a-4f81-b319-9cb635ac0faa",
+      "title": "Straight Outta Compton",
+      "subtitle": null,
+      "timestampString": "03:04:15",
+      "timestampInSeconds": 11055,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #235",
+        "youtubeId": "E8HgTAqoW8U",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E8HgTAqoW8U/hqdefault.jpg",
+        "durationInMinutes": 220,
+        "releaseDate": 1657007879000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "e4d249a5-e251-44d9-8c10-8e2e3e9a6069",
+            "name": "Anna"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "836e8578-76da-42c2-a7cc-cd5e5b2ccf50",
+  "title": "Grand Budapest Hotel",
+  "originalTitle": "The Grand Budapest Hotel",
+  "overview": "Valahol a békés, bogaras Európában, valamikor a békeidőkben, a két világháború között működött egy elegáns hotel: a Grand Budapest. Vendégei átlagos arisztokraták, vénkisasszonyok és műkincstolvajok; alkalmazottai pedig a legjobbak a szakmájukban. Gustave, a híres főportás itt barátkozott össze az egyszerű küldönccel, Zero Musztafával, akivel együtt keverednek bele az évszázad festményrablásába. Miközben a felbecsülhetetlen értékű reneszánsz képet keresik, egy családi vagyon elvesztése vagy visszaszerzése is kockán forog: és a nyomozás meghökkentő fordulatai magukkal ragadják a hotel összes lakóját.",
+  "backdropPath": "/9udCLTxTFl28RxnK8Q05E154ZGa.jpg",
+  "posterPath": "/fEHXKrdNjtf5R7YAA0ssVZLJLOa.jpg",
+  "releaseDate": "2014-02-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7df70c3b-44a4-4bad-a4c4-65e52ce68741",
+      "title": "Grand Budapest Hotel",
+      "subtitle": null,
+      "timestampString": "01:17:43",
+      "timestampInSeconds": 4663,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #49",
+        "youtubeId": "KInB1pvzVo0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/KInB1pvzVo0/hqdefault.jpg",
+        "durationInMinutes": 177,
+        "releaseDate": 1397986559000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

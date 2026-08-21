@@ -1,0 +1,41 @@
+{
+  "id": "4e755832-ea12-4f67-b81d-87615575c42d",
+  "title": "X akták: A film",
+  "originalTitle": "The X-Files",
+  "overview": "Öt esztendős vizsgálat után a kormány lezártnak tekinti az X-aktákat. Egy dallas-i eset kapcsán azonban Mulder ügynök ismét gyanút fog. A városban ugyanis felrobbant és porig égett az egyik épület. A romok között pedig emberi maradványokat találtak. Muldernek a fülébe jut, hogy talán nem is igazi áldozatok ők és már halottak lehettek a robbanás idején. Úgy tűnik, hogy a kormány valamilyen titkos program bizonyítékait akarta így eltüntetni. Mulder választ szeretne kapni a kérdéseire. Amikor szimatolása közben Scully-t újra elrabolják, utána ered és megdöbbentő felfedezésre jut. A mozifilm az V.-VI. szezonok között helyezkedik el, a VI. szezon kezdetéhez szükséges a nagyfilm ismerete.",
+  "backdropPath": "/2YIzEKCMfexbLIoeVUkR8MPayB2.jpg",
+  "posterPath": "/qSH3gWKIDF44xRnTqVpWwAajrFq.jpg",
+  "releaseDate": "1998-06-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1405341c-7bf5-4a93-b7e3-e69b6e2fc1be",
+      "title": "X akták: A film",
+      "subtitle": null,
+      "timestampString": "01:16:11",
+      "timestampInSeconds": 4571,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #47",
+        "youtubeId": "48-yuKdU7cg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/48-yuKdU7cg/hqdefault.jpg",
+        "durationInMinutes": 147,
+        "releaseDate": 1394966291000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

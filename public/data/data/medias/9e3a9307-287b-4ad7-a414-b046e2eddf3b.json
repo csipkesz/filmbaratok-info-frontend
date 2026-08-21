@@ -1,0 +1,45 @@
+{
+  "id": "9e3a9307-287b-4ad7-a414-b046e2eddf3b",
+  "title": "A halálod appja",
+  "originalTitle": "Countdown",
+  "overview": "Az okostelefonok teljesen átszövik mindennapjainkat, egymás után jelennek meg a hasznosabbnál hasznosabb applikációk, a legújabb őrületnek azonban az az alkalmazás számít, amely képes megjósolni, mennyi van hátra az életünkből. Quinn döbbenten veszi észre, hogy mindössze két napja maradt. A másodpercek egyre csak peregnek visszafelé, a lány pedig próbál versenyt futni az idővel, miközben egy gyanús és sötét alak is a nyomába…",
+  "backdropPath": "/jGq40i1j9lrxt6HVKLFKSqREjXj.jpg",
+  "posterPath": "/fWRmunMryydpmH6imSQxjVYJzh9.jpg",
+  "releaseDate": "2019-10-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1608f532-aba3-4c72-87b1-41a32e11c64b",
+      "title": "A halálod appja",
+      "subtitle": null,
+      "timestampString": "02:06:18",
+      "timestampInSeconds": 7578,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #179",
+        "youtubeId": "xquBnjUaMAg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/xquBnjUaMAg/hqdefault.jpg",
+        "durationInMinutes": 206,
+        "releaseDate": 1574800160000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "e4d249a5-e251-44d9-8c10-8e2e3e9a6069",
+            "name": "Anna"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

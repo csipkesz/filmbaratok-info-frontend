@@ -1,0 +1,45 @@
+{
+  "id": "92ff715a-876e-43ae-a885-5ab66248f9cc",
+  "title": "Egy nap",
+  "originalTitle": "Egy nap",
+  "overview": "Anna 40 körül van. Rohan. Van három gyereke, férje, munkája, anyagi szorongása. A pénzük fillérre, a napjaik percekre vannak beosztva. Anna odaér, megígér, elintéz, elhoz, fejben tart, órát tart. Anna nem éri utol a férjét. Szeretne beszélni vele. Úgy érzi, muszáj lenne. Úgy érzi, elveszti őt. És úgy érzi, nem térhet ki a mindig soron következő feladat elől. A hétköznapi, a masszívan monoton ütközik a törékennyel, a nem ismételhetővel.",
+  "backdropPath": "/AlOZspnOJyOLJzBpN53B9oq9u0I.jpg",
+  "posterPath": "/l60rKvduu1joKNAuLcyf2zyr1lT.jpg",
+  "releaseDate": "2018-10-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3ddbc0a7-891f-46bc-99ae-e6ce6ca6b988",
+      "title": "Egy nap",
+      "subtitle": null,
+      "timestampString": "01:51:33",
+      "timestampInSeconds": 6693,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #156",
+        "youtubeId": "cklwRxW_tOo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/cklwRxW_tOo/hqdefault.jpg",
+        "durationInMinutes": 258,
+        "releaseDate": 1543425795000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

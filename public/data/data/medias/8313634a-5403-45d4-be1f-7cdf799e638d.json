@@ -1,0 +1,58 @@
+{
+  "id": "8313634a-5403-45d4-be1f-7cdf799e638d",
+  "title": "Nincs Alku",
+  "originalTitle": "The Negotiator",
+  "overview": "Pattanásig feszült a helyzet a chicagói rendőrség belső ügyeit vizsgáló osztály központjánál. Rendőrségi helikopterek köröznek a 20. emelet körül, mesterlövészek állnak készenlétben a szomszédos háztetőkön, s távcsöves puskájukat egy férfira szegezik. A célpont Danny Roman (Samuel L. Jackson), aki viszont a maga fegyverével tartja sakkban a hivatal vezetőjét és munkatársait. Roman azért szánta el magát erre az elkeseredett lépésre, mert tisztázni akarja magát gyilkosság és sikkasztás vádja alól. Időt kell nyernie, s Roman pontosan tudja: addig figyelnek rá, míg emberek élete forog kockán. Tökéletesen meg van győződve igazáról - hiszen Danny Roman chicagói rendőrtiszt a túszügyek legkiválóbb szakértője. Csakhogy most maga Roman szedett túszokat, mert szüksége van valakire, aki meghallgatja őt. Ezért azt követeli, hogy a másik kerület ismert s hozzá hasonlóan tapasztalt közvetítőjét.",
+  "backdropPath": "/y4TbQOC9DCzZop9HwKuX73rKbYO.jpg",
+  "posterPath": "/mabdYVV9TPlCH1AuK4VI57jOLbW.jpg",
+  "releaseDate": "1998-07-29T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "73b07189-fb4a-41f0-aa9e-ce261a0d8ad0",
+      "title": "Nincs alku",
+      "subtitle": null,
+      "timestampString": "02:47:08",
+      "timestampInSeconds": 10028,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #54",
+        "youtubeId": "z2MBRvmBR0k",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z2MBRvmBR0k/hqdefault.jpg",
+        "durationInMinutes": 188,
+        "releaseDate": 1406308806000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ddabd11d-cb68-4bb9-bf99-8e26c131cdc1",
+      "title": "Nincs Alku (Blacksheep)",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Nincs Alku (Blacksheep)",
+        "youtubeId": "RY-gkBbPdwY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/RY-gkBbPdwY/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1406308816000,
+        "participants": []
+      }
+    }
+  ]
+}

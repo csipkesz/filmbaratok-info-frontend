@@ -1,0 +1,45 @@
+{
+  "id": "b624d6b7-61c2-47cf-a5bd-9dd46f33dac9",
+  "title": "The Texas Chainsaw Massacre (1974) / A texasi láncfűrészes mészárlás",
+  "originalTitle": null,
+  "overview": null,
+  "backdropPath": null,
+  "posterPath": null,
+  "releaseDate": null,
+  "topics": [
+    {
+      "id": "b24b792c-bf3a-41d6-805c-19756e9a683a",
+      "title": "The Texas Chainsaw Massacre (1974) / A texasi láncfűrészes mészárlás",
+      "subtitle": null,
+      "timestampString": "02:31:31",
+      "timestampInSeconds": 9091,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #77",
+        "youtubeId": "GxURCHDmpLM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GxURCHDmpLM/hqdefault.jpg",
+        "durationInMinutes": 246,
+        "releaseDate": 1437150395000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

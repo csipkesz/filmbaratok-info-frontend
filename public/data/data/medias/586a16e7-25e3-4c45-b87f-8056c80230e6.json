@@ -1,0 +1,45 @@
+{
+  "id": "586a16e7-25e3-4c45-b87f-8056c80230e6",
+  "title": "Bosszúvágy [2018]",
+  "originalTitle": "Death Wish",
+  "overview": "A chicagói sebészorvos, Dr. Paul Kersey csak közvetetten ismeri az utcai erőszakot, amit a műtőjébe került számtalan áldozat szenved el. Ám mindez megváltozik, mikor feleségét és lányát brutális támadás éri külvárosi otthonukban. Megelégelve a túlterhelt rendőrség tétlenségét, a bosszúvágytól fűtött Paul maga ered az elkövetők nyomába, hogy igazságot szolgáltasson.",
+  "backdropPath": "/uQqQvmptJLPTcWDrZXn22p7j7s3.jpg",
+  "posterPath": "/kaeflLo7mWil4Ia5JCbdzjCSA6b.jpg",
+  "releaseDate": "2018-03-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "87f2cebb-d175-476b-939f-d244cb35e88a",
+      "title": "Bosszúvágy [2018]",
+      "subtitle": null,
+      "timestampString": "01:50:25",
+      "timestampInSeconds": 6625,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #173",
+        "youtubeId": "JMHD67V99Tw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JMHD67V99Tw/hqdefault.jpg",
+        "durationInMinutes": 178,
+        "releaseDate": 1565982605000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

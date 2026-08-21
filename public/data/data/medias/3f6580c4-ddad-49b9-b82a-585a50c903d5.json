@@ -1,0 +1,41 @@
+{
+  "id": "3f6580c4-ddad-49b9-b82a-585a50c903d5",
+  "title": "Horizont: Egy amerikai eposz",
+  "originalTitle": "Horizon: An American Saga - Chapter 1",
+  "overview": "Új-Mexikó 1861-ben: Az amerikai polgárháború a küszöbön áll, amelynek előszele megrázza Észak-Amerika déli részét. Fehér úttörők foglalják el az apacsok területeit, akik erőszakosan ellenállnak kisajátításuknak. De a telepesek között is vér folyik. A hírhedt Sykes fivérek apját egy támadásban megölik. Íme, a régi vadnyugat, ahogy mindenki imádja! A Horizont: Egy amerikai eposz az amerikai polgárháború korában játszódik. Egy tizenötéves időszakot ölel fel az 1860-as években, a háború előtti és utáni időszak megidézésével. A nagyszabású film érzelmes utazásra invitál, amelyben a néző a családok, a barátok és az ellenségek szemszögén keresztül tapasztalhatja meg, milyen volt Amerika hőskora.",
+  "backdropPath": "/8UOAYjhwSF3aPZhm6wgLuyHRyrR.jpg",
+  "posterPath": "/u8yrC0rSV8uC8HHPPSjCNtceGcx.jpg",
+  "releaseDate": "2024-06-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4671d7a9-01c1-4a5d-8b86-ecf1a3b08639",
+      "title": "Horizont: Egy amerikai eposz",
+      "subtitle": null,
+      "timestampString": "01:27:30",
+      "timestampInSeconds": 5250,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #282",
+        "youtubeId": "gcFN31mIkUo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gcFN31mIkUo/hqdefault.jpg",
+        "durationInMinutes": 188,
+        "releaseDate": 1720893631000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

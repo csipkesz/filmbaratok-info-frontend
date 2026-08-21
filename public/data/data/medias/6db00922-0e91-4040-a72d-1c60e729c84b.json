@@ -1,0 +1,41 @@
+{
+  "id": "6db00922-0e91-4040-a72d-1c60e729c84b",
+  "title": "A pusztító",
+  "originalTitle": "Demolition Man",
+  "overview": "Phoenix, Los Angeles legelvetemültebb bűnözője összetűzésbe kerül minden idők legbrutálisabb zsarujával, Spartannal. Bár a harc döntetlennel ér véget, mindketten Kalifornia kirogenikus börtönébe kerülnek, ahol mélyfagyasztott állapotban várják büntetésük végét. 2032-ben azonban a tökéletesen erőszakmentes társadalomban Phoenix kiszabadul és ismét pokoli időszak köszönt a városra, melynek irányítói rövidesen belátják, csak egy ember képes megfékezni a fékevesztett terminátort: a nála is durvább Pusztító.",
+  "backdropPath": "/4pl165EUdvveHCr4J4YcHVA1MnD.jpg",
+  "posterPath": "/pApk7Vm7sEHUUQNzYDMjhRHmSee.jpg",
+  "releaseDate": "1993-10-08T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2e841d98-6380-45e7-af08-97ee3bd75fcb",
+      "title": "A pusztító",
+      "subtitle": null,
+      "timestampString": "01:54:35",
+      "timestampInSeconds": 6875,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #313",
+        "youtubeId": "hdAN5nf2KLo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/hdAN5nf2KLo/hqdefault.jpg",
+        "durationInMinutes": 179,
+        "releaseDate": 1761828306000,
+        "participants": [
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

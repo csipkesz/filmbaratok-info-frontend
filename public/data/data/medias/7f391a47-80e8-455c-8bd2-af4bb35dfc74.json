@@ -1,0 +1,45 @@
+{
+  "id": "7f391a47-80e8-455c-8bd2-af4bb35dfc74",
+  "title": "A vér földje / Let him go",
+  "originalTitle": "Let Him Go",
+  "overview": "Fia elvesztése után egy nyugdíjas seriff és felesége elhagyják montanai tanyájukat, hogy megmentsék fiatal unokájukat egy, a dakoták határain kívül élő veszélyes család karmaiból.",
+  "backdropPath": "/ZLD4pjmMLt9I3t1a7SFJBekIh1.jpg",
+  "posterPath": "/7ukqbNScEVCQjg5pVWTNGL1AOAh.jpg",
+  "releaseDate": "2020-11-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "890f77f5-1692-41a8-b491-385861cb4e46",
+      "title": "A vér földje / Let him go",
+      "subtitle": null,
+      "timestampString": "03:35:28",
+      "timestampInSeconds": 12928,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #245",
+        "youtubeId": "thnBmMbVpOo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/thnBmMbVpOo/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1671033623000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

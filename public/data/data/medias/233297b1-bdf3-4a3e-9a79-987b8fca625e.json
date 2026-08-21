@@ -1,0 +1,41 @@
+{
+  "id": "233297b1-bdf3-4a3e-9a79-987b8fca625e",
+  "title": "SpongyaBob: Ki a vízből",
+  "originalTitle": "The SpongeBob Movie: Sponge Out of Water",
+  "overview": "Vidám az élet Bikinifenéken, ahol az örök optimista SpongyaBob és barátai élnek: Patrick, a hű tengeri csillag, a kaján Tunyacsáp, a tudós mókus Szandi és a nagymenő vállalkozó Rák úr. Amikor ellopják a herkentyűburger titkos receptjét, SpongyaBob kénytelen összefogni örök ellenfelével, Planktonnal (Németh Gábor), hogy a tér és az idő határait átszelő utazásuk során felfedezzék saját szupererejüket és szembeszálljanak Burgerszakállal, az elvetemült kalózzal, akinek más tervei vannak a tengermélyi finomságokkal.",
+  "backdropPath": "/sqcqFzAj3IPSFprQSLHr5JOBU4m.jpg",
+  "posterPath": "/1jHPsWtgoOr1ukkFOQotD3ZjhlC.jpg",
+  "releaseDate": "2015-01-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3a0650b8-f522-4479-ad0c-ecadf194148d",
+      "title": "SpongyaBob: Ki a vízből",
+      "subtitle": null,
+      "timestampString": "01:20:34",
+      "timestampInSeconds": 4834,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #70",
+        "youtubeId": "_vL1V5oablM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_vL1V5oablM/hqdefault.jpg",
+        "durationInMinutes": 182,
+        "releaseDate": 1427860093000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

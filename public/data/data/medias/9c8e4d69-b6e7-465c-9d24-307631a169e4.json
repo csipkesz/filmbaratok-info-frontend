@@ -1,0 +1,45 @@
+{
+  "id": "9c8e4d69-b6e7-465c-9d24-307631a169e4",
+  "title": "Kapj el, ha tudsz",
+  "originalTitle": "Catch Me If You Can",
+  "overview": "Frank W. Abagnale dolgozott orvosként, ügyvédként és egy nagy légitársaság másodpilótájaként - és mindezt a huszonegyedik születésnapja előtt. A szélhámosság nagymestere emellett briliáns csekkhamisító is volt, szakértelme több millió dollárt hozott neki a konyhára. Carl Hanratty FBI ügynök legfontosabb küldetésének tartotta, hogy elkapja Franket és a törvény színe elé vigye, de Frank mindig egy lépéssel előtte járt és a hajsza folytatására kényszerítette.",
+  "backdropPath": "/sfW8gtA6Bz2F4zK1FoCKbMqTF8Z.jpg",
+  "posterPath": "/5CDsuX2n1kNkX6jUKscDQz88h3z.jpg",
+  "releaseDate": "2002-12-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "76c6bdbb-1af9-46d6-a8b1-1ae601594efc",
+      "title": "Kapj el, ha tudsz",
+      "subtitle": null,
+      "timestampString": "02:35:00",
+      "timestampInSeconds": 9300,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #217",
+        "youtubeId": "Od1GuNVVFjI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Od1GuNVVFjI/hqdefault.jpg",
+        "durationInMinutes": 218,
+        "releaseDate": 1630552500000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

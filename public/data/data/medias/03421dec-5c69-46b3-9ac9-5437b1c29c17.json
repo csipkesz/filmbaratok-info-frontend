@@ -1,0 +1,45 @@
+{
+  "id": "03421dec-5c69-46b3-9ac9-5437b1c29c17",
+  "title": "Cooties",
+  "originalTitle": "Cooties",
+  "overview": "Egy rejtélyes vírus üti fel a fejét egy elszigetelt alapiskolában, amely a diákokat húsevő vadállatokká változtatja. Azonban feltűnik a színen egy nem várt hős, akire senki nem számított, és a tanári kar élére állva küzd mindannyiuk életéért.",
+  "backdropPath": "/3w1MTEvhwPkgPr81wPhFEOXRuel.jpg",
+  "posterPath": "/oFBQsngRdgxnbO4H1FIbQ0Zuq43.jpg",
+  "releaseDate": "2014-10-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "28913db6-d307-4109-adaa-af68c3004652",
+      "title": "Cooties",
+      "subtitle": null,
+      "timestampString": "01:26:34",
+      "timestampInSeconds": 5194,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #88",
+        "youtubeId": "wEd9ZOCpPII",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wEd9ZOCpPII/hqdefault.jpg",
+        "durationInMinutes": 226,
+        "releaseDate": 1450458682000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

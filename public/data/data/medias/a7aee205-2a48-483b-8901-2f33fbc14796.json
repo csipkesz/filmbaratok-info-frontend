@@ -1,0 +1,45 @@
+{
+  "id": "a7aee205-2a48-483b-8901-2f33fbc14796",
+  "title": "Dumb: The Story of Big Brother Magazine",
+  "originalTitle": "Dumb: The Story of Big Brother Magazine",
+  "overview": "",
+  "backdropPath": "/82PDdypMxyWLt4wydEudGubGaVN.jpg",
+  "posterPath": "/9GZlYXKWs5o1YPKNPETOT9xg2zW.jpg",
+  "releaseDate": "2017-06-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6f62bf50-89f1-4419-b375-347bb425e3f9",
+      "title": "Dumb: The Story of Big Brother Magazine",
+      "subtitle": null,
+      "timestampString": "02:33:52",
+      "timestampInSeconds": 9232,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #140",
+        "youtubeId": "LQ8tU4s4F2M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/LQ8tU4s4F2M/hqdefault.jpg",
+        "durationInMinutes": 184,
+        "releaseDate": 1521209750000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

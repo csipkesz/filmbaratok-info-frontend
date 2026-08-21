@@ -1,0 +1,41 @@
+{
+  "id": "2f4e4709-7e65-4297-82c4-b2f58ac26a2f",
+  "title": "The Crash Reel",
+  "originalTitle": "The Crash Reel",
+  "overview": "",
+  "backdropPath": "/v9AghOkrVgoah0X9p1peshJY64W.jpg",
+  "posterPath": "/k2TCICq6OMmvbxLZ9Wm55ky73H8.jpg",
+  "releaseDate": "2013-06-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9441f598-0b52-44b7-87be-f18c7fa6265b",
+      "title": "The Crash Reel",
+      "subtitle": null,
+      "timestampString": "02:18:11",
+      "timestampInSeconds": 8291,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #50",
+        "youtubeId": "3fU-zjKUKtc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3fU-zjKUKtc/hqdefault.jpg",
+        "durationInMinutes": 195,
+        "releaseDate": 1399567403000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

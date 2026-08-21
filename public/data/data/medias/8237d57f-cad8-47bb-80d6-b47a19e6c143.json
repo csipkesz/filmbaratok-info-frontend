@@ -1,0 +1,41 @@
+{
+  "id": "8237d57f-cad8-47bb-80d6-b47a19e6c143",
+  "title": "Kincsem",
+  "originalTitle": "Kincsem",
+  "overview": "Blaskovich Ernő mindenét elvesztette a szabadságharc után. Céltalan, kicsapongó életet él, amikor egy nap megjelenik élete nagy lehetősége, Kincsem, a csodaló, akivel sikert sikerre halmoz az európai lóversenypályákon. Ezzel a sors tálcán kínálja neki az elégtételt, hogy nemes küzdelemben győzze le ősi ellenségét, von Oettingen bárót. Egyre durvuló rivalizálásukat azonban bonyolítja, hogy Ernő menthetetlenül beleszeret Klara von Oettingenbe, apja gyilkosának lányába. Vajon mi a fontosabb, a szerelem vagy a bosszú?",
+  "backdropPath": "/dBDdg3o8hqMcAJ9l9t3JIuONRxw.jpg",
+  "posterPath": "/cqNp7KbfoKENdLOEJQggvGGUepJ.jpg",
+  "releaseDate": "2017-03-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5408c4d1-568a-4462-bcda-8baa04d7048e",
+      "title": "Kincsem",
+      "subtitle": null,
+      "timestampString": "00:32:35",
+      "timestampInSeconds": 1955,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #119",
+        "youtubeId": "y4ke6vT4qms",
+        "thumbnailUrl": "https://i.ytimg.com/vi/y4ke6vT4qms/hqdefault.jpg",
+        "durationInMinutes": 111,
+        "releaseDate": 1491032632000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

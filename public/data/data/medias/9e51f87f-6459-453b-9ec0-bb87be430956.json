@@ -1,0 +1,41 @@
+{
+  "id": "9e51f87f-6459-453b-9ec0-bb87be430956",
+  "title": "Geronimo hadművelet",
+  "originalTitle": "Seal Team Six: The Raid on Osama Bin Laden",
+  "overview": "Amerika több mint tíz éve vadászik Oszama bin Ladenre, őt tartják felelősnek a 2001. szeptember 11-ei terrortámadásért. A felderítő jelentések szerint a terroristavezér Pakisztánban tartózkodik. A haditengerészeti kommandósok egyik csapatát jelölik ki a feladat végrehajtására, a célpont likvidálására. A felkészülés során a csapat tagjai különleges kiképzésen esnek át. A kommandósok kezdetben nem is tudják kire vadásznak. Azután rájönnek, hogy személyesen nekik adatott meg a lehetőség, hogy végrehajtsák Amerika bosszúját.",
+  "backdropPath": "/3NV5ZCZMqd6Rqr6XtqEPMVkZpxf.jpg",
+  "posterPath": "/9LZ7dfQqAk4jxUlWc8B0JkHbEBs.jpg",
+  "releaseDate": "2012-11-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fd75dc63-1f0c-4b60-ac90-a99dd2c22868",
+      "title": "Geronimo hadművelet",
+      "subtitle": null,
+      "timestampString": "01:06:10",
+      "timestampInSeconds": 3970,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #121",
+        "youtubeId": "-73qLSZm328",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-73qLSZm328/hqdefault.jpg",
+        "durationInMinutes": 130,
+        "releaseDate": 1494559801000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

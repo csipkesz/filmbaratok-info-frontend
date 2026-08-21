@@ -1,0 +1,71 @@
+{
+  "id": "6708e270-58ac-4992-be62-9e22808cc918",
+  "title": "For all mankind",
+  "originalTitle": "For All Mankind",
+  "overview": "Egy olyan világban, ahol 1969-ben nem Neil Armstrong lépett a Holdra első emberként... hanem a szovjet Alekszej Leonov. Egész más irányt vesz a történelem és a két hidegháborús szuperhatalom, az USA és a Szovjetunió évtizedekig nyúló űrversenyben próbál a másik fölé kerekedni először a Hold, majd a Mars birtoklásáért, miközben a személyes drámák sem maradnak ki a történetből. Egy nagyon is valószerű alternatív történelem, űrhajózás, kaland, politika, némi sci-fivel a Star Trek: Az új nemzedék korábbi producerétől, Ronald D. Moore-tól.",
+  "backdropPath": "/9OQ5BIITkJwRJo9JA6AlCfJIGBQ.jpg",
+  "posterPath": "/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg",
+  "releaseDate": "2019-11-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5ffaa463-8271-449b-bc36-8f1d87acc33f",
+      "title": "For all mankind (4-5. évad)",
+      "subtitle": "4-5. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: For all mankind (4-5. évad)",
+        "youtubeId": "5OMhDpesNas",
+        "thumbnailUrl": "https://i.ytimg.com/vi/5OMhDpesNas/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1783451706000,
+        "participants": []
+      }
+    },
+    {
+      "id": "6e216723-e40e-40f1-a5a4-4a80c1d884b4",
+      "title": "For all mankind",
+      "subtitle": null,
+      "timestampString": "00:45:45",
+      "timestampInSeconds": 2745,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Sorozatok (Dexter: New Blood / For all mankind)",
+        "youtubeId": "F7IMiGfgA1I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/F7IMiGfgA1I/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1652187650000,
+        "participants": [
+          {
+            "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
+            "name": "Shirin"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "afcb9b60-92d7-47c5-9299-25fdea99e332",
+      "title": "For All Mankind (3. évad)",
+      "subtitle": "3. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: For All Mankind (3. évad)",
+        "youtubeId": "YdjP30Jvl3o",
+        "thumbnailUrl": "https://i.ytimg.com/vi/YdjP30Jvl3o/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1661241208000,
+        "participants": []
+      }
+    }
+  ]
+}

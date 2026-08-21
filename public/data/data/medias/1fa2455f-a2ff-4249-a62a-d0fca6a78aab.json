@@ -1,0 +1,41 @@
+{
+  "id": "1fa2455f-a2ff-4249-a62a-d0fca6a78aab",
+  "title": "A legsötétebb óra",
+  "originalTitle": "A Legsötétebb Óra",
+  "overview": "",
+  "backdropPath": "/vj5jFpG9F5P1B64hqJAz3AaR3SA.jpg",
+  "posterPath": "/9aEiH0F4S9dq0XhNF95iKTjoLcv.jpg",
+  "releaseDate": "2018-10-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fbeebf16-c92c-4180-91fb-3a800cc33f56",
+      "title": "A legsötétebb óra",
+      "subtitle": null,
+      "timestampString": "01:37:40",
+      "timestampInSeconds": 5860,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #137",
+        "youtubeId": "TmsK4Kf-Bj8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/TmsK4Kf-Bj8/hqdefault.jpg",
+        "durationInMinutes": 228,
+        "releaseDate": 1518110484000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

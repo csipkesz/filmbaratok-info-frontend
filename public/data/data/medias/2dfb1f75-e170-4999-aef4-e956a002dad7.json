@@ -1,0 +1,41 @@
+{
+  "id": "2dfb1f75-e170-4999-aef4-e956a002dad7",
+  "title": "Egy igazán dühös ember",
+  "originalTitle": "Wrath of Man",
+  "overview": "H. a legutolsó halálos kimenetelű rablást követően újoncként érkezik a Fortico Security csapatához, ahol a biztonsági őrök több millió dolláros szállítmányok védelmét látják el. Amikor az egyik pénzszállítót megtámadják, H. felfedi speciális harci képességeit: a kezdetben visszahúzódó férfiról kiderül, tökéletes lövész, és szemrebbenés nélkül iktatja ki áldozatait. Az őrök kezdenek egyre bizalmatlanabbá válni a mindenre elszánt férfival, akiben tombol a bosszúvágy. Hamarosan világossá válik H. indítéka, aki kegyetlen fordulatot tartogat sokak számára…",
+  "backdropPath": "/70AV2Xx5FQYj20labp0EGdbjI6E.jpg",
+  "posterPath": "/k6Ltio0PBxtiZxQI4grfeSG7Rgh.jpg",
+  "releaseDate": "2021-04-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c393db89-4c92-44c1-9b48-705e28583d35",
+      "title": "Egy igazán dühös ember",
+      "subtitle": null,
+      "timestampString": "02:10:40",
+      "timestampInSeconds": 7840,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #213",
+        "youtubeId": "JtzuuNOeIxc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JtzuuNOeIxc/hqdefault.jpg",
+        "durationInMinutes": 200,
+        "releaseDate": 1624372656000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

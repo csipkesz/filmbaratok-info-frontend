@@ -1,0 +1,58 @@
+{
+  "id": "36553eaa-8c3e-4f66-9663-d33b2cd9ceb8",
+  "title": "A farkas gyermekei",
+  "originalTitle": "Raised by Wolves",
+  "overview": "A világűr gyarmatosításának korai szakaszában két android feladata, hogy emberi gyerekeket neveljenek egy bolygón. Apának és Anyának komoly kihívással kell szembenéznie, amikor a kolóniát széteséssel fenyegeti egy vallási konfliktus.",
+  "backdropPath": "/na2xUduK8HviOFT97TiFG2MkJmY.jpg",
+  "posterPath": "/5nM5qJTgHZPgzfUfZPQazOJB8fA.jpg",
+  "releaseDate": "2020-09-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0f800df0-1603-4523-a9c2-d6ac1033dc2b",
+      "title": "A farkas gyermekei 2. évad",
+      "subtitle": "2. évad",
+      "timestampString": "00:31:45",
+      "timestampInSeconds": 1905,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Sorozatok (Békeharcos, A farkas gyermekei 2. évad, Holdlovag)",
+        "youtubeId": "b3LUO08pTFI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/b3LUO08pTFI/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1653110209000,
+        "participants": [
+          {
+            "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
+            "name": "Shirin"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3a673c0a-45f9-43fe-8241-f5ff8c4422a2",
+      "title": "A farkas gyermekei 1. évad [SPOILERES]",
+      "subtitle": "1. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": true,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: A farkas gyermekei 1. évad [SPOILERES]",
+        "youtubeId": "33dV3QKrFHw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/33dV3QKrFHw/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1603103916000,
+        "participants": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1acb3a66-069b-45d8-9667-9135ba42a2e2",
+  "title": "Amerikai botrány",
+  "originalTitle": "American Hustle",
+  "overview": "Irving Rosenfeld egy zseniális szélhámos. Ő, valamint bűn- és élettársa Sydney Prosser egy ideje kénytelen együtt dolgozni Richie DiMaso FBI-ügynökkel, így belekeverednek a hatalmasok körébe. Ebben az izgalmas, de veszélyes világban politikusok, bűnözők és beépített ügynökök találkoznak. Nagy veszélyt jelent a munkájukra Irving szeszélyes felesége Rosalyn Rosenfeld, aki kiváltó oka lehet a lavinaszerű problémák elindulásának. Irving munkássága révén beleírta magát az Egyesült Államok történetébe.",
+  "backdropPath": "/3r2G1vSDf4S3Pl5lJ9BDm9FTxe6.jpg",
+  "posterPath": "/hoXkBa3lMDUEsZj75EfsrVUYEI8.jpg",
+  "releaseDate": "2013-12-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b6dadc98-f55a-4285-8f55-01150dfc4586",
+      "title": "Amerikai botrány",
+      "subtitle": null,
+      "timestampString": "00:26:36",
+      "timestampInSeconds": 1596,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #44",
+        "youtubeId": "_NwJoO7yxrE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_NwJoO7yxrE/hqdefault.jpg",
+        "durationInMinutes": 137,
+        "releaseDate": 1391206083000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "273a8019-47aa-4cdf-9b9f-6c84ee0f59ce",
+            "name": "Émi"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

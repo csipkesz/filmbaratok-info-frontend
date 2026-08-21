@@ -1,0 +1,41 @@
+{
+  "id": "9ed80d03-c12b-443c-ac16-0a93f4901540",
+  "title": "Híd Terabithia földjére",
+  "originalTitle": "Bridge to Terabithia",
+  "overview": "Sajátos körülmények között ismerkedik meg egymással Jess és Leslie. A két magányos, kirekesztett gyerek összebarátkozik. Leslie állandóan varázslatos történeteket sző, Jess pedig tehetséges rajzoló. A kislány feltárja előtte a fantázia világát és ketten együtt létrehozzák Terabithia titokzatos birodalmát, amely a közeli erdőben csordogáló patak fölötti kötélen átlendülve érhető el. Eme varázslatos helyen ők az uralkodók és nekik kell szembeszállniuk a birodalmukat veszélyeztető Sötét Úrral és seregeivel, míg a való világban az iskolai bajkeverők ellen veszik föl a küzdelmet.",
+  "backdropPath": "/tH2SoOS2HqOJCOImbeGkmKSdCMz.jpg",
+  "posterPath": "/mRQj2CNO6xIL5SUrlHVmqJzxadb.jpg",
+  "releaseDate": "2007-02-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "83f71705-62bd-491c-8fc7-f50d585b981a",
+      "title": "Híd Terabithia földjére [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "03:19:45",
+      "timestampInSeconds": 11985,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #289",
+        "youtubeId": "25swweCqsZY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/25swweCqsZY/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1730401855000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

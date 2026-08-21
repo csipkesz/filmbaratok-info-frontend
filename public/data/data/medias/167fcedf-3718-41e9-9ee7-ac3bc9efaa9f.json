@@ -1,0 +1,62 @@
+{
+  "id": "167fcedf-3718-41e9-9ee7-ac3bc9efaa9f",
+  "title": "Jackass 3",
+  "originalTitle": "Jackass 3D",
+  "overview": "Az immár trilógiává bővült széria legfőbb vonzereje, hogy a szereplők törnek-zúznak, falnak mennek, borulnak, meztelenkednek, és minél nagyobb a fejetlenség, annál boldogabbak. Ha kíváncsi vagy rá, milyen érzés motorcsónakkal átugratni a kerti sövényen, vagy amikor pofán vágnak egy tízkilós hallal, netán milyen lehet bungee jumpingolni egy toi-toi vécében - akkor ez a te filmed. De nem szabad kihagyni, ha kíváncsi vagy, milyen érzés beülni egy utasszállító repülőgép sugárhajtóműve mögé, vagy mit éreznél, ha te lennél a vadkacsa, akire vadásznak.",
+  "backdropPath": "/2RmJI0jfXMFF0br3pXQsHiy3lgh.jpg",
+  "posterPath": "/uPirN07su7LFixyZyLrNMMQ9u1E.jpg",
+  "releaseDate": "2010-10-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "69f70b9e-6f5d-4827-85ff-0653609f7b11",
+      "title": "Jackass 3",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "AUDIO_COMMENTARY",
+        "title": "Filmbarátok Audiokommentár: Jackass 3",
+        "youtubeId": "X5HrkW_HwIo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/X5HrkW_HwIo/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1608135225000,
+        "participants": []
+      }
+    },
+    {
+      "id": "e1706805-28bd-4bf9-b60f-31259884e749",
+      "title": "Jackass 3",
+      "subtitle": null,
+      "timestampString": "01:27:15",
+      "timestampInSeconds": 5235,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #202",
+        "youtubeId": "E2b82odyb3w",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E2b82odyb3w/hqdefault.jpg",
+        "durationInMinutes": 223,
+        "releaseDate": 1608135119000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

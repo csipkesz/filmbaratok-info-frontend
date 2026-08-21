@@ -1,0 +1,41 @@
+{
+  "id": "1d01b908-93f0-41c8-b35d-e442fafb3738",
+  "title": "Távol a világtól / Leave the world behind",
+  "originalTitle": "Leave the World Behind",
+  "overview": "Egy család kirándulása egy luxusházba baljós fordulatot vesz, amikor egy kibertámadás kiiktatja az eszközeiket, és két idegen jelenik meg az ajtóban, akik egy közelgő katasztrófa hírét hozzák magukkal.",
+  "backdropPath": "/5cRw2QHQz5bp7W2KLdSpZoFoTTw.jpg",
+  "posterPath": "/cTA7KDbGWMN3gyVQkZWYu2HA1qa.jpg",
+  "releaseDate": "2023-11-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "05abf502-e2e9-416c-bdf5-ba38b3b4af22",
+      "title": "Távol a világtól / Leave the world behind",
+      "subtitle": null,
+      "timestampString": "00:31:44",
+      "timestampInSeconds": 1904,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #271",
+        "youtubeId": "vCypCwFTSIU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/vCypCwFTSIU/hqdefault.jpg",
+        "durationInMinutes": 227,
+        "releaseDate": 1706733909000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

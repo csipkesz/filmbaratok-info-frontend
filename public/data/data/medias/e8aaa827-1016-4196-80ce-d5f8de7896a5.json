@@ -1,0 +1,45 @@
+{
+  "id": "e8aaa827-1016-4196-80ce-d5f8de7896a5",
+  "title": "Jexi - Túl okos telefon",
+  "originalTitle": "Jexi",
+  "overview": "Phil totális mobilfüggő: reggel munkába menet már a telefonja képernyőjét bújja, az estéit pedig egy tökéletesen megfilterezett poszttal zárja. Hiába van számos haverja a világhálón, valójában se barátja se macskája. Amikor egy véletlen baleset folytán telefont kell cserélnie, az új modellel egy akaratos mesterséges intelligenciát is kézhez kap, Jexit. A női hangon operáló telefon, egyszerre tanácsadó, asszisztens, és lélekbúvár, és bár minden lehetséges módon megszívatja Philt, mégis sikerül visszaráznia őt az életbe. Ám amikor a srác végre egy barátnőre is szert tesz, és kezdené magát függetleníteni a mobiljától, a felbőszült program egy technikai rémálommá válik…",
+  "backdropPath": "/s5mWOQ4rc90hhRebpBHdW0f1gix.jpg",
+  "posterPath": "/rz4mDsBQ0O4Qrt3oDr2BK4m3ZdK.jpg",
+  "releaseDate": "2019-10-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "dc024eb2-79e0-45f3-88c5-c59003e9299d",
+      "title": "Jexi - Túl okos telefon",
+      "subtitle": null,
+      "timestampString": "02:34:30",
+      "timestampInSeconds": 9270,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #183",
+        "youtubeId": "uA5tRdykPyw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uA5tRdykPyw/hqdefault.jpg",
+        "durationInMinutes": 277,
+        "releaseDate": 1579802407000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

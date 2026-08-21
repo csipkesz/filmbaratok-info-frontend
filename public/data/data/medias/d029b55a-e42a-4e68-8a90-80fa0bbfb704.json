@@ -1,0 +1,41 @@
+{
+  "id": "d029b55a-e42a-4e68-8a90-80fa0bbfb704",
+  "title": "A föld után: Apokalipszis",
+  "originalTitle": "AE: Apocalypse Earth",
+  "overview": "A Föld egy idegen civilizáció célkeresztjébe kerül. Frank (Adrian Paul - A hegylakó) és Crowe Kapitány (Richard Grieco - Spionfióka) az utolsó űrhajóval egy új, lakható bolygó felkutatására indul. Sokévnyi utazás után űrhajójuk egy ismeretlen zöld bolygóba csapódik, ahol egy humanoid fajjal találkoznak, akik a bolygót uraló lények elől menekülnek. Frank a távolban lévő építmény felé irányítja a menekülőket, bízva abban, hogy azzal elhagyhatják a veszélyes bolygót. Amikor betáplálják a Föld koordinátáit a fedélzeti számítógépbe, minden elképzelésüket felülmúló helyzetben találják magukat.",
+  "backdropPath": "/zpWjBqhUT5Zh77wgEhryBD0YQfu.jpg",
+  "posterPath": "/eIQlbjKRug68ojgsaCH3dNdzZXL.jpg",
+  "releaseDate": "2013-05-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7eb66cc9-0057-43d8-8d82-f471906ad84c",
+      "title": "A föld után: Apokalipszis",
+      "subtitle": null,
+      "timestampString": "01:08:10",
+      "timestampInSeconds": 4090,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #47",
+        "youtubeId": "48-yuKdU7cg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/48-yuKdU7cg/hqdefault.jpg",
+        "durationInMinutes": 147,
+        "releaseDate": 1394966291000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

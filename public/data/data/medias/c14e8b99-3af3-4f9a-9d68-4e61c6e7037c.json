@@ -1,0 +1,45 @@
+{
+  "id": "c14e8b99-3af3-4f9a-9d68-4e61c6e7037c",
+  "title": "El Camino: A Breaking Bad movie",
+  "originalTitle": "El Camino: A Breaking Bad Movie",
+  "overview": "A fogságból való drámai menekülés után Jesse Pinkmannek meg kell birkóznia a múltjával, hogy valamiféle jövőt teremtsen.",
+  "backdropPath": "/uLXK1LQM28XovWHPao3ViTeggXA.jpg",
+  "posterPath": "/1lllM2q5yNPgeeREydtvMq1bpNJ.jpg",
+  "releaseDate": "2019-10-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e9e7228f-2fa7-4e07-895c-2178fb4afb59",
+      "title": "El Camino: A Breaking Bad movie [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "03:35:18",
+      "timestampInSeconds": 12918,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #177",
+        "youtubeId": "SiiouPY48NM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/SiiouPY48NM/hqdefault.jpg",
+        "durationInMinutes": 237,
+        "releaseDate": 1571926127000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

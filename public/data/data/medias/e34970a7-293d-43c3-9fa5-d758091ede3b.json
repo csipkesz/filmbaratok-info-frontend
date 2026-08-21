@@ -1,0 +1,37 @@
+{
+  "id": "e34970a7-293d-43c3-9fa5-d758091ede3b",
+  "title": "Farkas",
+  "originalTitle": "Farkas",
+  "overview": "",
+  "backdropPath": null,
+  "posterPath": null,
+  "releaseDate": "2007-09-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c8910ff4-4f51-46e2-8b8a-196f19f7ff1f",
+      "title": "Farkas",
+      "subtitle": null,
+      "timestampString": "00:51:01",
+      "timestampInSeconds": 3061,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #33",
+        "youtubeId": "IomFNhWRQNA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IomFNhWRQNA/hqdefault.jpg",
+        "durationInMinutes": 148,
+        "releaseDate": 1375255137000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "d90dfc63-b1b9-46e7-94df-d30735e03eb1",
+  "title": "Nyelés",
+  "originalTitle": "Swallow",
+  "overview": "Hunter élete látszólag tökéletes, jóképű férjével egy lenyűgöző házban élnek és első babájukat várják. Ám ez csak a felszín, a nő úgy érzi, kicsúszott lába alól a talaj és teljesen elveszítette az irányítást élete felett. Napjait egyedül tölti a fényűző házban amíg férje munkában van, unalmas óráit próbálja olyan tevékenységgel eltölteni, melyek a férfi kedvére tesznek. Egy nap azonban elkezd saját új szenvedélyének hódolni.",
+  "backdropPath": "/cJNsnbaQnR3Be86gXbwm1oFmH5V.jpg",
+  "posterPath": "/isRczII7ROn2iuVOwBKuZTm4TWM.jpg",
+  "releaseDate": "2020-01-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "01f991bd-aae3-4b86-9b27-95070b28a67c",
+      "title": "Nyelés",
+      "subtitle": null,
+      "timestampString": "02:05:12",
+      "timestampInSeconds": 7512,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #190",
+        "youtubeId": "w7oFnCSc3u4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/w7oFnCSc3u4/hqdefault.jpg",
+        "durationInMinutes": 188,
+        "releaseDate": 1590603790000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

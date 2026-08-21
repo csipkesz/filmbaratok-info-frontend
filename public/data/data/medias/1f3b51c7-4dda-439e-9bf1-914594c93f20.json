@@ -1,0 +1,45 @@
+{
+  "id": "1f3b51c7-4dda-439e-9bf1-914594c93f20",
+  "title": "Éjszaka a házban",
+  "originalTitle": "The Night House",
+  "overview": "A férje váratlan halála felett napirendre térni képtelen fiatal nő egyedül él a tóparti házban, amit a férfi épített. Beth igyekezete, hogy lelkileg ép maradjon, hiábavalónak bizonyul, amikor rémálmok törnek rá. Felkavaró látomásaiban a házban ólálkodó kísérteties jelenlét őt szólítja. Barátai tanácsa ellenére Beth kutakodni kezd néhai férje holmijai között, abban bízva, hogy válaszokra lel. A titkok, amiket feltár, egyszerre különösek és ijesztőek – ám ez sem tántorítja el attól, hogy megoldja a rejtélyt.",
+  "backdropPath": "/qbQ219gsHpdx33WSfdCgG9I2Xg5.jpg",
+  "posterPath": "/vsXEHWcv42CbnvyMB9yqG3fSqzo.jpg",
+  "releaseDate": "2021-07-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0dfc717c-f55d-41b0-b35a-68a9c02b86be",
+      "title": "Éjszaka a házban",
+      "subtitle": null,
+      "timestampString": "01:12:36",
+      "timestampInSeconds": 4356,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #219",
+        "youtubeId": "h8nzJYoqTuY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/h8nzJYoqTuY/hqdefault.jpg",
+        "durationInMinutes": 195,
+        "releaseDate": 1632931799000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

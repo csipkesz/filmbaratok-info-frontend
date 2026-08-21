@@ -1,0 +1,45 @@
+{
+  "id": "35591053-d0a0-4b7d-b444-b87c0f1b24e3",
+  "title": "Dolemite (1975)",
+  "originalTitle": "Dolemite",
+  "overview": "A börtönből frissen szabadult strici szabadítja meg a várost a bűnözőtől és a korrupt rendőröktől.",
+  "backdropPath": "/sytoeq1ScNHTbjUaAPRzshjtN63.jpg",
+  "posterPath": "/sc81lG0MdHq1UCY5b2B10c9wSKw.jpg",
+  "releaseDate": "1975-04-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4979aaa1-493f-4362-8450-de399f96bcb5",
+      "title": "Dolemite (1975)",
+      "subtitle": null,
+      "timestampString": "02:19:30",
+      "timestampInSeconds": 8370,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #179",
+        "youtubeId": "xquBnjUaMAg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/xquBnjUaMAg/hqdefault.jpg",
+        "durationInMinutes": 206,
+        "releaseDate": 1574800160000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "e4d249a5-e251-44d9-8c10-8e2e3e9a6069",
+            "name": "Anna"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

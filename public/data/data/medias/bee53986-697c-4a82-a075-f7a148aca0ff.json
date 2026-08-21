@@ -1,0 +1,41 @@
+{
+  "id": "bee53986-697c-4a82-a075-f7a148aca0ff",
+  "title": "Végképp eltörölni",
+  "originalTitle": "Eraser",
+  "overview": "John Kruger, a Takarító védelemre szakosodott titkosügynök, aki a kormány tanúvédelmi programjának legfelkészültebb tagja: megszervezi a veszélyeztetett tanúk új életét és eltörli a régit. Nála jobban senki sem tud megrendezni egy véletlen balesetet vagy egy katasztrófát, ám egy napon ő is veszélybe kerül. Munkatársai árulással vádolják és ellene fordulnak, még legbizalmasabb barátaiban sem bízhat. Jól tudja, ebben a játszmában nemcsak a gondjaira bízott nő élete, hanem a világ sorsa is rajta múlik.",
+  "backdropPath": "/8n6ZCFJWwK7UiX7NYuIEvHLRPYG.jpg",
+  "posterPath": "/7HKspPQMuz8QNo0BbjDnCvwgiho.jpg",
+  "releaseDate": "1996-06-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "314883be-b80d-4d0f-a880-46fb515354f1",
+      "title": "Végképp eltörölni",
+      "subtitle": null,
+      "timestampString": "01:46:00",
+      "timestampInSeconds": 6360,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #71",
+        "youtubeId": "K9mj59Uot1I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/K9mj59Uot1I/hqdefault.jpg",
+        "durationInMinutes": 176,
+        "releaseDate": 1428520974000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "cc5b8275-cb5d-4c0b-ba59-f5347cee12cb",
+  "title": "Transformers Egy",
+  "originalTitle": "Transformers One",
+  "overview": "Ez a régóta várt eredettörténet bemutatja, hogyan lettek a TRANSFORMERS univerzum legikonikusabb karakterei, Orion Pax és D-16 bajtársakból esküdt ellenségekké, azaz Optimusz Fővezérré és Megatronná.",
+  "backdropPath": "/cMfokHWle5lfCreoV08cbmkKv6G.jpg",
+  "posterPath": "/9LhZABAKVyyqQmuLw0UPTOmehAI.jpg",
+  "releaseDate": "2024-09-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "09dae904-5e99-4711-b98b-7061bacea150",
+      "title": "Transformers Egy",
+      "subtitle": null,
+      "timestampString": "01:43:40",
+      "timestampInSeconds": 6220,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #289",
+        "youtubeId": "25swweCqsZY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/25swweCqsZY/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1730401855000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

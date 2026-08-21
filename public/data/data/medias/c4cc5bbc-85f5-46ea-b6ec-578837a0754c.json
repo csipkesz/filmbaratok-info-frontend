@@ -1,0 +1,41 @@
+{
+  "id": "c4cc5bbc-85f5-46ea-b6ec-578837a0754c",
+  "title": "Henry könyve",
+  "originalTitle": "The Book of Henry",
+  "overview": "A tizenegy éves Henry Carpenter-t és kisöccsét, Peter-t egyedül neveli édesanyjuk, Susan, aki pincérnőként dolgozik. Henry fülig szerelmes a szomszéd kislányba, Christina-ba, akit a nevelőapja rendszeresen bántalmaz. Henry egy különös tervet eszel ki szerelme megmentésére. Regényt ír Christina-ról és nevelőapjáról. A könyvre pedig egy nap rábukkan édesanyja, aki nyomban rádöbben, kiről is szól valójában a történet.",
+  "backdropPath": "/sYnrdolxonyMucMezj8PMVBRlVr.jpg",
+  "posterPath": "/aLoVGl3012tZS62cUrwkQvz7eLX.jpg",
+  "releaseDate": "2017-06-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0a367783-2833-44a7-ba58-f6a1b3f81049",
+      "title": "Henry könyve [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "01:47:22",
+      "timestampInSeconds": 6442,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #168",
+        "youtubeId": "_Gfw4jCabeA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_Gfw4jCabeA/hqdefault.jpg",
+        "durationInMinutes": 156,
+        "releaseDate": 1557378988000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

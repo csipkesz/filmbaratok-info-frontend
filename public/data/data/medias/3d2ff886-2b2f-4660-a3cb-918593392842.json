@@ -1,0 +1,45 @@
+{
+  "id": "3d2ff886-2b2f-4660-a3cb-918593392842",
+  "title": "Thelma",
+  "originalTitle": "Thelma",
+  "overview": "Thelma, egy vallásos háttérrel rendelkező norvég diáklány Oslóba költözik, ahol beleszeret egy másik lányba. S miközben szégyenérzettel terhelt szexuális ébredését éli meg, Thelma felfedezi, hogy természetfeletti képességgel és erővel rendelkezik.",
+  "backdropPath": "/zqCxkgcgg0BqcF2VCYZa6uHBG4C.jpg",
+  "posterPath": "/l3ciaQdEBQdlOP2Bkc7BV7VkPdK.jpg",
+  "releaseDate": "2017-09-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "46b7e3c2-2a12-4bf5-acc8-63d5eefd8b82",
+      "title": "Thelma",
+      "subtitle": null,
+      "timestampString": "00:20:55",
+      "timestampInSeconds": 1255,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #180",
+        "youtubeId": "jgXB2dSNVBA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/jgXB2dSNVBA/hqdefault.jpg",
+        "durationInMinutes": 286,
+        "releaseDate": 1576606373000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

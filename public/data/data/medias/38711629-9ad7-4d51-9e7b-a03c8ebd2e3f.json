@@ -1,0 +1,41 @@
+{
+  "id": "38711629-9ad7-4d51-9e7b-a03c8ebd2e3f",
+  "title": "A klán",
+  "originalTitle": "El clan",
+  "overview": "Az igaz történeten alapuló filmdráma a Puccio dinasztia életét mutatja be. A család nevéhez számos emberrablási eset és gyilkosság köthető, a múlt század nyolcvanas éveiben.",
+  "backdropPath": "/wbA13Xns8EtbIubDOPLl7kCYYA4.jpg",
+  "posterPath": "/mhFKzAvuBb87fwygkcLvhiJ0bbS.jpg",
+  "releaseDate": "2015-08-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4f46e67a-5775-4b18-84cf-188525995dd9",
+      "title": "A klán",
+      "subtitle": null,
+      "timestampString": "01:00:30",
+      "timestampInSeconds": 3630,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #104",
+        "youtubeId": "OY96XihUHYY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/OY96XihUHYY/hqdefault.jpg",
+        "durationInMinutes": 230,
+        "releaseDate": 1469739871000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "1e9b5cea-e751-400c-bcaa-d78baf252d8e",
+  "title": "Fellini-Satyricon",
+  "originalTitle": "Fellini – satyricon",
+  "overview": "Az elegáns stílusú antik szerző, Petronius műve alapján készített film Fellini víziója a hajdan hatalmas Róma mindennapjairól. Arról a császári Rómáról, amely egyszerre volt minden bűn melegágya és az új erkölcs bölcsője. Két Néró császár korabeli siheder, Encolpius és Ascyltus kalandjait követhetjük nyomon. A szerelemféltésből induló történet földrészeken és mítoszokon vezet keresztül, újjáteremtve a ránk maradt freskók csodálatos világát.",
+  "backdropPath": "/kPdvXDdXIbuKKAt9gEy13FNYgbm.jpg",
+  "posterPath": "/84tVKCma0yGvh4Hq3uZWiZ8kTCl.jpg",
+  "releaseDate": "1969-09-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0bce128b-8f27-406e-a852-c3282efd6375",
+      "title": "Fellini-Satyricon",
+      "subtitle": null,
+      "timestampString": "03:31:40",
+      "timestampInSeconds": 12700,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #288",
+        "youtubeId": "y8PRwmbTmMM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/y8PRwmbTmMM/hqdefault.jpg",
+        "durationInMinutes": 241,
+        "releaseDate": 1729192342000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

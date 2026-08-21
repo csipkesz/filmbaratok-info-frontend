@@ -1,0 +1,45 @@
+{
+  "id": "2a88e68b-356d-4eb6-94b0-d28c257459a0",
+  "title": "Miket nem beszélek",
+  "originalTitle": "I Swear",
+  "overview": "John Davidson igaz története. 15 évesen Tourette-szindrómával diagnosztizálták, társai őrültnek tartották. Olyan állapotba került és olyan problémákkal küzdött, amelyeknek csak kevesen voltak tanúi. Felnőttként kampányolt a Tourette-kórban szenvedőkért, 2019-ben pedig átvette az MBE-kitüntetést a királynőtől.",
+  "backdropPath": "/4mKczHAW4XPDXGk7V5k7Ui3dgUk.jpg",
+  "posterPath": "/aMjdx8vvd55pYtNrg7U67kTCzfm.jpg",
+  "releaseDate": "2025-09-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3a526b3d-46a9-4438-9e6c-0542b2dea8e1",
+      "title": "Miket nem beszélek",
+      "subtitle": null,
+      "timestampString": "02:32:40",
+      "timestampInSeconds": 9160,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #328",
+        "youtubeId": "f89B62DScOs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/f89B62DScOs/hqdefault.jpg",
+        "durationInMinutes": 253,
+        "releaseDate": 1781722805000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "4a62e54e-2150-4a94-8819-0d5a204a3ee5",
+  "title": "Véres hármas",
+  "originalTitle": "Triple Threat",
+  "overview": "Egy milliárdos lánya a bűnözők célkeresztjébe kerül. Egy csapatnyi mindenre elszánt, elit zsoldos veszi fel a harcot a bérgyilkosokból álló bűnszervezet ellen.",
+  "backdropPath": "/AukoTjDSvjB4g0YTDxRNVwS4uFR.jpg",
+  "posterPath": "/aVvw81wGJlDqx9qotbdh53emebR.jpg",
+  "releaseDate": "2019-03-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1c21aa58-b225-455f-a019-a79e9e03c11a",
+      "title": "Véres hármas",
+      "subtitle": null,
+      "timestampString": "02:30:50",
+      "timestampInSeconds": 9050,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #172",
+        "youtubeId": "ahOskajDN8o",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ahOskajDN8o/hqdefault.jpg",
+        "durationInMinutes": 250,
+        "releaseDate": 1564145413000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

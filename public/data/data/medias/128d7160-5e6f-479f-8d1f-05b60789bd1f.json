@@ -1,0 +1,41 @@
+{
+  "id": "128d7160-5e6f-479f-8d1f-05b60789bd1f",
+  "title": "Apánk / Our father",
+  "originalTitle": "Our Father",
+  "overview": "Egy vezető termékenységi orvosnak beteges titka volt: a saját spermáját használta az eljárások során. Évtizedekkel később a \"gyermekei\" összefognak, hogy igazságot szolgáltassanak.",
+  "backdropPath": "/iuGaTFUUNlkSAyyULZVKt9ZwBzg.jpg",
+  "posterPath": "/maG75HDZbOwywDFd1h195CA8I36.jpg",
+  "releaseDate": "2022-05-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c144cbc1-d251-4ce1-ac8e-a6329eb6d3f2",
+      "title": "Apánk / Our father",
+      "subtitle": null,
+      "timestampString": "01:45:45",
+      "timestampInSeconds": 6345,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #234",
+        "youtubeId": "IyLcC8Sig7I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IyLcC8Sig7I/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1655823277000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

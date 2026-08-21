@@ -1,0 +1,45 @@
+{
+  "id": "34259320-7d93-49f5-8cf5-cad24859c5bf",
+  "title": "Asterix és Obelix: A középső birodalom",
+  "originalTitle": "Astérix & Obélix : L'Empire du Milieu",
+  "overview": "Kr.e. 50-ben a kínai császárnét megbuktatta és börtönbe záratta egy áruló herceg. A császárné egyetlen lánya és hűséges testőre a galloktól kér segítséget. A természetfeletti erővel bíró Asterix és Obelix örömmel fogadja a felkérést, hogy kiszabadítsák az uralkodót és megmentsék az országot. Ám miközben útra kelnek a távoli országba, egy másik nehézséggel is meg kell birkózniuk: Cézár szintén a trónra áhítozik és az új hódítás reményében ő is a középső birodalom felé veszi az irányt.",
+  "backdropPath": "/n9wlAmb4vEgZHghtqsXXj95PocJ.jpg",
+  "posterPath": "/m57SrhsMyK1E3N3hFPcJ1XYWNRm.jpg",
+  "releaseDate": "2023-02-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "929e78c2-ea1e-4508-ab4c-8dc5dd7a5bb2",
+      "title": "Asterix és Obelix: A középső birodalom",
+      "subtitle": null,
+      "timestampString": "02:26:20",
+      "timestampInSeconds": 8780,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #251",
+        "youtubeId": "sMMPgkRN14I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/sMMPgkRN14I/hqdefault.jpg",
+        "durationInMinutes": 273,
+        "releaseDate": 1678475107000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

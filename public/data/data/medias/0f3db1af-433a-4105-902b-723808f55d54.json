@@ -1,0 +1,41 @@
+{
+  "id": "0f3db1af-433a-4105-902b-723808f55d54",
+  "title": "Upgrade",
+  "originalTitle": "Upgrade",
+  "overview": "Egy férfi feleségét meggyilkolják egy rablás során, míg ő deréktól lefelé lebénul. Egy új, kísérleti technológiának köszönhetően mesterséges intelligenciával ellátott implantátumot kap, mely lehetővé teszi, hogy újra a saját lábára álljon. Ez azonban még korántsem minden! A férfi új képességeinek birtokában kegyetlen és véres bosszú-hadjáratra indul.",
+  "backdropPath": "/oiPUcD1IIZrYGTSIpvTmd3dRmPo.jpg",
+  "posterPath": "/rCPH12ywOYAvFkwIdXt9iBTrTUf.jpg",
+  "releaseDate": "2018-05-31T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "cc69b604-a118-450f-9ed3-c28265920fcd",
+      "title": "Upgrade",
+      "subtitle": null,
+      "timestampString": "02:33:11",
+      "timestampInSeconds": 9191,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #151",
+        "youtubeId": "hcylcX_kgM0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/hcylcX_kgM0/hqdefault.jpg",
+        "durationInMinutes": 234,
+        "releaseDate": 1537428229000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

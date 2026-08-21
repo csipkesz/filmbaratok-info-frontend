@@ -1,0 +1,45 @@
+{
+  "id": "c5fc970e-1b4a-452e-a293-95eb55454dd8",
+  "title": "A galaxis őrzői: 3. rész",
+  "originalTitle": "Guardians of the Galaxy Vol. 3",
+  "overview": "Peter Quillnek, akit még mindig gyötör Gamora elvesztése, össze kell verbuválnia csapatát, hogy megvédjék az univerzumot és megóvják egyik társukat is. Ha ez a küldetés nem jár sikerrel, az a galaxis őrzőinek végét jelenti...",
+  "backdropPath": "/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg",
+  "posterPath": "/m43wy0x7wxepPTu55GPrQbhSfjt.jpg",
+  "releaseDate": "2023-05-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6219a48a-48cd-4542-81b7-f4df0f543206",
+      "title": "A galaxis őrzői: 3. rész",
+      "subtitle": null,
+      "timestampString": "01:10:20",
+      "timestampInSeconds": 4220,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #254",
+        "youtubeId": "TI74Dk0Q_o4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/TI74Dk0Q_o4/hqdefault.jpg",
+        "durationInMinutes": 202,
+        "releaseDate": 1683715646000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "709a964b-d38d-4bab-9da8-18a75b9dabe9",
+  "title": "Cry Baby",
+  "originalTitle": "Cry Baby",
+  "overview": null,
+  "backdropPath": null,
+  "posterPath": null,
+  "releaseDate": null,
+  "topics": [
+    {
+      "id": "23f7fe81-5bea-4d47-9637-3fee32ae04a9",
+      "title": "Cry Baby",
+      "subtitle": null,
+      "timestampString": "01:54:15",
+      "timestampInSeconds": 6855,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #273",
+        "youtubeId": "ZOD86br7KhY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ZOD86br7KhY/hqdefault.jpg",
+        "durationInMinutes": 136,
+        "releaseDate": 1709069976000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

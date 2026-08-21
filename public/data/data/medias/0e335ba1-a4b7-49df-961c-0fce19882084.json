@@ -1,0 +1,45 @@
+{
+  "id": "0e335ba1-a4b7-49df-961c-0fce19882084",
+  "title": "Vigyél a holdra",
+  "originalTitle": "Fly Me to the Moon",
+  "overview": "Mindenki a sikeres holdra szállás miatt izgul. A NASA tudja, hogy előbb kell amerikai űrhajósnak feljutnia, mint szovjetnek, mindent el is követ az ügy érdekében, a legjobb vadászpilótáit képezte ki asztronautának, a legnagyobb tudósok dolgoznak az ügyön, az Apollo 11-et mégsem lehet még elindítani. A közvélemény pedig egyre elégedetlenebb.  A megoldás? Egy marketinges. Kelly Jones (Scarlett Johansson) nem ért az űrrepüléshez, de abban nagyon jó, hogy eladjon dolgokat. Jön, és mindent átalakít. Megszépít, megkomponál, hazudik és mellébeszél. Tökéletes ember a feladatra. De vele is van két baj. Az egyik, hogy azt még ő is soknak érzi, hogy lenn a földön, színészekkel filmezzék le a sikeres holdra szállást. A másik, hogy nagyon szép. És az egyik űrhajósjelölt, Cole Davis (Channing Tatum) nemcsak az égi testek iránt érdeklődik.",
+  "backdropPath": "/4ItXEyVPj6wb9AdhsltcqYE6f5f.jpg",
+  "posterPath": "/ycSC8Tbr0iCGP1WEXLaVJMokoAt.jpg",
+  "releaseDate": "2024-07-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8e6c5cb2-c255-4eba-9c96-65af73cac9f9",
+      "title": "Vigyél a holdra",
+      "subtitle": null,
+      "timestampString": "01:07:00",
+      "timestampInSeconds": 4020,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #283",
+        "youtubeId": "jv6k7bsDWQo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/jv6k7bsDWQo/hqdefault.jpg",
+        "durationInMinutes": 210,
+        "releaseDate": 1722538833000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

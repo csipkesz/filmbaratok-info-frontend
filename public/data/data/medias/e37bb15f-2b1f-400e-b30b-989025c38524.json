@@ -1,0 +1,45 @@
+{
+  "id": "e37bb15f-2b1f-400e-b30b-989025c38524",
+  "title": "Instant család",
+  "originalTitle": "Instant Family",
+  "overview": "Ellie és Pete sikeres vállalkozókként régi házakat újítanak fel és adnak el. Párként egyre gyakrabban merül fel köztük a családalapítás kérdése, és bizony úgy érzik, hogy lassan eljár felettük az idő emiatt, így elhatározzák, hogy örökbe fogadnak egy ötéves gyermeket. Ám az elvárásaik ellenére a sors egy tinédzserrel találják szemben magukat, akinek még két testvére van. Nem kell sok idő hozzá, hamar családdá fonódnak össze.",
+  "backdropPath": "/hgESQ2sK21j22Yode4w99jfwj44.jpg",
+  "posterPath": "/fYIPBF5XBcNSoZqssUomTWlocyq.jpg",
+  "releaseDate": "2018-11-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ae6dd06e-1114-41df-9513-eb9249f3b3a0",
+      "title": "Instant család",
+      "subtitle": null,
+      "timestampString": "01:10:49",
+      "timestampInSeconds": 4249,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #162",
+        "youtubeId": "Pm_3kToMJek",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Pm_3kToMJek/hqdefault.jpg",
+        "durationInMinutes": 231,
+        "releaseDate": 1550070901000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

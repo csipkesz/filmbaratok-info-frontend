@@ -1,0 +1,45 @@
+{
+  "id": "8da60c01-0914-48aa-a4a1-d582fc91d6b4",
+  "title": "Alita: A harc angyala",
+  "originalTitle": "Alita: Battle Angel",
+  "overview": "Alita egy elkeseredett kor teremtménye, akit Dr Ido talált, miközben kiborg alkatrészeket keresett. Mellette Alita halálos és veszélyes lénnyé válik, aki nem emlékszik rá ki ő, vagy hogy honnan jött, de Dr Ido nagyon is jól tudja. Ő az egyetlen lény, aki megtörheti a halál és pusztulás körforgását, amit Tiphares hátrahagyott. De hogy elérje a célját harcolnia és ölnie kell. Itt válik világossá Alita igazi jelentősége. Ő egy angyal a mennyből. Ő a halál angyala.",
+  "backdropPath": "/jXDselREPq8TOVGM4dzBBUM7xVk.jpg",
+  "posterPath": "/ukt8CJ4b2EgThXXUfPwqnBfl7ob.jpg",
+  "releaseDate": "2019-01-31T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d0d05cc1-f2f6-4a3c-a4f4-24d446e8b563",
+      "title": "Alita: A harc angyala",
+      "subtitle": null,
+      "timestampString": "01:48:11",
+      "timestampInSeconds": 6491,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #164",
+        "youtubeId": "8dO_Vj7_jg8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/8dO_Vj7_jg8/hqdefault.jpg",
+        "durationInMinutes": 258,
+        "releaseDate": 1553010517000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

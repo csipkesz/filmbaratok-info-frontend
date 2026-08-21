@@ -1,0 +1,45 @@
+{
+  "id": "47227e62-df98-448e-b35f-d4b585ba403e",
+  "title": "Flash - A villám",
+  "originalTitle": "The Flash",
+  "overview": "Világok ütköznek össze, amikor a szupergyorsnál is gyorsabb Barry (Ezra Miller) arra használja a szupererejét, hogy visszafusson a múltba - reméli, hogy ha ott változtat, a jelen is más lesz. Csak a családja sorsát akarja jobbá tenni, a szülein szeretne segíteni, de sajnos, megtörténik, amiért nekirugaszkodott: megváltoztatja a jelent. Egy újfajta valóság csapdájába esik. Ebben Zod tábornok visszatér és a Föld elpusztításával fenyeget, de nincsenek szuperhősök, akik az emberiség segítségére siethetnének. Ha meg akarja menteni a világot, amiben élt és vissza akar térni a jövőbe, amit remél, Barry-nek futnia kell. Különleges gyorsasága segítségével elő kell kerítenie azokat a szuperhősöket, akik segíthetnek a bajban. De nem pont azokat találja, akikért indult és nem biztos, hogy az ő önfeláldozása elég hozzá, hogy helyretolja a kizökkent valóságot.",
+  "backdropPath": "/yF1eOkaYvwiORauRCPWznV9xVvi.jpg",
+  "posterPath": "/54QHzHr7SSDkCAVb6QGBHehzz6t.jpg",
+  "releaseDate": "2023-06-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a6f511d4-806b-4e29-86ff-f6489e429246",
+      "title": "Flash - A villám [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "01:14:40",
+      "timestampInSeconds": 4480,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #257",
+        "youtubeId": "Jm_IXtsLHnw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Jm_IXtsLHnw/hqdefault.jpg",
+        "durationInMinutes": 280,
+        "releaseDate": 1687629613000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0a73f9ce-8523-45d3-8a90-fca715677dec",
+  "title": "Eddie [2025]",
+  "originalTitle": "Being Eddie",
+  "overview": "Sztárokkal teli dokumentumfilm, amiben a tini humoristából hollywoodi legendává vált Eddie Murphy nyers őszinteséggel és humorral mesél különleges útjáról a show-biznisz világában.",
+  "backdropPath": "/9w6883OlULmjwLA0H0Zo4XYhZSR.jpg",
+  "posterPath": "/8behxK3x7kiCupdrENmOCkOcs8N.jpg",
+  "releaseDate": "2025-11-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "547dc39d-aa48-44e4-997c-b32d58c5f193",
+      "title": "Eddie [2025]",
+      "subtitle": null,
+      "timestampString": "01:51:20",
+      "timestampInSeconds": 6680,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #315 (Életrajzi dokumentumfilmek)",
+        "youtubeId": "pvQvVCuAEDI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/pvQvVCuAEDI/hqdefault.jpg",
+        "durationInMinutes": 229,
+        "releaseDate": 1764442162000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

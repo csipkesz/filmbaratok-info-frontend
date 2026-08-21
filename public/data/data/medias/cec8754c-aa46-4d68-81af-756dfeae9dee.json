@@ -1,0 +1,45 @@
+{
+  "id": "cec8754c-aa46-4d68-81af-756dfeae9dee",
+  "title": "A szent hegy",
+  "originalTitle": "La montaña sagrada",
+  "overview": "",
+  "backdropPath": "/oUceCsSe255ZKXCMsHhqXM1xuUp.jpg",
+  "posterPath": "/pJcn7ChZBP1h6w97gprxg0h7lGQ.jpg",
+  "releaseDate": "1973-11-29T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "28775ba5-ad93-406f-a4b7-ea493a559ae1",
+      "title": "A szent hegy",
+      "subtitle": null,
+      "timestampString": "02:31:30",
+      "timestampInSeconds": 9090,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #157",
+        "youtubeId": "IAfkWR4qRU4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IAfkWR4qRU4/hqdefault.jpg",
+        "durationInMinutes": 222,
+        "releaseDate": 1545146746000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

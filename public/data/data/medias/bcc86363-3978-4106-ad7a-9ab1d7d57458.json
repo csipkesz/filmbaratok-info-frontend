@@ -1,0 +1,41 @@
+{
+  "id": "bcc86363-3978-4106-ad7a-9ab1d7d57458",
+  "title": "Transformers: A kihalás kora",
+  "originalTitle": "Transformers: Age of Extinction",
+  "overview": "Cade Yeager feltaláló, aki rábukkan egy kis darab Autobot technológiára. Miután aktiválja azt, a kormány és az idegenekre szakosodott fejvadászok a nyomukba erednek, ezért Cade, a lánya Tessa, valamint annak barátja, Shane menekülni kényszerülnek.",
+  "backdropPath": "/wxr4Z6E83h14CogsZOzDm1vuDX3.jpg",
+  "posterPath": "/uOeztdMfNiytLXGbKySK1mE388o.jpg",
+  "releaseDate": "2014-06-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "28a52875-daf6-4021-be0f-ca0ed021e002",
+      "title": "Transformers: A kihalás kora",
+      "subtitle": null,
+      "timestampString": "00:29:25",
+      "timestampInSeconds": 1765,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #53",
+        "youtubeId": "m4ZV-tpyiqU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/m4ZV-tpyiqU/hqdefault.jpg",
+        "durationInMinutes": 174,
+        "releaseDate": 1404572612000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

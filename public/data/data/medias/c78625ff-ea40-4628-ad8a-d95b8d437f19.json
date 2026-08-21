@@ -1,0 +1,45 @@
+{
+  "id": "c78625ff-ea40-4628-ad8a-d95b8d437f19",
+  "title": "Tőrbe ejtve",
+  "originalTitle": "Knives Out",
+  "overview": "A milliárdos krimiírót 85. születésnapján holtan találják vidéki villájában. A partit követő napon a tett helyszínére érkezik a híres magándetektív, Benoit Blanc, akit egy titokzatos személy bérelt fel a szenzációs bűncselekmény felderítésével. Ahogy a nyomozó elkezdi felgöngyölíteni az ügyet, egyre különösebb titkokra derít fényt. És bár az ünnepségen résztvevő családtagoknak, és a személyzetnek is megdönthetetlen alibije van, mindenkinek alapos indítéka volt a szörnyű tett elkövetésére. A vidéki magányban elszigetelt família minden tagja egyre kétségbeesettebben bizonygatja saját igazát, de Benoit Blanc egy meglepő csellel végül mégis tőrbe csalja a gyilkost.",
+  "backdropPath": "/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg",
+  "posterPath": "/bHDFv3BhiER7l6jChyQAuGhlsdE.jpg",
+  "releaseDate": "2019-11-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c7f97c4f-0a88-4d14-9dd0-6f654655e642",
+      "title": "Tőrbe ejtve",
+      "subtitle": null,
+      "timestampString": "00:52:50",
+      "timestampInSeconds": 3170,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #183",
+        "youtubeId": "uA5tRdykPyw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uA5tRdykPyw/hqdefault.jpg",
+        "durationInMinutes": 277,
+        "releaseDate": 1579802407000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

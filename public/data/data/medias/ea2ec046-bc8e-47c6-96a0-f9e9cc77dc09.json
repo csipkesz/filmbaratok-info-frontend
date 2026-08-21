@@ -1,0 +1,41 @@
+{
+  "id": "ea2ec046-bc8e-47c6-96a0-f9e9cc77dc09",
+  "title": "Mielőtt meghaltam (Dallas Buyers Club)",
+  "originalTitle": "Dallas Buyers Club",
+  "overview": "1986-ban járunk, amikor egy Texasban élő villanyszerelőnél AIDS-et diagnosztizálnak. Ő ezt követően Mexikóba utazik, hogy illegális gyógyszert csempésszen és adjon el sorstársainak. Igaz történet alapján.",
+  "backdropPath": "/sbVKj98cq0FztCukzu47bu0H8o7.jpg",
+  "posterPath": "/g1gRMm2JgKuLqeQOrVRVcotVxHk.jpg",
+  "releaseDate": "2013-11-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4194b19a-d4e4-4b62-8439-36b5f64d7147",
+      "title": "Mielőtt meghaltam (Dallas Buyers Club)",
+      "subtitle": null,
+      "timestampString": "00:05:31",
+      "timestampInSeconds": 331,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #46 (Oscar 2014)",
+        "youtubeId": "BjIg8Ny1Bfg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/BjIg8Ny1Bfg/hqdefault.jpg",
+        "durationInMinutes": 145,
+        "releaseDate": 1393580650000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "b5bc4267-e501-4a51-b37f-34380dd08f0f",
+  "title": "Mielőtt lemegy a nap",
+  "originalTitle": "Before Sunset",
+  "overview": "Jesse és Celine kilenc évvel később találkoznak újra Párizsban, a férfi könyvbemutatóján. Közös könyvükén, mely a legvarázslatosabb éjszakáról szól, amit együtt éltek át. A sors most sem kegyes hozzájuk, csupán pár órájuk van, mielőtt Jesse visszarepül New Yorkba. Ezt az időt sétával és beszélgetéssel töltik, eközben kiderül, hogy az életükben bekövetkezett változások ellenére éreznek-e még valamit egymás iránt.",
+  "backdropPath": "/tcZi0LQc5iu2u6i5aOWyj9NBBvl.jpg",
+  "posterPath": "/k5rVmc0nJPz6d87lMyPBbfbofU1.jpg",
+  "releaseDate": "2004-06-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3c66281f-2cbb-4321-a99c-ea55cd8c3b29",
+      "title": "Mielőtt lemegy a nap",
+      "subtitle": null,
+      "timestampString": "00:55:29",
+      "timestampInSeconds": 3329,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #32",
+        "youtubeId": "6P4PZX3FJGA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/6P4PZX3FJGA/hqdefault.jpg",
+        "durationInMinutes": 125,
+        "releaseDate": 1373643280000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "9b263271-f6ef-4999-8c9f-ab719cb8a9c2",
+            "name": "DreamerInstinct"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

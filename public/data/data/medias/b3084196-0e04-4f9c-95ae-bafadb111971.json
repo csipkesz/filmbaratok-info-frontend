@@ -1,0 +1,45 @@
+{
+  "id": "b3084196-0e04-4f9c-95ae-bafadb111971",
+  "title": "Loki",
+  "originalTitle": "Loki",
+  "overview": "Miután Loki 2012-ben ellopta a Tesseractot (Bosszúállók: Végjáték), az Idővariációs Hatóság elfogja, mivel galibát okozott a múltban. Lokinak választási lehetőséget adnak, vagy törlik a létezésből, vagy segít nekik. Loki végül segít nekik.",
+  "backdropPath": "/q3jHCb4dMfYF6ojikKuHd6LscxC.jpg",
+  "posterPath": "/kEl2t3OhXc3Zb9FBh1AuYzRTgZp.jpg",
+  "releaseDate": "2021-06-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f0bb5f3a-97af-47ff-a596-ccc8bbf38202",
+      "title": "Loki (1. évad)",
+      "subtitle": "1. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Loki (1. évad)",
+        "youtubeId": "TtcaZIPfkn4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/TtcaZIPfkn4/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1627419954000,
+        "participants": [
+          {
+            "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
+            "name": "Shirin"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

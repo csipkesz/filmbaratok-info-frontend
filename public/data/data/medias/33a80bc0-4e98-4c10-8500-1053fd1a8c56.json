@@ -1,0 +1,45 @@
+{
+  "id": "33a80bc0-4e98-4c10-8500-1053fd1a8c56",
+  "title": "Colossus: The Forbin Project",
+  "originalTitle": "Colossus: The Forbin Project",
+  "overview": "",
+  "backdropPath": "/3eV9l3HhOGOytCilHJOACDL9DIT.jpg",
+  "posterPath": "/kmVDlTzERxSvBrqtQurjKf1zEy1.jpg",
+  "releaseDate": "1970-04-08T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d36b5b05-5388-4071-88ab-a7e717f52898",
+      "title": "Colossus: The Forbin Project",
+      "subtitle": null,
+      "timestampString": "02:41:01",
+      "timestampInSeconds": 9661,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #66",
+        "youtubeId": "E4v-47u65NI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E4v-47u65NI/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1422556505000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

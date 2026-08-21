@@ -1,0 +1,41 @@
+{
+  "id": "23537c89-f11f-4561-829d-9596ad52804f",
+  "title": "Az alapító",
+  "originalTitle": "The Founder",
+  "overview": "Az illinois-i üzletember, Ray Kroc megismerkedik a Kalifornia déli részén hamburgerezőt üzemeltető McDonald fivérekkel az 1950-es években. Krocot lenyűgözi az étterem gyors kiszolgálási rendszere, s ügyesen manőverezve átveszi az irányítást a vállalkozás felett; hamarosan milliárdos birodalommá és a világ egyik legismertebb márkanevévé fejleszti a McDonald’sot.",
+  "backdropPath": "/5WparwIlAtSZW0tcWbK2NHEZJC6.jpg",
+  "posterPath": "/dkUhWMKGP2dQ7Ckv1j8fpEeyTyf.jpg",
+  "releaseDate": "2016-11-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8f0794b4-8ea2-423c-ade3-58a96f5eb19a",
+      "title": "Az alapító",
+      "subtitle": null,
+      "timestampString": "01:07:33",
+      "timestampInSeconds": 4053,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #116",
+        "youtubeId": "z6ZDT1e89XY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z6ZDT1e89XY/hqdefault.jpg",
+        "durationInMinutes": 146,
+        "releaseDate": 1487003611000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "c075aa11-bdda-4794-bcb4-7dc153aaad53",
+  "title": "The Raid 2",
+  "originalTitle": "The Raid 2: Berandal",
+  "overview": "Rama arra kényszerül, hogy elvállaljon egy veszélyes feladatot, mert csak így tudhatja biztonságban a családját. Az egyetlen ember, akiben megbízik Bunawar, aki a rendőrség korrupcióellenes csoportját vezeti. Bunawar megbízza, hogy épüljön be a helyi maffiába. Rama a kegyetlen bűnöző, Bangun behajtója lesz, és a főnök fián keresztül próbál bizonyítékot szerezni arról, hogy a banda áll a rendőrséget átszövő vesztegetések mögött.",
+  "backdropPath": "/wJD1VaO6XMkOSAacUGLkzOKAd4D.jpg",
+  "posterPath": "/ftx0tDWEdrLq0g6X1mIuqoiEzJc.jpg",
+  "releaseDate": "2014-03-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1cfc3f30-c013-4883-8bd7-cbd6cfdd9143",
+      "title": "The Raid 2",
+      "subtitle": null,
+      "timestampString": "01:46:54",
+      "timestampInSeconds": 6414,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #53",
+        "youtubeId": "m4ZV-tpyiqU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/m4ZV-tpyiqU/hqdefault.jpg",
+        "durationInMinutes": 174,
+        "releaseDate": 1404572612000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9d2b4093-fe9c-4540-a651-216ffa3bf6bf",
+      "title": "The Raid 2",
+      "subtitle": null,
+      "timestampString": "01:29:40",
+      "timestampInSeconds": 5380,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #54",
+        "youtubeId": "z2MBRvmBR0k",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z2MBRvmBR0k/hqdefault.jpg",
+        "durationInMinutes": 188,
+        "releaseDate": 1406308806000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

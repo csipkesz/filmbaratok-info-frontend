@@ -1,0 +1,45 @@
+{
+  "id": "87b795e8-83da-46ca-b6c8-43fa37da8ca8",
+  "title": "Drakula (1931)",
+  "originalTitle": "Dracula",
+  "overview": "A horrorfilm műfajának ez a korai klasszikusa Bram Stoker ismert regényének színpadi változatán alapul. A német némafilm egyik legjobb operatőre, Karl Freund sejtelmesen ködös képeihez Csajkovszkijtól kölcsönözték a zenét. A film sikere számtalan folytatást szült, és világsztárrá tette a vérszívó erdélyi grófot alakító Lugosi Bélát. \"A gróf éppen akkor lép be a szobába, amikor Harker a tükör előtt borotválkozik. Borotválkozás közben Harker nézi magát a tükörben, maga mögött pedig nem látja Drakulát, hiszen az igazi vámpír nem látszik a tükörben, mivel nincs lelke. A lélek ugyanis olyan alak, melyet a hívő csak az isteni tükörben láthat.\" (Jure Mikuž: A tükör és a film)",
+  "backdropPath": "/cemjdP7HrUyJAry85vRT19Hidbi.jpg",
+  "posterPath": "/k4nwjQmLsVTcV3eACfzt7ikvSkN.jpg",
+  "releaseDate": "1931-02-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "371cbf33-6bf4-4a47-8096-c371d6f7ea71",
+      "title": "Drakula (1931)",
+      "subtitle": null,
+      "timestampString": "01:48:15",
+      "timestampInSeconds": 6495,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #178",
+        "youtubeId": "9GYtmUHS9Wg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9GYtmUHS9Wg/hqdefault.jpg",
+        "durationInMinutes": 253,
+        "releaseDate": 1573139236000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

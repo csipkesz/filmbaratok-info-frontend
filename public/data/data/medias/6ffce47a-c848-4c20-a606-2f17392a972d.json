@@ -1,0 +1,41 @@
+{
+  "id": "6ffce47a-c848-4c20-a606-2f17392a972d",
+  "title": "Vademberek hajszája",
+  "originalTitle": "Hunt for the Wilderpeople",
+  "overview": "Ricky elkényeztetett, dacos városi gyerek, aki most nagybátyjával, a kötekedő kalandorral Új-Zéland vadvidékén találja magát. Egy országos embervadászat veszi kezdetét, s hogy túlélhessék a rájuk leselkedő veszélyeket, a két embernek félre kell tenniük nézeteltéréseiket...",
+  "backdropPath": "/ixpUtvrZNwk6LBObXaNH8fh4FYf.jpg",
+  "posterPath": "/4L5KeBUI8ks3rawRkU80VVe3Rzy.jpg",
+  "releaseDate": "2016-01-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "996bd5b8-8f53-4695-a3ed-d5a988721356",
+      "title": "Vademberek hajszája",
+      "subtitle": null,
+      "timestampString": "00:40:00",
+      "timestampInSeconds": 2400,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #122",
+        "youtubeId": "-MTE2KExAs0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-MTE2KExAs0/hqdefault.jpg",
+        "durationInMinutes": 192,
+        "releaseDate": 1495810296000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

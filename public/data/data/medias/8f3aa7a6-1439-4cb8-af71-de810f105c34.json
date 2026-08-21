@@ -1,0 +1,49 @@
+{
+  "id": "8f3aa7a6-1439-4cb8-af71-de810f105c34",
+  "title": "A győztes gól",
+  "originalTitle": "Next Goal Wins",
+  "overview": "Az amerikai-szamoai labdarúgó-válogatottat az Ausztrália elleni legendás 0:31-es vereség óta a világ egyik legrosszabb futballcsapatának tartják. Ilyen mértékű vereséget még soha nem szenvedett egy válogatott sem. Ráadásul az ezt követő 30 nemzetközi mérkőzésükön is kizárólag vereségek követték egymást. Ennek ellenére a csapat nem hajlandó feladni a 2014-es világbajnokságra való kijutás célját. Thomas Rongen (Michael Fassbender) amerikaifutball-edzőt hívják segítségül, hogy a következő három hétben formába hozza a csapatot.",
+  "backdropPath": "/j4TnCy7lNPrE8mX5n5ydCoLA7xW.jpg",
+  "posterPath": "/7jIaY1zD4yMGNJmU40rBe6WxqUJ.jpg",
+  "releaseDate": "2023-11-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "cac468ca-44e1-4f61-afe7-22907afd41b4",
+      "title": "A győztes gól",
+      "subtitle": null,
+      "timestampString": "01:01:15",
+      "timestampInSeconds": 3675,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #269 (Évösszegző 2023)",
+        "youtubeId": "UqrJRJtzjJs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/UqrJRJtzjJs/hqdefault.jpg",
+        "durationInMinutes": 276,
+        "releaseDate": 1703966409000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

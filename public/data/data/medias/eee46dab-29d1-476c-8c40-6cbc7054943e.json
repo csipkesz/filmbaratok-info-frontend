@@ -1,0 +1,45 @@
+{
+  "id": "eee46dab-29d1-476c-8c40-6cbc7054943e",
+  "title": "Kutyák szigete",
+  "originalTitle": "Isle of Dogs",
+  "overview": "A jövőben járvány tör ki a kutyák közt. Egy japán város polgármestere úgy dönt, hogy nem várja meg, amíg minden eb kutyainfluenzás lesz, száműzi egytől egyig az összeset egy szigetre. Megaszaki összes kutyáját egy széles kiterjedésű, hulladéklerakóként használt szigetre viszik. Atari, a polgármester 12 éves fia egymaga indul apró repülőjén a Szemét-szigetre, hogy felkutassa szeretett testőrkutyáját. Ott egy falka új barátra lel, akik segítségével belevág nagy kalandjába, ami megváltoztatja az egész város jövőjét.",
+  "backdropPath": "/goMGTcitprGu7YD6VZS4lUUwzRA.jpg",
+  "posterPath": "/hhGGyeaHdEUPRKz9AbuIVImf7Bi.jpg",
+  "releaseDate": "2018-03-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e3eeebab-4b8a-4499-91a7-f8da3fa794d1",
+      "title": "Kutyák szigete",
+      "subtitle": null,
+      "timestampString": "01:02:30",
+      "timestampInSeconds": 3750,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #143",
+        "youtubeId": "l804b8dtAzA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/l804b8dtAzA/hqdefault.jpg",
+        "durationInMinutes": 166,
+        "releaseDate": 1526485744000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

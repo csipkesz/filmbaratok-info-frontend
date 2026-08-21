@@ -1,0 +1,41 @@
+{
+  "id": "f1473235-e46c-47a5-95c7-263011f97798",
+  "title": "November Man",
+  "originalTitle": "The November Man",
+  "overview": "Peter Devereaux-t, a rendkívül veszélyes ex-CIA ügynököt egykor a legjobb kémek között tartották számon. Akik ismerték, csak úgy nevezték, November Man: ahol feltűnt a vérprofi CIA-s mérhetetlen pusztítást hagyott maga mögött. És most újra vissza kell szállnia a játszmába: védelmére kel egy szemtanúnak, Alice Fourniernak, akit az ügynökség kész megölni, nehogy fény derüljön egy évtizede őrzött titkos összeesküvésre. Peter maga is célponttá válik.",
+  "backdropPath": "/qFVv6qw6LqotUQofdwKSvxJfLnu.jpg",
+  "posterPath": "/nacSsHcEUpustWUWMzVY2UhnJjh.jpg",
+  "releaseDate": "2014-08-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ff0f4dcd-ac59-4d3f-b66c-f762d4ab032c",
+      "title": "November Man",
+      "subtitle": null,
+      "timestampString": "00:59:04",
+      "timestampInSeconds": 3544,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #59",
+        "youtubeId": "xa1Ymms2_9c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/xa1Ymms2_9c/hqdefault.jpg",
+        "durationInMinutes": 189,
+        "releaseDate": 1413978295000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

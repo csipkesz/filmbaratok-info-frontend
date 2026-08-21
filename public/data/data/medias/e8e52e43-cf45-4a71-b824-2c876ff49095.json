@@ -1,0 +1,41 @@
+{
+  "id": "e8e52e43-cf45-4a71-b824-2c876ff49095",
+  "title": "Mielőtt éjfélt üt az óra",
+  "originalTitle": "Before Midnight",
+  "overview": "Jesse és Celine már egy Párizsban élő párt alkotnak. Előző - kilenc évvel korábbi - találkozásuk gyümölcseként ikerlányok szülei lettek. Miután Hank velük töltötte a nyarat Messiniában, hazautazik Amerikába. A fiúval eltöltött idő Jesse-ben felébreszti a vágyat hazája iránt és javasolja feleségének, hogy Párizsból költözzenek a tengerentúlra. Celine, annak ellenére, hogy munkájában új kihívást keres, visszautasítja a költözést. Barátaik érezvén az elnyomott feszültséget Jesse és Celine között, egy tengerparti luxushotelben eltöltött éjszakát ajándékoznak a párnak. Celine ódzkodik elfogadni az ajándékot, azonban a barátok hajthatatlanok. Végül Celine és Jesse gyalog indulnak el a festői vidéken, flörtölgetve, vitatkozva és szívszorító őszinteséggel beszélgetve magukról, érzelmeikről, az életükről.",
+  "backdropPath": "/crdW75sDNYM0ddjFyrcg6V59qdP.jpg",
+  "posterPath": "/mtzHPXDKgp3VxCSQrsw376lEyCg.jpg",
+  "releaseDate": "2013-04-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "32d437e1-d631-4377-9bc4-055f47d6975f",
+      "title": "Mielőtt éjfélt üt az óra",
+      "subtitle": null,
+      "timestampString": "00:54:50",
+      "timestampInSeconds": 3290,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #44",
+        "youtubeId": "_NwJoO7yxrE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_NwJoO7yxrE/hqdefault.jpg",
+        "durationInMinutes": 137,
+        "releaseDate": 1391206083000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "273a8019-47aa-4cdf-9b9f-6c84ee0f59ce",
+            "name": "Émi"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

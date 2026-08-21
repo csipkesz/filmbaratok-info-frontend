@@ -1,0 +1,41 @@
+{
+  "id": "65355646-483f-4bbb-a2b6-680d794b900c",
+  "title": "A homok alatt",
+  "originalTitle": "Under sandet",
+  "overview": "Egy csapat fiatal német katona, akik a dán nemzeti hadsereg ellenségei, azt a feladatot kapják, hogy puszta kézzel ássanak ki 2 millió taposóaknát. Carl mélységesen megveti és gyűlöli a németeket, beleértve a keze alá adott utász bojtárokat. Kutyaként bánik velük, eltiporva a lelküket. De, ahogyan telnek a hetek, hónapok, lassan megnyílik a rábízott fiatalok felé és ezzel megkezdődik az ő enyhülése is, hogy végleg maga mögött hagyja a háborúban felhalmozott gyűlöletét...",
+  "backdropPath": "/vkzeh2G7Gwapo4J1eqGWRph2hCs.jpg",
+  "posterPath": "/fqhG9545pOrRqwkOCq1Wlc12H44.jpg",
+  "releaseDate": "2015-12-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "024628d5-ef12-43f6-8034-bd17bf846b86",
+      "title": "A homok alatt",
+      "subtitle": null,
+      "timestampString": "02:28:20",
+      "timestampInSeconds": 8900,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #120",
+        "youtubeId": "-3teFOfAauw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-3teFOfAauw/hqdefault.jpg",
+        "durationInMinutes": 251,
+        "releaseDate": 1493646027000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

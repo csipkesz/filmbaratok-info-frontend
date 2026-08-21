@@ -1,0 +1,45 @@
+{
+  "id": "18619759-3188-4ac0-9643-f394086da408",
+  "title": "Otthon, biztonságban",
+  "originalTitle": "Right at Your Door",
+  "overview": "Brad (Rory Cochrane), az állástalan zenész egy nap arra ébred, hogy a városban bomba robbant. Kiderül, hogy veszélyes, valószínűleg mérgező porfelhő került a levegőbe. Az utcán bolyongó túlélőket karanténba zárják, és azt kérik, aki otthon van, zárkózzon be, és lehetőség szerint hermetikusan zárja le a lakást. A kétségbeesett Brad képtelen telefonon elérni a feleségét, Lexit (Mary McCormack), ezért a házába betévedt munkással együtt szigetelőszalaggal lefedik a nyílászárókat. Ám Lexi, aki közben autóbalesetet szenvedett, még él, és sikerül hazajutnia. Most ott áll a bezárt ajtó előtt a halálosan rettegő és összezavarodott Braddel szemben.",
+  "backdropPath": "/6MRz7SEqTAGYQ2dSvFjyKVr6IYK.jpg",
+  "posterPath": "/83pr1wgoLLYd7PbTsFpSUTaqLiU.jpg",
+  "releaseDate": "2006-01-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8cce250b-b28d-4ddb-bcd6-63af2384e93c",
+      "title": "Otthon, biztonságban",
+      "subtitle": null,
+      "timestampString": "03:36:31",
+      "timestampInSeconds": 12991,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #77",
+        "youtubeId": "GxURCHDmpLM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GxURCHDmpLM/hqdefault.jpg",
+        "durationInMinutes": 246,
+        "releaseDate": 1437150395000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

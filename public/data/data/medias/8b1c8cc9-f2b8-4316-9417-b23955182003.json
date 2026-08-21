@@ -1,0 +1,45 @@
+{
+  "id": "8b1c8cc9-f2b8-4316-9417-b23955182003",
+  "title": "Napszállta",
+  "originalTitle": "Napszállta",
+  "overview": "Budapest, 1913 nyara - a béke utolsó napjai. Leiter Írisz hosszú évek után tér vissza az Osztrák-Magyar Monarchia sokszínű és nyüzsgő városába. A korán elárvult fiatal lány minden vágya, hogy néhai szülei legendás kalapszalonjában kapjon munkát. Az új tulajdonos, Brill Oszkár azonban elutasítja, és mindenáron igyekszik eltávolítani a városból.  Az éj leple alatt egy idegen keresi fel Íriszt, és bátyja hollétét tudakolja tőle - a lány ekkor tudja meg, hogy Leiter Kálmán néven él egy testvére, akinek eddig a létezéséről sem tudott. Írisz nyomozásba kezd, s bátyja után kutatva egyre mélyebbre húzza a város labirintusa. Írisz számára egyedül a tündöklő Leiter Kalapszalon tűnik biztos pontnak, de a ragyogás mögött a legsötétebb titok tárul fel.",
+  "backdropPath": "/ipQ78GQapFO1ny2xLh6vIyjZOAp.jpg",
+  "posterPath": "/2nf5pycVK7yfSk5EsQREjciSpwq.jpg",
+  "releaseDate": "2018-09-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a47f85ca-850c-404e-adcd-e68f48cdac51",
+      "title": "Napszállta",
+      "subtitle": null,
+      "timestampString": "02:13:53",
+      "timestampInSeconds": 8033,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #153",
+        "youtubeId": "o2r_oHM2CEM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/o2r_oHM2CEM/hqdefault.jpg",
+        "durationInMinutes": 239,
+        "releaseDate": 1539286396000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

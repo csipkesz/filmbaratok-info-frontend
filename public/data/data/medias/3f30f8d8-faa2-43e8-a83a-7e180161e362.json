@@ -1,0 +1,53 @@
+{
+  "id": "3f30f8d8-faa2-43e8-a83a-7e180161e362",
+  "title": "Elrabolt világ",
+  "originalTitle": "Captive State",
+  "overview": "Egy évtized telt el azóta, hogy az égből különös formájú űrhajók ereszkedtek a Földre, és a bennük érkező lények leigázták a bolygót. De nem baj. Chicago nyugodtabb, békésebb hely lett azóta. A bűnözés megszűnt, a munkanélküliség a nullához közelít, az emberi világot biztos kézzel kormányozzák azok, akikkel az átlagpolgár nem is találkozik. Vagy mindez hazugság? Vannak, akik szerint egyáltalán nem ilyen rózsás a helyzet, és meghirdetik a végső, mindent eldöntő bolygóközi szabadságharcot. Kevesen vannak, rosszul felszereltek, és csupán sejtik, hogy ki ellen harcolnak – ám mindenre elszántak. De sok ember van, akik nem értenek egyet velük: akik akár harcolni is hajlandók a világ új uraiért. Együttműködők és terroristák; kollaboránsok és forradalmárok között folyik a harc – a messziről jött lények csak akkor lépnek közbe, ha már nincs más megoldás.",
+  "backdropPath": "/xnz8kkRvqpzzDbRXONwVEjT78t7.jpg",
+  "posterPath": "/9JWBW1vlCop7iceeT1sksICAKkO.jpg",
+  "releaseDate": "2019-03-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b68bc9a3-a82a-4e70-89a6-7c3e2f6b8c73",
+      "title": "Elrabolt világ",
+      "subtitle": null,
+      "timestampString": "02:11:42",
+      "timestampInSeconds": 7902,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #165",
+        "youtubeId": "RSBwJungF40",
+        "thumbnailUrl": "https://i.ytimg.com/vi/RSBwJungF40/hqdefault.jpg",
+        "durationInMinutes": 274,
+        "releaseDate": 1554109205000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "68f01e0f-6b1f-485e-98d9-70c98cbc8ad7",
+            "name": "Károly"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

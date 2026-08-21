@@ -1,0 +1,28 @@
+{
+  "id": "b10c20a6-aa73-4618-967a-31090c7f567f",
+  "title": "Négy óra a Capitoliumban",
+  "originalTitle": null,
+  "overview": null,
+  "backdropPath": null,
+  "posterPath": null,
+  "releaseDate": null,
+  "topics": [
+    {
+      "id": "216fe67b-b9bc-42ed-89d0-e2a61f97d63f",
+      "title": "Négy óra a Capitoliumban",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Négy óra a Capitoliumban",
+        "youtubeId": "xD8Lej9UUnU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/xD8Lej9UUnU/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1642658418000,
+        "participants": []
+      }
+    }
+  ]
+}

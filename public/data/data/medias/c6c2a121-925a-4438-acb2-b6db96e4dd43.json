@@ -1,0 +1,41 @@
+{
+  "id": "c6c2a121-925a-4438-acb2-b6db96e4dd43",
+  "title": "Hófehérke [2025]",
+  "originalTitle": "Snow White",
+  "overview": "A Disney-klasszikus élőszereplős adaptációja a West Side Story fiatal színésznőjének, Rachel Zegler főszereplésével.",
+  "backdropPath": "/tyfO9jHgkhypUFizRVYD0bytPjP.jpg",
+  "posterPath": "/sAs0dSu2NJvI1nFltMx3uTda8b0.jpg",
+  "releaseDate": "2025-03-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a955f72e-f88f-42b4-aacd-ec3fdb439d26",
+      "title": "Hófehérke [2025]",
+      "subtitle": null,
+      "timestampString": "02:50:10",
+      "timestampInSeconds": 10210,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #302",
+        "youtubeId": "3K4xdZiHI_w",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3K4xdZiHI_w/hqdefault.jpg",
+        "durationInMinutes": 235,
+        "releaseDate": 1747414746000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "81c74007-6ba2-48cc-bb04-67dab76496fc",
+  "title": "A kaktusz virága",
+  "originalTitle": "Cactus Flower",
+  "overview": "Julian Winston főállású agglegény, mellékesen pedig fogorvos, aki retteg a házasság gondolatától. Újdonsült barátnőjének, a szöszke Toni-nak azt hazudja, hogy nős. Toni elkeseredettségében öngyilkosságot kísérel meg, Winston erre megígéri, hogy elválik, és elveszi feleségül. Ám Tonit nem abból a fából faragták, aki csak úgy ripsz-ropsz tönkretesz egy boldog családot, saját szemével szeretné látni, hogy a házastársak kapcsolata már kihűlt. Winstonnak sürgősen keríteni kell egy álfeleséget, s úgy tűnik, titkárnője, a kissé mogorva Stephanie megfelelő lesz erre a szerepre.",
+  "backdropPath": "/1YJSwtDc7Tx2dypQRpuL4aRTcRS.jpg",
+  "posterPath": "/2f1u7Z0wdYOc1h9XRES2EtgcOzD.jpg",
+  "releaseDate": "1969-12-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c4ecab42-fb98-4ed1-b5fd-010af9e17ef2",
+      "title": "A kaktusz virága",
+      "subtitle": null,
+      "timestampString": "01:58:00",
+      "timestampInSeconds": 7080,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #291",
+        "youtubeId": "kkat0CorCLw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/kkat0CorCLw/hqdefault.jpg",
+        "durationInMinutes": 178,
+        "releaseDate": 1732811077000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

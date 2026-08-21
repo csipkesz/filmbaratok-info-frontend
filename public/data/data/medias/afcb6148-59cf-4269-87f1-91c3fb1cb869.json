@@ -1,0 +1,49 @@
+{
+  "id": "afcb6148-59cf-4269-87f1-91c3fb1cb869",
+  "title": "Holdfény",
+  "originalTitle": "Moonlight",
+  "overview": "Mick St. John, aki helyes, sármos - és halhatatlan - magánnyomozóként dolgozik Los Angelesben. 60 évvel ezelőtt vámpírrá változott, és örökre 30 éves marad. A különleges képességeit - társaival ellentétben - arra használja, hogy védelmezze az embereket. Felbukkan a vonzó riporternő, Beth Turner az életében.",
+  "backdropPath": "/9q096hngNt9jBJVM3hi9beNNK9E.jpg",
+  "posterPath": "/kSpzAA3lOlDckWVbCGHsNPFbQ5i.jpg",
+  "releaseDate": "2007-09-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "710d3e9d-4445-41c8-9358-29f3564dfc51",
+      "title": "Holdfény",
+      "subtitle": null,
+      "timestampString": "00:03:33",
+      "timestampInSeconds": 213,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #117",
+        "youtubeId": "pgzo-WxFTbU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/pgzo-WxFTbU/hqdefault.jpg",
+        "durationInMinutes": 176,
+        "releaseDate": 1487953222000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "15a53a44-af10-4843-b447-7f9fbb845f56",
+            "name": "Szöllőskei Gábor"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

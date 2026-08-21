@@ -1,0 +1,41 @@
+{
+  "id": "95e2ace6-47d9-43ee-af9e-251c74eeb640",
+  "title": "Egymásra utalva",
+  "originalTitle": "The Snow Walker",
+  "overview": "Charlie Lavery repülőgépével üzemanyagot visz az artikus térségbe. Visszaútján egy beteg nőt szállít kórházba. Váratlanul elromlik a gép, s egy civilizációtól távol levő, elhagyatott heyre zuhannak. Mindketten túlélik a zuhanást. Charlie segítségért indul, de a céltalan keresgélés közben elhagyja az ereje és összeesik. Halálán van, amikor a beteg nő rátalál, és gyógyítani kezdi. A zord környezethez szokott útitárs lassan megtanítja a túlélés fortélyaira.",
+  "backdropPath": "/kkFwxts0A2E6k2maR0UktH4cV4F.jpg",
+  "posterPath": "/qPJRxTcMGeCuluduk8tjLaQK1cD.jpg",
+  "releaseDate": "2003-09-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6ba60245-6e9d-43ee-aee2-0750818c1752",
+      "title": "Egymásra utalva",
+      "subtitle": null,
+      "timestampString": "02:14:00",
+      "timestampInSeconds": 8040,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #168",
+        "youtubeId": "_Gfw4jCabeA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_Gfw4jCabeA/hqdefault.jpg",
+        "durationInMinutes": 156,
+        "releaseDate": 1557378988000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

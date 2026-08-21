@@ -1,0 +1,41 @@
+{
+  "id": "2e8e5e07-671e-4317-b0d2-cea4a88350cc",
+  "title": "A büntető / The Punisher (1989)",
+  "originalTitle": "The Punisher",
+  "overview": "Frank Castle (Dolph Lundgreen) különleges ügynök utolsó akciójába végzetes hiba csúszik, amelynek áldozatául esik a hírhedt alvilági vezér fia. A bosszú nem maradhat el: a maffia feje hidegvérrel végez Frank családjával. A magára maradt ügynököt ezután már semmi más nem élteti, csak a megtorlás. Őrült hajszába kezd, hisz csupán egyetlen küldetése maradt - a büntetés.",
+  "backdropPath": "/tFmrdnfXM0p6ihMTFpptYOKEfSl.jpg",
+  "posterPath": "/t8AfdiBwwVR9gmfQUKVShGlys5i.jpg",
+  "releaseDate": "1989-10-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3598efa6-2c81-4cba-93a5-0e42170b7db5",
+      "title": "A büntető / The Punisher (1989)",
+      "subtitle": null,
+      "timestampString": "00:51:30",
+      "timestampInSeconds": 3090,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #119",
+        "youtubeId": "y4ke6vT4qms",
+        "thumbnailUrl": "https://i.ytimg.com/vi/y4ke6vT4qms/hqdefault.jpg",
+        "durationInMinutes": 111,
+        "releaseDate": 1491032632000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

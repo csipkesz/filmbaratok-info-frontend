@@ -1,0 +1,41 @@
+{
+  "id": "c09736de-714c-46f5-b8a4-ae2cb0b74a4e",
+  "title": "A búcsú",
+  "originalTitle": "The Farewell",
+  "overview": "Egy kínai család tagjai rájönnek, hogy a nagymamának már csak hónapjai maradtak hátra. Úgy döntenek, nem árulják el neki a rossz hírt, és egy esküvő szervezésébe kezdenek, hogy elvonják az idős hölgy figyelmét a közelgő végzetes időpontról.",
+  "backdropPath": "/5INPBiKVRsyp9kgHfsC0cTfvKFH.jpg",
+  "posterPath": "/7ht2IMGynDSVQGvAXhAb83DLET8.jpg",
+  "releaseDate": "2019-07-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f2b8ec5c-1342-4a3e-9b34-fab295dd5776",
+      "title": "A búcsú",
+      "subtitle": null,
+      "timestampString": "01:34:40",
+      "timestampInSeconds": 5680,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #186",
+        "youtubeId": "LvzEUgrbuec",
+        "thumbnailUrl": "https://i.ytimg.com/vi/LvzEUgrbuec/hqdefault.jpg",
+        "durationInMinutes": 214,
+        "releaseDate": 1584373994000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

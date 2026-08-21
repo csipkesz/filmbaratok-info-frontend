@@ -1,0 +1,45 @@
+{
+  "id": "cd2d2b10-e3c5-4a7b-98ad-6ce43faf3d51",
+  "title": "A Pentagon titkai",
+  "originalTitle": "The Post",
+  "overview": "1971 júniusában hatalmas botrány rázza meg az Amerikai Egyesült Államokat: a The New York Times részleteket közöl egy szigorúan titkos jelentésből, amelyből nyilvánvalóvá válik, hogy az USA kormánya félrevezette a közvéleményt a vietnámi háborúval kapcsolatban. Miután a kormány leállíttatja az anyagok közzétételét és bíróság elé idézi a napilapot, az iratokat kiszivárogtató katonai elemző, Daniel Ellsberg a The Washington Posthoz fordul. A női laptulajdonosként még kuriózumnak számító, és az elismertségéért küzdő Katherine Graham úgy dönt, hogy vállalja a kockázatot, és kiáll a sajtószabadság mellett. A bátor asszony és az elhivatott főszerkesztő, Ben Bradlee egészen a Legfelsőbb Bíróságig elmennek, hogy a háború értelmetlenségét leleplező „Pentagon-iratok” nyilvánosságra kerülhessenek…",
+  "backdropPath": "/8sb4aBST28vN3rBz704XJczS0Ld.jpg",
+  "posterPath": "/qUbms4k3l3xHAeaX9HxnoLQpLz3.jpg",
+  "releaseDate": "2017-12-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "df25c872-3062-4881-bdc0-3a00e58f38d1",
+      "title": "A Pentagon titkai",
+      "subtitle": null,
+      "timestampString": "00:50:25",
+      "timestampInSeconds": 3025,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #139 (Oscar 2018)",
+        "youtubeId": "o7DTWukNCDc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/o7DTWukNCDc/hqdefault.jpg",
+        "durationInMinutes": 181,
+        "releaseDate": 1519882297000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "15a53a44-af10-4843-b447-7f9fbb845f56",
+            "name": "Szöllőskei Gábor"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "b7a60a93-a2b9-4ed0-86dc-ffb4c5c8cef3",
+  "title": "A blair-i boszorkány átka",
+  "originalTitle": "Curse of the Blair Witch",
+  "overview": "Blair városában (Maryland) néhány gyermek azzal vádolta Elly Kedward-ot, hogy elrabolta őket, és a házában vérüket vette. Elly-t kiüldözték a városból. Ez időtályt hideg, zord tél köszöntött a vidékre, és úgy vélték Miss Kedward nem élte túl. Ám mivel boszorkánynak hitték, féltek a rájuk leselkedő átoktól. Nevét sem volt szabad kimondani...Burkittsville ott található Blair környékén. Tizenegy szemtanú állítja, hogy a nyolc éves kislányt, Eileen Treacle-t egy öreg, női kéz húzta be a Tappy East patak vizébe. Nem sokkal később a szintén nyolc éves Robin Weaver tunt el rejtélyes körülmények között. A helybéliek a keresésére indultak. Robin visszatért, ám az egyik csapat nem. Hetekkel később találták meg a holttestüket a Coffin Rock elnevezésű sziklánál...",
+  "backdropPath": "/je9wFiDIPg6pp9TWmoyHJNyoRRJ.jpg",
+  "posterPath": "/e7AvQaI3k60HGGEso1t3KNjTuDW.jpg",
+  "releaseDate": "1999-07-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9fb70176-a2a4-40ca-a412-cf7400f77018",
+      "title": "A blair-i boszorkány átka",
+      "subtitle": null,
+      "timestampString": "03:50:27",
+      "timestampInSeconds": 13827,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #243",
+        "youtubeId": "gCWkf0UnSwY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gCWkf0UnSwY/hqdefault.jpg",
+        "durationInMinutes": 296,
+        "releaseDate": 1668706204000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

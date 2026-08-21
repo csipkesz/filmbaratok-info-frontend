@@ -1,0 +1,41 @@
+{
+  "id": "2cc25f77-add7-429f-83d0-7f12714e994b",
+  "title": "Jókislány",
+  "originalTitle": "Babygirl",
+  "overview": "Romy egy befolyásos vezérigazgató kockára teszi karrierjét és a házasságát, amikor szenvedélyes viszonyba kezd a nála jóval fiatalabb gyakornokával, Samuellel. Az erotikával túlfűtött, bizarr játékokkal teli románcuk egyre furcsább fordulatokat vesz, a nő pedig elbizonytalanodik, hogy az alá-fölérendelt viszonyukban valójában ki irányít.",
+  "backdropPath": "/s7vWRjcfRVMW8tBIxhC3UhKxRoo.jpg",
+  "posterPath": "/7TYtJ59HzHex6IpmT3RRXR2uVtv.jpg",
+  "releaseDate": "2024-12-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ed801427-2578-4a0c-906c-3d0ddf264913",
+      "title": "Jókislány",
+      "subtitle": null,
+      "timestampString": "00:32:45",
+      "timestampInSeconds": 1965,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #296",
+        "youtubeId": "2X4YekH4jj4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/2X4YekH4jj4/hqdefault.jpg",
+        "durationInMinutes": 189,
+        "releaseDate": 1739562524000,
+        "participants": [
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

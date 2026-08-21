@@ -1,0 +1,49 @@
+{
+  "id": "478be1c6-2557-4411-9e73-2af525a2ee79",
+  "title": "Oroszlán",
+  "originalTitle": "Lion",
+  "overview": "Az öt éves Saroo egyszer csak arra ébred, hogy rossz vonattal utazik egyes egyedül, egyre távolabb észak-indiai otthonától. A megrettent és megzavarodott kisfiú másfél ezer kilométerre vetődik el, a nyüzsgő és átláthatatlan Kalkuttába. Valahogy sikerül boldogulnia az utcákon, mígnem egy árvaházban köt ki. Ott egy ausztrál házaspár fogadja örökbe, így biztonságban és szeretetben nőhet fel Hobart városában. Hogy ne tűnjön hálátlannak újdonsült szüleivel szemben, múltját mélyre temeti, vágyával és reményeivel egyetemben, hogy valaha viszontlátja szülőanyját és testvérét. Egy véletlen találkozás más indiaiakkal azonban ismét feltüzeli titkos sóvárgását. Csupán maroknyi emlékkel és egy Google Earth nevű új technológiával, Saroo korunk legnagyobb és legképtelenebb kutatásába kezd elveszett családja után",
+  "backdropPath": "/ycABRSIK1Ff10Tc2A6WJHagp1Co.jpg",
+  "posterPath": "/ikmCsnNAtdoBFzifJmtqe7dzoMR.jpg",
+  "releaseDate": "2016-11-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "09356985-515d-4796-ae87-f4bf01a081d3",
+      "title": "Oroszlán",
+      "subtitle": null,
+      "timestampString": "00:19:30",
+      "timestampInSeconds": 1170,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #117",
+        "youtubeId": "pgzo-WxFTbU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/pgzo-WxFTbU/hqdefault.jpg",
+        "durationInMinutes": 176,
+        "releaseDate": 1487953222000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "15a53a44-af10-4843-b447-7f9fbb845f56",
+            "name": "Szöllőskei Gábor"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

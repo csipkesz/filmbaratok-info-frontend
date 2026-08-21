@@ -1,0 +1,41 @@
+{
+  "id": "3b6f27c5-3870-46d6-9fbd-e78696a9c353",
+  "title": "Hozd vissza őt",
+  "originalTitle": "Bring Her Back",
+  "overview": "Amikor egy testvérpár megérkezik új nevelőanyjuk távoli lakhelyére, egy hátborzongató titokra bukkannak – egy baljós rituáléra, amely próbára teszi bátorságukat, és felborítja biztonságérzetüket.  (Csillag Lajos)",
+  "backdropPath": "/2IIKts2A9vnUdM9tTC76B8tDmuZ.jpg",
+  "posterPath": "/iFW8xLlzkYx5g66E6uMGKNCTM82.jpg",
+  "releaseDate": "2025-05-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8ac44cf9-2edf-4c8d-809d-67c0a505f439",
+      "title": "Hozd vissza őt [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "01:19:15",
+      "timestampInSeconds": 4755,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #308",
+        "youtubeId": "JX8Yhmv3ho0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JX8Yhmv3ho0/hqdefault.jpg",
+        "durationInMinutes": 210,
+        "releaseDate": 1755468901000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

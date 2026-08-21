@@ -1,0 +1,41 @@
+{
+  "id": "7ad785af-182a-4be8-a4c9-f67ae9cab722",
+  "title": "Pénznyelő",
+  "originalTitle": "The Money Pit",
+  "overview": "A fiatal házaspár, Walter Fielding és Anna Crowley új lakást szeretnének maguknak, ám pénzük az nem sok, úgyhogy nem fűznek nagy reményeket az akcióhoz. De meglepő módon hihetetlen szerencsések és hihetetlenül alacsony áron jutnak egy gyönyörű házhoz. Ám abban a pillanatban, amikor beköltöznek, elindul a lavina és a lakás a szó szoros értelmében szinte atomjaira esik.",
+  "backdropPath": "/2C2kUFxhs5u2G9xeg4KQ0FZvFFA.jpg",
+  "posterPath": "/jq7OfIA9i9iWvR0JI6RRd35wkyB.jpg",
+  "releaseDate": "1986-03-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "76a30f38-08b9-40dc-9699-12f40ad912ab",
+      "title": "Pénznyelő",
+      "subtitle": null,
+      "timestampString": "02:24:20",
+      "timestampInSeconds": 8660,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #190",
+        "youtubeId": "w7oFnCSc3u4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/w7oFnCSc3u4/hqdefault.jpg",
+        "durationInMinutes": 188,
+        "releaseDate": 1590603790000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

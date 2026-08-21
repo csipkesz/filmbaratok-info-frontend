@@ -1,0 +1,45 @@
+{
+  "id": "623a9011-444c-4fbd-9677-2d718761b151",
+  "title": "Fontos vagy nekem",
+  "originalTitle": "I Care a Lot",
+  "overview": "Marla Grayson törvényes képviselőként tevékenykedik az állami apparátusban, azonban tisztességtelen és csak a haszonszerzésre irányuló módszereivel több idős embert forgat ki a teljes vagyonából. Ám hamarosan meggyűlik a baja legújabb áldozatával, akinek háttere sokkal szélesebb volumenű, és aki sokkal ravaszabb mint azt első ránézésre hitte volna.",
+  "backdropPath": "/pA4J371Gk2F47vyGQOWapcsnOzz.jpg",
+  "posterPath": "/ocKeJ0y2CfnsIjoMIS4cYJcB3LO.jpg",
+  "releaseDate": "2021-02-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d598aab8-df00-4ac4-8702-9917687fe3e0",
+      "title": "Fontos vagy nekem",
+      "subtitle": null,
+      "timestampString": "02:16:55",
+      "timestampInSeconds": 8215,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #207",
+        "youtubeId": "nRj4p0apAgo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nRj4p0apAgo/hqdefault.jpg",
+        "durationInMinutes": 247,
+        "releaseDate": 1614949852000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

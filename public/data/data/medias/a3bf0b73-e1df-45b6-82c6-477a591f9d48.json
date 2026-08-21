@@ -1,0 +1,45 @@
+{
+  "id": "a3bf0b73-e1df-45b6-82c6-477a591f9d48",
+  "title": "A világ legjobb apukája",
+  "originalTitle": "World's Greatest Dad",
+  "overview": "Robin Williams játssza a világ legirányíthatóbb, legakaratgyengébb édesapját. Emellett írói ambíciókkal bír, valamint költészetet oktat a közeli suliban, ahová a fia is jár. Gyermekében (Daryl Sabara) a legkellemetlenebb, legperverzebb gyermeket tisztelhetjük, akinek igen furcsa hobbijai is vannak. Apját természetesen ki nem állhatja, nagyjából a Föld minden élő organizmusával egyetemben. Aztán történik valami, ami mindkettőjük életét megváltoztatja.",
+  "backdropPath": "/tsEVQYXcmvjbMlZO8q2ypRjaajR.jpg",
+  "posterPath": "/INuGJfnPGzCWdEHh7pAtBfy3Jw.jpg",
+  "releaseDate": "2009-08-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "01c485ae-af5f-4846-bf3c-e4d1b79ff8af",
+      "title": "A világ legjobb apukája",
+      "subtitle": null,
+      "timestampString": "03:13:43",
+      "timestampInSeconds": 11623,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #134",
+        "youtubeId": "gB5CFdGY70M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gB5CFdGY70M/hqdefault.jpg",
+        "durationInMinutes": 218,
+        "releaseDate": 1513874512000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "b0dce6ae-63d3-41ea-ac07-967439aa834a",
+  "title": "A szomorúság háromszöge",
+  "originalTitle": "Triangle of Sadness",
+  "overview": "Gazdag turisták nyaralnak egy hatalmas luxus óceánjárón. A szupergazdagok és divatmodellek gondtalan semmittevését előbb megzavarja egy harsányan politizáló kapitány, majd a hajó elsüllyedése után a túlélőknek egy szigeten kell újabb megpróbáltatásokkal szembenézniük.",
+  "backdropPath": "/vNPY4oCSUp7CxbHkKJNRx1fmCl0.jpg",
+  "posterPath": "/sBNYMiGe3RvwWx6Jz2hJIQoeMRf.jpg",
+  "releaseDate": "2022-09-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9de37d54-aee3-46ed-a5ff-18183fd99b8f",
+      "title": "A szomorúság háromszöge",
+      "subtitle": null,
+      "timestampString": "01:00:50",
+      "timestampInSeconds": 3650,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #242",
+        "youtubeId": "aT0O2kW4N38",
+        "thumbnailUrl": "https://i.ytimg.com/vi/aT0O2kW4N38/hqdefault.jpg",
+        "durationInMinutes": 223,
+        "releaseDate": 1667206800000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

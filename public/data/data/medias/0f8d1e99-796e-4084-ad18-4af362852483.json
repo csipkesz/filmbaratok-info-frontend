@@ -1,0 +1,41 @@
+{
+  "id": "0f8d1e99-796e-4084-ad18-4af362852483",
+  "title": "Taxidermia",
+  "originalTitle": "Taxidermia",
+  "overview": "Három történet. Három kor. Három férfi. Nagyapa, apa, fiú. Egy tisztiszolga, egy élsportoló és egy preparátor mester. Az egyik szerelemre vágyik, a másik sikerre, a harmadik halhatatlanságra. A nagyapa fantáziál; lázas képzeletével fűti be magának fagyos kis kamráját a hideg téli estéken. A megtermékenyítõ erejű képzeletnek semmi sem szab határt. Az apa zabál, négy évig volt szekcióelsõ az Édesiparban. Mártott ostyában egyenesen verhetetlen, 2,98 az egyéni rekordja (csak úgy viszonyításképpen, az Igor Vosztongonov 3,21-gyel lett Európa-bajnok Szófiában).",
+  "backdropPath": "/iagFTj7kfQ20gAK4vaItMyMaoU0.jpg",
+  "posterPath": "/wftu8KmSSHPh7jl4IAJpbX7TTIn.jpg",
+  "releaseDate": "2006-08-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d1a3937b-5a73-4319-ba4d-0d18b3c0134a",
+      "title": "Taxidermia",
+      "subtitle": null,
+      "timestampString": "02:10:00",
+      "timestampInSeconds": 7800,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #43",
+        "youtubeId": "WupIquHhCt0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/WupIquHhCt0/hqdefault.jpg",
+        "durationInMinutes": 164,
+        "releaseDate": 1389645501000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "bae1ec31-93c4-445d-ba3b-10dceec8397e",
+  "title": "Éger",
+  "originalTitle": "Éger",
+  "overview": "Károly és Zsolt egyszerre legjobb barátok, vetélytársak és esküdt ellenségek – tehát egymás életének szerves részei mióta az eszüket tudják. Az egyetem végeztével azonban elszakadnak egymástól. Hosszú évtizedek után útjaik akkor keresztezik ismét egymást, mikor a munkanélküli, reményvesztett Zsolt megjelenik az éppen életközépi válságon keresztülmenő Károly ajtajában. A két férfi találkozása olyan eseményláncolatot indít el, amely nem csak kettejük, hanem minden szerettük életét végérvényesen tönkreteheti.",
+  "backdropPath": "/wUv4dlPWjvwOOEcs5z5D9KgsQCd.jpg",
+  "posterPath": "/z2kPfpJB9Ub1vs3KtW240JF5TNS.jpg",
+  "releaseDate": "2023-11-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "210b44a6-d892-4de1-a730-9350b0268e13",
+      "title": "Éger",
+      "subtitle": null,
+      "timestampString": "01:49:50",
+      "timestampInSeconds": 6590,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #267",
+        "youtubeId": "fjGmqt2DQZg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fjGmqt2DQZg/hqdefault.jpg",
+        "durationInMinutes": 201,
+        "releaseDate": 1701380416000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5cf95d25-7a51-43af-8fe9-6b2f52c214d7",
+  "title": "A melós",
+  "originalTitle": "A Working Man",
+  "overview": "Levon Cade egy kitüntetésekkel díjazott katonai karriert hagyott ott a titkosszolgálatnál, hogy egyszerű életet éljen, és az építőiparban dolgozzon. Amikor azonban emberkereskedők elrabolják a főnöke lányát, aki számára olyan, mintha a családtagja lenne, megígéri, hogy hazaviszi a lányt. Kutatásai során egy olyan romlott világot tár fel, amely sokkal hatalmasabb, mint azt valaha gondolta volna.",
+  "backdropPath": "/fTrQsdMS2MUw00RnzH0r3JWHhts.jpg",
+  "posterPath": "/kaIotirjuQGKm1moKZapTV9rbJK.jpg",
+  "releaseDate": "2025-03-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "cf08c4e8-c373-45fd-8e42-7a0832a42c05",
+      "title": "A melós",
+      "subtitle": null,
+      "timestampString": "00:34:02",
+      "timestampInSeconds": 2042,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #302",
+        "youtubeId": "3K4xdZiHI_w",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3K4xdZiHI_w/hqdefault.jpg",
+        "durationInMinutes": 235,
+        "releaseDate": 1747414746000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

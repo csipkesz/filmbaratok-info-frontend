@@ -1,0 +1,45 @@
+{
+  "id": "4f09192b-a5f6-472d-a888-74086125161d",
+  "title": "Lajkó, cigány az űrben",
+  "originalTitle": "Lajkó – Cigány az űrben",
+  "overview": "1957 elején a Nagy Szovjetunió úgy dönt, hogy baráti országai közül Magyarországnak ad esélyt, hogy kiválassza a földkerekség első kozmonautáját, aki majd az első ember lehet az űrben. Karmazsin Jenő elvtárs, a Kunmadarasi Vörösiszap Termelőszövetkezet elnöke tudja is, ki lehetne a legmegfelelőbb jelölt a nagy utazásra: Lajkó egész életét egyetlen célnak rendeli alá: eljutni az űrbe, és ott bocsánatot kérni anyjától. Mikor Lajkót kiválasztják az űrutazásra, még nem is sejti, hogy álmai nem véletlenül válnak épp most valóra. Ám előbb Bajkonurban, egy különleges verseny keretében dől el, hogy a magyar Lajkó, a német Helga Mengele, az észt Ilmar, vagy a mongol Timuzsin lesz-e a szerencsés kiválasztott, a versenyt ráadásul maga Leonyid Brezsnyev elnököli. Közben pedig Lajkó apja is újra és újra feltűnik, tovább bonyolítva Lajkó kalandjait.",
+  "backdropPath": "/c4c7w4S0HWUkmS4Is7rxPA3NmgE.jpg",
+  "posterPath": "/a0RiQg6YjsGi6xNBHwIhlASnYsE.jpg",
+  "releaseDate": "2018-03-29T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "526f9397-4782-4133-b177-f5735564e349",
+      "title": "Lajkó, cigány az űrben",
+      "subtitle": null,
+      "timestampString": "01:40:30",
+      "timestampInSeconds": 6030,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #142",
+        "youtubeId": "9S7p7P1Y2po",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9S7p7P1Y2po/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1525105433000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

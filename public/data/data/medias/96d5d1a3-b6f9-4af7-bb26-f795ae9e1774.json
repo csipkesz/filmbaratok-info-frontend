@@ -1,0 +1,41 @@
+{
+  "id": "96d5d1a3-b6f9-4af7-bb26-f795ae9e1774",
+  "title": "Itt a vége",
+  "originalTitle": "This Is the End",
+  "overview": "Nagy parti van James Franco házában, olyan hírességekkel a meghívottak listáján, mint Danny McBride, Seth Rogen, Jay Baruchel, Jonah Hill, Aziz Ansari, Craig Robinson és még sokan mások. A sztároknak ezen az összejövetelen most egy váratlan apokalipszissal kell szembenézniük, ami a világ végéhez vezethet.",
+  "backdropPath": "/sXfN4ir91SfTeoWidIukQWane43.jpg",
+  "posterPath": "/bBSpmCcTEtJKSAFyZ3cDqevGjVJ.jpg",
+  "releaseDate": "2013-06-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6c41bc00-d668-4109-afd3-be6a7032389f",
+      "title": "Itt a vége",
+      "subtitle": null,
+      "timestampString": "01:49:03",
+      "timestampInSeconds": 6543,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #49",
+        "youtubeId": "KInB1pvzVo0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/KInB1pvzVo0/hqdefault.jpg",
+        "durationInMinutes": 177,
+        "releaseDate": 1397986559000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

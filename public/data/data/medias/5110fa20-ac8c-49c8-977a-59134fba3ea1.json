@@ -1,0 +1,45 @@
+{
+  "id": "5110fa20-ac8c-49c8-977a-59134fba3ea1",
+  "title": "Gen V",
+  "originalTitle": "Gen V",
+  "overview": "A V generáció visszarepít A fiúk világába. Az új sorozat Amerika egyetlen szuperhős-egyetemén játszódik. A tehetséges hallgatók feszegetik az erkölcsi határaikat, versengenek azért, hogy az egyetem ranglistáján emelkedjenek, és csatlakozhassanak a Hetekhez, a Vought International elit szuperhőscsapatához. Amikor az iskola sötét titkaira fény derül, el kell dönteniük, milyen hősök lesznek.",
+  "backdropPath": "/tldMHeR7UnihV5ffrxxM8cDhbtT.jpg",
+  "posterPath": "/95C6G2hSSc5QUvHsA5ddhNs7ShI.jpg",
+  "releaseDate": "2023-09-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "13d24398-31e8-4cba-8375-58951289b395",
+      "title": "Gen V (2. évad)",
+      "subtitle": "2. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Gen V (2. évad)",
+        "youtubeId": "3bUoSjiWQu4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3bUoSjiWQu4/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1762455715000,
+        "participants": []
+      }
+    },
+    {
+      "id": "a56358ef-f3b9-453e-b7a6-cbc0a63d19e9",
+      "title": "Gen V (1. évad)",
+      "subtitle": "1. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Gen V (1. évad)",
+        "youtubeId": "4Jcl7tkMctk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/4Jcl7tkMctk/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1715623202000,
+        "participants": []
+      }
+    }
+  ]
+}

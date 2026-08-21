@@ -1,0 +1,41 @@
+{
+  "id": "7b49acb3-f85b-414b-8aa9-412991ea3cf9",
+  "title": "A kötél",
+  "originalTitle": "Rope",
+  "overview": "Brandon és Philip, a két felsőbbrendűségtől vezérelt New York-i fiatalember úgy véli, hogy gyilkosság terén is képes tökéleteset alkotni. A közelgő ünnepi vacsora előtt minden ok és indíték nélkül egy kötéllel megfojtják barátjukat, David-et, majd a holttestet egy ládába rejtik. A partira - melyre David is hivatalos - sorban érkeznek a vendégek, köztük David menyasszonya és édesapja is, s eközben a letakart láda éppen büféasztalként funkcionál. Eleinte a vendégsereg mit sem sejt, ám nem sokkal később megérkezik Brandon-ék egykori filozófiatanára, Rupert Cadell, aki David távolmaradásából és a fiúk szokatlan viselkedéséből kiindulva lassan összerakja a képet.",
+  "backdropPath": "/81LX4wktTXWEXjLNlkHTmJm7tRu.jpg",
+  "posterPath": "/wWVSiKNVithBSPppz9qQPJWXcoi.jpg",
+  "releaseDate": "1948-02-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "59ab4f5b-51b4-4f0c-bd68-5fe1d9a94bfe",
+      "title": "A kötél",
+      "subtitle": null,
+      "timestampString": "03:25:18",
+      "timestampInSeconds": 12318,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #149",
+        "youtubeId": "VBEVVw6KCTg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VBEVVw6KCTg/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1534514845000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

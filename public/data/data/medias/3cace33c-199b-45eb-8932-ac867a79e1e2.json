@@ -1,0 +1,41 @@
+{
+  "id": "3cace33c-199b-45eb-8932-ac867a79e1e2",
+  "title": "Amerika Kapitány: A tél katonája",
+  "originalTitle": "Captain America: The Winter Soldier",
+  "overview": "Steve Rogers - aki az 1940-es évek elején vett részt az USA hadseregének titkos kísérletében - most Washingtonban éli csendes hétköznapjait és próbál alkalmazkodni a modern világ kihívásaihoz. Azonban amikor a terrorelhárítással és hírszerzéssel foglalkozó S.H.I.E.L.D egyik munkatársát megtámadják, a férfi egy olyan összeesküvés közepén találja magát, amely az egész világot fenyegeti. Újra feltűnik régi szövetségese, a Fekete Özvegy is, akivel minden erejükre szükségük lesz, hogy felderítsék a konspirációt és leküzdjék a megsemmisítésükre küldött bérgyilkosok hadát. Amikor rájönnek, hogy valójában mivel állnak szemben, felismerik, hogy további partnerekre lesz szükségük, ha győzni szeretnének. Csatlakozik hozzájuk legújabb szövetségesük, Sólyom is, azonban váratlanul egy rendkívül erős ellenféllel, a tél katonájával találják szemben magukat.",
+  "backdropPath": "/1RWLMyC9KcFfcaoViMiJGSSZzzr.jpg",
+  "posterPath": "/amcGqkrcR0KatRBJgJG4B5espk1.jpg",
+  "releaseDate": "2014-03-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b6b4333d-d724-4d58-911b-e8039ae6f7d9",
+      "title": "Amerika Kapitány: A tél katonája",
+      "subtitle": null,
+      "timestampString": "00:41:50",
+      "timestampInSeconds": 2510,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #49",
+        "youtubeId": "KInB1pvzVo0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/KInB1pvzVo0/hqdefault.jpg",
+        "durationInMinutes": 177,
+        "releaseDate": 1397986559000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

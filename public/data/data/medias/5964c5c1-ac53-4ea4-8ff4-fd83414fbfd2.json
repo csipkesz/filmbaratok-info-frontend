@@ -1,0 +1,37 @@
+{
+  "id": "5964c5c1-ac53-4ea4-8ff4-fd83414fbfd2",
+  "title": "Tűzgyűrű (Pacific Rim)",
+  "originalTitle": "Pacific Rim",
+  "overview": "Miközben az emberiség és a tengeri lények között folyik a háború, egy volt pilóta és egy újonc párba állnak, hogy egy elavultnak tűnő különleges gépet vezetve megmentsék a világot az apokalipszistől.",
+  "backdropPath": "/9X7Im1YuBhyHYVD8r7CAONPJR5k.jpg",
+  "posterPath": "/mlEZ5uyTzocRh32Zw2FHs2wgR0z.jpg",
+  "releaseDate": "2013-07-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "cbb58a9a-96cb-44b1-a4e9-e016a6708109",
+      "title": "Tűzgyűrű (Pacific Rim)",
+      "subtitle": null,
+      "timestampString": "00:28:59",
+      "timestampInSeconds": 1739,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #33",
+        "youtubeId": "IomFNhWRQNA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IomFNhWRQNA/hqdefault.jpg",
+        "durationInMinutes": 148,
+        "releaseDate": 1375255137000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

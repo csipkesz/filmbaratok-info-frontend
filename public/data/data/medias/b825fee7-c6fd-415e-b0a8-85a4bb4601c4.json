@@ -1,0 +1,28 @@
+{
+  "id": "b825fee7-c6fd-415e-b0a8-85a4bb4601c4",
+  "title": "Finders Keepers",
+  "originalTitle": "Finders Keepers",
+  "overview": "",
+  "backdropPath": null,
+  "posterPath": "/aBdq0wb9B1EsHPd4Hk2Lk7GYxoN.jpg",
+  "releaseDate": "1987-11-02T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b089ea3b-0740-49fc-8b89-25f7afb9bcea",
+      "title": "Finders Keepers",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Finders Keepers",
+        "youtubeId": "3K85-c4E-f8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3K85-c4E-f8/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1458891955000,
+        "participants": []
+      }
+    }
+  ]
+}

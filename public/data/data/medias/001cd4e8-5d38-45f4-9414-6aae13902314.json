@@ -1,0 +1,45 @@
+{
+  "id": "001cd4e8-5d38-45f4-9414-6aae13902314",
+  "title": "Adsz vagy kapsz",
+  "originalTitle": "Trick 'r Treat",
+  "overview": "Október 31-e, Halloween a boszorkányok és szellemek ünnepe. A felnőttek töklámpásokat faragnak, a gyerekek maskarába öltözve járják a házakat és azt mondogatják: Adsz vagy kapsz! A tulaj pedig, ha nem akarja, hogy rohadt paradicsommal dobálják meg a házát, édességgel kedveskedik nekik. Az ünnep alkalmából négy rémmese elevenedik meg. Az egyikből kiderül, hogy a középiskola igazgatója elvetemült sorozatgyilkos, a másik a Piroska és a farkas sajátos változata. A harmadik helyi legendát idéz, míg a negyedik az öregember bűnhődését mutatja be, amiért nem adott cukrot a Halloweenkor kopogtató gyerkőcöknek.",
+  "backdropPath": "/wYI3r4DGKhwjPoDpfPfGdLMrPLt.jpg",
+  "posterPath": "/nxMr2CuPPjJtMCEMATzcyj0uHtl.jpg",
+  "releaseDate": "2007-12-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6042ed5a-ad55-4bbf-9bf9-ada91e7842e9",
+      "title": "Adsz vagy kapsz",
+      "subtitle": null,
+      "timestampString": "03:31:42",
+      "timestampInSeconds": 12702,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #241",
+        "youtubeId": "wkIRMrjPzTE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wkIRMrjPzTE/hqdefault.jpg",
+        "durationInMinutes": 228,
+        "releaseDate": 1665676839000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

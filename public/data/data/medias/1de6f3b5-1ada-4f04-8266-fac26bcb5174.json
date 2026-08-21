@@ -1,0 +1,45 @@
+{
+  "id": "1de6f3b5-1ada-4f04-8266-fac26bcb5174",
+  "title": "Vaksötét 2",
+  "originalTitle": "Don't Breathe 2",
+  "overview": "A vak veterán évek óta bujkált egy elszigetelt házban, ahol befogadott és felnevelt egy fiatal lányt, aki egy pusztító háztűz miatt árván maradt. Csendes közös életük összeomlik, amikor egy csoport bűnöző elrabolja a lányt, és arra kényszeríti a Vak Embert, hogy elhagyja biztonságos menedékét, hogy megmentse őt.",
+  "backdropPath": "/3ULzK4XTSC1wal11K7459fxnjjA.jpg",
+  "posterPath": "/nS9QlRLLg85kcteFH7e8UM68wbr.jpg",
+  "releaseDate": "2021-08-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b4b80e08-c9a5-4864-a2bc-f48d6b0dd562",
+      "title": "Vaksötét 2",
+      "subtitle": null,
+      "timestampString": "00:49:30",
+      "timestampInSeconds": 2970,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #219",
+        "youtubeId": "h8nzJYoqTuY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/h8nzJYoqTuY/hqdefault.jpg",
+        "durationInMinutes": 195,
+        "releaseDate": 1632931799000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

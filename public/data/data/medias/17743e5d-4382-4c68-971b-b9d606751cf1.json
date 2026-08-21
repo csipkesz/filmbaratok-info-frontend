@@ -1,0 +1,41 @@
+{
+  "id": "17743e5d-4382-4c68-971b-b9d606751cf1",
+  "title": "Vaksötét",
+  "originalTitle": "Don't Breathe",
+  "overview": "Egy csoport tinédzser betör egy vak férfi otthonába, azt gondolván, hogy megússzák, mert ez maga a tökéletes bűntény. Tévednek.",
+  "backdropPath": "/3mIVOqDbYeucnw09TpjgHvSjXfu.jpg",
+  "posterPath": "/gwtw81yGNYK6PC92I53Eqyt0aUB.jpg",
+  "releaseDate": "2016-06-08T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0dea24e5-def8-4e35-b791-a43aa510f816",
+      "title": "Vaksötét",
+      "subtitle": null,
+      "timestampString": "00:42:32",
+      "timestampInSeconds": 2552,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #106",
+        "youtubeId": "HldVi4TfJ9Y",
+        "thumbnailUrl": "https://i.ytimg.com/vi/HldVi4TfJ9Y/hqdefault.jpg",
+        "durationInMinutes": 146,
+        "releaseDate": 1473495633000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

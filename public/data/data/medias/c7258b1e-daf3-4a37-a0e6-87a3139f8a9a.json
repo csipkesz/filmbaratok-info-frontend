@@ -1,0 +1,45 @@
+{
+  "id": "c7258b1e-daf3-4a37-a0e6-87a3139f8a9a",
+  "title": "Tini Nindzsa Teknőcök",
+  "originalTitle": "Teenage Mutant Ninja Turtles",
+  "overview": "A négy mutáns nindzsa teknős visszatért! Leonardo, Donatello, Raffaello és Michalangelo felveszik a harcot a New York City-ben elszabaduló gonosz erők ellen. Esténként háztetőről háztetőre lopakodva védelmezik a várost, amikor azonban egy új gonosz bukkan fel a városban, a teknősöknek össze kell fogniuk, hogy szembeszálljanak Szecska mesterük régi ellenségével, Zúzóval, az elfeledettnek hitt Láb klán vezetőjével.",
+  "backdropPath": "/7NWAe3Bc7s3hYDKdarkwGuxT1GM.jpg",
+  "posterPath": "/n0DN6kJf0kGeuNFUYLT6eZe5ERR.jpg",
+  "releaseDate": "2012-09-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ce3d7c23-2580-4e77-a73d-2e727b01d06e",
+      "title": "Tini Nindzsa Teknőcök",
+      "subtitle": null,
+      "timestampString": "01:16:38",
+      "timestampInSeconds": 4598,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #57",
+        "youtubeId": "NItQ0G4BTsQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/NItQ0G4BTsQ/hqdefault.jpg",
+        "durationInMinutes": 177,
+        "releaseDate": 1410890684000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

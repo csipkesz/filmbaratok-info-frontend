@@ -1,0 +1,45 @@
+{
+  "id": "96321879-ad53-4d24-a4c9-8a3af651f664",
+  "title": "A tenger szívében",
+  "originalTitle": "In the Heart of the Sea",
+  "overview": "A természet visszavág. Egy feldühödött, óriási ámbráscet a Csendes óceán déli részén rátámad az Essex nevű amerikai bálnavadászhajóra, és a 238 tonnás vitorlás elsüllyed. A húsztagú legénység három csónakban vág neki a végtelen víznek. Félnek, hogy az útjukba eső szigeteken kannibálokkal találkoznak, ezért a Dél-Amerikai partot veszik célba. 3000 mérföldnyi út áll előttük.",
+  "backdropPath": "/4LRLz2V63TSwuQhBVNXsbnHxgoY.jpg",
+  "posterPath": "/5iiBD1XUDr4gvpgzXOAUWINnyCZ.jpg",
+  "releaseDate": "2015-12-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4929690e-7cdf-4bb9-b858-1a0a816b7807",
+      "title": "A tenger szívében",
+      "subtitle": null,
+      "timestampString": "00:37:06",
+      "timestampInSeconds": 2226,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #88",
+        "youtubeId": "wEd9ZOCpPII",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wEd9ZOCpPII/hqdefault.jpg",
+        "durationInMinutes": 226,
+        "releaseDate": 1450458682000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

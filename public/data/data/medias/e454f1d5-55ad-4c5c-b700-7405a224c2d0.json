@@ -1,0 +1,41 @@
+{
+  "id": "e454f1d5-55ad-4c5c-b700-7405a224c2d0",
+  "title": "Freddyné óriási tüsszentése",
+  "originalTitle": null,
+  "overview": null,
+  "backdropPath": null,
+  "posterPath": null,
+  "releaseDate": null,
+  "topics": [
+    {
+      "id": "0a59942c-b798-4c06-a96e-c478bc44534d",
+      "title": "Freddyné óriási tüsszentése",
+      "subtitle": null,
+      "timestampString": "01:22:59",
+      "timestampInSeconds": 4979,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #291",
+        "youtubeId": "kkat0CorCLw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/kkat0CorCLw/hqdefault.jpg",
+        "durationInMinutes": 178,
+        "releaseDate": 1732811077000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

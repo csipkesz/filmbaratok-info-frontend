@@ -1,0 +1,41 @@
+{
+  "id": "2e1d7bef-f7a6-46a3-8b77-00a8703aa870",
+  "title": "A tökéletlen trükk",
+  "originalTitle": "The Great Buck Howard",
+  "overview": "A hétköznapi név a világ legnagyobb mágusát takarja. Legalábbis ezt tartja magáról Buck Howard. Való igaz, régebben jobban ment az üzlet, ám manapság legfeljebb néhány nyugdíjast hoz lázba. Buck persze a nagy visszatérésről, országos turnéról álmodik. A terve is megvan, mellyel újra ámulatba ejtheti a világot. Felfogadja asszisztensnek Troy Gable-t, aki otthagyta a jogi tanulmányait, hogy a szórakoztató üzletben dolgozhasson. Nem elég, hogy Troy nyakába veszi a különc mágus dolgainak szervezését, az apja ellenérzését is le kell győznie, csakúgy, mint a ravasz publicista ármánykodását.",
+  "backdropPath": "/bzjGojNGoLuGvbaeEbjI8BFhJ1f.jpg",
+  "posterPath": "/luXxZO9eqyCnJdLwn4BNvc8KJzy.jpg",
+  "releaseDate": "2008-01-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "203c6af6-5e78-414f-adbe-229abeffea81",
+      "title": "A tökéletlen trükk",
+      "subtitle": null,
+      "timestampString": "02:21:25",
+      "timestampInSeconds": 8485,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #242",
+        "youtubeId": "aT0O2kW4N38",
+        "thumbnailUrl": "https://i.ytimg.com/vi/aT0O2kW4N38/hqdefault.jpg",
+        "durationInMinutes": 223,
+        "releaseDate": 1667206800000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "4475708e-cc14-42bc-9077-3f53c8bb1a27",
+  "title": "Panic Button",
+  "originalTitle": "Panic Button",
+  "overview": "Négy embert kiválasztanak az egyik közösségi oldalon, hogy részt vegyenek egy kiránduláson New-York-ba. Azt gondolják, hogy valami remek élményben lesz részük. A repülőn azonban minden másképp történik. A játék kezd komollyá válni és eldurvulni.",
+  "backdropPath": "/98pgHx95yzcWtDVslyKnDqYUUcI.jpg",
+  "posterPath": "/h3icpcNGxHpkrheza1M63lmQK7m.jpg",
+  "releaseDate": "2011-08-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3a554347-56a4-4ce2-bc10-80e0b25e120a",
+      "title": "Panic Button",
+      "subtitle": null,
+      "timestampString": "01:08:25",
+      "timestampInSeconds": 4105,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #61",
+        "youtubeId": "lu3n5Wpq2k0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/lu3n5Wpq2k0/hqdefault.jpg",
+        "durationInMinutes": 185,
+        "releaseDate": 1415901482000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

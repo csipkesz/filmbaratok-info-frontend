@@ -1,0 +1,71 @@
+{
+  "id": "bc14f04d-39cb-4453-9b31-608a28d8c413",
+  "title": "A Lego-kaland",
+  "originalTitle": "The Lego Movie",
+  "overview": "Emmet átlagos fickó. A keze sárga, két ujja van, a feje tetején bütyök tartja a sapkát. A Lego-világ átlagembere, építkezésen dolgozik, és semmi pénzért se késné le kedvenc napi tévésorozatát. Egy félreértés folytán azonban mindenki más azt hiszi: ő a Kiválasztott, a világ megmentésének kulcsfigurája. Különleges figurák egy kis csapatával kell nekivágnia a nagy feladatnak, amely meghökkentő kalandokon és váratlan fordulatokon keresztül eljuttathatja hőseinket… majd meglátjuk hova. Annyi biztos: a kettős életet élő Lord Biznisz az elveszejtésükre tör, Emmet pedig Vitruvius, a bölcs öreg, egy vad Lego-lány, Batman és még néhány furcsa fickó oldalán, gyorsan alakuló járgányok és könnyen átépíthető világok között harcol – de alig érti, mi zajlik körülötte.",
+  "backdropPath": "/6gI1dAkOaUQ6659OdRPsTLlsem5.jpg",
+  "posterPath": "/mRpAZVm3BmsssLrJhYFt0hAB6zZ.jpg",
+  "releaseDate": "2014-02-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0a88969f-d303-4851-895e-56649c9b97dd",
+      "title": "A LEGO kaland",
+      "subtitle": null,
+      "timestampString": "01:07:51",
+      "timestampInSeconds": 4071,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #54",
+        "youtubeId": "z2MBRvmBR0k",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z2MBRvmBR0k/hqdefault.jpg",
+        "durationInMinutes": 188,
+        "releaseDate": 1406308806000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "68d6ec4e-cb29-4474-9d9a-be122a96a1f4",
+      "title": "A Lego-Kaland",
+      "subtitle": null,
+      "timestampString": "01:11:36",
+      "timestampInSeconds": 4296,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #45",
+        "youtubeId": "9hNSnIZK61I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9hNSnIZK61I/hqdefault.jpg",
+        "durationInMinutes": 145,
+        "releaseDate": 1392563971000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

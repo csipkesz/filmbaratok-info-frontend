@@ -1,0 +1,28 @@
+{
+  "id": "ba61e880-d265-4b95-bb37-110effbabec0",
+  "title": "Suburban Sasquatch",
+  "originalTitle": "Suburban Sasquatch",
+  "overview": "",
+  "backdropPath": "/2ZlAZwAxh8prXWFVKKuEAG7JXPT.jpg",
+  "posterPath": "/2vqj2LTv5p37N9KdbiFh8c8e6P1.jpg",
+  "releaseDate": "2004-08-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a0525cef-5735-4507-8f38-384a82291319",
+      "title": "Suburban Sasquatch",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "AUDIO_COMMENTARY",
+        "title": "Filmbarátok Audiokommentár: Suburban Sasquatch",
+        "youtubeId": "eiG4s1OXGcw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/eiG4s1OXGcw/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1659004043000,
+        "participants": []
+      }
+    }
+  ]
+}

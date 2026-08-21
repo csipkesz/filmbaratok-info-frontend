@@ -1,0 +1,58 @@
+{
+  "id": "ca836acf-80de-4ee9-9329-1df529351236",
+  "title": "Elfújta a szél",
+  "originalTitle": "Gone with the Wind",
+  "overview": "Az amerikai polgárháború idején játszódó történet főhőse egy georgiai ültetvényes gyönyörű lánya, Scarlett O'Hara. A tüzes és makacs teremtés hiába szerelmes a szomszéd birtokos legidősebb fiába, Ashley-be, a fiatalember mégsem őt, hanem unokatestvérét választja. Házasság és pusztulás, születés és halál kíséri végig Scarlett életét, melyben egy különös férfi, Rhett Butler válik főszereplővé.",
+  "backdropPath": "/4FHcxMtVruMr7ltU2cItWssLjTP.jpg",
+  "posterPath": "/qIrLmNHcmQHuc9CkfPaMnVQovQZ.jpg",
+  "releaseDate": "1939-12-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0a05f5a6-fd2b-4538-8521-0780f0a88270",
+      "title": "Elfújta a szél",
+      "subtitle": null,
+      "timestampString": "02:04:20",
+      "timestampInSeconds": 7460,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #95",
+        "youtubeId": "IB6YAtikVd0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IB6YAtikVd0/hqdefault.jpg",
+        "durationInMinutes": 151,
+        "releaseDate": 1459485369000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f5b65bc4-126e-4cb7-ba63-dc7888489568",
+      "title": "Elfújta a szél",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Elfújta a szél",
+        "youtubeId": "SawaSOVe9v0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/SawaSOVe9v0/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1460305402000,
+        "participants": []
+      }
+    }
+  ]
+}

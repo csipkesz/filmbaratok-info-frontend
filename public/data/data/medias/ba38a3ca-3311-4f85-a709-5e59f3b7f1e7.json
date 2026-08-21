@@ -1,0 +1,45 @@
+{
+  "id": "ba38a3ca-3311-4f85-a709-5e59f3b7f1e7",
+  "title": "Tomb Raider",
+  "originalTitle": "Tomb Raider",
+  "overview": "A rettenthetetlen, független fiatal nő, Lara Croft kislány volt még, mikor édesapja, a különc kalandor nyomtalanul eltűnt. Hét év eltelte és a tényekkel való folytonos szembesítés dacára Lara elindul, hogy egyszer s mindenkorra megoldja az apja halálát övező rejtélyt. Hátrahagyva addigi életét, Lara apja utolsó ismert tartózkodási helyét veszi célba: egy mesebeli sírkamrát, ami egy legendás szigeten, valahol Japán mellett található. Küldetésével nagy fába vágja a fejszéjét; már a sziget megközelítése is veszedelmes kalandot ígér. A tét nagyobb nem is lehetne Lara számára, aki a kedvezőtlen esélyekre fittyet hányva, éles eszére és tántoríthatatlanságára támaszkodva feszegeti tűrőképessége határait, útban az ismeretlen felé.",
+  "backdropPath": "/ohijjhvNqAPKTURQr6VIF7xuAjY.jpg",
+  "posterPath": "/tWEvJPp9SzFASkFV22QGkXjzOCA.jpg",
+  "releaseDate": "2018-03-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d6e805d1-ebc6-45fc-95a1-4f6723320fb0",
+      "title": "Tomb Raider",
+      "subtitle": null,
+      "timestampString": "00:22:40",
+      "timestampInSeconds": 1360,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #141",
+        "youtubeId": "gWd3V1HCpWA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gWd3V1HCpWA/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1522558409000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

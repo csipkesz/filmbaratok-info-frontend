@@ -1,0 +1,41 @@
+{
+  "id": "6c30046e-c21a-44c4-9298-17b7180c1887",
+  "title": "Monolith",
+  "originalTitle": "Monolith",
+  "overview": "",
+  "backdropPath": "/f7Qwg7kKNIvBnr3Ipv2bpXb23BN.jpg",
+  "posterPath": "/zKpLzzX1va6gkMJiI9p3DudqChe.jpg",
+  "releaseDate": "2023-10-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fe44bb93-c68e-4cad-a30c-01779cbc5917",
+      "title": "Monolith",
+      "subtitle": null,
+      "timestampString": "02:06:38",
+      "timestampInSeconds": 7598,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #123",
+        "youtubeId": "bURb6dAUghs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/bURb6dAUghs/hqdefault.jpg",
+        "durationInMinutes": 147,
+        "releaseDate": 1497253469000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

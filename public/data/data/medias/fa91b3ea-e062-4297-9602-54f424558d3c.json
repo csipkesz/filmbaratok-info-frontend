@@ -1,0 +1,41 @@
+{
+  "id": "fa91b3ea-e062-4297-9602-54f424558d3c",
+  "title": "Alvilági játékok",
+  "originalTitle": "Lucky Number Slevin",
+  "overview": "Slevin Kelevra tudja, a bajok csőstül jönnek. Először megcsalják, majd kirabolják, végül végzetesen összetévesztik a haverjával. Slevin néhány óra leforgása alatt egy gengszterháború közepén találja magát, sarkában a halálos Macska úrral. A Főnök megbízásából meg kell ölnie a rivális banda vezetőjének, a Rabbinak a fiát, míg a Rabbi 33 ezer dollárt követel tőle. Mindkét helyen az életével fizet, ha a határidő lejár. A fiú egyetlen segítsége a szép Lindsey, aki nem is sejti, hogy Slevin ki is valójában.",
+  "backdropPath": "/ShDHEWiJ4NL6ldn4W2m3bEkIBr.jpg",
+  "posterPath": "/hR8RckmUsHgi5iIgNpyIUuJthFZ.jpg",
+  "releaseDate": "2006-02-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "357d826e-d333-4318-aaad-c40de4240315",
+      "title": "Alvilági játékok",
+      "subtitle": null,
+      "timestampString": "01:54:00",
+      "timestampInSeconds": 6840,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #81",
+        "youtubeId": "jxVu-FT-Qv8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/jxVu-FT-Qv8/hqdefault.jpg",
+        "durationInMinutes": 158,
+        "releaseDate": 1442306890000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

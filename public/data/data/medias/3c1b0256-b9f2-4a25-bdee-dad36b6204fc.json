@@ -1,0 +1,41 @@
+{
+  "id": "3c1b0256-b9f2-4a25-bdee-dad36b6204fc",
+  "title": "Csendes éj",
+  "originalTitle": "Csendes éj",
+  "overview": "A film története egyetlen éjszaka alatt pereg le. Egy fiatal fiú és egy idős asszony véletlen találkozása karácsony éjjel. Titkokkal teli életük sötét felhői mögül, számukra is váratlanul előtör a Nap: a fiúnak anyát az asszonynak gyermeket hoz a kilátástalannak induló szenteste.",
+  "backdropPath": null,
+  "posterPath": "/2ftgkCuw9HDtrbMRpPnI7KF4tGE.jpg",
+  "releaseDate": "2024-03-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "dfd3b8ca-c355-4b9c-a35d-f7760a00601d",
+      "title": "Csendes éj",
+      "subtitle": null,
+      "timestampString": "02:20:48",
+      "timestampInSeconds": 8448,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #270",
+        "youtubeId": "Hk6gv0cu8TY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Hk6gv0cu8TY/hqdefault.jpg",
+        "durationInMinutes": 222,
+        "releaseDate": 1705227394000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

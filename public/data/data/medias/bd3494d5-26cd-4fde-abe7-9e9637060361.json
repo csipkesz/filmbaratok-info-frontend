@@ -1,0 +1,45 @@
+{
+  "id": "bd3494d5-26cd-4fde-abe7-9e9637060361",
+  "title": "Sárkányok birodalma",
+  "originalTitle": "Dragon Storm",
+  "overview": "Sok száz évvel ezelőtt egy csodálatos tűzgömb ért földet Fastrad király vára közelében, s a vidék urai a rettegett tűzokádó sárkányok lettek. A sárkányok csodás hatalmát senki sem volt képes megtörni, s minden ember igyekezett kitérni az útjukból. Amikor azonban a repülő szörnyek a jóságos Wednesbury király birodalmára támadtak, hat varázsos erővel bíró ember és démon - Silas, Remmegar, Ling, Nessa, Theldag és Medina - összefogott, hogy legyőzze az emberiség létét veszélyeztető sárkányokat.",
+  "backdropPath": "/kPgCcoN0oAilo33icXux5wBnDfz.jpg",
+  "posterPath": "/w0ewj8IiwzbsgYI3xRY7jzgKt6h.jpg",
+  "releaseDate": "2004-01-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "dff92f15-51ee-47bd-b874-0178d9e683af",
+      "title": "Sárkányok birodalma",
+      "subtitle": null,
+      "timestampString": "02:54:37",
+      "timestampInSeconds": 10477,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #179",
+        "youtubeId": "xquBnjUaMAg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/xquBnjUaMAg/hqdefault.jpg",
+        "durationInMinutes": 206,
+        "releaseDate": 1574800160000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "e4d249a5-e251-44d9-8c10-8e2e3e9a6069",
+            "name": "Anna"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "9b0fa381-6a21-49e6-af06-0afa62f579c3",
+  "title": "Disturbia",
+  "originalTitle": "Disturbia",
+  "overview": "Apja halálát követően Kale mogorvává, visszahúzódóvá, zaklatottá válik, olyannyira, hogy miután összetűzésbe keveredik egyik tanárával, a bíróság házi őrizetre ítéli. Anyja, Julie éjt nappallá téve dolgozik, hogy ellássa magát és a fiát, aki ezt csak közönnyel és letargiával viszonozza. Házuk falai kezdenek összezárulni Kale körül. Amikor elhatalmasodik rajta az unalom, figyelmét a házon kívülre fordítja, és elkezdi meglesni szomszédjait, köztük a csinos lányt, aki most költözött melléjük, no meg azt a gyanús urat, aki Kale szerint nem lehet más, mint az országszerte keresett sorozatgyilkos. Ám vajon mindez valóság, vagy csak a négy fal közé szorított zaklatott, hiperaktív képzelete játszik Kale-lel?",
+  "backdropPath": "/ve38VxE3qVdk5xbEluWTqFa9oGd.jpg",
+  "posterPath": "/5RtnkpeSVpfSTPebnZGlHQqb0md.jpg",
+  "releaseDate": "2007-03-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0d1b8c6f-70ae-4d1e-adcd-cc91699d99e7",
+      "title": "Disturbia",
+      "subtitle": null,
+      "timestampString": "01:39:40",
+      "timestampInSeconds": 5980,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #44",
+        "youtubeId": "_NwJoO7yxrE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_NwJoO7yxrE/hqdefault.jpg",
+        "durationInMinutes": 137,
+        "releaseDate": 1391206083000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "273a8019-47aa-4cdf-9b9f-6c84ee0f59ce",
+            "name": "Émi"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

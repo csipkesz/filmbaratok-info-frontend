@@ -1,0 +1,41 @@
+{
+  "id": "bdf41900-c4ed-4e9f-9560-af6bd68c6140",
+  "title": "Saló, avagy a Sodoma 120 napja",
+  "originalTitle": "Salò o le 120 giornate di Sodoma",
+  "overview": "Az utolsó Pasolini-film De Sade márki nyomán: négy fasiszta egy villában a legváltozatosabb szexuális kínzásoknak veti alá a foglyokat. \"A Saloval mindazokhoz fordulok, akik hozzám hasonlóan gyűlölik a Hatalmat, azért, amit az emberi testtel művel: dologgá aljasítja, s ezáltal az embert megfosztja a személyiségétől... Én különös hévvel gyűlölöm azt a hatalmat, amelytől most, 1975-ben szenvedek. Ez a hatalom olyan rettenetes eszközökkel manipulálja a testet, hogy még Hitlertől sincs mit irigyelnie: ...új, elidegenített és hazug értékrendet hirdet, a fogyasztó társadalom értékeit. Ma az megy végbe éppen, amit Marx az élő, valódi, korábbi kultúrák megsemmisítésének nevezett...\" (Pasolini)",
+  "backdropPath": "/wP1wgntZ6VIja8hprxV6UKdQugk.jpg",
+  "posterPath": "/rMkAemeuVmUTTioPVYZmNV2Bhjj.jpg",
+  "releaseDate": "1976-01-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "06f98c09-4dd7-4849-b0f1-8f874782611a",
+      "title": "Saló, avagy a Sodoma 120 napja",
+      "subtitle": null,
+      "timestampString": "02:06:24",
+      "timestampInSeconds": 7584,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #35",
+        "youtubeId": "iZP3HzNbpJk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/iZP3HzNbpJk/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1378351959000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

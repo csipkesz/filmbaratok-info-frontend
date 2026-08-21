@@ -1,0 +1,41 @@
+{
+  "id": "99fb3b11-6048-4910-bf0f-9de1de6c0d7c",
+  "title": "Mission: Impossible - A végső leszámolás",
+  "originalTitle": "Mission: Impossible - The Final Reckoning",
+  "overview": "Két hónappal azután, hogy megszerezték a kulcsot a gonosz mesterséges intelligencia, az Entitás forráskódjához, az IMF ügynökei, Ethan Hunt és Grace Gabriel után nyomoznak, aki valaha az Entitás fő emberi közvetítője volt. Ehelyett Gabriel elfogja őket, elárulja, hogy az Entitás elhagyta őt, mert nem tudta megakadályozni, hogy ők megszerezzék a kulcsot, és rákényszeríti Ethant, hogy szerezze meg a magmodult, az úgynevezett „Nyúl lábát”, amely a süllyedt orosz Szevasztopol tengeralattjárón található, és amely Gabrielnek irányítást adna az Entitás forráskódja felett.",
+  "backdropPath": "/538U9snNc2fpnOmYXAPUh3zn31H.jpg",
+  "posterPath": "/93hTl2sI7qzCMBoHUvRSmaaM6B5.jpg",
+  "releaseDate": "2025-05-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "cdf1deb4-01e7-4b68-a0af-014924231e26",
+      "title": "Mission: Impossible - A végső leszámolás [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "01:00:15",
+      "timestampInSeconds": 3615,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #303",
+        "youtubeId": "4E-63IAlyvU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/4E-63IAlyvU/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1748626806000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "30a3ee5e-1e62-420e-833e-d05e99b21459",
+            "name": "Ódor Kristóf"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

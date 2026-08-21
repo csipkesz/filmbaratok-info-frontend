@@ -1,0 +1,79 @@
+{
+  "id": "ee0e8871-0b50-4bcb-adf6-ccf8fb17472d",
+  "title": "Valami Amerika 3",
+  "originalTitle": "Valami Amerika 3",
+  "overview": "Tamás, Ákos és András, a balek testvérek minden eddiginél lehetetlenebb helyzetbe kerülnek a szélhámos Alexnek köszönhetően. A körülményeket bonyolítja a rendőrség és a két rivális maffiabanda, Baláék és Toniék is. Egy rejtélyes, milliókat érő, lopott bélyegért indul hajsza, aminek tétje a fiúk sorsa. Eszter és Timi is beleveti magát a nyomozásba, mindenki versenyt fut az idővel. Vajon ezúttal is sikerül kikeveredniük a slamasztikából?",
+  "backdropPath": "/eJ2hWXIjNjlgxtQm04Pg3fkVgGu.jpg",
+  "posterPath": "/3bmIyj3qPBfpBLucEzoMz0XQgjV.jpg",
+  "releaseDate": "2018-02-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "10151386-9c7a-40ca-8ae4-d24a0f5c3680",
+      "title": "Valami Amerika 3",
+      "subtitle": null,
+      "timestampString": "02:13:00",
+      "timestampInSeconds": 7980,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #140",
+        "youtubeId": "LQ8tU4s4F2M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/LQ8tU4s4F2M/hqdefault.jpg",
+        "durationInMinutes": 184,
+        "releaseDate": 1521209750000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "398840be-8125-40bd-8c1f-56ff8ddb90e1",
+      "title": "Valami Amerika 3",
+      "subtitle": null,
+      "timestampString": "02:35:30",
+      "timestampInSeconds": 9330,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #138",
+        "youtubeId": "nNL55zk0j6I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nNL55zk0j6I/hqdefault.jpg",
+        "durationInMinutes": 255,
+        "releaseDate": 1519187400000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

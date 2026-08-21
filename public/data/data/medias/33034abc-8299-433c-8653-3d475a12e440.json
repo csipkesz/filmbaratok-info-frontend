@@ -1,0 +1,45 @@
+{
+  "id": "33034abc-8299-433c-8653-3d475a12e440",
+  "title": "Megfojtott virágok",
+  "originalTitle": "Killers of the Flower Moon",
+  "overview": "Amikor az 1920-as évek Oklahomájában, az Osage Nation földjén olajat fedeznek fel, az oszázs indiánokat egyenként gyilkolják meg – egészen addig, amíg az FBI közbe nem lép a rejtély megfejtése érdekében.",
+  "backdropPath": "/acvE3RWjDLgvbL2RtcyzkrsAyNV.jpg",
+  "posterPath": "/6cJuZds6dBfLgx8dn6VLoGhs6pQ.jpg",
+  "releaseDate": "2023-10-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6e212fb6-6572-4b94-b2b7-d7de2070e21b",
+      "title": "Megfojtott virágok",
+      "subtitle": null,
+      "timestampString": "01:50:37",
+      "timestampInSeconds": 6637,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #265",
+        "youtubeId": "W7K_jzS7pPg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/W7K_jzS7pPg/hqdefault.jpg",
+        "durationInMinutes": 254,
+        "releaseDate": 1698781502000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

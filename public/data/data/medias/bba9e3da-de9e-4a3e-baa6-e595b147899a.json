@@ -1,0 +1,41 @@
+{
+  "id": "bba9e3da-de9e-4a3e-baa6-e595b147899a",
+  "title": "Párbaj",
+  "originalTitle": "Párbaj",
+  "overview": "A modern mese felnőtteknek az atom jótékony hatását felfedező Tudós és a vérszomjas hadisten, Mars küzdelméről szól. Ugyanis ez utóbbi a csodálatos dolgokra képes Atomkát a saját szolgálatába akarja állítani.",
+  "backdropPath": null,
+  "posterPath": "/3YWeaZJbm4cKrZGJP57FkSuuPdd.jpg",
+  "releaseDate": "1961-05-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5a10b195-3b62-48bf-86f3-f9f322d58f42",
+      "title": "Párbaj",
+      "subtitle": null,
+      "timestampString": "02:02:58",
+      "timestampInSeconds": 7378,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #53",
+        "youtubeId": "m4ZV-tpyiqU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/m4ZV-tpyiqU/hqdefault.jpg",
+        "durationInMinutes": 174,
+        "releaseDate": 1404572612000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

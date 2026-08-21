@@ -1,0 +1,41 @@
+{
+  "id": "c92e8841-1aee-48c8-b230-1c2909d8e592",
+  "title": "All this mayhem",
+  "originalTitle": "All This Mayhem",
+  "overview": "",
+  "backdropPath": "/3bHvhii2t12hClH0uCZZj9YLe3G.jpg",
+  "posterPath": "/6jbwLGjsy2vvWAabKBtXBr8Hhnc.jpg",
+  "releaseDate": "2014-07-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8ca64074-df62-4bbe-b60f-34b3b577f92a",
+      "title": "All this mayhem",
+      "subtitle": null,
+      "timestampString": "02:52:23",
+      "timestampInSeconds": 10343,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #75",
+        "youtubeId": "5hqAh129dAE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/5hqAh129dAE/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1434729270000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

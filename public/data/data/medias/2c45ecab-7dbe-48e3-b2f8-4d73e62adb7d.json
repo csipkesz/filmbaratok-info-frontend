@@ -1,0 +1,41 @@
+{
+  "id": "2c45ecab-7dbe-48e3-b2f8-4d73e62adb7d",
+  "title": "A Hobbit: Az öt sereg csatája",
+  "originalTitle": "The Hobbit: The Battle of the Five Armies",
+  "overview": "Miközben sikeresen visszahódították otthonukat Smaugtól a sárkánytól, Zsákos Bilbo és barátai akaratlanul is halálos veszedelmet szabadítottak a világra. A dühöngő Smaug nőket és gyerekeket sem kímélve támad Tóvárosra. Mindeközben a visszaszerzett kincsektől megrészegült Tölgypajzsos Thorin Bilbo erőfeszítései ellenére hátat fordít barátainak és elárulja őket. Ennél azonban jóval nagyobb veszélyek is leselkednek a hobbitra és barátaira.",
+  "backdropPath": "/3UbaCMmqOd7mca4Y5DOzY2ZVTyX.jpg",
+  "posterPath": "/tGXOtBV2vKrAssQU6zVdQw1S5vt.jpg",
+  "releaseDate": "2014-12-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7b6667a1-975b-49e6-8c1d-283bccb12d5b",
+      "title": "A Hobbit: Az öt sereg csatája",
+      "subtitle": null,
+      "timestampString": "00:29:13",
+      "timestampInSeconds": 1753,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #64",
+        "youtubeId": "vMZFtpkoCfs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/vMZFtpkoCfs/hqdefault.jpg",
+        "durationInMinutes": 229,
+        "releaseDate": 1420013879000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

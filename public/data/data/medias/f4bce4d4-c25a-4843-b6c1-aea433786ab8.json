@@ -1,0 +1,41 @@
+{
+  "id": "f4bce4d4-c25a-4843-b6c1-aea433786ab8",
+  "title": "Áradás",
+  "originalTitle": "Straume",
+  "overview": "Egy magányos macska, akit egy nagy árvíz elűzött, egy hajón talál menedéket különböző fajokkal, és együtt kell megküzdeniük az átalakult világhoz való alkalmazkodás kihívásaival.",
+  "backdropPath": "/4XPNNt0zfZKBqxxVWaQALd57UHl.jpg",
+  "posterPath": "/yvCDgdlKAm48q41OMywCNXuUvDU.jpg",
+  "releaseDate": "2024-08-29T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "edc5f162-dc1b-4f23-be84-02f88955a74c",
+      "title": "Áradás",
+      "subtitle": null,
+      "timestampString": "01:00:30",
+      "timestampInSeconds": 3630,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #296",
+        "youtubeId": "2X4YekH4jj4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/2X4YekH4jj4/hqdefault.jpg",
+        "durationInMinutes": 189,
+        "releaseDate": 1739562524000,
+        "participants": [
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

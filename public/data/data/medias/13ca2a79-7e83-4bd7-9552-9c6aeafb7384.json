@@ -1,0 +1,45 @@
+{
+  "id": "13ca2a79-7e83-4bd7-9552-9c6aeafb7384",
+  "title": "Kocka",
+  "originalTitle": "Cube",
+  "overview": "Hat teljesen különböző és idegen ember egy napon szürreális börtönben találja magát. Labirintusszerű, egymáshoz illeszkedő, tökéletes kockákból áll a tér, tele apró halálos csapdákkal. Rendőr és rabló, pszichológus és matematikus, építész és egy autista felnőtt. Egyikük sem tudja, miért került oda. Ki alkotta a labirintust és miért? Félnek az ismeretlentől és egymástól. Amíg nem találják meg az utat a közös gondolkodáshoz és cselekvéshez, kevés esélyük marad az életben maradásra.",
+  "backdropPath": "/3TimUBrXMVblpnTsyg4HssGVbBv.jpg",
+  "posterPath": "/7iFxyqXGMB11hU3Qc6XtonScj8H.jpg",
+  "releaseDate": "1998-07-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "610f82d3-2814-499c-b0cf-fc44b7563f7c",
+      "title": "Kocka",
+      "subtitle": null,
+      "timestampString": "01:20:00",
+      "timestampInSeconds": 4800,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #283",
+        "youtubeId": "jv6k7bsDWQo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/jv6k7bsDWQo/hqdefault.jpg",
+        "durationInMinutes": 210,
+        "releaseDate": 1722538833000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

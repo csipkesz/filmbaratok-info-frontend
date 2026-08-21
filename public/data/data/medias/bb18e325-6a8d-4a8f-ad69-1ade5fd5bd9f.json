@@ -1,0 +1,45 @@
+{
+  "id": "bb18e325-6a8d-4a8f-ad69-1ade5fd5bd9f",
+  "title": "Citizenfour",
+  "originalTitle": "Citizenfour",
+  "overview": "2013 januárjában az ismert dokumentumfilmes, Laura Poitras már két éve dolgozott egy megfigyelésről szóló filmen, amikor kódolt e-mail üzeneteket kapott a Citizenfour álnév alatt író Edward Snowdentől. Amikor Snowden felfedte, hogy valójában magas rangú adatelemző, aki hajlandó kiteregetni az amerikai Nemzetbiztonsági Hivatal (NSA) nagyszabású lehallgatási tevékenységét, Pointrasnak sikerült meggyőznie arról, hogy dokumentumfilmet készíthessen róla. A Citizenfourban elkísérhetjük Pointrast és Glenn Greenwald újságírót Hong Kong-ba, és végigkövethetjük, ahogyan Snowden átadja nekik a magánszféra válogatás nélküli, illegális megsértését bizonyító titkosított anyagokat. Pointras filmje zsigerileg érezteti velünk az ellenőrizetlen kormányzati megfigyelés veszélyeit - megtekintése után másképp nézünk majd a telefonunkra, a leveleinkre, a bankkártyánkra, a böngészőnkre és a közösségi profilunkra is.",
+  "backdropPath": "/godZeVdLEH6YFOBPajdLkAvhy5l.jpg",
+  "posterPath": "/nOVhX69EAxtSKEEnr5UcSd5UVci.jpg",
+  "releaseDate": "2014-10-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7e621392-c4a5-48ce-8bcf-1eb0a2f55dc0",
+      "title": "Citizenfour",
+      "subtitle": null,
+      "timestampString": "03:07:12",
+      "timestampInSeconds": 11232,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #67",
+        "youtubeId": "FATQkJjmAQg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/FATQkJjmAQg/hqdefault.jpg",
+        "durationInMinutes": 206,
+        "releaseDate": 1424108444000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

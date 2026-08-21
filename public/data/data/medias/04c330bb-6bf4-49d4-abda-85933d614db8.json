@@ -1,0 +1,71 @@
+{
+  "id": "04c330bb-6bf4-49d4-abda-85933d614db8",
+  "title": "Non-Stop",
+  "originalTitle": "Non-Stop",
+  "overview": "Bill Marks szövetségi légi marsallként ingázik a New York és London közti non-stop járaton. Egy átlagos útnak indult ez a napja is, amikor a telefonjára egy fenyegető sms-t kap: 20 percenként megölnek egy utast a fedélzeten, ha nem utalnak át 150 millió dollárt egy megadott bankszámlára. Egyedül Marks az, aki aggódik az utasok életéért, a pilóta és a teljes legénység meg van róla győződve, hogy az Atlanti-óceán felett nem érheti őket baj. Az első gyilkosság után pánik tör ki a fedélzeten. A marsall próbálja kézben tartani az káosz uralta helyzetet, de egy nem várt fordulat felforgatja az eseményeket: az FBI, az Interpol, és még a Fehér Ház is azzal vádolja Marksot, hogy ő az, aki eltérítette a non-stop járatot. Senki nem hisz a marsallnak, pedig az idő egyre fogy, és már senki nincs biztonságban.",
+  "backdropPath": "/7UOWJEhNbePQeGSaVn9PvcRaujX.jpg",
+  "posterPath": "/7aOzr54t8etwkAD1acQrwqTsTTa.jpg",
+  "releaseDate": "2014-02-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "75857707-9760-4705-9e0b-9e054f1538bc",
+      "title": "Non-Stop",
+      "subtitle": null,
+      "timestampString": "00:58:02",
+      "timestampInSeconds": 3482,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #47",
+        "youtubeId": "48-yuKdU7cg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/48-yuKdU7cg/hqdefault.jpg",
+        "durationInMinutes": 147,
+        "releaseDate": 1394966291000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "85208bfe-c5cd-48af-83a7-10d8a9db8192",
+      "title": "Non-Stop",
+      "subtitle": null,
+      "timestampString": "02:22:38",
+      "timestampInSeconds": 8558,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #49",
+        "youtubeId": "KInB1pvzVo0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/KInB1pvzVo0/hqdefault.jpg",
+        "durationInMinutes": 177,
+        "releaseDate": 1397986559000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

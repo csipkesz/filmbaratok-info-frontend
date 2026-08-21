@@ -1,0 +1,41 @@
+{
+  "id": "86a98ead-8d50-4612-b626-4793873835d6",
+  "title": "A feltaláló",
+  "originalTitle": "A feltaláló",
+  "overview": "Dr. Béres József laboratóriumi kutatóként a hatvanas évek végén felfedezte, hogy a növények számos betegségét az alapvető nyomelemek hiánya okozza, s ezek pótlásával a tünetek orvosolhatók. Felismerését továbbgondolva ráébredt, hogy ez az elv az állatoknál, sőt az embereknél is igaz lehet. Hosszas kísérletezés után, 1972-ben alkotta meg legendás készítményét, a Béres Cseppet, amelyet először saját magán próbált ki, majd súlyos beteg húgának is adott belőle. A Béres Csepp híre szájról szájra terjedt, egyre többen fordultak a kutatóhoz, azonban a szocialista hatalom nem nézte jó szemmel Béres József tevékenységét, minden eszközt bevetettek, hogy megtörjék a népszerűségét és megakadályozzák a készítmény terjedését. Börtönnel fenyegették, még bírósági eljárást is indítottak ellene kuruzslás vádjával, de a kutató minden fenyegetés ellenére kiállt a felfedezése mellett, és humánus, igazságkereső személyisége sokakat az ügy mellé állított.",
+  "backdropPath": "/6HP36764fOx3OD8dMSSHxZaXRsY.jpg",
+  "posterPath": "/lhorI4bvmV8zG22Hw9hJAr9ZSeI.jpg",
+  "releaseDate": "2020-02-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9f9fef87-ffa2-4762-92d4-d022ffabc1ed",
+      "title": "A feltaláló",
+      "subtitle": null,
+      "timestampString": "01:03:45",
+      "timestampInSeconds": 3825,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #190",
+        "youtubeId": "w7oFnCSc3u4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/w7oFnCSc3u4/hqdefault.jpg",
+        "durationInMinutes": 188,
+        "releaseDate": 1590603790000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

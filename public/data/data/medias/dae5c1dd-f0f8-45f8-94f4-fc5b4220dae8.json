@@ -1,0 +1,45 @@
+{
+  "id": "dae5c1dd-f0f8-45f8-94f4-fc5b4220dae8",
+  "title": "Több, mint sport",
+  "originalTitle": "We Are Marshall",
+  "overview": "Az amerikai foci nem a gyengék sportja: kíméletlenül a földbe döngöl. Az élet kegyetlen csapást mért a Huntington-i Marshall Egyetem focicsapatára: egy repülőgép-szerencsétlenség végzett az iskola teljes futballcsapatával. Sokan úgy vélik, innen nincs visszaút, de Jack Lengyel más véleményen van. Elvállalja azt a feladatot, amit senki más nem mert volna: újjászervezi a Marshall Egyetem futballcsapatát.",
+  "backdropPath": "/2aY1ZPtn0Nu0yBxdbG1oPtnpER3.jpg",
+  "posterPath": "/y6mHc34zvXwpQoBnBt4IZZILMgl.jpg",
+  "releaseDate": "2006-12-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "88dfd9b8-1da4-488b-a639-0d10124d85eb",
+      "title": "Több, mint sport",
+      "subtitle": null,
+      "timestampString": "03:54:08",
+      "timestampInSeconds": 14048,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #214",
+        "youtubeId": "aARrCL30caA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/aARrCL30caA/hqdefault.jpg",
+        "durationInMinutes": 264,
+        "releaseDate": 1625845165000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

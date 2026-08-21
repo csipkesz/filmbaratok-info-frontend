@@ -1,0 +1,41 @@
+{
+  "id": "6ff5fbee-2d57-4593-b871-27479c2b6008",
+  "title": "Noé",
+  "originalTitle": "Noah",
+  "overview": "Az emberek bűnnel teli, elkorcsosult életét látva a Teremtő elhatározza, hogy elpusztítja a világot, és újrateremti azt. E hatalmas feladatra egy embert tart érdemesnek, a családjával bolyongó Noét, aki a legnehezebb helyzetben sem ingott meg a hitében. A Teremtő figyelmezteti a közelgő katasztrófára, és megparancsolja neki, hogy mentse meg az állatokat, építsen egy bárkát, hogy túléljék az özönvizet. Munkáját azonban hátráltatja a gonosz Thubal-Káin, aki csatlakozni akar hozzá a züllött seregével.",
+  "backdropPath": "/5z75Q6nqgwgYfpMB9fVHQcw9gMz.jpg",
+  "posterPath": "/9KmMikdOE83iJE9zpPZCiBpfPa8.jpg",
+  "releaseDate": "2014-03-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2ade4dc5-1148-4fe2-9857-e9298238098c",
+      "title": "Noé",
+      "subtitle": null,
+      "timestampString": "00:25:02",
+      "timestampInSeconds": 1502,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #49",
+        "youtubeId": "KInB1pvzVo0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/KInB1pvzVo0/hqdefault.jpg",
+        "durationInMinutes": 177,
+        "releaseDate": 1397986559000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

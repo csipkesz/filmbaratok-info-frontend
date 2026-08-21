@@ -1,0 +1,75 @@
+{
+  "id": "0d3ddecf-74bf-4d51-8c4f-2893398343fa",
+  "title": "Ernelláék Farkaséknál",
+  "originalTitle": "Ernelláék Farkaséknál",
+  "overview": "Eszter nővére, Ernella családjával egy év után hazatér Skóciából, és Eszterék kénytelenek őket befogadni. A kényszerű együttlét szembesíti a családtagokat egymással, felszínre hozva a két család között feszülő ellentéteket. A film az egymástól eltávolodott rokonok újra találkozása által felszínre törő konfliktusok sorát mutatja meg. Hajdu Szabolcs új filmje szarkasztikus humorú, finom rajzolatú portré a mai Magyarország hétköznapjairól.",
+  "backdropPath": null,
+  "posterPath": "/fCgpVHZhjcE6wPO3UhmRpUgY8bD.jpg",
+  "releaseDate": "2016-10-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "14805532-f744-4e0e-8a6b-7ae818793635",
+      "title": "Ernelláék Farkaséknál",
+      "subtitle": null,
+      "timestampString": "02:09:29",
+      "timestampInSeconds": 7769,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #107",
+        "youtubeId": "nil8BrN67hQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nil8BrN67hQ/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1475265113000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "d70211e6-cd1a-4280-8bca-8d017726af99",
+            "name": "Emese"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "45c0ebc9-fadf-4898-acc6-63348ae9cce5",
+      "title": "Ernelláék Farkaséknál",
+      "subtitle": null,
+      "timestampString": "01:59:25",
+      "timestampInSeconds": 7165,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #108",
+        "youtubeId": "zNzDplhnvlg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/zNzDplhnvlg/hqdefault.jpg",
+        "durationInMinutes": 175,
+        "releaseDate": 1476476267000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

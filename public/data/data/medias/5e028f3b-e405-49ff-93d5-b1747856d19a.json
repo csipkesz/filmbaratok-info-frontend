@@ -1,0 +1,41 @@
+{
+  "id": "5e028f3b-e405-49ff-93d5-b1747856d19a",
+  "title": "A méhész",
+  "originalTitle": "The Beekeeper",
+  "overview": "Adam Clay (Jason Statham) nyugodt életet él méhészként. Kiderül, hogy egykor egy titokzatos, titkos kormányzati ügynökség, a \"Méhészek\" nevű szervezet ügynöke volt. Amikor egy idős barátja - miután átverték - öngyilkos lesz, Clay bosszút áll a csalókon. Egy véres küldetés, amely egészen a csúcsig vezet...",
+  "backdropPath": "/f0ACHVpV707zqu4etZrXnWNdSgL.jpg",
+  "posterPath": "/hselS7gFZgP3djhmaYDLID9iwqc.jpg",
+  "releaseDate": "2024-01-08T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "cf53e9d6-e48d-4fbb-8713-dc5506424eec",
+      "title": "A méhész [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "00:57:05",
+      "timestampInSeconds": 3425,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #271",
+        "youtubeId": "vCypCwFTSIU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/vCypCwFTSIU/hqdefault.jpg",
+        "durationInMinutes": 227,
+        "releaseDate": 1706733909000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

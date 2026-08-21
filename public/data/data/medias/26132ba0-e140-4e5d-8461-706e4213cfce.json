@@ -1,0 +1,49 @@
+{
+  "id": "26132ba0-e140-4e5d-8461-706e4213cfce",
+  "title": "Összeomlás",
+  "originalTitle": "Falling Down",
+  "overview": "Ebben az akciókban gazdag, izgalmas filmben Michael Douglas tőle szokatlan szerepben jelenik meg. Egyszerű, hétköznapi tisztviselőt alakít, aki egy napon, egy reménytelennek tűnő forgalmi dugóban ücsörögve bekattan: kocsiját maga mögött hagyva gyalogosan elindul hazafelé. Kislányának születésnapja van, ezért olyan fontos időben hazaérnie. A baj csak ott kezdődik, hogy a hazafelé vezető úton többen is az útjába kerülnek. Az akadályokra - az elkeseredett, mindenre elszánt férfi - agresszióval válaszol: útját holttestek és sebesültek sora jelzi. Hamarosan a rendőrséggel a nyomában menekül és csak egyetlen ember van a városban - az ügyben nyomozó detektívfelügyelő -, aki sejti, hogy mi lehet az öldöklés hátterében.",
+  "backdropPath": "/cS45swrlrTJijH1RblBLe8LlW2p.jpg",
+  "posterPath": "/g8DJZ6BCQlttWvsJRE5aY9tDLrW.jpg",
+  "releaseDate": "1993-02-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "391a0420-5be5-4ee3-851e-f2aef0a5a9f8",
+      "title": "Összeomlás",
+      "subtitle": null,
+      "timestampString": "02:41:00",
+      "timestampInSeconds": 9660,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #193",
+        "youtubeId": "WZrbCRuXQqU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/WZrbCRuXQqU/hqdefault.jpg",
+        "durationInMinutes": 250,
+        "releaseDate": 1594492684000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "15a53a44-af10-4843-b447-7f9fbb845f56",
+            "name": "Szöllőskei Gábor"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

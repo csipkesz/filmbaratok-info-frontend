@@ -1,0 +1,41 @@
+{
+  "id": "888e3f46-57a9-493c-8044-f48ae471a794",
+  "title": "Gotti",
+  "originalTitle": "Gotti",
+  "overview": "John Gotti New Yorkban nőtt fel az 1940-es, 50-es években, a maffia vastörvényei szellemében. 1967-re Gotti a szervezet forró fejű kisfőnökévé vált. Hatalomra emelkedése azonban nem buktatómentes. Három évet tölt börtönben, hogy fedezze a maffia piszkos ügyleteit. Amikor kiszabadul, kegyetlenül elsöpri az új főnököt és ő áll a helyére. Gotti és barátja, Sammy irányítja New Yorkot úgy, mintha a vadnyugaton lennének. 1992-ben újra gyilkossággal vádolják és rábírják Sammyt, hogy valljon barátja ellen.",
+  "backdropPath": "/qeTBrEHmaWdiBq7fFx0f65rccuW.jpg",
+  "posterPath": "/yMadr5iLQ4qbl5D3cPKDWLEfDsO.jpg",
+  "releaseDate": "1996-08-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "728b61dd-1dba-4b15-a4e0-44a33ba11c6a",
+      "title": "Gotti",
+      "subtitle": null,
+      "timestampString": "01:00:20",
+      "timestampInSeconds": 3620,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #146",
+        "youtubeId": "sfip_5w7OMc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/sfip_5w7OMc/hqdefault.jpg",
+        "durationInMinutes": 163,
+        "releaseDate": 1530162133000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "15a53a44-af10-4843-b447-7f9fbb845f56",
+            "name": "Szöllőskei Gábor"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

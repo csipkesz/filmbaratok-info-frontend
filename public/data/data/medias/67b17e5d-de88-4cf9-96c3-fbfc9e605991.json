@@ -1,0 +1,41 @@
+{
+  "id": "67b17e5d-de88-4cf9-96c3-fbfc9e605991",
+  "title": "A 17-es fogolytábor",
+  "originalTitle": "Stalag 17",
+  "overview": "A második világháború alatt egy csapat amerikai katona kerül össze a hírhedt német 17-es fogolytáborban, a Stalag 17-ben. Többnyire azzal töltik az idejüket, hogy azon mesterkednek, hogyan segíthetnének egymásnak megszökni. De amikor két rabot megölnek egy szökési kísérlet közben, nyilvánvalóvá válik, hogy spicli van közöttük.  William Holden Oscar-díjat kapott a cinikus, éles nyelvű katona alakításáért, aki azzal tölti az idejét, hogy svindliket eszel ki, és különleges előjogokért seftel a németekkel.",
+  "backdropPath": "/rM3C9s0b9oiOQDdrfLSOoE0sjWl.jpg",
+  "posterPath": "/krjJnvn6pts488N7d4LE17DRd0K.jpg",
+  "releaseDate": "1953-05-29T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5500c1bf-20ff-4ae9-9a2d-868cef68ea8d",
+      "title": "A 17-es fogolytábor",
+      "subtitle": null,
+      "timestampString": "01:41:20",
+      "timestampInSeconds": 6080,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #106",
+        "youtubeId": "HldVi4TfJ9Y",
+        "thumbnailUrl": "https://i.ytimg.com/vi/HldVi4TfJ9Y/hqdefault.jpg",
+        "durationInMinutes": 146,
+        "releaseDate": 1473495633000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

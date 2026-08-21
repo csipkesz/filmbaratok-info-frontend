@@ -1,0 +1,45 @@
+{
+  "id": "3f5ac735-8423-4f55-89e3-e467fae176db",
+  "title": "Argentina, 1985",
+  "originalTitle": "Argentina 1985",
+  "overview": "Egy ügyvédekből álló csapat az 1980-as években Argentína véres katonai diktatúrájának vezetőivel veszi fel a harcot az esélytelenek ellen, és versenyt fut az idővel.",
+  "backdropPath": "/gh1Rghpf3BIISHSAw9GsObG4TN3.jpg",
+  "posterPath": "/yYPTNDdfsUqKfn9sascbzHCIP1z.jpg",
+  "releaseDate": "2022-09-29T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9028fdec-997d-4b3e-bbd7-4dcdea98d70e",
+      "title": "Argentina, 1985",
+      "subtitle": null,
+      "timestampString": "02:49:57",
+      "timestampInSeconds": 10197,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #243",
+        "youtubeId": "gCWkf0UnSwY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gCWkf0UnSwY/hqdefault.jpg",
+        "durationInMinutes": 296,
+        "releaseDate": 1668706204000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

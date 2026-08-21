@@ -1,0 +1,41 @@
+{
+  "id": "4b595c46-c639-4f72-bd80-d569bd5b6a58",
+  "title": "Straight story - Az igaz történet",
+  "originalTitle": "The Straight Story",
+  "overview": "Alvin Straight 73 éves özvegyember, aki beszédhibás lányával, Rose-zal éldegél az Iowa állambeli Laurens városkában. Afféle régimódi cowboy, saját értékrendje és erkölcsi kódexe szerint élő vadnyugati figura. Büszke és makacs, orvoshoz menni sem hajlandó, noha egészségi állapota rohamosan romlik, rossz a dereka és tüdőtágulása van. Telefonon értesítik, hogy fivére, Lyle szívszélhűdést kapott, mire Alvin elhatározza, hogy meglátogatja őt Wisconsin állambeli otthonában. Se kocsija, se jogosítványa - a fűnyíró gépe az egyetlen közlekedési eszköz, ami szóba jöhet számára. 350 mérföldes út áll előtte.",
+  "backdropPath": "/1S81PpyGwS8eVx4W75uSKzMw4B0.jpg",
+  "posterPath": "/lGm3rnqBqgD9VtGSCZjBzj06ZJ0.jpg",
+  "releaseDate": "1999-10-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d8d18844-077c-484d-9e1c-15fee208275b",
+      "title": "Straight story - Az igaz történet",
+      "subtitle": null,
+      "timestampString": "02:47:00",
+      "timestampInSeconds": 10020,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #295",
+        "youtubeId": "GjY5Xs-Vbyc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GjY5Xs-Vbyc/hqdefault.jpg",
+        "durationInMinutes": 231,
+        "releaseDate": 1738346406000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

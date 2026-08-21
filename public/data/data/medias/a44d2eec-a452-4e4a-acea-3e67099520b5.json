@@ -1,0 +1,41 @@
+{
+  "id": "a44d2eec-a452-4e4a-acea-3e67099520b5",
+  "title": "Halálos iramban 7",
+  "originalTitle": "Furious 7",
+  "overview": "Miután végeztek Owen Shaw-val és bandájával, Dominic, Brian és a csapat visszatérhetnek az Egyesült Államokba, hogy ismét normális életet éljenek, ahogyan azt tervezték. De Owen bátyja, Ian Shaw, aki Han halála után lép színre, Dominic nyomában van, és bosszút esküszik öccse halála miatt. A csapat készen áll, hogy megölje azt az embert, aki a legjobb barátjuk haláláért felelős.",
+  "backdropPath": "/ehzI1mVcnHqB58NqPyQwpMqcVoz.jpg",
+  "posterPath": "/mB7bkKIOx3mADJPeqDi8YyTZWjp.jpg",
+  "releaseDate": "2015-04-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a603fdc6-ce45-4f50-9b0b-1fc4cb448015",
+      "title": "Halálos iramban 7",
+      "subtitle": null,
+      "timestampString": "00:43:50",
+      "timestampInSeconds": 2630,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #71",
+        "youtubeId": "K9mj59Uot1I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/K9mj59Uot1I/hqdefault.jpg",
+        "durationInMinutes": 176,
+        "releaseDate": 1428520974000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

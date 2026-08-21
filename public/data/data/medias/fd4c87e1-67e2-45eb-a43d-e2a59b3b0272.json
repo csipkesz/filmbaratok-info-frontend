@@ -1,0 +1,45 @@
+{
+  "id": "fd4c87e1-67e2-45eb-a43d-e2a59b3b0272",
+  "title": "Az arany kesztyű",
+  "originalTitle": "Der Goldene Handschuh",
+  "overview": "A hetvenes évek elején egy pszichopata sorozatgyilkos tartja rettegésben Hamburg lakóit. A gyilkos a kikötőváros vöröslámpás negyedében, az Arany Kesztyű bárban szedi fel áldozatait, reményvesztett hajléktalan nőket és prostituáltakat.",
+  "backdropPath": "/5CpXLhwcjnupeC5Ll3hMoCMJf1l.jpg",
+  "posterPath": "/glln42sBPio4GRFwwOiCLClzUBw.jpg",
+  "releaseDate": "2019-02-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "aafbcbe2-8306-4580-83fb-c3df6e721f36",
+      "title": "Az arany kesztyű",
+      "subtitle": null,
+      "timestampString": "01:43:10",
+      "timestampInSeconds": 6190,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #177",
+        "youtubeId": "SiiouPY48NM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/SiiouPY48NM/hqdefault.jpg",
+        "durationInMinutes": 237,
+        "releaseDate": 1571926127000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

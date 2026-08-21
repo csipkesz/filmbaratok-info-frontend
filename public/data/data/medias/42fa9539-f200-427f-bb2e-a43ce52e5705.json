@@ -1,0 +1,41 @@
+{
+  "id": "42fa9539-f200-427f-bb2e-a43ce52e5705",
+  "title": "Horrorra Akadva 5",
+  "originalTitle": "Scary Movie 5",
+  "overview": "A boldog házaspár, Dan és Jody furcsa és ijesztő természetfeletti aktivitást tapasztalnak a házukban, a jelenések pedig pontosan akkor kezdődtek, amikor hazavitték újszülött kisbabájukat, Aident a kórházból. Amikor azonban a borzasztó események kihatnak a házaspár munkahelyeire is, a szerelmeseknek rá kell döbbenniük, egy irtózatos démon ólálkodik a család körül. Eldöntik, hogy nem hagyják magukat, ezért különböző szakértők segítségével és házuk teljes bekamerázásával próbálnak utánajárni a kísértethistóriának. A fenyegetés egyre nagyobb, ezért gyorsan meg kell szabadulniuk a démontól, mielőtt túl késő lenne!",
+  "backdropPath": "/2eW8VlLXjUq4OKk8SYf5KTr91Kv.jpg",
+  "posterPath": "/nNaDQkpci3f0ETpSF062FGGNWQL.jpg",
+  "releaseDate": "2013-04-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7972c8dc-5f43-4939-bc43-9a23b4040d59",
+      "title": "Horrorra Akadva 5",
+      "subtitle": null,
+      "timestampString": "01:38:20",
+      "timestampInSeconds": 5900,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #35",
+        "youtubeId": "iZP3HzNbpJk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/iZP3HzNbpJk/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1378351959000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

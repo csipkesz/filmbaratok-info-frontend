@@ -1,0 +1,41 @@
+{
+  "id": "72562c99-d9b6-4f86-8e9d-d205bd9b2ff7",
+  "title": "Borgman",
+  "originalTitle": "Borgman",
+  "overview": "Egy erdei, földbe vájt kunyhóban élő férfit majdnem levadász egy társaság, de ő bemenekül a városba, ahol becsenget egy családhoz. Azok beengedik és a férfi nem csak hogy ott marad, de már szürreálisnak is nevezhető játékaival átveszi a család feletti uralmat.",
+  "backdropPath": "/d6ZaqMPzteFbvUvIZce9cTYUcn.jpg",
+  "posterPath": "/xQCoLXOYZ0yFKD208OXsaD2HtSX.jpg",
+  "releaseDate": "2013-08-29T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8c4e9138-bce5-470b-9064-b504e5af018d",
+      "title": "Borgman",
+      "subtitle": null,
+      "timestampString": "01:59:40",
+      "timestampInSeconds": 7180,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #50",
+        "youtubeId": "3fU-zjKUKtc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3fU-zjKUKtc/hqdefault.jpg",
+        "durationInMinutes": 195,
+        "releaseDate": 1399567403000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

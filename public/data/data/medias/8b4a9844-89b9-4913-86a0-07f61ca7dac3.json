@@ -1,0 +1,41 @@
+{
+  "id": "8b4a9844-89b9-4913-86a0-07f61ca7dac3",
+  "title": "The night comes for us",
+  "originalTitle": "The Night Comes For Us",
+  "overview": "Miután a triád elit bérgyilkosa megkíméli egy lány életét egy mészárlás során, vérengző gengszterek célkeresztjébe kerül.",
+  "backdropPath": "/9uoZrTXUiByDECmWopkIJhZxSzw.jpg",
+  "posterPath": "/1uxKiQCtffP4DDF7S6KLyKiElzh.jpg",
+  "releaseDate": "2018-10-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "05d12e47-dd2c-4e6a-a282-43080828ec4b",
+      "title": "The night comes for us",
+      "subtitle": null,
+      "timestampString": "01:44:40",
+      "timestampInSeconds": 6280,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #155",
+        "youtubeId": "Htjp4x7Tcgg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Htjp4x7Tcgg/hqdefault.jpg",
+        "durationInMinutes": 165,
+        "releaseDate": 1542194035000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "e4d249a5-e251-44d9-8c10-8e2e3e9a6069",
+            "name": "Anna"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

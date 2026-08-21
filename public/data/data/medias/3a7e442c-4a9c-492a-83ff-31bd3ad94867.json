@@ -1,0 +1,45 @@
+{
+  "id": "3a7e442c-4a9c-492a-83ff-31bd3ad94867",
+  "title": "The Way Back",
+  "originalTitle": "The Way Back",
+  "overview": "A szabadság felbecsülhetetlen értékű kincs, és az ember akár a lehetetlenre is vállalkozik, hogy visszanyerje azt. Ez a gondolat jár a fejében néhány hadifogolynak is, amikor eldöntik, hogy megszöknek a szibériai gulagból, és bármi áron is, de hazajutnak. Hat rab indul útnak, hogy eljussanak Indiába, köztük az amerikai Mr. Smith, az indulatos orosz, Valka és a fiatal lengyel srác, Janusz, valamint hozzájuk csapódik egy árva lengyel lány, Irena, aki szintén az életéért menekül. 4000 mérföldet kell megtenniük gyalog a Takla-Makán sivatagon és a Himalája fagyos csúcsain keresztül. Az út a biztos halállal egyenlő, a kis csapat szökevénynek azonban ez az egyetlen esélye, hogy újra szabad emberként éljenek.",
+  "backdropPath": "/jcQfgcq1j7Vit4wQ54niXiLfvE8.jpg",
+  "posterPath": "/yLwFZgkHfuBp729eLDLPnhCXE0J.jpg",
+  "releaseDate": "2010-11-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c56b089a-bafb-40bb-9184-a5fb4f3e67c0",
+      "title": "The Way Back",
+      "subtitle": null,
+      "timestampString": "03:22:06",
+      "timestampInSeconds": 12126,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #77",
+        "youtubeId": "GxURCHDmpLM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GxURCHDmpLM/hqdefault.jpg",
+        "durationInMinutes": 246,
+        "releaseDate": 1437150395000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

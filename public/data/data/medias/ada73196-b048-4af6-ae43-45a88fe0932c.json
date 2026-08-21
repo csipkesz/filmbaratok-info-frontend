@@ -1,0 +1,45 @@
+{
+  "id": "ada73196-b048-4af6-ae43-45a88fe0932c",
+  "title": "Hologram a királynak",
+  "originalTitle": "A Hologram for the King",
+  "overview": "A regény egy Samuel Beckett idézettel kezdődik, az előzetes pedig a Talking Heads Once in a Lifetime című klasszikusával, amit maga Tom Hanks regél el nekünk, röviden illusztrálva (majdnem) csődbe ment életét, majd megérkezünk Szaúdi Arábiába. Itt egy talán túlságosan is bohókás sofőr mutatja meg neki a sivatagi királyságot és annak szokásait - egy nagy tömeg előtt elhaladva kiderül, ott tartják a nyilvános kivégzéseket -, és kimerült főhősünk, aki előtt számtalan akadály tornyosul, hamarosan orvosi kezelésre szorul, orvosa pedig egy csinos, magabiztos asszony.",
+  "backdropPath": "/AbZZz3QwbCrF1hpJfvtl0uZBGGN.jpg",
+  "posterPath": "/lq4ijr9lk0bdOCLVw6HSkJHJ7nJ.jpg",
+  "releaseDate": "2016-04-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8d7c0d82-b75b-4ec8-b962-a49c35d3b455",
+      "title": "Hologram a királynak",
+      "subtitle": null,
+      "timestampString": "01:58:30",
+      "timestampInSeconds": 7110,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #218",
+        "youtubeId": "c2D577gQ6vU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/c2D577gQ6vU/hqdefault.jpg",
+        "durationInMinutes": 196,
+        "releaseDate": 1631901622000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

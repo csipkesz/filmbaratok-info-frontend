@@ -1,0 +1,41 @@
+{
+  "id": "a0717732-0d63-4830-a331-80ce066399e2",
+  "title": "Yesterday",
+  "originalTitle": "Yesterday",
+  "overview": "Egy sikertelen zenész egy baleset és egy globális áramszünet után rádöbben, hogy senki sem emlékszik a legendás brit zenekarra, a The Beatlesre. Szóval mi lenne, ha az egész világ elfelejtené minden idők legzseniálisabb zenekarát, a Beatlest? Mi lenne, ha csak te emlékeznél a felejthetetlen slágerekre? Mi lenne, ha elkezdenéd játszani a mesés négyes dalait, és egy csapásra világsztár válna belőled? És mi lenne, ha a hirtelen hírnév kikezdené a magánéletedet?",
+  "backdropPath": "/t5Kp02Jzixl0KfpwthHp9ZUex9t.jpg",
+  "posterPath": "/nUMPtBoOYhkLX0D3AIwYDIxYLfw.jpg",
+  "releaseDate": "2019-06-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "bb26be8a-8a33-4cc0-b019-1b091bbe5777",
+      "title": "Yesterday",
+      "subtitle": null,
+      "timestampString": "01:12:32",
+      "timestampInSeconds": 4352,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #171",
+        "youtubeId": "3KzIveF4J8o",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3KzIveF4J8o/hqdefault.jpg",
+        "durationInMinutes": 195,
+        "releaseDate": 1562329911000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "e4d249a5-e251-44d9-8c10-8e2e3e9a6069",
+            "name": "Anna"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

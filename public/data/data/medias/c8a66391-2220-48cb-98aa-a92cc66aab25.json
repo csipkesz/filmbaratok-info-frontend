@@ -1,0 +1,41 @@
+{
+  "id": "c8a66391-2220-48cb-98aa-a92cc66aab25",
+  "title": "Nebraska",
+  "originalTitle": "Nebraska",
+  "overview": "Bruce Dern alakítja azt az idős férfit, aki kap egy hazánkban sem ismeretlen marketinglevelet, amely szerint nyerhet egymillió dollárt, ha előfizet egy magazinra - meg persze, ha kihúzzák a számát. Az erősen alkoholizáló férﬁ rákattan a dologra, és személyesen akarja felvenni a nyereményét, a fia pedig vele tart. Persze mindenki tudja, hogy szó sincs semmiféle pénzről, de hát nem is erről szól a nagy utazás, hanem a szeretetről, az önfeláldozásról és a grandiózus életigenlésről.",
+  "backdropPath": "/yePsFcldyZ6VnxaBr8ZbVEaOt4W.jpg",
+  "posterPath": "/2QGh4e2ryJDLKGuzks9b3YDnto4.jpg",
+  "releaseDate": "2013-09-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "372613b7-cf57-4e68-baf2-96c5daf6dbfb",
+      "title": "Nebraska",
+      "subtitle": null,
+      "timestampString": "00:23:18",
+      "timestampInSeconds": 1398,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #46 (Oscar 2014)",
+        "youtubeId": "BjIg8Ny1Bfg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/BjIg8Ny1Bfg/hqdefault.jpg",
+        "durationInMinutes": 145,
+        "releaseDate": 1393580650000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

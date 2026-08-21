@@ -1,0 +1,41 @@
+{
+  "id": "4d122652-d726-4bf9-8d6c-82d50c75a6bf",
+  "title": "Karácsonyi lidércnyomás",
+  "originalTitle": "The Nightmare Before Christmas",
+  "overview": "Az ünnepek birodalmában járunk. Halloween város ceremóniamestere, Rosszcsont Jack belefásulva a sok kötelező rémisztgetésbe, ellátogat a közeli Karácsonyvárosba, ahol megirigyli a Mikulás izgalmas munkakörét. Elraboltatja a Mikulást, és átveszi a karácsonyi feladatokat. A megszokott labdák és babák helyett ezúttal levágott fejű rongyláb meglepetések várják a gyerekeket a fa alatt.",
+  "backdropPath": "/dSfrsjhqC6lYe7LYDYnzWeXZmEl.jpg",
+  "posterPath": "/9NpkVZPwts0pfEj5s1hbw6bCsHG.jpg",
+  "releaseDate": "1993-10-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "aa64de41-4643-45c9-a88b-a4ac78f5c49e",
+      "title": "Karácsonyi lidércnyomás",
+      "subtitle": null,
+      "timestampString": "02:51:18",
+      "timestampInSeconds": 10278,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #290",
+        "youtubeId": "SsQxsH7PCqY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/SsQxsH7PCqY/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1731829298000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

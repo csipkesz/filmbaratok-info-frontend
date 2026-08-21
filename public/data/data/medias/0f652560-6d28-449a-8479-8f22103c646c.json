@@ -1,0 +1,41 @@
+{
+  "id": "0f652560-6d28-449a-8479-8f22103c646c",
+  "title": "Rokonszenvedés",
+  "originalTitle": "A Real Pain",
+  "overview": "A két unokatestvér, David és Benji igazi össze nem illő páros. Együtt vágnak neki egy lengyelországi túrának, hogy adózzanak szeretett nagymamájuk emléke előtt. A kaland nem várt fordulatot vesz, amikor családjuk viszontagságos történetében elmerülve a köztük lévő, régre visszanyúló feszültség is felszínre tör.",
+  "backdropPath": "/fViElUGfdoZjtnVxvSpJX8TwxY6.jpg",
+  "posterPath": "/gcKKd8Bk4vNCsCWXwoVPTmZ01yO.jpg",
+  "releaseDate": "2024-11-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "aaf90629-23c8-44cd-be92-e3fd6ea6b7a1",
+      "title": "Rokonszenvedés",
+      "subtitle": null,
+      "timestampString": "02:15:28",
+      "timestampInSeconds": 8128,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #297",
+        "youtubeId": "3hKlobo8elk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3hKlobo8elk/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1740760443000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

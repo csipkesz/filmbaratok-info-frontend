@@ -1,0 +1,41 @@
+{
+  "id": "ad12ad36-3d8b-4d36-ac1c-6bebc780c845",
+  "title": "Beasts of No Nation",
+  "originalTitle": "Beasts of No Nation",
+  "overview": "Egy fiatal fiú, Agu utazása, aki kénytelen csatlakozni egy csapat katonához egy kitalált Nyugat-afrikai országban.",
+  "backdropPath": "/vDfbeUK3OhoeyQRlUODwfSy6tyE.jpg",
+  "posterPath": "/1D4vcJmJc58WXarpRtwgd2do9Rg.jpg",
+  "releaseDate": "2015-09-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "49936611-d46b-4776-851d-8c7c526ec33f",
+      "title": "Beasts of No Nation",
+      "subtitle": null,
+      "timestampString": "01:49:36",
+      "timestampInSeconds": 6576,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #84",
+        "youtubeId": "s9vFywEHs8Y",
+        "thumbnailUrl": "https://i.ytimg.com/vi/s9vFywEHs8Y/hqdefault.jpg",
+        "durationInMinutes": 172,
+        "releaseDate": 1445961315000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

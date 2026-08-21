@@ -1,0 +1,79 @@
+{
+  "id": "0e525eb6-7b38-4a4f-a610-1b0a7c266557",
+  "title": "Szárnyas fejvadász 2049",
+  "originalTitle": "Blade Runner 2049",
+  "overview": "Már 30 éve, hogy Rick Deckard, a szárnyas fejvadász eltűnt a színről. K ügynök felfedez egy régi titkot, ami a társadalmat totális káoszba taszíthatja. Az információ arra készteti a rendőrt, hogy felkeresse Deckardot, s együtt tegyenek valamit.",
+  "backdropPath": "/gNdLJU9TxrpGx4dkZidjys3fyy0.jpg",
+  "posterPath": "/oGrU0mw3B6ffKJixiEtSWuFOp8v.jpg",
+  "releaseDate": "2017-10-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4af47c50-3ac2-456e-8e09-09641078043d",
+      "title": "Szárnyas fejvadász 2049",
+      "subtitle": null,
+      "timestampString": "02:22:40",
+      "timestampInSeconds": 8560,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #131",
+        "youtubeId": "QymLKg2wvV4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/QymLKg2wvV4/hqdefault.jpg",
+        "durationInMinutes": 230,
+        "releaseDate": 1509033085000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6dc3371c-7992-471a-ab6a-8b3e7c407ae4",
+      "title": "Szárnyas fejvadász 2049 [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "02:30:45",
+      "timestampInSeconds": 9045,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #131",
+        "youtubeId": "QymLKg2wvV4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/QymLKg2wvV4/hqdefault.jpg",
+        "durationInMinutes": 230,
+        "releaseDate": 1509033085000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

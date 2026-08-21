@@ -1,0 +1,45 @@
+{
+  "id": "e1a18bd8-df38-4549-8dbc-3261c8dae7b0",
+  "title": "Rajtakapva",
+  "originalTitle": "Caught Stealing",
+  "overview": "A történet főszereplője Hank ( Austin Butler ), aki korábban baseballtehetség volt, most azonban New Yorkban tengeti napjait egy lepukkant lakásban, és egy kocsmában dolgozik. Élete unalmas és kiábrándító, mígnem a szomszédja rábízza a macskáját – és ezzel minden megy a levesbe. Hamarosan különféle gengszterek üldözik, ő pedig menekülni kényszerül, egyre zavarosabb ügybe keveredik New York bűnözői alvilágában. Úgy tűnik, a macska kulcsfontosságú valamiben…vagy mégsem?",
+  "backdropPath": "/41043LV7mfluH8iXEUPVseCDAv5.jpg",
+  "posterPath": "/88KaWChfcq8LZF5srbCjxhCnKbW.jpg",
+  "releaseDate": "2025-08-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6ca2adb4-3d82-4c91-b01b-18aaf730b46a",
+      "title": "Rajtakapva",
+      "subtitle": null,
+      "timestampString": "01:33:00",
+      "timestampInSeconds": 5580,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #310",
+        "youtubeId": "snN5b4JzNgw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/snN5b4JzNgw/hqdefault.jpg",
+        "durationInMinutes": 230,
+        "releaseDate": 1758218455000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

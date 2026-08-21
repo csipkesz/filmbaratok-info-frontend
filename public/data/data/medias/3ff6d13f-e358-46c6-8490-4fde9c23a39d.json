@@ -1,0 +1,41 @@
+{
+  "id": "3ff6d13f-e358-46c6-8490-4fde9c23a39d",
+  "title": "Mortal Kombat II",
+  "originalTitle": "Mortal Kombat II",
+  "overview": "A Mortal Kombat világában nincs tét nélküli mérkőzés. Aki veszít, meghal. Néha az is, aki nyer. Mégis vannak bajnokok, akik habozás nélkül vállalják a küzdelmet. Hiszen tudják, hogy nem csupán a dicsőségért, vagy a győzelem öröméért kell mindent kockára tenniük: az egész világ jövőjét, a fény vagy a sötétség uralmát dönti el, hogy ki kerekedik felül. Kár, hogy Johnny Cage-nek semmi kedve az egészhez. Ő nem szokott verekedni: kivéve, ha filmezik közben… A hatalmas sikert arató videójáték megfilmesítése új szintre lépett: kegyetlenül, látványosan, megfékezhetetlenül mutatja be az új, mindent eldöntő bajnokságot, ahol pástra lépnek a régi bajnokok - és egy kiöregedett hollywoodi színész, bizonyos Johnny Cage.",
+  "backdropPath": "/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
+  "posterPath": "/hwRdDFIhaEmpRgoki805YvyyjZf.jpg",
+  "releaseDate": "2026-05-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "eac9be8a-7c37-4705-9625-98a00a335f1a",
+      "title": "Mortal Kombat II",
+      "subtitle": null,
+      "timestampString": "02:26:50",
+      "timestampInSeconds": 8810,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #326",
+        "youtubeId": "PyX_W5BWsXo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/PyX_W5BWsXo/hqdefault.jpg",
+        "durationInMinutes": 236,
+        "releaseDate": 1778948292000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

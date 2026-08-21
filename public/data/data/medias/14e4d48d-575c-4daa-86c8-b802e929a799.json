@@ -1,0 +1,71 @@
+{
+  "id": "14e4d48d-575c-4daa-86c8-b802e929a799",
+  "title": "Holtodiglan",
+  "originalTitle": "Gone Girl",
+  "overview": "Házasság? Halálos lehet.  Nick és Amy az ötödik házassági évfordulójára készül. Boldogok, gazdagok, elégedettek ám az ünnep estéjén az ifjú feleségnek nyoma vész, és gyorsan kiderül, hogy a látszat csalt: a pár tele volt félelmetes, sötét titkokkal. Mindenki Nickre gyanakszik, és ő a hazugságaival meg ügyetlen elterelő hadműveleteivel egyre inkább magára tereli a figyelmet.  Hiába bizonygatja makacsul, hogy nem tehet semmiről, már csupán az ikerhúga, Margo bízik benne. De ha nem a férfi a tettes, akkor hova lett a felesége? És hogyan magyarázhatóak az egyre-másra előkerülő, egyre furcsább titkok? Azok, amelyek talán minden boldog családi élet mélyén ott lapulnak. Azok, amelyek olyan könnyen vezetnek el egy ember halálához.",
+  "backdropPath": "/iWak7wT0j6ycCc8lKr4NBz9c7n5.jpg",
+  "posterPath": "/aeNHia5JVvjftmIDkpPwzvc4O8y.jpg",
+  "releaseDate": "2014-10-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "31506ee5-eccd-4320-9117-6fcf23bfc56b",
+      "title": "Holtodiglan",
+      "subtitle": null,
+      "timestampString": "00:26:54",
+      "timestampInSeconds": 1614,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #59",
+        "youtubeId": "xa1Ymms2_9c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/xa1Ymms2_9c/hqdefault.jpg",
+        "durationInMinutes": 189,
+        "releaseDate": 1413978295000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8ef3ba21-e7c7-4bbf-b598-de945f94486f",
+      "title": "Holtodiglan [SPOILERESEN]",
+      "subtitle": null,
+      "timestampString": "00:24:15",
+      "timestampInSeconds": 1455,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #59",
+        "youtubeId": "xa1Ymms2_9c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/xa1Ymms2_9c/hqdefault.jpg",
+        "durationInMinutes": 189,
+        "releaseDate": 1413978295000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

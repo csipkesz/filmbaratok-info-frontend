@@ -1,0 +1,45 @@
+{
+  "id": "b66695c4-52ad-4006-8097-d926aebe3cdd",
+  "title": "Suicide Squad",
+  "originalTitle": "Suicide Squad",
+  "overview": "Elkapták őket, és mindenre hajlandóak, hogy újra kiszabadulhassanak. Egy titkos állambiztonsági szervezet, az A.R.G.U.S. összefogta a gonosz szuperhősök leggonoszabbjait, és különleges börtönökben helyezte el őket: úgy, hogy semmiképpen ne szökhessenek meg. A Cég saját maga akarja szélesre tárni a zárkaajtókat. A raboknak szabadságukért cserébe szolgálatot kell vállalniuk. A gonoszok kénytelenek jót cselekedni. Létrejön az Öngyilkos Osztag, mely akkor indul bevetésre, ha az emberiség már nagy bajban van. Tagjai őrültek, kegyetlenek, kiszámíthatatlanok… mégis a mi oldalunkon állnak. Remélhetőleg.",
+  "backdropPath": "/8XyX5Us7uzwQdXtAdnhCB9Gquek.jpg",
+  "posterPath": "/y4qeKBZ0HYI8Rl5w06VkEVfD5DS.jpg",
+  "releaseDate": "2016-08-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c4066310-69a7-47fc-bd50-68eb2e58fdbb",
+      "title": "Suicide Squad",
+      "subtitle": null,
+      "timestampString": "00:31:20",
+      "timestampInSeconds": 1880,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #105",
+        "youtubeId": "73Hk03Cs0mQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/73Hk03Cs0mQ/hqdefault.jpg",
+        "durationInMinutes": 214,
+        "releaseDate": 1471773217000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

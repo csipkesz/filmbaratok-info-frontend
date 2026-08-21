@@ -1,0 +1,45 @@
+{
+  "id": "5dcf484c-0fb9-4f40-9c6d-7701fec868e0",
+  "title": "Barbár",
+  "originalTitle": "Barbarian",
+  "overview": "Egy fiatal nő állásinterjúra érkezik Detroitba, és bérelt lakást foglal. Ám amikor késő este megérkezik, rájön, hogy a ház duplán le van foglalva, és máris egy idegen férfi tartózkodik ott. Jobb belátása ellenére úgy dönt, hogy ott tölti az estét, de hamarosan rájön, hogy sokkal többtől kell félni, mint egy váratlan vendégtől.",
+  "backdropPath": "/kSeU4uk19t82k6Cao7hc6ktDYhF.jpg",
+  "posterPath": "/axTYwxZtphwNXoHZXMIJRyRwKZV.jpg",
+  "releaseDate": "2022-09-08T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "05e3e2aa-3624-47c3-9934-e7c1d96f6215",
+      "title": "Barbár [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "04:11:30",
+      "timestampInSeconds": 15090,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #243",
+        "youtubeId": "gCWkf0UnSwY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gCWkf0UnSwY/hqdefault.jpg",
+        "durationInMinutes": 296,
+        "releaseDate": 1668706204000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "cade9894-05dd-4453-bf8a-37377d8f5d8f",
+  "title": "Kanyar",
+  "originalTitle": "Curve",
+  "overview": "Mallory az esküvőjére tartva felvesz az autójába egy stoppost. Amikor a férfi késsel terrorizálni kezdi őt, a nő direkt autóbalesetet okoz, remélve, hogy így elmenekülhet. A felborult autóban azonban Mallory csapdába esik, és a túléléséért kell harcolnia a pszichopata ellen.",
+  "backdropPath": "/54WscT5majJBU3MbeHLc2BOywdZ.jpg",
+  "posterPath": "/6NbnmH9K0lPayUYGfnHCz2di5nF.jpg",
+  "releaseDate": "2015-08-31T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d436b897-3e73-443b-80bc-020abcfb35ad",
+      "title": "Kanyar",
+      "subtitle": null,
+      "timestampString": "02:30:05",
+      "timestampInSeconds": 9005,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #162",
+        "youtubeId": "Pm_3kToMJek",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Pm_3kToMJek/hqdefault.jpg",
+        "durationInMinutes": 231,
+        "releaseDate": 1550070901000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0ee0c38a-5d93-4249-b33a-fd0eddcd0e82",
+  "title": "Valami követ",
+  "originalTitle": "It Follows",
+  "overview": "Képzeld el, hogy követ valaki. Bárhol is vagy, és egyszer csak feléd sétál. Bármilyen alakot felvehet. Lehet egy régi ismerős, kedves, szeretett arc, vagy egy ijesztő alak, egy vadidegen. Nem fut feléd, nem is különösebben siet. Csak határozottan megy feléd, és ha utolér, meghalsz. Ha pedig rád ragad, a követés átkától egyféleképpen szabadulhatsz: ha szexuális együttlét során átadod valaki másnak. De ha az illető meghal, újra nagy bajban vagy. A 19 éves Jay pedig halálos veszéllyel néz szembe, amikor egy ártalmatlan egyéjszakás kalandot követően arra lesz figyelmes, hogy valami követi. Csak egyben biztos: menekülnie kell előle - az életéért.",
+  "backdropPath": "/ikaRI4yMxKOje5SmOlAhOBUnicL.jpg",
+  "posterPath": "/biCcET6E61miEDXZuI3lVIZQlSx.jpg",
+  "releaseDate": "2015-02-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d4f45dba-5b90-4ef9-832a-f514c21a3485",
+      "title": "Valami követ (Nyomokban spoilert tartalmaz)",
+      "subtitle": null,
+      "timestampString": "00:53:27",
+      "timestampInSeconds": 3207,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #76",
+        "youtubeId": "wnZh6qcfn4E",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wnZh6qcfn4E/hqdefault.jpg",
+        "durationInMinutes": 128,
+        "releaseDate": 1435731107000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "0460cb14-2d41-40a6-a580-a9fc498a33d8",
+  "title": "Star Trek (2009)",
+  "originalTitle": "Star Trek",
+  "overview": "Tökéletes ellentéte egymásnak Kirk és Spock. A bajkeverő iowai farmerfiú és a félig ember, félig vulkáni Spock az akadémián találkozik. A köztük lévő feszültség tovább növekszik, amikor beválogatják őket a Pike kapitány vezetésével első útjára készülő Enterprise csillaghajó legénységébe. A csillagflotta kadétjaként olyan veszélyes ellenséggel kell szembenézniük, amely a bolygók népeit egyesítő szövetséget, a Föderációt fenyegeti. A galaxis sorsa a két ifjú titán kezében van. Ha meg akarják akadályoznia a pusztulást, az ellentéteket félretéve össze kell fogniuk egymással.",
+  "backdropPath": "/q7M0JpPixbEYT8EhnI7wTEMONxz.jpg",
+  "posterPath": "/wI9aeZn00BQuI8HniF54R6yULrK.jpg",
+  "releaseDate": "2009-05-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4691811d-167a-4606-b4c9-8e155222d4d0",
+      "title": "Star Trek (2009)",
+      "subtitle": null,
+      "timestampString": "02:09:47",
+      "timestampInSeconds": 7787,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #65",
+        "youtubeId": "Nho9twpqK9c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Nho9twpqK9c/hqdefault.jpg",
+        "durationInMinutes": 210,
+        "releaseDate": 1420868167000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

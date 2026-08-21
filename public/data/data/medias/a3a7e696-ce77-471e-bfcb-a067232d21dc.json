@@ -1,0 +1,45 @@
+{
+  "id": "a3a7e696-ce77-471e-bfcb-a067232d21dc",
+  "title": "Nevada Smith",
+  "originalTitle": "Nevada Smith",
+  "overview": "Nevada Smith fehér apa és indián anya gyermeke. A szüleit három bandita legyilkolja, mert szerintük fehér ember nem állhat össze indián nővel. Az árván maradt ifjú elhatározza, bosszút áll a gyilkosokon. Mivel nem ért a fegyverekhez, Jonas Cord segítségét kéri, aki megtanítja őt a használatukra. Az egyik banditával késpárbajban végez, sérüléséből egy indián lány gyógyítja fel. Amikor megtudja, hogy a másik börtönben van, oda is követi őt. Már csak a harmadik, a legveszélyesebb fickó van hátra.",
+  "backdropPath": "/cCTvYljawuuO0CdOaVvEgJ41sRK.jpg",
+  "posterPath": "/lNtlgSIKVIe0t4AtAHRCwbFmw5p.jpg",
+  "releaseDate": "1966-06-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f2a712f8-dba1-4ab6-a1df-b37bad929eb8",
+      "title": "Nevada Smith",
+      "subtitle": null,
+      "timestampString": "01:34:00",
+      "timestampInSeconds": 5640,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #88",
+        "youtubeId": "wEd9ZOCpPII",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wEd9ZOCpPII/hqdefault.jpg",
+        "durationInMinutes": 226,
+        "releaseDate": 1450458682000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

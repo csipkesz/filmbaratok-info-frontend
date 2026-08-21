@@ -1,0 +1,41 @@
+{
+  "id": "5e663e96-4770-4b17-8f37-5f19f0bfd777",
+  "title": "Jégvarázs",
+  "originalTitle": "Frozen",
+  "overview": "Amikor egy gonosz varázslatnak köszönhetően a királyság az örök tél fogságába esik, Anna, a félelmet nem ismerő optimista összeáll az extrém hegyi emberrel, Kristoffal és az ő hűséges rénszarvasával, Sven-nel, hogy közösen megtalálják Anna testvérét, Elsát, a Hókirálynőt és véget vessenek fagyos varázslatának. Az Everesthez hasonlítható körülmények közt, titokzatos trollokkal és a lenyűgöző és igazán vicces Olaf nevű hóemberrel is találkoznak. Annának és Kristoffnak mágikus kalandokkal kísért útjukon a természet erőivel kell dacolniuk, hogy megmentsék a királyságot a teljes pusztulástól.",
+  "backdropPath": "/rj58WQ9ImI0mYDptXdM7euX1Wjt.jpg",
+  "posterPath": "/5yMwZlVZyYasdKzIze9z2fMJ96X.jpg",
+  "releaseDate": "2013-11-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "76f59af6-7a99-4547-8eb3-fba7f35315f2",
+      "title": "Jégvarázs",
+      "subtitle": null,
+      "timestampString": "00:30:52",
+      "timestampInSeconds": 1852,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #46 (Oscar 2014)",
+        "youtubeId": "BjIg8Ny1Bfg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/BjIg8Ny1Bfg/hqdefault.jpg",
+        "durationInMinutes": 145,
+        "releaseDate": 1393580650000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

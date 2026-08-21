@@ -1,0 +1,45 @@
+{
+  "id": "3450965d-b0d7-4f29-ae1d-ffc4d7b7a681",
+  "title": "The Expendables 3",
+  "originalTitle": "The Expendables 3",
+  "overview": "Barney, a profi főnök már megszámlálhatatlan bevetést vezetett, rengeteg szövetségest szerzett és ellenségei számát is szépen gyarapította. Ám akivel most kell megbirkóznia a veterán zsoldosnak, arra ő sem számított. Váratlanul felbukkan Barney egykori társa, Conrad Stonebanks akivel annak idején együtt alapították meg a verhetetlen feláldozhatók csapatát. A tömeggyilkossá vált egykori csapattag, a könyörtelen fegyverkereskedő egyszer már megmenekült Barney karmai közül és most bosszúra éhes: végleg le akar számolni egykori bandájával, célja, hogy kiiktassa a feláldozhatókat.",
+  "backdropPath": "/xSfBWkAarrPwwfiGBAMt8wqxUUH.jpg",
+  "posterPath": "/dXlo3tQEMJQvMCUPG0XU2PpxIuv.jpg",
+  "releaseDate": "2014-08-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6094ded9-0d18-47f7-97b5-9ffa555395e1",
+      "title": "Expandables 3",
+      "subtitle": null,
+      "timestampString": "00:58:15",
+      "timestampInSeconds": 3495,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #57",
+        "youtubeId": "NItQ0G4BTsQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/NItQ0G4BTsQ/hqdefault.jpg",
+        "durationInMinutes": 177,
+        "releaseDate": 1410890684000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

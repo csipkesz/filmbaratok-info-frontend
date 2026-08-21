@@ -1,0 +1,45 @@
+{
+  "id": "e92ce046-a2a5-4fc3-b8fd-e8d3b1da2e42",
+  "title": "Kerülőutak",
+  "originalTitle": "Sideways",
+  "overview": "Két férfi, akik a kapuzárási pánik időszakának legszebb éveit élik, útra kel a kaliforniai borvidékre. Az utazást Miles szervezi, a szakmájába belefásult angoltanár és író, aki sehogy sem tud kiadót találni a regényének. Miles szereti a bort, és úgy gondolja, hogy barátja is igazán élvezne egy borkóstolással és golfozással töltött hetet. A bortúra Miles ajándéka, barátja, Jack ezt kapja tőle küszöbön álló esküvője alkalmából. Jacket, a levitézlett tévés színészt azonban cseppet sem érdekli a bor. A már hervadó, részmunkaidős playboy úgy gondolja, hogy mielőtt végleg behajózna a házasság kikötőjébe, jó lenne még lekapni pár cicababát a tíz körméről.",
+  "backdropPath": "/zmuRxro8AxPDjACjXTIIDCUNwDl.jpg",
+  "posterPath": "/kWOQb5Vm7jR3SkdAPN1Ofa8zKh5.jpg",
+  "releaseDate": "2004-10-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7649ce68-e903-462e-aef0-9029a6387472",
+      "title": "Kerülőutak",
+      "subtitle": null,
+      "timestampString": "02:29:20",
+      "timestampInSeconds": 8960,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #115",
+        "youtubeId": "kbUqk0bddqo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/kbUqk0bddqo/hqdefault.jpg",
+        "durationInMinutes": 231,
+        "releaseDate": 1485969786000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

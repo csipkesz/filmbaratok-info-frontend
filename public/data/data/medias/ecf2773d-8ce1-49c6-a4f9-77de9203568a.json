@@ -1,0 +1,45 @@
+{
+  "id": "ecf2773d-8ce1-49c6-a4f9-77de9203568a",
+  "title": "Zsivány Egyes – Egy Star Wars történet",
+  "originalTitle": "Rogue One: A Star Wars Story",
+  "overview": "A galaxis szerte dúló háborúban a sors nem mindennapi hősöket hoz össze, hogy egy csaknem lehetetlen feladatra vállalkozva ellopják a Birodalom pusztító fegyverének, a Halálcsillagnak tervrajzait. A béke és a szabadság utolsó reménysugarába kapaszkodva válnak részeseivé a galaxist fenekestül felforgató elnyomás elleni küzdelemnek.",
+  "backdropPath": "/6t8ES1d12OzWyCGxBeDYLHoaDrT.jpg",
+  "posterPath": "/bS9eHYPnIf5zhiAIc9QL00QKHoW.jpg",
+  "releaseDate": "2016-12-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "51ad66cd-83af-4ebc-b564-c850faee9739",
+      "title": "Zsivány Egyes – Egy Star Wars történet [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "00:49:45",
+      "timestampInSeconds": 2985,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #113",
+        "youtubeId": "CqQ2YmFVvVo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/CqQ2YmFVvVo/hqdefault.jpg",
+        "durationInMinutes": 233,
+        "releaseDate": 1483005908000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "15a53a44-af10-4843-b447-7f9fbb845f56",
+            "name": "Szöllőskei Gábor"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

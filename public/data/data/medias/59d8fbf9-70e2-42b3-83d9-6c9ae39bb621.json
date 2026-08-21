@@ -1,0 +1,41 @@
+{
+  "id": "59d8fbf9-70e2-42b3-83d9-6c9ae39bb621",
+  "title": "A boszorkány",
+  "originalTitle": "The Witch",
+  "overview": "A tizenhetedik századi New Englandben egy ötgyerekes, vadul vallásos családot kitaszít a telepesek közössége, és egymagukban kénytelenek boldogulni egy erdő mellett felvert tanyán. Először a legkisebb gyerek, a még csecsemő Sam tűnik el megmagyarázhatatlan körülmények között, aztán a szörnyűségek megállíthatatlanul folytatódnak.",
+  "backdropPath": "/zi2oYYNSSv7t44iSt5YrxHX9PYs.jpg",
+  "posterPath": "/7uzAEj9bPFIuPITKl3b47ZpwQ2H.jpg",
+  "releaseDate": "2016-02-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "18fe3171-ba00-4d01-ae2f-d596ab7abc0d",
+      "title": "A boszorkány",
+      "subtitle": null,
+      "timestampString": "01:11:35",
+      "timestampInSeconds": 4295,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #122",
+        "youtubeId": "-MTE2KExAs0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-MTE2KExAs0/hqdefault.jpg",
+        "durationInMinutes": 192,
+        "releaseDate": 1495810296000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

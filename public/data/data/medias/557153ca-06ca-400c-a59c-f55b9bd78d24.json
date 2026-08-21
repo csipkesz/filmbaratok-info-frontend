@@ -1,0 +1,45 @@
+{
+  "id": "557153ca-06ca-400c-a59c-f55b9bd78d24",
+  "title": "A majmok bolygója – Háború",
+  "originalTitle": "War for the Planet of the Apes",
+  "overview": "A háború az emberek és a majmok közt elkerülhetetlennek látszik. Ezúttal már az egész bolygó sorsa a tét, a kérdés csak az, hogy melyik faj kerekedik felül a legvégén. Caesar, a majom valahol a két világ között ragadt, szíve húzza mindkét helyre. Álma a békés együttélés lenne, de ez kivitelezhetetlennek tűnik. Szükség lesz az eszére, hogy az az erős vezető lehessen, akire szükség van a még nagyobb katasztrófa megakadályozása érdekében.",
+  "backdropPath": "/ulMscezy9YX0bhknvJbZoUgQxO5.jpg",
+  "posterPath": "/hgnvjFEnKy0ckddyWIR7wLBfQTH.jpg",
+  "releaseDate": "2017-07-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b5026998-0a80-4335-ae65-128362db9b5f",
+      "title": "A majmok bolygója – Háború",
+      "subtitle": null,
+      "timestampString": "01:23:23",
+      "timestampInSeconds": 5003,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #125",
+        "youtubeId": "4TEl2okYMLY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/4TEl2okYMLY/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1500394983000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "15a53a44-af10-4843-b447-7f9fbb845f56",
+            "name": "Szöllőskei Gábor"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

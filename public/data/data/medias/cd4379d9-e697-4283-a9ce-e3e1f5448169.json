@@ -1,0 +1,45 @@
+{
+  "id": "cd4379d9-e697-4283-a9ce-e3e1f5448169",
+  "title": "Predator: Gyilkosok gyilkosa",
+  "originalTitle": "Predator: Killer of Killers",
+  "overview": "Ez a saját gyártású antológia a történelem három legelszántabb harcosának történetét mutatja be: egy viking portyázóét, aki véres bosszúhadjáratra indul fiával; egy nindzsáét a feudális Japánban, aki szamuráj fivére ellen fordul a trónért folytatott brutális küzdelemben; és egy második világháborús pilótáról, aki gépre száll, hogy felderítsen egy túlvilági fenyegetést, amely megtizedelte a szövetségeseket.",
+  "backdropPath": "/3AGZKVr2DPT9H53gYtkSEC1tK1E.jpg",
+  "posterPath": "/v7XzsLWLd3vYAeujIl4YbAazjsp.jpg",
+  "releaseDate": "2025-06-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "995181d0-e1e9-4893-9dd5-ba16645677f6",
+      "title": "Predator: Gyilkosok gyilkosa",
+      "subtitle": null,
+      "timestampString": "02:31:42",
+      "timestampInSeconds": 9102,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #304",
+        "youtubeId": "ok8JUwMUPIA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ok8JUwMUPIA/hqdefault.jpg",
+        "durationInMinutes": 212,
+        "releaseDate": 1749920369000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

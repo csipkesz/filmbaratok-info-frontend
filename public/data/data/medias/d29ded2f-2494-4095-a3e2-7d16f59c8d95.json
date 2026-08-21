@@ -1,0 +1,45 @@
+{
+  "id": "d29ded2f-2494-4095-a3e2-7d16f59c8d95",
+  "title": "Lightyear",
+  "originalTitle": "Lightyear",
+  "overview": "Buzz Lightyear és robottársa, Sox intergalaktikus kalandra indul egy csapat újonccal.",
+  "backdropPath": "/hwUxHPkuUleJeoick4uZsrKDXxF.jpg",
+  "posterPath": "/ox4goZd956BxqJH6iLwhWPL9ct4.jpg",
+  "releaseDate": "2022-06-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a496ebb2-309d-4610-abed-d2e7647450f7",
+      "title": "Lightyear",
+      "subtitle": null,
+      "timestampString": "00:49:20",
+      "timestampInSeconds": 2960,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #235",
+        "youtubeId": "E8HgTAqoW8U",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E8HgTAqoW8U/hqdefault.jpg",
+        "durationInMinutes": 220,
+        "releaseDate": 1657007879000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "e4d249a5-e251-44d9-8c10-8e2e3e9a6069",
+            "name": "Anna"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

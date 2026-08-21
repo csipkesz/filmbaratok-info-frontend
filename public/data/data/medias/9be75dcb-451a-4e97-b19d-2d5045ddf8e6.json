@@ -1,0 +1,41 @@
+{
+  "id": "9be75dcb-451a-4e97-b19d-2d5045ddf8e6",
+  "title": "Chaos Walking",
+  "originalTitle": "Chaos Walking",
+  "overview": "Egy páros, akik tökéletes ellentétei egymásnak, de a véletlennek köszönhetően mégis társakká válnak, hihetetlen kalandba kezd egy felderítetlen bolygó terméketlen vidékén, miközben megpróbálnak elmenekülni a veszélyes és zavaró valóság elől, ahol bárki legbensőbb gondolatait is mindenki látja és hallja.",
+  "backdropPath": "/qCPLtXrTB10UsgAFxsWOB44gDPu.jpg",
+  "posterPath": "/74gFTIPFwxl146TciKV2awZqGsB.jpg",
+  "releaseDate": "2021-02-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6d3bad6e-5dba-4b3f-865c-39b36c6a3962",
+      "title": "Chaos Walking",
+      "subtitle": null,
+      "timestampString": "02:41:09",
+      "timestampInSeconds": 9669,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #213",
+        "youtubeId": "JtzuuNOeIxc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JtzuuNOeIxc/hqdefault.jpg",
+        "durationInMinutes": 200,
+        "releaseDate": 1624372656000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

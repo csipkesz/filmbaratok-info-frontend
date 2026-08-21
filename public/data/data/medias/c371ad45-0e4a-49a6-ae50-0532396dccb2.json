@@ -1,0 +1,41 @@
+{
+  "id": "c371ad45-0e4a-49a6-ae50-0532396dccb2",
+  "title": "Holdlovag - Moon Knight",
+  "originalTitle": "Moon Knight",
+  "overview": "Egy volt amerikai tengerészgyalogost, aki disszociatív identitászavarral küzd, egy egyiptomi holdisten erejével ruházzák fel. Hamarosan azonban rájön, hogy ezek az újonnan szerzett erők egyszerre lehetnek áldás és átok a zűrös életében.",
+  "backdropPath": "/1uegR4uAxRxiMyX4nQnpzbXhrTw.jpg",
+  "posterPath": "/57sf6bRRen3WM2yjh1SxWjQhs5k.jpg",
+  "releaseDate": "2022-03-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c1414c6d-1e4f-44f4-b9d6-60069b208dca",
+      "title": "Holdlovag - Moon Knight 1. évad",
+      "subtitle": "1. évad",
+      "timestampString": "01:03:35",
+      "timestampInSeconds": 3815,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Sorozatok (Békeharcos, A farkas gyermekei 2. évad, Holdlovag)",
+        "youtubeId": "b3LUO08pTFI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/b3LUO08pTFI/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1653110209000,
+        "participants": [
+          {
+            "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
+            "name": "Shirin"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

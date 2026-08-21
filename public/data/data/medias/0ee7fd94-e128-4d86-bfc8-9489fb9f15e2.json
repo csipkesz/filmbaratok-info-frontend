@@ -1,0 +1,45 @@
+{
+  "id": "0ee7fd94-e128-4d86-bfc8-9489fb9f15e2",
+  "title": "Határok mentén",
+  "originalTitle": "Triple Frontier",
+  "overview": "Hőseink olyan exkatonák, akik csalódtak a hazájukban, ugyanis hiába szolgálták évekig becsülettel, az életüket kockáztatva, nem honorálták az áldozatukat. Miután leszerelnek, már a családjuk eltartása is nehezükre esik. Végső elkeseredésükben aztán azzal a tervvel állnak elő, hogy kirabolnak egy drogbárót, akinek a főhadiszállása három dél-amerikai ország, Argentína, Brazília és Paraguay közös határszakaszán áll (erre a hármas határra utal a film címe), amelyet szinte lehetetlen hatóságilag ellenőrizni, így a szervezett bűnözés egyik központja.",
+  "backdropPath": "/s9I2LmQMYCanl6DvC3X1AOHs2r8.jpg",
+  "posterPath": "/takOcImFvvKy4Z7qSWOGLaWInEx.jpg",
+  "releaseDate": "2019-03-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d8927417-b357-4507-a257-6cc81a99ca8b",
+      "title": "Határok mentén",
+      "subtitle": null,
+      "timestampString": "03:34:20",
+      "timestampInSeconds": 12860,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #286",
+        "youtubeId": "ZbuQSmPb5sM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ZbuQSmPb5sM/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1726511195000,
+        "participants": [
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "cc932f99-1836-4d42-88c7-e8b983a84e47",
+  "title": "A menü",
+  "originalTitle": "The Menu",
+  "overview": "Julian Slowik (Ralph Fiennes) luxusétterme egy elhagyott szigeten található meg. A degusztációs menüre félmillió forint értékű dollárért lehet befizetni, az étterembe mégis hónapokkal előbb be kell jelentkezni, az élmény ugyanis páratlan. Ide érkezik Tyler (Nicholas Hoult) és Margot (Anya Taylor-Joy), a fiatal páros néhány kőgazdag vendég társaságában, hogy aztán hamarosan azon kapják magukat, hogy sokkal több emészteni valót kapnak a pénzükért, mint amire befizettek.",
+  "backdropPath": "/4vSBj7BYsyuKCx96EJzGyp20WfY.jpg",
+  "posterPath": "/jgoGMi7dQTZVPvgv2bCoSb1TLZp.jpg",
+  "releaseDate": "2022-11-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "248d9884-45a0-4457-b7f4-e61d8822215d",
+      "title": "A menü [SPOILER]",
+      "subtitle": null,
+      "timestampString": "01:34:15",
+      "timestampInSeconds": 5655,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #244",
+        "youtubeId": "UDRgd7o114E",
+        "thumbnailUrl": "https://i.ytimg.com/vi/UDRgd7o114E/hqdefault.jpg",
+        "durationInMinutes": 213,
+        "releaseDate": 1669827290000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

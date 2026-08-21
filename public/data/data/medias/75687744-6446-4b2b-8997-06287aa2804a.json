@@ -1,0 +1,41 @@
+{
+  "id": "75687744-6446-4b2b-8997-06287aa2804a",
+  "title": "Futni mentem",
+  "originalTitle": "Futni mentem",
+  "overview": "A film főszereplője egy anya (Udvaros Dorottya), aki férje halála után elhatározza, hogy teljesíti annak utolsó kívánságát, és lányaival (Lovas Rozi, Tenki Réka, Trill Beatrix) váltóban lefutja a maratont. Apró probléma, hogy egyikük sincs fizikálisan és mentálisan felkészülve a futásra. Az anya és lányai mellett ráadásul a rokonokat és barátokat is váratlanul éri a nők lehetetlennek tűnő vállalkozása.",
+  "backdropPath": "/iNA964wOcIfJzOHeQRw1iZdc56z.jpg",
+  "posterPath": "/cSs0BYbP37e7LIUaQ0JjXeaPp0k.jpg",
+  "releaseDate": "2024-11-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a99ebfe9-8c80-4a73-8f71-82fca4c4a103",
+      "title": "Futni mentem",
+      "subtitle": null,
+      "timestampString": "01:42:55",
+      "timestampInSeconds": 6175,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #291",
+        "youtubeId": "kkat0CorCLw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/kkat0CorCLw/hqdefault.jpg",
+        "durationInMinutes": 178,
+        "releaseDate": 1732811077000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

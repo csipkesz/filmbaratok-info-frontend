@@ -1,0 +1,45 @@
+{
+  "id": "2bbeccb1-6233-4182-b406-e4c743533a1e",
+  "title": "Kojot",
+  "originalTitle": "Kojot",
+  "overview": "Fülledt forróság, kisvárosi sivárság, kimondatlan társadalmi problémák, hierarchia harcok. Ez Tűzkő városa, valahol Magyarországon, valamikor mostanában. Ide érkezik Misi, aki megörökölte nagyapja házát és birtokát. Misi kiábrándult, frusztrált, folyton menekülő fiatal, aki nem találja a szerepét az életében, munkájában, párkapcsolatában. Misi nekikezd a ház építésének néhány segítőjével, de ez sérti a környék oligarcháinak érdekeit. Súlyos harc kezdődik a földért, a szerelemért, az életért. Misi minden szempontból igazi kojottá, prérifarkassá, válik. Egy igazi eastern film, különleges képi világgal. A rendező, aki egyben az operatőre is a filmnek anamorf objektívet használt, mely az emberi látáshoz sokkal közelebb álló szélesvásznú és jobb felbontású képet eredményez.",
+  "backdropPath": "/fjZGYRe0Up1lZsEmQ4G22UywUJw.jpg",
+  "posterPath": "/9MnBLlWLwaq8Uhn3ee7HczDqQzc.jpg",
+  "releaseDate": "2017-02-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "65eff0ec-c229-4ead-9f1c-0e35741ca30c",
+      "title": "Kojot",
+      "subtitle": null,
+      "timestampString": "02:55:47",
+      "timestampInSeconds": 10547,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #147",
+        "youtubeId": "VFKKYddusFg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VFKKYddusFg/hqdefault.jpg",
+        "durationInMinutes": 235,
+        "releaseDate": 1531561740000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

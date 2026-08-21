@@ -1,0 +1,45 @@
+{
+  "id": "f21ba23e-e074-45cf-bd15-f8ea3dc5a8a8",
+  "title": "Álom doktor",
+  "originalTitle": "Doctor Sleep",
+  "overview": "A ragyogás nem múlik el. A kisfiú, aki túlélte mindazt, amit apja művelt vele és családjával a magányos Szépkilátás Hotelben, felnőtt – de viseli az egykori traumák nyomát. Miután nagy nehezen kiverekszi magát az alkoholizmusból, egy hospice-házban talál munkát, ahol halálukra váró ápoltjai Álom doktornak becézik.  Danny Torrance tudja magáról, hogy különleges erők laknak benne. És ezek akkor támadnak fel, amikor találkozik egy lánnyal, aki az övéhez hasonló képességgel rendelkezik, csak sokkal erősebbel.",
+  "backdropPath": "/ap6Zc5NDOfbZaMhkRDyghbGeLf0.jpg",
+  "posterPath": "/ppV3Ch2M7JvOdqEV19N0SSM6PFH.jpg",
+  "releaseDate": "2019-10-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2a49c4ce-441b-493f-87db-5d8264ae01e8",
+      "title": "Álom doktor",
+      "subtitle": null,
+      "timestampString": "00:57:52",
+      "timestampInSeconds": 3472,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #179",
+        "youtubeId": "xquBnjUaMAg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/xquBnjUaMAg/hqdefault.jpg",
+        "durationInMinutes": 206,
+        "releaseDate": 1574800160000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "e4d249a5-e251-44d9-8c10-8e2e3e9a6069",
+            "name": "Anna"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "3363d8aa-f92c-4672-a1c3-3b4c1402b921",
+  "title": "Vaják",
+  "originalTitle": "The Witcher",
+  "overview": "Ríviai Geralt, a felbérelhető, mutálódott szörnyvadász végzete felé sodródik egy vészterhes világban, ahol az emberek gyakran gonoszabbak a szörnyeknél.",
+  "backdropPath": "/foGkPxpw9h8zln81j63mix5B7m8.jpg",
+  "posterPath": "/qJU4px38JAEF4iN5sh41EkO2n7x.jpg",
+  "releaseDate": "2019-12-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "48b92246-e944-41f1-8648-01c1f2789b65",
+      "title": "The witcher 3. évad [SPOILERES]",
+      "subtitle": "3. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": true,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: The witcher 3. évad [SPOILERES]",
+        "youtubeId": "fjZetXyRYh4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fjZetXyRYh4/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1696533310000,
+        "participants": []
+      }
+    },
+    {
+      "id": "612c952a-c64e-435b-8034-72a60516ea09",
+      "title": "The Witcher 2. évad",
+      "subtitle": "2. évad",
+      "timestampString": "00:38:30",
+      "timestampInSeconds": 2310,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Sorozatok (Sólyomszem, Witcher, Squid Game, Ted Lasso)",
+        "youtubeId": "LphtMncKXkI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/LphtMncKXkI/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1646982902000,
+        "participants": [
+          {
+            "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
+            "name": "Shirin"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a8a65f75-924e-4b56-947c-6fd68e4b1d59",
+      "title": "The Witcher / Vaják (4. évad)",
+      "subtitle": "4. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: The Witcher / Vaják (4. évad)",
+        "youtubeId": "zD4qoWgh7R8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/zD4qoWgh7R8/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1765036224000,
+        "participants": []
+      }
+    }
+  ]
+}

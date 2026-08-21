@@ -1,0 +1,37 @@
+{
+  "id": "e298de16-8ddc-4764-a93b-c0dd37bffd61",
+  "title": "Lidérces órák",
+  "originalTitle": "After Hours",
+  "overview": "Paul Hackett, a fiatal New York-i számítógép-programozó ígéretes este elé néz. Egy fiatal szőke lánnyal készül randevúzni, akivel alig néhány órája ismerkedett meg az egyik kávézóban. Taxival igyekszik a találkára, amikor a lendületes autózás közepette a huzat kiviszi Paul pénzét a lehúzott ablakon. A \"rászedett\" taxis otthagyja a kihalt utcán fizetni nem tudó utasát. Mindez azonban csak egy őrült, hihetetlen kalandokkal és lidércnyomással teli éjszaka kezdete csupán, amely az elképesztő metropoliszban Paulra vár.",
+  "backdropPath": "/tV2KZZR5JaqTSXiNKowGqQMQtex.jpg",
+  "posterPath": "/xCF8pUVC0vtlkKiFXAidkbWJlVt.jpg",
+  "releaseDate": "1985-09-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "888e8d2b-e0a8-4d8d-becd-a490e0449cb6",
+      "title": "Lidérces órák",
+      "subtitle": null,
+      "timestampString": "01:31:20",
+      "timestampInSeconds": 5480,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #79",
+        "youtubeId": "MFtdt9e1-5Y",
+        "thumbnailUrl": "https://i.ytimg.com/vi/MFtdt9e1-5Y/hqdefault.jpg",
+        "durationInMinutes": 158,
+        "releaseDate": 1439397604000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "f9787f23-64bb-4ab9-8eff-f36ebe9031e7",
+  "title": "A Karib-tenger kalózai: Salazar bosszúja",
+  "originalTitle": "Pirates of the Caribbean: Dead Men Tell No Tales",
+  "overview": "A hányatott sorsú Jack kapitányt erősen megcsapja a balszerencse szele, mikor a rettentő Salazar kapitány vezette gyilkos szellemkalózok megszöknek az Ördög Háromszögéből. Egyszerű cél vezérli őket: végezni akarnak minden egyes kalózzal - és Jackre különös gondot fordítanának. Sparrow egyetlen reménye Poszeidón legendás szigonyában rejlik, ám erre csak úgy bukkanhat rá, ha kényszerű szövetségre lép Carina Smythszel, a ragyogó elméjű és szépségű csillagásszal, és az ifjú Henryvel, a Királyi Flotta nyakas tengerészével. A méretében és ápoltságában is szerény hajójának kormányánál Jack kapitány nem csupán sorozatos balszerencséjén kíván fordítani, hanem becses életét is menteni igyekszik eddigi legiszonyatosabb és legfondorlatosabb ellenfelétől.",
+  "backdropPath": "/7C921eWK06n12c1miRXnYoEu5Yv.jpg",
+  "posterPath": "/2bXgIKic1vxJS089kSJi5idqnB6.jpg",
+  "releaseDate": "2017-05-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "77de2cf7-30a6-4520-a847-78f08fccceed",
+      "title": "A Karib-tenger kalózai: Salazar bosszúja",
+      "subtitle": null,
+      "timestampString": "00:33:40",
+      "timestampInSeconds": 2020,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #123",
+        "youtubeId": "bURb6dAUghs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/bURb6dAUghs/hqdefault.jpg",
+        "durationInMinutes": 147,
+        "releaseDate": 1497253469000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

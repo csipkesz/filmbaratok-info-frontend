@@ -1,0 +1,45 @@
+{
+  "id": "ec1dfdbc-8426-4f69-ab86-25736cfe97de",
+  "title": "Az öt bajtárs / Da 5 Bloods",
+  "originalTitle": "Da 5 Bloods",
+  "overview": "Sok évvel a háború után Paul, Otis, Eddie és Melvin visszatér Vietnamba, hogy elesett szakaszvezetőjük maradványait és az elásott kincset megkeressék. A kis csapat és Paul aggódó fia felveszik a harcot az ember és a természet erőivel, miközben szembenéznek a háború pusztításával.",
+  "backdropPath": "/Aq5Zhj9iaTF6BEKNk05dlUxeHKa.jpg",
+  "posterPath": "/3MUrB2vRaUYkpihAq9rYiIa3WuL.jpg",
+  "releaseDate": "2020-06-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "67114b5e-a271-4738-adb4-0010855d9835",
+      "title": "Az öt bajtárs / Da 5 Bloods",
+      "subtitle": null,
+      "timestampString": "01:09:15",
+      "timestampInSeconds": 4155,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #192",
+        "youtubeId": "U-r1xMhFqug",
+        "thumbnailUrl": "https://i.ytimg.com/vi/U-r1xMhFqug/hqdefault.jpg",
+        "durationInMinutes": 257,
+        "releaseDate": 1593098527000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

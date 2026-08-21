@@ -1,0 +1,75 @@
+{
+  "id": "d8d94fc8-19b8-47e5-86b1-1fbe02d562ab",
+  "title": "Testről és lélekről",
+  "originalTitle": "Testről és lélekről",
+  "overview": "Endrének, a vágóhíd visszafogott természetű, lebénult bal kezű gazdasági igazgatójának és Máriának, a nagyon szigorú és autisztikus viselkedésű új minőségellenőrnek minden éjjel közös álma van, havas tájban ismerkedő szarvaspárként. Ezt csak akkor veszik észre, amikor a munkahelyi pszichológusnő hall róla mind a kettőtől és azt hiszi, hogy gúnyt űznek belőle.",
+  "backdropPath": "/s5BvDOLava3Z8NjAOnT0Xe96iLS.jpg",
+  "posterPath": "/lQzXyB1kQBb5uYYDPSge8U68SaN.jpg",
+  "releaseDate": "2017-03-02T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "75415f25-566c-4388-a2fc-0ea3be57461e",
+      "title": "Testről és lélekről",
+      "subtitle": null,
+      "timestampString": "03:21:20",
+      "timestampInSeconds": 12080,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #138",
+        "youtubeId": "nNL55zk0j6I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nNL55zk0j6I/hqdefault.jpg",
+        "durationInMinutes": 255,
+        "releaseDate": 1519187400000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d38f7dca-eb59-4e1e-a12b-84d4140faa25",
+      "title": "Testről és lélekről",
+      "subtitle": null,
+      "timestampString": "01:12:48",
+      "timestampInSeconds": 4368,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #120",
+        "youtubeId": "-3teFOfAauw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-3teFOfAauw/hqdefault.jpg",
+        "durationInMinutes": 251,
+        "releaseDate": 1493646027000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

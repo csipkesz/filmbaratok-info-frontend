@@ -1,0 +1,75 @@
+{
+  "id": "ab30ba6b-8d84-4947-bfdc-a2f1bfcffec1",
+  "title": "Időről időre",
+  "originalTitle": "About Time",
+  "overview": "21 éves korában Tim Lake rájön, hogy képes az időutazásra...  Egy újabb gyászos szilveszteri buli után Tim apja közli a fiával, hogy a család férfitagjai mindig is képesek voltak utazni az időben. Tim nem írhatja át a történelmet, de változtathat azon, ami a saját életében történt és történni fog. Így hát úgy dönt, jobbá teszi a világot... azzal, hogy szerez egy barátnőt. Sajnos kiderül, hogy ez nem is olyan könnyű, mint hinnénk.",
+  "backdropPath": "/einbto9qLXFx9QXxEHylaxDbKPx.jpg",
+  "posterPath": "/r2EChswmN039Yjozt3Vvq1uPgwY.jpg",
+  "releaseDate": "2013-09-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "07736a75-67cc-4bc3-9ab8-8ed4b207eebd",
+      "title": "Időről időre",
+      "subtitle": null,
+      "timestampString": "01:29:00",
+      "timestampInSeconds": 5340,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #43",
+        "youtubeId": "WupIquHhCt0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/WupIquHhCt0/hqdefault.jpg",
+        "durationInMinutes": 164,
+        "releaseDate": 1389645501000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ce57d06f-8f58-4117-b484-be67d771b4c5",
+      "title": "Időről időre",
+      "subtitle": null,
+      "timestampString": "02:21:11",
+      "timestampInSeconds": 8471,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #66",
+        "youtubeId": "E4v-47u65NI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E4v-47u65NI/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1422556505000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

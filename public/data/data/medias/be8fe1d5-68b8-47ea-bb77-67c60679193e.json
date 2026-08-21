@@ -1,0 +1,45 @@
+{
+  "id": "be8fe1d5-68b8-47ea-bb77-67c60679193e",
+  "title": "Az ördögűző: A hívő",
+  "originalTitle": "The Exorcist: Believer",
+  "overview": "Az 1973-as film folytatása, amely egy 12 éves kislányról szól, akit egy titokzatos démoni lény száll meg. Kétségbeesett anyja két pap segítségét kéri a lány megmentéséhez.",
+  "backdropPath": "/d7zDEW6AkRCvEOT2Cela4h0F3Nb.jpg",
+  "posterPath": "/2AVJCsc7FL6pLWkBfJrk9nz3Rji.jpg",
+  "releaseDate": "2023-10-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c23ec17c-8a31-42ea-a767-f299f8cf5012",
+      "title": "Az ördögűző: A hívő",
+      "subtitle": null,
+      "timestampString": "01:25:36",
+      "timestampInSeconds": 5136,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #265",
+        "youtubeId": "W7K_jzS7pPg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/W7K_jzS7pPg/hqdefault.jpg",
+        "durationInMinutes": 254,
+        "releaseDate": 1698781502000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

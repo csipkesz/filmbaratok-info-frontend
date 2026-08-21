@@ -1,0 +1,41 @@
+{
+  "id": "806f09e6-50fe-4ede-8cfe-5822a95c7425",
+  "title": "Silent Hill: Visszatérés",
+  "originalTitle": "Return to Silent Hill",
+  "overview": "James megtört, miután véget ért kapcsolata élete szerelmével, Maryvel. Egy rejtélyes levél a lánytól azonban visszahívja őt Silent Hillbe, ahol egy ismeretlen gonosz által átalakított, egykor felismerhető várost talál. Miközben James kétségbeesetten keresi Maryt, félelmetes lényekkel találkozik, és elkezdi megfejteni a várossal történt rejtélyt. Ám ahogy egyre mélyebbre ereszkedik a sötétségbe, a felfedezett titkok egy szörnyű igazsághoz vezetnek, és James azon kapja magát, hogy próbálja megmenteni egyetlen igaz szerelmét.",
+  "backdropPath": "/v0NEB75SZjxY8GS3ho8WeEvjIT3.jpg",
+  "posterPath": "/l2WQ7XWn3dDjwgpRQ0gS0gblutB.jpg",
+  "releaseDate": "2026-01-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2763ce5c-5a94-41b1-b9e4-8b811948c718",
+      "title": "Silent Hill: Visszatérés",
+      "subtitle": null,
+      "timestampString": "01:26:00",
+      "timestampInSeconds": 5160,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #321",
+        "youtubeId": "ASzT3k0iUdk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ASzT3k0iUdk/hqdefault.jpg",
+        "durationInMinutes": 176,
+        "releaseDate": 1772128964000,
+        "participants": [
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

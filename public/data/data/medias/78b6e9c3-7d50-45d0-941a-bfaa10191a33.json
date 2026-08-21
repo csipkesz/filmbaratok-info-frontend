@@ -1,0 +1,41 @@
+{
+  "id": "78b6e9c3-7d50-45d0-941a-bfaa10191a33",
+  "title": "A kívülálló (2008)",
+  "originalTitle": "Outlander",
+  "overview": "Messze a távolban, fénycsík lobban az éjszakában. Egy űrhajó ütközik a norvég fjordoknak, és a roncsok közül egy másik világ szülötte emelkedik ki, Kainan, a harcos. Ám nincs egyedül, az űrhajó potyautasa, a vérszomjas Moorwen már lesben áll, hogy megbosszulja Kainan hadseregének tetteit. Elvágva otthonától az idegen bolygón, mely évszázadokkal le van maradva saját civilizációjától, Kainan elindul, hogy elpusztítsa félelmetes ellenségét.",
+  "backdropPath": "/3b973tk8kA9tiY85ppxPxpXIrP3.jpg",
+  "posterPath": "/tGmhKw4J3PRVzj8qHBgrbVMN8SK.jpg",
+  "releaseDate": "2008-04-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f8d580ac-977d-4d93-b9bd-cc14999744d0",
+      "title": "A kívülálló (2008)",
+      "subtitle": null,
+      "timestampString": "01:55:00",
+      "timestampInSeconds": 6900,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #171",
+        "youtubeId": "3KzIveF4J8o",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3KzIveF4J8o/hqdefault.jpg",
+        "durationInMinutes": 195,
+        "releaseDate": 1562329911000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "e4d249a5-e251-44d9-8c10-8e2e3e9a6069",
+            "name": "Anna"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

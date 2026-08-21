@@ -1,0 +1,41 @@
+{
+  "id": "55ab2cde-cec3-4b5d-b13f-a57d60dce733",
+  "title": "Emilia Pérez",
+  "originalTitle": "Emilia Pérez",
+  "overview": "Mexikó, napjainkban. Rita, az ügyvédnő visszautasíthatatlan ajánlatot kap egy kartellfőnöktől, hogy segítsen neki visszavonulni az üzlettől és örökre eltűnni, hogy azzá a nővé váljon, akiről mindig is álmodott.",
+  "backdropPath": "/u2eA9pqi1q3DvevT7RuDuJHxxBT.jpg",
+  "posterPath": "/oTP2moPeA5AKR7rANqkh2SrUkGm.jpg",
+  "releaseDate": "2024-08-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b52218ff-bebb-45f2-9065-76fd214a3cdd",
+      "title": "Emilia Pérez",
+      "subtitle": null,
+      "timestampString": "00:33:45",
+      "timestampInSeconds": 2025,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #297",
+        "youtubeId": "3hKlobo8elk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3hKlobo8elk/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1740760443000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

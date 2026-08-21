@@ -1,0 +1,41 @@
+{
+  "id": "813d482f-5ee1-4b59-9633-ae0edb3cc458",
+  "title": "K-pop démonvadászok",
+  "originalTitle": "KPop Demon Hunters",
+  "overview": "Amikor Rumi, Mira és Zoey K-pop-szupersztárok koncertje nem telt házas, a titkos képességeiket használják, hogy megvédjék rajongóikat a természetfeletti fenyegetésektől.",
+  "backdropPath": "/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg",
+  "posterPath": "/57YDbHvzqR8zMqjbCzfwk99A9G.jpg",
+  "releaseDate": "2025-06-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5bfec4ef-785c-427e-a51a-eeed76bd39f6",
+      "title": "K-pop démonvadászok",
+      "subtitle": null,
+      "timestampString": "02:05:30",
+      "timestampInSeconds": 7530,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #308",
+        "youtubeId": "JX8Yhmv3ho0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JX8Yhmv3ho0/hqdefault.jpg",
+        "durationInMinutes": 210,
+        "releaseDate": 1755468901000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

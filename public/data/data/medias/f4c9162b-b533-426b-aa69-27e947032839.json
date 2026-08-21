@@ -1,0 +1,45 @@
+{
+  "id": "f4c9162b-b533-426b-aa69-27e947032839",
+  "title": "Obi-Wan Kenobi",
+  "originalTitle": "Obi-Wan Kenobi",
+  "overview": "A sorozat tíz évvel a Sithek bosszúja után játszódik, a Tatuinon, és bemutatja, hogy Obi-Wan hogyan él és védi a kis Luke Skywalkert, miközben egy rejtélyes sötét alak bukkan fel a Tatuin világában.",
+  "backdropPath": "/p3Jmm6d1ShUrJEuU3DYD2K19c66.jpg",
+  "posterPath": "/ri7NRiSKBTCvMCohnhJihilv2NM.jpg",
+  "releaseDate": "2022-05-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "25f78541-ddd7-40b7-abf7-d639819c10ca",
+      "title": "Obi-Wan Kenobi",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Obi-Wan Kenobi",
+        "youtubeId": "vdMusAj0TAk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/vdMusAj0TAk/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1656849628000,
+        "participants": [
+          {
+            "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
+            "name": "Shirin"
+          },
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

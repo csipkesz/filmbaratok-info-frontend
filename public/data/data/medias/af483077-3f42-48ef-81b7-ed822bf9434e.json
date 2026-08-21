@@ -1,0 +1,45 @@
+{
+  "id": "af483077-3f42-48ef-81b7-ed822bf9434e",
+  "title": "Mielőtt felkel a nap",
+  "originalTitle": "Before Sunrise",
+  "overview": "Jesse, az amerikai srác, és Celine, a francia végzős diáklány a Budapestről Bécsbe tartó vonaton ismerkednek össze. A két fiatal kellemesen elbeszélget az út során, melynek következtében a fiú arra kéri a lányt, tartson vele a bécsi éjszakában. Celine belemegy a dologba és a két fiatal együtt tölti azt a néhány órát, amely a reggelig még hátravan. Kapcsolatuk végül elsöprő szerelemben teljesedik ki, csakhogy napkeltekor el kell válniuk.",
+  "backdropPath": "/qA2TyqPldTtoTVY3LKrNIG5g6bH.jpg",
+  "posterPath": "/zSXZ4PgLbUV2GkJo7Pi80ysQTzJ.jpg",
+  "releaseDate": "1995-01-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9d4554b6-be80-429d-b8be-c94291ad57f2",
+      "title": "Mielőtt felkel a nap",
+      "subtitle": null,
+      "timestampString": "00:49:39",
+      "timestampInSeconds": 2979,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #32",
+        "youtubeId": "6P4PZX3FJGA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/6P4PZX3FJGA/hqdefault.jpg",
+        "durationInMinutes": 125,
+        "releaseDate": 1373643280000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "9b263271-f6ef-4999-8c9f-ab719cb8a9c2",
+            "name": "DreamerInstinct"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

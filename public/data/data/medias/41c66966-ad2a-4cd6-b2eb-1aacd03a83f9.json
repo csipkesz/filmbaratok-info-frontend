@@ -1,0 +1,45 @@
+{
+  "id": "41c66966-ad2a-4cd6-b2eb-1aacd03a83f9",
+  "title": "Alien (Nyolcadik utas: A halál)",
+  "originalTitle": "Alien",
+  "overview": "A Nostromo űrhajó a hazatérés helyett a képernyőn villogó pont nyomába ered. Váratlan küldetésük egy kihalt bolygóra vezeti őket, ahol egy elhagyott űrhajót találnak, belsejében számtalan, tojás alakú kapszulával. Miközben óvatosan próbálják feltárni az űrsikló titkát, az egyik tojásból hirtelen kirobban egy lény és rátapad Kane arcára, aki teljesen megbénul. Miután Kane visszanyeri az eszméletét és csatlakozik a többiekhez, megdöbbentő dolog történik. Kane testéből egy szörny kel ki, amely sorra végez az űrhajósokkal. Ripley azonban nem törődik bele a halálba.",
+  "backdropPath": "/AmR3JG1VQVxU8TfAvljUhfSFUOx.jpg",
+  "posterPath": "/5th8wPsPgRFA9lrLyqWYZmHAbCr.jpg",
+  "releaseDate": "1979-05-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e1f9f956-7a43-49d6-bfa4-bee585bd9d6e",
+      "title": "Alien (Nyolcadik utas: A halál)",
+      "subtitle": null,
+      "timestampString": "02:26:30",
+      "timestampInSeconds": 8790,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #57",
+        "youtubeId": "NItQ0G4BTsQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/NItQ0G4BTsQ/hqdefault.jpg",
+        "durationInMinutes": 177,
+        "releaseDate": 1410890684000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

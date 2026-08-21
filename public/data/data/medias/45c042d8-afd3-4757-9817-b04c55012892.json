@@ -1,0 +1,41 @@
+{
+  "id": "45c042d8-afd3-4757-9817-b04c55012892",
+  "title": "A védelmező 3",
+  "originalTitle": "The Equalizer 3",
+  "overview": "Egy megállíthatatlan, legyőzhetetlen, az erőszak minden formájában otthonosan mozgó profi: Robert McCall (Denzel Washington). Már régóta nem a kormánynak dolgozik. A nyugdíjasok csendes életét éli, de folyamatosan gyötri a lelkiismeret-furdalás. Utólag úgy látja, hogy szörnyű dolgokat csinált, mert azt hitte, hogy a jó ügyet szolgálja. Csak egy módot talált rá, hogy enyhítse a gyötrő bűntudatot: megvédi az ártatlanokat. Bárkitől. Bármi áron. Megvannak hozzá a módszerei. Dél-Olaszországba költözött és a helybeliek szeretettel fogadják - ő úgy érzi, végre hazaérkezett. De itt sincs béke: a kisváros, ami idilli lehetne, maga a pokol - a maffia fojtogatja. A védelmező itt érti meg, hogy számára nincs kiút: újra harcba kell szállnia azokért, akik gyengék, kiszolgáltatottak, ártatlanok. Egyedül van a maffiával szemben és ő az ilyen helyzetekben érzi igazán otthon magát.",
+  "backdropPath": "/gystuaqp5AkVqqu3Nf0564zeOv4.jpg",
+  "posterPath": "/jGmcYoKnXN1F6tzde3wgyd83AQ5.jpg",
+  "releaseDate": "2023-08-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5e708fe2-c977-40f1-b873-ddc0b24ace5b",
+      "title": "A védelmező 3",
+      "subtitle": null,
+      "timestampString": "01:19:23",
+      "timestampInSeconds": 4763,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #262",
+        "youtubeId": "vHivX-OmQEI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/vHivX-OmQEI/hqdefault.jpg",
+        "durationInMinutes": 199,
+        "releaseDate": 1695357459000,
+        "participants": [
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

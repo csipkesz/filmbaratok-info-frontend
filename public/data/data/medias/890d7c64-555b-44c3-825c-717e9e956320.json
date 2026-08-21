@@ -1,0 +1,41 @@
+{
+  "id": "890d7c64-555b-44c3-825c-717e9e956320",
+  "title": "Végső visszaszámlálás",
+  "originalTitle": "The Final Countdown",
+  "overview": "A USS Nimitz atommeghajtású repülőhordozó nem csupán az amerikai hadiflotta gyöngyszeme, de minden idők egyik legnagyobb és legütőképesebb csatahajója is, amelyik hirtelen megmagyarázhatatlan elektromos viharba kerül. A furcsa természeti jelenség elmúltával a hajó mintha teljesen más vizekre, egy ismeretlen világba csöppenne, melyben megszűnt a megszokott rádiós zűrzavar és furcsa, régi típusú, ellenséges gépek szelik az eget. A kapitánynak és legénységének el kell fogadnia a lehetetlennek tűnőt: a Nimitz hatezer fős legénységével és százkét repülőjével a vihar hatására csaknem négy évtizedet utazott vissza az időben: mégpedig pontosan 1941. december 6-ára, a japánok Pearl Harbor ellen intézett meglepetésszerű, megsemmisítő támadásának előestéjére. Vajon a mai idők csúcstechnikával felszerelt katonái csak távolról szemlélik majd a véres eseményeket vagy - akár a történelem menetének megváltoztatásával is - jó hazafiakhoz méltón felveszik a küzdelmet a kamikaze gépekkel?",
+  "backdropPath": "/5mO6N0SOlPQmoGYGjzOZfuX4Nmm.jpg",
+  "posterPath": "/aU7TzLSdNidS9CDovIsYBVXIOxQ.jpg",
+  "releaseDate": "1980-01-31T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "cca7be64-f438-4174-8245-0da754de9541",
+      "title": "Végső visszaszámlálás",
+      "subtitle": null,
+      "timestampString": "02:45:55",
+      "timestampInSeconds": 9955,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #186",
+        "youtubeId": "LvzEUgrbuec",
+        "thumbnailUrl": "https://i.ytimg.com/vi/LvzEUgrbuec/hqdefault.jpg",
+        "durationInMinutes": 214,
+        "releaseDate": 1584373994000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

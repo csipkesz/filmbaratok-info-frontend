@@ -1,0 +1,45 @@
+{
+  "id": "07f43416-083b-4977-aa93-83b82176fa38",
+  "title": "Rossz anyák",
+  "originalTitle": "Bad Moms",
+  "overview": "Anyának lenni nem könnyű feladat. Amynek látszólag tökéletes az élete, csodás otthonában éldegél a férjével, két eminens gyerekével, gyönyörűen néz ki, és a munkahelyén is folyamatosan helyt áll. De egy nap eljön az a pillanat, amikor besokall a napi rutintól, a ráháruló feladatoktól és a szülői munkaközösségben tevékenykedő, túlbuzgó anyáktól. Két hasonlóan túlstresszelt anyatársával úgy döntenek, kimenőt adnak maguknak, és vad tivornyázásba kezdenek. Csak egy dolog számít: hogy jól érezzék magukat. Visszatér a régi koleszos csajbulik ideje nagy ivászatokkal, kalóriadús kajálásokkal, hajnalig tartó dumálásokkal. Az iskola makulátlan szülői azonban görbe szemmel nézik a lázadást, és keresztes hadjáratot hirdetnek \"felelőtlen\" társaik ellen - ám a szabadelvű anyatriót nem kell félteni.",
+  "backdropPath": "/zci26eN6YKEg9gPLUp3wB5eqcEx.jpg",
+  "posterPath": "/2B97DUcgXMxqFc499c759742NME.jpg",
+  "releaseDate": "2016-07-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4fce022d-681d-4984-a78f-fd06dcb09c8d",
+      "title": "Rossz anyák",
+      "subtitle": null,
+      "timestampString": "02:35:42",
+      "timestampInSeconds": 9342,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #105",
+        "youtubeId": "73Hk03Cs0mQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/73Hk03Cs0mQ/hqdefault.jpg",
+        "durationInMinutes": 214,
+        "releaseDate": 1471773217000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

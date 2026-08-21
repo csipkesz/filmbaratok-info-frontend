@@ -1,0 +1,45 @@
+{
+  "id": "325df694-efea-48e3-be7e-fdb8720b7980",
+  "title": "Teljes titoktartás",
+  "originalTitle": "Les Traducteurs",
+  "overview": "Kilenc műfordító gyűlik össze egy vidéki kúrián. Egy páncélozott teremben íróasztalhoz ülnek, hogy a legnagyobb titoktartás mellett lefordítsák egy világrengető sikerkönyv utolsó kötetét. De úgy tűnik, hiába minden óvintézkedés: a regény első tíz oldala egyszer csak feltűnik az interneten, és egy ismeretlen zsaroló elképesztő összeget követel, hogy ne hozza idő előtt nyilvánosságra a folytatást. A helyzet egyre feszültebb, mindenki gyanús: ki szivárogtathatta ki a szöveget?",
+  "backdropPath": "/Hu6797iHrAizNSzWxvd8z7CgTR.jpg",
+  "posterPath": "/4vBZlI7y8FiABscQkSLBRuskR7i.jpg",
+  "releaseDate": "2019-12-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "24a2207f-975b-4077-8f55-6d248fd504a9",
+      "title": "Teljes titoktartás",
+      "subtitle": null,
+      "timestampString": "02:30:25",
+      "timestampInSeconds": 9025,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #305",
+        "youtubeId": "lzDte9B9xGc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/lzDte9B9xGc/hqdefault.jpg",
+        "durationInMinutes": 222,
+        "releaseDate": 1750949472000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "30a3ee5e-1e62-420e-833e-d05e99b21459",
+            "name": "Ódor Kristóf"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

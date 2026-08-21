@@ -1,0 +1,45 @@
+{
+  "id": "bf5a93b9-a16d-474c-8120-a81fe4f3a1e3",
+  "title": "Backrooms – Hátsó szobák",
+  "originalTitle": "Backrooms",
+  "overview": "A kilencvenes évek elején Clark, egy kiégett építészből lett bútoráruház-tulajdonos különös átjárót fedez fel üzlete pincéjében. Az ajtó egy végtelennek tűnő, fluoreszkáló fényekkel megvilágított labirintusba vezet, ahol a valóság törvényei fokozatosan felbomlanak. A nyomasztó folyosók és üres irodaszerű terek között bolyongva Clark megszállottjává válik a helynek, miközben saját múltja és pszichéje is darabokra hullik. Terapeutája, Dr. Mary Kline eleinte mentális összeomlásnak hiszi a férfi történeteit, ám amikor Clark nyomtalanul eltűnik, kénytelen maga is belépni a rejtélyes dimenzióba. A nő egy olyan világban találja magát, ahol az idő, az emlékek és az identitás összemosódnak, és ahol valami ismeretlen figyeli minden lépését.",
+  "backdropPath": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+  "posterPath": "/k7jSZKFTeLVHsWoYN14e204dUhM.jpg",
+  "releaseDate": "2026-05-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "de010b8d-457e-4be3-a5ef-7ed6fbb37069",
+      "title": "Backrooms – Hátsó szobák",
+      "subtitle": null,
+      "timestampString": "02:06:00",
+      "timestampInSeconds": 7560,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #328",
+        "youtubeId": "f89B62DScOs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/f89B62DScOs/hqdefault.jpg",
+        "durationInMinutes": 253,
+        "releaseDate": 1781722805000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

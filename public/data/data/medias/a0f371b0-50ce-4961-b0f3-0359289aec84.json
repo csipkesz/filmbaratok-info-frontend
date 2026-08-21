@@ -1,0 +1,41 @@
+{
+  "id": "a0f371b0-50ce-4961-b0f3-0359289aec84",
+  "title": "The Square",
+  "originalTitle": "The Square",
+  "overview": "A sikeres múzeumigazgató, Christian tökéletes életének gépezetébe egyszer csak porszem kerül: egy ügyesen kitervelt átverés révén fényes nappal zsebelik ki a múzeum előtti forgalmas téren. Christian nem hagyja annyiban a dolgot, és bosszúhadjáratra indul a feltételezett tolvajok ellen. Közben egy erőszakos amerikai újságírónővel is bonyolult viszonyba kezd. Komikus, majd egyre abszurdabb és kínosabb helyzetek során kezd szétfoszlani látszólagos magabiztossága és irigylésre méltó élete.",
+  "backdropPath": "/bYZM4DoHrmzY3oq2qrcXAYQmLNp.jpg",
+  "posterPath": "/1HmQlj16E6NPtTupdJLuUXD2CyG.jpg",
+  "releaseDate": "2017-08-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "356e017c-91a5-47f5-9158-699615ff35f4",
+      "title": "The Square",
+      "subtitle": null,
+      "timestampString": "01:57:27",
+      "timestampInSeconds": 7047,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #45",
+        "youtubeId": "9hNSnIZK61I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9hNSnIZK61I/hqdefault.jpg",
+        "durationInMinutes": 145,
+        "releaseDate": 1392563971000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

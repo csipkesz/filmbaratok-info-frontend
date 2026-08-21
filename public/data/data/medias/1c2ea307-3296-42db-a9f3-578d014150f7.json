@@ -1,0 +1,41 @@
+{
+  "id": "1c2ea307-3296-42db-a9f3-578d014150f7",
+  "title": "A porszörny",
+  "originalTitle": "Dust Bunny",
+  "overview": "A tízéves Aurora mellett egy titokzatos férfi él, aki valódi szörnyekre vadászik - hivatásos gyilkos. Amikor a kislánynak szüksége lesz valakire, aki megszabadítja őt a családját elpusztító szörnytől, a férfi segítségét kéri. A vadász azonban úgy sejti, hogy Aurora szüleit valójában azok a bérgyilkosok ölték meg, akik eredetileg őt akarták eltenni láb alól, ezért lelkiismereti okokból elfogadja a megbízást. Hogy megóvja Aurorát, egész sereg merénylővel kell szembenéznie és közben rá kell döbbennie, hogy némelyik szörny igenis létezik.",
+  "backdropPath": "/AecGG1XVCmkk7fT10ko3FC0dLIP.jpg",
+  "posterPath": "/pPQqNBIqr6dV3D1oRmwOmISh7g2.jpg",
+  "releaseDate": "2025-12-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a95adc36-9184-42c6-8fac-fe6edc86a4d2",
+      "title": "A porszörny",
+      "subtitle": null,
+      "timestampString": "01:28:02",
+      "timestampInSeconds": 5282,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #318",
+        "youtubeId": "97jsp1z7nD4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/97jsp1z7nD4/hqdefault.jpg",
+        "durationInMinutes": 190,
+        "releaseDate": 1768489534000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

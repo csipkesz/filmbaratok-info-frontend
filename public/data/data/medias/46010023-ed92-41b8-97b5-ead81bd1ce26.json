@@ -1,0 +1,41 @@
+{
+  "id": "46010023-ed92-41b8-97b5-ead81bd1ce26",
+  "title": "Novokain",
+  "originalTitle": "Novocaine",
+  "overview": "Amikor álmai nőjét elrabolják, a teljesen átlagos Nate azt az adottságát, hogy nem érez fájdalmat, váratlan szupererővé változtatja, hogy visszaszerezze a lányt.",
+  "backdropPath": "/lyBH2mFFU6qrHwD5QKotL2JnEb6.jpg",
+  "posterPath": "/rL983BHneFLqvimvuQX1soOCSKZ.jpg",
+  "releaseDate": "2025-03-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7a221fdf-2457-47aa-bc7c-d6dba344b8bf",
+      "title": "Novokain",
+      "subtitle": null,
+      "timestampString": "01:15:50",
+      "timestampInSeconds": 4550,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #302",
+        "youtubeId": "3K4xdZiHI_w",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3K4xdZiHI_w/hqdefault.jpg",
+        "durationInMinutes": 235,
+        "releaseDate": 1747414746000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

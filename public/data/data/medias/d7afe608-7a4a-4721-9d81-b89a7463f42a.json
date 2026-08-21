@@ -1,0 +1,45 @@
+{
+  "id": "d7afe608-7a4a-4721-9d81-b89a7463f42a",
+  "title": "A felbujtók [The instigators]",
+  "originalTitle": "The Instigators",
+  "overview": "Rory és Cobby nem mindennapi páros: egy kétségbeesett apa és egy volt fegyenc, akiket egy rablás sodor egymás mellé. Amikor az akció balul sül el, különös társukkal – Rory terapeutájával – összefogva menekülnek a rendőrség, a maradi bürokraták és egy bosszúszomjas gengszter elől.",
+  "backdropPath": "/aA5B2OsN6rccwnhn8TEG4m4V3jI.jpg",
+  "posterPath": "/rve6G8SfgJOIRY8DqMTasSXsd0j.jpg",
+  "releaseDate": "2024-08-02T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b6266677-f7cf-4d97-89a1-96292c99cfdd",
+      "title": "A felbujtók [The instigators]",
+      "subtitle": null,
+      "timestampString": "01:41:00",
+      "timestampInSeconds": 6060,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #284",
+        "youtubeId": "dLG-a7fBRaY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/dLG-a7fBRaY/hqdefault.jpg",
+        "durationInMinutes": 239,
+        "releaseDate": 1723568433000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

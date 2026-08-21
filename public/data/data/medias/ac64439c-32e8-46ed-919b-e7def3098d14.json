@@ -1,0 +1,41 @@
+{
+  "id": "ac64439c-32e8-46ed-919b-e7def3098d14",
+  "title": "Sötét vizeken",
+  "originalTitle": "Dark Waters",
+  "overview": "Robert Bilott céges jogász, aki nagyvállalatokat véd nagy hatékonysággal. Egy nap felkeresi egy farmer, akit imádott nagyanyja küldött hozzá, hogy segítsen neki. Bilott hamarosan rájön, hogy a DuPont vegyi vállalat évek óta mérgezi egy kisváros ivóvizét, amitől többszáz állat pusztult el és a helyi lakosokat is mérgezi. Az ügyvéd kilátástalannak tűnő küzdelembe kezd a kisemberek védelmében a hatalmas nagyvállalat ellen. A világ egyik legnagyobb vegyi gyára ellen vívott jogi küzdelem tétje, hogy a számos rejtélyes megbetegedés és haláleset, valamint az évtizedeken át tartó ivóvíz-szennyezés ténye napvilágra kerüljön. Az ügyvéd az igazság kiderítése érdekében kockára tesz mindent, a karrierjét, a családja és a saját biztonságát is.",
+  "backdropPath": "/jRqHItD7rORpbB0lx2ke8StSntb.jpg",
+  "posterPath": "/ymxACmQjTOcxQebH6UXzd1x3pUT.jpg",
+  "releaseDate": "2019-11-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e0a5f928-006e-4f6a-8801-f02cbfc5383b",
+      "title": "Sötét vizeken",
+      "subtitle": null,
+      "timestampString": "00:38:10",
+      "timestampInSeconds": 2290,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #186",
+        "youtubeId": "LvzEUgrbuec",
+        "thumbnailUrl": "https://i.ytimg.com/vi/LvzEUgrbuec/hqdefault.jpg",
+        "durationInMinutes": 214,
+        "releaseDate": 1584373994000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "46aab050-0d7b-44a0-bf0c-495fb7c0789b",
+  "title": "A tizedes meg a többiek",
+  "originalTitle": "A tizedes meg a többiek",
+  "overview": "A II. világháború utolsó heteiben Molnár tizedes a zászlóalj gránátokba rejtett zsoldjával a maga részéről befejezettnek nyilvánítja a háborút. Egy, a pikírt inasra, Albertra bízott kastélyban talál menedéket, ahol már több sorstársa bujkál. Itt átveszi a parancsnokságot és kiosztja a feladatokat mindenkinek, a különféle lehetőségeket számba véve. Ha kell, honvédek és átveszik a nyilasok által elfogott Szíjjártó munkaszolgálatost, ha kell szovjet katonát mentenek meg. Életveszélyes kalandok, bámulatos helyzetek, hiába kerülik a németeket és a szovjeteket is.",
+  "backdropPath": "/3vjLwvGF0Mp8GkqFdQOZJBpHMmE.jpg",
+  "posterPath": "/7A7RWHC6ggtKtEpbKfa8E1UI253.jpg",
+  "releaseDate": "1965-09-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "45e2db3c-9e25-4e4c-9597-3d2a31f12dc5",
+      "title": "A tizedes meg a többiek",
+      "subtitle": null,
+      "timestampString": "01:11:30",
+      "timestampInSeconds": 4290,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #287",
+        "youtubeId": "t0z5SbpHLjU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/t0z5SbpHLjU/hqdefault.jpg",
+        "durationInMinutes": 151,
+        "releaseDate": 1727611956000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "a3c72cdd-00e6-444a-96df-f3159bb31435",
+  "title": "Kék bogár",
+  "originalTitle": "Blue Beetle",
+  "overview": "Az egyetem elvégzése után Jaime Reyes jövője iránti vágyakkal telve tér haza, de rájön, hogy az már nem egészen olyan, mint ahogy elhagyta. Miközben keresi a célját a világban, a sors közbeszól, amikor Jaime váratlanul az idegen biotechnológia egy ősi ereklyéjének birtokában találja magát.",
+  "backdropPath": "/bVyFGnX8kt0XtJXdx2F1HyOkIic.jpg",
+  "posterPath": "/mmNmnc022XlJzybgrXNeHzOwXH4.jpg",
+  "releaseDate": "2023-08-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8a85a08b-f79f-4dfb-ace6-9bd1088b1baf",
+      "title": "Kék bogár",
+      "subtitle": null,
+      "timestampString": "01:29:15",
+      "timestampInSeconds": 5355,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #261",
+        "youtubeId": "riCSpLjExWo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/riCSpLjExWo/hqdefault.jpg",
+        "durationInMinutes": 207,
+        "releaseDate": 1693369891000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

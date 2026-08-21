@@ -1,0 +1,28 @@
+{
+  "id": "ee22216a-a381-41af-a588-5ea4d3b12d97",
+  "title": "Jackass Forever",
+  "originalTitle": "Jackass Forever",
+  "overview": "Közel 10 év után Johnny Knoxville és csapata visszatért, hogy még őrültebb mutatványokat hajtsanak végre. Ezt senki se csinálja utánuk!",
+  "backdropPath": "/f2J8DpT5bqV0AiI9VVcfiuqKo5l.jpg",
+  "posterPath": "/ozJSmbCiz6N7begttL0CnxuaYSf.jpg",
+  "releaseDate": "2022-02-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e348823c-3053-4f63-8e02-78420a1ebbd0",
+      "title": "Jackass Forever",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "AUDIO_COMMENTARY",
+        "title": "Filmbarátok Audiokommentár: Jackass Forever",
+        "youtubeId": "hFxyK_8PzvI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/hFxyK_8PzvI/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1649312915000,
+        "participants": []
+      }
+    }
+  ]
+}

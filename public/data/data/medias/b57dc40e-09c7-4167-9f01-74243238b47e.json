@@ -1,0 +1,53 @@
+{
+  "id": "b57dc40e-09c7-4167-9f01-74243238b47e",
+  "title": "Suburra",
+  "originalTitle": "Suburra",
+  "overview": "A Szamuráj névre hallgató gengszter nagyszabású terven töri a fejét. Afféle Las Vegast akar csinálni az olasz főváros, Róma kikötővárosa, a tengerparti Ostia közelében. Mögötte áll a korrupt politikus, aki rajong a fiatal prostituáltakért és a kokainért, ráadásul a helyi bíboros védelmét is élvezi. A helyi maffiafőnököknek is tetszik az ötlet, és hamarosan megállapodnak a közös célban. A béke azonban nem tart sokáig, és a vad és véres bandaháború maga alá temeti Szamuráj álmát.(Port.hu)",
+  "backdropPath": "/fGjqCsoJttbTxkrcWfupuT1xLQx.jpg",
+  "posterPath": "/cwjmR9pAKr019jYc58RXaV2BBGZ.jpg",
+  "releaseDate": "2015-10-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9abb07f1-847d-44f8-8313-ee10e4d1081a",
+      "title": "Suburra",
+      "subtitle": null,
+      "timestampString": "01:45:16",
+      "timestampInSeconds": 6316,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #145",
+        "youtubeId": "oIN5otdDLXA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/oIN5otdDLXA/hqdefault.jpg",
+        "durationInMinutes": 299,
+        "releaseDate": 1528994767000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "15a53a44-af10-4843-b447-7f9fbb845f56",
+            "name": "Szöllőskei Gábor"
+          },
+          {
+            "id": "49631462-9312-40cd-a32d-6be1952c0ea5",
+            "name": "Gábor (Videodrome)"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

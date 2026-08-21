@@ -1,0 +1,45 @@
+{
+  "id": "a54aac96-2e95-45b0-9fde-bcb2d1f4d1da",
+  "title": "Sírok között",
+  "originalTitle": "A Walk Among the Tombstones",
+  "overview": "A New York-i ex-zsaru, Matt Scuddert nem hivatalos magánnyomozóként a törvény árnyékos oldalán tesz szívességeket némi készpénzért cserébe. Amikor Scudder elvállalja, hogy segít egy heroin dílernek elkapni pár tagot, akik elrabolták és brutálisan meggyilkolták a feleségét, szembesül vele, hogy ezek a vadállatok nem először tettek ilyet és úgy tűnik, nem is utoljára. A jó és rossz közötti határvonal teljesen elmosódik, és Scudder versenyt fut az idővel, hogy nyomukra akadjon New York peremvidékén, mielőtt újra gyilkolnak.",
+  "backdropPath": "/k23FPWl97XKpJ1oTaDyADzxWxs6.jpg",
+  "posterPath": "/3sKBRmns250Vdu0c4fyG6TxYqG6.jpg",
+  "releaseDate": "2014-09-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1e4a4043-4619-49fb-aa5c-2e049f56da18",
+      "title": "Sírok között",
+      "subtitle": null,
+      "timestampString": "00:33:47",
+      "timestampInSeconds": 2027,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #61",
+        "youtubeId": "lu3n5Wpq2k0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/lu3n5Wpq2k0/hqdefault.jpg",
+        "durationInMinutes": 185,
+        "releaseDate": 1415901482000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

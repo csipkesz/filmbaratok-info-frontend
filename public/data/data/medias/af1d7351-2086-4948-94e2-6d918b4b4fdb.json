@@ -1,0 +1,41 @@
+{
+  "id": "af1d7351-2086-4948-94e2-6d918b4b4fdb",
+  "title": "Lelki ismeretek",
+  "originalTitle": "Soul",
+  "overview": "Joe Gardner középiskolai tanár, aki szereti a jazz zenét. Egy balesetben a lelke elszakad a testétől és egy olyan központba kerül, ahol a lelkek fejlődnek és szenvedélyeket szereznek, mielőtt újjászületnek. Joe-nak segítséget kell szereznie a többi képzésben részt vevő lélektől, például 22-től, egy lélektől, aki örök időket töltött a Te szemináriumon, hogy visszatérjen a Földre.",
+  "backdropPath": "/rQaHA74pevnGsxcKGaoZVGWe9TC.jpg",
+  "posterPath": "/njC2dOFSkWRuZrnV3gDhP6ShIaa.jpg",
+  "releaseDate": "2020-12-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "534ed587-c963-4138-b428-5a2e8766218b",
+      "title": "Lelki ismeretek",
+      "subtitle": null,
+      "timestampString": "01:07:50",
+      "timestampInSeconds": 4070,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #213",
+        "youtubeId": "JtzuuNOeIxc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JtzuuNOeIxc/hqdefault.jpg",
+        "durationInMinutes": 200,
+        "releaseDate": 1624372656000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

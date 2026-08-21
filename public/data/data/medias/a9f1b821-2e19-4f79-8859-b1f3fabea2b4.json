@@ -1,0 +1,41 @@
+{
+  "id": "a9f1b821-2e19-4f79-8859-b1f3fabea2b4",
+  "title": "Street dreams",
+  "originalTitle": "Street Dreams",
+  "overview": "",
+  "backdropPath": "/qxUxCMfN64oew35HHpF2Axdlco2.jpg",
+  "posterPath": "/lu7BaXyDvZgAV2c7uWRo49Xk5bU.jpg",
+  "releaseDate": "2009-06-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a3902e0d-9e8a-4b8e-a650-d7a03d50dfb0",
+      "title": "Street dreams",
+      "subtitle": null,
+      "timestampString": "02:24:15",
+      "timestampInSeconds": 8655,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #155",
+        "youtubeId": "Htjp4x7Tcgg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Htjp4x7Tcgg/hqdefault.jpg",
+        "durationInMinutes": 165,
+        "releaseDate": 1542194035000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "e4d249a5-e251-44d9-8c10-8e2e3e9a6069",
+            "name": "Anna"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

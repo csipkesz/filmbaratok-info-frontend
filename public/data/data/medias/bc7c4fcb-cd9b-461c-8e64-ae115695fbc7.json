@@ -1,0 +1,41 @@
+{
+  "id": "bc7c4fcb-cd9b-461c-8e64-ae115695fbc7",
+  "title": "A silent voice",
+  "originalTitle": "A Silent Voice",
+  "overview": "",
+  "backdropPath": null,
+  "posterPath": "/lGkOCvdX4WjQageVgWVL9mgPNfd.jpg",
+  "releaseDate": "2017-01-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "78cda993-ac17-43cb-9aa1-6aa814d7b37d",
+      "title": "A silent voice",
+      "subtitle": null,
+      "timestampString": "03:01:10",
+      "timestampInSeconds": 10870,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #314",
+        "youtubeId": "tV5E0wGOsV8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tV5E0wGOsV8/hqdefault.jpg",
+        "durationInMinutes": 217,
+        "releaseDate": 1763147106000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

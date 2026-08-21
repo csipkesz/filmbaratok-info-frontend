@@ -1,0 +1,41 @@
+{
+  "id": "5920134c-af8c-439f-adbc-60dc8887b823",
+  "title": "Polgárháború",
+  "originalTitle": "Civil War",
+  "overview": "A közeljövőben, a polgárháború által feldúlt Egyesült Államokban, háborús újságírók egy csoportja próbál túlélni miközben beszámol az igazságról.",
+  "backdropPath": "/t2SXZ7KLriaLyf5QT8Iar6fSOGp.jpg",
+  "posterPath": "/oCzzgAJcl52ntF0RZrW6hvPk93d.jpg",
+  "releaseDate": "2024-04-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ab7c9b53-d806-4081-81cb-6d16269b239b",
+      "title": "Polgárháború",
+      "subtitle": null,
+      "timestampString": "01:50:30",
+      "timestampInSeconds": 6630,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #277",
+        "youtubeId": "VVHLdlqq_xY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VVHLdlqq_xY/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1714501831000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

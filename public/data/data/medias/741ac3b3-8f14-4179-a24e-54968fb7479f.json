@@ -1,0 +1,41 @@
+{
+  "id": "741ac3b3-8f14-4179-a24e-54968fb7479f",
+  "title": "A zongorahangoló",
+  "originalTitle": "Tuner",
+  "overview": "Egy tehetséges zongorahangolóról kiderül, hogy egyedülállóan pontos hangolási tehetsége a legbiztonságosabbnak vélt széfek feltörésére is képessé teszi. Niki, hogy ki tudja fizetni barátja, és mentora, Harry kórházi költségeit, kénytelen is használni ezen képességét, és csatlakozik egy betörő bandához. Hamar rájön azonban, hogy csapdába esett, és nem szállhat ki, mert különben szerelme, Ruthie életét kockáztatja.",
+  "backdropPath": "/sT5Inhc0aaReSZoufWgfJTQUbKp.jpg",
+  "posterPath": "/qHAgrKdslbNQHd0el3ewvIZPMqK.jpg",
+  "releaseDate": "2026-05-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1a615926-4343-4691-bd63-651ff6e117e6",
+      "title": "A zongorahangoló",
+      "subtitle": null,
+      "timestampString": "02:05:55",
+      "timestampInSeconds": 7555,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #330",
+        "youtubeId": "AgwfP4V1UCo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/AgwfP4V1UCo/hqdefault.jpg",
+        "durationInMinutes": 207,
+        "releaseDate": 1784150438000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3297f5f6-c29d-449d-8948-34d1218b574e",
+  "title": "Árnykép (Shutter)",
+  "originalTitle": "Shutter",
+  "overview": "Egy ígéretes állásajánlatot követően Japánba költözik a fotós Ben a feleségével, Jane-nel. A fiatal pár divatfotózásra indul, amikor egy erdei úton autóbaleset részesei lesznek, amelyben meghal egy helybéli lány. Később azonban, amikor visszatérnek a helyszínre, már nyoma sincs a holttestnek. Miután Ben előhívatja a képeket, elmosódott árnyalakot vesz észre rajtuk. Ettől kezdve a fotóin újra és újra felbukkan a titokzatos árny, mintegy előre jelezve valamilyen szörnyű esemény bekövetkezését. Ben és Jane szerint az elütött lány szelleme kísérti őket. Addig nem nyughat, amíg nem találják meg a holttestet.",
+  "backdropPath": "/icPIdA81Au1TEmgF9rXiW6LdH3e.jpg",
+  "posterPath": "/pt2EBhAFy3P6jI1vBQInpro16eG.jpg",
+  "releaseDate": "2008-03-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ca6bb9e9-0a32-4900-895f-d37c7b38c6fd",
+      "title": "Árnykép (Shutter)",
+      "subtitle": null,
+      "timestampString": "00:56:15",
+      "timestampInSeconds": 3375,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #35",
+        "youtubeId": "iZP3HzNbpJk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/iZP3HzNbpJk/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1378351959000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ce30cd61-008f-43d8-a297-8a200ad71b42",
+  "title": "Nicht nachmachen!",
+  "originalTitle": "Nicht nachmachen!",
+  "overview": "",
+  "backdropPath": "/oB8B7O5bV4DKET6sFRGPRlWn28F.jpg",
+  "posterPath": "/of2bzTAeMI1LbT0hcNGS2BMr87D.jpg",
+  "releaseDate": "2012-06-29T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fb77aae9-2466-4247-940c-a4334630a44c",
+      "title": "Nicht nachmachen (Német áltudományos műsor)",
+      "subtitle": null,
+      "timestampString": "01:57:06",
+      "timestampInSeconds": 7026,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #35",
+        "youtubeId": "iZP3HzNbpJk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/iZP3HzNbpJk/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1378351959000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

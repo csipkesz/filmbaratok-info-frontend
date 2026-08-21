@@ -1,0 +1,41 @@
+{
+  "id": "5fe6e595-b852-49fe-890f-b421c7ccc5d8",
+  "title": "Páncélba zárt szellem [2017]",
+  "originalTitle": "Ghost in the Shell",
+  "overview": "Az Őrnagy, a különleges erőknél szolgáló egyedi humán-kiborg hibrid, a 9-es Részleg nevű kommandós osztag vezetője. A legveszélyesebb bűnözők és szélsőségesek kiiktatására szakosodott 9-es Részleg egy olyan ellenséggel kerül szembe, amelynek egyetlen célja, hogy elpusztítsa a HankaRobotika kibertechnológia fejlesztéseit.",
+  "backdropPath": "/dDVqfmCzSy3TKSmiS2pJ9QB5E3P.jpg",
+  "posterPath": "/klReswxT7uKjaDxrx2VOV75CMJh.jpg",
+  "releaseDate": "2017-03-29T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "101a6818-f453-4bfe-8d87-5617884c2d63",
+      "title": "Páncélba zárt szellem [2017]",
+      "subtitle": null,
+      "timestampString": "00:25:30",
+      "timestampInSeconds": 1530,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #120",
+        "youtubeId": "-3teFOfAauw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-3teFOfAauw/hqdefault.jpg",
+        "durationInMinutes": 251,
+        "releaseDate": 1493646027000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

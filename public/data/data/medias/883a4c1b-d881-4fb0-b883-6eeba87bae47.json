@@ -1,0 +1,41 @@
+{
+  "id": "883a4c1b-d881-4fb0-b883-6eeba87bae47",
+  "title": "Éjszakai ragadozók",
+  "originalTitle": "Nocturnal Animals",
+  "overview": "Susan Morrow, Los Angeles-i műkereskedő hihetetlen jómódban él férjével, Hutton Morrowval, ám mégsem érzi teljesnek az életét. Az egyik hétvégén Hutton elutazik az egyik szokásos és túlzottan gyakorta esedékes üzleti útjára, Susan pedig egy csomagot talál a postaládájában. A csomagban egy regényt van, melyet a volt férje, Edward Sheffield írt, akivel már évek óta nem beszélt. Este, egyedül az ágyban olvasni kezd. Susant olvasás közben mélyen megindítja Edward írása, és akarva-akaratlanul is felidézi a szerzővel közös szerelmi történetük legintimebb pillanatait. Megpróbál magába tekinteni, életének és karrierjének csillogó felszíne alá, és egyre inkább egyfajta bosszúként értelmezi a könyvet, melynek története arra kényszeríti, hogy átértékelje a döntéseit. Újraéled a szerelem, melyet elveszettnek hitt, és ahogy a történet halad, olyan felismerésre készteti, amely újraértelmezi a regény hősét és saját magát is.",
+  "backdropPath": "/5d6m8CIBQcHeiwr6R5ou4wxO9Vn.jpg",
+  "posterPath": "/zcgrfbN7uMyw52ryhAr9zPXYmYV.jpg",
+  "releaseDate": "2016-11-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0735b090-f48c-4288-b345-c6f8495f495e",
+      "title": "Éjszakai ragadozók",
+      "subtitle": null,
+      "timestampString": "01:28:25",
+      "timestampInSeconds": 5305,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #111",
+        "youtubeId": "klorpdDyo7M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/klorpdDyo7M/hqdefault.jpg",
+        "durationInMinutes": 230,
+        "releaseDate": 1480773115000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

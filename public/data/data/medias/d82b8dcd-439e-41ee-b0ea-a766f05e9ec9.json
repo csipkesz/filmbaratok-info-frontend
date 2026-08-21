@@ -1,0 +1,41 @@
+{
+  "id": "d82b8dcd-439e-41ee-b0ea-a766f05e9ec9",
+  "title": "Előre",
+  "originalTitle": "Onward",
+  "overview": "Ian és Barley, két tizenéves elf testvér apa nélkül nőtt fel. A lúzer, önbizalomhiányban szenvedő kisebbiknek a 16. születésnapján előkerül az a varázsbot, amit az apjuk hagyott rájuk, és aminek a segítségével visszahozhatnák őt 24 órára. Ám a varázslat nem egészen úgy sikerül, ahogy kellene, és a két tini egy rozoga furgonon elindul, hogy bejárják a mágikus világot, amiről azt hitték, már rég eltűnt. Amikor az anyjuk rájön, hogy a fiai leléptek, egy különc kívülállóval elindul megkeresni őket.",
+  "backdropPath": "/bcT8CaBIj086WVD7K529h78eujb.jpg",
+  "posterPath": "/k4g2iBKe6EyTt5yZmyGr8zcaB6Z.jpg",
+  "releaseDate": "2020-02-29T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3cdc5968-eda0-47e9-9c93-bed149677cb2",
+      "title": "Előre",
+      "subtitle": null,
+      "timestampString": "01:48:50",
+      "timestampInSeconds": 6530,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #186",
+        "youtubeId": "LvzEUgrbuec",
+        "thumbnailUrl": "https://i.ytimg.com/vi/LvzEUgrbuec/hqdefault.jpg",
+        "durationInMinutes": 214,
+        "releaseDate": 1584373994000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

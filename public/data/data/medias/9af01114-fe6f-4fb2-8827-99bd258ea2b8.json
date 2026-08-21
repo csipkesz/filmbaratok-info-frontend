@@ -1,0 +1,41 @@
+{
+  "id": "9af01114-fe6f-4fb2-8827-99bd258ea2b8",
+  "title": "Vakáció",
+  "originalTitle": "Vakáció",
+  "overview": "",
+  "backdropPath": null,
+  "posterPath": "/5Qz7fDtmLqJFugJqaMFT6h7HeRv.jpg",
+  "releaseDate": "2023-09-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "283aa0ff-e85e-4bbc-a410-bdcfb7dabba8",
+      "title": "Vakáció",
+      "subtitle": null,
+      "timestampString": "00:32:44",
+      "timestampInSeconds": 1964,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #81",
+        "youtubeId": "jxVu-FT-Qv8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/jxVu-FT-Qv8/hqdefault.jpg",
+        "durationInMinutes": 158,
+        "releaseDate": 1442306890000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

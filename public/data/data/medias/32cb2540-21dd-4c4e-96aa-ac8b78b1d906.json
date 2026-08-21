@@ -1,0 +1,41 @@
+{
+  "id": "32cb2540-21dd-4c4e-96aa-ac8b78b1d906",
+  "title": "A hőlégballon",
+  "originalTitle": "Ballon",
+  "overview": "1979. Német Demokratikus Köztársaság. 1 hőlégballon, 2 000 méteres magasság, négy gyermek, négy felnőtt, 28 perc – két család eszement terve. A nyolc fős társaság a hidegháború idején kettészakított Európa keleti felén rekedt, és szabadságáról álmodozik. Elképzelésük szerint – amely bár őrültnek tűnik, kivitelezni talán mégsem lehetetlen – egy hőlégballont építenek, amivel átjuthatnak a Berlini Fal felett. S bár a kezdeti kudarcokon ügyesen túlteszik magukat, idővel a STASI (Állambiztonsági Minisztérium) is megneszel valamit...",
+  "backdropPath": "/sKK1fb08uCcTc0w6PlVsx3BXJdg.jpg",
+  "posterPath": "/hlZxulQJiyN2haQ9IIkqgNWtkTo.jpg",
+  "releaseDate": "2018-09-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b0dd8311-cc15-42d3-8c17-7565ab123bac",
+      "title": "A hőlégballon",
+      "subtitle": null,
+      "timestampString": "00:46:33",
+      "timestampInSeconds": 2793,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #168",
+        "youtubeId": "_Gfw4jCabeA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_Gfw4jCabeA/hqdefault.jpg",
+        "durationInMinutes": 156,
+        "releaseDate": 1557378988000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

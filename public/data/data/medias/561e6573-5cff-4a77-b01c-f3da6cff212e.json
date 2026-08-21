@@ -1,0 +1,41 @@
+{
+  "id": "561e6573-5cff-4a77-b01c-f3da6cff212e",
+  "title": "Carrie (2013)",
+  "originalTitle": "Carrie",
+  "overview": "Carrie White egy szégyenlős fiatal lány, akinek nem megy könnyen a barátkozás. Osztálytársai is folyton ugratják, általában ő az élcelődés középpontja. Ráadásul otthon sem túl rózsás a helyzet, hiszen Carrie személyiségét nagyban befolyásolta bigott vallásos anyja, aki drákói szigorral neveli és minden külvilági hatás elől gondosan elzárja gyermekét.  Közeledik a szalagavató bál, Carrie egyik osztálytársnője pedig gonosz tervet eszel ki, mellyel ismét (sőt, minden eddiginél jobban) megalázhatja a visszafogott lányt. Arról azonban fogalma sincs, hogy Carrie különleges képességek birtokában van. Telekinetikus erejének poklát pedig épp azok számára tartogatja, akik ártani akarnak neki.",
+  "backdropPath": "/zTwuMSZ8Tsf9k6r2lslemPs4m1H.jpg",
+  "posterPath": "/4TF6bGBZh5ZVoJjzskr3eHLjZNj.jpg",
+  "releaseDate": "2013-10-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "448adbf1-68f1-4bb0-998d-bdbecfe94d5b",
+      "title": "Carrie (2013)",
+      "subtitle": null,
+      "timestampString": "01:36:09",
+      "timestampInSeconds": 5769,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #43",
+        "youtubeId": "WupIquHhCt0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/WupIquHhCt0/hqdefault.jpg",
+        "durationInMinutes": 164,
+        "releaseDate": 1389645501000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

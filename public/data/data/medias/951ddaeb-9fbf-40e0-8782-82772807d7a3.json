@@ -1,0 +1,41 @@
+{
+  "id": "951ddaeb-9fbf-40e0-8782-82772807d7a3",
+  "title": "Ördögűzés",
+  "originalTitle": "The Exorcism",
+  "overview": "Egy problémás múltú színész egy horrorfilm forgatása közben kezdi helyrehozni az életét. Mindeközben elidegenedett lánya azon tűnődik, hogy apja vajon visszacsúszik-e korábbi függőségeihez, vagy valami sokkal baljósabb dolog áll a háttérben.",
+  "backdropPath": "/93dDAqtrFQk5zeofDtQGExPlYjC.jpg",
+  "posterPath": "/bMULoVGRBy1lVCgCoXNRbUoX5Wq.jpg",
+  "releaseDate": "2024-05-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "36bca956-6d2a-4beb-b3fa-1260fc9ca38e",
+      "title": "Ördögűzés",
+      "subtitle": null,
+      "timestampString": "01:45:06",
+      "timestampInSeconds": 6306,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #282",
+        "youtubeId": "gcFN31mIkUo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gcFN31mIkUo/hqdefault.jpg",
+        "durationInMinutes": 188,
+        "releaseDate": 1720893631000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

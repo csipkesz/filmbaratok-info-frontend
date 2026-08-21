@@ -1,0 +1,45 @@
+{
+  "id": "76841142-8007-4b92-b4b7-8f72f66e139f",
+  "title": "Inferno",
+  "originalTitle": "Inferno",
+  "overview": "Langdon professzor felébred. A Harvard veszélyes kalandoktól sem visszariadó szimbólumkutatója számára ez kivételesen nem hétköznapi eset. Ugyanis egy firenzei kórházban van, és nem tudja, hogyan került oda. Lőtt sebbel ápolják, és azt a különös tárgyat sem tudja megmagyarázni, amit nála találnak. A prof. - mint eddigi kalandjai során mindig - ismét egyszerre kénytelen menekülni és nyomozni. Egy fiatal orvosnő segítségével próbálja keresztülvágni magát az őt körülvevő rejtélyek hálóján. Csupán Dante legendás műve, a Pokol néhány sora segíti - és úgy érzi, egyre mélyebbre kerül az életre kelő, rejtélyekkel és fenyegetésekkel teli pokolban.",
+  "backdropPath": "/bYSzeJpAHOBMRNJStaubwWwKI72.jpg",
+  "posterPath": "/bHzPyaf3WRoPYZt81bDNmnHKlLj.jpg",
+  "releaseDate": "2016-10-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8ecf4ebb-75c5-45d4-b43b-b49de7ac1527",
+      "title": "Inferno",
+      "subtitle": null,
+      "timestampString": "00:34:57",
+      "timestampInSeconds": 2097,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #109",
+        "youtubeId": "J8Vj2ckmHM4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/J8Vj2ckmHM4/hqdefault.jpg",
+        "durationInMinutes": 132,
+        "releaseDate": 1477582510000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

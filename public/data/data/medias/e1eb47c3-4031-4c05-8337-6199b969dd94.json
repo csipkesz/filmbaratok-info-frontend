@@ -1,0 +1,45 @@
+{
+  "id": "e1eb47c3-4031-4c05-8337-6199b969dd94",
+  "title": "Dumbo [2019]",
+  "originalTitle": "Dumbo",
+  "overview": "Max Medici cirkuszigazgató a korábbi csillag, Holt Farrier és gyermekei segítségét veszi igénybe egy újszülött elefánt gondozásához, amit túlméretezett fülei nevetség tárgyává tesznek az egyébként is küszködő cirkuszban. Ám mikor felfedezik, hogy Dumbó képes repülni, a cirkusz élete hihetetlen fordulatot vesz, magára irányítva a meggyőző üzletember, V.A. Vandevere figyelmét is, aki varázslatos vastagbőrűeket gyűjt új, eddig sosem látott szórakoztatóműsorához. Dumbó így új magasságokban szárnyalhat a bűbájos és lélegzetelállító légtornász, Colette Marchant oldalán, mígnem Holt megtudja, hogy a csillámporos külső mögött Dumbó új otthona sötét titkokat őriz.",
+  "backdropPath": "/5tFt6iuGnKapHl5tw0X0cKcnuVo.jpg",
+  "posterPath": "/yNYj6Y9HLCDJNQUyHELJZ7vn0eB.jpg",
+  "releaseDate": "2019-03-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c95ff5b5-bb98-4be8-8f36-11a652d3855d",
+      "title": "Dumbo [2019]",
+      "subtitle": null,
+      "timestampString": "00:47:53",
+      "timestampInSeconds": 2873,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #166",
+        "youtubeId": "NaqCtn_eZNI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/NaqCtn_eZNI/hqdefault.jpg",
+        "durationInMinutes": 241,
+        "releaseDate": 1555772517000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

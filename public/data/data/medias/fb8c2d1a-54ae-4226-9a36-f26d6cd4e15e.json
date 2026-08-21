@@ -1,0 +1,41 @@
+{
+  "id": "fb8c2d1a-54ae-4226-9a36-f26d6cd4e15e",
+  "title": "Felelsz vagy mersz",
+  "originalTitle": "Truth or Dare",
+  "overview": "Egy ártatlannak induló “felelsz vagy mersz” játék halálosra fordul, amikor valaki –vagy valami– elkezdi megbüntetni azokat, akik hazudnak, vagy nem merik megtenni, amit választottak.",
+  "backdropPath": "/eQ5xu2pQ5Kergubto5PbbUzey28.jpg",
+  "posterPath": "/gN14XrsqPc1G1T44h35tcrhKUVp.jpg",
+  "releaseDate": "2018-04-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5c68493f-ca65-4748-9d86-e4a90c1f31d9",
+      "title": "Felelsz vagy mersz",
+      "subtitle": null,
+      "timestampString": "01:19:20",
+      "timestampInSeconds": 4760,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #146",
+        "youtubeId": "sfip_5w7OMc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/sfip_5w7OMc/hqdefault.jpg",
+        "durationInMinutes": 163,
+        "releaseDate": 1530162133000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "15a53a44-af10-4843-b447-7f9fbb845f56",
+            "name": "Szöllőskei Gábor"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

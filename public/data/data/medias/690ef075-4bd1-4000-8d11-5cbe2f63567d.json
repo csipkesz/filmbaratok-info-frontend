@@ -1,0 +1,45 @@
+{
+  "id": "690ef075-4bd1-4000-8d11-5cbe2f63567d",
+  "title": "Halálhegy - A Dyatlov-rejtély",
+  "originalTitle": "The Dyatlov Pass Incident",
+  "overview": "Az igaz történeten alapuló film Oroszországba repíti nézőit, ahová öt mindenre elszánt amerikai diák indul útnak a múlt rejtélyes haláleseteit kutatni.  1959-ben kilenc tapasztalt szovjet túrázó holttestére bukkantak a Halálhegyen. Az eset érdekessége, hogy a túrázók halálának okát eddig megoldatlan rejtély övezi. Miért voltak radioaktívak a holttestek? Hogyan sebesülhettek meg úgy a túrázók, hogy semmi nem utalt külső támadásra? A megtörtént esemény feljegyzéseit és a nyomozást még abban az évben titkosították. Közel fél évszázaddal később az öt amerikai diák azzal a céllal utazik a kietlen orosz vidékre, hogy felelevenítse és megoldja a Dyatlov-rejtélyt. Azonban nem sejtik, hogy az események bizarrabbak és félelmetesebbek, mint azt valaha is képzelték.",
+  "backdropPath": "/j5iUZRZtaPJbYJxvB6ZtmbE5LsZ.jpg",
+  "posterPath": "/wnccryYpuWbX1rWs2mIDugs4Spi.jpg",
+  "releaseDate": "2013-02-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "60aa1fb4-98db-42b6-9adf-3203f6806c2d",
+      "title": "Halálhegy - A Dyatlov-rejtély",
+      "subtitle": null,
+      "timestampString": "01:24:00",
+      "timestampInSeconds": 5040,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #99",
+        "youtubeId": "i9LKNH-nFAY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/i9LKNH-nFAY/hqdefault.jpg",
+        "durationInMinutes": 105,
+        "releaseDate": 1464062052000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

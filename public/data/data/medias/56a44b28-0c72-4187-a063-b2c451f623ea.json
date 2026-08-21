@@ -1,0 +1,41 @@
+{
+  "id": "56a44b28-0c72-4187-a063-b2c451f623ea",
+  "title": "Egy tökéletes nap",
+  "originalTitle": "A Perfect Day",
+  "overview": "Egy háború sújtotta bosnyák faluban méretes holttest lebeg egy kút alján. A kövér férfinak az lett a veszte, hogy gyilkosai vele akarják a helyiek ivóvíz-készletét megmérgezni. A nemzetközi segélyszervezet dolgozói hamarosan megérkeznek a helyszínre, hogy kihúzzák a hullát, de a kötelük elszakad a súly alatt. Versenyfutás indul az idővel, hogy hőseink megszerezzenek minden szükséges engedélyt (és persze egy strapabíró kötelet) a katonák, a háborún nyerészkedők, a bizalmatlan helyiek és a bürokrácia között lavírozva - mielőtt a hulla megfertőzi a kút vizét. A helyzetet bonyolítja, hogy váratlanul egy bombanő is csatlakozik a csapathoz, akinek korábban viszonya volt az egyik férfival.",
+  "backdropPath": "/fTnBp9hqcnKfZ56ccwxxZ2iogGZ.jpg",
+  "posterPath": "/aD9WbSkg4VzDzN3BSRh8ddIVlsx.jpg",
+  "releaseDate": "2015-08-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "90020a7b-1911-4901-befd-2b172528c706",
+      "title": "Egy tökéletes nap",
+      "subtitle": null,
+      "timestampString": "01:43:05",
+      "timestampInSeconds": 6185,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #92",
+        "youtubeId": "TLrrzuetTk0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/TLrrzuetTk0/hqdefault.jpg",
+        "durationInMinutes": 156,
+        "releaseDate": 1455295114000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

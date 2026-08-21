@@ -1,0 +1,45 @@
+{
+  "id": "7053761b-543b-4b65-bd94-db299a185e67",
+  "title": "Az utolsó párbaj",
+  "originalTitle": "The Last Duel",
+  "overview": "A négyszeres Oscar-jelölt Ridley Scott rendezésében készült, megtörtént eseményeket feldolgozó Az utolsó párbaj izgalmas történet árulásról és bosszúról a 14. századi Franciaországban, ahol a nőknek az elnyomott szerepe jut. Jean de Carrouges (az Oscar-díjas Matt Damon) és Jacques Le Gris (a kétszeres Oscar-jelölt Adam Driver) két viszálykodó, nemesi születésű úr, akiknek sérelmeit csak egy halálig tartó párbaj orvosolhatja. A további szerepekben az Emmy-díjas Jodie Comer és az Oscar-díjas Ben Affleck láthatók.",
+  "backdropPath": "/4LrL40XecjGLRpX5I2gzMTUt04l.jpg",
+  "posterPath": "/f3UFUzrmmj8fD51Y7bJOvmHjZjB.jpg",
+  "releaseDate": "2021-10-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "706b04b4-b409-4db2-9006-1b35987b21c5",
+      "title": "Az utolsó párbaj",
+      "subtitle": null,
+      "timestampString": "01:56:35",
+      "timestampInSeconds": 6995,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #221",
+        "youtubeId": "BjeQjRFvXcM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/BjeQjRFvXcM/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1635519858000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

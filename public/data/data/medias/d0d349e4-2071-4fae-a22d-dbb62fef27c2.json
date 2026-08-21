@@ -1,0 +1,41 @@
+{
+  "id": "d0d349e4-2071-4fae-a22d-dbb62fef27c2",
+  "title": "Just Mercy",
+  "originalTitle": "Just Mercy",
+  "overview": "A kegyelem ára nagy formátumú, gondolatébresztő igaz történet, melynek főhőse Bryan Stevenson, a Harvardon frissen diplomázott ügyvéd, aki fényes és jövedelmező karrierlehetőségei helyett Alabamába megy, hogy a tévesen elítéltek igazát képviselje. Munkája az egyenlő igazságszolgáltatásért folytatott, történelmi léptékű harccá terebélyesedik, amelyben segíti őt Eva Ansley (Brie Larson) helyi ügyvéd. A páros egyik első és legnagyobb port kavart esete Walter McMillian ügye lesz, akit 1987-ben halálra ítéltek egy 18 éves lány meggyilkolása miatt. Az ítélet annak ellenére született meg, hogy az ártatlansága mellett szóló bizonyítékok túlsúlyban voltak, és az egyetlen tanúvallomás egy olyan bűnözőtől származott, akinek érdekében állt hamisan tanúzni.",
+  "backdropPath": "/wfabrzHzfYTdCj3iSCY7OEQbND0.jpg",
+  "posterPath": "/xLxPMmwrPNcj4QtiboMOAPsN8Fy.jpg",
+  "releaseDate": "2019-12-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4e5e6eb3-9343-4404-b9c0-f71f271e179e",
+      "title": "Just Mercy",
+      "subtitle": null,
+      "timestampString": "01:27:00",
+      "timestampInSeconds": 5220,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #188",
+        "youtubeId": "0HEzLOYhLD4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/0HEzLOYhLD4/hqdefault.jpg",
+        "durationInMinutes": 184,
+        "releaseDate": 1587743952000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

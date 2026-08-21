@@ -1,0 +1,45 @@
+{
+  "id": "e7398b2f-7db8-4cbe-8ee1-d30065b107f9",
+  "title": "Kingsman: Az aranykör",
+  "originalTitle": "Kingsman: The Golden Circle",
+  "overview": "A Kingsman főhadiszállását elpusztítja egy titokzatos bűnszervezet. Töki kénytelen amerikai társszervezetük, a Statesman segítségét kérni, hogy felkutassák a támadásért felelős elmebeteg gonosztevőt.",
+  "backdropPath": "/eVHVwP71el20fofkCHo78ebQv7Q.jpg",
+  "posterPath": "/sUFk0vdmw8wNdTAk1sgaVMWX7LR.jpg",
+  "releaseDate": "2017-09-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "728ac908-7f13-43e6-aa70-5c619ea95e55",
+      "title": "Kingsman: Az aranykör",
+      "subtitle": null,
+      "timestampString": "00:37:50",
+      "timestampInSeconds": 2270,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #130",
+        "youtubeId": "gU3ro-u6uQ4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gU3ro-u6uQ4/hqdefault.jpg",
+        "durationInMinutes": 174,
+        "releaseDate": 1507212990000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

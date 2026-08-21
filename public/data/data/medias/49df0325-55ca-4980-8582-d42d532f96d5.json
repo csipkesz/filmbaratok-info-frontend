@@ -1,0 +1,45 @@
+{
+  "id": "49df0325-55ca-4980-8582-d42d532f96d5",
+  "title": "A part",
+  "originalTitle": "The Beach",
+  "overview": "Richard a világ legszabadabb embere, csupán három dologra van szüksége a túléléshez: nikotinra, videojátékokra és Vietnamban játszódó háborús filmekre. Egyébként szabad, mint a madár, a világot járja, és nem törődik semmivel.Egy lepusztult és elhagyott bangkoki szállodában öngyilkos lesz lepusztult és elhagyott szomszédja, és Richardra hagy egy térképet, mely egy titokzatos szigetre vezető utat mutat. A srác nem is akar ennél többet tudni, nekivág az útnak, megküzd a tengerrel és a hadsereggel, hogy végül rátaláljon valamire, ami csodálatos, elmesélhetetlen és megközelíthetetlen. Aztán fokozatosan kiderül, hogy a sziget mégsem hasonlít annyira a paradicsomhoz, mint azt első látásra gondolná az ember. A paradicsomnak például nem volt ennyi furcsa lakója. Ami pedig a megközelíthetetlenséget illeti: ha éppen menekülni kell egy szigetről, akkor nem előny, ha senki sem tudja, hol az a sziget…",
+  "backdropPath": "/f7sQHmdZdPHaRVt3428XmdoZ8Hs.jpg",
+  "posterPath": "/eAneLOX6bFla7cOXiSPkImWMz8N.jpg",
+  "releaseDate": "2000-02-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4c52e82c-6917-4e76-81ae-23a84bb19c40",
+      "title": "A part",
+      "subtitle": null,
+      "timestampString": "01:12:46",
+      "timestampInSeconds": 4366,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #55",
+        "youtubeId": "QgGmQw_m1m8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/QgGmQw_m1m8/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1407941546000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

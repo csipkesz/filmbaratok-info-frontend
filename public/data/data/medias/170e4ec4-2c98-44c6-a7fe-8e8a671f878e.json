@@ -1,0 +1,45 @@
+{
+  "id": "170e4ec4-2c98-44c6-a7fe-8e8a671f878e",
+  "title": "Csibefutam",
+  "originalTitle": "Chicken Run",
+  "overview": "A zord szögesdrótok mögött csaholó vérebek, nyomukban a gyanakvó gazda. Nincs menekvés. Vagy mégis? A baromfiudvar tollas foglyai nem adják fel. A talpraesett Rozsda vezetésével újabb és újabb szökési tervet kovácsolnak. De a kísérletek sorra kudarcba fulladnak, mígnem egy nap eljön a szabadság hírnöke! Egy amerikai kakas süvít át a kerítés fölött, és nyekken nagyot az etetővályúban. A felbolydult tyúkok a megmentőjüket látják az égből pottyant jövevényben, és arra kérik, tanítsa meg őket repülni.  Magyar korhatár: 12+.\r Közép-európai Netflix korhatár: 11 évtől.",
+  "backdropPath": "/3eYkMSjWbvTaZso7ow5ub9ikNNq.jpg",
+  "posterPath": "/u19pRkgBvVk8Kxd11mtqEx8cWWU.jpg",
+  "releaseDate": "2000-06-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f0e942e6-d4ad-460c-a8ec-ea231be7b64b",
+      "title": "Csibefutam",
+      "subtitle": null,
+      "timestampString": "01:26:30",
+      "timestampInSeconds": 5190,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #32",
+        "youtubeId": "6P4PZX3FJGA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/6P4PZX3FJGA/hqdefault.jpg",
+        "durationInMinutes": 125,
+        "releaseDate": 1373643280000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "9b263271-f6ef-4999-8c9f-ab719cb8a9c2",
+            "name": "DreamerInstinct"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

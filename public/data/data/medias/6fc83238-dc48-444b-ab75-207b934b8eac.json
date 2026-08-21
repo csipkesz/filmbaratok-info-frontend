@@ -1,0 +1,41 @@
+{
+  "id": "6fc83238-dc48-444b-ab75-207b934b8eac",
+  "title": "Venom – Az utolsó menet",
+  "originalTitle": "Venom: The Last Dance",
+  "overview": "Eddie Brock (Tom Hardy) nagyjából boldogan élt. Volt barátnője, munkája… aztán úgy alakult, hogy egy űrből érkezett, pusztító étvágyú szörny érkezett a földre és pont őt választotta gazdatestnek. Azóta Eddie magányos, meggyötört… és legyőzhetetlen. Ha bajba kerül, a benne rejtőző szörny előbújik belőle és kérlelhetetlenül felzabálja a támadókat. Meg egy kis rendetlenséget csinál közben. De lehet, hogy van olyan ellenség, ami a szupererős Venomnak is sok – a saját bolygójáról, a saját fajtársai rátalálnak, megérkeznek a földre és persze nincs bennük kímélet. Az egész bolygót könnyedén elpusztíthatják. Venom azonban már inkább a földiek pártján van. Harcba száll a fajtársai ellen - de ahova ő megy, oda Eddie-nek is mennie kell. És ha ő halálos veszélybe kerül, akkor Eddie-nek is bőven van félnivalója.",
+  "backdropPath": "/3V4kLQg0kSqPLctI5ziYWabAZYF.jpg",
+  "posterPath": "/sRhv9KYAn9EvfshBofxzj9IXuIy.jpg",
+  "releaseDate": "2024-10-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f00b0b11-e7ca-41df-b68e-7fb47de1231a",
+      "title": "Venom – Az utolsó menet",
+      "subtitle": null,
+      "timestampString": "01:22:40",
+      "timestampInSeconds": 4960,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #289",
+        "youtubeId": "25swweCqsZY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/25swweCqsZY/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1730401855000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "59ff79e8-9f00-489a-86cc-fb46db58552f",
+  "title": "Watchmen",
+  "originalTitle": "Watchmen",
+  "overview": "Amerika egyik alternatív változata a nyolcvanas években, amikor a világ a háború küszöbén áll. Az álarcos hősök tevékenységét betiltották, a társadalom, amely egykor megbecsülte őket, ma már fél tőlük, és ezért az alvilágba száműzte őket. Rorschach az egyetlen hős, aki nem fogadja el ezt a helyzetet és szembeszáll az igazságosztók tevékenységét betiltó törvénnyel. Még mindig vadászik a bűnözőre, a világ számára csak jó és rossz részből áll. Amikor egykori társa gyilkosság áldozata lesz, Rorschach rájön, hogy ez valójában csak a kezdet.",
+  "backdropPath": "/dH7ia3vtkYCa3CBvDnvVjqm9uiQ.jpg",
+  "posterPath": "/9pUNordyxUBwChdIRpPZqP8pRAS.jpg",
+  "releaseDate": "2009-03-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "70cb9cde-6ff0-4492-bd7b-ea95ce21a61f",
+      "title": "Watchmen",
+      "subtitle": null,
+      "timestampString": "02:49:25",
+      "timestampInSeconds": 10165,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #105",
+        "youtubeId": "73Hk03Cs0mQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/73Hk03Cs0mQ/hqdefault.jpg",
+        "durationInMinutes": 214,
+        "releaseDate": 1471773217000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

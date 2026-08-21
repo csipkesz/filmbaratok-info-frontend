@@ -1,0 +1,41 @@
+{
+  "id": "af870040-fe5d-4e4a-8dd4-6194f0b340c4",
+  "title": "Elhagyott szoba",
+  "originalTitle": "Vacancy",
+  "overview": "Egy egyszerű motelszoba: olyan, amilyenből több ezer van az Egyesült Államok minden városában. Egy egyszerű házaspár: olyan, amilyenből több ezer van az Egyesült Államok minden városában. Az autójuk lerobban. Amy Fox (Kate Beckinsale) és a férje, David (Luke Wilson) ezért kénytelen egy éjszakát valahol az isten háta mögött tölteni egy motelben; és jobb híján tévénézéssel töltik az estét. Egészen addig, míg rá nem jönnek, hogy az itt sugárzott horrorfilmek mindegyikének ugyanaz a helyszíne: a szoba, amelyben éppen laknak. Menekülni próbálnak: a szoba, a földalatti alagutak, búvóhelyek és hasadékok mind ugyanannak a filmnek a díszletei. Kamerák figyelik minden léptüket, valaki az ő főszereplésükkel akarja elkészíteni legújabb, legrémisztőbb filmjét. De ebben a filmben a szereplők nem érnék meg a premiert, ezért minél hamarabb ki kell jutniuk innen, mielőtt a mestermű az ő szereplésükkel készül el.",
+  "backdropPath": "/oD5hzb3lb6iwMWWTtiNzFKmey3Y.jpg",
+  "posterPath": "/dEf3iBUgnah27vwjloxqFfBxrM.jpg",
+  "releaseDate": "2007-04-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2a72f45d-2cb4-47d8-a036-060f78674c2a",
+      "title": "Elhagyott szoba",
+      "subtitle": null,
+      "timestampString": "01:29:15",
+      "timestampInSeconds": 5355,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #35",
+        "youtubeId": "iZP3HzNbpJk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/iZP3HzNbpJk/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1378351959000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

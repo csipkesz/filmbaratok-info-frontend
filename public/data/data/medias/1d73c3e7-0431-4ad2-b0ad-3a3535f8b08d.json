@@ -1,0 +1,45 @@
+{
+  "id": "1d73c3e7-0431-4ad2-b0ad-3a3535f8b08d",
+  "title": "Deadpool & Rozsomák",
+  "originalTitle": "Deadpool & Wolverine",
+  "overview": "A kedveszegett Wade Wilson számára a polgári élet kész kínlódás. Az erkölcsileg rugalmas zsoldos gyúnyáját végleg szögre akasztotta, amikor azonban világát a megsemmisülés fenyegeti, vonakodva bár, de ismét magára ölti jelmezét és még vonakvóbb… vonakodóbb? Vonatkotróbb? Meg kell győznie a vonakodó Rozsomákot, hogy - ez így szar...",
+  "backdropPath": "/by8z9Fe8y7p4jo2YlW2SZDnptyT.jpg",
+  "posterPath": "/z2uyBylD1UVX397OsjdiL6eyXGA.jpg",
+  "releaseDate": "2024-07-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b03199fc-d941-4999-87ba-d75aa43e8719",
+      "title": "Deadpool & Rozsomák [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "02:33:22",
+      "timestampInSeconds": 9202,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #283",
+        "youtubeId": "jv6k7bsDWQo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/jv6k7bsDWQo/hqdefault.jpg",
+        "durationInMinutes": 210,
+        "releaseDate": 1722538833000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "f2052740-9e41-41d0-8e0a-e5e3877c73c7",
+  "title": "Athena",
+  "originalTitle": "Athena",
+  "overview": "Egy fiatal fiú tragikus meggyilkolása háborút robbant ki az Athena lakótelep közösségében. A konfliktus középpontjában az áldozat idősebb testvérei állnak.",
+  "backdropPath": "/gV31rejG3kVpwH5T7HG8G99eLy.jpg",
+  "posterPath": "/vlhTjZ6fSL6YzjW3VnaaM8x2vLr.jpg",
+  "releaseDate": "2022-09-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c3918f6b-8584-4c41-a3ce-a7e23d1df7ec",
+      "title": "Athena",
+      "subtitle": null,
+      "timestampString": "01:54:38",
+      "timestampInSeconds": 6878,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #243",
+        "youtubeId": "gCWkf0UnSwY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gCWkf0UnSwY/hqdefault.jpg",
+        "durationInMinutes": 296,
+        "releaseDate": 1668706204000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

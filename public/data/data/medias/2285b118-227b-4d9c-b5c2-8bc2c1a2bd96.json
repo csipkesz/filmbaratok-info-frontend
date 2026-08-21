@@ -1,0 +1,45 @@
+{
+  "id": "2285b118-227b-4d9c-b5c2-8bc2c1a2bd96",
+  "title": "A holnap háborúja",
+  "originalTitle": "The Tomorrow War",
+  "overview": "2051-ből időutazók érkeznek, hogy sürgős üzenetet közöljenek. 30 év múlva az emberiség elveszíti a háborút egy idegen faj ellen. A túlélés egyetlen reménye, hogy katonákat és civileket szállítanak a jövőbe, akik csatlakoznak a harchoz. Dan Forester elhatározza, hogy megmenti a világot a lánya érdekében. Egy briliáns tudóssal és elidegenedett apjával összefogva, újra írja a bolygó sorsát...",
+  "backdropPath": "/yizL4cEKsVvl17Wc1mGEIrQtM2F.jpg",
+  "posterPath": "/t2A4IPdurAJCy8CraOUeg3ue6h3.jpg",
+  "releaseDate": "2021-09-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "10ee3a3a-f842-434f-b543-359103757941",
+      "title": "A holnap háborúja",
+      "subtitle": null,
+      "timestampString": "03:18:44",
+      "timestampInSeconds": 11924,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #215",
+        "youtubeId": "J6qemr4xa1Y",
+        "thumbnailUrl": "https://i.ytimg.com/vi/J6qemr4xa1Y/hqdefault.jpg",
+        "durationInMinutes": 287,
+        "releaseDate": 1627662350000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

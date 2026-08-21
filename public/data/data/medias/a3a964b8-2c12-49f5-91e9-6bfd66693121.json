@@ -1,0 +1,45 @@
+{
+  "id": "a3a964b8-2c12-49f5-91e9-6bfd66693121",
+  "title": "Ryan közlegény megmentése",
+  "originalTitle": "Saving Private Ryan",
+  "overview": "1944.06.06. a normandiai partraszállás napja. Az Omaha Beach kódnevet kapott tengerparton a csónakokból védhető fedezékbe igyekvő szövetséges katonák pergőtűzbe kerülnek, a vérveszteség óriási. Mindenütt halottak, sebesültek, cafatokra szakadt emberi testrészek, haldoklók halálhörgései. A pokol első bugyrán éppen csak túljutott Miller százados megmaradt embereivel újabb szinte lehetetlen próbatétel előtt áll. Egy kis csapat élén be kell hatolnia az ellenséges hátországba, hogy felkutasson egy amerikai katonát, James Ryan közlegényt. A főparancsnokság utasítására ugyanis azonnal le kell szerelni, mivel három bátyja a világháború különböző frontjain szinte egyszerre vesztette életét, s a hadsereg ezzel adózik a család tragédiájának. De a hosszú és veszélyes úton mindenkiben felmerül a kérdés: vajon miért ér ennek az egy embernek az élete többet, mint az érte küldött kilenc emberé?",
+  "backdropPath": "/bdD39MpSVhKjxarTxLSfX6baoMP.jpg",
+  "posterPath": "/ycaMdNBGu4uW33mAo2CjIAuviBc.jpg",
+  "releaseDate": "1998-07-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "96a554b8-e288-44c8-bef3-dfcbffb165a0",
+      "title": "Ryan közlegény megmentése",
+      "subtitle": null,
+      "timestampString": "02:40:40",
+      "timestampInSeconds": 9640,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #211",
+        "youtubeId": "e7FpksPcoKY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/e7FpksPcoKY/hqdefault.jpg",
+        "durationInMinutes": 232,
+        "releaseDate": 1621526653000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

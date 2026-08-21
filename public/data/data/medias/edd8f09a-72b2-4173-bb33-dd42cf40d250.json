@@ -1,0 +1,41 @@
+{
+  "id": "edd8f09a-72b2-4173-bb33-dd42cf40d250",
+  "title": "Mindent egy lapra / Hustle",
+  "originalTitle": "Hustle",
+  "overview": "Egy lecsúszott kosárlabdaedző (Adam Sandler) felfedez egy rendkívüli tehetséges, ám hányatott sorsú játékost, és mindent elkövet, hogy elhozza az Államokba csapata engedélye nélkül. Egyetlen, utolsó esélyük van, hogy bebizonyítsák, megvan bennük az, ami ahhoz kell, hogy bekerüljenek a legjobbak közé...",
+  "backdropPath": "/hGr0FrLI74vqpBWTBOPloDBwOAK.jpg",
+  "posterPath": "/uvj4afEOtYpJ2AbHKoulGcSKtEV.jpg",
+  "releaseDate": "2022-06-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "14c4e0dc-02f8-45e6-8ea6-5b705e347d72",
+      "title": "Mindent egy lapra / Hustle",
+      "subtitle": null,
+      "timestampString": "02:32:29",
+      "timestampInSeconds": 9149,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #234",
+        "youtubeId": "IyLcC8Sig7I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IyLcC8Sig7I/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1655823277000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

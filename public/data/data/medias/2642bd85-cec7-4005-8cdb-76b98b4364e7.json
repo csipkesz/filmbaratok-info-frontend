@@ -1,0 +1,45 @@
+{
+  "id": "2642bd85-cec7-4005-8cdb-76b98b4364e7",
+  "title": "Alienoid",
+  "originalTitle": "외계+인 1부",
+  "overview": "Az idő kapuja megnyílik egy legendás kardforgató előtt, aki a Goryeo-dinasztia alkonyán, az isteni erővel bíró kardot akarja megszerezni. A kapu túloldalán azonban azok állnak, akik 2022-ben egy emberi testbe zárt idegen foglyot üldöznek.",
+  "backdropPath": "/7ZP8HtgOIDaBs12krXgUIygqEsy.jpg",
+  "posterPath": "/3f3qTDOQFewqw4R2OXCXhuVFt7w.jpg",
+  "releaseDate": "2022-07-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6c77cf43-b05b-40c9-84a2-dfff42c9c7eb",
+      "title": "Alienoid",
+      "subtitle": null,
+      "timestampString": "02:20:50",
+      "timestampInSeconds": 8450,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #239",
+        "youtubeId": "fLgXm-yTEGg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fLgXm-yTEGg/hqdefault.jpg",
+        "durationInMinutes": 259,
+        "releaseDate": 1663259409000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

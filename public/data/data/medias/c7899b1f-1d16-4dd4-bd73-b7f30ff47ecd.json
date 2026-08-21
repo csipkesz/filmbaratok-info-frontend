@@ -1,0 +1,45 @@
+{
+  "id": "c7899b1f-1d16-4dd4-bd73-b7f30ff47ecd",
+  "title": "Szürke senkik",
+  "originalTitle": "Szürke senkik",
+  "overview": "A Szürke senkik egy csapat elcsigázott magyar katonáról szól, akik az olasz fronton harcolnak, de már csak a félőrült őrmesterük az egyetlen, aki elhiszi, hogy a Monarchia megnyerheti ezt a háborút.",
+  "backdropPath": "/mOvo3Cmp4sb7NftHjth2Nal35b0.jpg",
+  "posterPath": "/gSJayeiQIZAV3o68TlTS17FSaVd.jpg",
+  "releaseDate": "2016-12-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "381424ac-b9bc-4f22-b3c2-e295b1aec5ce",
+      "title": "Szürke senkik",
+      "subtitle": null,
+      "timestampString": "01:13:44",
+      "timestampInSeconds": 4424,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #114",
+        "youtubeId": "-MXopm_I1eY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-MXopm_I1eY/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1484786554000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "c713d01d-af5a-4671-9115-a5f1070d28b1",
+  "title": "Svindler / A játékos",
+  "originalTitle": "The Card Counter",
+  "overview": "William Tell (Oscar Isaac) börtönviselt ex-katonaként kártyázással keresi a kenyerét. Tellnek nincsenek céljai, azt állítja, hogy csupán szeret játszani – a felfokozott, mégis egyhangú élete viszont magasabb szintre lép, amikor egy ambiciózus nő (Tiffany Haddish) pókerturnéra nevezi be, miközben egy bosszúszomjas kölyök, Cirk (Tye Sheridan) is mellé csapódik. A The Card Counter egyszerre sportfilm, road movie, buddy movie és bosszúfilm, miközben az iraki háborús bűnökön keresztül a poszttraumás stressz és a társadalomkritika, illetve az elmaradhatatlan szerelmi szál is beleszövődik.",
+  "backdropPath": "/mE0sGZ4CyzibmBG7FYan5CIKuag.jpg",
+  "posterPath": "/4GHCDjUNcXd2PpE2jkbfAz4VL4w.jpg",
+  "releaseDate": "2021-09-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "32195a4e-8f0c-4693-b37a-aef1c4dc715f",
+      "title": "Svindler / A játékos",
+      "subtitle": null,
+      "timestampString": "02:06:09",
+      "timestampInSeconds": 7569,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #238",
+        "youtubeId": "B0d915GjLlk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/B0d915GjLlk/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1661879000000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

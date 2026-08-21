@@ -1,0 +1,41 @@
+{
+  "id": "ff9299bf-c52a-4ca3-9bae-09bb89757ae5",
+  "title": "Life after Pi",
+  "originalTitle": "Life After Pi",
+  "overview": "",
+  "backdropPath": "/zAFGqhV9gteJIx45IdfxA2K1LR2.jpg",
+  "posterPath": "/u6vVVVGhHvcBcexNDBnAJK9pncL.jpg",
+  "releaseDate": "2014-02-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a2fc21cf-48e7-4f5c-8622-59848eda51f8",
+      "title": "Life after Pi",
+      "subtitle": null,
+      "timestampString": "01:41:40",
+      "timestampInSeconds": 6100,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #47",
+        "youtubeId": "48-yuKdU7cg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/48-yuKdU7cg/hqdefault.jpg",
+        "durationInMinutes": 147,
+        "releaseDate": 1394966291000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

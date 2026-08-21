@@ -1,0 +1,45 @@
+{
+  "id": "beba07bf-a76a-41a5-b9be-06712f491536",
+  "title": "Marley meg én",
+  "originalTitle": "Marley & Me",
+  "overview": "Az ifjú házaspár, John és Jenny Grogan Floridában kezd új életet. Beköltöznek első közös otthonukba, ahol a házasság, a karrier és a családalapítás kihívásai várnak rájuk. John azonban még nem érzi magát felkészültnek az apaságra. Barátja tanácsára örökbe fogadnak egy kölyökkutyát, hogy némi tapasztalatot szerezzenek a gondoskodásról. Marley, a tündéri labrador kölyök azonban hamarosan féktelen kutyussá cseperedik, megbukik a kiképzőiskolában és katasztrófa sújtotta övezetté változtatja otthonukat. Az évek során végigkíséri Groganékat jóban-rosszban.",
+  "backdropPath": "/tVoWbAAfTDIhTeo78SbA2V6mv8E.jpg",
+  "posterPath": "/wd341VENirBdKylFD5dgSFkIaZg.jpg",
+  "releaseDate": "2008-12-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ad8adf67-ad6e-4ae4-8aa1-1b1cdb329df8",
+      "title": "Marley meg én",
+      "subtitle": null,
+      "timestampString": "02:34:31",
+      "timestampInSeconds": 9271,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #88",
+        "youtubeId": "wEd9ZOCpPII",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wEd9ZOCpPII/hqdefault.jpg",
+        "durationInMinutes": 226,
+        "releaseDate": 1450458682000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

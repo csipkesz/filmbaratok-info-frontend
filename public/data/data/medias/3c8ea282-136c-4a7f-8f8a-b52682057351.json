@@ -1,0 +1,49 @@
+{
+  "id": "3c8ea282-136c-4a7f-8f8a-b52682057351",
+  "title": "A Gyűrűk Ura - A rohírok háborúja",
+  "originalTitle": "The Lord of the Rings: The War of the Rohirrim",
+  "overview": "183 évvel „A Gyűrűk Ura: A két torony” eseményei előtt: Pörölykezű Helm Rohan új, hatalmas királya Edorasban. Amikor királyságát a dúnföldiek fenyegetik, Edoras gyenge védművei miatt új, bevehetetlen erődítményt kezd építeni: a Kürtvárat a Helm-szurdokban. Véres csatára kerül sor, amely beíródik Középfölde történelemkönyvébe.",
+  "backdropPath": "/ie8OSgIHEl6yQiGJ90dsyBWOpQA.jpg",
+  "posterPath": "/cP1KrriBxC0VvBvxaoZ2QchnHqD.jpg",
+  "releaseDate": "2024-12-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "334f4975-693a-47bd-9992-4a0570b0a0cb",
+      "title": "A Gyűrűk Ura - A rohírok háborúja",
+      "subtitle": null,
+      "timestampString": "00:49:50",
+      "timestampInSeconds": 2990,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #293 (Évösszegző 2024)",
+        "youtubeId": "iOhSHlbaR58",
+        "thumbnailUrl": "https://i.ytimg.com/vi/iOhSHlbaR58/hqdefault.jpg",
+        "durationInMinutes": 273,
+        "releaseDate": 1735592826000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

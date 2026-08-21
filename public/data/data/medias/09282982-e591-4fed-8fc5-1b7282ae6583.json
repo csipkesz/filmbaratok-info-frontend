@@ -1,0 +1,41 @@
+{
+  "id": "09282982-e591-4fed-8fc5-1b7282ae6583",
+  "title": "A bérgyilkos, aki nem is volt",
+  "originalTitle": "Hit Man",
+  "overview": "Egy jámbor professzor, aki felcsap kamubérgyilkosnak a rendőrség megbízásából, óriási slamasztikába kerül, amikor belebolondul egy ügyfelébe.",
+  "backdropPath": "/nv6F6tz7r61DUhE7zgHwLJFcTYp.jpg",
+  "posterPath": "/3gCmNyckhEhR2CvCFzp4TvlHhmJ.jpg",
+  "releaseDate": "2024-05-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "de90d442-44f9-49de-8f19-db8afb7dc337",
+      "title": "A bérgyilkos, aki nem is volt",
+      "subtitle": null,
+      "timestampString": "01:46:10",
+      "timestampInSeconds": 6370,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #281",
+        "youtubeId": "ov4eiYi-ekw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ov4eiYi-ekw/hqdefault.jpg",
+        "durationInMinutes": 248,
+        "releaseDate": 1719661725000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

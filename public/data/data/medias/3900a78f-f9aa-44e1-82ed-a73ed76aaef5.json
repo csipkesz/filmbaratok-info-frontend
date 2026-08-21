@@ -1,0 +1,45 @@
+{
+  "id": "3900a78f-f9aa-44e1-82ed-a73ed76aaef5",
+  "title": "The Texas Chainsaw Massacre (2003) / A texasi láncfűrészes -Az utolsó esély",
+  "originalTitle": "The Texas Chainsaw Massacre 2",
+  "overview": "Az egyetlen túlélõ Sally Hardesty nagybátyja Lefty Enright bosszút esküdött, hogy nem nyugszik, ameddig Bõrpofáékat el nem kapja, már csak meg kéne találnia õket. Bõrpofa és családja ezúttal egy elhagyott vidámparkba fészkeli be magát. Lefty útja a halál barlangjába vezet, ahol az áldozatok egy rémálombeli  vállalkozás elengedhetetlen kellékei...",
+  "backdropPath": "/5MMnUP4mzay6tVNZ8DF3HBeEUMX.jpg",
+  "posterPath": "/jiPsRi5NPnZkhEbMb4KF1hCivUM.jpg",
+  "releaseDate": "1986-08-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a98b44dd-ac1a-4047-ba3e-f295a11d5cdc",
+      "title": "The Texas Chainsaw Massacre (2003) / A texasi láncfűrészes -Az utolsó esély",
+      "subtitle": null,
+      "timestampString": "03:10:33",
+      "timestampInSeconds": 11433,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #77",
+        "youtubeId": "GxURCHDmpLM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GxURCHDmpLM/hqdefault.jpg",
+        "durationInMinutes": 246,
+        "releaseDate": 1437150395000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

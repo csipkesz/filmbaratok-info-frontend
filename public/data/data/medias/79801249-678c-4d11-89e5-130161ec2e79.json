@@ -1,0 +1,41 @@
+{
+  "id": "79801249-678c-4d11-89e5-130161ec2e79",
+  "title": "A világ összes pénze",
+  "originalTitle": "All the Money in the World",
+  "overview": "John Paul Getty a világ leggazdagabb és legfukarabb embereként, még elrabolt unokájáért sem volt hajlandó pénzt kiadni. Szeretet vagy pénz? A milliárdos számára a válasz egyértelmű.",
+  "backdropPath": "/dSNFyArsIZP6JcOKmXwa3rqKkOr.jpg",
+  "posterPath": "/6puCLIe3zORFBczVaNV7MMLEdTp.jpg",
+  "releaseDate": "2017-12-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2134ce46-1e06-4553-a878-8a56a473b9fb",
+      "title": "A világ összes pénze",
+      "subtitle": null,
+      "timestampString": "02:22:55",
+      "timestampInSeconds": 8575,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #137",
+        "youtubeId": "TmsK4Kf-Bj8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/TmsK4Kf-Bj8/hqdefault.jpg",
+        "durationInMinutes": 228,
+        "releaseDate": 1518110484000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

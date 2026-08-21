@@ -1,0 +1,37 @@
+{
+  "id": "81418a29-ad4b-4609-b236-b090a4cb399f",
+  "title": "Bőrpofa",
+  "originalTitle": "Leatherface",
+  "overview": "A történet a láncfűrészes gyilkosságok előtt néhány évvel veszi fel a fonalat, amikor is a Sawyer család legifjabb tagját elmegyógyintézetbe zárják, miután rejtélyes körülmények között elhunyt a helyi seriff lánya. Tíz évvel később a fiú foglyul ejti az egyik ápolónőt, és három másik társával együtt megszökik az épület falai közül. A hatóságok, élükön a bosszúra szomjazó seriffel a szökevények nyomába erednek. A fiú ámokfutásba kezd, melynek végén azzá a szörnyeteggé válik, akit a világ csak úgy ismer: Bőrarc.",
+  "backdropPath": "/fIOqJeHs4iHUCwSap7wIvgRCwDl.jpg",
+  "posterPath": "/qPeRzLuAvuOwTuxsyviEnqRRhL5.jpg",
+  "releaseDate": "2017-09-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "876be809-23fe-4874-9fcf-ca58a59aa1ab",
+      "title": "Bőrpofa",
+      "subtitle": null,
+      "timestampString": "01:51:47",
+      "timestampInSeconds": 6707,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #136",
+        "youtubeId": "4b51e0H7UII",
+        "thumbnailUrl": "https://i.ytimg.com/vi/4b51e0H7UII/hqdefault.jpg",
+        "durationInMinutes": 187,
+        "releaseDate": 1516893789000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

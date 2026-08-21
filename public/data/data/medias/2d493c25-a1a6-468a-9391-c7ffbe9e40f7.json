@@ -1,0 +1,41 @@
+{
+  "id": "2d493c25-a1a6-468a-9391-c7ffbe9e40f7",
+  "title": "Nincs kettő négy nélkül",
+  "originalTitle": "Non c'è due senza quattro",
+  "overview": "Greg és Eliot egy furcsa állásajánlat kapcsán találkozik először. Fejenként egymillió dollárért helyettesíteniük kell két riói milliomost, akik nemrégiben életveszélyes fenyegetéseket kaptak. A munka nem tűnik nehéznek: a két vagány pontos hasonmása a két milliomosnak. Néhány probléma mégiscsak felmerül: Greg és Eliot az első pillanattól kezdve ki nem állhatja egymást. Az egymillió dollárért azonban úgy gondolják, hajlandók lesznek elviselni a helyzetet egy hétig. Arról persze nem tehetnek, hogy a külvilág egy kissé csodálkozik, amikor a két elegáns, visszafogott milliomos rövid idő alatt keményöklű, nagyhangú, belevaló fickóvá változik.",
+  "backdropPath": "/ualoh6ldiiAZU4A1thzmF58mGaW.jpg",
+  "posterPath": "/p9VszbExieq1t0OCI0GiHGfCQCW.jpg",
+  "releaseDate": "1984-10-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3eab4ab8-aa55-4ff1-8e05-beca90887cab",
+      "title": "Nincs kettő négy nélkül",
+      "subtitle": null,
+      "timestampString": "02:16:20",
+      "timestampInSeconds": 8180,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #104",
+        "youtubeId": "OY96XihUHYY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/OY96XihUHYY/hqdefault.jpg",
+        "durationInMinutes": 230,
+        "releaseDate": 1469739871000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "5dda1a20-4f49-490b-bd6e-bcccc85168b3",
+  "title": "Batman : A rém álarca",
+  "originalTitle": "Batman: Mask of the Phantasm",
+  "overview": "Gotham utcáit egy igazságtevő járja, aki a sötétben rejtőzik és sorban intézi el a maffia főnökeit, azonban a történet bonyolódik amikor ez az igazságtevő találkozik Batman-nel, iletve Bruce Wayne is találkozhat egy régi ismerősével...",
+  "backdropPath": "/cMUuAgVsMWOCawXonZ4D1dSMd6h.jpg",
+  "posterPath": "/qCffysVpSPyT0tgxdXV62vvR0z5.jpg",
+  "releaseDate": "1993-12-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "02ba43b5-4457-48af-90a7-87855c03f944",
+      "title": "Batman : A rém álarca",
+      "subtitle": null,
+      "timestampString": "02:30:55",
+      "timestampInSeconds": 9055,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #83",
+        "youtubeId": "hnUVtArlE_k",
+        "thumbnailUrl": "https://i.ytimg.com/vi/hnUVtArlE_k/hqdefault.jpg",
+        "durationInMinutes": 177,
+        "releaseDate": 1445005790000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5b09b8b1-5162-492c-9b89-1ee149440e50",
+  "title": "Talpig fegyverben",
+  "originalTitle": "Guns Akimbo",
+  "overview": "Miles egy átlagos srác, aki teljesen átlagos életet él, utálja a munkáját és még fülig szerelemes az ex-barátnőjébe, Novába. Csak a televízióból értesül arról, mi folyik a városban, ahol is egy online banda, a SKIZM teljesen ismeretlen embereket kényszerít vérre menő gladiátorharcra. Egy napon aztán Miles a dolgok sűrűjében találja magát, amikor is a SKIZM felkeresi őt, mindkét tenyerébe pisztolyt szögel és azt az utasítást osztják rá, hogy ölje meg a játék történetének legjobbját, Nixet.",
+  "backdropPath": "/jKnZ3CavwSTsBbgSpAhQU8Z9nOy.jpg",
+  "posterPath": "/3XQ93DQnbd1tUMzGtqLwIEL5qxV.jpg",
+  "releaseDate": "2020-02-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f96b2322-21e2-412e-8679-24a71f979b79",
+      "title": "Talpig fegyverben",
+      "subtitle": null,
+      "timestampString": "02:00:30",
+      "timestampInSeconds": 7230,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #186",
+        "youtubeId": "LvzEUgrbuec",
+        "thumbnailUrl": "https://i.ytimg.com/vi/LvzEUgrbuec/hqdefault.jpg",
+        "durationInMinutes": 214,
+        "releaseDate": 1584373994000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

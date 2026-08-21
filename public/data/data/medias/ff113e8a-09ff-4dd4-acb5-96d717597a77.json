@@ -1,0 +1,45 @@
+{
+  "id": "ff113e8a-09ff-4dd4-acb5-96d717597a77",
+  "title": "Majd, ha fagy",
+  "originalTitle": "Mystery, Alaska",
+  "overview": "Mysteryben a csendes alaszkai kisvárosban soha nem történik semmi. Egészen addig, amíg a város egyik elszármazott és egyetlen híres polgára szellemes, ám nem túl hízelgő cikket ír a népszerű Sports Illustrated magazinban a város amatőr jégkorong-csapatáról. Egy élelmes üzletember óriási lehetőséget és persze sok pénzt lát egy világraszóló barátságos mérkőzés létrehozásában. Ezért megszervezik a szenzációs New York Rangers-Mystery párharcot, amelyben a helyi alakulatnak szánják a nevetséges balfékek szerepét. A város hokicsapata persze minden szempontból meg is felel ennek a követelményeknek, mivel néhány játékostól eltekintve az egész együttes balfácánok gyülekezete. Mystery apraja-nagyja most azonban összefog, hogy ne égjenek le élőben, az egész világ előtt.",
+  "backdropPath": "/swwCQk5sDGeuVWub4GLyS2YETrT.jpg",
+  "posterPath": "/3DWJsLl0E1QiH52iE7yiqm9Qufk.jpg",
+  "releaseDate": "1999-10-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1d7e32d7-3579-4953-bd17-fae69b591497",
+      "title": "Majd, ha fagy",
+      "subtitle": null,
+      "timestampString": "02:53:52",
+      "timestampInSeconds": 10432,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #65",
+        "youtubeId": "Nho9twpqK9c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Nho9twpqK9c/hqdefault.jpg",
+        "durationInMinutes": 210,
+        "releaseDate": 1420868167000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

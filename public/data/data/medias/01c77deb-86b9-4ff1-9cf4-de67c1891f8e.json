@@ -1,0 +1,45 @@
+{
+  "id": "01c77deb-86b9-4ff1-9cf4-de67c1891f8e",
+  "title": "Project: Alf",
+  "originalTitle": "Project: ALF",
+  "overview": "Az amerikai Edmonds légi bázison különleges kísérleteket folytatnak egy földönkívülin. Külön bizottság is alakul, mely arra hivatott, hogy Alf sorsáról döntsön. Miltoy ezredes az akciócsoport vezetője az idegen likvidálását javasolja, míg Melissa Hel őrnagy és Rick Mariken százados mindent megtesznek, hogy megmentsék. Megszöktetik Alfot a bázisról, s Melissa apjának barátjánál, Dr Dexter Moyersnél a híres ufo kutatónál keresnek menedéket. De hamar kiderül, hogy őt is csak a siker és a pénz érdekli.",
+  "backdropPath": "/84HzMOgL2gyTHnmkt1hrhep98FB.jpg",
+  "posterPath": "/ohZiryLfmtaXZI3VZWqAr72n4V9.jpg",
+  "releaseDate": "1996-02-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f4bd7f5f-d0cd-40eb-b3d6-ab703e3b613c",
+      "title": "Project: Alf",
+      "subtitle": null,
+      "timestampString": "02:25:20",
+      "timestampInSeconds": 8720,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #51",
+        "youtubeId": "E9iOfzIEJFU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E9iOfzIEJFU/hqdefault.jpg",
+        "durationInMinutes": 176,
+        "releaseDate": 1401305269000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

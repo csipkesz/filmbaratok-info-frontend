@@ -1,0 +1,41 @@
+{
+  "id": "f8ff29e7-b51e-450a-a5c5-0eaf77dc84e3",
+  "title": "Indiana Jones és a sors tárcsája",
+  "originalTitle": "Indiana Jones and the Dial of Destiny",
+  "overview": "Egy új korszakban találja magát és Indy azzal küszködik, hogy beilleszkedjen egy olyan világba, amely úgy tűnik, kinőtte őt. De amint egy ismert gonosz csápjai visszatérnek egy régi rivális képében, még egyszer fel kell vennie a kalapját és az ostorát, hogy megbizonyosodjon arról, hogy egy ősi és erős ereklye ne kerüljön rossz kezekbe.",
+  "backdropPath": "/57JocxmicOoAMhkUSmdKBlpZWMT.jpg",
+  "posterPath": "/s810Nig8BA6bDfBNhzXbQot1s8s.jpg",
+  "releaseDate": "2023-06-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "af0eb385-7193-47cd-9ec2-727f22643180",
+      "title": "Indiana Jones és a sors tárcsája",
+      "subtitle": null,
+      "timestampString": "00:49:10",
+      "timestampInSeconds": 2950,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #258",
+        "youtubeId": "sLW3E8Fk1Lk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/sLW3E8Fk1Lk/hqdefault.jpg",
+        "durationInMinutes": 200,
+        "releaseDate": 1689285300000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

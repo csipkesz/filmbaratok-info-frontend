@@ -1,0 +1,41 @@
+{
+  "id": "9c643c78-9bf7-4c34-9f93-e363b0a41b93",
+  "title": "Dealer",
+  "originalTitle": "Dealer",
+  "overview": "A film főszereplője egy volt narkós fiatalember, aki most drog dealerként él. Miközben másoknak adja pénzért a pusztulást és a halált, őt valami mindenek felett álló érzelemmentesség jellemzi. Totális cinizmusának köszönhetően nem kell felmentenie magát a felelősség alól, mivel ez föl sem merül benne. A film egy napját, mégpedig élete egy különleges napját mutatja be, amikor antihősünk sok apró részletet összerakva kezdi megérteni a körülötte zajló világot, és lassan újra képes érzelemmel kötődni az emberekhez.",
+  "backdropPath": "/38AF4PBbo0S5gbiLArytkdZ08PH.jpg",
+  "posterPath": "/jnwSc6aB1RSbOIQ1mo5LT8NzQAA.jpg",
+  "releaseDate": "2004-02-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b50019da-083c-47da-a653-1a7be0ac7038",
+      "title": "Dealer",
+      "subtitle": null,
+      "timestampString": "01:29:04",
+      "timestampInSeconds": 5344,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #122",
+        "youtubeId": "-MTE2KExAs0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-MTE2KExAs0/hqdefault.jpg",
+        "durationInMinutes": 192,
+        "releaseDate": 1495810296000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

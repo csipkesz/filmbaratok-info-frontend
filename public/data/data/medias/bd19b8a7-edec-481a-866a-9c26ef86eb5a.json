@@ -1,0 +1,41 @@
+{
+  "id": "bd19b8a7-edec-481a-866a-9c26ef86eb5a",
+  "title": "Kandahár",
+  "originalTitle": "Kandahar",
+  "overview": "Miután a küldetése lelepleződött, az Afganisztán ellenséges területén rekedt Tom Harris CIA-ügynöknek, afgán tolmácsával együtt kell eljutnia a kandahári kimentési pontra, miközben az ellenséges elit erők és a megölésükkel megbízott külföldi kémek keresik őket.",
+  "backdropPath": "/8TLkiYAUwEXInVCJ3cQVyZXChyZ.jpg",
+  "posterPath": "/AdNDXFzuClhkD3wULLTvL992L8Y.jpg",
+  "releaseDate": "2023-05-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ab1b0bba-aed6-4918-9379-57726bd8d507",
+      "title": "Kandahár",
+      "subtitle": null,
+      "timestampString": "01:38:50",
+      "timestampInSeconds": 5930,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #258",
+        "youtubeId": "sLW3E8Fk1Lk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/sLW3E8Fk1Lk/hqdefault.jpg",
+        "durationInMinutes": 200,
+        "releaseDate": 1689285300000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

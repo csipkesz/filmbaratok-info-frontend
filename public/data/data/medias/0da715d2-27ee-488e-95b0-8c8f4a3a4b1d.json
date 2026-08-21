@@ -1,0 +1,45 @@
+{
+  "id": "0da715d2-27ee-488e-95b0-8c8f4a3a4b1d",
+  "title": "Az útvesztő: Tűzpróba",
+  "originalTitle": "Maze Runner: The Scorch Trials",
+  "overview": "Thomaséknak a labirintusból kijutva nem ért véget a megpróbáltatásaik. Többről van itt szó, mint egy játékról. A világ pusztulófélben van és az eddig ismert társadalmi rendszerek eltűntek. Az útvesztő csak egy kezdeti próba volt, és eztán már egy újabb következik, ami jóval veszélyesebb és összetettebb küzdelmeket követel meg.",
+  "backdropPath": "/4mcOCiR06dqQ5eoEJcG3zvonjOa.jpg",
+  "posterPath": "/nCYZNu2Z1G5zYOBgJ2k3LI9dyDC.jpg",
+  "releaseDate": "2015-09-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1c36f128-488d-4ac1-bdf6-77a2b146c097",
+      "title": "Az útvesztő: Tűzpróba",
+      "subtitle": null,
+      "timestampString": "00:49:20",
+      "timestampInSeconds": 2960,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #82",
+        "youtubeId": "g8wdyUhhVtI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/g8wdyUhhVtI/hqdefault.jpg",
+        "durationInMinutes": 170,
+        "releaseDate": 1443630602000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

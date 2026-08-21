@@ -1,0 +1,41 @@
+{
+  "id": "dfa9d413-27bd-4743-83a8-8a36bb038899",
+  "title": "Jó szerencse",
+  "originalTitle": "Good Fortune",
+  "overview": "A sors égi fordulata szerint Gábriel angyal életet cserél egy Los Angeles-i, nehéz körülmények között élő férfi, és egy szupergazdag mágnás, Jeff között, hogy bebizonyítsa, a gazdagság nem mindenre gyógyír. Amikor azonban a terv visszafelé sül el, és a férfi kiélvezi újonnan szerzett gazdagságát, Gabriel váratlan következményekkel szembesül: elveszíti szárnyait, és arra kárhoztatják, hogy az emberek között éljen.",
+  "backdropPath": "/nkxtuK4alXlGC87FRNDfAZJIFiB.jpg",
+  "posterPath": "/qxHBFVOpP8LN5cbLLb81y32PdAb.jpg",
+  "releaseDate": "2025-10-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ab6c0159-c97a-42e9-9fd8-87ed06ae2314",
+      "title": "Jó szerencse",
+      "subtitle": null,
+      "timestampString": "01:18:00",
+      "timestampInSeconds": 4680,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #313",
+        "youtubeId": "hdAN5nf2KLo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/hdAN5nf2KLo/hqdefault.jpg",
+        "durationInMinutes": 179,
+        "releaseDate": 1761828306000,
+        "participants": [
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

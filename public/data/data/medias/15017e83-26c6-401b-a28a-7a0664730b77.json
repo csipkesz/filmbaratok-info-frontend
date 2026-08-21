@@ -1,0 +1,45 @@
+{
+  "id": "15017e83-26c6-401b-a28a-7a0664730b77",
+  "title": "The night eats the world",
+  "originalTitle": "La nuit a dévoré le monde",
+  "overview": "Egy éjszakai buli után egy fiatal férfi felébred és a zombik által uralt Párizsban találja magát.",
+  "backdropPath": "/pSkrHRFAC8ZC6b04L7Z2PA0aIq3.jpg",
+  "posterPath": "/mep2WKvwC7VCnYmWu4VEC5DwMOF.jpg",
+  "releaseDate": "2018-03-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c559fafe-1599-4474-a1a0-4070e9f65280",
+      "title": "The night eats the world",
+      "subtitle": null,
+      "timestampString": "01:34:05",
+      "timestampInSeconds": 5645,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #202",
+        "youtubeId": "E2b82odyb3w",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E2b82odyb3w/hqdefault.jpg",
+        "durationInMinutes": 223,
+        "releaseDate": 1608135119000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

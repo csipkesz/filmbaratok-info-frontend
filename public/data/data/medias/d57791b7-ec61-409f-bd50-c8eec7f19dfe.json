@@ -1,0 +1,45 @@
+{
+  "id": "d57791b7-ec61-409f-bd50-c8eec7f19dfe",
+  "title": "Dogman – A kutyák ura",
+  "originalTitle": "Dogman",
+  "overview": "Douglas kiskora óta nem találja a helyét a világban és a társadalomban, ezért az emberek helyett a kutyákhoz fordul. Feltétel nélküli rajongása a négylábúak iránt egy sajátos élet kialakítását eredményezi: csak bennük bízik, csak velük érzi magát biztonságban. Emiatt a számkivetett férfi a kutyái segítségével sajátosan értelmezi a törvényeket is. Ha kell, a hozzá hasonló elesettek védelmezőjeként lép fel, szembeszállva akár a maffiával is. Nem retten vissza a kegyetlen erőszaktól sem - főleg, ha a bosszú vezérli.",
+  "backdropPath": "/nvW0QfRJ7ga9TK8DKwBfAPA8ywP.jpg",
+  "posterPath": "/28HFcjAUm7VrtaoeK7dVXxwuy5O.jpg",
+  "releaseDate": "2023-09-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "19c424e3-b5e2-43ac-8cfd-98c5db7a336b",
+      "title": "Dogman – A kutyák ura",
+      "subtitle": null,
+      "timestampString": "00:26:10",
+      "timestampInSeconds": 1570,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #266",
+        "youtubeId": "N4U228aSkd8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/N4U228aSkd8/hqdefault.jpg",
+        "durationInMinutes": 221,
+        "releaseDate": 1700081301000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

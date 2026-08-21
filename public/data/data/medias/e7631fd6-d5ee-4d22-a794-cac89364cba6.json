@@ -1,0 +1,45 @@
+{
+  "id": "e7631fd6-d5ee-4d22-a794-cac89364cba6",
+  "title": "Nightbreed (Az éjszaka szülöttei)",
+  "originalTitle": "Nightbreed",
+  "overview": "Boone-nak menekülnie kell: nyomában egy nő, aki halálosan szerelmes belé, egy pszichopata gyilkos és a törvény, hiszen gyilkossággal vádolják. Nincs más hátra, Boone enged a régóta csábító, titokzatos hívó hangnak, és elindul Midianba, a legendás szörnyetegekkel teli földalatti városba, arra a misztikus helyre, ahol minden bűn bocsánatot nyer...",
+  "backdropPath": "/vt7ZQ38ZLOpq63DXu7pi3Rf5T24.jpg",
+  "posterPath": "/sLs0SNUmXdealxYR6c17mzJnK5U.jpg",
+  "releaseDate": "1990-02-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fc94bda2-82c3-4016-9afe-6c8fc9c62e69",
+      "title": "Nightbreed (Az éjszaka szülöttei)",
+      "subtitle": null,
+      "timestampString": "01:28:44",
+      "timestampInSeconds": 5324,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #65",
+        "youtubeId": "Nho9twpqK9c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Nho9twpqK9c/hqdefault.jpg",
+        "durationInMinutes": 210,
+        "releaseDate": 1420868167000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

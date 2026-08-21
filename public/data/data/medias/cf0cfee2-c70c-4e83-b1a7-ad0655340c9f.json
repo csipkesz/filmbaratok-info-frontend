@@ -1,0 +1,45 @@
+{
+  "id": "cf0cfee2-c70c-4e83-b1a7-ad0655340c9f",
+  "title": "Whiplash",
+  "originalTitle": "Whiplash",
+  "overview": "Andrew híres akar lenni. New York, tehát az Egyesült Államok, tehát az egész világ egyik leghíresebb zeneiskolájába, a Shaffer Konzervatóriumba jár, dobolni tanul, rengeteget gyakorol, és mindenre képes volna a siker érdekében. Legalább is, azt hiszi. De találkozik egy tanárral, aki még nála is elszántabb. Ő abban hisz, hogy a tehetséget mindenáron fel kell szabadítani, és ami bujkál, azt ki kell préselni a tanulókból. Akkor is, ha kínlódnak, ha sírnak vagy belehalnak. A kezdő zenész és a sokat látott veterán egymásnak feszül. A tanár felveszi a kezdő dobost a zenekarába, de az első örömöt nagyon sok keserűség követi. És egyikük sem adja fel könnyen, amit elkezdett. Mindketten tartják a ritmust...",
+  "backdropPath": "/wbQa0EnWUyRzQ5d1pHLNRlmsCUP.jpg",
+  "posterPath": "/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
+  "releaseDate": "2014-10-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3bf11137-9218-4039-b67d-faee18451d0c",
+      "title": "Whiplash",
+      "subtitle": null,
+      "timestampString": "01:00:26",
+      "timestampInSeconds": 3626,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #67",
+        "youtubeId": "FATQkJjmAQg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/FATQkJjmAQg/hqdefault.jpg",
+        "durationInMinutes": 206,
+        "releaseDate": 1424108444000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

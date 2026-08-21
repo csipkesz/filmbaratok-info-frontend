@@ -1,0 +1,49 @@
+{
+  "id": "e9004746-54df-40d5-9c15-67cb4a88e8dc",
+  "title": "Lara Croft: Tomb Raider [2001]",
+  "originalTitle": "Lara Croft: Tomb Raider",
+  "overview": "Az árva örökösnő és rettenthetetlen régész, Lara Croft veszélyes küldetésre indul, hogy visszaszerezze egy ősi műtárgy két felét, amely irányítja az időt, mielőtt rossz kezekbe kerülnek. Mivel egy rendkívül ritka bolygóegyüttállás 5000 év után először történik meg, a rettenthetetlen sírrablónak rivális kalandorokkal és esküdt ellenségekkel kell összefognia, hogy összegyűjtse a darabokat, miközben az idő fogy.",
+  "backdropPath": "/bL41GVWvp4YJDJ50PDcxaN4cds9.jpg",
+  "posterPath": "/dVrvQluc9lIJUDMeRL3Ojakf3a2.jpg",
+  "releaseDate": "2001-06-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b2df9e37-4ecc-4214-ab66-d30037e9a713",
+      "title": "Lara Croft: Tomb Raider [2001]",
+      "subtitle": null,
+      "timestampString": "01:20:00",
+      "timestampInSeconds": 4800,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #301 [Videojáték megfilmesítések Stökivel]",
+        "youtubeId": "b-yzUkXog24",
+        "thumbnailUrl": "https://i.ytimg.com/vi/b-yzUkXog24/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1745990091000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "c5ca1e5f-fec2-4472-a215-33a02648b13e",
+            "name": "Stöckert Gábor"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

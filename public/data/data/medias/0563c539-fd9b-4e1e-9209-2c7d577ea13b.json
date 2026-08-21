@@ -1,0 +1,79 @@
+{
+  "id": "0563c539-fd9b-4e1e-9209-2c7d577ea13b",
+  "title": "Anyám!",
+  "originalTitle": "mother!",
+  "overview": "Az idősödő költő és fiatal felesége egy nagy viktoriánus házban élnek vidéken. Egy nap egy idegen és felesége beköltöznek a házba, megzavarva a pár nyugodt életét...",
+  "backdropPath": "/2wS8pMZgvzq7kaZb5LHX54poQnA.jpg",
+  "posterPath": "/kvRjnFeU55JP2lpnwRO2yAgCf0L.jpg",
+  "releaseDate": "2017-09-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "636ad981-fd49-4de2-9363-0a7bc3a48956",
+      "title": "Anyám!",
+      "subtitle": null,
+      "timestampString": "03:02:10",
+      "timestampInSeconds": 10930,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #131",
+        "youtubeId": "QymLKg2wvV4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/QymLKg2wvV4/hqdefault.jpg",
+        "durationInMinutes": 230,
+        "releaseDate": 1509033085000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f573f77f-78d6-4d7e-a3f7-8cb428460e64",
+      "title": "Anyám! [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "03:17:50",
+      "timestampInSeconds": 11870,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #131",
+        "youtubeId": "QymLKg2wvV4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/QymLKg2wvV4/hqdefault.jpg",
+        "durationInMinutes": 230,
+        "releaseDate": 1509033085000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

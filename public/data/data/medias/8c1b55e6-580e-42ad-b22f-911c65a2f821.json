@@ -1,0 +1,45 @@
+{
+  "id": "8c1b55e6-580e-42ad-b22f-911c65a2f821",
+  "title": "Halálos iramban 10",
+  "originalTitle": "Fast X",
+  "overview": "Dom Toretto és családja minden útjukba kerülő ellenségnek túljárt az eszén és minden helyzetből kihozta a lehető legjobbat. Most szembe kell nézniük egy félelmetes fenyegetéssel, amely a múlt árnyékából bukkan fel, akit a vérbosszú fűt, és aki elhatározza, hogy szétzilálja ezt a családot, és elpusztít mindent – és mindenkit –, akit Dom szeret. Örökre.",
+  "backdropPath": "/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
+  "posterPath": "/qNAA54nU30jshNmvUGbeg0kCotX.jpg",
+  "releaseDate": "2023-05-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fc5ca318-072b-4792-ba69-eb5e8b5f4817",
+      "title": "Halálos iramban 10",
+      "subtitle": null,
+      "timestampString": "01:19:35",
+      "timestampInSeconds": 4775,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #255",
+        "youtubeId": "z9qYgREOM9c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z9qYgREOM9c/hqdefault.jpg",
+        "durationInMinutes": 258,
+        "releaseDate": 1685482206000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

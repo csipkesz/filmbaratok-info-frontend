@@ -1,0 +1,41 @@
+{
+  "id": "318a9de0-d475-442d-b1ef-6d8abd5dfad6",
+  "title": "A generális",
+  "originalTitle": "The General",
+  "overview": "Johnnie Gray mozdonyvezető egyaránt szereti mozdonyát, a Generálist és menyasszonyát, a bájos Mary Lee-t. Amikor Johnnie végzett munkájával, hazasiet Maryhez. A jövő tervezgetése legszebb időtöltésévé válik a két szerelmes fiatalnak. A békés élet azonban úgy tűnik várat magára, ugyanis kitör a háború Észak és Dél között.",
+  "backdropPath": "/mzox4HbcV9W42MH2dB1QsdDVGo3.jpg",
+  "posterPath": "/5Rs9uB0p6JaSuRd3U2CVV3v3vbX.jpg",
+  "releaseDate": "1926-12-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d3915232-231b-4369-8992-409af8fed5dd",
+      "title": "A generális",
+      "subtitle": null,
+      "timestampString": "02:06:34",
+      "timestampInSeconds": 7594,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #45",
+        "youtubeId": "9hNSnIZK61I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9hNSnIZK61I/hqdefault.jpg",
+        "durationInMinutes": 145,
+        "releaseDate": 1392563971000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

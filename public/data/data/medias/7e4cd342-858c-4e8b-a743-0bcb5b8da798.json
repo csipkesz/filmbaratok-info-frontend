@@ -1,0 +1,45 @@
+{
+  "id": "7e4cd342-858c-4e8b-a743-0bcb5b8da798",
+  "title": "A berni követ",
+  "originalTitle": "A berni követ",
+  "overview": "Napra pontosan két hónappal Nagy Imre és mártírtársai kivégzése után a Magyar Népköztársaság berni követsége ellen két magyar emigráns fegyveres támadást hajtott végre. Az indíték homályos, bár helyi lapértesülések szerint, Nagy Sándor és Papp Endre a svájci magyar kommunista ügynökök aktáit akarta megszerezni a magyar nagykövet túszulejtésével. Ugyanakkor bizonyos forrásokból kiderül, hogy a támadók a megtorlások elleni tiltakozó, figyelemfelkeltő, demonstratív akciónak szánták fellépésüket. Céljukat tulajdonképpen elérték, mert heteken keresztül a külföldi sajtó napirenden tartotta a támadás - és ezáltal a levert forradalom - ügyét, hiszen nemcsak a nemzetközi politika, a diplomácia, de a helyi képes újságok is több alkalommal foglalkoztak a témával.",
+  "backdropPath": "/o5x66WKv4j5pYCzgrphL8GKhW9H.jpg",
+  "posterPath": "/uQMTQTfCo0nfZixzkQEvB1yfyt.jpg",
+  "releaseDate": "2014-02-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "911ceea6-109b-4cf4-a945-582585afe7e2",
+      "title": "A berni követ",
+      "subtitle": null,
+      "timestampString": "01:00:00",
+      "timestampInSeconds": 3600,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #51",
+        "youtubeId": "E9iOfzIEJFU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E9iOfzIEJFU/hqdefault.jpg",
+        "durationInMinutes": 176,
+        "releaseDate": 1401305269000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

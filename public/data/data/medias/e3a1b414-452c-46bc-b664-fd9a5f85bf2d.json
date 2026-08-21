@@ -1,0 +1,45 @@
+{
+  "id": "e3a1b414-452c-46bc-b664-fd9a5f85bf2d",
+  "title": "A pók feje",
+  "originalTitle": "Spiderhead",
+  "overview": "Egy modern büntetés-végrehajtási intézet rabja elkezdi megkérdőjelezni az érzelemcsökkentő gyógyszerek célját, amelyeket egy gyógyszerész zseninek tesztel.",
+  "backdropPath": "/ulkWS7Atv0vv33KVCSAmNizAmJd.jpg",
+  "posterPath": "/5dfQmXXxGSPu6V1DZwOl8ZB5017.jpg",
+  "releaseDate": "2022-06-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0aa50407-06e0-4d25-9e96-ca103650722a",
+      "title": "A pók feje",
+      "subtitle": null,
+      "timestampString": "02:01:47",
+      "timestampInSeconds": 7307,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #235",
+        "youtubeId": "E8HgTAqoW8U",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E8HgTAqoW8U/hqdefault.jpg",
+        "durationInMinutes": 220,
+        "releaseDate": 1657007879000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "e4d249a5-e251-44d9-8c10-8e2e3e9a6069",
+            "name": "Anna"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

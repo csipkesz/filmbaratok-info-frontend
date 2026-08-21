@@ -1,0 +1,41 @@
+{
+  "id": "5e0e5430-fca5-4330-877c-763cd3c34894",
+  "title": "Bosszúállók: Végjáték",
+  "originalTitle": "Avengers: Endgame",
+  "overview": "A galaxis őrzőinek és a bosszúállóknak a háborúja Thanos-szal a végső szakaszába lép. A végső csata kimenetele mindörökre megváltoztathatja nemcsak a Föld, de az egész univerzum sorsát.",
+  "backdropPath": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+  "posterPath": "/lwTr5hPyqdMXyZiPWimb0Xgdz3F.jpg",
+  "releaseDate": "2019-04-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a5771128-7819-4a3c-9322-3002c33fb10e",
+      "title": "Bosszúállók: Végjáték",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #167 (Bosszúállók: Végjáték)",
+        "youtubeId": "L-ZC-1ZbgR8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/L-ZC-1ZbgR8/hqdefault.jpg",
+        "durationInMinutes": 136,
+        "releaseDate": 1556562401000,
+        "participants": [
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

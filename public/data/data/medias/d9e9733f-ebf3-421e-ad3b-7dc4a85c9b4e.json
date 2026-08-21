@@ -1,0 +1,160 @@
+{
+  "id": "d9e9733f-ebf3-421e-ad3b-7dc4a85c9b4e",
+  "title": "Stranger Things",
+  "originalTitle": "Stranger Things",
+  "overview": "Egy fiatal fiú eltűnését követően a kisváros lakói titkos kísérletekre, rémisztő természetfeletti erőkre és egy furcsa kislányra derítenek fényt.",
+  "backdropPath": "/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
+  "posterPath": "/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+  "releaseDate": "2016-07-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0ad363f0-8329-402a-83d0-f72acff2c75d",
+      "title": "Stranger Things",
+      "subtitle": null,
+      "timestampString": "02:32:24",
+      "timestampInSeconds": 9144,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #104",
+        "youtubeId": "OY96XihUHYY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/OY96XihUHYY/hqdefault.jpg",
+        "durationInMinutes": 230,
+        "releaseDate": 1469739871000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2a1a0db1-4e2a-44ad-8aa9-b741723637f5",
+      "title": "Stranger Things (5. évad)",
+      "subtitle": "5. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Stranger Things (5. évad)",
+        "youtubeId": "yAMWOrsg4zk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/yAMWOrsg4zk/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1768921066000,
+        "participants": []
+      }
+    },
+    {
+      "id": "5fd2bc1c-382d-4814-8c35-6afc48c1c363",
+      "title": "Stranger Things 1. évad",
+      "subtitle": "1. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Stranger Things 1. évad",
+        "youtubeId": "sNnAU5mi5iw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/sNnAU5mi5iw/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1659683702000,
+        "participants": []
+      }
+    },
+    {
+      "id": "7494ec0e-1852-487e-bd24-7578720d8162",
+      "title": "Stranger Things 4. évad",
+      "subtitle": "4. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Stranger Things 4. évad",
+        "youtubeId": "oloMm1PVXwY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/oloMm1PVXwY/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1659677364000,
+        "participants": []
+      }
+    },
+    {
+      "id": "917abf0a-7711-4dbc-9000-6fe78d5d75d0",
+      "title": "Stranger Things 2. évad [SPOILERES]",
+      "subtitle": "2. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": true,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Stranger Things 2. évad [SPOILERES]",
+        "youtubeId": "f3ZeIlkIik4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/f3ZeIlkIik4/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1512502481000,
+        "participants": []
+      }
+    },
+    {
+      "id": "c8829a46-e44e-4074-9501-6f483a5c2a5a",
+      "title": "Stranger Things 3. évad",
+      "subtitle": "3. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Stranger Things 3. évad",
+        "youtubeId": "r7mkXTkrjMI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/r7mkXTkrjMI/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1659684905000,
+        "participants": []
+      }
+    },
+    {
+      "id": "e17f6597-f9eb-4eaf-b170-75cefae38de4",
+      "title": "Stranger Things 3. évad [SPOILERES]",
+      "subtitle": "3. évad",
+      "timestampString": "03:35:00",
+      "timestampInSeconds": 12900,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #172",
+        "youtubeId": "ahOskajDN8o",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ahOskajDN8o/hqdefault.jpg",
+        "durationInMinutes": 250,
+        "releaseDate": 1564145413000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

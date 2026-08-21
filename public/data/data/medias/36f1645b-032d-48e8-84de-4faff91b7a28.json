@@ -1,0 +1,45 @@
+{
+  "id": "36f1645b-032d-48e8-84de-4faff91b7a28",
+  "title": "Úszó erőd",
+  "originalTitle": "Under Siege",
+  "overview": "Casey Rybackről (Steven Seagal), a USS Missouri csatahajó jámbor szakácsáról csak kevesen tudják, hogy valamikor mindenre elszánt harcosként szolgált Vietnamban és a Közel-Keleten. A sors újra közbeszól, mert amikor a Missouri terroristák célpontjává válik, akik meg akarják szerezni a hajó nukleáris fegyvereit, Rybacknek a maroknyi legénység élére kell állnia, hogy megvédje a hajót, miközben a szárazföldön milliók rettegnek lélegzetvisszafojtva a fenyegető nukleáris háborútól.",
+  "backdropPath": "/ihBDaN7OwT7D9DVri8SmxCnuRLB.jpg",
+  "posterPath": "/zLuPoJN7hjvof9UDGxiHnbvJc7k.jpg",
+  "releaseDate": "1992-10-08T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ddb24e59-fe68-4a0e-b182-8a6d5cf6cb2c",
+      "title": "Úszó erőd",
+      "subtitle": null,
+      "timestampString": "03:29:15",
+      "timestampInSeconds": 12555,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #278",
+        "youtubeId": "RevEenp3eWU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/RevEenp3eWU/hqdefault.jpg",
+        "durationInMinutes": 268,
+        "releaseDate": 1715968812000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

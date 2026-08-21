@@ -1,0 +1,41 @@
+{
+  "id": "a5cebc38-4b6d-4e84-9610-13fbffdcf7e4",
+  "title": "Mennydörgők*",
+  "originalTitle": "Thunderbolts*",
+  "overview": "A Mennydörgők*-ben a Marvel Studios merőben szokatlan antihős-csapatot toboroz össze: ők Jelena Belova, Bucky Barnes, Vörös Őr, Szellem, Kiképző és John Walker. Miután kijutnak egy Valentina Allegra de Fontaine által felállított halálos csapdából, ezek a kiábrándult figurák veszedelmes küldetésre vállalkoznak; e küldetés során múltjuk sötét epizódjaival lesznek kénytelenek farkasszemet nézni. Képes lesz-e az össze nem illő banda megváltásra lelni és időben egységbe verődni, vagy inkább elpusztítják egymást?",
+  "backdropPath": "/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg",
+  "posterPath": "/vr20UIrV0jxe0ntkLqbPNyIwvAm.jpg",
+  "releaseDate": "2025-04-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "39e81bd7-dbfe-4076-bc42-9acf7092c9be",
+      "title": "Mennydörgők*",
+      "subtitle": null,
+      "timestampString": "02:36:30",
+      "timestampInSeconds": 9390,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #302",
+        "youtubeId": "3K4xdZiHI_w",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3K4xdZiHI_w/hqdefault.jpg",
+        "durationInMinutes": 235,
+        "releaseDate": 1747414746000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

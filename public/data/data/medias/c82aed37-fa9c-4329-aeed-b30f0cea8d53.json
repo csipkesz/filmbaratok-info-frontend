@@ -1,0 +1,41 @@
+{
+  "id": "c82aed37-fa9c-4329-aeed-b30f0cea8d53",
+  "title": "xXx: Újra akcióban",
+  "originalTitle": "xXx: Return of Xander Cage",
+  "overview": "Az extrém sportolóból kormányügynökké avanzsált Xander Cage felbukkan önkéntes száműzetéséből, és rögtön összeütközésbe kerül Xianggal, a halálos harcossal, és csapatával, akik megszereznek egy Pandora szelencéje néven ismert veszélyes és látszólag megállíthatatlan szuperfegyvert. Ám alig hogy Xander új csapatot toboroz kalandvágyó spanokból, egy halálos összeesküvés kellős közepén találja magát, melynek szálai a legfelsőbb kormányzati körökbe vezetnek...",
+  "backdropPath": "/4QLdZ2A8mkDWp2rpfgDrwmeCtUW.jpg",
+  "posterPath": "/qAgAZ7VuMKd3bwgFpbLB6fbUQwC.jpg",
+  "releaseDate": "2017-01-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "16fbbcf1-e89f-4832-9315-992dbb3af17a",
+      "title": "xXx: Újra akcióban",
+      "subtitle": null,
+      "timestampString": "00:57:43",
+      "timestampInSeconds": 3463,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #116",
+        "youtubeId": "z6ZDT1e89XY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z6ZDT1e89XY/hqdefault.jpg",
+        "durationInMinutes": 146,
+        "releaseDate": 1487003611000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

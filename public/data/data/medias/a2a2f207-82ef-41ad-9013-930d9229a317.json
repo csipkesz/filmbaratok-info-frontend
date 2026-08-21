@@ -1,0 +1,45 @@
+{
+  "id": "a2a2f207-82ef-41ad-9013-930d9229a317",
+  "title": "X-Men: Az eljövendõ múlt napjai",
+  "originalTitle": "X-Men: Days of Future Past",
+  "overview": "A mutánsok köztünk élnek. Ez így volt a múltban is, és így lesz a jövőben is. Legfeljebb nem ebben a sorrendben. Az alternatív jövőt, a mutánsok és emberek közti háború újabb fejezetét bemutató filmben az X-Men-mozik mindkét generációja játszik: a több, egymást keresztező idősíkon bonyolódó történetben Xaiver professzor tanítványainak nemcsak az emberekkel és az emberekben örök ellenséget látó mutánsokkal kell megküzdeniük – immár robotokat is bevetnek ellenük. A sok mutánsnak és a sok harcnak egyetlen célja van: meg kell akadályozni egy a jövőben készülő katasztrófát. De erre csak egyféleképpen van lehetőség: meg kell változtatni a múltat.",
+  "backdropPath": "/3czpqXzFy5UcNuD1AubecRLWkwD.jpg",
+  "posterPath": "/yQQg2WMrMYrOGumc70X6y4aFo43.jpg",
+  "releaseDate": "2014-05-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4f1de5cb-bbd1-4c43-9af6-ed34c2edbf8e",
+      "title": "X-Men: Az eljövendõ múlt napjai",
+      "subtitle": null,
+      "timestampString": "01:30:00",
+      "timestampInSeconds": 5400,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #51",
+        "youtubeId": "E9iOfzIEJFU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E9iOfzIEJFU/hqdefault.jpg",
+        "durationInMinutes": 176,
+        "releaseDate": 1401305269000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "6045a8c3-2314-4a10-9b52-ac310a24bd76",
+  "title": "Ami sok, az sokk",
+  "originalTitle": "The 'Burbs",
+  "overview": "Ez a film egy kicsit szokatlan vígjáték. A legszokatlanabb a helyszín megválasztása: az egész egy külvárosi zsákutcában játszódik. Ray Peterson nemigen mozdul ki otthonról. Úgy gondolja, ha szabadideje adódik, azt a legeslegjobb a ház mögötti kertben eltölteni. Pihenés a nyugágyban, olvasás és egyéb, nem munkával töltött órák kérdése az egész. Így vélekedik a többi szomszéd is. Vannak íratlan szabályok, amelyeket mindenki betart az utcában. Egy: tartsd karban a házadat, kettő: mindig szépen nyírt gyep legyen a kertedben, három: illeszkedj be a lakók közé. Ray úgy dönt, hogy ezúttal is az egyhetes laza vakációt otthon töltik feleségével, ám hamarosan konfliktusuk támad a szomszédokkal. Ray új szomszédai ugyanis, úgy tűnik, még nem hallották ezeket a szabályokat. Vagy ha hallották is, figyelmen kívül hagyták. Klopek-ék már egy hónapja laknak itt, de még nem nagyon látta őket senki, hallani viszont annál inkább hallották.",
+  "backdropPath": "/pyeknyOKRLBd4ROOeYL6kV103ov.jpg",
+  "posterPath": "/6enQgGQmFEMrEnhjQV9gdn9xNbU.jpg",
+  "releaseDate": "1989-02-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d7703ef8-fb5d-4086-a71a-02c3cb2a5edb",
+      "title": "Ami sok, az sokk",
+      "subtitle": null,
+      "timestampString": "03:28:02",
+      "timestampInSeconds": 12482,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #192",
+        "youtubeId": "U-r1xMhFqug",
+        "thumbnailUrl": "https://i.ytimg.com/vi/U-r1xMhFqug/hqdefault.jpg",
+        "durationInMinutes": 257,
+        "releaseDate": 1593098527000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

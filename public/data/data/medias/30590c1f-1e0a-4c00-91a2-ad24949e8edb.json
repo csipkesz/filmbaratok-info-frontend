@@ -1,0 +1,45 @@
+{
+  "id": "30590c1f-1e0a-4c00-91a2-ad24949e8edb",
+  "title": "Szárazon",
+  "originalTitle": "Smashed",
+  "overview": "A történet egy fiatal házaspárról szól, akiknek kapcsolatában jelentős szerepet játszik az alkohol. A baj akkor kezdődik, amikor a feleség elhatározza, leszokik az ivásról, ugyanis így már az ital nem lehet kettejük kapcsolatának az alapja.",
+  "backdropPath": "/5rdtiEBC6znvGr5ep2TfeqI1JCC.jpg",
+  "posterPath": "/shvh4JODc6uidnEnTmbQau66hQ3.jpg",
+  "releaseDate": "2012-01-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "84ca7c4b-f715-4809-85ef-6dbcc5f16f6f",
+      "title": "Szárazon",
+      "subtitle": null,
+      "timestampString": "02:59:37",
+      "timestampInSeconds": 10777,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #66",
+        "youtubeId": "E4v-47u65NI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E4v-47u65NI/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1422556505000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "d00e5743-530e-4f35-b159-f53fe8e4da95",
+  "title": "Szőr Austin Powers: Őfelsége titkolt ügynöke",
+  "originalTitle": null,
+  "overview": null,
+  "backdropPath": null,
+  "posterPath": null,
+  "releaseDate": null,
+  "topics": [
+    {
+      "id": "57d30d0c-0a50-4d98-9d0a-c92493d0e0cc",
+      "title": "Szőr Austin Powers: Őfelsége titkolt ügynöke",
+      "subtitle": null,
+      "timestampString": "02:44:32",
+      "timestampInSeconds": 9872,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #259",
+        "youtubeId": "pSiJphe8S5U",
+        "thumbnailUrl": "https://i.ytimg.com/vi/pSiJphe8S5U/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1690581661000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "e4d249a5-e251-44d9-8c10-8e2e3e9a6069",
+            "name": "Anna"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

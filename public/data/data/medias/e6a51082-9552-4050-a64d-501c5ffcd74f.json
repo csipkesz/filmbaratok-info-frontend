@@ -1,0 +1,45 @@
+{
+  "id": "e6a51082-9552-4050-a64d-501c5ffcd74f",
+  "title": "Bosszúállók: Ultron kora",
+  "originalTitle": "Avengers: Age of Ultron",
+  "overview": "Amikor Tony Stark újra életet akar lehelni a parkolópályára állított békefenntartó programba, nem minden sikerül a tervei szerint. A Föld legnagyobb hőseinek, vagyis Vasembernek, Amerika kapitánynak, Thornak, a Hihetetlen Hulknak, a Fekete Özvegynek és Sólyomszemnek ezúttal a legvégső megmérettetésen kell helytállniuk, mivel a bolygó sorsáról van szó. A rettegett Ultron megjelenésével a Bosszúállókra vár a feladat, hogy megakadályozzák ördögi terve megvalósítását. Az egyedülálló, globális kaland azonban csupán vonakodva megköttetett szövetségek és nem várt események árán teljesedhet ki.",
+  "backdropPath": "/kIBK5SKwgqIIuRKhhWrJn3XkbPq.jpg",
+  "posterPath": "/xWvbhoF5gqE5E6v8HzsxhjmxbIs.jpg",
+  "releaseDate": "2015-04-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "43d1f5eb-a0e0-42ea-8107-c92756fd92ef",
+      "title": "Bosszúállók: Ultron kora",
+      "subtitle": null,
+      "timestampString": "00:24:13",
+      "timestampInSeconds": 1453,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #73",
+        "youtubeId": "CojqY6DJFQM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/CojqY6DJFQM/hqdefault.jpg",
+        "durationInMinutes": 197,
+        "releaseDate": 1431625186000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

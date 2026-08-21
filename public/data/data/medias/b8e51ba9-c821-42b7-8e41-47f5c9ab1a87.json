@@ -1,0 +1,45 @@
+{
+  "id": "b8e51ba9-c821-42b7-8e41-47f5c9ab1a87",
+  "title": "Coco",
+  "originalTitle": "Coco",
+  "overview": "Annak ellenére, hogy családja ősidők óta megveti a zenét, Miguel arról ábrándozik, hogy egyszer neves muzsikus lesz, akárcsak bálványa, Ernesto de la Cruz. Rejtélyes események láncolatát követően a fiú előtt megnyílik a holtak bámulatos és színkavalkádos világa, ahol bizonyítani tudja tehetségét. Varázslatos útja során összeakad a simlis Hectorral, s ketten együtt próbálják megfejteni a titkot, ami fényt derít Miguel családjának valódi történetére.",
+  "backdropPath": "/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg",
+  "posterPath": "/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
+  "releaseDate": "2017-10-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fcd7ed87-da91-4eea-a3b9-285dc8fc23d7",
+      "title": "Coco",
+      "subtitle": null,
+      "timestampString": "02:13:07",
+      "timestampInSeconds": 7987,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #133",
+        "youtubeId": "HByKV2iRM34",
+        "thumbnailUrl": "https://i.ytimg.com/vi/HByKV2iRM34/hqdefault.jpg",
+        "durationInMinutes": 235,
+        "releaseDate": 1512135779000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

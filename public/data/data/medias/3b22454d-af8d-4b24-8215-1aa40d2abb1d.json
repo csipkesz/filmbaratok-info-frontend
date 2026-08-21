@@ -1,0 +1,45 @@
+{
+  "id": "3b22454d-af8d-4b24-8215-1aa40d2abb1d",
+  "title": "Prédák",
+  "originalTitle": "Haunt",
+  "overview": "Egy hatfős baráti társaság halloween ünnepén vérfagyasztó kísértetházra bukkan, amely állítólag legsötétebb félelmeikből táplálkozik. A fiatalok az egyre több áldozatot követelő éjszaka során fokozatosan rádöbbennek, hogy egyes rémálmok képesek valósággá válni.",
+  "backdropPath": "/dmXsktpfHgTNeLFeo5nVItiXuBr.jpg",
+  "posterPath": "/jngp2gzyi4F4f5fE3M4Ggjq2wOy.jpg",
+  "releaseDate": "2019-09-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "31cf128a-5f05-4915-a8b0-f6a9d9952a96",
+      "title": "Prédák",
+      "subtitle": null,
+      "timestampString": "02:10:00",
+      "timestampInSeconds": 7800,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #177",
+        "youtubeId": "SiiouPY48NM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/SiiouPY48NM/hqdefault.jpg",
+        "durationInMinutes": 237,
+        "releaseDate": 1571926127000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

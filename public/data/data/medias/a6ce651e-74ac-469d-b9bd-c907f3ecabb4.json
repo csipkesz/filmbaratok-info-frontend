@@ -1,0 +1,49 @@
+{
+  "id": "a6ce651e-74ac-469d-b9bd-c907f3ecabb4",
+  "title": "Kettes számú esküdt",
+  "originalTitle": "Juror #2",
+  "overview": "A történet egy gyilkossági tárgyalásról szól, az egyik esküdt megpróbálja megvédeni a vádlottat anélkül, hogy veszélybe sodorná magát, amikor rájön, hogy valójában ő a felelős az áldozat haláláért.",
+  "backdropPath": "/9Qq8InnodUYs8zdam8Zj967i6RO.jpg",
+  "posterPath": "/10BP1XBJWnIrXUZIz7QeSwWzpRL.jpg",
+  "releaseDate": "2024-10-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "cbe7b5b2-3942-4415-98ac-aff695d08fab",
+      "title": "Kettes számú esküdt",
+      "subtitle": null,
+      "timestampString": "01:14:14",
+      "timestampInSeconds": 4454,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #293 (Évösszegző 2024)",
+        "youtubeId": "iOhSHlbaR58",
+        "thumbnailUrl": "https://i.ytimg.com/vi/iOhSHlbaR58/hqdefault.jpg",
+        "durationInMinutes": 273,
+        "releaseDate": 1735592826000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

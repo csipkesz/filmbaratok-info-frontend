@@ -1,0 +1,41 @@
+{
+  "id": "67a61666-49b9-4813-8391-ce135c3bdce2",
+  "title": "I am mother",
+  "originalTitle": "I Am Mother",
+  "overview": "Egy pusztító kihalási eseményt követően egy Mother nevű android egy elszigetelt bunkerben neveli a Daughter nevű kislányt és éleszti újra az emberiséget. Ahogy Daughter felnő, megkérdőjelezi Mother tanításait, és felfedez egy rejtett igazságot: Mother szervezte meg a kihalást és manipulálta Daughter életét, hogy létrehozzon egy új, „tökéletes” emberiséget. Elárulva és felvilágosodva Daughternek döntenie kell saját sorsáról és a megmaradt embriók sorsáról is.",
+  "backdropPath": "/iJjdemZDyHGa2BJgfoyv5m1sCiw.jpg",
+  "posterPath": "/xGdUiL7ZrlF2TKPZH6VaNH0SvFu.jpg",
+  "releaseDate": "2019-06-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5768ffbe-d83f-4bf8-8fad-775b16778e47",
+      "title": "I am mother",
+      "subtitle": null,
+      "timestampString": "01:41:54",
+      "timestampInSeconds": 6114,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #171",
+        "youtubeId": "3KzIveF4J8o",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3KzIveF4J8o/hqdefault.jpg",
+        "durationInMinutes": 195,
+        "releaseDate": 1562329911000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "e4d249a5-e251-44d9-8c10-8e2e3e9a6069",
+            "name": "Anna"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

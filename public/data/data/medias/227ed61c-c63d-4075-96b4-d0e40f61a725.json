@@ -1,0 +1,45 @@
+{
+  "id": "227ed61c-c63d-4075-96b4-d0e40f61a725",
+  "title": "A szomszéd",
+  "originalTitle": "Arlington Road",
+  "overview": "Michael Faraday hivatását tekintve tanár, ami pedig a magánéletét illeti: egyedül neveli gyerekét. Felesége szövetségi nyomozó volt, s életét veszítette egy balul sikerült akció során, amikor rajtaütöttek egy szélsőséges terroristacsoporton. A tragédiába kis híján beleőrült tanárt mind jobban a hatalmába keríti a rettegés, s hajlamos mindenben a bosszúszomjas terroristák kezét látni. Gyanakvása lassacskán a szomszédban lakó baráti házaspár felé fordul, s a legkíméletlenebb eszközöket felhasználva kezd nyomozni utánuk, egyre több gyanús jelet találva.",
+  "backdropPath": "/fejBH0x6Tn5UE7phdOMz2drp3jB.jpg",
+  "posterPath": "/y6QzDvfKRwdkYs2pbXMWd9wlWea.jpg",
+  "releaseDate": "1999-03-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "88afb9fe-9ed3-475d-a6a4-19f3a7230970",
+      "title": "A szomszéd",
+      "subtitle": null,
+      "timestampString": "01:49:57",
+      "timestampInSeconds": 6597,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #223",
+        "youtubeId": "uKeMDPapOJE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uKeMDPapOJE/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1639837304000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

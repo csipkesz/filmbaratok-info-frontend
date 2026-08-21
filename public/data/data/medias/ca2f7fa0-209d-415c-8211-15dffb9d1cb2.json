@@ -1,0 +1,41 @@
+{
+  "id": "ca2f7fa0-209d-415c-8211-15dffb9d1cb2",
+  "title": "Így neveld a sárkányodat 1",
+  "originalTitle": "How to Train Your Dragon",
+  "overview": "Egy viking vezér fiaként a szégyenlős Hablatynak ki kell állnia a vikingek próbáját: meg kell ölnie egy sárkányt, hogy bizonyítsa rátermettségét. Ám, miután földre kényszeríti a rettegett ellenfelét, rájön, hogy nem akarja elpusztítani, így végül barátságot köt a bestiával -Fogatlannal-, apjának ezzel sok fejfájást okozva.",
+  "backdropPath": "/59vDC1BuEQvti24OMr0ZvtAK6R1.jpg",
+  "posterPath": "/2ifkBXEVLeDea37ouawwby2fbOR.jpg",
+  "releaseDate": "2010-03-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c787f047-c629-4b43-8e90-f64bae5b98eb",
+      "title": "Így neveld a sárkányodat 1 & 2",
+      "subtitle": null,
+      "timestampString": "01:20:26",
+      "timestampInSeconds": 4826,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #71",
+        "youtubeId": "K9mj59Uot1I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/K9mj59Uot1I/hqdefault.jpg",
+        "durationInMinutes": 176,
+        "releaseDate": 1428520974000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

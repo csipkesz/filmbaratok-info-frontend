@@ -1,0 +1,45 @@
+{
+  "id": "00da3e10-e9b7-4b28-9c05-6079ab92392f",
+  "title": "Az ördög dublőre",
+  "originalTitle": "The Devil's Double",
+  "overview": "Bagdad a híres és gazdag emberek játszótere, ahol mindent meg lehet venni – ha meg tudod fizetni az árát. Ez Saddam Hussein legidősebb fia, Uday világa, itt tudja igazán érvényesíteni erkölcstelen romlottságát és halhatatlanság iránti vágyát. Amikor Latif Yahia-t, a hadsereg egyik hadnagyát Saddam palotájába hivatják, még nem sejti milyen lehetetlen küldetésre kényszerítik: neki kell lennie Uday \"fiday\"-ának, azaz dublőrének, különben az egész családját lemészárolják. Az árulással és cselszövéssel teli világban Latif élete múlik azon, hogy megtalálja, kiben bízhat, és megmeneküljön a rákényszerített személyiségtől.",
+  "backdropPath": "/oInNEEn2qzAAWQkFhfDEKbXv9RR.jpg",
+  "posterPath": "/oFlgi67LizwtDrL2y29O0FVS2pW.jpg",
+  "releaseDate": "2011-02-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b9ae757c-5dd5-4542-9a06-02646ff30134",
+      "title": "Az ördög dublőre",
+      "subtitle": null,
+      "timestampString": "01:50:10",
+      "timestampInSeconds": 6610,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #55",
+        "youtubeId": "QgGmQw_m1m8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/QgGmQw_m1m8/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1407941546000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

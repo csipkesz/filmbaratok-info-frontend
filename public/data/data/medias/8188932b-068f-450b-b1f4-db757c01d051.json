@@ -1,0 +1,28 @@
+{
+  "id": "8188932b-068f-450b-b1f4-db757c01d051",
+  "title": "Weiner",
+  "originalTitle": "Weiner",
+  "overview": "",
+  "backdropPath": "/1TjFPOmvaL8TJfPt0J3neLKjNvt.jpg",
+  "posterPath": "/r3eyunSmbTmvCSrKkU7YCmPyLQU.jpg",
+  "releaseDate": "2016-05-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a65e6cfc-a1a2-47fe-bb06-e5f2ec9772c8",
+      "title": "Weiner",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Weiner",
+        "youtubeId": "iR2cccxLsnw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/iR2cccxLsnw/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1499580877000,
+        "participants": []
+      }
+    }
+  ]
+}

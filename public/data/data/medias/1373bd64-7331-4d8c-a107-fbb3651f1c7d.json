@@ -1,0 +1,45 @@
+{
+  "id": "1373bd64-7331-4d8c-a107-fbb3651f1c7d",
+  "title": "Bill & Ted face the music",
+  "originalTitle": "Bill & Ted Face the Music",
+  "overview": "2020-at írunk, amikor az időutazó, wannabe rocksztárok, Bill (Alex Winter) és Ted (Keanu Reeves) élik az átlagos középkorúak mindennapi életét: dolgozni járnak, gyereket nevelnek. Ám máig nem sikerült megírniuk azt a megjövendölt dalt, ami egyesítené a széthullóban levő világot, így a Földet katasztrófa fenyegeti. Ez az utolsó esélyük, hogy beteljesítsék rock and roll sorsukat, ami egyúttal a bolygó valóságának megmentését is jelenti, ezért a már fáradékony és nem éppen fiatal legjobb barátok új kalandra indulnak. Elutaznak a jövőbe, hogy jövőbeli énjüktől kérjenek segítséget a dal megírásához, amivel elkerülhető az emberiség pusztulása. Útjuk során segítségükre sietnek lányaik, néhány történelmi személyiség és pár zenei legenda is.",
+  "backdropPath": "/ceVaixg5VUfx8j0N81FT0hRayRm.jpg",
+  "posterPath": "/s7Tx2OujO62rD8GB3s9Vi6OaFnF.jpg",
+  "releaseDate": "2020-08-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "04355148-a383-49b6-856c-c6eafdc115fe",
+      "title": "Bill & Ted face the music",
+      "subtitle": null,
+      "timestampString": "03:13:16",
+      "timestampInSeconds": 11596,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #197",
+        "youtubeId": "j1hyfnPoTyg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/j1hyfnPoTyg/hqdefault.jpg",
+        "durationInMinutes": 296,
+        "releaseDate": 1600408834000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "bd249f2b-991a-4c08-9b62-440547f23714",
+  "title": "A hó társadalma",
+  "originalTitle": "La sociedad de la nieve",
+  "overview": "1972-ben egy uruguayi  rögbicsapat repülőgépe lezuhant az Andok mélyén. A néhány túlélő nem tehetett mást, mint hogy egymásra bízták az életüket, a világ egyik legnehezebben túlélhető környezetében.",
+  "backdropPath": "/md848EEPm3dHZOqwGxxTVwH2vu5.jpg",
+  "posterPath": "/2RMWZKKvkWQeTSe02sfWUzaTMIY.jpg",
+  "releaseDate": "2023-12-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f192b3d5-17e8-4c8d-ae57-f50c8981f82a",
+      "title": "A hó társadalma",
+      "subtitle": null,
+      "timestampString": "02:33:00",
+      "timestampInSeconds": 9180,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #270",
+        "youtubeId": "Hk6gv0cu8TY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Hk6gv0cu8TY/hqdefault.jpg",
+        "durationInMinutes": 222,
+        "releaseDate": 1705227394000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "909a1656-3b0d-4c25-8ead-b8d5f1789d77",
+  "title": "Számkivetett a holdon",
+  "originalTitle": "김씨 표류기",
+  "overview": "Az eladósodott kisember, Kim úr öngyilkosságot kísérel meg, leveti magát Szöul egyik hídjáról, ám a megnyugvást hozó mennyország helyett egy lakatlan szigeten ébred. A folyóparti lakások egyikében él egy lány, aki már három éve nem mozdult ki az otthonából.",
+  "backdropPath": "/t9T6jKk2TqDqzpWTCMSeMNjYcX7.jpg",
+  "posterPath": "/jRrdzFcJUTz9yb6A5quSQrvhJDB.jpg",
+  "releaseDate": "2009-05-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8107110b-c1ab-4def-9046-8b1927248661",
+      "title": "Számkivetett a holdon",
+      "subtitle": null,
+      "timestampString": "02:43:20",
+      "timestampInSeconds": 9800,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #140",
+        "youtubeId": "LQ8tU4s4F2M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/LQ8tU4s4F2M/hqdefault.jpg",
+        "durationInMinutes": 184,
+        "releaseDate": 1521209750000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

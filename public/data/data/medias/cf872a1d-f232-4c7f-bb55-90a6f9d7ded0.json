@@ -1,0 +1,41 @@
+{
+  "id": "cf872a1d-f232-4c7f-bb55-90a6f9d7ded0",
+  "title": "Üvöltő szelek",
+  "originalTitle": "\"Wuthering Heights\"",
+  "overview": "Minden idők egyik legmegrázóbb és legszebb szerelmi történetéből különleges és merész film született, amelyben Margot Robbie kelti életre Cathyt, Jacob Elordi pedig Heathcliffet. Tiltott szerelmük a vágytól a mindent felemésztő szerelemig, végül az őrületig sodorja őket.  Mr. Earnshaw, az egyedülálló apa befogad egy árva fiút, aki saját gyermekével együtt nő fel a házban. Heathcliff és Cathy között hamar kibontakozik egy megbonthatatlan kötelék – annyira egymáshoz tartoznak, hogy azt sem idő, sem távolság nem képes szétválasztani. A fiú évekre eltűnik a romló birtokról, Cathy pedig kénytelen férjhez menni a közeli arisztokratához, aki mindent megadna neki a szerelméért és egy örökösért.  Ám amikor Heathcliff visszatér, mindannyiuk sorsa végleg eldől. Cathy és Heathcliff hiába próbál ellenállni, a szenvedély elsodorja őket: egymásért minden áldozatra képesek, és nem kímélnek sem embert, sem körülményt. Számukra csak az őrületbe hajló, végzetes szerelem létezik.  (Csillag Lajos)R3",
+  "backdropPath": "/nHKscpZcAPkh97OsJJjyE5yaVE0.jpg",
+  "posterPath": "/jE2aq7WutP3b2H8IJm1uRzxu0x2.jpg",
+  "releaseDate": "2026-02-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "10328569-9a3a-400b-a240-b5aa9988367d",
+      "title": "Üvöltő szelek",
+      "subtitle": null,
+      "timestampString": "01:47:10",
+      "timestampInSeconds": 6430,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #321",
+        "youtubeId": "ASzT3k0iUdk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ASzT3k0iUdk/hqdefault.jpg",
+        "durationInMinutes": 176,
+        "releaseDate": 1772128964000,
+        "participants": [
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

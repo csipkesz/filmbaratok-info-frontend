@@ -1,0 +1,41 @@
+{
+  "id": "2e2a178e-ca49-4df6-8dd9-1a7d80ac9ef4",
+  "title": "Csekély esély",
+  "originalTitle": "Long Shot",
+  "overview": "Charlotte gyönyörű, szuperintelligens, befolyásos nő, nem mellesleg az Amerikai Egyesült Államok külügyminisztere. Fred tehetséges újságíró, egy nagyra nőtt gyerek, aki susogós szerkójában élvezi az élet örömeit. Kettejükben az égvilágon semmi közös nincs… kivéve, hogy a 16 éves Charlotte egyszer vigyázott a kiskamasz Fredre, aki persze egyből belezúgott a szőke hercegnőbe.",
+  "backdropPath": "/jYnQgKYACzQ06gRf15hRbyRkQsp.jpg",
+  "posterPath": "/rvCKLn83CUB49Q1fk7nxSUt1B2i.jpg",
+  "releaseDate": "2019-05-02T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3edef938-7608-46f0-ae96-ad5df87d9869",
+      "title": "Csekély esély",
+      "subtitle": null,
+      "timestampString": "01:00:49",
+      "timestampInSeconds": 3649,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #171",
+        "youtubeId": "3KzIveF4J8o",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3KzIveF4J8o/hqdefault.jpg",
+        "durationInMinutes": 195,
+        "releaseDate": 1562329911000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "e4d249a5-e251-44d9-8c10-8e2e3e9a6069",
+            "name": "Anna"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

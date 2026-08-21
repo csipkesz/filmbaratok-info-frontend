@@ -1,0 +1,45 @@
+{
+  "id": "f7c0a969-470f-4b19-8474-0428872a84e0",
+  "title": "A törvényenkívüli Josey Wales",
+  "originalTitle": "The Outlaw Josey Wales",
+  "overview": "Josey Wales egyszerű farmerként élt családjával, távol a világ folyásától, saját tanyáján. Ám az amerikai polgárháború szele Josey-t sem kímélte: családját meggyilkolták, farmját felégették az épphogy átvonuló, válogatás nélkül pusztító csapatok. A békés farmer beállt a környék hírhedt banditái közé, hogy megkeresse azokat, akik tönkretették az életét.",
+  "backdropPath": "/nEe0ziWyVhGTtuoXe2msdkz6NlO.jpg",
+  "posterPath": "/obZzbZPRJW0wE7DJan8OvZcXuNl.jpg",
+  "releaseDate": "1976-06-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "56ad5d00-bd98-4e28-9bb8-31b5a2071d36",
+      "title": "A törvényenkívüli Josie Wales",
+      "subtitle": null,
+      "timestampString": "03:37:15",
+      "timestampInSeconds": 13035,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #259",
+        "youtubeId": "pSiJphe8S5U",
+        "thumbnailUrl": "https://i.ytimg.com/vi/pSiJphe8S5U/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1690581661000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "e4d249a5-e251-44d9-8c10-8e2e3e9a6069",
+            "name": "Anna"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

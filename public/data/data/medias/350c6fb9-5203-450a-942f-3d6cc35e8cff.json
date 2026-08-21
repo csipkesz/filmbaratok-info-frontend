@@ -1,0 +1,45 @@
+{
+  "id": "350c6fb9-5203-450a-942f-3d6cc35e8cff",
+  "title": "The toxic avenger",
+  "originalTitle": "The Toxic Avenger",
+  "overview": "A történet a képzeletbeli Tromaville városkájában játszódik, amely radioaktív szemétlerakójáról híres. Itt tengeti napjait a helyi fitnessz-klubban takarítóként Melvin. Szegény Melvin az emberi faj legvéznább egyede, a klubba járók gonosz tréfáinak állandó célpontja, ám egy végzetes napon mérgező vegyszerbe zuhan, ami igazi szörnyeteggé változtatja. Torz hősünk kiirtja a gonoszt Tromavilleből és még szerelmes is lesz..",
+  "backdropPath": "/7DOuHRMoYhhSIVGBDqNdZpUoVsq.jpg",
+  "posterPath": "/vuxRW5GKuCnKvdYlUAYNxlicm54.jpg",
+  "releaseDate": "1984-05-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "68ee4d70-f02d-431e-8c15-c43b1e7ec8b6",
+      "title": "The toxic avenger",
+      "subtitle": null,
+      "timestampString": "02:54:20",
+      "timestampInSeconds": 10460,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #166",
+        "youtubeId": "NaqCtn_eZNI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/NaqCtn_eZNI/hqdefault.jpg",
+        "durationInMinutes": 241,
+        "releaseDate": 1555772517000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

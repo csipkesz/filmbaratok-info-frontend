@@ -1,0 +1,41 @@
+{
+  "id": "5f906d61-23d1-45b3-9e04-537b2581821d",
+  "title": "Hang nélkül: Első nap",
+  "originalTitle": "A Quiet Place: Day One",
+  "overview": "A történet egy olyan világban játszódik, amelyben kifinomult hallással rendelkező lények érkeztek a Földre. Csak azokat, akik a lehető legkevesebb zajt csapják, nem veszik észre az idegenek és így megmenthetik saját életüket. Ez a történet pedig azt mutatja be, hogy csendesedett el a világ az első napokban.",
+  "backdropPath": "/6XjMwQTvnICBz6TguiDKkDVHvgS.jpg",
+  "posterPath": "/9bjwdvt1nTnbiobMw121wlb5yrW.jpg",
+  "releaseDate": "2024-06-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7e3e3850-bf4f-4fec-a1a0-135c636156c6",
+      "title": "Hang nélkül: Első nap",
+      "subtitle": null,
+      "timestampString": "01:02:15",
+      "timestampInSeconds": 3735,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #282",
+        "youtubeId": "gcFN31mIkUo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gcFN31mIkUo/hqdefault.jpg",
+        "durationInMinutes": 188,
+        "releaseDate": 1720893631000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

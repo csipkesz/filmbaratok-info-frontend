@@ -1,0 +1,41 @@
+{
+  "id": "4704ac41-9024-4d70-a712-8c668523a70a",
+  "title": "Éjszakai merülés",
+  "originalTitle": "Night Swim",
+  "overview": "Ray Wallert egy degeneratív betegség korai visszavonulásra kényszeríti, és új házba költözik aggódó feleségével, Eve-vel, tinédzser lányával, Izzyvel és kisfiával, Elliottal. Ray titokban abban reménykedik, hogy visszatérhet a profi ligába, és meggyőzi Eve-et, hogy a kertben lévő, csillogó vízű úszómedence jó buli lesz a gyerekeknek, neki pedig jó fizikoterápia. Ám a ház múltjának sötét titka egy baljós erőt szabadít rájuk, ami a kikerülhetetlen borzalmak mélyére húzza az egész családot...",
+  "backdropPath": "/aZ8dBIvpDFp9cp23MfBiY5mWfuy.jpg",
+  "posterPath": "/1fJCRJ7iDQO5P2xlf4Yah4XrFhC.jpg",
+  "releaseDate": "2024-01-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "668a0c94-c5ca-4cec-833e-28e97281de77",
+      "title": "Éjszakai merülés",
+      "subtitle": null,
+      "timestampString": "02:25:10",
+      "timestampInSeconds": 8710,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #271",
+        "youtubeId": "vCypCwFTSIU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/vCypCwFTSIU/hqdefault.jpg",
+        "durationInMinutes": 227,
+        "releaseDate": 1706733909000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

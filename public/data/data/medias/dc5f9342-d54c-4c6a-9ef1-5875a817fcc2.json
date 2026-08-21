@@ -1,0 +1,49 @@
+{
+  "id": "dc5f9342-d54c-4c6a-9ef1-5875a817fcc2",
+  "title": "Aquaman és az Elveszett Királyság",
+  "originalTitle": "Aquaman and the Lost Kingdom",
+  "overview": "Az óceán soha nem békés! Ezért nem pihenhet meg egyetlen percre sem az óceánok hét királyságának uralkodója. Black Manta megpróbálta már legyőzni Aquamant, a világ tengereinek urát (Jason Momoa), de kudarcot vallott. Továbbra is meg akarja bosszulni az apja halálát, így aztán bármire hajlandó és bárkivel szövetkezik, hogy elpusztítsa ősellenségét. Most erősebb, mint eddig bármikor, mert megszerezte a legendák csodafegyverét, a fekete szigonyt, amelynek segítségével egy ősi, gonosz erőt szabadít a világra.  Aquaman kénytelen kiszabadítani börtönbe zárt testvérét, Orm királyt (Patrick Wilson), Atlantisz egykori uralkodóját. Békét nem kötnek, de átmeneti szövetséget igen – ha nem teszik meg, akkor Aquaman családja, azután az összes tenger, végül az egész világ elpusztul.",
+  "backdropPath": "/bckxSN9ueOgm0gJpVJmPQrecWul.jpg",
+  "posterPath": "/ep4beh2XVefB8izPjPj6mGvkmJ.jpg",
+  "releaseDate": "2023-12-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b8f14720-2567-4fb2-8765-5e208cfad205",
+      "title": "Aquaman és az Elveszett Királyság",
+      "subtitle": null,
+      "timestampString": "01:22:30",
+      "timestampInSeconds": 4950,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #269 (Évösszegző 2023)",
+        "youtubeId": "UqrJRJtzjJs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/UqrJRJtzjJs/hqdefault.jpg",
+        "durationInMinutes": 276,
+        "releaseDate": 1703966409000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

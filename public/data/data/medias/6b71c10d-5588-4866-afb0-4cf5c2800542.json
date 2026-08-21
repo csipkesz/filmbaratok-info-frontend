@@ -1,0 +1,45 @@
+{
+  "id": "6b71c10d-5588-4866-afb0-4cf5c2800542",
+  "title": "Argylle: A szuperkém",
+  "originalTitle": "Argylle",
+  "overview": "Amikor a visszahúzódó író, Elly Conway fiktív kémregényeinek cselekményei egy valós kémszervezet rejtett cselekedeteit kezdik tükrözni, az otthoni csendes esték a múlté válnak. Elly, macskája Alfie és Aiden, egy macskaallergiás kém társaságában száguldozik szerte a világon, hogy egy lépéssel a gyilkosok előtt járjon, miközben a határvonal a kitalált és valódi világa között kezd elmosódni.",
+  "backdropPath": "/mY3CRicUMaX3Btxv8yspud75UJu.jpg",
+  "posterPath": "/pImNFWkLNCdPDcF8KRaxWDJ8pB5.jpg",
+  "releaseDate": "2024-01-31T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fca1946e-9c8a-4c76-a26c-682929c1dad8",
+      "title": "Argylle: A szuperkém",
+      "subtitle": null,
+      "timestampString": "01:51:00",
+      "timestampInSeconds": 6660,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #272",
+        "youtubeId": "KpeK1-FjITs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/KpeK1-FjITs/hqdefault.jpg",
+        "durationInMinutes": 253,
+        "releaseDate": 1708456799000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

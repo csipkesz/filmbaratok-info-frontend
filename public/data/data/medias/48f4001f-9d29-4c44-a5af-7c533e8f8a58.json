@@ -1,0 +1,41 @@
+{
+  "id": "48f4001f-9d29-4c44-a5af-7c533e8f8a58",
+  "title": "A védelmező 2",
+  "originalTitle": "The Equalizer 2",
+  "overview": "Egy titkos ügynöknek elege lett. Robert McCall azt hitte, visszavonulhat a harctól, de rá kell jönnie, hogy számára most kezdődnek az igazán veszélyes évek. Legyőzhetetlen, kemény és keserű: de ha azt látja, hogy az erősebbek a gyengébb ellen fordulnak, akkor közbelép, és nem érdekli a túlerő. Sosem alszik. Éjszaka egy nagyváros sötét utcáit járja, és figyel. És ha bajt szimatol valahol, már indul is…",
+  "backdropPath": "/a24i4Qw6qFTtkFLQsncv8WPwevj.jpg",
+  "posterPath": "/hu5PezzlTPTVBcWqnhjQ6a9VcmT.jpg",
+  "releaseDate": "2018-07-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c97d029b-2010-4b37-a0ee-11130a3bfcf2",
+      "title": "A védelmező 2",
+      "subtitle": null,
+      "timestampString": "01:21:25",
+      "timestampInSeconds": 4885,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #151",
+        "youtubeId": "hcylcX_kgM0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/hcylcX_kgM0/hqdefault.jpg",
+        "durationInMinutes": 234,
+        "releaseDate": 1537428229000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

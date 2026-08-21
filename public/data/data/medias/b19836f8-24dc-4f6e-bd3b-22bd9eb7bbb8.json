@@ -1,0 +1,28 @@
+{
+  "id": "b19836f8-24dc-4f6e-bd3b-22bd9eb7bbb8",
+  "title": "Larry",
+  "originalTitle": "Larry",
+  "overview": "",
+  "backdropPath": "/lYuJUokM6qH3VhupimmtOiWcVLU.jpg",
+  "posterPath": "/lpltonaYcPE37bgi8KalTz0pcB9.jpg",
+  "releaseDate": "2017-12-08T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9e5ec542-90cd-4438-a85b-88a8db55cd9f",
+      "title": "Larry",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Larry",
+        "youtubeId": "R0eAHuHzLNk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/R0eAHuHzLNk/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1672471073000,
+        "participants": []
+      }
+    }
+  ]
+}

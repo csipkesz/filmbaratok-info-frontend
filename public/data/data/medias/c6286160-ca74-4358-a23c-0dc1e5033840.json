@@ -1,0 +1,41 @@
+{
+  "id": "c6286160-ca74-4358-a23c-0dc1e5033840",
+  "title": "A végtelen / The endless",
+  "originalTitle": "The Endless",
+  "overview": "Két fivér visszatér ahhoz a szektához, ahonnan évekkel ezelőtt együtt menekültek el. Itt aztán ráébrednek arra, hogy a szekta hitei sokkal józanabbak és kézenfekvőbbek, mint azt korábban hitték.",
+  "backdropPath": "/nvCMi8ZhH1Z8i9ZFHYrXBl8uBw0.jpg",
+  "posterPath": "/bzNEBE5eqscEstNZcSY0XXgQ7SJ.jpg",
+  "releaseDate": "2017-11-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "510c4f28-24b7-4dc0-8548-57282be6a0aa",
+      "title": "A végtelen / The endless",
+      "subtitle": null,
+      "timestampString": "01:39:00",
+      "timestampInSeconds": 5940,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #205",
+        "youtubeId": "GcqE0JN9mNg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GcqE0JN9mNg/hqdefault.jpg",
+        "durationInMinutes": 170,
+        "releaseDate": 1612351186000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

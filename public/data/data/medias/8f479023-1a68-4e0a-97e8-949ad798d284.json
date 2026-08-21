@@ -1,0 +1,41 @@
+{
+  "id": "8f479023-1a68-4e0a-97e8-949ad798d284",
+  "title": "Take Shelter",
+  "originalTitle": "Take Shelter",
+  "overview": "Curtis LaForche (Michael Shannon) és felesége élete Samantha (Jessica Chastain) élete nem könnyű ugyan siket kislányuk folyamatos és költséges orvosi kezelései mellett, ám ők mégis boldogok, hogy együtt vannak, és szeretik egymást. Curtis-t azonban váratlanul rémálmok kezdik gyötörni, melyben egy mindent elsöprő, apokaliptikus vihart lát – a látomásszerű képek annyira magával ragadják a férfit, hogy a hátsó udvaron megszállottan építeni kezd egy óvóhelyet a vész esetére. Hiába fordulnak el a jócskán megváltozott embertől lassan szomszédai és barátai, Curtis legnagyobb félelme az, hogy álma valóra válik. De vajon megér-e annyit a látszólagos biztonság, hogy közben elveszítse azokat, akiket a legjobb szeret?",
+  "backdropPath": "/7HtE5hLVTEvFKQC33wK7XAnIdFk.jpg",
+  "posterPath": "/9YDnwmjGYkw1r9EKys33Wf95DAZ.jpg",
+  "releaseDate": "2011-09-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7331ba92-1ee0-493b-8f21-28ce7a376e8e",
+      "title": "Take Shelter",
+      "subtitle": null,
+      "timestampString": "01:02:05",
+      "timestampInSeconds": 3725,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #112",
+        "youtubeId": "M7gzW5_pVZk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/M7gzW5_pVZk/hqdefault.jpg",
+        "durationInMinutes": 160,
+        "releaseDate": 1481731219000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "3f77d944-0036-48b3-b938-65fd4f3ec252",
+  "title": "Vinyan - Az elveszett lelkek",
+  "originalTitle": "Vinyan",
+  "overview": "Jeanne és Paul képtelenek feldolgozni kisfiúk halálát, akit a délkelet-Ázsiában pusztító szökőár miatt vesztettek el. Hat hónappal a tragédia után még mindig a helyszínen vannak, amikor a kétségbeesett Jeanne egy felvételen látni véli gyermekét, és bebeszéli magának, hogy kisfiát elrabolták. Férje szkeptikus ugyan, de mivel képtelen elvenni feleségétől a reményt, elutazik vele Burma veszélyes dzsungeleibe, ahol egy emberkereskedő banda tagjának segítségével próbálnak a gyermek nyomára bukkanni. Hamarosan azonban legszörnyűbb rémálmaik válnak valóra.",
+  "backdropPath": "/nz38b87zXy5XnY3OKGXlUx64tcf.jpg",
+  "posterPath": "/jCuDZ5uzren7gfBScZwaze46yvO.jpg",
+  "releaseDate": "2008-08-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1c2928d6-706a-4e18-9709-750992126633",
+      "title": "Vinyan - Az elveszett lelkek",
+      "subtitle": null,
+      "timestampString": "04:00:00",
+      "timestampInSeconds": 14400,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #239",
+        "youtubeId": "fLgXm-yTEGg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fLgXm-yTEGg/hqdefault.jpg",
+        "durationInMinutes": 259,
+        "releaseDate": 1663259409000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

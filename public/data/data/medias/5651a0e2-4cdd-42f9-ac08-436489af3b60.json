@@ -1,0 +1,45 @@
+{
+  "id": "5651a0e2-4cdd-42f9-ac08-436489af3b60",
+  "title": "A szerelem hullámhosszán",
+  "originalTitle": "Sleepless in Seattle",
+  "overview": "Karácsony este a rádióban egy talk-show műsorvezetője álmokról, vágyakról, kívánságokról kérdezi a hallgatókat. Egy seattle-i kisfiú betelefonál és az édesapjának kér segítséget, aki felesége halála óta magányosan neveli őt. Annie-t, a bájos, házasság előtt álló lányt, aki autóvezetés közben a rádió éjszakai műsorát hallgatja, valósággal elvarázsolják a kisfiú és az édesapa megindító szavai. A messzi távolból úgy érzi, épp a nagy ő hangját hallja a rádió hullámhosszán. Elhatározza, hogy kerül, amibe kerül, elindul és megkeresi az ismeretlent, akiben felismerni vélte az \"igazit\".",
+  "backdropPath": "/7ME0fJZxjEoSGPP4E4bbYT5zoqt.jpg",
+  "posterPath": "/tpz2iTwhFJpnt8LoOsMSgIwKES1.jpg",
+  "releaseDate": "1993-06-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5e398038-2210-4fe3-8fbf-735975744ad4",
+      "title": "A szerelem hullámhosszán",
+      "subtitle": null,
+      "timestampString": "02:26:13",
+      "timestampInSeconds": 8773,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #208",
+        "youtubeId": "VmpaZBFyHfg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VmpaZBFyHfg/hqdefault.jpg",
+        "durationInMinutes": 205,
+        "releaseDate": 1616583355000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

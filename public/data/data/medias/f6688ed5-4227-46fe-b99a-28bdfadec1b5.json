@@ -1,0 +1,45 @@
+{
+  "id": "f6688ed5-4227-46fe-b99a-28bdfadec1b5",
+  "title": "The Pale Blue Eye / Halványkék szemek",
+  "originalTitle": "The Pale Blue Eye",
+  "overview": "West Point, 1830. Egy életunt detektívet bérelnek fel, hogy diszkréten nyomozzon egy kadét hátborzongató meggyilkolása ügyében. A kadétok hallgatási kódexétől akadályoztatva, felkéri az egyiküket, hogy segítsen megoldani az ügyet - egy fiatal férfit, akit a világ később Edgar Allan Poeként ismer meg.",
+  "backdropPath": "/b08BDQPq42AoLMfhi7DtTOoYqVu.jpg",
+  "posterPath": "/mael1chuoXy0dEieSrTNZjnFyha.jpg",
+  "releaseDate": "2022-12-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d70145a6-84b6-4dd5-a35e-8d349a991cd3",
+      "title": "The Pale Blue Eye / Halványkék szemek",
+      "subtitle": null,
+      "timestampString": "02:10:30",
+      "timestampInSeconds": 7830,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #248",
+        "youtubeId": "VCD8rEWrtzs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VCD8rEWrtzs/hqdefault.jpg",
+        "durationInMinutes": 221,
+        "releaseDate": 1674626980000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

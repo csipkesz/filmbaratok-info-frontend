@@ -1,0 +1,41 @@
+{
+  "id": "777a7cd3-9065-4f98-b193-28eabe7ef736",
+  "title": "Hush",
+  "originalTitle": "Hush",
+  "overview": "Maddie Young, miután gyerekként elvesztette hallását elszigetelten éli életét. Visszavonult a társadalomtól, hogy magányosan éljen néma világában. Azonban amikor egy maszkos pszichotikus gyilkos feltűnik az ablaka előtt, ez a világ egy csapásra összeomlani látszik. Mérföldekre nincs senki, akit segítségül hívhatna, így úgy tűnik, Maddie élete a gyilkos könyörületességén múlik. Azonban a férfi talán alábecsülte prédáját. Megkezdődik a macska-egér játék, mely során Maddie-nek át kell lépnie saját",
+  "backdropPath": "/1r7AVAxdG97mgjR47Zm5YOSnnMW.jpg",
+  "posterPath": "/tyqD4C2vVKrvP3FkFK0GS9IWbTo.jpg",
+  "releaseDate": "2016-03-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fea58aa9-7ad3-4845-9391-c8e707ca35e2",
+      "title": "Hush",
+      "subtitle": null,
+      "timestampString": "00:54:59",
+      "timestampInSeconds": 3299,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #112",
+        "youtubeId": "M7gzW5_pVZk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/M7gzW5_pVZk/hqdefault.jpg",
+        "durationInMinutes": 160,
+        "releaseDate": 1481731219000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

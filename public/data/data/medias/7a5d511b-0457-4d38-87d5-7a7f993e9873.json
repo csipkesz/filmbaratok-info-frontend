@@ -1,0 +1,37 @@
+{
+  "id": "7a5d511b-0457-4d38-87d5-7a7f993e9873",
+  "title": "Pókember: Irány a Pókverzum!",
+  "originalTitle": "Spider-Man: Into the Spider-Verse",
+  "overview": "Úgy tűnik, hogy egyszer minden szuperhőst utolér a végzete. Miután közös erővel Homokembernek, Doctor Octopusnak, Electronak, Kravennek és a Keselyűnek sikerült legyőzniük Peter Parkert, alighanem minden remény elveszhetett az emberiség számára. Szerencsére azonban itt van nekünk Miles Morales, akit szintén megcsípett egy génmódosított pók, és aki újból felveszi a harcot a bűnözéssel szemben. Ráadásul van néhány újabb trükk, na meg képesség is a tarsolyában.",
+  "backdropPath": "/8mnXR9rey5uQ08rZAvzojKWbDQS.jpg",
+  "posterPath": "/gkP40mQY2MObRDI8g41TIkottDJ.jpg",
+  "releaseDate": "2018-12-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "eb9f86f3-5e4c-47ee-abd8-ae74799eb502",
+      "title": "Pókember: Irány a Pókverzum!",
+      "subtitle": null,
+      "timestampString": "00:51:35",
+      "timestampInSeconds": 3095,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #158",
+        "youtubeId": "0hDBNbfAMGU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/0hDBNbfAMGU/hqdefault.jpg",
+        "durationInMinutes": 112,
+        "releaseDate": 1545678001000,
+        "participants": [
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

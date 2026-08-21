@@ -1,0 +1,41 @@
+{
+  "id": "74c8147e-44b9-46b8-999c-168df3f9ada0",
+  "title": "Felhőkarcoló",
+  "originalTitle": "Skyscraper",
+  "overview": "Will Sawyer, aki egykor az FBI túszmentő osztagát vezette, jelenleg felhőkarcolókra specializálódott biztonsági szakértőként dolgozik. Legújabb megbízása miatt Hongkongba utazik, amikor a világ legmagasabb épülete hirtelen kigyullad, és őt kiáltják ki felelősnek. Will ellen körözést adnak ki, így kell megállítania az igazi felelősöket, tisztára mosnia a nevét, és legfőként megmenteni a családját, akik az épületben rekedtek… a tűzvonal fölött.",
+  "backdropPath": "/oMKFQmoVgB69fyXfSMu0lGlHJP2.jpg",
+  "posterPath": "/4t3E383EFKMRjMwXlvsWkcjWvNu.jpg",
+  "releaseDate": "2018-07-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9b20dfa8-e695-45ec-887f-700bd6d4dc5c",
+      "title": "Felhőkarcoló [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "01:42:22",
+      "timestampInSeconds": 6142,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #148",
+        "youtubeId": "keV4hpdXcYo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/keV4hpdXcYo/hqdefault.jpg",
+        "durationInMinutes": 206,
+        "releaseDate": 1533062167000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

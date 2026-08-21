@@ -1,0 +1,45 @@
+{
+  "id": "1d9a407e-a873-439e-baf3-286dbe5256e8",
+  "title": "A gép",
+  "originalTitle": "Plane",
+  "overview": "A viharban megsérült repülő utasait, a háborús övezetnek számító szigeten végrehajtott sikeres kényszerleszállás után elrabolják. A pilóta egyetlen lehetséges segítsége, a gyilkossággal vádolt Louis Gaspare, aki az FBI őrizetében utazott a repülőn.",
+  "backdropPath": "/6JU2ysRVOHqav0Hs6BUv4mvvDxZ.jpg",
+  "posterPath": "/y4jIQtrx2jkC5DUpAv1b8UDg5bX.jpg",
+  "releaseDate": "2023-01-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e00b5075-4438-4c76-8702-f37be95b52df",
+      "title": "A gép",
+      "subtitle": null,
+      "timestampString": "03:12:40",
+      "timestampInSeconds": 11560,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #249",
+        "youtubeId": "1greFyKaw1M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/1greFyKaw1M/hqdefault.jpg",
+        "durationInMinutes": 296,
+        "releaseDate": 1676703823000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

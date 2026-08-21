@@ -1,0 +1,45 @@
+{
+  "id": "67dff39f-4800-4723-bb22-855e645b8d0c",
+  "title": "A csapda",
+  "originalTitle": "Trap",
+  "overview": "Egy apa koncertre viszi a kamaszlányát. A lánynak örök emlék, az apának néhány kellemes óra a gyerekével. Ennyi az egész? Egyáltalán nem. A stadionban ugyanis ott van a Hentes, a régóta keresett, mindig a zsaruk előtt járó, őrült sorozatgyilkos. Az FBI is tud róla. Körülvették az épületet, mindent bekameráztak, és feltett szándékuk, hogy senki sem távozhat alapos ellenőrzés nélkül. A csapda bezárult. A Hentes benne van. Néhány tízezer kamaszlánnyal meg a szüleikkel összezárva.",
+  "backdropPath": "/dCgrFY6uTqhEpyhe8MzP1oExyLt.jpg",
+  "posterPath": "/skkAoqhVY1vd0C6iUJHwMtGZJnF.jpg",
+  "releaseDate": "2024-07-31T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c2d16803-781d-4b1f-849e-9806294e48dd",
+      "title": "A csapda [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "03:02:30",
+      "timestampInSeconds": 10950,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #284",
+        "youtubeId": "dLG-a7fBRaY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/dLG-a7fBRaY/hqdefault.jpg",
+        "durationInMinutes": 239,
+        "releaseDate": 1723568433000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

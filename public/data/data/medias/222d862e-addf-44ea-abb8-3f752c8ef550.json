@@ -1,0 +1,41 @@
+{
+  "id": "222d862e-addf-44ea-abb8-3f752c8ef550",
+  "title": "Isten haragja",
+  "originalTitle": "La ira de Dios",
+  "overview": "Luciana belemerül a rokonai rejtélyes halálesetének vizsgálatába. Egyre erősödik a gyanúja, hogy a felelős egy rejtélyes író, az egykori főnöke.",
+  "backdropPath": "/cpcDNWL2OgtCCcH7DDRjY8oxUsn.jpg",
+  "posterPath": "/kjDb1UWIJI06vdV9W0Of6f9JD9W.jpg",
+  "releaseDate": "2022-06-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3d80ebaa-08e2-4da1-88f2-b2f4caabee19",
+      "title": "Isten haragja",
+      "subtitle": null,
+      "timestampString": "01:30:52",
+      "timestampInSeconds": 5452,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #49",
+        "youtubeId": "KInB1pvzVo0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/KInB1pvzVo0/hqdefault.jpg",
+        "durationInMinutes": 177,
+        "releaseDate": 1397986559000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

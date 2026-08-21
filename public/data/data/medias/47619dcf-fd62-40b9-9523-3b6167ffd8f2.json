@@ -1,0 +1,28 @@
+{
+  "id": "47619dcf-fd62-40b9-9523-3b6167ffd8f2",
+  "title": "Ice Guardians",
+  "originalTitle": "Ice Guardians",
+  "overview": "",
+  "backdropPath": "/k0jRj8VZQVJkmmSC84KEJctBScA.jpg",
+  "posterPath": "/tVHylGMKtF8Fs1ILYLvffpbbkUD.jpg",
+  "releaseDate": "2016-09-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "08c3f42c-0278-4cd6-ae85-17dcabb74748",
+      "title": "Ice Guardians",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Ice Guardians",
+        "youtubeId": "aWUN6ynfK9I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/aWUN6ynfK9I/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1492796491000,
+        "participants": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "727bd586-14a2-4778-9844-5cb72e581020",
+  "title": "A felejtés virágai",
+  "originalTitle": "Harrison's Flowers",
+  "overview": "Történet egy nőről, aki nem hajlandó meghajolni a végzet előtt, aki felveszi a harcot a sorsa ellen. Történet egy férfiról, akit a szeretet ereje óv meg attól, hogy kilátástalan helyzetében feladja ragaszkodását az élethez, és emléke végleg a feledés homályába merüljön. Történet mindazokról, akik szemtanúi voltak ennek a szenvedélynek, akik a saját szavaikkal mesélnek a felfoghatatlanról. Történet a szerelemről egy olyan háborúban, amelyet a II. világháború óta eltelt évtizedek egyik legvéresebb konfliktusaként tart számon a történetírás...1991 októberében Harrison Lloyd, a Newsweek Pulitzer-díjas fotóriportere Jugoszláviába utazik, hogy nyomon kövesse egy kisebb etnikai konfliktus kirobbanását. Úgy tervezi, hogy legkésőbb a fia születésnapjáig hazatér, ám az országban fellángoló zavargások súlyosbodása közbeszól: Lloyd nem érkezik vissza - nyoma vész Horvátországban.",
+  "backdropPath": "/tknIuEAueIh4yKnRdTF1O4p3uFE.jpg",
+  "posterPath": "/vA8o4oBhlvSImMUo54vsRmExryF.jpg",
+  "releaseDate": "2000-09-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fa13d84a-5fe4-45d0-bb0e-9f61863d69dd",
+      "title": "A felejtés virágai",
+      "subtitle": null,
+      "timestampString": "02:34:00",
+      "timestampInSeconds": 9240,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #320",
+        "youtubeId": "JOlQcUNht4E",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JOlQcUNht4E/hqdefault.jpg",
+        "durationInMinutes": 181,
+        "releaseDate": 1771072699000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

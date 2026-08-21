@@ -1,0 +1,45 @@
+{
+  "id": "5a0e1667-a9f1-4d51-89dd-91e119126d7e",
+  "title": "Megan 2.0",
+  "originalTitle": "M3GAN 2.0",
+  "overview": "A történet két évvel az első rész eseményei után játszódik. Gemma (Allison Williams) időközben elismert szerzővé és a mesterséges intelligencia szabályozásának szószólójává vált, míg unokahúga, a most 14 éves Cady (Violet McGraw) lázad Gemma szigorú szabályai ellen. Eközben egy védelmi vállalat ellopja a M3GAN technológiáját, és létrehozza Ameliát (Ivanna Sakhno), egy katonai célokra tervezett, önálló tudatra ébredő robotot, aki fellázad az emberi irányítás ellen. Az emberiség jövője forog kockán, ezért Gemma úgy dönt, hogy feltámasztja és továbbfejleszti M3GAN-t, hogy szembeszálljon Ameliával. A filmben visszatérnek a korábbi szereplők, és új karakterek is bemutatkoznak.",
+  "backdropPath": "/cT9ZfwoPDk8JbgkessmQgxAWiaM.jpg",
+  "posterPath": "/oekamLQrwlJjRNmfaBE4llIvkir.jpg",
+  "releaseDate": "2025-06-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7907a2a6-d813-4c96-b633-63c4709734ed",
+      "title": "Megan 2.0",
+      "subtitle": null,
+      "timestampString": "03:00:40",
+      "timestampInSeconds": 10840,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #306",
+        "youtubeId": "fhwjWo2MiYI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fhwjWo2MiYI/hqdefault.jpg",
+        "durationInMinutes": 272,
+        "releaseDate": 1752602894000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

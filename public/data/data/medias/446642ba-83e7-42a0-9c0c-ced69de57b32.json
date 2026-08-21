@@ -1,0 +1,45 @@
+{
+  "id": "446642ba-83e7-42a0-9c0c-ced69de57b32",
+  "title": "Birkakrimi",
+  "originalTitle": "The Sheep Detectives",
+  "overview": "Egy pásztor minden este hangosan felolvas egy bűnügyi történetet, azt színlelve, hogy a juhai megértik azt. Amikor holtan találják, a birkák azonnal ráébrednek, hogy gyilkosság történt és úgy gondolják, mindent tudnak arról, hogyan kell nekilátni a rejtély megoldásának.",
+  "backdropPath": "/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg",
+  "posterPath": "/9iBrvdvHV4EmtqtvDCJKX1Asv9Y.jpg",
+  "releaseDate": "2026-04-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "70602595-3826-4dbf-b102-7e976023346c",
+      "title": "Birkakrimi",
+      "subtitle": null,
+      "timestampString": "01:49:20",
+      "timestampInSeconds": 6560,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #327",
+        "youtubeId": "UYCI_LATeS8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/UYCI_LATeS8/hqdefault.jpg",
+        "durationInMinutes": 221,
+        "releaseDate": 1780218018000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "5989399b-9c8e-40cf-8df7-6ed9cfa5e0b2",
+            "name": "Szabolcs"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

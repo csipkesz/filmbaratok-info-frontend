@@ -1,0 +1,41 @@
+{
+  "id": "cfd4e1c3-6381-4806-93d5-a3ed513a20bd",
+  "title": "Szólít a szörny",
+  "originalTitle": "A Monster Calls",
+  "overview": "A 12 éves Conor csodálatos fantáziával és rajztehetséggel megáldott kisfiú. Amikor élete legnagyobb megpróbáltatásával kell szembenéznie, nem akármilyen segítőt kap: egy hatalmas szörny látogat el hozzá éjszakánként, aki fantasztikus történetekkel ébreszti fel a fiúban szunnyadó erőt és bátorságot. Conor végül a mesék és a szörny segítségével nemcsak édesanyja súlyos betegségével, és iskolatársai zaklatásával küzd meg, de a saját félelmeivel, dühével és bűntudatával is.",
+  "backdropPath": "/9iz9NrxldLvJof2133xvQH5vvhh.jpg",
+  "posterPath": "/grZy560flXvEGhTZqbALfj9WFo8.jpg",
+  "releaseDate": "2016-10-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a9aa39f4-bdd4-46c7-8a8b-3614d8a40877",
+      "title": "Szólít a szörny",
+      "subtitle": null,
+      "timestampString": "02:18:40",
+      "timestampInSeconds": 8320,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #118",
+        "youtubeId": "tsYYwq3fdTw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tsYYwq3fdTw/hqdefault.jpg",
+        "durationInMinutes": 239,
+        "releaseDate": 1490634596000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

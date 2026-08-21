@@ -1,0 +1,45 @@
+{
+  "id": "ebf6dfef-e07a-4885-891e-69265818fd43",
+  "title": "Gran Turismo",
+  "originalTitle": "Gran Turismo",
+  "overview": "Jann az autóversenyek mámorában él. Csak a pálya létezik a számára. A reflexei, a bátorsága, az ereje mind alkalmassá teszi rá, hogy ő legyen a bajnok – otthon. Ugyanis ő a Gran Turismo játékban szorítja a kormányt. De padlóig nyomja a gázt, és átverekszi magát egy másik pályára: egy valódira. Megnyer egy sor versenyt, és kiválasztják: egy igazi csapat igazi menedzsere igazi autóba ülteti, igazi pályára küldi, és Jann-nak attól kezdve az igazi életét kell kockáztatni azért, hogy nyerjen. Valóra válhat élete legnagyobb álma: és ő bármit feláldoz azért, hogy profi autóversenyző legyen belőle.",
+  "backdropPath": "/xFYpUmB01nswPgbzi8EOCT1ZYFu.jpg",
+  "posterPath": "/lfYhseJHr5uqfd8NMdMbxR10VQp.jpg",
+  "releaseDate": "2023-08-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "210f6138-f76b-482c-9955-3312e6cff9de",
+      "title": "Gran Turismo",
+      "subtitle": null,
+      "timestampString": "00:49:29",
+      "timestampInSeconds": 2969,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #261",
+        "youtubeId": "riCSpLjExWo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/riCSpLjExWo/hqdefault.jpg",
+        "durationInMinutes": 207,
+        "releaseDate": 1693369891000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

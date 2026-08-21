@@ -1,0 +1,45 @@
+{
+  "id": "c55dca81-2803-4fd9-a2e1-0f545190efc5",
+  "title": "A látogatás [Speak no evil]",
+  "originalTitle": "Speak No Evil",
+  "overview": "A dán házaspár nyaral Olaszországban, Toszkánában.  Hamarosan megismerkednek egy holland házaspárral és kisfiukkal, Abellel, aki nyelv nélkül született. Amikor hazatérnek, meghívást kapnak a holland házaspártól, hogy töltsenek velük egy hétvégét vidéki házukban. Autóval utaznak, és két nap múlva Louise kényelmetlenül érzi magát a holland házaspár által teremtett furcsa helyzetekben, és ráveszi férjét, hogy az éjszaka közepén térjenek haza. Lányok azonban ottfelejti a játékát, ezért visszatérnek a házba, hogy visszaszerezzék azt. Patrick és Karin bocsánatot kérnek a helytelen viselkedésükért, Bjørn és Louise pedig úgy dönt, hogy a nyaralás hátralévő részét ott töltik. Az éjszaka folyamán azonban Bjørn szaglászik, és sötét titkokat fedez fel a házban, majd Louise-nak azt mondja, hogy azonnal elmennek, de nem árulja el neki, mit talált.",
+  "backdropPath": "/lHhRU3jEnju4pKibOeYOgxaEw2y.jpg",
+  "posterPath": "/lXSTUW2Rq6rxhNPDplipAOYDgfn.jpg",
+  "releaseDate": "2022-03-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "383c4263-26b7-4f65-910a-754eb68db7e5",
+      "title": "A látogatás [Speak no evil]",
+      "subtitle": null,
+      "timestampString": "02:02:50",
+      "timestampInSeconds": 7370,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #241",
+        "youtubeId": "wkIRMrjPzTE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wkIRMrjPzTE/hqdefault.jpg",
+        "durationInMinutes": 228,
+        "releaseDate": 1665676839000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

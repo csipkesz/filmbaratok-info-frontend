@@ -1,0 +1,41 @@
+{
+  "id": "1f9e02bc-82ba-4db6-a38f-63ca5f64587f",
+  "title": "Leszámolás Kis-Tokióban",
+  "originalTitle": "Showdown in Little Tokyo",
+  "overview": "Japánban már több mint 400 éve tevékenykedik az a titkos bűnszövetkezet, amely mind a mai napig uralja az ország alvilágát. A Yakuza ezúttal nagyon merész lépésre szánja el magát: egy új, halálos szerrel akarnak betörni az amerikai drogpiacra. Amerikában azonban méltó ellenfélre találnak két helyi zsaru személyében. Egyikük egy amerikai, aki Japánban nevelkedett, észjárása akár egy szamurájé, ereje pedig félelmetes. Másikuk viszont Kaliforniában született, japán szülők gyermekeként, de ízig-vérig amerikai, akinek kedvence a pizza és a Music TV.",
+  "backdropPath": "/ywwRHYRgcDKnStvXQxNXKG4M0tx.jpg",
+  "posterPath": "/ti8fzSFsj2gm5RRZICDufq3reqn.jpg",
+  "releaseDate": "1991-08-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "87b0457a-4afc-4398-a559-44c0bdd31222",
+      "title": "Leszámolás Kis-Tokióban",
+      "subtitle": null,
+      "timestampString": "03:11:38",
+      "timestampInSeconds": 11498,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #277",
+        "youtubeId": "VVHLdlqq_xY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VVHLdlqq_xY/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1714501831000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

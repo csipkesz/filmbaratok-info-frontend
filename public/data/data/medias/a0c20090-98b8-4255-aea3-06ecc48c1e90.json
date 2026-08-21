@@ -1,0 +1,41 @@
+{
+  "id": "a0c20090-98b8-4255-aea3-06ecc48c1e90",
+  "title": "The Guest",
+  "originalTitle": "The Guest",
+  "overview": "David (Dan Stevens) katona, aki egy szép napon megjelenik a Peterson család házánál és azt állítja, hogy jó barátja volt a fiuknak, aki egy akció közben esett el. Miután a család befogadja a fiatal férfit, véletlen balesetek sora veszi kezdetét.",
+  "backdropPath": "/tooNIFHXIY3rBjCMLCET8yC8cIb.jpg",
+  "posterPath": "/gvlEFHu9FuYLmBZwsARTtuNIiDO.jpg",
+  "releaseDate": "2014-09-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1bb1d58c-74c6-479b-8a14-cdb030fe2b13",
+      "title": "The Guest",
+      "subtitle": null,
+      "timestampString": "01:17:15",
+      "timestampInSeconds": 4635,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #76",
+        "youtubeId": "wnZh6qcfn4E",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wnZh6qcfn4E/hqdefault.jpg",
+        "durationInMinutes": 128,
+        "releaseDate": 1435731107000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

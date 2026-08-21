@@ -1,0 +1,41 @@
+{
+  "id": "79533d20-8285-4fdb-b980-6bc963c2c16f",
+  "title": "Az ügyfél",
+  "originalTitle": "The Client",
+  "overview": "Mark Sway, a tizenegy éves kisfiú egy kegyetlen gyilkosság szemtanúja. A kerület ambiciózus ügyésze mindent elkövet, hogy a megfélemlített kisfiút vallomásra bírja. Mark azonban hallgat, hiszen nyomában a kegyetlen gyilkos, aki megfenyegette, hogy megöli, ha beszél. A félelem nem alaptalan, hiszen Mark egy maffia-leszámolás egyetlen tanúja, a gyilkos pedig tapasztalt profi, akinek egyel több, vagy kevesebb élet nem nagyon számít, különösen, ha a “karrierje” van veszélyben.  A nemrég még gondtalan gyermekkorát élő Mark egy halálos játszma kereszttüzében találja magát. Egyetlen barátja a bátor, ám tapasztalatlan ügyvédnő, aki kockára teszi érte karrierjét ... és életét.",
+  "backdropPath": "/ncU6X4hosU9srxqC0hGxajZvAyD.jpg",
+  "posterPath": "/i0RL5RQI70UBHFzhrn3pgvetDqG.jpg",
+  "releaseDate": "1994-07-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "328055f5-4e1f-448f-95cb-453b95494ded",
+      "title": "Az ügyfél",
+      "subtitle": null,
+      "timestampString": "02:41:35",
+      "timestampInSeconds": 9695,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #120",
+        "youtubeId": "-3teFOfAauw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-3teFOfAauw/hqdefault.jpg",
+        "durationInMinutes": 251,
+        "releaseDate": 1493646027000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

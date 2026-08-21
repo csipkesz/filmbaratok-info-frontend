@@ -1,0 +1,41 @@
+{
+  "id": "08e301a1-438e-4a9c-9be0-cd3f7af6b710",
+  "title": "Bloodshot",
+  "originalTitle": "Bloodshot",
+  "overview": "Mi haszna a halott gengszternek? Többnyire semmi. Ray Garrison azonban kap egy második esélyt. Egy orvosi kísérlet keretében nanorobotokat fecskendeznek a vérébe, ezzel pedig nemcsak feltámasztják, hanem szuperképességekkel látják el: és az így teremtett félig ember/félig legyőzhetetlen szuperhőst egy olyan akcióban vetik be, amelyet ember biztosan nem élne túl.",
+  "backdropPath": "/7FrVQnOL02SeDq0YPdLoCHDH91j.jpg",
+  "posterPath": "/8LMqx42nK7F1z73RAEHHE5CxwIR.jpg",
+  "releaseDate": "2020-03-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5f8972c8-658c-4e13-8cdd-6c563eeaddfb",
+      "title": "Bloodshot",
+      "subtitle": null,
+      "timestampString": "01:14:03",
+      "timestampInSeconds": 4443,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #186",
+        "youtubeId": "LvzEUgrbuec",
+        "thumbnailUrl": "https://i.ytimg.com/vi/LvzEUgrbuec/hqdefault.jpg",
+        "durationInMinutes": 214,
+        "releaseDate": 1584373994000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

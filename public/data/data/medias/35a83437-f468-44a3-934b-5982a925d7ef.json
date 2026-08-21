@@ -1,0 +1,41 @@
+{
+  "id": "35a83437-f468-44a3-934b-5982a925d7ef",
+  "title": "Szövetségesek",
+  "originalTitle": "Allied",
+  "overview": "Max Vatant, a hírszerzőtisztet 1942-ben Észak-Afrikában összehozza a sors a francia ellenálló Marianne Beausejourral egy veszélyes küldetés során, az ellenséges vonalak mögött. Amikor Londonban újra találkoznak, kapcsolatukra baljós árnyékként vetül a háború emberfeletti nyomása...",
+  "backdropPath": "/cdR0qwyaMfuZRfTYEixUmRnmdop.jpg",
+  "posterPath": "/tNL7OpzXkTUrMSba0D48bK6bvAH.jpg",
+  "releaseDate": "2016-11-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "79014a46-db03-4c3f-a793-f7e31b1f453a",
+      "title": "Szövetségesek",
+      "subtitle": null,
+      "timestampString": "00:38:55",
+      "timestampInSeconds": 2335,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #112",
+        "youtubeId": "M7gzW5_pVZk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/M7gzW5_pVZk/hqdefault.jpg",
+        "durationInMinutes": 160,
+        "releaseDate": 1481731219000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

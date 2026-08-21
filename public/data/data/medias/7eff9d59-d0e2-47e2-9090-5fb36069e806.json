@@ -1,0 +1,41 @@
+{
+  "id": "7eff9d59-d0e2-47e2-9090-5fb36069e806",
+  "title": "A hentes, a kurva és a félszemű",
+  "originalTitle": "A hentes, a kurva és a félszemű",
+  "overview": "A jómódú HENTES kiskirályként él az első világháború utáni Magyarországon. Egy nap régi üzlettársa, a kegyvesztett FÉLSZEMŰ csendőrtiszt egy nővel menekül a falujába. Az idegen asszony jelenléte feltüzeli a mészárszék életunt tulajdonosát, aki munkát ad mindkettőjüknek. Amikor a nőről kiderül, hogy Pesten K*RVA volt, a hentes pénzzel próbálja megvenni szerelmét. A pár belemegy a játékba és veszélyes alkudozás veszi kezdetét: egyikük sem tudhatja, ki fog hátba szúrni kit, ha végül eljön az elszámolás ideje.",
+  "backdropPath": "/hlrlnWAiJMczBAIvIAtqkdBstoh.jpg",
+  "posterPath": "/ul6TpKO1O6BccbsX9wHWIkPquII.jpg",
+  "releaseDate": "2018-01-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4ebb61f8-7066-404d-94bf-5e8559ef348f",
+      "title": "A hentes, a kurva és a félszemű",
+      "subtitle": null,
+      "timestampString": "02:43:43",
+      "timestampInSeconds": 9823,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #137",
+        "youtubeId": "TmsK4Kf-Bj8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/TmsK4Kf-Bj8/hqdefault.jpg",
+        "durationInMinutes": 228,
+        "releaseDate": 1518110484000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

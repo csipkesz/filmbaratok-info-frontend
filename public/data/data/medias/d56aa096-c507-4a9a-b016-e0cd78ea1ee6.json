@@ -1,0 +1,41 @@
+{
+  "id": "d56aa096-c507-4a9a-b016-e0cd78ea1ee6",
+  "title": "Bajos csajok",
+  "originalTitle": "Mean Girls",
+  "overview": "Cady Heron afrikai vidékeken nőtt fel zoológus szülei mellett és 15 éves koráig csak hírből ismerte az iskolát. A család azonban visszatér Chicagóba és Cady egy átlagos gimnáziumban találja magát, ahol hamar megtanulja az első leckét: semmit sem tud azokról a vad dolgokról, melyek az úgynevezett civilizációban - esetünkben egy középiskolában - előfordulnak. Ami itt folyik, az valóságos pszichológiai hadviselés és intrikák sora, és mindezek élén Regina George áll, a legmenőbb és legrafináltabb csaj az iskolában. Ő a királynő, a lányok bálványa, szinte mindenki rá akar hasonlítani, az ő szavát lesi. Nem tanácsos az útjába kerülni, ám az új lány alig teszi be a lábát, máris a lehetséges riválisaként tartják számon. Arra is rá kell jönnie, hogy az élet a dzsungelben sokszor semmi ahhoz képest, ami egy gimiben történik.",
+  "backdropPath": "/nP3y0TkR6XniFs9J53qQkg4Bnnk.jpg",
+  "posterPath": "/37vghI7wRKNMlUB0MjOrQhsYqwL.jpg",
+  "releaseDate": "2004-04-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "25d37a76-8871-42f7-8790-10b076d8112c",
+      "title": "Bajos csajok",
+      "subtitle": null,
+      "timestampString": "02:28:55",
+      "timestampInSeconds": 8935,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #196",
+        "youtubeId": "FsFQg0igAJI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/FsFQg0igAJI/hqdefault.jpg",
+        "durationInMinutes": 181,
+        "releaseDate": 1598446254000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

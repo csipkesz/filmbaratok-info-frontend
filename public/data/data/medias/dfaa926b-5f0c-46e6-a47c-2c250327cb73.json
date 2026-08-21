@@ -1,0 +1,45 @@
+{
+  "id": "dfaa926b-5f0c-46e6-a47c-2c250327cb73",
+  "title": "Az űrhajós",
+  "originalTitle": "Spaceman",
+  "overview": "Egy magányos asztronauta hat hónapja tartó szólóküldetésén szembesül a házasságát feszítő repedésekkel, egy űrhajóján felfedezett titokzatos lény segítségével.",
+  "backdropPath": "/9ZFNRs58TTnvf3utagd0uSJluXa.jpg",
+  "posterPath": "/7R5PiLzPMIIAtaLEZP9j40GYury.jpg",
+  "releaseDate": "2024-02-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "da322051-2ee9-4230-82f7-afc2e734caf1",
+      "title": "Az űrhajós",
+      "subtitle": null,
+      "timestampString": "01:18:57",
+      "timestampInSeconds": 4737,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #274",
+        "youtubeId": "U5btDyv5pPk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/U5btDyv5pPk/hqdefault.jpg",
+        "durationInMinutes": 285,
+        "releaseDate": 1710534459000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

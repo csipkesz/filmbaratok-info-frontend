@@ -1,0 +1,45 @@
+{
+  "id": "8f6fe0f5-14ae-40ea-8e90-b8e173e3f3f4",
+  "title": "Az ifjú nyomozó / The kid detective",
+  "originalTitle": "The Kid Detective",
+  "overview": "Az egykor ünnepelt gyereknyomozó, most 31 éves, továbbra is ugyanazokat a triviális rejtélyeket oldja meg a másnaposság és az önsajnálat rohamai között. Egészen addig, amíg egy naiv ügyfél el nem hozza neki az első „felnőtt” ügyét, hogy segítsen kideríteni, ki követte el a kegyetlen gyilkosságot, amelynek áldozatul esett a barátja.",
+  "backdropPath": "/qO69gIS6ECZllXToivvNsfQG7Sp.jpg",
+  "posterPath": "/hvUcLvHUZgdcXnate0c2dR8KI5i.jpg",
+  "releaseDate": "2020-10-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8a726f54-40ca-4e2b-a4b1-920fa73b2d57",
+      "title": "Az ifjú nyomozó / The kid detective",
+      "subtitle": null,
+      "timestampString": "02:32:15",
+      "timestampInSeconds": 9135,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #245",
+        "youtubeId": "thnBmMbVpOo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/thnBmMbVpOo/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1671033623000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

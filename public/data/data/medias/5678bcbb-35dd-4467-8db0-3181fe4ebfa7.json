@@ -1,0 +1,41 @@
+{
+  "id": "5678bcbb-35dd-4467-8db0-3181fe4ebfa7",
+  "title": "Lego Batman – A film",
+  "originalTitle": "The Lego Batman Movie",
+  "overview": "Egyáltalán nem kockák. Dilisek, felelőtlenek, tele vannak ötlettel. A LEGO kaland bebizonyította, hogy sok humorral és fantáziával világokat lehet teremteni, és azután átépíteni őket, és most az előző film alkotói újabb dilivel támadnak: LEGO Batman történetével. Gothamben hatalmas változások készülődnek, és Batmannek komolyan fel kell kötnie a köpönyegét, ha meg akarja menteni Jokertől az otthonát. Lehet, hogy az ügy érdekében magányos hős sem lehet többé, mert együtt kell működnie másokkal… lehet, de nem biztos. Majd meglátjuk.",
+  "backdropPath": "/rWYtghaUJSDvQm4jmXiCPXBHUdQ.jpg",
+  "posterPath": "/ohC2DrjCrEnWrcDaPBzo08Yn65y.jpg",
+  "releaseDate": "2017-02-08T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "40429779-f921-4b0d-a0b2-2a4e43e6ccbc",
+      "title": "Lego Batman – A film",
+      "subtitle": null,
+      "timestampString": "01:35:00",
+      "timestampInSeconds": 5700,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #116",
+        "youtubeId": "z6ZDT1e89XY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z6ZDT1e89XY/hqdefault.jpg",
+        "durationInMinutes": 146,
+        "releaseDate": 1487003611000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

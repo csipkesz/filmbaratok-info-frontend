@@ -1,0 +1,41 @@
+{
+  "id": "7689527f-4f80-484e-87b6-cedb86173954",
+  "title": "John Candy: Tökre bírom magam",
+  "originalTitle": "John Candy: I Like Me",
+  "overview": "Colin Hanks rendezésében és Ryan Reynolds produceri közreműködésével készült a John Candy: Tökre bírom magam. A dokumentumfilmben John Candy pályatársai és barátai mesélik el történetét saját szavaikkal, eddig sosem látott archív felvételeken, képeken és interjúkon keresztül. Megható portré minden idők egyik legkedveltebb színészének életéről, karrierjéről és túl korai elvesztéséről.",
+  "backdropPath": "/rSuqSerMzqMtgX7fX50Hl55ficF.jpg",
+  "posterPath": "/sHCEOuPwOMIkJUSJgIXTj4ZmBgc.jpg",
+  "releaseDate": "2025-09-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b48fffad-0d87-4e56-ba11-10650a5e79da",
+      "title": "John Candy: Tökre bírom magam",
+      "subtitle": null,
+      "timestampString": "02:32:25",
+      "timestampInSeconds": 9145,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #315 (Életrajzi dokumentumfilmek)",
+        "youtubeId": "pvQvVCuAEDI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/pvQvVCuAEDI/hqdefault.jpg",
+        "durationInMinutes": 229,
+        "releaseDate": 1764442162000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "c9e1beb3-4ce9-4106-b511-f8ac55ec24bd",
+  "title": "Az ördögűző",
+  "originalTitle": "The Exorcist",
+  "overview": "Minden idők legfélelmetesebb filmjében a kis Regan-t megszállja az ördög. Édesanyja, Chris tanácstalanul és döbbenten figyeli kislánya egyre különösebb viselkedését, és egyik orvostól a másikig jár, hátha valaki megfejti különleges betegsége okát. Az orvosok kellemetlenebbnél kellemetlenebb vizsgálatoknak vetik alá a kislányt, míg végül Chris elkeseredésében Merrin atyához fordul, az ismert ördögűzőhöz, mert a Regan testét uraló gonosz már a gyilkosságoktól sem riad vissza.",
+  "backdropPath": "/xcjJ5khg2yzOa282mza39Lbrm7j.jpg",
+  "posterPath": "/ohrjYQWDV8hAt7OuhM5EXbUDog9.jpg",
+  "releaseDate": "1973-12-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "dbb10336-d1ed-4fdc-a9d7-751122bc727d",
+      "title": "Az ördögűző",
+      "subtitle": null,
+      "timestampString": "1:06:50",
+      "timestampInSeconds": 4010,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #60",
+        "youtubeId": "r6yj-sa2ZsA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/r6yj-sa2ZsA/hqdefault.jpg",
+        "durationInMinutes": 125,
+        "releaseDate": 1414771113000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

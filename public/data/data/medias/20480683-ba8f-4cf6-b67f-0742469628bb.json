@@ -1,0 +1,45 @@
+{
+  "id": "20480683-ba8f-4cf6-b67f-0742469628bb",
+  "title": "Szamaritánus",
+  "originalTitle": "Samaritan",
+  "overview": "A tizenhárom éves Sam azt gyanítja, hogy a visszahúzódó, titokzatos szomszédja, Mr. Smith valójában az a legenda, akit húsz évvel ezelőtt egy nagy csata után halottnak nyilvánítottak. Mivel a bűnözés egyre nő, Sam küldetésének tekinti, hogy előcsalogassa szomszédját a rejtekhelyéről, hogy megmentse a várost a káosztól.",
+  "backdropPath": "/hYZ4a0JvPETdfgJJ9ZzyFufq8KQ.jpg",
+  "posterPath": "/covJ7zBHXNRK7PBfEudl5PX2lJA.jpg",
+  "releaseDate": "2022-08-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "66b070ed-a030-4ec3-9050-3dcc3ddec6d6",
+      "title": "Szamaritánus",
+      "subtitle": null,
+      "timestampString": "00:46:25",
+      "timestampInSeconds": 2785,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #239",
+        "youtubeId": "fLgXm-yTEGg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fLgXm-yTEGg/hqdefault.jpg",
+        "durationInMinutes": 259,
+        "releaseDate": 1663259409000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

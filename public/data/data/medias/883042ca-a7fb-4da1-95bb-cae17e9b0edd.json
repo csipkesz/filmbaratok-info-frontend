@@ -1,0 +1,45 @@
+{
+  "id": "883042ca-a7fb-4da1-95bb-cae17e9b0edd",
+  "title": "Rambo V. - Utolsó vér",
+  "originalTitle": "Rambo: Last Blood",
+  "overview": "John Rambo békésen próbálja élni a mindennapjait arizonai farmján, bár háborús múltjából felbukkanó belső démonaival továbbra is viaskodik. Egy nap azonban házvezetőnője, María unokáját elrabolják. Rambo felveszi a harcot a kegyetlen szex- és drogkereskedő mexikói kartellel, amely több lányt is fogságban tart. Segítője a halálos küzdelemben Carmen, aki a húga után kutat.",
+  "backdropPath": "/spYx9XQFODuqEVoPpvaJI1ksAVt.jpg",
+  "posterPath": "/9hF2Lc5sIS4MNCyH8C2JJRXqi2y.jpg",
+  "releaseDate": "2019-09-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "40a6317b-b90c-4e5c-afce-faba978609b7",
+      "title": "Rambo V. - Utolsó vér",
+      "subtitle": null,
+      "timestampString": "01:42:47",
+      "timestampInSeconds": 6167,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #176",
+        "youtubeId": "IBv2w6mBz1s",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IBv2w6mBz1s/hqdefault.jpg",
+        "durationInMinutes": 267,
+        "releaseDate": 1570124501000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

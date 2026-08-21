@@ -1,0 +1,41 @@
+{
+  "id": "99d2af64-1a82-4136-bd41-ebdbd3c94847",
+  "title": "A nagy visszatérők",
+  "originalTitle": "The Comeback Trail",
+  "overview": "Max Barber producer új filmje hatalmas bukás a mozikban. Mivel emiatt az adósságát sem tudja visszafizetni, a hírhedt maffiafőnök, Reggie Fontaine  markába kerül. Max úgy próbálja menteni az irháját, hogy meggyőzi Reggie-t, finanszírozzon egy újabb forgatást. Ez azonban már nem a nézők kedvéért készül, csupán azért, hogy egy biztosítási csalással óriási összeget zsebeljenek be. A vén, részeges főszereplő, Duke Montana azonban áthúzza minden számításukat…",
+  "backdropPath": "/wRrhiUWQSrmCzuVRTUfrei6p3VY.jpg",
+  "posterPath": "/dKg58FasQXcI1d2cUwlGdOuLiN9.jpg",
+  "releaseDate": "2020-11-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "bdd8dfa7-4038-4e08-8763-7cf8d4128cb2",
+      "title": "A nagy visszatérők",
+      "subtitle": null,
+      "timestampString": "01:57:40",
+      "timestampInSeconds": 7060,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #213",
+        "youtubeId": "JtzuuNOeIxc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JtzuuNOeIxc/hqdefault.jpg",
+        "durationInMinutes": 200,
+        "releaseDate": 1624372656000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

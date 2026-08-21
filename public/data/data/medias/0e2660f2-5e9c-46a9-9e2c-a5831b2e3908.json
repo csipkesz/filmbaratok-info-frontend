@@ -1,0 +1,41 @@
+{
+  "id": "0e2660f2-5e9c-46a9-9e2c-a5831b2e3908",
+  "title": "Vivarium",
+  "originalTitle": "Vivarium",
+  "overview": "Álmaik otthonát keresve Gemma és Tom találkozik egy hóbortos ingatlanossal, aki tökéletes lakást ígér nekik: egy csendes és kényelmes helyet, amely minden igényüket kielégíti. A pár úgy dönt, megtekintik a szóban forgó családi házat, ám a környék egyforma épületeinek véget nem érő sora kissé visszaveti a lelkesedésüket. Nem is sejtik, hogy ez még a legkisebb probléma, ami rájuk vár…",
+  "backdropPath": "/zLa8fA7boGtNoNH7n6iYi9UqoaH.jpg",
+  "posterPath": "/aMTOjYh5DCwtWFiirpJMNtzIx2h.jpg",
+  "releaseDate": "2019-09-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "08f6d7e9-b1db-4b40-8d6d-182848c2e15b",
+      "title": "Vivarium",
+      "subtitle": null,
+      "timestampString": "01:39:10",
+      "timestampInSeconds": 5950,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #188",
+        "youtubeId": "0HEzLOYhLD4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/0HEzLOYhLD4/hqdefault.jpg",
+        "durationInMinutes": 184,
+        "releaseDate": 1587743952000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

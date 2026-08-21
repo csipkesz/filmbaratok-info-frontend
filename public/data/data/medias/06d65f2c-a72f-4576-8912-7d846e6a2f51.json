@@ -1,0 +1,41 @@
+{
+  "id": "06d65f2c-a72f-4576-8912-7d846e6a2f51",
+  "title": "A szépség és a szörnyeteg (2017)",
+  "originalTitle": "Beauty and the Beast",
+  "overview": "Belle-t, az eszes, gyönyörű és független ifjú hölgyet kastélyába zárja egy szörnyeteg. Félelmeit leküzdve a lány összebarátkozik új, kényszerű otthona elvarázsolt személyzetével és végül képes lesz arra is, hogy meglássa a gyöngéd, érző szívű herceget a szörnyeteg rettentő külleme mögött.",
+  "backdropPath": "/uU1Mt4JWhDvl4vKb3AfxNsorkoM.jpg",
+  "posterPath": "/zEjN8yvLuDTCXqeaLZ4d1pmqayM.jpg",
+  "releaseDate": "2017-03-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9b08f65a-4a0f-4cf0-a665-ef0781b39232",
+      "title": "A szépség és a szörnyeteg (2017)",
+      "subtitle": null,
+      "timestampString": "02:41:20",
+      "timestampInSeconds": 9680,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #118",
+        "youtubeId": "tsYYwq3fdTw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tsYYwq3fdTw/hqdefault.jpg",
+        "durationInMinutes": 239,
+        "releaseDate": 1490634596000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

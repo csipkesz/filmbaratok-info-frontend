@@ -1,0 +1,45 @@
+{
+  "id": "0a109dc2-be85-4faf-9d5b-d2679226f056",
+  "title": "A nagy fal",
+  "originalTitle": "The Great Wall",
+  "overview": "A fal valóban azért készülhetett el, hogy megállítsa a támadásokat. A filmben azonban nem a vad hunok vagy valamelyik hasonló habitusú nép jelenti a veszélyt, hanem fantasy-be illő, rémséges szörnyek. A fal azonban önmagában nem elég. Egy elit osztagra is szükség van, a legjobb katonákkal teletűzdelve, hogy biztos legyen a győzelem. A tét pedig nem kicsi. Az elit osztag az emberiség utolsó harcát vívja a világ legikonikusabb építményén, a Nagy Falon...",
+  "backdropPath": "/th26RNksfM9nn7DPH06OqiV6BA2.jpg",
+  "posterPath": "/9OFCdLCCKFfnbdlqHXoz6WJ6jsv.jpg",
+  "releaseDate": "2016-12-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f967fa55-aaca-4621-a4e3-86ea941d8c65",
+      "title": "A nagy fal",
+      "subtitle": null,
+      "timestampString": "02:43:55",
+      "timestampInSeconds": 9835,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #114",
+        "youtubeId": "-MXopm_I1eY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-MXopm_I1eY/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1484786554000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "48df2df1-df55-47d3-b5cb-daef500d6e1e",
+  "title": "Robotzsaru (2014)",
+  "originalTitle": "RoboCop",
+  "overview": "Detroit, 2028. A robottechnológia monopóliuma egy nemzetközi óriáscég, az OmniCorp kezében van. Különböző harci drónjaikat sikerrel használja a hadsereg a tengerentúlon már évek óta - ez pedig sok milliárdos profitot jelent a cég számára. Az OmniCorp fejesei úgy döntenek, hogy hazai fronton is csatasorba állítják egyébként sokat vitatott technológiájukat, és erre nem sokkal később remek lehetőség adódik. Amikor Alex Murphy - a szerető férj és apa, valamint remek zsaru, aki mindent megtesz azért, hogy elsöpörje a bűnözést és a korrupciót Detroit utcáiról - súlyosan megsérül szolgálat közben. Az OmniCorp benne látja meg a lehetőséget, hogy létrehozzanak egy félig ember, félig robot rendőrtisztet. A vállalat álma, hogy minden városban szolgáljon egy Robotzsaru, ennek köszönhetően pedig további milliárdok kerüljenek a részvényesek számláira. Egy dologgal azonban nem számoltak: a robottesten belül továbbra is egy ember rejtőzik, akik igazságot akar szolgáltatni minden áron!",
+  "backdropPath": "/xACuC5FwpCdayrcCsJPxYzrl8BO.jpg",
+  "posterPath": "/9ynWGeV9BdO2LXNx8o8s9WK3OjI.jpg",
+  "releaseDate": "2014-01-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6a96ad25-2ed1-4fad-b623-58e867e5dd51",
+      "title": "Robotzsaru (2014)",
+      "subtitle": null,
+      "timestampString": "01:27:34",
+      "timestampInSeconds": 5254,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #45",
+        "youtubeId": "9hNSnIZK61I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9hNSnIZK61I/hqdefault.jpg",
+        "durationInMinutes": 145,
+        "releaseDate": 1392563971000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

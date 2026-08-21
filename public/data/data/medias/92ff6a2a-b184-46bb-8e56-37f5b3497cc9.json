@@ -1,0 +1,41 @@
+{
+  "id": "92ff6a2a-b184-46bb-8e56-37f5b3497cc9",
+  "title": "Farkasember",
+  "originalTitle": "The Wolfman",
+  "overview": "Lawrence Talbot a zaklatott lelkű nemesembert, aki visszatér a családi farmra, mikor a fivére menyasszonya ) arra kéri, találja meg elveszett szerelmét. Atyjával (Anthony Hopkins, A bárányok hallgatnak) közösen Talbot elindul, hogy meglelje bátyját, de helyette egy vérszomjas bestiát talál, amely könyörtelenül irtja a környékbeli falvak lakóit, és ezzel magára vonzza Aberline (Hugo Weaving, Mátrix), a Scotland Yard rettenthetetlen felügyelőjének figyelmét. Mikor a kegyetlen teremtmény utáni hajsza rémálomba illő fordulatot vesz, Talbot kénytelen szembesülni saját rémületes végzetével.",
+  "backdropPath": "/kTDunJrHYsH6o1wmD6iT4wXkuHo.jpg",
+  "posterPath": "/mdLD9A38YXMonaF9ERrw8jmTboZ.jpg",
+  "releaseDate": "2010-02-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4e450fcf-7f18-49f2-bb24-3aab99235583",
+      "title": "Farkasember",
+      "subtitle": null,
+      "timestampString": "01:59:36",
+      "timestampInSeconds": 7176,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #295",
+        "youtubeId": "GjY5Xs-Vbyc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GjY5Xs-Vbyc/hqdefault.jpg",
+        "durationInMinutes": 231,
+        "releaseDate": 1738346406000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

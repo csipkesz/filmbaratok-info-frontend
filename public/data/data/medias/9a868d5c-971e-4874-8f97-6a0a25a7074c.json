@@ -1,0 +1,45 @@
+{
+  "id": "9a868d5c-971e-4874-8f97-6a0a25a7074c",
+  "title": "A vágy villamosa",
+  "originalTitle": "A Streetcar Named Desire",
+  "overview": "Blanche labilis idegzetű asszony, aki feledni szeretné komor életét. Alkoholba fojtja bánatát és nővérénél, Stellánál keres menedéket. Sógora, Stanley Kowalsky, aki testiségével vonzza és egyben taszítja is, heves érzelmek kuszaságát váltja ki benne. Blanche abban reménykedik, hogy a szemérmes Mitch-csel sikerül közös jövőjüket felépítenie. Kowalsky azzal rombolja szét kapcsolatukat, hogy megerőszakolja Blanche-ot. Blanche lelkileg összetörve végül idegklinikán köt ki.",
+  "backdropPath": "/or90vNrOVnYwi07fYYpQ3pbnjxP.jpg",
+  "posterPath": "/1khIfrvmGv10oMApWGHFcOakB48.jpg",
+  "releaseDate": "1951-09-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "51543530-6695-442e-adfc-e62230028179",
+      "title": "A vágy villamosa",
+      "subtitle": null,
+      "timestampString": "03:19:05",
+      "timestampInSeconds": 11945,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #166",
+        "youtubeId": "NaqCtn_eZNI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/NaqCtn_eZNI/hqdefault.jpg",
+        "durationInMinutes": 241,
+        "releaseDate": 1555772517000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "fbe11bae-07f7-4ac8-bff4-0e81a65a5761",
+  "title": "Jumanji",
+  "originalTitle": "Jumanji",
+  "overview": "",
+  "backdropPath": "/b59V2vU77hyMthEsjrMeeczSfc1.jpg",
+  "posterPath": "/2s0v5wRdbJGBMrLHxr9WB2rPUJI.jpg",
+  "releaseDate": "1996-09-08T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8ec7c88c-bd9a-4557-8ae8-3694378093ae",
+      "title": "Jumanji",
+      "subtitle": null,
+      "timestampString": "00:53:11",
+      "timestampInSeconds": 3191,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #136",
+        "youtubeId": "4b51e0H7UII",
+        "thumbnailUrl": "https://i.ytimg.com/vi/4b51e0H7UII/hqdefault.jpg",
+        "durationInMinutes": 187,
+        "releaseDate": 1516893789000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

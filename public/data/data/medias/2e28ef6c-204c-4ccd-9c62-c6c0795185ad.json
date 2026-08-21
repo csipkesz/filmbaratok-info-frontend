@@ -1,0 +1,45 @@
+{
+  "id": "2e28ef6c-204c-4ccd-9c62-c6c0795185ad",
+  "title": "A paradicsom",
+  "originalTitle": "A paradicsom",
+  "overview": "",
+  "backdropPath": null,
+  "posterPath": null,
+  "releaseDate": "1915-03-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "152f2c9b-6aac-4469-8254-82ec219eed92",
+      "title": "A paradicsom",
+      "subtitle": null,
+      "timestampString": "01:23:50",
+      "timestampInSeconds": 5030,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #61",
+        "youtubeId": "lu3n5Wpq2k0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/lu3n5Wpq2k0/hqdefault.jpg",
+        "durationInMinutes": 185,
+        "releaseDate": 1415901482000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

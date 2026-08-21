@@ -1,0 +1,41 @@
+{
+  "id": "65f1b288-d04a-4caf-90ce-7273562c8142",
+  "title": "Trainspotting 2",
+  "originalTitle": "T2 Trainspotting",
+  "overview": "Négy edinborough-i srác meg a heroin története húsz évvel ezelőtt felforgatta a mozis világot. A durva valóság és az őrült humor nagy találkozásából kultikussá váló film valamint négy feledhetetlen - bár kissé veszélyes - figura született. Most mind a négyen visszatérnek: az évek őket sem kímélték, és ők továbbra sem kímélnek senkit.  Renton, Spud, Begbie és Beteg Srác: a négy régi barát, akit jó viszontlátni (de lehetőleg nem egy sötét sikátorban) újra akcióba lendül.",
+  "backdropPath": "/rTpNrsyhpOZPqW2qsyNHLxyarvL.jpg",
+  "posterPath": "/3abVnV6j9FdQjOXl6NB7c2zJqDr.jpg",
+  "releaseDate": "2017-01-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5572bfb3-4647-4f17-92bd-cdd35ee74965",
+      "title": "Trainspotting 2",
+      "subtitle": null,
+      "timestampString": "03:09:39",
+      "timestampInSeconds": 11379,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #118",
+        "youtubeId": "tsYYwq3fdTw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tsYYwq3fdTw/hqdefault.jpg",
+        "durationInMinutes": 239,
+        "releaseDate": 1490634596000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

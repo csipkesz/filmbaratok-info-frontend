@@ -1,0 +1,45 @@
+{
+  "id": "37b2ec97-31e8-4b73-ac51-063ab6cb867a",
+  "title": "Az éjszaka törvénye",
+  "originalTitle": "Live by Night",
+  "overview": "Boston, 1926: mindenből sok van, ami tilos - az alkohol, a gyilkosság, a bűn minden formája természetes Joe Coughlin egy magas rangú rendőr legkisebb fia boldogan veti bele magát a titkos szeszfőzdék, gengszterbandák és korrupt zsaruk világába, és a kisstílű tolvajból nemsokára a város egyik legsikeresebb rumcsempésze lesz. Bostonból Tampába, onnan Kubába vezet az útja - egyre mélyebbre merül a bűnbe, egyre gátlástalanabb és kegyetlenebb... de közben szerelmes lesz, és az talán megváltoztatja. Vagy rájön, hogy már nem érdemes változnia - hiszen úgysem hinnél el neki senki.",
+  "backdropPath": "/vClMoGPBTt2mh1NFthtBCZlwO2r.jpg",
+  "posterPath": "/oOgLdnV30LIL6S75EBZBpzy9Fhm.jpg",
+  "releaseDate": "2016-12-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a67d3637-b974-42ed-bb56-41f6e41d5f00",
+      "title": "Az éjszaka törvénye",
+      "subtitle": null,
+      "timestampString": "01:55:45",
+      "timestampInSeconds": 6945,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #115",
+        "youtubeId": "kbUqk0bddqo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/kbUqk0bddqo/hqdefault.jpg",
+        "durationInMinutes": 231,
+        "releaseDate": 1485969786000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

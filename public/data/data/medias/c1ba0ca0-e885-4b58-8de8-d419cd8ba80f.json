@@ -1,0 +1,45 @@
+{
+  "id": "c1ba0ca0-e885-4b58-8de8-d419cd8ba80f",
+  "title": "Vérapó",
+  "originalTitle": "Violent Night",
+  "overview": "Amikor karácsony estéjén egy zsoldoscsapat betör egy gazdag családhoz, és mindenkit túszul ejt, a csapat nincs felkészülve a meglepetésre: a Télapó a helyszínen van, és meg akarja mutatni, hogy ez a név nem egy szentet takar.",
+  "backdropPath": "/sBOenwOZGRN5nZZGw4TxwtnfrEf.jpg",
+  "posterPath": "/ieDHyNW46YJ9qPjMxDc2QFlz66.jpg",
+  "releaseDate": "2022-11-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "18a300a9-dd6b-4d94-a91d-60ede9192d2f",
+      "title": "Vérapó",
+      "subtitle": null,
+      "timestampString": "01:35:48",
+      "timestampInSeconds": 5748,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #245",
+        "youtubeId": "thnBmMbVpOo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/thnBmMbVpOo/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1671033623000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

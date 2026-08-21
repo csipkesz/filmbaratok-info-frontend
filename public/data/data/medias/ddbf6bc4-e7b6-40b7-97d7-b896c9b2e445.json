@@ -1,0 +1,45 @@
+{
+  "id": "ddbf6bc4-e7b6-40b7-97d7-b896c9b2e445",
+  "title": "A Vihar kapujában",
+  "originalTitle": "羅生門",
+  "overview": "Ez a velencei fesztiválon nagydíjjal kitüntetett, rendkívül szép és mozgalmas (420 vágást tartalmazó!) film hozta meg a világhírt Kurosawának, és keltette fel a nyugati közönség érdeklődését a japán film iránt. A XII. századi polgárháborúk sújtotta Kiotóban vagyunk. A címadó romos kapu alatt várja az eső elálltát egy buddhista pap, egy közember és egy szamurájgyilkosság tanújaként kihallgatott favágó. A szamuráj halálának s felesége megerőszakolásának esetét különbözőképpen adja elő a gyanúsított bandita, Tajomaru és a többi résztvevő. Mégsem az igazság viszonylagosságáról van itt szó, hanem az emberek viszonyáról saját hazugságaikhoz. \"A különböző értelmezések mögött az a félelem bújik meg, hogy az események másnak mutatják az elbeszélőt, mint amilyennek látni szeretné magát, hogy megsemmisítik dicsekvése alapját.\" (Berkes Ildikó)",
+  "backdropPath": "/tDn1dA52bQH9B85vilHeU7C83W1.jpg",
+  "posterPath": "/qKE2gnSEdHI8yMhYmkBSCcjZoby.jpg",
+  "releaseDate": "1950-08-26T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "049d2b16-af46-4aab-a4aa-73e253d3524d",
+      "title": "A Vihar kapujában",
+      "subtitle": null,
+      "timestampString": "02:27:02",
+      "timestampInSeconds": 8822,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #73",
+        "youtubeId": "CojqY6DJFQM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/CojqY6DJFQM/hqdefault.jpg",
+        "durationInMinutes": 197,
+        "releaseDate": 1431625186000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "703a9aae-abc8-416f-80be-534623af6b1a",
+  "title": "Minden, mindenhol, mindenkor",
+  "originalTitle": "Everything Everywhere All at Once",
+  "overview": "Megállíthatatlan fenyegetés készül elsöpörni az összes multiverzumot… de talán nincs minden veszve. A létezésünket fenyegető sötétségnek ugyanis van valaki, aki képes útját állni: egy középkorú, kínai bevándorló, Evelyn. A bökkenő csak az, hogy a mosodatulajdonosnak jelenleg nincs ideje ilyen apróságokon aggódni, mivel azzal van elfoglalva, hogy időre befejezze az adóbevallását.",
+  "backdropPath": "/ss0Os3uWJfQAENILHZUdX8Tt1OC.jpg",
+  "posterPath": "/4nbQhDoKMvNwuEkjE3MSnpoTdBP.jpg",
+  "releaseDate": "2022-03-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5628ed86-b2d3-4000-94a2-31fe692c8d12",
+      "title": "Minden, mindenhol, mindenkor",
+      "subtitle": null,
+      "timestampString": "00:38:00",
+      "timestampInSeconds": 2280,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #232",
+        "youtubeId": "9TzGQXyouWk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9TzGQXyouWk/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1651670332000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

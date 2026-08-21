@@ -1,0 +1,41 @@
+{
+  "id": "eef7c88c-c3db-4c25-9af3-499892805ced",
+  "title": "Predator - A ragadozó (2018)",
+  "originalTitle": "The Predator",
+  "overview": "Az univerzum legveszedelmesebb ragadozói más fajok DNS-ét használva genetikailag módosították magukat, így most erősebbek, okosabbak és halálosabbak, mint bármikor. Mikor egy kisfiú tudtán kívül a Földre vonzza őket, csupán egy exkatonákból álló szedett-vedett csapat és egy morózus technikatanárnő állhat az emberiség pusztulásának útjába.",
+  "backdropPath": "/b96OdaJce7Zu70NYe8vmlfOQUUN.jpg",
+  "posterPath": "/mXtD5ZrTCFxP9vmlI0Nw0o77K9g.jpg",
+  "releaseDate": "2018-09-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fcd7f092-ff1d-4242-aba1-d26caa2e5c5e",
+      "title": "Predator - A ragadozó (2018)",
+      "subtitle": null,
+      "timestampString": "00:39:45",
+      "timestampInSeconds": 2385,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #151",
+        "youtubeId": "hcylcX_kgM0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/hcylcX_kgM0/hqdefault.jpg",
+        "durationInMinutes": 234,
+        "releaseDate": 1537428229000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

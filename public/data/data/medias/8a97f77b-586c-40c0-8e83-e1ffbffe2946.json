@@ -1,0 +1,45 @@
+{
+  "id": "8a97f77b-586c-40c0-8e83-e1ffbffe2946",
+  "title": "Nem félünk a farkastól",
+  "originalTitle": "Who's Afraid of Virginia Woolf?",
+  "overview": "Vasárnap hajnali két óra van. Egy középkorú házaspár valami partiról tér haza, és unalomból civódni kezdenek. Egy fiatal házaspárt várnak, akiket a papa kérésére kellene elszórakoztatniuk... A kibontakozó dráma csak részben szól a \"házassági börtönről\", legalább ugyanannyira két ember összetartozásáról, de éppen ettől lesz tanmese helyett elgondolkoztató darab.",
+  "backdropPath": "/sZxPKiNCK8piKBtXAbm3Ucj6RQk.jpg",
+  "posterPath": "/wYRQVw5K9x5YWSCPDSq3ZBFBKp4.jpg",
+  "releaseDate": "1966-06-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0275a6d3-47bb-4573-9420-376cd691c8c6",
+      "title": "Nem félünk a farkastól",
+      "subtitle": null,
+      "timestampString": "02:56:28",
+      "timestampInSeconds": 10588,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #327",
+        "youtubeId": "UYCI_LATeS8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/UYCI_LATeS8/hqdefault.jpg",
+        "durationInMinutes": 221,
+        "releaseDate": 1780218018000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "5989399b-9c8e-40cf-8df7-6ed9cfa5e0b2",
+            "name": "Szabolcs"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "cc115570-3136-4b6c-ac6a-698414927a75",
+  "title": "Eretnek",
+  "originalTitle": "Heretic",
+  "overview": "Két fiatal hittérítőnek be kell bizonyítania a hitét, amikor egy nap rossz ajtón kopogtatnak. Az ördögi Mr. Reed (Hugh Grant) köszönti őket és csalja kelepcébe, rémséges és halálos macska-egér játékával.",
+  "backdropPath": "/ag66gJCiZ06q1GSJuQlhGLi3Udx.jpg",
+  "posterPath": "/6R1T2QvgGp28PG157PSkQ8LHnxI.jpg",
+  "releaseDate": "2024-10-31T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c24d05ca-50d6-4647-ae57-f164fc6cd1b4",
+      "title": "Eretnek",
+      "subtitle": null,
+      "timestampString": "01:23:04",
+      "timestampInSeconds": 4984,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #291",
+        "youtubeId": "kkat0CorCLw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/kkat0CorCLw/hqdefault.jpg",
+        "durationInMinutes": 178,
+        "releaseDate": 1732811077000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

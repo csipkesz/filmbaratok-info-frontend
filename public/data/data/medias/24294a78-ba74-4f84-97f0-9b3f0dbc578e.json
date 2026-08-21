@@ -1,0 +1,41 @@
+{
+  "id": "24294a78-ba74-4f84-97f0-9b3f0dbc578e",
+  "title": "300: A birodalom hajnala",
+  "originalTitle": "300: Rise of an Empire",
+  "overview": "A görög városok kitartanak. A hatalmas Perzsa Birodalom sem tudja megtörni ellenállásukat. Az athéni városállam egyik hőse, Themisztoklész vezetésével a kis hellén hajóhad az Artemiszion-foknál szembeszáll az óriási perzsa flottával. Természetesen nem tudják megállítani őket, ám a túlerő ellen is kitartanak olyan sokáig, hogy a városok felkészülhessenek - és Szalamisz közelében már legyőzzék a keletről jött ellenséget.",
+  "backdropPath": "/chjkfyo57JexWo1YeIZRMk8wA4m.jpg",
+  "posterPath": "/u5NxoPvjMk4wM4fSprpI7KVYhBB.jpg",
+  "releaseDate": "2014-03-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4e65125e-ccb3-4772-8de5-af2ae0a28ae1",
+      "title": "300: A birodalom hajnala",
+      "subtitle": null,
+      "timestampString": "00:38:04",
+      "timestampInSeconds": 2284,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #47",
+        "youtubeId": "48-yuKdU7cg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/48-yuKdU7cg/hqdefault.jpg",
+        "durationInMinutes": 147,
+        "releaseDate": 1394966291000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

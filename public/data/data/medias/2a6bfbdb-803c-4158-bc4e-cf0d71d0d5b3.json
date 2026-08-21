@@ -1,0 +1,41 @@
+{
+  "id": "2a6bfbdb-803c-4158-bc4e-cf0d71d0d5b3",
+  "title": "Ami nem öl meg",
+  "originalTitle": "The Girl in the Spider's Web",
+  "overview": "Lisbeth Salander nem változott. A múltja nyomasztja, magányos, embergyűlölő és zseniális hacker. Úgy alakul, hogy ismét találkozik a bukott sztárújságíróval, Mikael Blomkvisttal, és ismét kénytelenek elviselni egymást: egy új ügyön dolgoznak együtt. Lisbeth ezúttal egy autista kisfiún próbál segíteni, és így keveredik bele élete legveszélyesebb ügyébe – amelynek szálai az Amerikai Nemzetbiztonsági Ügynökséghez, és a svéd arisztokrácia titkolt bűneihez vezetnek.",
+  "backdropPath": "/ejmwCnlgWXkpDLsrhsnB8Mn6dcu.jpg",
+  "posterPath": "/7RRkJ24zUR2DlImhyW7jiEm9Jfl.jpg",
+  "releaseDate": "2018-10-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a4909f81-0bfa-43d2-be2a-27cf07bdf93a",
+      "title": "Ami nem öl meg",
+      "subtitle": null,
+      "timestampString": "01:25:48",
+      "timestampInSeconds": 5148,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #155",
+        "youtubeId": "Htjp4x7Tcgg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Htjp4x7Tcgg/hqdefault.jpg",
+        "durationInMinutes": 165,
+        "releaseDate": 1542194035000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "e4d249a5-e251-44d9-8c10-8e2e3e9a6069",
+            "name": "Anna"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "d43101d2-37f3-4437-8aac-6d2a848bd85b",
+  "title": "Mars - Az utolsó napok",
+  "originalTitle": "The Last Days on Mars",
+  "overview": "Az első emberi legénységgel kivitelezett Mars-misszió utolsó napján a Tantalus bázis egyik asztonautája fantasztikus felfedezést tesz: olyan fosszíliákat talál, amelyek egyértelműen a bakteriális életre utalnak. Vincent azonban nem akar osztozni a dicsőségen a legénység többi tagjával, így a parancs ellenére egyedül indul küldetésre, hogy további bizonyítékokat találjon. Mintagyűjtés közben azonban a porózus talaj beszakad alatta, és egy mély barlangba zuhan.",
+  "backdropPath": "/zZUuNeCzA5W6YJweyFLxBN6xTHx.jpg",
+  "posterPath": "/xAGQ70UoccE9PmKM42nto48EJRn.jpg",
+  "releaseDate": "2013-08-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b0c6075d-541d-47f5-b177-b357e0deb9af",
+      "title": "Mars - Az utolsó napok",
+      "subtitle": null,
+      "timestampString": "01:53:24",
+      "timestampInSeconds": 6804,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #43",
+        "youtubeId": "WupIquHhCt0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/WupIquHhCt0/hqdefault.jpg",
+        "durationInMinutes": 164,
+        "releaseDate": 1389645501000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "86b9c828-a486-47aa-8079-f9920b9aa70c",
+  "title": "Airplane",
+  "originalTitle": "Airplane!",
+  "overview": "Nagy az izgalom a repülőtér irányítótornyában, mindenki fejveszetten munkálkodik. Az egyik gép legénységét ugyanis leverte a lábáról valamiféle vírus, és az utasok kénytelenek egy volt veterán harci pilótára bízni az életüket. Az egyetlen probléma, hogy a fickó még nem heverte ki a háború okozta megpróbáltatásokat, és csak remélhető, hogy le tudja tenni a gépmadarat. Persze az utasok sem könnyítik meg igazán a helyzetet, mindenki más-más lelki avagy testi hibával van megáldva, ám a feladatot közösen kell megoldaniuk",
+  "backdropPath": "/wQyvrsNSTzFVEGgarZbFkFyIciy.jpg",
+  "posterPath": "/uhXLuXirJ7CT36YkOlxizeSIbZq.jpg",
+  "releaseDate": "1980-06-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "48510c3b-5a89-42b0-98ae-0580385542b2",
+      "title": "Airplane",
+      "subtitle": null,
+      "timestampString": "02:11:14",
+      "timestampInSeconds": 7874,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #219",
+        "youtubeId": "h8nzJYoqTuY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/h8nzJYoqTuY/hqdefault.jpg",
+        "durationInMinutes": 195,
+        "releaseDate": 1632931799000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

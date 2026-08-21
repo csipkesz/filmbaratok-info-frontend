@@ -1,0 +1,49 @@
+{
+  "id": "5059e9cd-5c20-4bfc-a6e9-b784795cc910",
+  "title": "Az őrület fészke",
+  "originalTitle": "Murder in the First",
+  "overview": "Az elítélt, Henri Young bűne: 5 dollár eltulajdonítása éhező testvérének megmentésére. A sors, ami rá vár, viszont rosszabb a halálnál: egy sikertelen szökési kísérlet után az Alcatraz egy sötét magánzárkájába kerül, ahol három éven át teljes elszigeteltségben tengődik gyakorlatilag az észvesztés határán. Az eldurvult, önmagából kivetkőzött Henri szabadulása után bosszút áll a szökését meghiúsító besúgón. A gyilkosság ténye egyértelmű. Egy mindenre elszánt ügyvédnek azonban más tervei vannak. Henrivel karöltve, az Alcatraz és annak szadista hajlamú felügyelője ellen emel vádat.",
+  "backdropPath": "/8uw6OCa4ofQ6A9xz5ldtgnEVPDr.jpg",
+  "posterPath": "/rr5wOqaQb2ZQqfThGfz4wXC1rAn.jpg",
+  "releaseDate": "1995-01-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "29c3c1c6-5c02-45b9-99eb-5f23055fcab7",
+      "title": "Az őrület fészke",
+      "subtitle": null,
+      "timestampString": "02:25:00",
+      "timestampInSeconds": 8700,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #144",
+        "youtubeId": "7oPd5jzdemY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/7oPd5jzdemY/hqdefault.jpg",
+        "durationInMinutes": 182,
+        "releaseDate": 1527255570000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

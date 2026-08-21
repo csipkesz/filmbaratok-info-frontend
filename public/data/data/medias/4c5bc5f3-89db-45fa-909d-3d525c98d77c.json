@@ -1,0 +1,79 @@
+{
+  "id": "4c5bc5f3-89db-45fa-909d-3d525c98d77c",
+  "title": "Cobra Kai",
+  "originalTitle": "Cobra Kai",
+  "overview": "Esküdt ellenségek. Háborúzó dódzsók. Friss vér. A Karate kölyök-filmeket folytató sorozat, melyben Daniel és Johnny újra felszítják a régi West Valley-i rivalizálást.",
+  "backdropPath": "/5NrSIzfcBOFI9HRGV4nRYgMGhDU.jpg",
+  "posterPath": "/6GDW4EsgsXlYrL1ASb5eCHQK4er.jpg",
+  "releaseDate": "2018-05-02T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "151c1b79-865e-46f9-afbd-9a06f92cd7ec",
+      "title": "Cobra Kai 6. évad (1-5. rész)",
+      "subtitle": "6. évad (1-5. rész)",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Cobra Kai 6. évad (1-5. rész)",
+        "youtubeId": "V_tT_A1Dhs8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/V_tT_A1Dhs8/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1726156912000,
+        "participants": []
+      }
+    },
+    {
+      "id": "30ada10c-734d-41c5-86e1-dbc447e3dddf",
+      "title": "Cobra Kai 6. évad (6-10. rész)",
+      "subtitle": "6. évad (6-10. rész)",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Cobra Kai 6. évad (6-10. rész)",
+        "youtubeId": "7EwmZ_GCBjQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/7EwmZ_GCBjQ/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1733425206000,
+        "participants": []
+      }
+    },
+    {
+      "id": "5c412eeb-8942-49a6-a4be-786178ea212e",
+      "title": "Cobra Kai 6. évad (11-15. rész)",
+      "subtitle": "6. évad (11-15. rész)",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Cobra Kai 6. évad (11-15. rész)",
+        "youtubeId": "ilhczNuivp0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ilhczNuivp0/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1741456806000,
+        "participants": []
+      }
+    },
+    {
+      "id": "d35c812a-432a-47de-9598-88e31cd684b4",
+      "title": "Cobra Kai (1-5. évad)",
+      "subtitle": "1-5. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Cobra Kai (1-5. évad)",
+        "youtubeId": "5BjVNcbvO9k",
+        "thumbnailUrl": "https://i.ytimg.com/vi/5BjVNcbvO9k/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1723067700000,
+        "participants": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5d8b8a75-64a4-4a9b-a1ff-e6decf00e802",
+  "title": "Éjféli etetés",
+  "originalTitle": "The Midnight Meat Train",
+  "overview": "Leon Kaufman fotográfus, akinek provokatív, a város éjszakai életét bemutató gyűjteménye felkelti egy híres galériatulajdonos, Susan Hoff érdeklődését is. Amikor a nő meglátogatja, arra bíztatja hogy próbáljon meg félelmetesebb, az emberi természet igazán sötét oldalát bemutató felvételeket készíteni - ha sikerül, következő kiállításán szívesen be is mutatja őket. A siker reményében Leon megszállottan elkezd anyagot gyűjteni, mígnem az útja Mahogany, a brutális éjszaki metrós gyilkos elé nem vezeti.",
+  "backdropPath": "/tcV7eCdGFN3RzB2ByWRrH5Xf7cU.jpg",
+  "posterPath": "/pON2U97mUEf5XVktnLOPBFJoW4C.jpg",
+  "releaseDate": "2008-08-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6be78ee4-dab8-414f-964e-9105bb9e64c9",
+      "title": "Éjféli etetés",
+      "subtitle": null,
+      "timestampString": "01:35:12",
+      "timestampInSeconds": 5712,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #71",
+        "youtubeId": "K9mj59Uot1I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/K9mj59Uot1I/hqdefault.jpg",
+        "durationInMinutes": 176,
+        "releaseDate": 1428520974000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

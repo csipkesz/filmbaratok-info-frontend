@@ -1,0 +1,45 @@
+{
+  "id": "b9cee24f-2625-4d73-ab8e-304c4e77450e",
+  "title": "Az igazi csoda",
+  "originalTitle": "Wonder",
+  "overview": "August Pullman úgy született, hogy arca különösen eltorzult. A fiúnak meg kell küzdenie azért, hogy új iskolájában mindenki megértse, hogy ő ettől még egy rendes gyerek és hogy a szépség és kinézet maga csupán a felszín és nem ez ami igazán számít.",
+  "backdropPath": "/b7xQ5fuyVO4c24igizCfPgF6n7q.jpg",
+  "posterPath": "/pkpIJ5CcJOkoUV9JVxrPZxOMmHE.jpg",
+  "releaseDate": "2017-11-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b0dd4b0e-05ed-4f3d-9e08-0333bfa35b59",
+      "title": "Az igazi csoda",
+      "subtitle": null,
+      "timestampString": "01:45:20",
+      "timestampInSeconds": 6320,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #157",
+        "youtubeId": "IAfkWR4qRU4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IAfkWR4qRU4/hqdefault.jpg",
+        "durationInMinutes": 222,
+        "releaseDate": 1545146746000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

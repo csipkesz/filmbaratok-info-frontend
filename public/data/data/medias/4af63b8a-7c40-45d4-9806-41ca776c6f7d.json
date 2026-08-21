@@ -1,0 +1,45 @@
+{
+  "id": "4af63b8a-7c40-45d4-9806-41ca776c6f7d",
+  "title": "Kódjátszma",
+  "originalTitle": "The Imitation Game",
+  "overview": "1939-ben a brit titkosszolgálat létrehozott egy kódfejtő csapatot, akiknek a német katonai Enigma-kódoló készülék feltörése a feladata. A tudósok közül az egyik Alan Turing, aki briliáns elme, de emellett szociális készségei elég hiányosak. A különc férfi mögött kollégái rendszeresen összesúgdolóznak és megmosolyogják módszereit. Hamarosan Winston Churchill Turingot nevezi ki a csoport vezetőjének. Arról azonban senki sem tud, hogy a férfi homoszexuális, ami tilosnak számít az Egyesült Királyságban. Ha felettesei ezt megneszelik, az pályafutása végét jelentené.",
+  "backdropPath": "/usuRn9DUKQQr4nBWnrQzlOuZ1Q4.jpg",
+  "posterPath": "/s5nXTt0ZpSvCHznopCBvTWN7NPN.jpg",
+  "releaseDate": "2014-11-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d1d932b1-1633-4060-86d1-04bfe5e27e98",
+      "title": "Kódjátszma",
+      "subtitle": null,
+      "timestampString": "00:40:00",
+      "timestampInSeconds": 2400,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #67",
+        "youtubeId": "FATQkJjmAQg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/FATQkJjmAQg/hqdefault.jpg",
+        "durationInMinutes": 206,
+        "releaseDate": 1424108444000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

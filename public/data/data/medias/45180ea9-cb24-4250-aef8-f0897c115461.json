@@ -1,0 +1,45 @@
+{
+  "id": "45180ea9-cb24-4250-aef8-f0897c115461",
+  "title": "Hiúságok máglyája",
+  "originalTitle": "The Bonfire of the Vanities",
+  "overview": "Peter Fallow a \"pillanat embere\" - sikeres, népszerű, gazdag. Hatalmas limuzin szállítja a tiszteletére rendezett fogadásra, a kíváncsi újságírók elől bújtatva a hátsó ajtón csempészik be a luxushotelba, ahol hatalmas taps köszönti a bálteremben. Mindez őt alig érdekli: az útjába eső nőkkel kikezd és egyfolytában vedeli a whiskyt és közben elmeséli nekünk, hogy is jutott ide, miként lett belőle a \"pillanat embere\".",
+  "backdropPath": "/uSInqX82oDeEHSDUwekneCJ2HLc.jpg",
+  "posterPath": "/u9BnQNyB8wwJMyXBErOIUdxCef2.jpg",
+  "releaseDate": "1990-12-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b9f0e52c-c6d7-4a6c-893a-336bfe38f366",
+      "title": "Hiúságok máglyája",
+      "subtitle": null,
+      "timestampString": "03:23:05",
+      "timestampInSeconds": 12185,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #214",
+        "youtubeId": "aARrCL30caA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/aARrCL30caA/hqdefault.jpg",
+        "durationInMinutes": 264,
+        "releaseDate": 1625845165000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "f7583807-85a7-4ae9-b706-f907ebf1cecd",
+  "title": "Slender Man - Az ismeretlen rém",
+  "originalTitle": "Slender Man",
+  "overview": "Eltűnt egy gyerek? Kétségbeesett szülők fésülik át az erdőt? Kiskorúak követnek el megmagyarázhatatlan gyilkosságokat? A felelős mindig ugyanaz: egy több mint két méter magas, nevetségesen hosszú karú és lábú, feketébe öltözött alak, akiknek nincs arca, de mindenütt felbukkan, ahol gyerekek vannak. És azok általában engedelmeskednek neki. Számára álom és ébrenlét között nincs határ, mindenhova eljut, de türelmes. Nem sürget, kivár. És azután lecsap.",
+  "backdropPath": "/tQPDwl1jNZi59KoFT2oxDDnlqhG.jpg",
+  "posterPath": "/69gGHEVi7pmH72ady1il1eRjpKZ.jpg",
+  "releaseDate": "2018-05-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "daf5c2c5-6e4d-43e9-a8ac-48ba7f5418d1",
+      "title": "Slender Man - Az ismeretlen rém",
+      "subtitle": null,
+      "timestampString": "02:06:10",
+      "timestampInSeconds": 7570,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #151",
+        "youtubeId": "hcylcX_kgM0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/hcylcX_kgM0/hqdefault.jpg",
+        "durationInMinutes": 234,
+        "releaseDate": 1537428229000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

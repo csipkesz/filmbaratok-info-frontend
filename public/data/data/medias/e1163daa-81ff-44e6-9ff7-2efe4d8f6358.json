@@ -1,0 +1,41 @@
+{
+  "id": "e1163daa-81ff-44e6-9ff7-2efe4d8f6358",
+  "title": "Ígéretes fiatal nő",
+  "originalTitle": "Promising Young Woman",
+  "overview": "Cassie előtt fényes jövő állt, ám egy titokzatos eseménynek köszönhetően pillanatok alatt minden megváltozik, élete új irányt vesz. A fiatal nő kiismerhetetlen; ravaszsága és leleményessége mindenkit megtéveszt, éjjelente egész más emberként jelenik meg. Egy nem várt találkozásnak köszönhetően azonban minden megváltozhat, Cassie helyrehozhatja korábbi melléfogásait.",
+  "backdropPath": "/gESm6yc2MZpSXakgqLF0OlLaRn1.jpg",
+  "posterPath": "/dsUoGFtNU5lxGuEgMB9sAFokc9z.jpg",
+  "releaseDate": "2020-12-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fc14a33b-80fe-486d-9f45-1944971a130f",
+      "title": "Ígéretes fiatal nő",
+      "subtitle": null,
+      "timestampString": "01:18:00",
+      "timestampInSeconds": 4680,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #205",
+        "youtubeId": "GcqE0JN9mNg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GcqE0JN9mNg/hqdefault.jpg",
+        "durationInMinutes": 170,
+        "releaseDate": 1612351186000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

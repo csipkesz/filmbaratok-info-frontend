@@ -1,0 +1,58 @@
+{
+  "id": "4306c6f2-913a-4970-80e8-695dc24e9ad8",
+  "title": "Ted Lasso",
+  "originalTitle": "Ted Lasso",
+  "overview": "Ted Lasso egy idealista és fogalmatlan amerikai fociedző,aki leszerződik egy angol focicsapat mellé - annak ellenére, hogy nincs semmilyen európai focis tapasztalata...",
+  "backdropPath": "/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+  "posterPath": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+  "releaseDate": "2020-08-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9e580f5a-f2a7-4dc2-bd5d-e2c3cca7b3a5",
+      "title": "Ted Lasso 2. évad",
+      "subtitle": "2. évad",
+      "timestampString": "01:49:09",
+      "timestampInSeconds": 6549,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Sorozatok (Sólyomszem, Witcher, Squid Game, Ted Lasso)",
+        "youtubeId": "LphtMncKXkI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/LphtMncKXkI/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1646982902000,
+        "participants": [
+          {
+            "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
+            "name": "Shirin"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c4894dc4-f00d-43cb-b7a0-2e56b6b6af15",
+      "title": "Ted Lasso (3. évad)",
+      "subtitle": "3. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Ted Lasso (3. évad)",
+        "youtubeId": "fCiI89D5X78",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fCiI89D5X78/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1685822407000,
+        "participants": []
+      }
+    }
+  ]
+}

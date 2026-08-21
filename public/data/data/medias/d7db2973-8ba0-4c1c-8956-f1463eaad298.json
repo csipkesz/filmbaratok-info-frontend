@@ -1,0 +1,45 @@
+{
+  "id": "d7db2973-8ba0-4c1c-8956-f1463eaad298",
+  "title": "Hidegháború",
+  "originalTitle": "寒戰",
+  "overview": "Robbanás történik egy mozinál, valamint ezzel szinte egy időben felszívódik egy jól felszerelt járőrkocsi.  Hamarosan jelentkezik is valaki a váltságdíjért, ám a nyomozás mellett a rendőrség belső politikai játszmái is elkezdődnek, ráadásul ki nem mondva tudja mindenki, hogy ilyesmire csak olyan ember képes,  aki belülről ismeri a rendőrséget.",
+  "backdropPath": "/uw28cMvJBFBzgaMM5YeKlXTtUqE.jpg",
+  "posterPath": "/fJQt3Rf6flurPUOrpkbHMqUml8D.jpg",
+  "releaseDate": "2012-11-08T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8f5440dd-1a44-45e9-bd10-720bd8708948",
+      "title": "Hidegháború",
+      "subtitle": null,
+      "timestampString": "00:50:36",
+      "timestampInSeconds": 3036,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #163 (Oscar)",
+        "youtubeId": "eQI9z_VhYj4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/eQI9z_VhYj4/hqdefault.jpg",
+        "durationInMinutes": 244,
+        "releaseDate": 1550837351000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "15a53a44-af10-4843-b447-7f9fbb845f56",
+            "name": "Szöllőskei Gábor"
+          },
+          {
+            "id": "e4d249a5-e251-44d9-8c10-8e2e3e9a6069",
+            "name": "Anna"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

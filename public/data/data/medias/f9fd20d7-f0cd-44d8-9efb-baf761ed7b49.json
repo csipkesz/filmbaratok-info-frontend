@@ -1,0 +1,41 @@
+{
+  "id": "f9fd20d7-f0cd-44d8-9efb-baf761ed7b49",
+  "title": "22 Jump Street",
+  "originalTitle": "22 Jump Street",
+  "overview": "A rossz rendőr is hasznos - ha tejfeles képű. A kopasz osztag tagjai különlegesek: olyan éretlenek, hogy feltűnés nélkül elvegyülhetnek a fiatalkorú bűnözők között. Jenko nem túl eszes, de legalább kemény, társa Schmidt még pufi is. A véletlen úgy hozta, hogy agyatlan módszereikkel valahogy sikerült lebuktatniuk egy középiskolai kábítószer-bandát, így főnökük, Dickson kapitány új bevetésre küldi őket. A páros ezúttal egy nagyon gyanús főiskola felé veszi az irányt.",
+  "backdropPath": "/kdyYOwpKvvD2fSbwfnMM2YPAzfq.jpg",
+  "posterPath": "/tsJqTA6vqUL7HZUpM2hw9TQjFLi.jpg",
+  "releaseDate": "2014-06-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9f3df3da-4d6a-4023-ae5f-a9759451ae85",
+      "title": "22 Jump Street",
+      "subtitle": null,
+      "timestampString": "01:33:57",
+      "timestampInSeconds": 5637,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #56",
+        "youtubeId": "IGq19Ebu3DU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IGq19Ebu3DU/hqdefault.jpg",
+        "durationInMinutes": 199,
+        "releaseDate": 1409327568000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

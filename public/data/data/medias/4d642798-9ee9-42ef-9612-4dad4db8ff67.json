@@ -1,0 +1,41 @@
+{
+  "id": "4d642798-9ee9-42ef-9612-4dad4db8ff67",
+  "title": "A nő",
+  "originalTitle": "Her",
+  "overview": "Mindenki igazi társra vágyik. Olyanra, aki figyel, aki megért, aki segít, és aki szeret. Theodore nagyon lassan heveri ki a válását, egyedül él, és nem barátkozik könnyen. Napközben egy számítógépen dolgozik, esténként egy másik számítógépen játszik - és unalmában letölt egy új programot: egy intelligens operációs rendszert. És minden megváltozik. Az egzotikus hangú rendszer, vagyis Samantha felforgatja addig túl egyforma napait. Mindent tud, mindent ért, és egyre közelebb kerül Theodore-hoz. Olyan közel, hogy a férfi néha már úgy érzi: Samantha testestül-lelkestül az övé.",
+  "backdropPath": "/1YnZchmaGc8dchgRPDpR1KGrixA.jpg",
+  "posterPath": "/eomPdYQFsy9a0Xvw2hwUXZkbf7b.jpg",
+  "releaseDate": "2013-12-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "46fc21f2-9313-4fb7-8657-f58b59fdea06",
+      "title": "A nő",
+      "subtitle": null,
+      "timestampString": "00:30:07",
+      "timestampInSeconds": 1807,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #45",
+        "youtubeId": "9hNSnIZK61I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9hNSnIZK61I/hqdefault.jpg",
+        "durationInMinutes": 145,
+        "releaseDate": 1392563971000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

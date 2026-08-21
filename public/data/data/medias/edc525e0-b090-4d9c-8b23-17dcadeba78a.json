@@ -1,0 +1,45 @@
+{
+  "id": "edc525e0-b090-4d9c-8b23-17dcadeba78a",
+  "title": "Fenevad",
+  "originalTitle": "Beast",
+  "overview": "Nate és két tizenéves lánya egy dél-afrikai vadrezervátumba utazik. Útjuk azonban hamarosan a túlélésért folytatott harcba fordul, amikor egy vérszomjas oroszlán üldözni kezdi őket.",
+  "backdropPath": "/pz7bGOUNJXyPKJ2GcJN6nhwBnCs.jpg",
+  "posterPath": "/9FqXqEsvMCCMhZShaJpcz1TlwmD.jpg",
+  "releaseDate": "2022-08-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6b35bfd3-85b6-441d-a50f-ab6838cdb0de",
+      "title": "Fenevad",
+      "subtitle": null,
+      "timestampString": "01:51:07",
+      "timestampInSeconds": 6667,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #238",
+        "youtubeId": "B0d915GjLlk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/B0d915GjLlk/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1661879000000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "e7a65c32-6529-47e6-ac2b-7159b7bb402d",
+  "title": "Alelnök",
+  "originalTitle": "Vice",
+  "overview": "Dick Cheney, minden idők egyik legbefolyásosabb alelnökének élettörténete, aki szerény washingtoni bürokratából George W. Bush alelnökéig küzdötte fel magát - és aki úgy formálta át az Egyesült Államokat és a Földet, hogy annak hatásait a mai napig érezzük.",
+  "backdropPath": "/aHcNu3tYihvkL45CrXTFY4YfrfF.jpg",
+  "posterPath": "/nASal9EpU9CgMN4vmJOnUhrNMk8.jpg",
+  "releaseDate": "2018-12-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "abec3827-78dd-4598-9686-84c6eedc99ad",
+      "title": "Alelnök",
+      "subtitle": null,
+      "timestampString": "00:29:45",
+      "timestampInSeconds": 1785,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #163 (Oscar)",
+        "youtubeId": "eQI9z_VhYj4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/eQI9z_VhYj4/hqdefault.jpg",
+        "durationInMinutes": 244,
+        "releaseDate": 1550837351000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "15a53a44-af10-4843-b447-7f9fbb845f56",
+            "name": "Szöllőskei Gábor"
+          },
+          {
+            "id": "e4d249a5-e251-44d9-8c10-8e2e3e9a6069",
+            "name": "Anna"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

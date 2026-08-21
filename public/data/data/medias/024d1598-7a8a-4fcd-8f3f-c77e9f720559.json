@@ -1,0 +1,45 @@
+{
+  "id": "024d1598-7a8a-4fcd-8f3f-c77e9f720559",
+  "title": "Akasztófa",
+  "originalTitle": "The Gallows",
+  "overview": "A halottak is lámpalázasak néha. Charlie húsz évvel ezelőtt, egy szörnyű balesetben vesztette életét: a gimnáziumi színielőadás egyik kelléke rosszul működött, és a show kedvéért mímelt kivégzés valóságosra sikerült. Két évtizeddel később az iskolai színjátszók újra előadnák a régi darabot. Nem is sejtik, hogy bármit csinálnak - akár próba közben, akár éjszaka, amikor poénból belopóznak az épületbe -, valaki figyeli őket. Valaki, aki izgatottan készül rá, hogy kezdetét vegye végre az az előadás, amit ezúttal ő akar rendezni...",
+  "backdropPath": "/x736Ayub2V1pSldtzigS35owWNN.jpg",
+  "posterPath": "/cqINKL7hkail0cyqBJRELEULurc.jpg",
+  "releaseDate": "2015-07-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f2df9fe0-fd90-41c2-ad51-f30171541940",
+      "title": "Akasztófa",
+      "subtitle": null,
+      "timestampString": "01:41:00",
+      "timestampInSeconds": 6060,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #77",
+        "youtubeId": "GxURCHDmpLM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GxURCHDmpLM/hqdefault.jpg",
+        "durationInMinutes": 246,
+        "releaseDate": 1437150395000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

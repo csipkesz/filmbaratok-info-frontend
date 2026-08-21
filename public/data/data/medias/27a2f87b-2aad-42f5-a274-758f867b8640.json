@@ -1,0 +1,41 @@
+{
+  "id": "27a2f87b-2aad-42f5-a274-758f867b8640",
+  "title": "Danny Collins",
+  "originalTitle": "Danny Collins",
+  "overview": "Danny Collins, az öregedő rocksztár régi slágereivel haknizik. Úgy tűnik, mindene megvan: pénz, hírnév, gyönyörű menyasszony és még mindig megtölti a stadionokat rajongóival. A hajdani vad rockert a kemény évek, félresikerült kapcsolatok és az esténként újra meg újra előadott nóták kikészítik. Amikor managere megmutat Dannynak egy levelet, amelyet John Lennon írt neki 40 évvel ezelőtt, úgy dönt, ha kicsit megkésve is, de megfogadja példaképe tanácsát és mostantól azt teszi, amit a szíve diktál.",
+  "backdropPath": "/6ZzMkCCDX7TbLQySUqW8meYqVPM.jpg",
+  "posterPath": "/5Xe7XWHVyxMoJTJliVijqQJigcX.jpg",
+  "releaseDate": "2015-03-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "aeb688b1-0602-4dc0-bc60-c974f03000d3",
+      "title": "Danny Collins",
+      "subtitle": null,
+      "timestampString": "02:17:10",
+      "timestampInSeconds": 8230,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #75",
+        "youtubeId": "5hqAh129dAE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/5hqAh129dAE/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1434729270000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

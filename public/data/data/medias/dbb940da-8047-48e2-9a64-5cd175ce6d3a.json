@@ -1,0 +1,45 @@
+{
+  "id": "dbb940da-8047-48e2-9a64-5cd175ce6d3a",
+  "title": "I see you",
+  "originalTitle": "I See You",
+  "overview": "A feleség hűtlensége beárnyékolja a Harper család életét. A férj, Greg nyomozó, aki egy fiatal fiú eltűnése ügyében nyomoz. Miközben a munkáját végzi, próbálja rendezni kapcsolatát a nejével. Jackie is mindent megtesz annak érdekében, hogy feledtesse a botlását, azonban úgy tűnik, hogy a bűntudata lassan az agyára megy, amikor szokatlan dolgokat kezd tapasztalni a házukban. Ám a furcsa jelenések egyre gyakoribbak lesznek, a megmagyarázhatatlan gonosz már Greg és Jackie kisfiát fenyegeti.",
+  "backdropPath": "/nV10fSyR0LlaRae7eFiidG7hw4g.jpg",
+  "posterPath": "/2LwamrHAmxqEHsT9JViFJxT08Ek.jpg",
+  "releaseDate": "2019-09-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b18191e7-cf2e-4444-b637-47fc9713586e",
+      "title": "I see you [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "02:15:20",
+      "timestampInSeconds": 8120,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #202",
+        "youtubeId": "E2b82odyb3w",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E2b82odyb3w/hqdefault.jpg",
+        "durationInMinutes": 223,
+        "releaseDate": 1608135119000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7b68c732-1e9f-4ee9-8d9a-24db7fd09c3a",
+  "title": "Szegény párák",
+  "originalTitle": "Poor Things",
+  "overview": "Elképesztő történet Bella Baxter fantasztikus fejlődéséről. A fiatal nőt a zseniális elméjű és szokatlan módszereket alkalmazó tudós, Dr. Godwin Baxter hozza vissza az életbe. A férfi védelmét élvezve, Bella vágyik a tudásra. Szomjazza a világ dolgait, így elszökik Duncan Wedderburnnel, a dörzsölt és züllött ügyvéddel, s ketten együtt kontinenseken átívelő, szélsebes kalandra indulnak. Korának előítéleteitől szabadon, Bella roppant iramban fejlődik, hogy szándékának eleget téve kiálljon az egyenlőség és szabadság mellett.",
+  "backdropPath": "/zh6IdheEYinU4TPtorWsjx6qPQE.jpg",
+  "posterPath": "/rrlR4tfI1KMT3IAipHIUExZAe4D.jpg",
+  "releaseDate": "2023-12-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6231915d-002e-4037-97e0-be2f22253cdc",
+      "title": "Szegény párák",
+      "subtitle": null,
+      "timestampString": "01:53:10",
+      "timestampInSeconds": 6790,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #271",
+        "youtubeId": "vCypCwFTSIU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/vCypCwFTSIU/hqdefault.jpg",
+        "durationInMinutes": 227,
+        "releaseDate": 1706733909000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

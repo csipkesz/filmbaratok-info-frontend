@@ -1,0 +1,41 @@
+{
+  "id": "0bb06db1-49cf-47db-8f13-c44828dc2cca",
+  "title": "Elit Halálosztók 1",
+  "originalTitle": "Tropa de Elite",
+  "overview": "Két gyerekkori jó barát úgy dönt, hogy csatlakozik a Rio De Jaineróban működő katonai rendőrség alakulatához. Miután mindketten hamar belerázódnak a kemény mindennapokba, egy speciális alakulat létrehozásába fognak, hogy a helyi kábítószer kereskedők méregfogait kihúzzák. Tervük véghezvitele sokkal nehezebb, mint gondolnák - rengeteg életveszélyes helyzetből kell kimászniuk, hogy felszámolják a maffia örökösen újjáformálódó hálózatát.",
+  "backdropPath": "/huUgrGkCetYSkDl5fMvZCXCbFKl.jpg",
+  "posterPath": "/tqLmkZ3pilgMeEOwt8v4Q5XOeHE.jpg",
+  "releaseDate": "2007-10-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f1ced871-3991-469c-ab53-b751a3b7931f",
+      "title": "Elit Halálosztók 1-2",
+      "subtitle": null,
+      "timestampString": "01:44:53",
+      "timestampInSeconds": 6293,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #45",
+        "youtubeId": "9hNSnIZK61I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9hNSnIZK61I/hqdefault.jpg",
+        "durationInMinutes": 145,
+        "releaseDate": 1392563971000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

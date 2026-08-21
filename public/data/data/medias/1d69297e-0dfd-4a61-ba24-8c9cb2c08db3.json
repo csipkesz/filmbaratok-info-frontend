@@ -1,0 +1,45 @@
+{
+  "id": "1d69297e-0dfd-4a61-ba24-8c9cb2c08db3",
+  "title": "Nem",
+  "originalTitle": "Nope",
+  "overview": "Kalifornia belseje egy magányos öblében lakók egy elképesztő, dermesztő eseménynek lesznek a tanúi.",
+  "backdropPath": "/yRutvYkM3OP8N9oqqfjSK1VC7fs.jpg",
+  "posterPath": "/9xuT84lvhXPXr6AZuF3UKIRJkCn.jpg",
+  "releaseDate": "2022-07-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "986ee3c0-4154-46f4-a50b-a3babfb4e903",
+      "title": "Nem [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "00:50:27",
+      "timestampInSeconds": 3027,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #238",
+        "youtubeId": "B0d915GjLlk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/B0d915GjLlk/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1661879000000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

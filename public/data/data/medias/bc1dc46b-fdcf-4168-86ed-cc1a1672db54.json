@@ -1,0 +1,53 @@
+{
+  "id": "bc1dc46b-fdcf-4168-86ed-cc1a1672db54",
+  "title": "Családi bunyó",
+  "originalTitle": "Fighting with My Family",
+  "overview": "Ricky, felesége, Julia, lányuk, Paige és fiuk, Zak, akik együtt lépnek ringbe kisebb pankrációs rendezvényeken. Mikor Paige és Zak lehetőséget kapnak, hogy felvételt nyerjenek a WWE-be, vagyis az első számú pankrációs szórakoztatócég kötelékeibe, kapva kapnak az alkalmon, hogy legvadabb álmaikat valóra váltsák. A testvérek azonban csakhamar szembesülnek vele: ha szupersztári babérokra törnek, tehetségük mellett kapcsolatuknak is komoly próbát kell kiállnia.",
+  "backdropPath": "/mYKP6qcDUimVMAHQWLOuDHjO19S.jpg",
+  "posterPath": "/bx9ECEzGOPIk0sVslNrxnvQpYR2.jpg",
+  "releaseDate": "2019-02-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e8e25515-19bc-4abb-aeff-429a11fbaa5c",
+      "title": "Családi bunyó",
+      "subtitle": null,
+      "timestampString": "01:29:36",
+      "timestampInSeconds": 5376,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #165",
+        "youtubeId": "RSBwJungF40",
+        "thumbnailUrl": "https://i.ytimg.com/vi/RSBwJungF40/hqdefault.jpg",
+        "durationInMinutes": 274,
+        "releaseDate": 1554109205000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "68f01e0f-6b1f-485e-98d9-70c98cbc8ad7",
+            "name": "Károly"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

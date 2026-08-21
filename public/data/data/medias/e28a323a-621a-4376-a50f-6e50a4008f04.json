@@ -1,0 +1,45 @@
+{
+  "id": "e28a323a-621a-4376-a50f-6e50a4008f04",
+  "title": "Hét nővér",
+  "originalTitle": "What Happened to Monday",
+  "overview": "A nem is olyan távoli jövőben a túlnépesedést megakadályozandó, a világ kormányai bevezetik a Csak-egy-gyerek törvényt, amelynek értelmében a családoknak mindössze egy gyerekük lehet. Az állam különleges megfigyelési hálózattal igyekszik betartatni a jogszabályt, s mindenkitől elveszik a többedik szülötteket. Egy férfinak különleges kihívást jelent, hogy hét, egymásra tökéletesen hasonlító lányunokáját  úgy nevelje fel, hogy az senkinek ne szúrjon szemet. A lányok egy személyi azonosság alatt élnek, mindegyikük hetente csak egyszer mehet el otthonról, a testvérek többi napi cselekedeteinek figyelembevételével. Egy nap egyikük nem megy haza, ezzel láncreakciót elindítva a többi testvér életében.",
+  "backdropPath": "/j7ij93mtHXAF8D3PjRSEaKPHpIE.jpg",
+  "posterPath": "/aaQVzqBJjW34Q5fBvM9Y75BFdZ3.jpg",
+  "releaseDate": "2017-08-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8e339aca-0c8d-4d65-82a0-4ebca655ba93",
+      "title": "Hét nővér",
+      "subtitle": null,
+      "timestampString": "00:33:00",
+      "timestampInSeconds": 1980,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #134",
+        "youtubeId": "gB5CFdGY70M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gB5CFdGY70M/hqdefault.jpg",
+        "durationInMinutes": 218,
+        "releaseDate": 1513874512000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

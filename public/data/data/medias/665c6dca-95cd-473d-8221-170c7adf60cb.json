@@ -1,0 +1,41 @@
+{
+  "id": "665c6dca-95cd-473d-8221-170c7adf60cb",
+  "title": "Gonosz Halott: Égj",
+  "originalTitle": "Evil Dead Burn",
+  "overview": "Férje halála után egy nő vigaszt keres apósáéknál, távoli otthonukban. Ám amikor sorra Deadite-okká válnak, a családi összejövetel pokoli rémálommá alakul. Hamar ráébred, hogy az életében tett ígéretei még a halálon túl is számítanak. (Csillag Lajos)",
+  "backdropPath": "/o0jkkpcN81QqSl8DMLScBCXyUH9.jpg",
+  "posterPath": "/5qPaPa2n7XQVqtQrhmrIrueKSLR.jpg",
+  "releaseDate": "2026-07-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "98c5a47b-3cb1-4fac-8eb3-286ec9dccbb4",
+      "title": "Gonosz Halott: Égj",
+      "subtitle": null,
+      "timestampString": "01:34:20",
+      "timestampInSeconds": 5660,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #330",
+        "youtubeId": "AgwfP4V1UCo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/AgwfP4V1UCo/hqdefault.jpg",
+        "durationInMinutes": 207,
+        "releaseDate": 1784150438000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

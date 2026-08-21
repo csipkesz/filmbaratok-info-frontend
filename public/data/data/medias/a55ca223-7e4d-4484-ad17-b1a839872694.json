@@ -1,0 +1,45 @@
+{
+  "id": "a55ca223-7e4d-4484-ad17-b1a839872694",
+  "title": "Wallace és Gromit: A szárnyas bosszúja",
+  "originalTitle": "Wallace & Gromit: Vengeance Most Fowl",
+  "overview": "A nagykutya Gromit akcióba lendül, hogy megmentse gazdáját, amikor Wallace high-tech találmánya önálló életre kel, őt pedig egy sor gyanús bűntény elkövetésével vádolják.",
+  "backdropPath": "/XNVdWNgiAHu8y4BsJv5ndUHXxN.jpg",
+  "posterPath": "/hd6e3pylaFPT7UGCbPyMor5H9Zk.jpg",
+  "releaseDate": "2024-12-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1570f872-3a34-48bb-a123-3bd07a7db8c2",
+      "title": "Wallace és Gromit: A szárnyas bosszúja",
+      "subtitle": null,
+      "timestampString": "01:57:20",
+      "timestampInSeconds": 7040,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #294",
+        "youtubeId": "MjMjFJlwupc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/MjMjFJlwupc/hqdefault.jpg",
+        "durationInMinutes": 207,
+        "releaseDate": 1737058478000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "f20de6d1-0a4e-4a25-9efe-d5ca195af811",
+  "title": "Kánikulai délután",
+  "originalTitle": "Dog Day Afternoon",
+  "overview": "Elviselhetetlen a hőség 1972 augusztusában, amikor három fiatal férfi ki akarja rabolni az egyik brooklyni bankfiókot. Sonny és két társa azt tervezte, hogy egyszerűen és gyorsan túl lesznek rajta, ám semmi sem a terv szerint alakul. A legfiatalabb még időben kiszáll a buliból, Sonny és Sal azonban folytatják az akciót. A férfinak ugyanis a barátja átoperálásához kell a pénz, ám a kasszában alig ezer dollár van. A bankrablásból szinte akaratuk ellenére túszejtő akció lesz. A rendőrség körülveszi az épületet, és hamarosan a média képviselői is megjelennek. Valós történet alapján.",
+  "backdropPath": "/ahqTRP5mPOm3fMO8WjXbHlaF4Mo.jpg",
+  "posterPath": "/3ZHzrIKvHc2MK4rjAyugALamtgB.jpg",
+  "releaseDate": "1975-09-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "aeb03700-69b2-4c67-9c85-a3f388543631",
+      "title": "Kánikulai délután",
+      "subtitle": null,
+      "timestampString": "03:06:30",
+      "timestampInSeconds": 11190,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #266",
+        "youtubeId": "N4U228aSkd8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/N4U228aSkd8/hqdefault.jpg",
+        "durationInMinutes": 221,
+        "releaseDate": 1700081301000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

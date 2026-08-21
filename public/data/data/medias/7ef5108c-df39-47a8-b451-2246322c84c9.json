@@ -1,0 +1,45 @@
+{
+  "id": "7ef5108c-df39-47a8-b451-2246322c84c9",
+  "title": "Magyar vándor",
+  "originalTitle": "Magyar vándor",
+  "overview": "Hont foglalni indul a magyar. Az Etelközben átmulatott búcsúéjszaka után ébredező hét vezér azonban már csak hűlt helyét találja a magyarjainak. Márpedig nélkülük új hazát találni nem lehet. Lóra kapnak hát, hogy felkutassák a szeretett népet. Fiaikat keresve bejárják a magyar történelmet, Az egyszerre komikus és tragikomikus kalandtúra során várak helyett hotelszobákat foglalnak el, ellenség helyett felhevült háremhölgyekkel küzdenek meg, csaták helyett pedig ott van nemzeti nagy létünk víg mementója, a Meccs.",
+  "backdropPath": "/8MX2V0YhkJEbapX3uafaLoushFy.jpg",
+  "posterPath": "/rrbZt5L6OWSYAiJoiAoOE6LAtFf.jpg",
+  "releaseDate": "2004-02-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "917470c7-6660-475b-ba2c-d72f1ae0128b",
+      "title": "Magyar vándor",
+      "subtitle": null,
+      "timestampString": "01:08:08",
+      "timestampInSeconds": 4088,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #163 (Oscar)",
+        "youtubeId": "eQI9z_VhYj4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/eQI9z_VhYj4/hqdefault.jpg",
+        "durationInMinutes": 244,
+        "releaseDate": 1550837351000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "15a53a44-af10-4843-b447-7f9fbb845f56",
+            "name": "Szöllőskei Gábor"
+          },
+          {
+            "id": "e4d249a5-e251-44d9-8c10-8e2e3e9a6069",
+            "name": "Anna"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

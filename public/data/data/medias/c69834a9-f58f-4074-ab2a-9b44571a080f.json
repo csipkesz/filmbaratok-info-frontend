@@ -1,0 +1,45 @@
+{
+  "id": "c69834a9-f58f-4074-ab2a-9b44571a080f",
+  "title": "The Babadook",
+  "originalTitle": "The Babadook",
+  "overview": "Amelia akkor veszítette el a férjét, amikor az éppen kórházba vitte őt, hogy megszülje első gyereküket. A baleset óta hét év telt el, de a nő még mindig nincs túl rajta, és azóta is egyedül neveli fiát, Samuelt. A srác nem könnyíti meg a dolgát: súlyos viselkedési problémákkal küzd, követelőző és erőszakos, ugyanakkor folyton retteg a szobájában ólálkodó szörnyetegektől. Egy nap talál egy Mr. Babadook nevű, nem hétköznapi gyerekkönyvet, amely hatására a fiú állapota rosszabbodik. Ahogy anya és fia egyre jobban elszigetelődik a külvilágtól, Amelia sejteni kezdi, hogy talán tényleg nincsenek egyedül a házukban.",
+  "backdropPath": "/t18ocAG0cpgC1AP288SseqmXqB5.jpg",
+  "posterPath": "/sT9T8f99Exb0ldvnrtbxqNvd889.jpg",
+  "releaseDate": "2014-05-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ce68e05a-ca16-4f4d-83c2-95e7f6094926",
+      "title": "The Babadook",
+      "subtitle": null,
+      "timestampString": "01:15:43",
+      "timestampInSeconds": 4543,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #61",
+        "youtubeId": "lu3n5Wpq2k0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/lu3n5Wpq2k0/hqdefault.jpg",
+        "durationInMinutes": 185,
+        "releaseDate": 1415901482000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

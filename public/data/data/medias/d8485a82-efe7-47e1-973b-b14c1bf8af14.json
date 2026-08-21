@@ -1,0 +1,45 @@
+{
+  "id": "d8485a82-efe7-47e1-973b-b14c1bf8af14",
+  "title": "Tánc a sivatagban [Sirat]",
+  "originalTitle": "Sirāt",
+  "overview": "Egy apa fiával együtt útnak indul, hogy felkutassa eltűnt lányát a marokkói sivatagban. Egy rave-partin találkozik egy különleges baráti társasággal, és velük közösen kezdetét veszi a fájdalmon, csenden és eksztázison át vezető spirituális utazás.",
+  "backdropPath": "/kOUV5WbisWMg56d8eB45ZHEVxYq.jpg",
+  "posterPath": "/vyQaSp0PnGHd5o93OourwsogcfW.jpg",
+  "releaseDate": "2025-06-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c2db2132-a98f-4d07-8af3-f050851f5a2f",
+      "title": "Tánc a sivatagban [Sirat]",
+      "subtitle": null,
+      "timestampString": "02:07:18",
+      "timestampInSeconds": 7638,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #323",
+        "youtubeId": "1Y8m-2qsHhw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/1Y8m-2qsHhw/hqdefault.jpg",
+        "durationInMinutes": 209,
+        "releaseDate": 1775020201000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "c341ffd7-d2f1-4fba-813f-d8ec16f2245a",
+            "name": "Zétény"
+          }
+        ]
+      }
+    }
+  ]
+}

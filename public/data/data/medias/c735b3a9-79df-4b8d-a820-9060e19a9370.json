@@ -1,0 +1,45 @@
+{
+  "id": "c735b3a9-79df-4b8d-a820-9060e19a9370",
+  "title": "Hóember",
+  "originalTitle": "The Snowman",
+  "overview": "Amikor leesik az első hó, és Harry Hole, az elit nyomozóosztag vezető detektívje egy eltűnt áldozatról értesül, arra gyanakszik, hogy egy rejtélyes sorozatgyilkos lépett újra akcióba. Egy éles elméjű újonc segítségével Harrynek több évtizedes régi ügyeket kell összekötnie ezzel a brutális új üggyel, ha túl akar járni a felfoghatatlanul gonosz gyilkos eszén a következő hóesés előtt.",
+  "backdropPath": "/rfBUlspOpxPavxrhkhvzlBlwfD8.jpg",
+  "posterPath": "/1RM1lad4cLFPOsjmt8MZVl6p39R.jpg",
+  "releaseDate": "2017-08-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9c1f2f5f-efc8-453d-b5ee-1bb797f51659",
+      "title": "Hóember",
+      "subtitle": null,
+      "timestampString": "01:34:40",
+      "timestampInSeconds": 5680,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #131",
+        "youtubeId": "QymLKg2wvV4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/QymLKg2wvV4/hqdefault.jpg",
+        "durationInMinutes": 230,
+        "releaseDate": 1509033085000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

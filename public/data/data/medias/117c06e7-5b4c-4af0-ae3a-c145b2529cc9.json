@@ -1,0 +1,41 @@
+{
+  "id": "117c06e7-5b4c-4af0-ae3a-c145b2529cc9",
+  "title": "Hullaadás",
+  "originalTitle": "Thanksgiving",
+  "overview": "Azt követően, hogy egy Black Friday-vásár tragédiába torkollik, egy rejtélyes, a Hálaadás szimbólumaként elhíresült figura álcája mögé bújó gyilkos kezdi terrorizálni a Massachusetts állambeli Plymouth lakosságát, vagyis azt a helyet, ahonnan az ünnep ered. Ahogy egyesével hullanak az emberek, a szimpla bosszúhadjáratnak tűnő esetek mögül elősejlik egy nagyobb, ádázabb terv is, ami az ünnep köré fonódik. Időben leleplezi a város lakossága a tettest, vagy mind egy elborult hálaadási vacsora vendégei lesznek?",
+  "backdropPath": "/ktHEdqmMWC1wdfPRMRCTZe2OISL.jpg",
+  "posterPath": "/72G2KSg81g1RguzNpSzml1lOntk.jpg",
+  "releaseDate": "2023-11-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fbc691d0-c510-4569-816c-c53a5adbabd0",
+      "title": "Hullaadás",
+      "subtitle": null,
+      "timestampString": "01:51:42",
+      "timestampInSeconds": 6702,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #270",
+        "youtubeId": "Hk6gv0cu8TY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Hk6gv0cu8TY/hqdefault.jpg",
+        "durationInMinutes": 222,
+        "releaseDate": 1705227394000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

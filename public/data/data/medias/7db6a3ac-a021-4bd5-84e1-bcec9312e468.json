@@ -1,0 +1,41 @@
+{
+  "id": "7db6a3ac-a021-4bd5-84e1-bcec9312e468",
+  "title": "Bohém rapszódia",
+  "originalTitle": "Bohemian Rhapsody",
+  "overview": "Freddie Mercury fittyet hányt a sztereotípiákra és ellenszegült a konvencióknak, így vált belőle a világ egyik legkedveltebb zenésze. Tanúi lehetünk a zenekar üstökösszerű felemelkedésének meghatározó dalaik és forradalmi hangzásuk révén, Mercury féktelen életvitelének a bandára gyakorolt hatásainak, és dicső visszatérésüknek a Live Aiden, ahol a már súlyos betegséggel küzdő Mercuryvel az élen a rocktörténelem egyik legnagyszerűbb koncertjét adják. A Queen nem csupán zenekar, hanem egy család is volt, s máig megihletik a kívülállókat, az álmodozókat és a zene szerelmeseit.",
+  "backdropPath": "/dcvbs8z0GEXslC1kCT77x19XDeR.jpg",
+  "posterPath": "/c1pWxoJuLRnhVLZNLgCiLXEjBys.jpg",
+  "releaseDate": "2018-10-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "92c1c5cc-fbe0-44a8-beba-97d0bfa0f1ce",
+      "title": "Bohém rapszódia",
+      "subtitle": null,
+      "timestampString": "00:52:24",
+      "timestampInSeconds": 3144,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #155",
+        "youtubeId": "Htjp4x7Tcgg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Htjp4x7Tcgg/hqdefault.jpg",
+        "durationInMinutes": 165,
+        "releaseDate": 1542194035000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "e4d249a5-e251-44d9-8c10-8e2e3e9a6069",
+            "name": "Anna"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "a72f60bf-e231-4e2c-88bd-a6f0a83f04a1",
+  "title": "Egy különc srác feljegyzései",
+  "originalTitle": "The Perks of Being a Wallflower",
+  "overview": "A főhős, Charlie egy gimnazista srác, aki egy nem létező barátnak írt leveleken keresztül mutatja be életét. Charlie-nak elég unalmas élete van. Nincsenek barátai, és a családjával sem felhőtlen a kapcsolata. Nagy bánata, hogy a legjobb cimborája öngyilkos lett, de próbálja az eseményen túltenni magát. Később a gimiben összebarátkozik vele egy csoport végzős, Sam, Patrick, Brad és Mary, akik megmutatják a fiúnak, hogy bizony az életet lehet másképp is élni. Charlie élete gyökeresen megváltozik.",
+  "backdropPath": "/aM6E4DBP6588q3tEr9hz41ls80q.jpg",
+  "posterPath": "/gN5ZRFK3bj5Wmh9KAPxhG6TrQa3.jpg",
+  "releaseDate": "2012-09-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "deea1c79-2add-4498-a0c0-b1f672f778f8",
+      "title": "Egy különc srác feljegyzései",
+      "subtitle": null,
+      "timestampString": "02:28:59",
+      "timestampInSeconds": 8939,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #205",
+        "youtubeId": "GcqE0JN9mNg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GcqE0JN9mNg/hqdefault.jpg",
+        "durationInMinutes": 170,
+        "releaseDate": 1612351186000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

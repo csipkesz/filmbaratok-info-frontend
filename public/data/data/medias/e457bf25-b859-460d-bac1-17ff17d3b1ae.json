@@ -1,0 +1,41 @@
+{
+  "id": "e457bf25-b859-460d-bac1-17ff17d3b1ae",
+  "title": "Late Night with the Devil",
+  "originalTitle": "Late Night with the Devil",
+  "overview": "Jack Delroy vezeti az Éjszakai baglyok című szindikált talkshow-t, ami régóta megbízható társa az álmatlanoknak országszerte. Azonban Jack szeretett feleségének tragikus halála után a nézettségi mutatók zuhanni kezdenek. Jack kétségbeesetten szeretne fordítani a sorsán, ezért 1977. október 31-ére különleges halloweent tervez – és a tudtán kívül elszabadítja a gonoszt Amerika nappalijaiban.",
+  "backdropPath": "/umyOinNa6vqqnqoVc9QqzyaapUz.jpg",
+  "posterPath": "/bqrQ6WtG1sp5OqfXxAA7EI4eLsm.jpg",
+  "releaseDate": "2024-03-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "46a63074-b69c-4c68-bd2e-1a07ad005a96",
+      "title": "Late Night with the Devil",
+      "subtitle": null,
+      "timestampString": "02:47:36",
+      "timestampInSeconds": 10056,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #277",
+        "youtubeId": "VVHLdlqq_xY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VVHLdlqq_xY/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1714501831000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

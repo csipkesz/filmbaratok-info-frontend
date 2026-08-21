@@ -1,0 +1,45 @@
+{
+  "id": "e1c68378-fdf6-4f79-8b81-fc5ff2886a90",
+  "title": "Dellamorte Dellamore / Cemetery Man",
+  "originalTitle": "DellaMorte DellAmore",
+  "overview": "Francesco Dellamorte (Rupert Everett) a temető gondnoka a Buffalora nevű kisvárosban, Olaszországban. Segédjével, a mentálisan sérült Gnaghi-val (François Hadji-Lazaro), - aki minden gondolatát ugyanazzal a szóval fejezi ki: \"Gna\", - a városnak dolgoznak. A polgármester és a lakosok azonban nem is sejtik, hogy voltaképpen a halottakat irtják, hiszen Buffalora-ban a holtak 7 nap múlva feltámadnak...",
+  "backdropPath": "/fHPTQ18tuwtJ3JvrCeZMZs4X58Q.jpg",
+  "posterPath": "/d901lxE9f6QvlwXycVWHSVB1pr0.jpg",
+  "releaseDate": "1994-03-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a440caa1-8226-4178-8f79-d264ca271e23",
+      "title": "Dellamorte Dellamore / Cemetery Man",
+      "subtitle": null,
+      "timestampString": "03:11:30",
+      "timestampInSeconds": 11490,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #199",
+        "youtubeId": "fQW3yV4nVGM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fQW3yV4nVGM/hqdefault.jpg",
+        "durationInMinutes": 264,
+        "releaseDate": 1603214829000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

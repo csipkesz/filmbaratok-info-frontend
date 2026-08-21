@@ -1,0 +1,45 @@
+{
+  "id": "16d48105-4c16-41de-b062-8d57dd7c5c16",
+  "title": "Hokum",
+  "originalTitle": "Hokum",
+  "overview": "A Hokum című filmben Adam Scott egy horrorírót alakít, aki egy isten háta mögötti ír fogadóba látogat, hogy ott szórja szét szülei hamvait. A férfit a helyiek elkezdik ijesztgetni egy ősi boszorkány történetével, akiről az a hír járja, hogy a nászutas lakosztályban kísért. A sztori hamarosan elárasztja az író elméjét, látomások kezdik kísérteni, emberek tűnnek el körülötte, ezek pedig egy olyan rémálomszerű helyzetbe sodorják, amiben múltjának legsötétebb titkaival kell szembenéznie.",
+  "backdropPath": "/qY7zVZ7liULhfRoXg4c9Xl83LcR.jpg",
+  "posterPath": "/x6rHcQFiYcczLQPrmxXPAicm54E.jpg",
+  "releaseDate": "2026-04-29T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7f96e087-ea94-46b5-b2f7-dd05159229d6",
+      "title": "Hokum",
+      "subtitle": null,
+      "timestampString": "02:14:10",
+      "timestampInSeconds": 8050,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #327",
+        "youtubeId": "UYCI_LATeS8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/UYCI_LATeS8/hqdefault.jpg",
+        "durationInMinutes": 221,
+        "releaseDate": 1780218018000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "5989399b-9c8e-40cf-8df7-6ed9cfa5e0b2",
+            "name": "Szabolcs"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

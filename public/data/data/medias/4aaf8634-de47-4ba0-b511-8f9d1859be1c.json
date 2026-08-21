@@ -1,0 +1,41 @@
+{
+  "id": "4aaf8634-de47-4ba0-b511-8f9d1859be1c",
+  "title": "Bye Bye Man",
+  "originalTitle": "The Bye Bye Man",
+  "overview": "Amikor három diák beköltözik egy hangulatos, ódon házba nem messze az egyetemüktől, nem is sejtik, milyen hátborzongató titkokkal kell szembenézniük. Először furcsa érmékre, később egy baljóslatú üzenetre bukkannak egy éjjeliszekrény fiókjában. Majd miután szeánszot tartanak a házban, elszabadul a pokol: betegség, hallucinációk, és végül halál. Ráébrednek, hogy egy démoni lény át akarja venni a tudatuk felett az irányítást. A fiatalok felveszik a harcot a túlvilági ellenséggel, és közben minden erejükkel próbálják megőrizni a halálos titkot... De vajon létezik kiút az ördögi gondolatok útvesztőjéből?",
+  "backdropPath": "/9NHAlsuQkMv4IyAR1gLkGrE7XoU.jpg",
+  "posterPath": "/6sE22BzABDg1wz8mBaqIx3vZ3bk.jpg",
+  "releaseDate": "2017-01-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2cdab431-08e3-4b52-a748-21c168606579",
+      "title": "Bye Bye Man",
+      "subtitle": null,
+      "timestampString": "01:47:35",
+      "timestampInSeconds": 6455,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #120",
+        "youtubeId": "-3teFOfAauw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-3teFOfAauw/hqdefault.jpg",
+        "durationInMinutes": 251,
+        "releaseDate": 1493646027000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

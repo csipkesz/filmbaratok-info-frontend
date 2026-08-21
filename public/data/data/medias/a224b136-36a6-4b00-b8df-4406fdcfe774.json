@@ -1,0 +1,41 @@
+{
+  "id": "a224b136-36a6-4b00-b8df-4406fdcfe774",
+  "title": "Free Guy",
+  "originalTitle": "Free Guy",
+  "overview": "Guy rádöbben, hogy valójában háttérszereplő egy nyílt világú videojátékban. Úgy dönt, kezébe veszi az irányítást és ő maga lesz saját története főhőse – ő lesz az a fickó, aki e korlátokat nem ismerő terepen kiigazodva megmenti a világot, de a maga módján… amíg még nem késő.",
+  "backdropPath": "/rOJb0yQOCny0bPjg8bCLw8DyAD7.jpg",
+  "posterPath": "/94Mm3JANaH7l9wtGzx7CWpF8ivt.jpg",
+  "releaseDate": "2021-08-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fc133cc1-3634-403b-87c0-1fa4e3982660",
+      "title": "Free Guy",
+      "subtitle": null,
+      "timestampString": "02:48:45",
+      "timestampInSeconds": 10125,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #216",
+        "youtubeId": "30tV_qEGOIE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/30tV_qEGOIE/hqdefault.jpg",
+        "durationInMinutes": 291,
+        "releaseDate": 1629219607000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

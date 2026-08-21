@@ -1,0 +1,45 @@
+{
+  "id": "a2c8d379-f497-4edb-9cf9-21550241be71",
+  "title": "Legenda",
+  "originalTitle": "Legenda",
+  "overview": "",
+  "backdropPath": "/2fOToAjBXLouKfZsWAsVMpJjSDc.jpg",
+  "posterPath": "/ciok6ZPKZ3zIJXx4tktnyGRf1np.jpg",
+  "releaseDate": "2006-12-29T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "063123f1-8803-4302-8921-1333b1b906da",
+      "title": "Legenda",
+      "subtitle": null,
+      "timestampString": "01:23:50",
+      "timestampInSeconds": 5030,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #83",
+        "youtubeId": "hnUVtArlE_k",
+        "thumbnailUrl": "https://i.ytimg.com/vi/hnUVtArlE_k/hqdefault.jpg",
+        "durationInMinutes": 177,
+        "releaseDate": 1445005790000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

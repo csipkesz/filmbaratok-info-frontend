@@ -1,0 +1,45 @@
+{
+  "id": "c255c343-2567-4264-850f-41dad5265e7e",
+  "title": "Kötéltánc",
+  "originalTitle": "The Walk",
+  "overview": "Egy francia kötéltáncos minden idők legmerészebb mutatványára készül 1974-ben: egy kötélen egyensúlyozva kísérel meg átjutni a World Trade Center két épülete között több mint 400 méteres magasságban.",
+  "backdropPath": "/q2Ev0aXGXm5Hnm12TVtvdgNhMnv.jpg",
+  "posterPath": "/tsSnGhtzcUVLJ80xAQFAnYzg7Pa.jpg",
+  "releaseDate": "2015-09-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6b4e41cb-de9b-4e36-869d-d68a65bb5bfa",
+      "title": "Kötéltánc",
+      "subtitle": null,
+      "timestampString": "01:42:40",
+      "timestampInSeconds": 6160,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #83",
+        "youtubeId": "hnUVtArlE_k",
+        "thumbnailUrl": "https://i.ytimg.com/vi/hnUVtArlE_k/hqdefault.jpg",
+        "durationInMinutes": 177,
+        "releaseDate": 1445005790000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

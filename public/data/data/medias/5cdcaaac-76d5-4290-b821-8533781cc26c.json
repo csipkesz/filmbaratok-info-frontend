@@ -1,0 +1,41 @@
+{
+  "id": "5cdcaaac-76d5-4290-b821-8533781cc26c",
+  "title": "A sas leszállt",
+  "originalTitle": "The Eagle Has Landed",
+  "overview": "1943-ban Hitler parancsot ad Canaris tengernagynak, hogy raboltassa el legfőbb ellenfelét, magát Churchillt. Max Radl ezredes irányítja a kivitelezhetetlennek tűnő akciót. Hamarosan megtalálja a megfelelő embereket is: az Angliában nevelkedett Steiner ezredest és egy angolok ellen harcoló írt, Devlint. Az angliai német kémek szerint Churchill a közeljövőben egy kis angliai faluban tölt néhány napot. Úgy tűnik tehát, minden esély megvan arra, hogy sikerrel teljesíthessék a Führer parancsát.",
+  "backdropPath": "/kk1EDdwnERVB89VRuqlJjPGHexu.jpg",
+  "posterPath": "/gMTDCTaToKOHwE4HOVgCBxIZgYI.jpg",
+  "releaseDate": "1976-12-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3e9ec20d-f693-46a5-a445-5011c2b44d1e",
+      "title": "A sas leszállt",
+      "subtitle": null,
+      "timestampString": "01:47:55",
+      "timestampInSeconds": 6475,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #35",
+        "youtubeId": "iZP3HzNbpJk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/iZP3HzNbpJk/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1378351959000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

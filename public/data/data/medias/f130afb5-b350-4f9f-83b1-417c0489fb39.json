@@ -1,0 +1,45 @@
+{
+  "id": "f130afb5-b350-4f9f-83b1-417c0489fb39",
+  "title": "Szörny Egyetem",
+  "originalTitle": "Monsters University",
+  "overview": "A Szörny Rt.-ben Mike Wazowski és James P. Sullivan, vagyis Sulley elválaszthatatlan jó barátok, ám ez korántsem volt mindig így. Szörnyeink még az egyetemi évek alatt ismerkedtek össze, és már az első pillanattól fogva ki nem állhatták egymást, hiszen nem is különbözhettek volna jobban mind külsejük, mind pedig jellemük alapján. A Szörny Egyetem most feltárja hőseink rejtélyes múltját, és megtudhatjuk, hogy Mike és Sulley végül hogyan léptek túl a köztük lévő ellentéteken, és milyen kalandok során váltak végül a legjobb barátokká.",
+  "backdropPath": "/mIpCxBWNz6SHCQBe2K2PFr5MB7f.jpg",
+  "posterPath": "/2w0se63VKedzHzl2CMOkx4py09k.jpg",
+  "releaseDate": "2013-06-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c670a7f6-70cd-401a-ab82-f803ee09420d",
+      "title": "Szörny Egyetem",
+      "subtitle": null,
+      "timestampString": "00:17:05",
+      "timestampInSeconds": 1025,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #32",
+        "youtubeId": "6P4PZX3FJGA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/6P4PZX3FJGA/hqdefault.jpg",
+        "durationInMinutes": 125,
+        "releaseDate": 1373643280000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "9b263271-f6ef-4999-8c9f-ab719cb8a9c2",
+            "name": "DreamerInstinct"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

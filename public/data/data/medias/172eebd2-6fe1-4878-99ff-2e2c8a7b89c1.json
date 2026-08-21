@@ -1,0 +1,45 @@
+{
+  "id": "172eebd2-6fe1-4878-99ff-2e2c8a7b89c1",
+  "title": "Dune: Második rész",
+  "originalTitle": "Dune: Part Two",
+  "overview": "Paul Atreides  egyesül a fremenekkel, miközben bosszút áll a családját elpusztító összeesküvők ellen. Paul választás előtt áll, Chani - élete szerelme - és az ismert univerzum sorsa között, és megpróbálja megakadályozni a szörnyű jövőt, amelyet csak ő láthat előre.",
+  "backdropPath": "/eZ239CUp1d6OryZEBPnO2n87gMG.jpg",
+  "posterPath": "/md6VWaPq3uE5Ghw78BPabtjKFtK.jpg",
+  "releaseDate": "2024-02-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "755d0cf8-e503-4e13-94e4-3fe2c850233f",
+      "title": "Dűne 2 [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "02:59:54",
+      "timestampInSeconds": 10794,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #274",
+        "youtubeId": "U5btDyv5pPk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/U5btDyv5pPk/hqdefault.jpg",
+        "durationInMinutes": 285,
+        "releaseDate": 1710534459000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

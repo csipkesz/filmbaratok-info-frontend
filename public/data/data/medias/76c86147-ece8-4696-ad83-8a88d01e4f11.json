@@ -1,0 +1,41 @@
+{
+  "id": "76c86147-ece8-4696-ad83-8a88d01e4f11",
+  "title": "Az utolsó emberig",
+  "originalTitle": "Last Man Standing",
+  "overview": "John Smith bérgyilkos, akinek se múltja, se jövője, csak a maga szabta belső törvényeknek hajlandó engedelmeskedni. A szesztilalom javában tombol az Egyesült Államokban, amikor megérkezik a mexikói határ mentén fekvő Jerichóba. Jericho arról nevezetes, hogy két rivális banda is megpróbál hasznot húzni az illegális szeszcsempészetből és Smith pillanatok alatt mind a kettővel szembekerül. Egy szép nő, Felina miatt, aki nem másé, mint az egyik bandavezéré.",
+  "backdropPath": "/2wpoSvwPkCMJeVTrjkMUAF5B1sW.jpg",
+  "posterPath": "/4MRmQ8bfvWzK5tZQFn5AyD4wDcW.jpg",
+  "releaseDate": "1996-09-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e5f46ea4-f8af-4ed7-8e3e-0830625dec07",
+      "title": "Az utolsó emberig",
+      "subtitle": null,
+      "timestampString": "02:05:33",
+      "timestampInSeconds": 7533,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #111",
+        "youtubeId": "klorpdDyo7M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/klorpdDyo7M/hqdefault.jpg",
+        "durationInMinutes": 230,
+        "releaseDate": 1480773115000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

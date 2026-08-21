@@ -1,0 +1,28 @@
+{
+  "id": "1c216a79-4e30-4672-8ce3-3c0a042dba75",
+  "title": "Bel-Air",
+  "originalTitle": "Bel-Air",
+  "overview": "A klasszikus, Will Smith főszereplésével készült sorozat dramatikus változata, ahol egy Nyugat-Philadelphiából származó fiú verekedésbe keveredik és alkalmazkodnia kell az előkelő Bel-Air környezetéhez.",
+  "backdropPath": "/929XdVflzbgQWtKFDOnak3saK0R.jpg",
+  "posterPath": "/j8tbXWXrL15RucA6H4khq87dEXa.jpg",
+  "releaseDate": "2022-02-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6a0a692b-7104-4732-8a02-5a1f327e5c27",
+      "title": "Bel-Air",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Bel-Air",
+        "youtubeId": "pX0kssFsIWA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/pX0kssFsIWA/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1655101729000,
+        "participants": []
+      }
+    }
+  ]
+}

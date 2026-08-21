@@ -1,0 +1,41 @@
+{
+  "id": "69358cf1-6dfe-4932-9f8d-d2f06ec86005",
+  "title": "A könyvelő 2",
+  "originalTitle": "The Accountant²",
+  "overview": "Amikor egy pénzügyekkel foglalkozó titkosügynök főnökével ismeretlen bérgyilkosok végeznek, a nő kénytelen megkeresni a titokzatos könyvelőt, hogy segítsen neki a tettesek nyomára jutni. Ő pedig bevonja rég nem látott, de veszélyes életet élő öccsét , és hárman indulnak a titokzatos ellenfél után.Chris kiismerhetetlen működésű agya minden kérdésre megtalálja a választ, ha pedig cselekednie kell, nem nagyon törődik a törvénnyel. De minél közelebb küzdik magukat a megoldáshoz, annál nehezebb titokban tartani, amit csinálnak: és vannak, akik bári áron meg szeretnék állítani őket.",
+  "backdropPath": "/yBDvgpyynDsbMyK21FoQu1c2wYR.jpg",
+  "posterPath": "/aH6qv0IrSw9PNCwWgXfiUQHNRep.jpg",
+  "releaseDate": "2025-04-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "48be5605-f001-4407-a289-d62c475af4bb",
+      "title": "A könyvelő 2",
+      "subtitle": null,
+      "timestampString": "01:36:30",
+      "timestampInSeconds": 5790,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #302",
+        "youtubeId": "3K4xdZiHI_w",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3K4xdZiHI_w/hqdefault.jpg",
+        "durationInMinutes": 235,
+        "releaseDate": 1747414746000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

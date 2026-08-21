@@ -1,0 +1,45 @@
+{
+  "id": "193323e1-689f-4b86-8bbe-7ca600777271",
+  "title": "Molyember",
+  "originalTitle": "Mothman",
+  "overview": "Egy baráti társaság mindenképpen szeretné, ha a közös barátjuk halálával kapcsolatos információk örökké titokban maradnának. Hamarosan azt veszik észre, hogy egy gonosz, ismeretlen létforma vette őket üldözőbe, menekülniük kell, és talán a titokra is magyarázatot ad a gonosz feltűnése.",
+  "backdropPath": "/hQLz6CxQif3LGDXqMxtidKYcxRK.jpg",
+  "posterPath": "/k3Gefy8wa50VGnciEyiYhgE2SFI.jpg",
+  "releaseDate": "2010-04-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "54e07aba-160a-4445-8074-396fe56131dd",
+      "title": "Molyember",
+      "subtitle": null,
+      "timestampString": "01:16:54",
+      "timestampInSeconds": 4614,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #65",
+        "youtubeId": "Nho9twpqK9c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Nho9twpqK9c/hqdefault.jpg",
+        "durationInMinutes": 210,
+        "releaseDate": 1420868167000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "d0f09fa4-0818-4191-9c43-d608e9a6df39",
+  "title": "Az öldöklés istene",
+  "originalTitle": "Carnage",
+  "overview": "Két tizenegy éves forma srác összeakasztja a bajszát a helyi játszótéren. Az eredmény: felduzzadt ajkak és törött fogak. Ezután az \"áldozat\" szülei meghívják a \"támadó\" szüleit az otthonukba, hogy megbeszéljék a történteket. A szívélyes csacsogásból azonban hamar borotvaéles szituáció lesz, ugyanis kiderül, hogy mind a négy szülő nevetséges elképzelésekkel és groteszk előítéletekkel rendelkezik. Egyikük sem úszhatja meg a küszöbön álló csetepatét.",
+  "backdropPath": "/mntBeW6TRgm7GkYJwRDy3oJnKtn.jpg",
+  "posterPath": "/wr1mL2o5Nm2httKAetpVspczJDd.jpg",
+  "releaseDate": "2011-09-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "13e65952-0d5b-4a8e-9b7e-92846ef56387",
+      "title": "Az öldöklés istene",
+      "subtitle": null,
+      "timestampString": "02:12:53",
+      "timestampInSeconds": 7973,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #141",
+        "youtubeId": "gWd3V1HCpWA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gWd3V1HCpWA/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1522558409000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

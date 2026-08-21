@@ -1,0 +1,41 @@
+{
+  "id": "f6a13d32-0311-40a9-8340-61f2cfb02260",
+  "title": "Ocean's 8",
+  "originalTitle": "Ocean's Eight",
+  "overview": "Danny Ocean nagy volt, de nem elég nagy. Háromszor is összegyűjtötte kora legmenőbb bűnözőit, és nagy zsákmánnyal távozott... de van, aki még nála is ravaszabb, bátrabb és vonzóbb: a húga, Debbie.  Debbie Ocean tudja, mitől döglik a légy. Sosem fél és sosem hagyja cserben a humora. Ráadásul ravaszabb bármelyik férfinál. Legújabb célpontja az évente megrendezésre kerülő, az ország összes milliomosa, sznobja és szélhámosa számára kihagyhatatlan nagy esemény, a New York-i Met Gala – amelyen történetesen egy hűtlen expasija is részt vesz.  De egy ilyen nagy buli végrehajtásához szüksége van a tökéletes csapatra, így aztán nekiáll, hogy összeszedje a legjobbakat. Jön a bűn legvonzóbb válogatottja: Lou, Rose, Daphne, Nine Ball, Tammy,  Amita és Constance.",
+  "backdropPath": "/scQf03Fm3jeyv4FH04qvi4fp4wh.jpg",
+  "posterPath": "/ivqSRut4xYF2X8n62s4J30V3fqc.jpg",
+  "releaseDate": "2018-06-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3a1f3394-22cc-4841-83a0-9b3d65a950c5",
+      "title": "Ocean's 8",
+      "subtitle": null,
+      "timestampString": "00:35:50",
+      "timestampInSeconds": 2150,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #146",
+        "youtubeId": "sfip_5w7OMc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/sfip_5w7OMc/hqdefault.jpg",
+        "durationInMinutes": 163,
+        "releaseDate": 1530162133000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "15a53a44-af10-4843-b447-7f9fbb845f56",
+            "name": "Szöllőskei Gábor"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

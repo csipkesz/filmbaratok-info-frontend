@@ -1,0 +1,41 @@
+{
+  "id": "258f7503-d213-4b78-aece-b1a16969ce69",
+  "title": "Mélytengeri pokol",
+  "originalTitle": "Deepwater Horizon",
+  "overview": "Az úszó szigeten dolgozó mérnökök és munkások hozzá vannak szokva a kemény munkához, ám ami egy április éjszakán vár rájuk, arra senki sem lehet felkészülve. A kísérleti fúrások miatt keletkező veszélyes gázok által hatalmas robbanás rázza meg a tornyot, ami villámgyorsan pusztító tűzviharrá fajul. De vajon ki tudnak jutni a lángoló pokolból és meg tudják állítani az óceánba ömlő olajat?",
+  "backdropPath": "/fRT76SSQzAuZljogpsWyKphUxYX.jpg",
+  "posterPath": "/fhs5wjvZVPajCXOg88IEuxqv7iE.jpg",
+  "releaseDate": "2016-09-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d711c860-0c58-498c-87ec-5e699a11776a",
+      "title": "Mélytengeri pokol",
+      "subtitle": null,
+      "timestampString": "00:26:00",
+      "timestampInSeconds": 1560,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #108",
+        "youtubeId": "zNzDplhnvlg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/zNzDplhnvlg/hqdefault.jpg",
+        "durationInMinutes": 175,
+        "releaseDate": 1476476267000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

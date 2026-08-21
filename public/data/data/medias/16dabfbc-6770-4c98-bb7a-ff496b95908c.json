@@ -1,0 +1,45 @@
+{
+  "id": "16dabfbc-6770-4c98-bb7a-ff496b95908c",
+  "title": "Hasadás",
+  "originalTitle": "The Divide",
+  "overview": "Néhány ember egy New York-i toronyház bunkerszerű alagsorában vészeli át a várost ért atomtámadást. Napokig csapdába esve, a legkisebb remény nélkül a csoporton lassan úrrá lesz az őrület, ami kezdi egymás ellen fordítani őket. Ahogy a tartalékok is fogyni kezdenek, a nyomás tovább fokozódik, és az eddigi szóváltások egyre gyakrabban érnek erőszakos véget. Míg a bunkerben egymás után vesztik el emberi mivoltukat a kényszerű lakótársak, egyikük egy hajszálnyi esélyt lát a szabadulásra - és megragadja, még akkor, is ha kint talán még rosszabb helyzet vár rá.",
+  "backdropPath": "/sFtBsQVPZdR13MQh36Npfx9m9Lw.jpg",
+  "posterPath": "/f390sQ2rjiBLMDl71M6Qk2qL8Oq.jpg",
+  "releaseDate": "2012-01-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f1d7579e-0fbb-4e1d-adce-fbdc5fcd698d",
+      "title": "Hasadás (SPOILERES résszel is)",
+      "subtitle": null,
+      "timestampString": "02:44:13",
+      "timestampInSeconds": 9853,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #73",
+        "youtubeId": "CojqY6DJFQM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/CojqY6DJFQM/hqdefault.jpg",
+        "durationInMinutes": 197,
+        "releaseDate": 1431625186000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "be280bf5-feb7-4331-ac40-1c2a2b098bde",
+  "title": "Sötétben",
+  "originalTitle": "Aus dem Nichts",
+  "overview": "Katja boldog élete összeomlik, amikor férje és kisfia életüket vesztik egy robbantásban. A nő a kezdetektől meg van győződve arról, hogy a merényletet nácik követték el, de a rendőrség maffiaviszályokra, illetve muszlim vallási nézeteltérésekre gyanakszik. A friss gyász tompultsága és a bírósági tárgyalás traumatikus időszaka után Katja nem nyugszik, és saját kezébe veszi a dolgokat.",
+  "backdropPath": "/rbmJvTsPzVDszka97NguVUALUoh.jpg",
+  "posterPath": "/9IHWmIMAidHrOa5yOBE15Ads1e8.jpg",
+  "releaseDate": "2017-11-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "20998bf5-6ac8-4671-94ce-14fb8d1d072e",
+      "title": "Sötétben",
+      "subtitle": null,
+      "timestampString": "01:35:46",
+      "timestampInSeconds": 5746,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #140",
+        "youtubeId": "LQ8tU4s4F2M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/LQ8tU4s4F2M/hqdefault.jpg",
+        "durationInMinutes": 184,
+        "releaseDate": 1521209750000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

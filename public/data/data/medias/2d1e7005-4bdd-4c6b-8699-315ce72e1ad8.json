@@ -1,0 +1,45 @@
+{
+  "id": "2d1e7005-4bdd-4c6b-8699-315ce72e1ad8",
+  "title": "A Blank on the map [1971]",
+  "originalTitle": "A Blank on the Map",
+  "overview": "",
+  "backdropPath": null,
+  "posterPath": "/ev4K29nAVe3YVRJoqp3GJNDbDmr.jpg",
+  "releaseDate": "1971-12-29T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "472d384d-46a7-4f5d-9b64-9d5bc67e068b",
+      "title": "A Blank on the map [1971]",
+      "subtitle": null,
+      "timestampString": "02:32:33",
+      "timestampInSeconds": 9153,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #327",
+        "youtubeId": "UYCI_LATeS8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/UYCI_LATeS8/hqdefault.jpg",
+        "durationInMinutes": 221,
+        "releaseDate": 1780218018000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "5989399b-9c8e-40cf-8df7-6ed9cfa5e0b2",
+            "name": "Szabolcs"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "97b25146-133f-4906-b424-002c970d5c2f",
+  "title": "Szerelemre hangszerelve",
+  "originalTitle": "Begin Again",
+  "overview": "Greta és barátja Dave a főiskola óta járnak, és közös szerzői a daloknak, melyekkel a férfi fellép. Amikor egy komoly kiadó szerződést kínál Dave-nek, New Yorkba költöznek, csakhogy a frissen szerzett dicsőség hamar a férfi fejébe száll, és szakít Gretával. A veszteségtől még kóválygó lány sorsa akkor fordul jobbra, amikor Dan, a levitézlett ex lemezkiadó vezető egyik este meghallja énekelni egy kis East Village-i színpadon, és azonnal felismeri Greta nyers, átütő tehetségét. A véletlenszerű találkozásból egy kölcsönösen sorsfordító kapcsolat elbűvölő portréja formálódik ki, melynek hangkulisszáját a nyári fényben fürdő New York adja.",
+  "backdropPath": "/xrSRmL6pXnRfu9vKwayILkNgLP.jpg",
+  "posterPath": "/evD1Z6zL17jO87kjmS78LKMuDwB.jpg",
+  "releaseDate": "2014-06-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8b42fdbe-ae84-48d1-be76-d5f406e28cb6",
+      "title": "Szerelemre hangszerelve",
+      "subtitle": null,
+      "timestampString": "02:00:31",
+      "timestampInSeconds": 7231,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #59",
+        "youtubeId": "xa1Ymms2_9c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/xa1Ymms2_9c/hqdefault.jpg",
+        "durationInMinutes": 189,
+        "releaseDate": 1413978295000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

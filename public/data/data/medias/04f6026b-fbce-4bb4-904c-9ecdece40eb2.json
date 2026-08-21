@@ -1,0 +1,45 @@
+{
+  "id": "04f6026b-fbce-4bb4-904c-9ecdece40eb2",
+  "title": "Az idő urai",
+  "originalTitle": "Les maîtres du temps",
+  "overview": "1982-ben bemutatott egész estés francia–magyar koprodukcióban készült legendás sci-fi rajzfilm, amely Stefan Wul L’Orphelin de Perdide [„A Perdide bolygó árvája”] című kultikus regénye alapján készült (1958). A forgatókönyvet Jean Giraud írta, a rajzfilmet René Laloux rendezte, a zenéjét Jean-Pierre Bourtayre, Pierre Tardy és Christian Zanesi szerezte, a producerei Jacques Dercourt és Roland Gritti voltak. Franciaországban 1982. március 21-én, Magyarországon 1983. szeptember 29-én mutatták be a mozikban.  A filmet Moebius látványtervei keltették életre, és a Pannónia Filmstúdió művészei népesítették be fantasztikus lényekkel, felejthetetlen kreatúrákkal.  A film főhőse egy kisfiú, akit Piel-nek hívnak, s aki egy végzetes baleset során egyedül marad a titokzatos, félelmetes Perdide bolygón.",
+  "backdropPath": "/eOgq3wNremNJ5V3hxapQop7JXvP.jpg",
+  "posterPath": "/l4Jkx3FxQPsRy4kTxjb2pvQlBYU.jpg",
+  "releaseDate": "1982-03-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ca217c12-e45c-4214-8625-7b736c752715",
+      "title": "Az idő urai [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "02:44:15",
+      "timestampInSeconds": 9855,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #332",
+        "youtubeId": "TxY_PejOCHo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/TxY_PejOCHo/hqdefault.jpg",
+        "durationInMinutes": 209,
+        "releaseDate": 1786734027000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

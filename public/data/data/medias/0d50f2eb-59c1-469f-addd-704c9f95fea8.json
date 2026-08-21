@@ -1,0 +1,41 @@
+{
+  "id": "0d50f2eb-59c1-469f-addd-704c9f95fea8",
+  "title": "Holnap történt",
+  "originalTitle": "Holnap történt - A nagy bulvárfilm",
+  "overview": "Az ambiciózus újságírónő és fiatal partnere nyomozásba kezd a híres popdíva halálának ügyében. Persze senki és semmi nem az aminek látszik. Szerelem, intrika, féltékenység... a gyanú mindenkire ráterelődik.",
+  "backdropPath": "/qVJ3VnztWdjPhNZSVZ6TV4nfRSe.jpg",
+  "posterPath": "/x7AK8g7M4c7aJRSYr8hbnBN3YFO.jpg",
+  "releaseDate": "2009-02-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ed854fe0-f67c-4a25-8007-9777aa174c33",
+      "title": "Holnap történt",
+      "subtitle": null,
+      "timestampString": "00:12:18",
+      "timestampInSeconds": 738,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #48",
+        "youtubeId": "fLYUOAN5_3c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fLYUOAN5_3c/hqdefault.jpg",
+        "durationInMinutes": 56,
+        "releaseDate": 1396323815000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "dd1635da-23cf-4bab-8eb0-072dae52c4f2",
+  "title": "Iron Fist",
+  "originalTitle": "Iron Fist Pillage",
+  "overview": "",
+  "backdropPath": "/6oRaldPPvjZqRWqu0BuZSc8qHFb.jpg",
+  "posterPath": "/4ZahhlCrE90NGrsD8Gty4A9LpDn.jpg",
+  "releaseDate": "2001-08-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "73e39ba5-03a5-43ef-a338-e5a66dbe6d4e",
+      "title": "Iron Fist",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Iron Fist",
+        "youtubeId": "yD3tZcFvJlA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/yD3tZcFvJlA/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1491843052000,
+        "participants": []
+      }
+    }
+  ]
+}

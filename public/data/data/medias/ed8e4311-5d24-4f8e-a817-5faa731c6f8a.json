@@ -1,0 +1,45 @@
+{
+  "id": "ed8e4311-5d24-4f8e-a817-5faa731c6f8a",
+  "title": "Halálhajó",
+  "originalTitle": "Event Horizon",
+  "overview": "2047-et írunk. Az Event Horizon nevű felderítő űrhajó, mely évekkel korábban nyomtalanul eltűnt, most sugározni kezd az űrből. A jel forrása felé száguldó űrhajó elit legénységének tagja az eltűnt hajó tervezője, Dr. Weir is. Küldetésük: megtalálni és megmenteni a legmagasabb fokú technikával készült űrhajót. De amit találnak, az a legmagasabb fokú csillagközi rettegés. Amit pedig meg kell menteniük, az a saját életük, mert valaki - vagy valami - be akarja őket csalogatni az elképzelhetetlen borzalom dimenziójába.",
+  "backdropPath": "/nByMcYBhChTs2TF9fEFcTSsjme5.jpg",
+  "posterPath": "/iIGMUgdeJ3cp5KmryDQEpt2ZZfz.jpg",
+  "releaseDate": "1997-08-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "cc74059b-e46e-4668-b807-729b9a7a706d",
+      "title": "Halálhajó",
+      "subtitle": null,
+      "timestampString": "02:35:27",
+      "timestampInSeconds": 9327,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #57",
+        "youtubeId": "NItQ0G4BTsQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/NItQ0G4BTsQ/hqdefault.jpg",
+        "durationInMinutes": 177,
+        "releaseDate": 1410890684000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

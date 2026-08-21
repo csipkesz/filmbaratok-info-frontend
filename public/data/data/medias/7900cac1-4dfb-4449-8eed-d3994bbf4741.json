@@ -1,0 +1,71 @@
+{
+  "id": "7900cac1-4dfb-4449-8eed-d3994bbf4741",
+  "title": "12 év rabszolgaság",
+  "originalTitle": "12 Years a Slave",
+  "overview": "Northup 1841-ben, az amerikai polgárháborút megelőző időszakban az északi New York virágzó városában elismert hegedűművészként éli hétköznapjait családjával, míg egy nap tőrbe csalják, elkábítják, és eladják rabszolgának. Helyzete egyre kilátástalanabbá válik, mikor egy szadista déli ültetvényeshez kerül, Edwin Eppshez, aki rabszolgáin kénye kedve szerint tesz erőszakot, akár a végsőkig korbácsolva, kínozva őket. Northup embertelen körülmények között több száz társával együtt az életben maradásért küzd, miközben megpróbálja megőrizni méltóságát Epps könyörtelen, beteges világban. Solomon 12 évig tartó kegyetlen odüsszeiája alatt nem adja fel a harcot: újra szabad akar lenni. És mikor a sors összehozza őt a kanadai szabadelvű áccsal felcsillan benne újra a remény.",
+  "backdropPath": "/4Bb1kMIfrT2tYRZ9M6Jhqy6gkeF.jpg",
+  "posterPath": "/jyTEJUrdpwezEgZHX1oiwAAje58.jpg",
+  "releaseDate": "2013-10-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5662c502-9167-406d-a95c-75d8c786a996",
+      "title": "12 év rabszolgaság",
+      "subtitle": null,
+      "timestampString": "01:13:40",
+      "timestampInSeconds": 4420,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #43",
+        "youtubeId": "WupIquHhCt0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/WupIquHhCt0/hqdefault.jpg",
+        "durationInMinutes": 164,
+        "releaseDate": 1389645501000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a745d073-af23-47f6-91d4-42c58ad8c644",
+      "title": "12 év rabszolgaság",
+      "subtitle": null,
+      "timestampString": "00:43:58",
+      "timestampInSeconds": 2638,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #44",
+        "youtubeId": "_NwJoO7yxrE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_NwJoO7yxrE/hqdefault.jpg",
+        "durationInMinutes": 137,
+        "releaseDate": 1391206083000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "273a8019-47aa-4cdf-9b9f-6c84ee0f59ce",
+            "name": "Émi"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

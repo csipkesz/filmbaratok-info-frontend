@@ -1,0 +1,45 @@
+{
+  "id": "81a7b92d-f54b-4593-b989-16d62f74ef25",
+  "title": "Mickey 17",
+  "originalTitle": "Mickey 17",
+  "overview": "Az emberélet olcsó. A bolygóközi expedíciók Eldobhatókat visznek magukkal, velük végeztetik el az életveszélyes feladatokat. A lényegüket lementik valahova: ha a testük elpusztul, újat adnak nekik, feltöltik a régi emlékekkel, és minden megy tovább, mintha mi sem történt volna. A rendszer tökéletes. De nincs tökéletes rendszer: Egyszer, amikor a halottnak hitt Eldobható helyett elkészítik az új klónt, a régi is visszatér a bázisra – de már nincs helye. Bujkálnia kell. És amikor a távoli, idegen bolygón nehezen küszködő bázis súlyos veszélybe kerül, szörnyű döntést kell hoznia.",
+  "backdropPath": "/9PRKAdrDvAdCfg3EcApLTfzGsEt.jpg",
+  "posterPath": "/3fVuQiAn0kQ7VgHQpqeH1g56vKq.jpg",
+  "releaseDate": "2025-02-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b074a921-7711-4c9c-bfea-f5c97011e36a",
+      "title": "Mickey 17",
+      "subtitle": null,
+      "timestampString": "01:10:30",
+      "timestampInSeconds": 4230,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #298",
+        "youtubeId": "3I1VL7x6j0A",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3I1VL7x6j0A/hqdefault.jpg",
+        "durationInMinutes": 195,
+        "releaseDate": 1742031565000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

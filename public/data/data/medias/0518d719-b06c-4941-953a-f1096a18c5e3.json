@@ -1,0 +1,41 @@
+{
+  "id": "0518d719-b06c-4941-953a-f1096a18c5e3",
+  "title": "A séf",
+  "originalTitle": "Chef",
+  "overview": "Carl Casper egy híres séf, aki mindent tud az ételről, de egyre kevesebbet a fiáról és az életről. Mikor munkanélküli lesz, volt neje unszolására elhatározza, hogy elfogadja a nagyképű volt pasijának a segítségét és megvalósítja egy régi álmát: nekivág Amerikának egy büfékocsival. Az útra elkíséri a kisfia és hűséges séf barátja, hogy együtt segítsenek Caspernek rájönni miért is érdemes élni…",
+  "backdropPath": "/igVNCpS132rOqrnDsrVYW5HCIsM.jpg",
+  "posterPath": "/f50MDcXHfsb6SSXgLdhmUj0i9vm.jpg",
+  "releaseDate": "2014-05-08T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9e9771d5-21fb-4529-b3b6-a1f9c99908c2",
+      "title": "A séf",
+      "subtitle": null,
+      "timestampString": "01:04:00",
+      "timestampInSeconds": 3840,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #119",
+        "youtubeId": "y4ke6vT4qms",
+        "thumbnailUrl": "https://i.ytimg.com/vi/y4ke6vT4qms/hqdefault.jpg",
+        "durationInMinutes": 111,
+        "releaseDate": 1491032632000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

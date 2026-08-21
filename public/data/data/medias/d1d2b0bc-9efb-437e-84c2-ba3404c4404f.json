@@ -1,0 +1,45 @@
+{
+  "id": "d1d2b0bc-9efb-437e-84c2-ba3404c4404f",
+  "title": "Birdman",
+  "originalTitle": "Birdman",
+  "overview": null,
+  "backdropPath": null,
+  "posterPath": null,
+  "releaseDate": null,
+  "topics": [
+    {
+      "id": "3e949ed8-5930-4098-b98d-aaa2f9044503",
+      "title": "Birdman",
+      "subtitle": null,
+      "timestampString": "00:37:50",
+      "timestampInSeconds": 2270,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #66",
+        "youtubeId": "E4v-47u65NI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E4v-47u65NI/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1422556505000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

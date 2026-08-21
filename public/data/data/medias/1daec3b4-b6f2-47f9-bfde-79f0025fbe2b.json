@@ -1,0 +1,45 @@
+{
+  "id": "1daec3b4-b6f2-47f9-bfde-79f0025fbe2b",
+  "title": "Kill Bill",
+  "originalTitle": "Kill Bill: Vol. 1",
+  "overview": "A Menyasszony egykor hírhedt bérgyilkosnő volt, egy világklasszis női bérgyilkos-csapat tagja. Ám terhes lett és férjhez akart menni, de a főnök ezt nem hagyhatta. Az esküvője napján a csapat vezetője, Bill mindenkit lemészárol. A Menyasszony utolsó szavaival tudatja Bill-lel, hogy várandós és az ő gyerekét hordja szíve alatt. A nő nem hal bele a fejlövésbe, hanem ötévi kóma után véres bosszút esküszik főnöke és egykori csapattársai ellen. Senki nem tudhatja, mikor fog következni a listán. Csak egy biztos: Bill lesz az utolsó a sorban.",
+  "backdropPath": "/iffzIhuLAO38Po6sh1s6ZEVwlNL.jpg",
+  "posterPath": "/76iFVl00FBFdlrhKtYg5EYHFfDc.jpg",
+  "releaseDate": "2003-10-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8bd5fbda-287e-439f-81a4-d717316ebca4",
+      "title": "Kill Bill",
+      "subtitle": null,
+      "timestampString": "00:45:55",
+      "timestampInSeconds": 2755,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #327",
+        "youtubeId": "UYCI_LATeS8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/UYCI_LATeS8/hqdefault.jpg",
+        "durationInMinutes": 221,
+        "releaseDate": 1780218018000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "5989399b-9c8e-40cf-8df7-6ed9cfa5e0b2",
+            "name": "Szabolcs"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

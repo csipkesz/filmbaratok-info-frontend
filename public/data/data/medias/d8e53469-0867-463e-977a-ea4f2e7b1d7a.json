@@ -1,0 +1,45 @@
+{
+  "id": "d8e53469-0867-463e-977a-ea4f2e7b1d7a",
+  "title": "A majom",
+  "originalTitle": "The Monkey",
+  "overview": "Amikor az ikertestvérek, Bill és Hal megtalálják apjuk régi cintányéros majomjátékát a padláson, szörnyű halálesetek sorozata kezdődik. A testvérek úgy döntenek, hogy kidobják a játékot, és folytatják az életüket. Az évek során eltávolodnak egymástól, ám felnőtt korukban titokzatos halálesetek sorozata kezdődik újra. A fivéreknek össze kell fogniuk a majom végső megsemmisítésére, mielőtt mindenkit elveszítenek, aki a szívüknek kedves.",
+  "backdropPath": "/cjZ7No0DX2L3ielLSoUOMYPw7C.jpg",
+  "posterPath": "/gXyCAQevthfv1yEm6i6YndHODqO.jpg",
+  "releaseDate": "2025-02-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b09d0be8-f610-4a49-bd9a-194990e78e49",
+      "title": "A majom",
+      "subtitle": null,
+      "timestampString": "00:49:32",
+      "timestampInSeconds": 2972,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #298",
+        "youtubeId": "3I1VL7x6j0A",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3I1VL7x6j0A/hqdefault.jpg",
+        "durationInMinutes": 195,
+        "releaseDate": 1742031565000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

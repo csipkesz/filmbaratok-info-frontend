@@ -1,0 +1,45 @@
+{
+  "id": "d50e8e5c-0fad-41cf-889d-d785e235fe1e",
+  "title": "Biciklitolvajok",
+  "originalTitle": "Ladri di biciclette",
+  "overview": "Antonio, a külvárosi, munkanélküli családapa hosszú hónapok óta először dolgozhatna plakátragasztóként. A munkához azonban elengedhetetlenül szüksége lenne biciklire. Miután a megváltó jármű a zálogházban helyet cserél a feleség utolsó lepedőjével, úgy tűnik, Róma kiábrándító mocska enged szorításából. Ám az első munkanapon ellopják a kerékpárt. Antonio hű barátja, Bruno a tolvaj után veti magát. \"A Biciklitolvajokban egy római munkanélküli végre foglalkozáshoz jut s ennek ellátásához kerékpárra van szüksége. De miközben plakátokat ragaszt a falakra, ellopják a kerékpárját. Egész álló nap járja Rómát, hogy megtalálja nélkülözhetetlen munkaeszközét, de hiába. Így lesz ez a hétköznapi esemény egy szívettépő tragédia tárgya...\" Georges Sadoul",
+  "backdropPath": "/nd6ItWuWGmTKhHXuxVC8kp86CmQ.jpg",
+  "posterPath": "/x1xTzpw9mxwDxSqZVd00fGOoo26.jpg",
+  "releaseDate": "1948-07-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0f84fb86-289c-4b8a-838b-70c9bf3edcfe",
+      "title": "Biciklitolvajok",
+      "subtitle": null,
+      "timestampString": "01:10:08",
+      "timestampInSeconds": 4208,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #88",
+        "youtubeId": "wEd9ZOCpPII",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wEd9ZOCpPII/hqdefault.jpg",
+        "durationInMinutes": 226,
+        "releaseDate": 1450458682000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

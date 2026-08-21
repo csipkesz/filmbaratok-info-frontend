@@ -1,0 +1,41 @@
+{
+  "id": "de02f038-6fdb-4439-8d86-af11a572baa9",
+  "title": "Mirai: Lány a jövőből",
+  "originalTitle": "未来のミライ",
+  "overview": "A négyéves Kun azóta haragszik a világra, amióta kishúga születésével felfordult az élete. Ám egy reggel titkos, mesebeli világot talál a kertjükben, ahol találkozik azzal a kislánnyal, aki majd az anyukája lesz és azzal a férfival, aki majd a dédnagypapája lesz. A varázslatos kalandokban útitársául szegődik egy nagylány. Egy nagylány, akit pont úgy hívnak mint az utált kistestvért...",
+  "backdropPath": "/r2FXILO1vUKXGS9xnPva4kkjdHo.jpg",
+  "posterPath": "/mxV4UoyrMQbthiBOoVdG6gdydlx.jpg",
+  "releaseDate": "2018-07-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "649106ed-dd33-44bf-b893-66dd5c48cb7c",
+      "title": "Mirai: Lány a jövőből",
+      "subtitle": null,
+      "timestampString": "02:22:13",
+      "timestampInSeconds": 8533,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #160",
+        "youtubeId": "_a3zVw9qNvs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_a3zVw9qNvs/hqdefault.jpg",
+        "durationInMinutes": 196,
+        "releaseDate": 1547731556000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "99e64a8f-364b-4f1d-bc88-f19a5a3ea079",
+  "title": "Chip és Dale: A Csipet Csapat",
+  "originalTitle": "Chip 'n Dale: Rescue Rangers",
+  "overview": "Újra visszatértek mindenki kis kedvenc nyomozói, a Csipet Csapat. Chip és Dale újra hatalmas kihívásokkal és kalandokkal néznek szembe. A Disney élőszereplős változatában John Mulaney és Andy Samberg kölcsönözték hangjukat hőseinknek.",
+  "backdropPath": "/qK7Ssnrfvrt65F66A1thvehfQg2.jpg",
+  "posterPath": "/hJvvkrlq9zBCUME88EZed8D2mET.jpg",
+  "releaseDate": "2022-05-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2cec4139-7920-4815-8dfb-e5665e6233c0",
+      "title": "Chip és Dale: A Csipet Csapat",
+      "subtitle": null,
+      "timestampString": "02:04:23",
+      "timestampInSeconds": 7463,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #234",
+        "youtubeId": "IyLcC8Sig7I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IyLcC8Sig7I/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1655823277000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

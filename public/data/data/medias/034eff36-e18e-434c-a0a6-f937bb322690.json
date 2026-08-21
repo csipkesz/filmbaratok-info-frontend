@@ -1,0 +1,45 @@
+{
+  "id": "034eff36-e18e-434c-a0a6-f937bb322690",
+  "title": "Fallout",
+  "originalTitle": "Fallout",
+  "overview": "A minden idők egyik legsikeresebb videojátékán alapuló Fallout arról szól, hogy mit kaphatsz meg és mit nem egy olyan világban, ahol szinte már semmi sem maradt. Az apokalipszis után 200 évvel a luxusmenedékek kedves lakói kényszerűen visszatérnek a hihetetlenül bonyolult, meghökkentően furcsa és elképesztően erőszakos fenti világba.",
+  "backdropPath": "/coaPCIqQBPUZsOnJcWZxhaORcDT.jpg",
+  "posterPath": "/c15BtJxCXMrISLVmysdsnZUPQft.jpg",
+  "releaseDate": "2024-04-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2ccb71e4-3980-4fae-80e7-0667206dce4f",
+      "title": "Fallout (1. évad)",
+      "subtitle": "1. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Fallout (1. évad)",
+        "youtubeId": "H3sVtPzc1hA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/H3sVtPzc1hA/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1718141404000,
+        "participants": []
+      }
+    },
+    {
+      "id": "92b5a705-f62a-4984-91f7-a55a5c41e289",
+      "title": "Fallout (2. évad)",
+      "subtitle": "2. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Fallout (2. évad)",
+        "youtubeId": "vweR53-8ezc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/vweR53-8ezc/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1770532735000,
+        "participants": []
+      }
+    }
+  ]
+}

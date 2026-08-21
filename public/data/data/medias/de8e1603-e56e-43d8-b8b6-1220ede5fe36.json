@@ -1,0 +1,41 @@
+{
+  "id": "de8e1603-e56e-43d8-b8b6-1220ede5fe36",
+  "title": "Alfa",
+  "originalTitle": "Alfa",
+  "overview": "Amikor a frissen vizsgázott tőzsdeügynök Adam megtudja, hogy meghalt az apja, gyermekkori barátaival együtt egy pusztító világba cseppen. Az apa temetésén felbukkan Adam bátyja, Jakob, aki a rendőri pályát választotta, miután maga mögött hagyta a múltat.",
+  "backdropPath": "/zUKgt6Rd3pIhedUXDBXOoYpdwze.jpg",
+  "posterPath": "/k9Cf6echtKIWxWc7Rb7XKiZJ652.jpg",
+  "releaseDate": "2020-08-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "dce21a8f-5aaa-41a4-9692-695d2222c75a",
+      "title": "Alfa",
+      "subtitle": null,
+      "timestampString": "01:54:15",
+      "timestampInSeconds": 6855,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #151",
+        "youtubeId": "hcylcX_kgM0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/hcylcX_kgM0/hqdefault.jpg",
+        "durationInMinutes": 234,
+        "releaseDate": 1537428229000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

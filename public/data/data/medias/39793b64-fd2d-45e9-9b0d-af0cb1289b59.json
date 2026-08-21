@@ -1,0 +1,41 @@
+{
+  "id": "39793b64-fd2d-45e9-9b0d-af0cb1289b59",
+  "title": "Nincs más választás",
+  "originalTitle": "어쩔수가없다",
+  "overview": "Man-su évtizedek óta a helyi papírgyár megbecsült dolgozója. A koreai álmot éli: feleségével, két gyerekükkel és két kutyájukkal tágas családi házban élnek, ahol a bonsai fák csinosítgatása tölti ki a szabadidejét. A gyár új tulajdonosa azonban a modernizáció jegyében leépítésbe kezd és kisvártatva Man-su is az utcán találja magát. A kezdeti eltökélt munkakeresést kétségbeesés váltja fel: egy idő után már a háziállatok fenntartása is éppúgy problémát jelent, mint a jelzáloghitel rendszeres törlesztése. Megalázó helyzetek sorozata végül Man-su-t minden határt áthágó lépésekre készteti.",
+  "backdropPath": "/1eM6Ey1FzpgJigrxRiSYtntSWq7.jpg",
+  "posterPath": "/xtY70UeMQbOHekS6C2ik2CYLXDI.jpg",
+  "releaseDate": "2025-09-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "615b9ef5-0a19-4e16-87f6-0eb8295b86de",
+      "title": "Nincs más választás",
+      "subtitle": null,
+      "timestampString": "02:33:05",
+      "timestampInSeconds": 9185,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #319",
+        "youtubeId": "WElfYZiSFrk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/WElfYZiSFrk/hqdefault.jpg",
+        "durationInMinutes": 210,
+        "releaseDate": 1769866830000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

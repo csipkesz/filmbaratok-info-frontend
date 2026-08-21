@@ -1,0 +1,41 @@
+{
+  "id": "1dc33306-4368-4892-82e4-6c74c549ac50",
+  "title": "Csontok és skalpok",
+  "originalTitle": "Bone Tomahawk",
+  "overview": "Vad kannibálcsoport rabolja el a Bright Hope nevű kisváros telepes lakóit. Az áldozatok megmentésére induló lövészeket Franklin Hunt seriff vezeti. Ellenségük azonban könyörtelenebb, mint gondolták: a csoport küldetése és saját túlélése is súlyos veszélybe kerül.",
+  "backdropPath": "/orXMq2jZy8wFmePv7zXS2Kor7Ug.jpg",
+  "posterPath": "/7fN74wXI8ood7HLiKO9CBi36iGR.jpg",
+  "releaseDate": "2015-10-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6d6dd981-d002-4794-b771-7c95f236ce93",
+      "title": "Csontok és skalpok",
+      "subtitle": null,
+      "timestampString": "01:18:40",
+      "timestampInSeconds": 4720,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #104",
+        "youtubeId": "OY96XihUHYY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/OY96XihUHYY/hqdefault.jpg",
+        "durationInMinutes": 230,
+        "releaseDate": 1469739871000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

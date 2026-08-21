@@ -1,0 +1,41 @@
+{
+  "id": "af05079d-9926-4fa4-a0a4-8cb636b1ad6d",
+  "title": "Long Shot",
+  "originalTitle": "Long Shot",
+  "overview": "Charlotte gyönyörű, szuperintelligens, befolyásos nő, nem mellesleg az Amerikai Egyesült Államok külügyminisztere. Fred tehetséges újságíró, egy nagyra nőtt gyerek, aki susogós szerkójában élvezi az élet örömeit. Kettejükben az égvilágon semmi közös nincs… kivéve, hogy a 16 éves Charlotte egyszer vigyázott a kiskamasz Fredre, aki persze egyből belezúgott a szőke hercegnőbe.",
+  "backdropPath": "/jYnQgKYACzQ06gRf15hRbyRkQsp.jpg",
+  "posterPath": "/rvCKLn83CUB49Q1fk7nxSUt1B2i.jpg",
+  "releaseDate": "2019-05-02T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a620ad8e-daa4-4bf8-ba40-380d1e5415db",
+      "title": "Long Shot",
+      "subtitle": null,
+      "timestampString": "02:09:22",
+      "timestampInSeconds": 7762,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #148",
+        "youtubeId": "keV4hpdXcYo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/keV4hpdXcYo/hqdefault.jpg",
+        "durationInMinutes": 206,
+        "releaseDate": 1533062167000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "1510737c-2b5e-4ab4-9245-925412ce3475",
+  "title": "I origins",
+  "originalTitle": "I Origins",
+  "overview": "Dr. Ian Gray molekuláris biológus a szem evolúcióján keresztül az emberi lét keletkezését kutatja. Egy este futó kalandba keveredik Sofival, az egzotikus fiatal nővel, aki gyökeresen más véleménnyel van a világ teremtéséről. Évekkel azután, hogy Sofit tragikus körülmények között elveszítette, Dr. Gray és asszisztense, Karen fantasztikus felfedezést tesznek, amely alapjaiban rengetheti meg a tudományos világot. A munkáját és a magánéletét kockára téve az orvos Indiába utazik, hogy szembenézzen az igazsággal.",
+  "backdropPath": "/cr8pv3Iel9T5Z3WTJX5VqvdIpAm.jpg",
+  "posterPath": "/465hr6ZUGHmHvJdk4xwJ0pn8hVi.jpg",
+  "releaseDate": "2014-07-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "aa56f698-a0fa-4249-8ff3-60041c06a975",
+      "title": "I origins",
+      "subtitle": null,
+      "timestampString": "02:23:17",
+      "timestampInSeconds": 8597,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #88",
+        "youtubeId": "wEd9ZOCpPII",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wEd9ZOCpPII/hqdefault.jpg",
+        "durationInMinutes": 226,
+        "releaseDate": 1450458682000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

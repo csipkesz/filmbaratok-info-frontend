@@ -1,0 +1,41 @@
+{
+  "id": "9e2a503e-2b58-4e50-a609-9cdc1535b92e",
+  "title": "Barátnőt felveszünk",
+  "originalTitle": "No Hard Feelings",
+  "overview": "A gyermekkori otthona elvesztésének küszöbén Maddie egy érdekes álláshirdetést fedez fel: gazdag helikopteres szülők keresnek valakit, aki „randevúzna” introvertált 19 éves fiukkal, mielőtt az egyetemre indul. Meglepetésére Maddie hamarosan rájön, hogy Percy nem könnyű eset.",
+  "backdropPath": "/rRcNmiH55Tz0ugUsDUGmj8Bsa4V.jpg",
+  "posterPath": "/4qEWrhjZe0vaJNwdICH3CnSt60q.jpg",
+  "releaseDate": "2023-06-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d0ad834a-3af5-4558-b7bd-6641496cd4d0",
+      "title": "Barátnőt felveszünk",
+      "subtitle": null,
+      "timestampString": "01:18:30",
+      "timestampInSeconds": 4710,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #258",
+        "youtubeId": "sLW3E8Fk1Lk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/sLW3E8Fk1Lk/hqdefault.jpg",
+        "durationInMinutes": 200,
+        "releaseDate": 1689285300000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

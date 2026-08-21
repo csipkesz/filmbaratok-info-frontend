@@ -1,0 +1,41 @@
+{
+  "id": "7c0852e6-74c7-46ef-9bf3-ee9456add73e",
+  "title": "Still Alice",
+  "originalTitle": "Still Alice",
+  "overview": "Alice Howland boldog házasságban élő családanya, akinek már három felnőtt gyereke van. Kitűnő karriert futott be a nyelvészet neves professzoraként. Most viszont egy olyan betegséggel kell szembenéznie, melynek következtében elfelejt szavakat.",
+  "backdropPath": "/qgCg1bCg9QBwr4jRygz6nZCoDqw.jpg",
+  "posterPath": "/pI0J5FVqufKj22BHwOmkLjsgzGc.jpg",
+  "releaseDate": "2014-12-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "bab5ebd8-7e10-4463-933e-bf2a41435ce4",
+      "title": "Still Alice",
+      "subtitle": null,
+      "timestampString": "01:24:37",
+      "timestampInSeconds": 5077,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #69",
+        "youtubeId": "pVv5pcdaViY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/pVv5pcdaViY/hqdefault.jpg",
+        "durationInMinutes": 169,
+        "releaseDate": 1426321772000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

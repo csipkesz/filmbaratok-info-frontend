@@ -1,0 +1,45 @@
+{
+  "id": "4ae31ea1-e685-42ba-b078-3efae29df849",
+  "title": "Alapítvány",
+  "originalTitle": "Foundation",
+  "overview": "Az Isaac Asimov díjnyertes Alapítvány regényei nyomán készült sorozat egy csapat száműzött sorsát követi, ahogy monumentális útjuk során megmentik az emberiséget, újjáépítik a civilizációt, miközben a Galaktikus Birodalom összeomlik.",
+  "backdropPath": "/7NNNXo0qG2SqH4JoG7GPvJ2hzes.jpg",
+  "posterPath": "/8ieI7l8sa6Uvhp5oZLdQA7B2Utz.jpg",
+  "releaseDate": "2021-09-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1011389b-e6d0-41eb-a9e7-3fa341dea8eb",
+      "title": "Alapítvány (1-2 évad)",
+      "subtitle": "1-2 évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Alapítvány (1-2 évad)",
+        "youtubeId": "w_O1XJ0SVwc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/w_O1XJ0SVwc/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1699389513000,
+        "participants": []
+      }
+    },
+    {
+      "id": "e84ec7b0-a23b-498c-aff7-0c698474b3d6",
+      "title": "Alapítvány (3. évad)",
+      "subtitle": "3. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Alapítvány (3. évad)",
+        "youtubeId": "g0S2igvAd5g",
+        "thumbnailUrl": "https://i.ytimg.com/vi/g0S2igvAd5g/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1758741717000,
+        "participants": []
+      }
+    }
+  ]
+}

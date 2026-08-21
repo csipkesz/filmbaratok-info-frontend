@@ -1,0 +1,45 @@
+{
+  "id": "d1b29b76-c306-4a3c-baad-353d1d57fbf8",
+  "title": "Szeretet (2011)",
+  "originalTitle": "Love",
+  "overview": "\"Miután Lee Miller űrhajós elveszti a kapcsolatot a Földel, kint ragad egyedül a hatalmas és magányos Nemzetközi Űrállomáson. Ahogy az idő telik, és az életfenntartó rendszerek gyengülnek, Lee azért küzd, hogy megtartsa a józan eszét- és pusztán azért, hogy életben maradjon. A világa egy klausztrofóbiás és magányos létezés, amíg át nem él egy furcsa felfedezést a hajó fedélzetén...Az Angels &amp; Airwaves erőteljes zenéje által hajtott \"LOVE\" feltárja az ember alapvető szükségletét a kapcsolatra, és a reményből merített végtelen erőt...A csúcsminőségű vizuális kaland, egy egyszerű mindennapi igazság, miszerint mindenkinek van egy elmesélni való története, ami mögött valami sokkal nagyobb áll.\"",
+  "backdropPath": "/17yZ1T3lNc8ud80723vFyXwI1Iy.jpg",
+  "posterPath": "/kuxJVmndkU27BQBzBQdq8jx7sVS.jpg",
+  "releaseDate": "2011-02-02T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a0d306df-459c-4da8-b577-25cae50481d5",
+      "title": "Szeretet (2011)",
+      "subtitle": null,
+      "timestampString": "04:00:00",
+      "timestampInSeconds": 14400,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #176",
+        "youtubeId": "IBv2w6mBz1s",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IBv2w6mBz1s/hqdefault.jpg",
+        "durationInMinutes": 267,
+        "releaseDate": 1570124501000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "04137923-e8c6-4229-a424-d27ba38bf4b9",
+  "title": "Ne nézz fel!",
+  "originalTitle": "Don't Look Up",
+  "overview": "Két csillagász médiaturnéra indul, hogy figyelmeztessék az emberiséget a Föld felé tartó, pusztító üstökösre. Az érdektelen világ válasza: „Ugyan már!”",
+  "backdropPath": "/nvxrQQspxmSblCYDtvDAbVFX8Jt.jpg",
+  "posterPath": "/3i7QQ2JDRerOdjuV3KZkWgtZqRE.jpg",
+  "releaseDate": "2021-12-08T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5bb3fde7-a708-4baf-b884-f1a34bd5eff5",
+      "title": "Ne nézz fel!",
+      "subtitle": null,
+      "timestampString": "02:31:00",
+      "timestampInSeconds": 9060,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #224",
+        "youtubeId": "Qi7D54DuANc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Qi7D54DuANc/hqdefault.jpg",
+        "durationInMinutes": 380,
+        "releaseDate": 1640954125000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

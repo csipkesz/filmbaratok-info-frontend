@@ -1,0 +1,45 @@
+{
+  "id": "8792d7fb-12f3-450e-acce-cf66b66f2eeb",
+  "title": "Sokkal több mint testőr",
+  "originalTitle": "The Hitman's Bodyguard",
+  "overview": "Nem könnyű a testőrök sorsa. Pláne, ha egy folyton rinyáló gyilkost kell pátyolgatniuk. A profi védelmi ügynököt egy nap szokatlan küldetéssel bízzák meg: halálos ellenségét, a világ egyik leghírhedtebb és legkeresettebb bérgyilkosát kell az oltalmazó szárnyai alá vennie. Bár eddig a stukker másik végéről szagolták a puskaport, az eltökélt testőrnek és a stiklikben járatos gengszternek ezúttal össze kell fognia, hogy - lehetőleg élve - eljussanak a hágai bíróságra.  A helyzetük elég meredek, a fél gengsztervilág a nyomukban jár, egy könyörtelen kelet-európai diktátor is a fejükre vadászik, és ha mindez nem lenne elég, még a bérgyilkos hírhedt felesége is feltűnik a színen. Ráadásul a robbanásokkal, autósüldözésekkel kikövezett véres európai \"vakáción\" a két fickónak egymás idiotizmusát is el kell viselnie... de persze a szakmájában legjobb testőrön és lökött védencén nem olyan egyszerű kifogni.",
+  "backdropPath": "/7KsqfXDECZMryX1Rv4RKsT7SIjQ.jpg",
+  "posterPath": "/z9B87G1JDtUTIWVJ7a8KG9Ik1XS.jpg",
+  "releaseDate": "2017-08-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6df5fe4b-b26d-4cd0-bc55-405f469a2a36",
+      "title": "Sokkal több mint testőr",
+      "subtitle": null,
+      "timestampString": "02:36:34",
+      "timestampInSeconds": 9394,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #128",
+        "youtubeId": "YoKRZAg1KR0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/YoKRZAg1KR0/hqdefault.jpg",
+        "durationInMinutes": 252,
+        "releaseDate": 1505410953000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

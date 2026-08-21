@@ -1,0 +1,45 @@
+{
+  "id": "ccd92cd0-8e25-4535-bdae-112f5e3703fb",
+  "title": "A kör",
+  "originalTitle": "リング",
+  "overview": "Reiko, a riporter unokahúga halála után hall először egy olyan videokazetta létezéséről, amelyet ha az ember megnéz, pontosan rá egy hétre meghal. Először nem hisz a szóbeszédnek, de amikor rájön arra, hogy unokahúga barátai, akikkel együtt nézte meg a lány a kazettát szintén meghaltak, nyomozni kezd. Ő is megnézi a videót, és közvetlenül utána furcsa dolgok történnek körülötte. Az idő rohamosan fogy, és Reiko volt férje segítségét kéri, hogy megfejtsék a gyilkos kazetta titkát.",
+  "backdropPath": "/sGhbO6muh1Fnpa7nkxYCfvmgWCo.jpg",
+  "posterPath": "/wSIG6rKfsffP0bOEnp5FmRJib1a.jpg",
+  "releaseDate": "1998-01-31T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "82370053-9565-4e0d-85fc-7a46db21eb74",
+      "title": "A kör [2017, SPOILERES]",
+      "subtitle": null,
+      "timestampString": "02:54:55",
+      "timestampInSeconds": 10495,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #221",
+        "youtubeId": "BjeQjRFvXcM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/BjeQjRFvXcM/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1635519858000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

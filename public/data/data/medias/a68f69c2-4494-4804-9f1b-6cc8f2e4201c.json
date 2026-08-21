@@ -1,0 +1,45 @@
+{
+  "id": "a68f69c2-4494-4804-9f1b-6cc8f2e4201c",
+  "title": "Téli szünet",
+  "originalTitle": "The Holdovers",
+  "overview": "Eljön a téli szünet, ám a jó nevű amerikai iskolából nem megy mindenki haza az ünnepekre. Tully, a jó eszű, ám különc és bajkeverő diák családi zűrök miatt. Mary, az iskola szakácsnője azért, mert egyetlen fiát gyászolja, aki nemrég esett el Vietnamban, és az iskola az utolsó hely, ahol együtt volt vele. Hunham, a történelemtanár pedig azért nem, mert az igazgató őt jelölte ki felvigyázónak az iskolában rekedtek mellé...",
+  "backdropPath": "/A99WMiz0ASpH9coOFrxSEuwTWx0.jpg",
+  "posterPath": "/inQIcvGDpLFp1F0DY1oC0DfSBMf.jpg",
+  "releaseDate": "2023-10-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9ed6f709-68e4-4407-b237-4bf57c896820",
+      "title": "Téli szünet",
+      "subtitle": null,
+      "timestampString": "01:02:10",
+      "timestampInSeconds": 3730,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #274",
+        "youtubeId": "U5btDyv5pPk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/U5btDyv5pPk/hqdefault.jpg",
+        "durationInMinutes": 285,
+        "releaseDate": 1710534459000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

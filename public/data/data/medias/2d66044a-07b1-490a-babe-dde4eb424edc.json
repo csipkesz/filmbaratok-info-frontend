@@ -1,0 +1,41 @@
+{
+  "id": "2d66044a-07b1-490a-babe-dde4eb424edc",
+  "title": "Körhinta",
+  "originalTitle": "Körhinta",
+  "overview": "Pataki elhatározza, hogy kilép a szövetkezetből, lányát Farkas Sándor egyéni gazdához adja és így egyesítik szomszédos földjeiket. Mari azonban Bíró Mátét, a szövetkezet tagját szereti. Egy vidám vásári mulatságon boldogan keringenek együtt a körhintán, amíg az apai szó vissza nem parancsolja a lányt. Egy lakodalmi mulatságon nyílt összecsapásra kerül sor a két rivális között. Mari bejelenti apjának, hogy Mátét szereti. Apja baltával támad rá, a lány elmenekül otthonról. Máté talál rá, hazaviszi és közli Patakival házassági szándékukat. Az apa kénytelen feladni a harcot.",
+  "backdropPath": "/tm2ZIN0hG6mw5TnTN49a50X3n4u.jpg",
+  "posterPath": "/6AkMfmWuh8GxK2YDw1NQX2UbQrW.jpg",
+  "releaseDate": "1956-02-02T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "345ef985-7a03-413c-a559-c365a7416079",
+      "title": "Körhinta",
+      "subtitle": null,
+      "timestampString": "02:50:33",
+      "timestampInSeconds": 10233,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #190",
+        "youtubeId": "w7oFnCSc3u4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/w7oFnCSc3u4/hqdefault.jpg",
+        "durationInMinutes": 188,
+        "releaseDate": 1590603790000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

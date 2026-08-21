@@ -1,0 +1,45 @@
+{
+  "id": "f1aad1ce-e723-4707-924f-c16af65fbb4b",
+  "title": "Lady Bird",
+  "originalTitle": "Lady Bird",
+  "overview": "Christine „Lady Bird” McPherson teljesen olyan, mint a szeretettől túláradó, megrögzötten makacs és határozott anyja, Marion, akivel örökös harcban áll. Marion nővér, és fáradhatatlanul dolgozik, hogy ellássa családját, miután Lady Bird apja elveszíti az állását. A kaliforniai Sacramentóban vagyunk 2002-ben, az amerikai gazdaság szeszélyesen változásai közepette játszódó történet érzékeny tükröt tart a kapcsolatoknak, melyek formálnak minket, a hiteknek, melyek meghatároznak minket, és a páratlan szépségű helynek, amelyet otthonnak nevezünk.",
+  "backdropPath": "/jwBiY1kE5089i2WpfS1MHDYp3VO.jpg",
+  "posterPath": "/vjob1Z1kNTWDKyJSaJuAgwNZjGm.jpg",
+  "releaseDate": "2017-09-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e4f98f21-cc88-404c-82dd-8eda95d9929b",
+      "title": "Lady Bird",
+      "subtitle": null,
+      "timestampString": "00:37:00",
+      "timestampInSeconds": 2220,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #139 (Oscar 2018)",
+        "youtubeId": "o7DTWukNCDc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/o7DTWukNCDc/hqdefault.jpg",
+        "durationInMinutes": 181,
+        "releaseDate": 1519882297000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "15a53a44-af10-4843-b447-7f9fbb845f56",
+            "name": "Szöllőskei Gábor"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

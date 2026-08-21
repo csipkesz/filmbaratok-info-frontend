@@ -1,0 +1,45 @@
+{
+  "id": "6614ff94-ef09-416d-81a1-62e4613db356",
+  "title": "Antisocial",
+  "originalTitle": "Antisocial",
+  "overview": "Öt egyetemista szilveszteri házibulira készül. Fogalmuk sincs róla, hogy odakint világszintű járvány üti fel a fejét. Mivel senki másra nem számíthatnak, elbarikádozzák magukat. Telefonjaik, laptopjaik és más elektromos kütyüik segítségével próbálnak meg rájönni a katasztrófa okára. Számos infót és videót átböngésznek a nyomozás közben, végignézik, amint kitör a káosz. Vajon biztonságban vannak? Kiben bízhatnak? A valóság lassan egy elmosódott paca csak körülöttük, amikor rájönnek, mi volt a vírus forrása, mitől betegszenek meg az emberei... és akkor már nincs visszaút.",
+  "backdropPath": "/jOcK7YjtvRMwIxGoIBt153wsKRy.jpg",
+  "posterPath": "/lo5Rxsmcad179eK4Xv30ya8AaJ1.jpg",
+  "releaseDate": "2013-07-31T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2cbcd30f-dab2-47a7-a078-11394e34b0b7",
+      "title": "Antisocial",
+      "subtitle": null,
+      "timestampString": "03:17:10",
+      "timestampInSeconds": 11830,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #88",
+        "youtubeId": "wEd9ZOCpPII",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wEd9ZOCpPII/hqdefault.jpg",
+        "durationInMinutes": 226,
+        "releaseDate": 1450458682000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

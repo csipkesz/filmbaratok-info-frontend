@@ -1,0 +1,41 @@
+{
+  "id": "a9755046-8c56-4b69-8859-e3ccda474ffe",
+  "title": "Az amatőr",
+  "originalTitle": "The Amateur",
+  "overview": "Charlie Heller briliáns elméjű, ám meglehetősen zárkózott kódfejtő, aki a CIA alagsori irodái egyikében dolgozik a langley-i központban. Élete fenekestül felfordul, amikor feleségét megölik egy londoni terrortámadásban. Midőn azt látja, hogy felettesei tétlenek maradnak az ügyben, Heller a saját kezébe veszi a dolgokat; veszélyes magánküldetésre indul a fél világon át, hogy a felelősök nyomára akadjon. Bosszúja végrehajtásában intelligenciája lesz a legfőbb fegyvere.",
+  "backdropPath": "/aD7FXrm2GErTmzrIFBntPyhAqS9.jpg",
+  "posterPath": "/cvZ0YwcD28eyw1b3tKg8373CRVZ.jpg",
+  "releaseDate": "2025-04-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9c72a377-4cf7-4228-90d4-5719fcd6a547",
+      "title": "Az amatőr",
+      "subtitle": null,
+      "timestampString": "01:30:15",
+      "timestampInSeconds": 5415,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #302",
+        "youtubeId": "3K4xdZiHI_w",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3K4xdZiHI_w/hqdefault.jpg",
+        "durationInMinutes": 235,
+        "releaseDate": 1747414746000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

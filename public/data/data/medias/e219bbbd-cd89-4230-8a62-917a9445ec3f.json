@@ -1,0 +1,28 @@
+{
+  "id": "e219bbbd-cd89-4230-8a62-917a9445ec3f",
+  "title": "Cinema, mon amour",
+  "originalTitle": "Cinema, Mon Amour",
+  "overview": "",
+  "backdropPath": "/zo33LwC4z2cC4r7A7PfppL39d21.jpg",
+  "posterPath": "/A2Y1r6pq5SXoYf2hDPU7FDV3tUe.jpg",
+  "releaseDate": "2016-10-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "add08b00-c27d-4303-9559-c9a324c84ded",
+      "title": "Cinema, mon amour",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Cinema, mon amour",
+        "youtubeId": "-Ik0LKcE97Q",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-Ik0LKcE97Q/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1553449806000,
+        "participants": []
+      }
+    }
+  ]
+}

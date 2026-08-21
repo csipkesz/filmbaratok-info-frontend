@@ -1,0 +1,41 @@
+{
+  "id": "e51ad682-002f-4f9b-9590-d354f98e0aed",
+  "title": "Átlagemberek",
+  "originalTitle": "Ordinary People",
+  "overview": "Coni nehezen épül fel öngyilkossági kísérlete után. Anyja nem tud neki megbocsátani, apjával alig beszélget. Egyedül dr. Berger az, akit bizalmába fogad és rendszeresen meglátogat. Ám mindig tele van feszültséggel. Nem tudja feldolgozni bátyja halálát. Magát okolja a hajóbalesetért, s hogy ő maradt életben. Jeanniet az énekkarban ismeri meg. Ő érte képes újra talpra állni és másképpen értékelni a világot és saját magát. Ez azonban azzal jár, hogy keményen meg kell mondania véleményét az anyjának.",
+  "backdropPath": "/81LV5HJ9nUXGCMhrJpFNjwvbEZl.jpg",
+  "posterPath": "/sRF5w3nhj2ov5hTNe32NKZFCcCB.jpg",
+  "releaseDate": "1980-09-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f5331344-277e-429d-bb7c-040a557da4bb",
+      "title": "Átlagemberek",
+      "subtitle": null,
+      "timestampString": "02:40:13",
+      "timestampInSeconds": 9613,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #281",
+        "youtubeId": "ov4eiYi-ekw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ov4eiYi-ekw/hqdefault.jpg",
+        "durationInMinutes": 248,
+        "releaseDate": 1719661725000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "d510be88-9790-4712-89b7-ce17c00b9db9",
+  "title": "A zátony",
+  "originalTitle": "The Shallows",
+  "overview": "Csak az óceán és egy szörfdeszka… Nancy imád magányosan siklani a hullámokon. Ám ezúttal hamar rá kell jönnie, hogy nincs teljesen egyedül: egy cápa eredt a nyomába. Magára marad egy bóján. A part alig húsz méternyire van, mégis elérhetetlen: a cápa ott köröz a bója körül, és támadni akar. Ha életben akar maradni, a lánynak le kell győznie a félelmét… és használnia kell az eszét.",
+  "backdropPath": "/89ZSaf9Ofm7oDounnCOu4ktGI9e.jpg",
+  "posterPath": "/kLzXgdt8xhp8NBtI8LXwo3bPcAY.jpg",
+  "releaseDate": "2016-06-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "355d03f6-c4f2-486c-bad0-497076826378",
+      "title": "A zátony",
+      "subtitle": null,
+      "timestampString": "01:54:38",
+      "timestampInSeconds": 6878,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #105",
+        "youtubeId": "73Hk03Cs0mQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/73Hk03Cs0mQ/hqdefault.jpg",
+        "durationInMinutes": 214,
+        "releaseDate": 1471773217000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

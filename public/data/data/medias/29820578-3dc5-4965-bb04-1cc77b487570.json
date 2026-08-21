@@ -1,0 +1,45 @@
+{
+  "id": "29820578-3dc5-4965-bb04-1cc77b487570",
+  "title": "Skinamarink",
+  "originalTitle": "Skinamarink",
+  "overview": "Két gyerek arra ébred az éjszaka közepén, hogy édesapjuknak nyomaveszett és az összes ablak és ajtó eltűnt az otthonukból.",
+  "backdropPath": "/8Y0RxH5cXiKV8C9Wyj6JkW9VYaG.jpg",
+  "posterPath": "/a3UJtH5vB9ghQWKwdUqyfTtRLm6.jpg",
+  "releaseDate": "2023-01-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e07736a0-05c4-4cde-a20f-00c6b6d0df6a",
+      "title": "Skinamarink",
+      "subtitle": null,
+      "timestampString": "03:23:25",
+      "timestampInSeconds": 12205,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #257",
+        "youtubeId": "Jm_IXtsLHnw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Jm_IXtsLHnw/hqdefault.jpg",
+        "durationInMinutes": 280,
+        "releaseDate": 1687629613000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

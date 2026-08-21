@@ -1,0 +1,41 @@
+{
+  "id": "87cccf9e-b6cd-4641-9d87-1fd4e34cdaea",
+  "title": "Virunga",
+  "originalTitle": "Virunga",
+  "overview": "",
+  "backdropPath": "/cLjb7E4I1pL99KLquqdjxTUrCnu.jpg",
+  "posterPath": "/7ULqkiqpxWfQxNHRq5PeZjJQ3f6.jpg",
+  "releaseDate": "2014-11-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "040a783b-26ce-48cb-b066-399c84c91189",
+      "title": "Virunga",
+      "subtitle": null,
+      "timestampString": "01:42:30",
+      "timestampInSeconds": 6150,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #121",
+        "youtubeId": "-73qLSZm328",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-73qLSZm328/hqdefault.jpg",
+        "durationInMinutes": 130,
+        "releaseDate": 1494559801000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

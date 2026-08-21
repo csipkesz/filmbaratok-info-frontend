@@ -1,0 +1,41 @@
+{
+  "id": "18e5805e-fa1f-4a0e-bbf8-1f60a805f60b",
+  "title": "Jobb, ha hallgatsz",
+  "originalTitle": "Kill the Messenger",
+  "overview": "Egy újságíró egy sztori nyomába eredve rájön, hogy a CIA keze is benne van egy kokainszállítmányban, amelynek célja, hogy egy nicaraguai lázadó sereget felfegyverezzen. Beleássa magát a történetbe, és nyilvánosságra hozza a bizonyítékokat, ám a CIA és néhány konkurens újságíró támadást intéz ellene és családja ellen egyaránt.",
+  "backdropPath": "/hYVAvYJXE4taTIh2y6F5mGJWfPm.jpg",
+  "posterPath": "/1znaDg3BnFlZP8FOjaaBJ39Yqk.jpg",
+  "releaseDate": "2014-10-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ebe63a7c-373f-4ec6-9f92-c81924eaf0b4",
+      "title": "Jobb, ha hallgatsz",
+      "subtitle": null,
+      "timestampString": "01:19:08",
+      "timestampInSeconds": 4748,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #59",
+        "youtubeId": "xa1Ymms2_9c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/xa1Ymms2_9c/hqdefault.jpg",
+        "durationInMinutes": 189,
+        "releaseDate": 1413978295000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

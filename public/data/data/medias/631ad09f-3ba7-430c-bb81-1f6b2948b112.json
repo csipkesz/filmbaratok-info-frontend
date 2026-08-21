@@ -1,0 +1,41 @@
+{
+  "id": "631ad09f-3ba7-430c-bb81-1f6b2948b112",
+  "title": "Lizzie Borden fejszét fogott",
+  "originalTitle": "Lizzie Borden Took an Ax",
+  "overview": "1892 egyik forró nyári napján Lizzie Borden hazatér a massachusetts-i Fall Riverbe az apjához, a mostohaanyjához és nővéréhez, ám vérbefagyva találja a szüleit. A rendőrség gyorsan kikérdez több gyanúsítottat a városban, de a bizonyítékok Borden legkisebb lányára mutatnak. A vasárnapi iskolában tanító nő lesz az első számú gyanúsított. Lizzie ügyvédje, Andrew Jennings szerint elképzelhetetlen, hogy nő képes lenne elkövetni ilyen szörnyűséget, brutálisan legyilkolni a családját egy fejszével.",
+  "backdropPath": "/xhVzbZ1iukjVPMBW0lpIwukZGTw.jpg",
+  "posterPath": "/4uFVWUQsKPVSA11QXh4X8pSSKGC.jpg",
+  "releaseDate": "2014-01-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e2cf3fde-47f9-4dd8-bd92-60d8b1e643e1",
+      "title": "Lizzie Borden fejszét fogott",
+      "subtitle": null,
+      "timestampString": "01:59:35",
+      "timestampInSeconds": 7175,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #106",
+        "youtubeId": "HldVi4TfJ9Y",
+        "thumbnailUrl": "https://i.ytimg.com/vi/HldVi4TfJ9Y/hqdefault.jpg",
+        "durationInMinutes": 146,
+        "releaseDate": 1473495633000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

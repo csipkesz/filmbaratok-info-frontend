@@ -1,0 +1,41 @@
+{
+  "id": "e8af98cc-0b13-4c5b-b7d3-c12cf6b859e4",
+  "title": "Turbo Kid",
+  "originalTitle": "Turbo Kid",
+  "overview": "Egy poszt-apokaliptikus pusztaságot, képregény rajongó felveszi a személyiséget a kedvenc hőse, hogy megmentse a lelkes barátja és harcolni egy zsarnoki Overlord elen.",
+  "backdropPath": "/21fNILK2g4tzsY6IHWXc7Plujne.jpg",
+  "posterPath": "/ArUqADkwycYtNVuXSoSXVrdJ8iJ.jpg",
+  "releaseDate": "2015-08-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8f59d7a1-c80d-46e2-8130-04c9a3ed842c",
+      "title": "Turbo Kid",
+      "subtitle": null,
+      "timestampString": "01:21:20",
+      "timestampInSeconds": 4880,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #112",
+        "youtubeId": "M7gzW5_pVZk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/M7gzW5_pVZk/hqdefault.jpg",
+        "durationInMinutes": 160,
+        "releaseDate": 1481731219000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

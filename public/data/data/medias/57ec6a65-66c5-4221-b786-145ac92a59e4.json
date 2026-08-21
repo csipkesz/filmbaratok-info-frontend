@@ -1,0 +1,49 @@
+{
+  "id": "57ec6a65-66c5-4221-b786-145ac92a59e4",
+  "title": "Dungeons and Dragons: Betyárbecsület",
+  "originalTitle": "Dungeons & Dragons: Honor Among Thieves",
+  "overview": "Egy sármos tolvaj és különc kalandorokból álló bandája nagyszabású akciót terveznek egy elveszett ereklye megszerzéséért, de a dolgok veszélyesen kisiklanak, amikor a rossz emberekkel húznak ujjat…",
+  "backdropPath": "/AdBXP8e6K3FYdDrMx3Wr6WZqCYF.jpg",
+  "posterPath": "/veD7MOz89dekHN0XuX5GlRbK7KJ.jpg",
+  "releaseDate": "2023-03-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fdaad754-7a71-434c-9b29-d5497e9af740",
+      "title": "Dungeons and Dragons: Betyárbecsület",
+      "subtitle": null,
+      "timestampString": "02:54:35",
+      "timestampInSeconds": 10475,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #253",
+        "youtubeId": "qh8K0plyKrk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/qh8K0plyKrk/hqdefault.jpg",
+        "durationInMinutes": 284,
+        "releaseDate": 1682442009000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "73c5b9f8-a34c-4d0b-8f32-16365665683a",
+            "name": "ChatGPT"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

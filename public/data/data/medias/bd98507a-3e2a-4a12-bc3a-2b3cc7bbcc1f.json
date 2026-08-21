@@ -1,0 +1,41 @@
+{
+  "id": "bd98507a-3e2a-4a12-bc3a-2b3cc7bbcc1f",
+  "title": "The lost bus",
+  "originalTitle": "The Lost Bus",
+  "overview": "Egy elszánt apa mindent kockára tesz, hogy egy elhivatott tanárnőt és a diákjait megmentse a tomboló erdőtűztől.",
+  "backdropPath": "/wofTDrrNvySkjrv2v34jqpPZAP6.jpg",
+  "posterPath": "/uk509WOu1Ol6KHGYYcVeRf8PpqH.jpg",
+  "releaseDate": "2025-09-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "cbb1fda6-df4a-41e1-9bb0-af99cb93ccbe",
+      "title": "The lost bus",
+      "subtitle": null,
+      "timestampString": "02:22:45",
+      "timestampInSeconds": 8565,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #312",
+        "youtubeId": "D9M4DcSbjik",
+        "thumbnailUrl": "https://i.ytimg.com/vi/D9M4DcSbjik/hqdefault.jpg",
+        "durationInMinutes": 187,
+        "releaseDate": 1760711928000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "14621d99-5349-418e-b8b9-75bbbf98bfc5",
+            "name": "Krisztián"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

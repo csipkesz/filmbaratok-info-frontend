@@ -1,0 +1,45 @@
+{
+  "id": "0b4646ff-846a-40fc-8001-a9e87c337a21",
+  "title": "Madame Web",
+  "originalTitle": "Madame Web",
+  "overview": "Így születik egy hősnő. Cassandra Webb a hétköznapok hőse. Mentőautót vezet New Yorkban: az életveszély és az életmentés számára mindennapos. Meg az, hogy folyton rohan, kapkod, az idővel harcol. Azután történik valami. Ami még az ő, mindig váratlan fordulatokat hozó életében is egészen új. És attól kezdve nem ért semmit: Talán gyorsabb lett, mint bármelyik embertársa? Talán a jövőbe lát? Talán egy földöntúli képességekkel rendelkező szuperember vadászik rá Összekavarodik a világa, úgy érzi, darabokra tört az univerzum. Még szerencse, hogy összeakad néhány vagány, kemény New York-i csajjal, és miközben megpróbálnak életben maradni, együtt deríti ki, hogy mi ez az egész.",
+  "backdropPath": "/pwGmXVKUgKN13psUjlhC9zBcq1o.jpg",
+  "posterPath": "/wbN5572tgWpL8EEHMiio9ExCcN7.jpg",
+  "releaseDate": "2024-02-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "447828e7-88eb-40eb-856a-db1e1dfdd638",
+      "title": "Madame Web [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "00:59:55",
+      "timestampInSeconds": 3595,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #272",
+        "youtubeId": "KpeK1-FjITs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/KpeK1-FjITs/hqdefault.jpg",
+        "durationInMinutes": 253,
+        "releaseDate": 1708456799000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

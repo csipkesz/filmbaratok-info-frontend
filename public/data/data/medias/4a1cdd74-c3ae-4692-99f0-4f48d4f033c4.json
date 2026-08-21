@@ -1,0 +1,45 @@
+{
+  "id": "4a1cdd74-c3ae-4692-99f0-4f48d4f033c4",
+  "title": "Az odú",
+  "originalTitle": "Le Trou",
+  "overview": "Négy rab új lakótársat kap pár négyzetméteres cellájába és mivel épp szökést terveznek, kénytelenek megbízni benne. A terv roppant egyszerű: feltörik a börtön padlóját, miután a parkettát óvatosan eltávolították, leásnak az alagsorig, ahol aztán a szennyvíz csatornarendszerén keresztül meglóghatnak. Az egyedüli komoly akadály egy betonfal, ami olyan erős, hogy úgy döntenek, hogy pár éjszakát felölelő munkával inkább körbeássák azt. Vajon sikerül mindezt lebukás nélkül végrehajtani? Vajon jól tették, hogy megbíztak az új jövevényben?",
+  "backdropPath": "/f72GEQF2lKsdmEULSI9bWCbQylH.jpg",
+  "posterPath": "/2dnYbBXDGzlGtNwnX8nOqHvyMRr.jpg",
+  "releaseDate": "1960-03-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0ac00908-17a3-4dbb-9bc5-5abc68836f06",
+      "title": "Az odú",
+      "subtitle": null,
+      "timestampString": "02:19:51",
+      "timestampInSeconds": 8391,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #268",
+        "youtubeId": "9TmBeKJi0og",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9TmBeKJi0og/hqdefault.jpg",
+        "durationInMinutes": 211,
+        "releaseDate": 1702918793000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

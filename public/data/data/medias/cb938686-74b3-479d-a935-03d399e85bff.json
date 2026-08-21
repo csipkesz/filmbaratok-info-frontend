@@ -1,0 +1,41 @@
+{
+  "id": "cb938686-74b3-479d-a935-03d399e85bff",
+  "title": "1945",
+  "originalTitle": "1945",
+  "overview": "1945 augusztus 12, 11 óra. Titokzatos szállítmányukkal két fekete ruhás, fekete kalapos idegen jelenik meg egy magyar falu vasútállomásán. A falu népe az orosz megszállás árnyékában a jegyző fiának esküvőjére készül, de a menyasszony korábbi vőlegénye is hazatér a hadifogságból. Néhány óra alatt minden megváltozik. Titkok, bűnök, számvetés, szerelem, árulás, szembesítés...",
+  "backdropPath": "/oF6YBWwjqVl5KAmVU09hu7GUA0e.jpg",
+  "posterPath": "/meuykFNb80ys6K0CZ9y0ZPZxCaW.jpg",
+  "releaseDate": "2017-04-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b78014de-a29c-4007-8db1-417b7db5eb76",
+      "title": "1945",
+      "subtitle": null,
+      "timestampString": "00:44:10",
+      "timestampInSeconds": 2650,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #120",
+        "youtubeId": "-3teFOfAauw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-3teFOfAauw/hqdefault.jpg",
+        "durationInMinutes": 251,
+        "releaseDate": 1493646027000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

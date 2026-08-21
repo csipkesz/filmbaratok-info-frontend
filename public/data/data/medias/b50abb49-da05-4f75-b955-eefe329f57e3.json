@@ -1,0 +1,45 @@
+{
+  "id": "b50abb49-da05-4f75-b955-eefe329f57e3",
+  "title": "Venom 2",
+  "originalTitle": "Venomous",
+  "overview": "A hadügyminisztérium kutatási és fejlesztési intézetének hüllőkkel és kígyókkal foglalkozó részlegét felrobbantják 1990 novemberében. Senki nem gondol rá, hogy a csörgőkígyó egyik fajtája túléli a robbanást. Kis idő elteltével a kígyók elszaporodnak és tömegesen a felszínre törnek. Akiket megmarnak, azok belehalnak és az emberek egymást is megfertőzhetik. A kisvárost karantén alá vonják. Dr. David megszerzi az ellenszérumot felesége Catherine segítségével, így sikerül felvenni a harcot a gyilkos állatokkal.",
+  "backdropPath": "/j7vYJFBBr5KhaagkkeS43OzCkir.jpg",
+  "posterPath": "/1WDmq8CvcEaR0OjWtZnSiJB45va.jpg",
+  "releaseDate": "2002-01-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6bf9d1e5-0918-4c02-89d6-2d31ea77d635",
+      "title": "Venom 2",
+      "subtitle": null,
+      "timestampString": "01:36:14",
+      "timestampInSeconds": 5774,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #221",
+        "youtubeId": "BjeQjRFvXcM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/BjeQjRFvXcM/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1635519858000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

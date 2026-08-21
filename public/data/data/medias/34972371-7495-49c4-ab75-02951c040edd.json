@@ -1,0 +1,41 @@
+{
+  "id": "34972371-7495-49c4-ab75-02951c040edd",
+  "title": "Last Vegas",
+  "originalTitle": "Last Vegas",
+  "overview": "Billy, Paddy, Archie és Sam gyerekkoruk óta a legjobb barátok. Amikor a hatvanon túli csapat örök agglegénye, Billy végre beadja a derekát és megkéri harmincas évei elején járó fiatal barátnője kezét, a négyes fogat Las Vegas felé veszi az irányt, hogy egy világra szóló partyval búcsúztassák el Billyt eddigi csajozós életétől.",
+  "backdropPath": "/aDgkqsFurAuN5hBQIJZ6bbV5lS7.jpg",
+  "posterPath": "/v4UUoJf1mpHMNpJTrPb6I7x8M8p.jpg",
+  "releaseDate": "2013-10-31T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c0f43d96-d89a-46a6-bc19-5ca5507244ef",
+      "title": "Last Vegas",
+      "subtitle": null,
+      "timestampString": "01:39:55",
+      "timestampInSeconds": 5995,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #49",
+        "youtubeId": "KInB1pvzVo0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/KInB1pvzVo0/hqdefault.jpg",
+        "durationInMinutes": 177,
+        "releaseDate": 1397986559000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "cb5d0da6-4225-4ba6-92d0-d78acde38034",
+  "title": "A gyűjtő",
+  "originalTitle": "The Collector",
+  "overview": "Morgan Pym idősebb, mint ahogy kinéz. Nürnbergben született 1326-ban, és egy kolostorban nőtt fel szerzetesként. Tudományt és orvoslást (medicinát) tanult, és Isten szolgálatának szentelte az életét. Haldokló szerelmének látványa arra ösztönözte, hogy alkut kössön az ördöggel: 10 boldog év Katrinával a halhatatlan lelkéért cserébe. A szerencse és szeretet évtizedének végén eljött a számadás napja, amikor Katrina ismét beteg lett, és pestisben meghalt. Morgan szintén megfertőződött a halálos kórral, ám amikor az ördög eljött a lelkéért, Morgan csellel rávette, hogy kössenek egy új alkut. Az örök kárhozat helyett az egyik lélekvadásszá vált. Hat évszázadon keresztül Morgan teszi a dolgát: megtalálja az embereket, és figyelmezteti őket, hogy 48 órájuk van hátra a megállapodásukból, és a lelkük pokolra jut. Ám egy napon találkozik egy fiatal lánnyal, Mayával, aki erősen emlékezteti őt Katrinára, és megváltoztatja alkuját. Ezentúl segíteni fog a \"klienseinek\", hogy megtalálják a megváltásukat, és reméli, hogy egy napon ő is megleli a sajátját...",
+  "backdropPath": "/2bV1Domi9QdTQwKyS4fnar1pbgF.jpg",
+  "posterPath": "/2RFovgvyoV7DmI7nPD6OTW9lWHz.jpg",
+  "releaseDate": "2004-06-02T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "76f524af-48a8-4ea5-91af-77e03d008bb2",
+      "title": "A gyűjtő",
+      "subtitle": null,
+      "timestampString": "02:59:20",
+      "timestampInSeconds": 10760,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #213",
+        "youtubeId": "JtzuuNOeIxc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JtzuuNOeIxc/hqdefault.jpg",
+        "durationInMinutes": 200,
+        "releaseDate": 1624372656000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

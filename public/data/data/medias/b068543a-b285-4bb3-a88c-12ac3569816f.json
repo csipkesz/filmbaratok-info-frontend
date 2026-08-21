@@ -1,0 +1,41 @@
+{
+  "id": "b068543a-b285-4bb3-a88c-12ac3569816f",
+  "title": "A bűn éjszakája",
+  "originalTitle": "The Purge",
+  "overview": "Ha lenne egy éjszaka minden évben, amikor bármilyen bűnt elkövethetsz mindenféle következmény nélkül, mit tennél? Ez az új thriller egy család sorsát követi nyomon egy éjszaka folyamán, négy embert, akikről kiderül, meddig képesek elmenni, hogy megvédjék magukat, amikor a gonosz külvilág betör az otthonukba.",
+  "backdropPath": "/9J3HHP3kQ5ZStyirJyWPWtvvrHY.jpg",
+  "posterPath": "/nb0DONwVUynXfQumAmwkGdapSKL.jpg",
+  "releaseDate": "2013-05-31T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ec46833d-db5b-4565-a676-432fd2bf2bb1",
+      "title": "A bűn éjszakája",
+      "subtitle": null,
+      "timestampString": "00:40:41",
+      "timestampInSeconds": 2441,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #35",
+        "youtubeId": "iZP3HzNbpJk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/iZP3HzNbpJk/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1378351959000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

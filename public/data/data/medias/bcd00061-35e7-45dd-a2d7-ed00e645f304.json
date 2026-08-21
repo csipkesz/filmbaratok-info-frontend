@@ -1,0 +1,41 @@
+{
+  "id": "bcd00061-35e7-45dd-a2d7-ed00e645f304",
+  "title": "Joe",
+  "originalTitle": "Joe",
+  "overview": "Joe egy favágó brigád vezetője, aki sittes múlttal, de amennyire tőle telik, tisztességesen és keményen próbál boldogulni, sőt, még bizonyos határig embereket is képes közel engedni magához. Gary egy családnak nem nevezhető rettenetben él, két alkoholista, munkanélküli ronccsal, akik a szülei, és akik közül az apja folyamatosan veri, és elszedi tőle minden pénzét. A fiú néma kishúga és anyja miatt nem lép le, hanem munkásnak jelentkezik Joe-nál és ezzel mindkettőjük sorsát megváltoztatja.",
+  "backdropPath": "/ql13iTyPHlx2rErb2gPnB4pJ3Mz.jpg",
+  "posterPath": "/sKnKzmKG1bD9pXnZmLlZGw9D8BG.jpg",
+  "releaseDate": "2014-04-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e745205b-57c5-4657-b034-8636b487ebdb",
+      "title": "Joe",
+      "subtitle": null,
+      "timestampString": "01:04:13",
+      "timestampInSeconds": 3853,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #49",
+        "youtubeId": "KInB1pvzVo0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/KInB1pvzVo0/hqdefault.jpg",
+        "durationInMinutes": 177,
+        "releaseDate": 1397986559000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

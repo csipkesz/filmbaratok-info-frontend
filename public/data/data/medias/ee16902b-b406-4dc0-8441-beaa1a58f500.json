@@ -1,0 +1,41 @@
+{
+  "id": "ee16902b-b406-4dc0-8441-beaa1a58f500",
+  "title": "Oculus",
+  "originalTitle": "Oculus",
+  "overview": "Tíz évvel ezelőtt a Russell család két gyerekének, Timnek és Kaylie-nek az élete gyökeresen megváltozott. a srácot elítélték szüleinek brutális meggyilkolása miatt. Tim a 20 éveiben jár, végre kiengedik a rácsok mögül és egyetlen vágya, hogy normális életet élhessen, de Kaylie-t továbbra is azon szörnyű este emlékei kísértül. Édesanyjuk és édesapjuk haláláért az egykori házukban található antik tükörből előbújó gonosz természetfeletti erő volt a felelős. Kicsit utánajárva kiderül, hogy a tükör már az eltelt évszázad során minden tulajának gondot okozott, halottakat hagyott maga mögött.",
+  "backdropPath": "/o0EQmMhHA6Gpf7MS7KxPafWqTPp.jpg",
+  "posterPath": "/5Jf4tpUQzGQHIMcFxwCuKQbXMLJ.jpg",
+  "releaseDate": "2014-04-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "efb4bf04-dbed-4f55-bba3-37af1b2fa2d7",
+      "title": "Oculus",
+      "subtitle": null,
+      "timestampString": "02:17:22",
+      "timestampInSeconds": 8242,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #56",
+        "youtubeId": "IGq19Ebu3DU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IGq19Ebu3DU/hqdefault.jpg",
+        "durationInMinutes": 199,
+        "releaseDate": 1409327568000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "7a9ac5f4-e141-4a2a-9450-9669cb72b91f",
+  "title": "Szólíts a neveden",
+  "originalTitle": "Call Me by Your Name",
+  "overview": "1983-ban a tizenhét éves Elio Észak-Olaszországba érkezik a nyári szünetre, ahol megismerkedik Oliver-rel. A férfi és a fiatal srác sok közös élményt osztanak meg, míg végül romantikus kapcsolat alakul ki közöttük.",
+  "backdropPath": "/4Xh2a1WeTp6b8Ksvug0pAMbX3dT.jpg",
+  "posterPath": "/xsBSuDEMKGoWLsaRy2Rcq2TpNdx.jpg",
+  "releaseDate": "2017-10-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "eb841337-65b7-4416-a821-69484cc49cac",
+      "title": "Szólíts a neveden",
+      "subtitle": null,
+      "timestampString": "01:06:23",
+      "timestampInSeconds": 3983,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #139 (Oscar 2018)",
+        "youtubeId": "o7DTWukNCDc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/o7DTWukNCDc/hqdefault.jpg",
+        "durationInMinutes": 181,
+        "releaseDate": 1519882297000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "15a53a44-af10-4843-b447-7f9fbb845f56",
+            "name": "Szöllőskei Gábor"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

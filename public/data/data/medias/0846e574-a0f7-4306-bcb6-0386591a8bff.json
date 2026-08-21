@@ -1,0 +1,45 @@
+{
+  "id": "0846e574-a0f7-4306-bcb6-0386591a8bff",
+  "title": "The outfit",
+  "originalTitle": "The Outfit",
+  "overview": "Leonard brit bevándorló és Chicagóban van egy ruhaszabászata. A sokat látott férfi az egyik legjobb a szakmájában, így a helyi gengszterek is hozzá járnak, ha éppen új kabátra, zakóra lenne szükségük. Részletkérdés, hogy ilyen-olyan piszkos ügyleteket is bonyolítanak az üzleten belül, de Leonard alkalmazkodik és szép csendben meghúzza magát. Egy este a maffiafőnök fia lőtt sebbel támolyog be Leonard boltjába, s ettől kezdve mindegyikük élete fenekestül felfordul.",
+  "backdropPath": "/jjXnYpRQMqzylAmYqKL7VFa3l9w.jpg",
+  "posterPath": "/k5bjcyjyXw96pyUotTaVic1pO4P.jpg",
+  "releaseDate": "2022-02-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7fc6a5b3-3ff3-4bd8-8618-b22acf88bea9",
+      "title": "The outfit",
+      "subtitle": null,
+      "timestampString": "02:22:22",
+      "timestampInSeconds": 8542,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #245",
+        "youtubeId": "thnBmMbVpOo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/thnBmMbVpOo/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1671033623000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

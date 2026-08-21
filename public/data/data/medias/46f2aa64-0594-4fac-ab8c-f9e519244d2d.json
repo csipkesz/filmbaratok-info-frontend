@@ -1,0 +1,41 @@
+{
+  "id": "46f2aa64-0594-4fac-ab8c-f9e519244d2d",
+  "title": "A parfüm: Egy gyilkos története",
+  "originalTitle": "Perfume: The Story of a Murderer",
+  "overview": "1766-ban, a franciaországi Grasse városban a parfűmkészítő Jean-Baptiste Grenouille-t halálra ítélték tizenhárom nő meggyilkolásáért. Az ifjú huszonkét évvel korábban, a halpiacon született. Árvaházban nő fel, más mint a többi gyerek, három évesen se járni, se beszélni nem tud, a szagokon keresztül próbálja megismerni a világot. Felnőve cserzőüzemben dolgozik, így jut el Párizsba. A városban magával ragadja egy lány gyönyörűséges illata. Véletlenül megöli, majd próbálja magába szívni elhalványuló illatát, Grenouille minden vágya, hogy az illatot újból érezhesse.",
+  "backdropPath": "/kvdy0Ijjo2r9qsnWV4Dzx07qwnc.jpg",
+  "posterPath": "/qLITz0dB5LaDCuN4psBAWEj3h2A.jpg",
+  "releaseDate": "2006-09-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "74baa770-89c7-407b-8eb3-1197ff3a7c34",
+      "title": "A parfüm: Egy gyilkos története [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "02:47:40",
+      "timestampInSeconds": 10060,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #319",
+        "youtubeId": "WElfYZiSFrk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/WElfYZiSFrk/hqdefault.jpg",
+        "durationInMinutes": 210,
+        "releaseDate": 1769866830000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

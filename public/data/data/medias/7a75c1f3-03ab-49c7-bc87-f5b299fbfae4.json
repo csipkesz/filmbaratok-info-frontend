@@ -1,0 +1,41 @@
+{
+  "id": "7a75c1f3-03ab-49c7-bc87-f5b299fbfae4",
+  "title": "Többesélyes szerelem",
+  "originalTitle": "Materialists",
+  "overview": "Egy rutinos házasságközvetítő végre saját életében is megtalálja a tökéletes partnert: minden egyezik, minden „pipa” a helyén. Csakhogy épp ekkor bukkan fel a régi szerelme – aki bár semmiben sem felel meg az elvárásoknak, mégis megmagyarázhatatlanul vonzó. A másik férfi gazdag, kifinomult, és biztonságot kínál – a döntés mégsem egyszerű. Most végre nem másoknak kell tanácsot adni... hanem saját magának.",
+  "backdropPath": "/lqwwGkwJHtz9QgKtz4zeY19YgDg.jpg",
+  "posterPath": "/E4lNmkdS38xMhpu3AOrhbiUWpQ.jpg",
+  "releaseDate": "2025-06-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6a14fdb7-eba8-458c-ab7a-7b69adefae35",
+      "title": "Többesélyes szerelem",
+      "subtitle": null,
+      "timestampString": "01:18:53",
+      "timestampInSeconds": 4733,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #309",
+        "youtubeId": "yH7NkqL8uXA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/yH7NkqL8uXA/hqdefault.jpg",
+        "durationInMinutes": 148,
+        "releaseDate": 1756490346000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

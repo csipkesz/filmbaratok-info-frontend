@@ -1,0 +1,45 @@
+{
+  "id": "58dee811-be6e-45b5-a7c7-4e83ad6a8c2c",
+  "title": "X-Men : Apokalipszis",
+  "originalTitle": "X-Men: Apocalypse",
+  "overview": "X professzor, Magneto és Mistique még mindig kerülik egymást. De a sors újra úgy akarja, hogy útjaik keresztezzék egymást.  Apokalipszis felébred a sírjában, körülnéz a világban, és úgy dönt: hirtelen evolúciós ugrással alakítja át a '80-as éveket. Elindul, hogy összegyűjtse négy mutáns segédjét, a négy lovast: egyiküket Kairó utcáin, a másikat egy berlini pankrátorklubban, a harmadikat valahol Kelet-Európa mélyén találja meg. A negyedik lovas maga Magneto, aki Lengyelországban bujkálva, egy szeretett nő oldalán próbált normális életet élni.  X professzor iskolája sok tehetséges fiatal mutánst képez ki. Ám az átmeneti nyugalom véget ér, és senki sem maradhat semleges: hatalmas háború várható.",
+  "backdropPath": "/sTQNRqLbfCXolrb5CizAW1dj528.jpg",
+  "posterPath": "/k9sIh3PdLrcVn2oMCE0haMAtxea.jpg",
+  "releaseDate": "2016-05-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6f9b2e9d-48db-46f3-80cb-b8771adc7be6",
+      "title": "X-Men : Apokalipszis",
+      "subtitle": null,
+      "timestampString": "00:39:38",
+      "timestampInSeconds": 2378,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #99",
+        "youtubeId": "i9LKNH-nFAY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/i9LKNH-nFAY/hqdefault.jpg",
+        "durationInMinutes": 105,
+        "releaseDate": 1464062052000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

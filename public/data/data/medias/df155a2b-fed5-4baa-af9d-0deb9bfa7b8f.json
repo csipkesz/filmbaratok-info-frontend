@@ -1,0 +1,41 @@
+{
+  "id": "df155a2b-fed5-4baa-af9d-0deb9bfa7b8f",
+  "title": "Kedves ellenségem",
+  "originalTitle": "Enemy Mine",
+  "overview": " Egy kegyetlen űrcsata során egy lakatlan, idegen bolygóra zuhan egy katona, és ellensége, a gyík-szerű drakóni lény. A felszínen folytatódik a küzdelem. A csúcstechnika helyett azonban az ősi hadviselés szabályai szerint támadnak egymásra a felek. Az idegen marad alul a küzdelemben, de halála előtt még életet ad egy kis utódnak. Az ember egyedül marad az idegen világban, ellensége, egy idegen, gyermekével. A férfi új társával, a szokatlanul gyorsan cseperedő drakón-utóddal együtt próbálja átvészelni az időt, amíg a mentőcsapatok megérkeznek...",
+  "backdropPath": "/dMjNyPk3aBwXYYfAuSAwSRz1ewa.jpg",
+  "posterPath": "/8h5fBUo1hXvAEZEPVsk99kMpoMN.jpg",
+  "releaseDate": "1985-12-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "67ad4d12-f6d4-43a9-bcdb-b58ad01b3d64",
+      "title": "Kedves ellenségem",
+      "subtitle": null,
+      "timestampString": "02:55:22",
+      "timestampInSeconds": 10522,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #137",
+        "youtubeId": "TmsK4Kf-Bj8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/TmsK4Kf-Bj8/hqdefault.jpg",
+        "durationInMinutes": 228,
+        "releaseDate": 1518110484000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

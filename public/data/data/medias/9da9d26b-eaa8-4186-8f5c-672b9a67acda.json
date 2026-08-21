@@ -1,0 +1,45 @@
+{
+  "id": "9da9d26b-eaa8-4186-8f5c-672b9a67acda",
+  "title": "A holló [2024]",
+  "originalTitle": "The Crow",
+  "overview": "Eric Draven és Shelly Webster valódi lelki társak. A lány múltjából azonban sötét alakok bukkannak fel, és brutálisan meggyilkolják mindkettőjüket. Eric esélyt kap arra, hogy önmagát feláldozva megmentse igaz szerelmét, így könyörtelen bosszúhadjáratba fog. Élők és holtak világán át jár, és helyre hozza,ami elromlott bennük.",
+  "backdropPath": "/503LUrI9juBk1rktOPzxyMUTDEu.jpg",
+  "posterPath": "/ApMpFMxsrDMpPZftNgrqgxqeNEt.jpg",
+  "releaseDate": "2024-08-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "596aafb6-9b2e-4d5f-a4bf-7b2dd23b804b",
+      "title": "A holló [2024]",
+      "subtitle": null,
+      "timestampString": "02:02:00",
+      "timestampInSeconds": 7320,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #286",
+        "youtubeId": "ZbuQSmPb5sM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ZbuQSmPb5sM/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1726511195000,
+        "participants": [
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

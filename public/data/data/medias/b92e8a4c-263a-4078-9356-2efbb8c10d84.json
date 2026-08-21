@@ -1,0 +1,41 @@
+{
+  "id": "b92e8a4c-263a-4078-9356-2efbb8c10d84",
+  "title": "A szobalány",
+  "originalTitle": "아가씨",
+  "overview": "A szobalány az 1930­as évek Koreájában játszódik, a japán megszállás éveiben. Egy pénzéhes szélhámos felbérel egy ifjú zsebtolvajnőt, hogy egy japán úrnő szobalányaként férkőzzön annak a bizalmába, így segítve, hogy a férfi megszerezze a nő pénzét. A különösen csavaros történetben a két gyönyörű nő fantáziái szépen lassan valóra válnak, és a szerelmi háromszög résztvevőinek választaniuk kell, ki mellé állnak az érdekektől hemzsegő harcban.",
+  "backdropPath": "/jnFmHDHmPZrQ7vyHmxXHcoxp25j.jpg",
+  "posterPath": "/xKFFWmbet4x9TsyuoWgVzcYo6Vf.jpg",
+  "releaseDate": "2016-06-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "92d0bfc7-f932-4102-b7f7-158aef46dabe",
+      "title": "A szobalány",
+      "subtitle": null,
+      "timestampString": "01:23:13",
+      "timestampInSeconds": 4993,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #116",
+        "youtubeId": "z6ZDT1e89XY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z6ZDT1e89XY/hqdefault.jpg",
+        "durationInMinutes": 146,
+        "releaseDate": 1487003611000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

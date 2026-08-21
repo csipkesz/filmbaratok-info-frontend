@@ -1,0 +1,41 @@
+{
+  "id": "250ea311-9d29-4a61-8ce6-b8b3e9cff97f",
+  "title": "A Halloween véget ér",
+  "originalTitle": "Halloween Ends",
+  "overview": "Négy évvel a Gyilkos Halloween eseményei után Laurie most az unokájával, Allysonnal él, és épp befejezni készül a memoárját. Michael Myers mostanában nem volt a környéken. Miután évtizedekig hagyta, hogy Michael árnyéka ott lebegjen az élete fölött, Laurie végre úgy döntött, hogy elengedi a félelmet és a haragot, és az élet felé fordul.  De amikor egy fiatalembert, Corey Cunninghamet megvádolnak egy fiú meggyilkolásával, akire vigyáznia kellett volna, Laurie-nak még egyszer utoljára szembe kell szállnia a gonosz erőkkel, amelyeket nem tud irányítani, az erőszak és a terror pedig rövidesen újra elszabadul. Mégy egyszer. Utoljára.",
+  "backdropPath": "/aTovumsNlDjof7YVoU5nW2RHaYn.jpg",
+  "posterPath": "/fyRw6rVnohZcnE7KYdyNRDrPgv3.jpg",
+  "releaseDate": "2022-10-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c42fc096-9d2a-4ddf-bff1-c63d3a6ed876",
+      "title": "A Halloween véget ér [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "03:07:45",
+      "timestampInSeconds": 11265,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #242",
+        "youtubeId": "aT0O2kW4N38",
+        "thumbnailUrl": "https://i.ytimg.com/vi/aT0O2kW4N38/hqdefault.jpg",
+        "durationInMinutes": 223,
+        "releaseDate": 1667206800000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

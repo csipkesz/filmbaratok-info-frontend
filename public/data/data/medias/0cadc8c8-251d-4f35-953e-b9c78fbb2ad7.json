@@ -1,0 +1,45 @@
+{
+  "id": "0cadc8c8-251d-4f35-953e-b9c78fbb2ad7",
+  "title": "A besúgó",
+  "originalTitle": "A besúgó",
+  "overview": "A történet 1985-ben játszódik: a kommunista Magyarország a politikai változások küszöbén. A húszéves Geri szíve tele van izgalommal és várakozással; Budapestre költözik, hogy a Gazdaságtudományi Egyetemen tanuljon. Kollégiumi élete első napján csatlakozik egy csapat demokratikus ellenzéki fiatalhoz, akik tüntetéseket szerveznek a kommunista rendszer ellen. A csoportot Száva Zsolt, a karizmatikus fiatal diák vezeti, aki hamarosan Geri legjobb barátja lesz. A vidéki srác élete egy pillanat alatt megváltozik a gyönyörű lányok, bulik és politikai viták hatására.",
+  "backdropPath": "/509gAetxb5jr6HeeBwjlLxeLMpf.jpg",
+  "posterPath": "/wZOCbdFu3PXciS0645Btp9a6dlX.jpg",
+  "releaseDate": "2022-04-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7e5f2d92-9496-4d9e-9103-8dedd51681d8",
+      "title": "A besúgó",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: A besúgó",
+        "youtubeId": "cS0PWyqaV60",
+        "thumbnailUrl": "https://i.ytimg.com/vi/cS0PWyqaV60/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1654237764000,
+        "participants": [
+          {
+            "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
+            "name": "Shirin"
+          },
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "b8d17a5f-8b45-4e51-bd67-d692bd5cb835",
+  "title": "12 katona",
+  "originalTitle": "12 Strong",
+  "overview": "Amikor 2001. szeptember 11-én sosem látott méretű támadás érte az Egyesült Államokat, egy nap sem kellett hozzá, hogy döntés szülessen az első válaszcsapásról. Egy fiatal, vakmerő, de igazi háborút még sosem látott tiszt vezetésével egy elit kommandós egységet dobtak le az afgán hegyek közé. A feladatuk az, hogy eljussanak Mazár-e Sarifba, elfoglalják a várost és elvágják az al-Kaida utánpótlási vonalát.",
+  "backdropPath": "/x5EUEv1N9g4BCX9GQXKvv3nqMVo.jpg",
+  "posterPath": "/chQCpXyzlNRGVZuLJ1ApwJsCS4W.jpg",
+  "releaseDate": "2018-01-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b0e59afd-88dc-4f94-9d15-639254854dc5",
+      "title": "12 katona",
+      "subtitle": null,
+      "timestampString": "01:24:20",
+      "timestampInSeconds": 5060,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #140",
+        "youtubeId": "LQ8tU4s4F2M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/LQ8tU4s4F2M/hqdefault.jpg",
+        "durationInMinutes": 184,
+        "releaseDate": 1521209750000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

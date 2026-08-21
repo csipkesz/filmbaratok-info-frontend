@@ -1,0 +1,45 @@
+{
+  "id": "99e05568-9fba-4275-bb36-ec783efb48ea",
+  "title": "A Pokol angyala",
+  "originalTitle": "Beyond the Law",
+  "overview": "A túlzott vehemenciája miatt a rendőrségtől már majdnem szélnek ereszett Saxon altisztet - Charlie Sheen, felkarolja az FBI. Első megbízatásaként be kell épülnie A Pokol Angyalai nevű motoros bandák egyik legveszélyesebbikébe, a Sakálok Klubjába, mert vélhetően a Vad - Michael Madsen, által vezetett csoport tartja kezében a kemény drog és a fegyverkereskedelem jelentős részét.",
+  "backdropPath": "/AtwCUHplhgV00C9xpFMqtv60bKO.jpg",
+  "posterPath": "/kbWrLn58z5nbHf129DesL97mDeO.jpg",
+  "releaseDate": "1993-04-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b6405dfa-986c-4911-a8a6-489d054d3bec",
+      "title": "A Pokol angyala",
+      "subtitle": null,
+      "timestampString": "03:19:30",
+      "timestampInSeconds": 11970,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #307",
+        "youtubeId": "VKMsNci80C8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VKMsNci80C8/hqdefault.jpg",
+        "durationInMinutes": 233,
+        "releaseDate": 1753986708000,
+        "participants": [
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

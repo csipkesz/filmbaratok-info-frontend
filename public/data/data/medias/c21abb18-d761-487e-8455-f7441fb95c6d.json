@@ -1,0 +1,45 @@
+{
+  "id": "c21abb18-d761-487e-8455-f7441fb95c6d",
+  "title": "Enemy / Ellenség",
+  "originalTitle": "Enemy",
+  "overview": "Adam Bell egy zaklatott történelemprofesszor, akit jóformán semmi sem érdekel, még csodaszép barátnője sem. Egy szép napon kollégája ajánlására megnéz egy filmet, amelyben felfigyel egy férfire, aki az ő kiköpött mása. Adam nyomozni kezd, majd nem sokkal később meg is találja alteregóját, Anthony Clairt, ám kettejük találkozása nem várt következményekkel jár.",
+  "backdropPath": "/deYWtXTc56YdXyIuuMuA8dvBY16.jpg",
+  "posterPath": "/bLeuQpZHnGRBRTvI8qINjtWMker.jpg",
+  "releaseDate": "2014-03-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1f4a860a-03bd-4fec-9ca2-9af4d66bf989",
+      "title": "Enemy / Ellenség",
+      "subtitle": null,
+      "timestampString": "01:46:00",
+      "timestampInSeconds": 6360,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #82",
+        "youtubeId": "g8wdyUhhVtI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/g8wdyUhhVtI/hqdefault.jpg",
+        "durationInMinutes": 170,
+        "releaseDate": 1443630602000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

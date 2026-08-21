@@ -1,0 +1,41 @@
+{
+  "id": "16dd52d4-658b-4f75-89b1-8f89b1d681c6",
+  "title": "Második esély",
+  "originalTitle": "Second Chance",
+  "overview": "Otto, a kivételes IQ-val rendelkező zseni az emberi kapcsolatok terén súlyos nehézségekkel küzd - ikernővére nélkül nem boldogulna a világban. Amikor kiderül, hogy Mary gyógyíthatatlan beteg, kidolgoz egy módszert, amellyel életre kelthet egy donort. Az ehhez szükséges DNS-sel egy hetvenes, lezüllött, valaha hatékonyan, de kétes módszerekkel dolgozó rendőrfőnök rendelkezik, akit betörők öltek meg. A kísérletek még csak kezdeti fázisban vannak, de az idő sürget. A volt rendőr, Jimmy Pritchard fiatalemberként, de minden emlékével együtt éled újjá, és csakhamar megjelenik a fiánál, hogy segítsen neki egy nyomozásban.",
+  "backdropPath": "/cVjcq52suVSKlPAW8cfJqvQfFuL.jpg",
+  "posterPath": "/vXQXjPQ0qq5caOSvTElc9UMp6Rf.jpg",
+  "releaseDate": "2016-01-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ded4c42b-f9ce-4bf5-848a-0c5a96063595",
+      "title": "Második esély",
+      "subtitle": null,
+      "timestampString": "02:05:45",
+      "timestampInSeconds": 7545,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #70",
+        "youtubeId": "_vL1V5oablM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_vL1V5oablM/hqdefault.jpg",
+        "durationInMinutes": 182,
+        "releaseDate": 1427860093000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

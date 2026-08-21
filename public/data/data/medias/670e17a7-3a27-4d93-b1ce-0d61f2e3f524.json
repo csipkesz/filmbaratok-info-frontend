@@ -1,0 +1,41 @@
+{
+  "id": "670e17a7-3a27-4d93-b1ce-0d61f2e3f524",
+  "title": "A rajongó",
+  "originalTitle": "The Fan",
+  "overview": "A népszerű baseball-játékos tudja, hogy rendkívül kiterjedt a rajongótábora, de azt álmában sem gondolta, hogy egyikük ölni is képes lenne érte. Pedig a férfi mindig ott ül az arctalan tömegben, megszállott tekintettel követi kedvenc játékosa minden mozdulatát, és beteg elméjében egyre határozottabb körvonalakat kezd ölteni A TERV. A meccsek után a férfi minden idejét azzal tölti, minden energiáját arra fordítja, hogy megközelítse, megérintse, megszólítsa bálványát. De ha az csalódást okoz, akár le is dőlhet a bálvány, vagy éppen ledöntheti valaki...",
+  "backdropPath": "/dISWllRkiQ1l5Nbn5JMZbz6RHoh.jpg",
+  "posterPath": "/oJDGSCDafJQVia7DtlmnEpAIrYN.jpg",
+  "releaseDate": "1996-08-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1e41eb36-ddbd-4d2c-a2d7-5c8f198af0f9",
+      "title": "A rajongó",
+      "subtitle": null,
+      "timestampString": "03:15:15",
+      "timestampInSeconds": 11715,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #271",
+        "youtubeId": "vCypCwFTSIU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/vCypCwFTSIU/hqdefault.jpg",
+        "durationInMinutes": 227,
+        "releaseDate": 1706733909000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5170b262-345d-4cb7-a9ee-7f08cc729371",
+  "title": "Az ifjúság forrása / Fountain of youth",
+  "originalTitle": "Fountain of Youth",
+  "overview": "Az éles eszű kincsvadász csapatával életre szóló kalandra készül. Ám ahhoz, hogy minden csapdát kicselezhessen, kelleni fog egy még zseniálisabb ember segítsége, aki nem más, mint az elhidegült húga.",
+  "backdropPath": "/arGs8D4RfUfsk7vMiMjDi6Mtabv.jpg",
+  "posterPath": "/tKvYdPGEK6knR31KT0tUfhsz6Pk.jpg",
+  "releaseDate": "2025-05-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b01412a2-a26d-4ccc-b041-0a8a110d014c",
+      "title": "Az ifjúság forrása / Fountain of youth",
+      "subtitle": null,
+      "timestampString": "03:07:04",
+      "timestampInSeconds": 11224,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #303",
+        "youtubeId": "4E-63IAlyvU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/4E-63IAlyvU/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1748626806000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "30a3ee5e-1e62-420e-833e-d05e99b21459",
+            "name": "Ódor Kristóf"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

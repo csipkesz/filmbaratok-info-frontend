@@ -1,0 +1,41 @@
+{
+  "id": "009376db-4aa9-4807-9b59-eec5420aeb9f",
+  "title": "A Gyűrűk Ura: A hatalom gyűrűi",
+  "originalTitle": "The Lord of the Rings: The Rings of Power",
+  "overview": "A viszonylagos béke korszakától kezdve követhetjük nyomon egy népes szereplőgárda történetét, miközben szembenéznek a Középföldén újból megjelenő gonosszal. A Ködhegység legsötétebb bugyraitól Lindon fenséges erdőin és Númenor lélegzetelállító szigetkirályságán át a térkép legtávolabbi szegletéig felbukkanó különféle királyságok és szereplők öröksége még az eltűntük után is sokáig tovább él majd.",
+  "backdropPath": "/o2wg8QiSCQrhj91tBfxunE3O5Ba.jpg",
+  "posterPath": "/xEguk3mQ8cCi1a7c27j96roKriw.jpg",
+  "releaseDate": "2022-09-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7933534f-0e60-4442-ab32-7d600d46229d",
+      "title": "A Gyűrűk Ura: A hatalom gyűrűi (1. évad)",
+      "subtitle": "1. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: A Gyűrűk Ura: A hatalom gyűrűi (1. évad)",
+        "youtubeId": "0zqjRnhlhc4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/0zqjRnhlhc4/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1666296907000,
+        "participants": [
+          {
+            "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
+            "name": "Shirin"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

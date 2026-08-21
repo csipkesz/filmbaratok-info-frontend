@@ -1,0 +1,41 @@
+{
+  "id": "100e1a96-8ee2-408f-9ab8-12349d387b31",
+  "title": "Macskafogó",
+  "originalTitle": "Macskafogó",
+  "overview": "Az egerek sorsa megpecsételődött. Az X bolygón a vérszomjas macskák semmibe veszik a jogot, és az egértársadalom felszámolására törekednek. De megcsillan egy reménysugár, az egerek főtudósa feltalálja a megoldást. A titkos szolgálat azonnal aktiválja legjobb ügynökét, Grabovszkyt, hogy még időben célba jusson a tervrajz.",
+  "backdropPath": "/hvIKsPloN4QxfHiJSBOSwh09FDQ.jpg",
+  "posterPath": "/z2OKuFQyX0tEz55EiMdAqbDWpdi.jpg",
+  "releaseDate": "1986-10-02T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "14e068b1-0ab8-4a15-bb5d-c2c94c5a9375",
+      "title": "Macskafogó",
+      "subtitle": null,
+      "timestampString": "03:20:40",
+      "timestampInSeconds": 12040,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #151",
+        "youtubeId": "hcylcX_kgM0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/hcylcX_kgM0/hqdefault.jpg",
+        "durationInMinutes": 234,
+        "releaseDate": 1537428229000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

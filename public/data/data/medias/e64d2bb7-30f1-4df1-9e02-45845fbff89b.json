@@ -1,0 +1,45 @@
+{
+  "id": "e64d2bb7-30f1-4df1-9e02-45845fbff89b",
+  "title": "A lány a vonaton",
+  "originalTitle": "The Girl on the Train",
+  "overview": "Rachel Watson egy elvált nő, aki londoni munkahelyére tartva minden nap elhalad egykori háza mellett, ahol most korábbi férje és annak új családja él. A nő próbálja elterelni a figyelmét a fájdalomról, és figyelmes lesz egy párra, Meganre és Scott Hipwellre, akik mindössze néhány házzal laknak arrébb. Rachel képzeletében mintaszerű életet, és a tökéletes család képét álmodja meg számukra, azonban egyik nap egy olyan sokkoló esemény szemtanúja lesz, mely dühvel tölti el. Másnak iszonyú fejfájással ébred, teste tele van sebekkel és zúzódásokkal, de semmire sem emlékszik az előző éjszaka eseményeiből. Úgy érzi, valami rettenetes dolog történt. A hírekből megtudja, hogy Megan Hipwell eltűnt. Rachel nyomozni kezd az ügyben, hogy fény derüljön Megan hollétére, és a titokzatos éjszaka eseményeire.",
+  "backdropPath": "/hmMnCqNnHPvQhuxynSVAqQWmQVK.jpg",
+  "posterPath": "/6ytRF4l9Y3Ky1QWusZdI1L6cWz0.jpg",
+  "releaseDate": "2016-10-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "02a2a11d-6bc3-4702-80d6-2b016ae0f5fb",
+      "title": "A lány a vonaton",
+      "subtitle": null,
+      "timestampString": "00:59:25",
+      "timestampInSeconds": 3565,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #109",
+        "youtubeId": "J8Vj2ckmHM4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/J8Vj2ckmHM4/hqdefault.jpg",
+        "durationInMinutes": 132,
+        "releaseDate": 1477582510000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

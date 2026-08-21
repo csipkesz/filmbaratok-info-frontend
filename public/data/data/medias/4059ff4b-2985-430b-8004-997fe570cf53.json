@@ -1,0 +1,41 @@
+{
+  "id": "4059ff4b-2985-430b-8004-997fe570cf53",
+  "title": "LáthatatMan",
+  "originalTitle": null,
+  "overview": null,
+  "backdropPath": null,
+  "posterPath": null,
+  "releaseDate": null,
+  "topics": [
+    {
+      "id": "1f2c2951-8a2d-426e-8ae4-27550f4b97ae",
+      "title": "LáthatatMan",
+      "subtitle": null,
+      "timestampString": "00:23:40",
+      "timestampInSeconds": 1420,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #48",
+        "youtubeId": "fLYUOAN5_3c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fLYUOAN5_3c/hqdefault.jpg",
+        "durationInMinutes": 56,
+        "releaseDate": 1396323815000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

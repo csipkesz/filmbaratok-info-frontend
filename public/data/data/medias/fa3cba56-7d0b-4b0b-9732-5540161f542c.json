@@ -1,0 +1,45 @@
+{
+  "id": "fa3cba56-7d0b-4b0b-9732-5540161f542c",
+  "title": "Menekülés",
+  "originalTitle": "Flugt",
+  "overview": "Amin a nyolcvanas évek Afganisztánjában tölti gyermekkora egy részét, nyugati zenéket hallgat, nővéreinek és anyjának sem kell fejkendőt hordania. A szovjetek kivonulásakor apjának azonban nyoma veszik. A polgárháború elől neki és testvéreinek is menekülnie kell. A család Moszkvában talál menedéket, ahonnan Svédországba próbálnának eljutni, de az embercsempészek magas árat kérnek a szabadulásért. Amin családi döntésre egyedül, a legdrágább és legbiztonságosabb útnak vág neki. Azzal azonban senki sem számol, hogy a fiú repülőjegyén Svédország helyett Dánia szerepel, a menekült státusz megszerzéséhez pedig Aminnak hazudnia kell. Amin ma 36 éves, befutott egyetemi kutató, és barátjával készül összeházasodni. A titok azonban, amit több mint 20 éve magában eltemetve őriz, karrierjét és magánéletét is tönkre teheti.",
+  "backdropPath": "/CKGSEnFTpcxPJM5TzTFUJz53s.jpg",
+  "posterPath": "/dFuViITrZj4GPIUOZOQgQLXoSMw.jpg",
+  "releaseDate": "2021-06-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ffc47370-d5d9-4030-a41a-4634020945cd",
+      "title": "Menekülés",
+      "subtitle": null,
+      "timestampString": "03:06:14",
+      "timestampInSeconds": 11174,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #229",
+        "youtubeId": "yp41gn4f4Wo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/yp41gn4f4Wo/hqdefault.jpg",
+        "durationInMinutes": 273,
+        "releaseDate": 1648126053000,
+        "participants": [
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

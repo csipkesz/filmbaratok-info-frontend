@@ -1,0 +1,41 @@
+{
+  "id": "da983c37-b291-4ffb-8847-9a00ccc7dd31",
+  "title": "Casino Royale",
+  "originalTitle": "Casino Royale",
+  "overview": "Első küldetésére indul James Bond, az angol titkosszolgálat 007-es ügynöke. Feladata, hogy a montenegrói Casino Royale-ban sorra kerülő pókermérkőzésen legyőzze a terroristák bankárát. Le Chiffre ugyanis milliókkal tartozik a megbízóinak, és a hatalmas tétre menő pókerpartin akarja visszaszerezni a pénzt. Bondot eleinte bosszantja, hogy a gyönyörű Vesper Lynd személyében felvigyázót rendelnek ki mellé. Ám miután közösen túlélik Le Chiffre és bérgyilkosainak merényletsorozatát, beleszeret a lányba, és ez olyan bonyodalmakhoz vezet, melyek örökre átformálják az életét.",
+  "backdropPath": "/klJMCIblHLFwCuGjKz7tyOpekIC.jpg",
+  "posterPath": "/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg",
+  "releaseDate": "2006-11-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "23c2cfb0-283f-4daf-adcb-a49e579e85f0",
+      "title": "Casino Royale",
+      "subtitle": null,
+      "timestampString": "01:10:30",
+      "timestampInSeconds": 4230,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #112",
+        "youtubeId": "M7gzW5_pVZk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/M7gzW5_pVZk/hqdefault.jpg",
+        "durationInMinutes": 160,
+        "releaseDate": 1481731219000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

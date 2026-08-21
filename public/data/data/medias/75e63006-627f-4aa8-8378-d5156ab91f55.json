@@ -1,0 +1,45 @@
+{
+  "id": "75e63006-627f-4aa8-8378-d5156ab91f55",
+  "title": "A szer",
+  "originalTitle": "The Substance",
+  "overview": "Álmodtál már arról, hogy legyen egy jobb verzió belőled? Te lennél, csak jobb. Minden tekintetben. Új, fiatalabb, jobb, szebb, egy tökéletesebb verziója önmagadnak. És csak egy szabály van: meg kell osztanotok az időt. Egy hét neked, egy hét neki. Tökéletes egyensúly szükséges. Mert ti ketten egyek vagytok. Valami ilyesmit állít magáról a rejtélyes Substance, az Anyag, ami jobb életet ígér az egyszervolt hollywoodi csillag, de már a tévés műsoroknak sem kellő Elisabeth Sparkle-nak (Demi Moore), akinek hiúságánál csak az újra felvillanó rivaldafény utáni vágya nagyobb. Üzletet köt tehát, - és erre nincs jobb szó - megszületik Sue (Margaret Qualley), aki földöntúli módon gyönyörű, mindenkit az ujja köré csavaró fiatal nő, aki Elisabeth vágyott életét kezdi élni. Mohón, felhőtlenül és felelőtlenül. Úgy, hogy arra nem elég csupán minden második hét. Az egyensúly viszont valóban fontos. „Mert ti ketten egyek vagytok.”",
+  "backdropPath": "/bVSOgrxasVJF6V71T7v2KfBRSzu.jpg",
+  "posterPath": "/zKMAUuKaV2yPuipQWhBtliE8MBe.jpg",
+  "releaseDate": "2024-09-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0d4a4e35-74fc-4333-8b99-0df8b8a20ccc",
+      "title": "A szer",
+      "subtitle": null,
+      "timestampString": "02:25:35",
+      "timestampInSeconds": 8735,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #288",
+        "youtubeId": "y8PRwmbTmMM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/y8PRwmbTmMM/hqdefault.jpg",
+        "durationInMinutes": 241,
+        "releaseDate": 1729192342000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

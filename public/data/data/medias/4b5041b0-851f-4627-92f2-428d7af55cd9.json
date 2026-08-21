@@ -1,0 +1,45 @@
+{
+  "id": "4b5041b0-851f-4627-92f2-428d7af55cd9",
+  "title": "Gunman",
+  "originalTitle": "The Gunman",
+  "overview": "Jim Terrier a kormány volt bérgyilkosa, akit volt munkáltatója megpróbálja eltenni láb alól. Veszélyes macska-egér játék veszi kezdetét Afrika dzsungeleitől London utcáin át a nyüzsgő Barcelonáig, míg Terrier szeme előtt egy cél lebeg: eltegye láb alól azokat, akik holtan akarják látni. De rá kell jönnie, hogy nem ő az egyetlen, aki célponttá vált - meg kell védenie Anne-t, a gyönyörű nőt, akit évekkel ezelőtt elhagyott. Terrier rájön, csak egyetlen módja van annak, hogy Anne-t és magát megmentse: le kell számolnia a világ legerősebb szervezetével és szembe kell szállnia múltja egyik legnagyobb ellenfelével egy végső játszmában, ahol csak egy ember maradhat életben.",
+  "backdropPath": "/2g1ZVQV1svzOfyd9WL5dAV1OkL1.jpg",
+  "posterPath": "/tJILmFXJAkYaHaNfBO6sxorn0KE.jpg",
+  "releaseDate": "2015-02-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a3df4753-5d21-4070-870a-fd16bc16fcec",
+      "title": "Gunman",
+      "subtitle": null,
+      "timestampString": "01:17:41",
+      "timestampInSeconds": 4661,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #72",
+        "youtubeId": "Mkw8rsdw7bc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Mkw8rsdw7bc/hqdefault.jpg",
+        "durationInMinutes": 199,
+        "releaseDate": 1430242149000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

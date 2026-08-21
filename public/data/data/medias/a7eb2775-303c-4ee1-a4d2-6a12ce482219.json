@@ -1,0 +1,45 @@
+{
+  "id": "a7eb2775-303c-4ee1-a4d2-6a12ce482219",
+  "title": "Gyilkosság telefonhívásra",
+  "originalTitle": "Dial M for Murder",
+  "overview": "Tony Wendice, az egykori teniszcsillag már régóta tudja hogy felesége megcsalja őt, ezért a meggyilkolását tervezi. A bosszú anyagi előnyökkel is jár számára, hiszen a nő hatalmas vagyonát ő örökli. Több mint egy évig szervezi a tökéletes bűntényt, majd zsarolással ráveszi egy volt iskolatársát, hogy hajtsa végre az akciót. A terv szerint a gyilkos akkor öli meg a telefonnál álló Margót, amikor Tony, aki alibiből társaságban szórakozik éppen, felhívja otthon maradó feleségét. A megvalósítás azonban kudarcba fullad, végül a nő öli meg önvédelemből a támadóját. A dühös Tonynak ezután az aggódó férj szerepét kell eljátszania.",
+  "backdropPath": "/mD6EAjfIr7CLdFlCIJjh7CJeWX3.jpg",
+  "posterPath": "/uvzHxCLC7TVudPK6wJ775a2Ggux.jpg",
+  "releaseDate": "1954-05-29T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "90f83b36-52b4-401b-92c2-ab0d31f54841",
+      "title": "Gyilkosság telefonhívásra",
+      "subtitle": null,
+      "timestampString": "02:46:29",
+      "timestampInSeconds": 9989,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #238",
+        "youtubeId": "B0d915GjLlk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/B0d915GjLlk/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1661879000000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

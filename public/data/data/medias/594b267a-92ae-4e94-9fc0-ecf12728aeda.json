@@ -1,0 +1,45 @@
+{
+  "id": "594b267a-92ae-4e94-9fc0-ecf12728aeda",
+  "title": "Jumanji - A következő szint",
+  "originalTitle": "Jumanji: The Next Level",
+  "overview": "Miután Spencert beszippantja a program, három régi haverja természetesen kötelességének érzi, hogy megpróbálja kimenteni. Azt hiszik, az ismerős terepen könnyen boldogulnak majd, de nem számolnak vele, hogy néhány új játékos mindent megváltoztathat. Spencer nagyapja és annak nyugdíjas haverja is követi őket. Az avatárok összekeverednek, a tétek nőnek, a dzsungel helyett behavazott hegyeken és forró sivatagban kell megoldaniuk a feladatot, ráadásul már a startvonalnál kiderül: ezúttal egy játékos nem kerülhet ki élve Jumanjiból…",
+  "backdropPath": "/qgch2rFskIxDMgwrD5lWTaB4nBl.jpg",
+  "posterPath": "/gXm0yvQKMnwdoOIXlZ24IXc8kX0.jpg",
+  "releaseDate": "2019-12-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7975bd52-0d8a-49f5-998b-79ec7670f23c",
+      "title": "Jumanji - A következő szint",
+      "subtitle": null,
+      "timestampString": "01:55:23",
+      "timestampInSeconds": 6923,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #183",
+        "youtubeId": "uA5tRdykPyw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uA5tRdykPyw/hqdefault.jpg",
+        "durationInMinutes": 277,
+        "releaseDate": 1579802407000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

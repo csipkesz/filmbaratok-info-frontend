@@ -1,0 +1,41 @@
+{
+  "id": "f744e2f3-b6cc-4bfb-bcbf-787dbc6e0eae",
+  "title": "Grease (Pomádé)",
+  "originalTitle": "Grease 2",
+  "overview": "Két évvel az eredeti Grease után a banda tagjai végeztek a Rydell gimnáziumban, és most új évfolyam készül a vizsgákra. Stephanie úgy érzi, már nem érdekli Johnny, és egy új szerelemre vágyik. Jelölt persze akad több is, de Michael a legkitartóbb. Szüksége is van minden türelmére, mert a lány úgy tesz, mintha észre sem venné. De a zene és a fergeteges táncok minden problémát megoldanak...",
+  "backdropPath": "/oScpMm0gmUMf7EY6vKomi7tboc6.jpg",
+  "posterPath": "/4dLbjsjE5YJ5CfSpz5RUDdrY2a2.jpg",
+  "releaseDate": "1982-06-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "aaf8ab86-a89e-49de-b35e-d5284a2c4658",
+      "title": "Grease (Pomádé)",
+      "subtitle": null,
+      "timestampString": "02:52:00",
+      "timestampInSeconds": 10320,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #104",
+        "youtubeId": "OY96XihUHYY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/OY96XihUHYY/hqdefault.jpg",
+        "durationInMinutes": 230,
+        "releaseDate": 1469739871000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

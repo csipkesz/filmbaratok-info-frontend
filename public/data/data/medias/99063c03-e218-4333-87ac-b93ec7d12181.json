@@ -1,0 +1,71 @@
+{
+  "id": "99063c03-e218-4333-87ac-b93ec7d12181",
+  "title": "A nagy balhé",
+  "originalTitle": "The Sting",
+  "overview": "Johnny Hooker piti kis tolvaj, aki a társával együtt évek óta jól begyakorolt trükkel fosztogatja a gyanútlan járókelőket a harmincas években. Amikor véletlenül a maffia pénzszállítóját zsebelik ki, ez egyikük életébe kerül. A veszélyben forgó Johnny a befolyásos barátjához, Henry Gondorffhoz menekül. Arra kéri, segítsen neki bosszút állni a barátja gyilkosán. Gondorff és Hooker egy gondosan kidolgozott terv szerint húzza csőbe Doyle Lonnegant, a nagyhatalmú maffiafőnököt. A kolosszális átveréssel nemcsak bosszút állnak rajta, de az utolsó dollárjától is megszabadítják.",
+  "backdropPath": "/1r9lH3DaSWKGyvZaoo6BF5STOk5.jpg",
+  "posterPath": "/eBkNN2SRu190lulYFF3HkuOyPhJ.jpg",
+  "releaseDate": "1973-12-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "049239d7-9198-481f-9bb6-8777f6ef5b6e",
+      "title": "A nagy balhé",
+      "subtitle": null,
+      "timestampString": "01:27:20",
+      "timestampInSeconds": 5240,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #44",
+        "youtubeId": "_NwJoO7yxrE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_NwJoO7yxrE/hqdefault.jpg",
+        "durationInMinutes": 137,
+        "releaseDate": 1391206083000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "273a8019-47aa-4cdf-9b9f-6c84ee0f59ce",
+            "name": "Émi"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aaee55ad-ae2a-46c1-b647-89ac2eeb9849",
+      "title": "A nagy balhé",
+      "subtitle": null,
+      "timestampString": "01:42:38",
+      "timestampInSeconds": 6158,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #43",
+        "youtubeId": "WupIquHhCt0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/WupIquHhCt0/hqdefault.jpg",
+        "durationInMinutes": 164,
+        "releaseDate": 1389645501000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

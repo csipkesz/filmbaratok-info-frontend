@@ -1,0 +1,45 @@
+{
+  "id": "98be77f7-c599-461d-8af8-44feed66f216",
+  "title": "A Da Vinci-kód",
+  "originalTitle": "The Da Vinci Code",
+  "overview": "A neves amerikai tudós, Robert Langdon éppen Párizsban tartózkodik, amikor az éjszaka közepén telefonon keresik. A Louvre egyik jól őrzött termében holtan találták a múzeum egyik kurátorát, és a rendőrség abban bízik, Langdon segíthet megfejteni a rejtélyt: az áldozat mellett ugyanis érthetetlennek tűnő jeleket találtak. A tudós akarata ellenére viharsebesen keveredik bele az eseményekbe: szakértőből hamarosan gyanúsított lesz, és kénytelen együtt menekülni a kurátor kiismerhetetlen unokájával. Nemsokára rájönnek, hogy két titkos egyházi társaság, a Sion testvérei és az Opus Dei harcába keveredtek bele: a harc talán több száz éve tart, tétje pedig az a titok, melynek megfejtése talán a Párizson, Londonon, kalandokon, titkokon, gyilkosságokon keresztülvezető hosszú út végén várja őket.",
+  "backdropPath": "/4NsQl44oXVMiuIM9t7ZsVgYzOkv.jpg",
+  "posterPath": "/l5yGzQiGAbCkib0OaDt6jfiSD3M.jpg",
+  "releaseDate": "2006-05-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a0821547-cead-4648-9c9b-dca62fab514c",
+      "title": "A Da Vinci-kód",
+      "subtitle": null,
+      "timestampString": "01:41:45",
+      "timestampInSeconds": 6105,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #219",
+        "youtubeId": "h8nzJYoqTuY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/h8nzJYoqTuY/hqdefault.jpg",
+        "durationInMinutes": 195,
+        "releaseDate": 1632931799000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

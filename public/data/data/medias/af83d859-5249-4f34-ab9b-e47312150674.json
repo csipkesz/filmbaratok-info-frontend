@@ -1,0 +1,45 @@
+{
+  "id": "af83d859-5249-4f34-ab9b-e47312150674",
+  "title": "Sráckor",
+  "originalTitle": "Boyhood",
+  "overview": "Richard Linklater új filmje, a Sráckor eleddig példátlan filmes kísérlet és egyedülálló mozis élmény. Olyan fikciós dráma, amely ugyanazt a néhány színészt követi egy 12 éves időszakon át, 2002-től 2013-ig, ily módon a filmben megtett páratlan utazás egyszerre nagy ívű és intim, végigvezet a gyermekkor életörömén, a modern család mindent megrendítő változásain és magán az időn. A film a 6 éves Masont követi az ember életének legradikálisabban változó évtizedén át a családi költözések, viták, házassági kudarcok, újra házasodások, új iskolák, első szerelmek, elvesztett szerelmek, jó időszakok, ijesztő időszakok és a szívfájdalom és rácsodálkozás állandóan lüktető keveredésének ismerős kavargásán keresztül.",
+  "backdropPath": "/Ac2s9RJEi1ZeaQopoLsqlsmWQmx.jpg",
+  "posterPath": "/yqjopNK5vVRJkO6qBrV2FUzOLiR.jpg",
+  "releaseDate": "2014-06-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ded75a24-f6ac-41ca-846a-a0b3300e01f9",
+      "title": "Sráckor",
+      "subtitle": null,
+      "timestampString": "00:30:32",
+      "timestampInSeconds": 1832,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #58",
+        "youtubeId": "fTyqWvDVF00",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fTyqWvDVF00/hqdefault.jpg",
+        "durationInMinutes": 178,
+        "releaseDate": 1412093302000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "4b5a3e6a-6354-40c0-817c-3e74c6b76c97",
+  "title": "Swiss Army Man / Az ember, aki mindent tudott",
+  "originalTitle": "Swiss Army Man",
+  "overview": "Egy reményét vesztett ember, aki a vadonban rekedt, összebarátkozik egy holtesttel és egy szürreális utazásra indulnak, melynek célja a hazautás.",
+  "backdropPath": "/xo6Sedrdj4DVnh4ZEzDM4D0QQYU.jpg",
+  "posterPath": "/xE2QfqvAGI8n8ckIiy9FzS9XF94.jpg",
+  "releaseDate": "2016-06-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d62bb6bf-7cf5-43fc-8b80-f25b8fc3ddfb",
+      "title": "Swiss Army Man / Az ember, aki mindent tudott",
+      "subtitle": null,
+      "timestampString": "02:20:43",
+      "timestampInSeconds": 8443,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #223",
+        "youtubeId": "uKeMDPapOJE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uKeMDPapOJE/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1639837304000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

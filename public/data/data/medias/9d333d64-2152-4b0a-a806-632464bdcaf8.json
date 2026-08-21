@@ -1,0 +1,45 @@
+{
+  "id": "9d333d64-2152-4b0a-a806-632464bdcaf8",
+  "title": "Oppenheimer",
+  "originalTitle": "Oppenheimer",
+  "overview": "J. Robert Oppenheimer története, aki a Manhattan Terv vezetőjeként, az első atomfegyver létrehozásáért volt felelős a II. világháború idején.",
+  "backdropPath": "/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg",
+  "posterPath": "/89fbqq5nnnzroLpD13T4TJ55Llf.jpg",
+  "releaseDate": "2023-07-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d157b474-74ea-4923-bd03-329b1d995997",
+      "title": "Oppenheimer",
+      "subtitle": null,
+      "timestampString": "01:47:30",
+      "timestampInSeconds": 6450,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #259",
+        "youtubeId": "pSiJphe8S5U",
+        "thumbnailUrl": "https://i.ytimg.com/vi/pSiJphe8S5U/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1690581661000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "e4d249a5-e251-44d9-8c10-8e2e3e9a6069",
+            "name": "Anna"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

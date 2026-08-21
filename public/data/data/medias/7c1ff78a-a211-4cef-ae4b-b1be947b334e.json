@@ -1,0 +1,41 @@
+{
+  "id": "7c1ff78a-a211-4cef-ae4b-b1be947b334e",
+  "title": "Sonic, a sündisznó 2",
+  "originalTitle": "Sonic the Hedgehog 2",
+  "overview": "Miután letelepedett Green Hillsben, Sonic minden vágya, hogy bebizonyítsa: megvan benne az, ami ahhoz kell, hogy igazi hős legyen. Nem kell sokat várnia, hogy próbára tegye magát, ugyanis Dr. Robotnyik visszatér, ezúttal új társával, Knucklesszel, és egy smaragdot keresnek, amelynek ereje civilizációkat képes elpusztítani. Sonic összeáll saját segítőjével, Tailsszel, és együtt vágnak neki a világkörüli útnak, hogy megtalálják a smaragdot, mielőtt rossz kezekbe kerülne...",
+  "backdropPath": "/xuLA0pii2IMJW2puT7EvJtgpg0H.jpg",
+  "posterPath": "/imvQliNlY6CG3Hp2cXpIinWLEFV.jpg",
+  "releaseDate": "2022-03-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "299e48f8-8bf1-4e31-b7b8-62aa0efe5717",
+      "title": "Sonic, a sündisznó 2",
+      "subtitle": null,
+      "timestampString": "02:22:10",
+      "timestampInSeconds": 8530,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #231",
+        "youtubeId": "GwvFCLoE8cY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GwvFCLoE8cY/hqdefault.jpg",
+        "durationInMinutes": 252,
+        "releaseDate": 1650126613000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

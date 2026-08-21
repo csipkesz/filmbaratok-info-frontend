@@ -1,0 +1,45 @@
+{
+  "id": "5afd02b0-6488-4568-857e-d8b7dbb9cf91",
+  "title": "Drágám, ezt nem fogod elhinni!",
+  "originalTitle": null,
+  "overview": null,
+  "backdropPath": null,
+  "posterPath": null,
+  "releaseDate": null,
+  "topics": [
+    {
+      "id": "3a0bab48-3c90-4576-a637-58fa46985717",
+      "title": "Drágám, ezt nem fogod elhinni!",
+      "subtitle": null,
+      "timestampString": "02:27:35",
+      "timestampInSeconds": 8855,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #265",
+        "youtubeId": "W7K_jzS7pPg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/W7K_jzS7pPg/hqdefault.jpg",
+        "durationInMinutes": 254,
+        "releaseDate": 1698781502000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

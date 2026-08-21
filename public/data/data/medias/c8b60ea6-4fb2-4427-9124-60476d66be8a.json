@@ -1,0 +1,45 @@
+{
+  "id": "c8b60ea6-4fb2-4427-9124-60476d66be8a",
+  "title": "28 nappal később",
+  "originalTitle": "28 Days Later",
+  "overview": "Jim felébred a kómából, de senkit sem talál a kórteremben. Üres a folyosó, az egész épület, üres és néma az egész város. Jim semmit sem ért, rémülten bóklászik a kihalt metropoliszban. Végül rátalál egy emberpár: túlélő, mindentől rettegő menekülők. És nemsokára találkoznak azokkal is, akik elől menekülni kell. Egykor emberek voltak, ám a gyilkos vírusnak köszönhetően már csak fékevesztett őrültek, akik ölni akarnak. Jim huszonnyolc napig feküdt a kórházban, de ez elég volt ahhoz, hogy Anglia szinte elnéptelenedjen.",
+  "backdropPath": "/aJFwk1clMal1prxAvKAgHxKPAf.jpg",
+  "posterPath": "/an6CZTuAAbd0TX7fFRUVPfui9vR.jpg",
+  "releaseDate": "2002-10-31T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "24eec1f6-a6b1-4afd-9253-0d1552e31afd",
+      "title": "28 nappal később [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "00:56:40",
+      "timestampInSeconds": 3400,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #306",
+        "youtubeId": "fhwjWo2MiYI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fhwjWo2MiYI/hqdefault.jpg",
+        "durationInMinutes": 272,
+        "releaseDate": 1752602894000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

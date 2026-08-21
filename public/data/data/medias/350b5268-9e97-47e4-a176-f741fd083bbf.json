@@ -1,0 +1,28 @@
+{
+  "id": "350b5268-9e97-47e4-a176-f741fd083bbf",
+  "title": "This is Paris",
+  "originalTitle": "This Is Paris",
+  "overview": "",
+  "backdropPath": "/gmGJtBKnhf7FvhQGK9MCkPQQbjA.jpg",
+  "posterPath": "/44nWhN7Zkyi86K2waw7beJW8l9A.jpg",
+  "releaseDate": "2020-09-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "919ae5df-dfb0-40b6-92fd-bc36c568aa79",
+      "title": "This is Paris",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: This is Paris",
+        "youtubeId": "KHU9jp9xDMA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/KHU9jp9xDMA/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1602831257000,
+        "participants": []
+      }
+    }
+  ]
+}

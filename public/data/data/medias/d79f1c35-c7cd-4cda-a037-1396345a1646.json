@@ -1,0 +1,45 @@
+{
+  "id": "d79f1c35-c7cd-4cda-a037-1396345a1646",
+  "title": "Büntető ököl / Brawl in Cell Block 99",
+  "originalTitle": "Brawl in Cell Block 99",
+  "overview": "Miután kábítószerfutárként dolgozott és lövöldözésbe keveredett a rendőrséggel a korábbi bokszolót letartóztatják és börtönbe dugják. A fegyintézetben rengeteg ellensége tölti megérdemelt büntetését, akik egyáltalán nem kímélik és az erőszaktól sem riadnak vissza. A börtön hamarosan kész csatatérré válik...",
+  "backdropPath": "/ct2r3CqnA0KtMfib4AvfBU1W9M2.jpg",
+  "posterPath": "/ksi0K5uIODW6mRuqQTVALI0N5iU.jpg",
+  "releaseDate": "2017-09-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d15ed2fc-ffe2-49c5-b0ff-178065352870",
+      "title": "Büntető ököl / Brawl in Cell Block 99",
+      "subtitle": null,
+      "timestampString": "03:59:10",
+      "timestampInSeconds": 14350,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #169",
+        "youtubeId": "-bLznzpWJe8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-bLznzpWJe8/hqdefault.jpg",
+        "durationInMinutes": 317,
+        "releaseDate": 1559569793000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "b6b9269c-1560-4ec0-8eab-ee0294f97a8d",
+  "title": "Batman",
+  "originalTitle": "Batman",
+  "overview": "Gotham City városát a \"dinamikus duó\", azaz Batman és Robin védelmezi az olyan gonosztevőktől mint Joker, Pingvin vagy a Macskanő. Hőseinknek zseniális felszereléseik és technikai eszközeik is segítségükre vannak abban, hogy megvédjék Gotham városát.",
+  "backdropPath": "/c4zV2ysi5Qlns4CPjRJj3hBGMSx.jpg",
+  "posterPath": "/1ZEJuuDh0Zpi5ELM3Zev0GBhQ3R.jpg",
+  "releaseDate": "1966-01-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2af60a45-913a-49e4-b563-ada60ec80dc7",
+      "title": "Batman [2022, SPOILERES]",
+      "subtitle": null,
+      "timestampString": "00:17:00",
+      "timestampInSeconds": 1020,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #229",
+        "youtubeId": "yp41gn4f4Wo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/yp41gn4f4Wo/hqdefault.jpg",
+        "durationInMinutes": 273,
+        "releaseDate": 1648126053000,
+        "participants": [
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

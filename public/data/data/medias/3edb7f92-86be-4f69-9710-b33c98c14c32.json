@@ -1,0 +1,45 @@
+{
+  "id": "3edb7f92-86be-4f69-9710-b33c98c14c32",
+  "title": "Kate",
+  "originalTitle": "Kate",
+  "overview": "A Tokióban tevékenykedő kegyetlen bérgyilkost megmérgezik az utolsó munkanapján. 24 órája van, hogy kiderítse, ki akarja a halálát, majd bosszút álljon az illetőn.",
+  "backdropPath": "/byflnwPMumyvrCW9SfO5Miq3647.jpg",
+  "posterPath": "/uJgdT1boTSP0dDIjdTgGleg71l4.jpg",
+  "releaseDate": "2021-09-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "32a3c7d2-b8cd-4f8f-87f7-fc85d38692ca",
+      "title": "Kate",
+      "subtitle": null,
+      "timestampString": "01:25:33",
+      "timestampInSeconds": 5133,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #219",
+        "youtubeId": "h8nzJYoqTuY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/h8nzJYoqTuY/hqdefault.jpg",
+        "durationInMinutes": 195,
+        "releaseDate": 1632931799000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

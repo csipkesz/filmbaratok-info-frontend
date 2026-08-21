@@ -1,0 +1,41 @@
+{
+  "id": "f779ce6c-a99d-4afa-8ccb-97d78c7af48c",
+  "title": "Csobbanás",
+  "originalTitle": "Splash",
+  "overview": "Amikor Allen Bauer (Tom Hanks), a sikeres fiatal üzletember végre megtalálja álmai asszonyát, úgy véli, semmi sem állhat szerelmük útjában. Hiszi, mert nem tudja, hogy frissen elcsábított barátnője nem csak él, mint hal a vízben, hanem halként él a vízben. Vagyis csak félig, ugyanis gyönyörű, hosszú combjai azonnal narancssárga uszonnyá változnak, amint víz éri őket. A férfi sokáig nem is sejti, hogy Madison (Daryl Hannah) egy igazi hableány, és a sellőlány sem tudja, hogyan mondja ezt el szerelmének. Egy napon azonban mindenre fény derül.",
+  "backdropPath": "/nvz6Bu17ipOHGHpWRm3ezpE76j2.jpg",
+  "posterPath": "/vjNcDj22XojqiG9TPHCmjyaGoZg.jpg",
+  "releaseDate": "1984-03-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0d4d2a5c-f1b8-4720-baec-684ae25ad61d",
+      "title": "Csobbanás",
+      "subtitle": null,
+      "timestampString": "02:59:17",
+      "timestampInSeconds": 10757,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #234",
+        "youtubeId": "IyLcC8Sig7I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IyLcC8Sig7I/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1655823277000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

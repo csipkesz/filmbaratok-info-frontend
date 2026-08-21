@@ -1,0 +1,41 @@
+{
+  "id": "c513cd28-8cca-40a8-b39e-c38dbf464019",
+  "title": "A majmok bolygója - Forradalom",
+  "originalTitle": "Dawn of the Planet of the Apes",
+  "overview": "A majmok az urak. Ők az erősebbek, okosabbak, jobban alkalmazkodók. Tíz évvel az első, szuperintelligens emberszabásúak megjelenése után, övék a világ és Caesar a vezetőjük.  Az emberiség mégsem pusztult ki teljesen. Kisebb túlélő csoportjaik bizonytalan, átmeneti békét kötöttek az uralkodó fajjal.  Ám a természetes kiválasztódás nem bírja a kompromisszumokat. A béke átmeneti. Előbb-utóbb ki fog törni a csata, amely vagy az embereket vagy a majmokat örökre elsöpri a föld színéről.",
+  "backdropPath": "/3SozaNPOYUadcmTPgndDibMyDNC.jpg",
+  "posterPath": "/qC0D1IyitpjjPlPbK5zh3FWRy6k.jpg",
+  "releaseDate": "2014-07-08T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ba9d72f7-b8d8-4789-80aa-3057249c1612",
+      "title": "A majmok bolygója - Forradalom",
+      "subtitle": null,
+      "timestampString": "00:30:30",
+      "timestampInSeconds": 1830,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #54",
+        "youtubeId": "z2MBRvmBR0k",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z2MBRvmBR0k/hqdefault.jpg",
+        "durationInMinutes": 188,
+        "releaseDate": 1406308806000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

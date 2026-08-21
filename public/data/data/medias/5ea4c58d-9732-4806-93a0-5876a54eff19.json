@@ -1,0 +1,41 @@
+{
+  "id": "5ea4c58d-9732-4806-93a0-5876a54eff19",
+  "title": "A majomember",
+  "originalTitle": "Monkey Man",
+  "overview": "A filmet a majomfejű és majomfarkú Hanumán legendája ihlette, aki az erő és a bátorság megtestesítője. Patel alakítja a névtelen, csak kölyökként emlegetett fiatalembert, aki sanyarú életét egy titkos harcos klubban tengeti, ahol estéről estére gorillamaszkot viselve véresre vereti magát a népszerűbb harcosokkal. Sok esztendőn át fojtja el dühét, mígnem megtalálja a módját, hogyan furakodjon be a város bűnös elitjének tagjai közé. Amikor feltör benne egy gyermekkori trauma, rejtélyes módon megsebesült kezei szinte önálló életre kelve megtorló hadjáratba kezdenek azok ellen, akik mindent elvettek tőle...",
+  "backdropPath": "/9NSXdVHeSfSHUv49OzLispFcpz1.jpg",
+  "posterPath": "/cIfgTRQeq6uufKtDEIW5xBPa9ye.jpg",
+  "releaseDate": "2024-04-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1941171e-2f10-484d-81a1-d2c646e34583",
+      "title": "A majomember",
+      "subtitle": null,
+      "timestampString": "00:56:53",
+      "timestampInSeconds": 3413,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #277",
+        "youtubeId": "VVHLdlqq_xY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VVHLdlqq_xY/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1714501831000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

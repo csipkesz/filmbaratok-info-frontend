@@ -1,0 +1,41 @@
+{
+  "id": "ddedf9f0-248e-40d9-bdb2-74f556bcf26c",
+  "title": "Kontakt",
+  "originalTitle": "Relay",
+  "overview": "A Relay-ben Riz Ahmed egy világklasszis „fixert” alakít, aki arra specializálódott, hogy jövedelmező kifizetéseket közvetítsen korrupt vállalatok és a tönkremenetelüket fenyegető személyek között. Személyazonosságát aprólékos tervezéssel tartja titokban és mindig szigorú szabályokat követ. Amikor azonban egy nap üzenet érkezik egy potenciális ügyféltől (Lily James), akinek a védelmére van szüksége, csak hogy életben maradjon, a szabályok gyorsan megváltoznak.",
+  "backdropPath": "/1ZnEOaOUj2e2Fq6Y7wo9KeH5rS6.jpg",
+  "posterPath": "/zi4pvq1HJYj851svkeqJCmCrMTH.jpg",
+  "releaseDate": "2025-08-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "406d7a7e-3066-415f-9f32-4aded149aa73",
+      "title": "Kontakt",
+      "subtitle": null,
+      "timestampString": "02:37:58",
+      "timestampInSeconds": 9478,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #311",
+        "youtubeId": "Q-eXASxeAjo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Q-eXASxeAjo/hqdefault.jpg",
+        "durationInMinutes": 217,
+        "releaseDate": 1759337946000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

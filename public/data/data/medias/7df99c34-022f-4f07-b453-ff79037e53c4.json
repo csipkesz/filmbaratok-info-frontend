@@ -1,0 +1,45 @@
+{
+  "id": "7df99c34-022f-4f07-b453-ff79037e53c4",
+  "title": "Szellemirtók [2016]",
+  "originalTitle": "Ghostbusters",
+  "overview": "Szellemek még mindig vannak, és szellemirtókra is szükség van. Jillian Holtzmann atomfizikus, Erin Gilbert és Abby Yates a paranormális tevékenységek rajongója, valamint Patty Tolan metró munkás összeállnak, hogy együtt száljanak szembe a földön túli erőkkel. Hamarosan melléjük szegődik egy vicces pasi, Kevin.",
+  "backdropPath": "/3KDHaahgXlUhmpXzoRZrLc7QSBM.jpg",
+  "posterPath": "/11bnlF616tIF1QDUzgJemXs1Fxs.jpg",
+  "releaseDate": "2016-07-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8b49f9f6-f6fa-413f-9e2b-6301a961568d",
+      "title": "Szellemirtók [2016]",
+      "subtitle": null,
+      "timestampString": "01:17:25",
+      "timestampInSeconds": 4645,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #107",
+        "youtubeId": "nil8BrN67hQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nil8BrN67hQ/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1475265113000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "d70211e6-cd1a-4280-8bca-8d017726af99",
+            "name": "Emese"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

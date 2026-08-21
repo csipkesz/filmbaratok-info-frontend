@@ -1,0 +1,45 @@
+{
+  "id": "d5cc2beb-4311-4d81-ab20-e606dcc1ea80",
+  "title": "Assassin's Creed",
+  "originalTitle": "Assassin's Creed",
+  "overview": "Egy forradalmian új technológia segítségével Callum Lynch újraéli egyik őse, a 15. századi Spanyolországban született Aguilar kalandjait. A férfi így érti meg, hogy egy titokzatos, ősi szövetség, az Orgyilkosok rendjének leszármazottja. Hihetetlen tudással és ügyességgel rendelkezik - de csak azért, hogy szembeszállhasson a nagy erejű és gonosz szándékú Templomosokkal.",
+  "backdropPath": "/e29oMyfzzlWbhRlCBrzmZhlsw2m.jpg",
+  "posterPath": "/kDXewoEcvbn0pUvJ8W3vfkuWgHw.jpg",
+  "releaseDate": "2016-12-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7bceb218-496d-4f5d-8bca-e311f0b91e1c",
+      "title": "Assassin's Creed",
+      "subtitle": null,
+      "timestampString": "02:06:05",
+      "timestampInSeconds": 7565,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #114",
+        "youtubeId": "-MXopm_I1eY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-MXopm_I1eY/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1484786554000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

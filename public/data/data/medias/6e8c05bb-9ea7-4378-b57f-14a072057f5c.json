@@ -1,0 +1,41 @@
+{
+  "id": "6e8c05bb-9ea7-4378-b57f-14a072057f5c",
+  "title": "Happy, a flúgos golfos 2",
+  "originalTitle": "Happy Gilmore 2",
+  "overview": "Tekintsünk vissza Happy Gilmore golfkarrierjére a Tour Championship megnyerése után.  A nagysikerű 1996-os kultikus vígjáték folytatása, melyben Happy Gilmore még nem számolt le a golffal – távolról sem. Adam Sandler lobbanékony legendája visszatér pár ütésre, hogy valóra váltsa a gyereke álmát.",
+  "backdropPath": "/dRgfr6i95s4qEZkdtWdJP495E75.jpg",
+  "posterPath": "/4sha09PEIqpCXLu5cj5GFgpULic.jpg",
+  "releaseDate": "2025-07-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6b114baa-1795-4e42-851b-87fe2181fffb",
+      "title": "Happy, a flúgos golfos 2",
+      "subtitle": null,
+      "timestampString": "01:41:00",
+      "timestampInSeconds": 6060,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #308",
+        "youtubeId": "JX8Yhmv3ho0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JX8Yhmv3ho0/hqdefault.jpg",
+        "durationInMinutes": 210,
+        "releaseDate": 1755468901000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2df5bb5f-8b97-4c1c-8629-c11f99de1793",
+  "title": "The Commuter - Nincs kiszállás",
+  "originalTitle": "The Commuter",
+  "overview": "Egy életunt biztosítási ügynök napja izgalmas fordulatot vesz, amikor egy titokzatos idegen leszólítja a vonaton, és arra kéri, találjon meg egy utast, még mielőtt a vonat beér a végállomásra. Miközben versenyt fut az idővel, hogy megoldja a rejtvényt, egy halálos terv rajzolódik ki, amely veszélyezteti a saját és a többi utas életét is.",
+  "backdropPath": "/srnI5CdeydB9E8WNOqblj0jRfSn.jpg",
+  "posterPath": "/1JBvSrdpyQeiCTZcKnQdytSnUCI.jpg",
+  "releaseDate": "2018-01-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "32fadcc0-7bcb-424b-ae9e-8f6eb858c5ff",
+      "title": "The Commuter - Nincs kiszállás",
+      "subtitle": null,
+      "timestampString": "01:02:50",
+      "timestampInSeconds": 3770,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #137",
+        "youtubeId": "TmsK4Kf-Bj8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/TmsK4Kf-Bj8/hqdefault.jpg",
+        "durationInMinutes": 228,
+        "releaseDate": 1518110484000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

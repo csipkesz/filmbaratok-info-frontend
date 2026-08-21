@@ -1,0 +1,75 @@
+{
+  "id": "59d1b7c5-54b7-4e1f-aaa5-00c11350d6c3",
+  "title": "A múmia",
+  "originalTitle": "The Mummy",
+  "overview": "Az ókori Théba falai között tiltott szerelemre lobbant Imhotep főpap és a fáraó szeretője. Bűnükért halálra ítélik Osiris főpapját és a lányt. Imhotep férgektől nyüzsgő teteme háromezer évig feküdt Hamunaptra elveszett városában. 1925 nyarán azonban néhány elszánt kincsvadász rábukkan az ősi sírra. Akaratukon kívül kiszabadítják Imhotep szellemét, amely egy elátkozott egyiptomi papban kel új életre. Rick O'Connell és a többi kalandor igyekeznek megszabadulni a szörnyű átoktól, amely a borzalmak 3000 éves szellemének feltámadásával fenyegeti őket és az emberiséget.",
+  "backdropPath": "/8zLS8p1tRyWFLRFfmgQq0j5WE6z.jpg",
+  "posterPath": "/k0kbKtmPj1p3Caoxvu8Jfjgv2Kc.jpg",
+  "releaseDate": "1999-04-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e2f4ae91-380d-49d2-82eb-2f318ea35a34",
+      "title": "A múmia",
+      "subtitle": null,
+      "timestampString": "01:27:55",
+      "timestampInSeconds": 5275,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #123",
+        "youtubeId": "bURb6dAUghs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/bURb6dAUghs/hqdefault.jpg",
+        "durationInMinutes": 147,
+        "releaseDate": 1497253469000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fc4705a5-a622-4bbd-ac92-1c9e1f161232",
+      "title": "A múmia",
+      "subtitle": null,
+      "timestampString": "01:12:12",
+      "timestampInSeconds": 4332,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #285 (1999-es filmek)",
+        "youtubeId": "9AOI1V1MgRI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9AOI1V1MgRI/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1725038107000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

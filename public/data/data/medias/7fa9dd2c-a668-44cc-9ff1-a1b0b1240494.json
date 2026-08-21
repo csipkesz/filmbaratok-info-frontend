@@ -1,0 +1,45 @@
+{
+  "id": "7fa9dd2c-a668-44cc-9ff1-a1b0b1240494",
+  "title": "Annie Hall",
+  "originalTitle": "Annie Hall",
+  "overview": "Rendkívül zavaros Alvy Singer, a negyvenéves tévékomikus magánélete. Egyrészt idegbeteggé teszi New York állandó lüktetése, másrészt a közelmúltban elhagyta a barátnője. Ebben a felfokozott lelkiállapotban Alvy visszatekint az életére, a gyerekkorától kezdve egészen a különböző nőügyekig. Közülük is kiemelkedik az Annie Hallhoz fűződő kapcsolata. Egyfelől inába szállt a bátorsága, hogy elkötelezze magát, ám amikor Annie hátat fordított neki, minden áron vissza akarta szerezni.",
+  "backdropPath": "/8n9dYsTbXTykzm2Nuy7R2ftapXQ.jpg",
+  "posterPath": "/dEtjPywhDbAXYjoFfhBC4U9unU7.jpg",
+  "releaseDate": "1977-04-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "00f588d1-d43a-4d63-879e-50af63e55021",
+      "title": "Annie Hall",
+      "subtitle": null,
+      "timestampString": "02:14:21",
+      "timestampInSeconds": 8061,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #73",
+        "youtubeId": "CojqY6DJFQM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/CojqY6DJFQM/hqdefault.jpg",
+        "durationInMinutes": 197,
+        "releaseDate": 1431625186000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

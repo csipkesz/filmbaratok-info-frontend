@@ -1,0 +1,45 @@
+{
+  "id": "0370eeb1-c616-4f2e-ac7c-32504a2d8152",
+  "title": "Luca",
+  "originalTitle": "Luca",
+  "overview": "Luca egy feledhetetlen, fagylalttal, tésztával és végeláthatatlan robogózásokkal teli nyarat él át. Lucával együtt részese a kalandoknak újdonsült barátja is, ám a sok mókázást beárnyékolja egy súlyos titok: mindketten tengeri szörnyek a víz alatti világból.",
+  "backdropPath": "/620hnMVLu6RSZW6a5rwO8gqpt0t.jpg",
+  "posterPath": "/xAJwsjM9QENLa7qRSfI9oOb7a7J.jpg",
+  "releaseDate": "2021-06-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1f92ef6e-9c02-4e95-ad81-eaacb89fd37a",
+      "title": "Luca",
+      "subtitle": null,
+      "timestampString": "01:11:15",
+      "timestampInSeconds": 4275,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #214",
+        "youtubeId": "aARrCL30caA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/aARrCL30caA/hqdefault.jpg",
+        "durationInMinutes": 264,
+        "releaseDate": 1625845165000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

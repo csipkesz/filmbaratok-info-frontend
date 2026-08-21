@@ -1,0 +1,41 @@
+{
+  "id": "78022304-f86a-4a23-9d22-2b5af20473ff",
+  "title": "Avatar",
+  "originalTitle": "Avatar",
+  "overview": "A 22. században, egy deréktól lefelé megbénult tengerészgyalogos érkezik a Pandorára, egyedülálló küldetés céljából. Jake hamarosan választásra kényszerül, a parancsok követése és az idegen civilizáció védelme között.",
+  "backdropPath": "/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
+  "posterPath": "/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+  "releaseDate": "2009-12-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a755cfa3-5897-4909-8a22-3bd4e73683e6",
+      "title": "Avatar",
+      "subtitle": null,
+      "timestampString": "02:12:45",
+      "timestampInSeconds": 7965,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #240",
+        "youtubeId": "T9F8CwPjgqQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/T9F8CwPjgqQ/hqdefault.jpg",
+        "durationInMinutes": 249,
+        "releaseDate": 1664376879000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

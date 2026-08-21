@@ -1,0 +1,41 @@
+{
+  "id": "3ed3bb0f-f2e8-4f5c-946d-a6d12faf839c",
+  "title": "Pirula Panda",
+  "originalTitle": "Turning Red",
+  "overview": "Mei Lee, a 13 éves magabiztos lány próbál anyukája kötelességtúdó lánya lenni, miközben küzd a kamaszkori problémákkal. Védelme érdekében édesanyja, Ming mindig lánya közelében van, ami egy sajnálatos valóság a kamasz számára. És ha a változások a lány érdeklődési körében, kapcsolataiban és testében nem lenne elég, mindannyiszor, amikor ő túl izgatott lesz (szinte mindig), átváltozik egy hatalmas vörös pandává.",
+  "backdropPath": "/fOy2Jurz9k6RnJnMUMRDAgBwru2.jpg",
+  "posterPath": "/7U6YRbZU6UP76CjVpqmLXooWbtn.jpg",
+  "releaseDate": "2022-03-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d019d8d6-c67f-446a-9e40-2f1ef460a65c",
+      "title": "Pirula Panda",
+      "subtitle": null,
+      "timestampString": "01:29:30",
+      "timestampInSeconds": 5370,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #231",
+        "youtubeId": "GwvFCLoE8cY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GwvFCLoE8cY/hqdefault.jpg",
+        "durationInMinutes": 252,
+        "releaseDate": 1650126613000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

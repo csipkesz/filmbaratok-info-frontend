@@ -1,0 +1,75 @@
+{
+  "id": "89e6475e-cd4d-4515-95a4-d80e5ddff0b1",
+  "title": "The Mandalorian",
+  "originalTitle": "The Mandalorian",
+  "overview": "A történet a Birodalom bukása után játszódik, de még az Első rend megerősödése előtt. Egy magányos mandalóri harcos talált gyermekével, Groguval vág át a törvénytelen galaxison.",
+  "backdropPath": "/9zcbqSxdsRMZWHYtyCd1nXPr2xq.jpg",
+  "posterPath": "/vFce9eGSY172Za9unIsgsrcYYvc.jpg",
+  "releaseDate": "2019-11-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "abc898fb-7c67-4074-9c2c-0b7e2fc22f4d",
+      "title": "The Mandalorian (3. évad)",
+      "subtitle": "3. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: The Mandalorian (3. évad)",
+        "youtubeId": "1KlGIrDD9iU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/1KlGIrDD9iU/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1682608639000,
+        "participants": [
+          {
+            "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
+            "name": "Shirin"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "af68aa3c-2a0d-4486-b2de-1ced581c0ca9",
+      "title": "The Mandalorian (2. évad)",
+      "subtitle": "2. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: The Mandalorian (2. évad)",
+        "youtubeId": "n6GIRRIul9Y",
+        "thumbnailUrl": "https://i.ytimg.com/vi/n6GIRRIul9Y/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1608817725000,
+        "participants": [
+          {
+            "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
+            "name": "Shirin"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

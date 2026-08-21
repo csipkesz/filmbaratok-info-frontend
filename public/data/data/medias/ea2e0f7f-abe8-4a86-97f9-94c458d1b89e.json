@@ -1,0 +1,45 @@
+{
+  "id": "ea2e0f7f-abe8-4a86-97f9-94c458d1b89e",
+  "title": "What if [2013]",
+  "originalTitle": "What If",
+  "overview": "",
+  "backdropPath": "/iIcJ72VzqAIw5NT6bOYqfHB2ukM.jpg",
+  "posterPath": "/s38OavIRqUOgQbsEfpKa4Ltgzoa.jpg",
+  "releaseDate": "2013-09-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a68d2b54-8281-4637-a8bf-1db0b4f15ed5",
+      "title": "What if [2013]",
+      "subtitle": null,
+      "timestampString": "02:21:30",
+      "timestampInSeconds": 8490,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #254",
+        "youtubeId": "TI74Dk0Q_o4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/TI74Dk0Q_o4/hqdefault.jpg",
+        "durationInMinutes": 202,
+        "releaseDate": 1683715646000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

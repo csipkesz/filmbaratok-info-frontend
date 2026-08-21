@@ -1,0 +1,41 @@
+{
+  "id": "0b300551-3ea3-4eaf-8605-56613fcb1dfb",
+  "title": "Morbius",
+  "originalTitle": "Morbius",
+  "overview": "Dr. Michael Morbius, aki egy ritka vérbetegségben szenved, és eltökélt szándéka, hogy megmentsen másokat is, akik ugyanerre a sorsra jutnak, kétségbeesett hazárdjátékba kezd. Ami eleinte radikális sikernek tűnik, hamarosan kiderül, hogy a betegségnél is rosszabb gyógymód.",
+  "backdropPath": "/jzWT0zd8U77fqWg5WgUfYaMzSFz.jpg",
+  "posterPath": "/Av8Z2jZhEm1FLkFzMThzz9hndJF.jpg",
+  "releaseDate": "2022-03-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "45eda5b5-6653-464d-98b0-ad3b406c5817",
+      "title": "Morbius",
+      "subtitle": null,
+      "timestampString": "01:56:50",
+      "timestampInSeconds": 7010,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #231",
+        "youtubeId": "GwvFCLoE8cY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GwvFCLoE8cY/hqdefault.jpg",
+        "durationInMinutes": 252,
+        "releaseDate": 1650126613000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

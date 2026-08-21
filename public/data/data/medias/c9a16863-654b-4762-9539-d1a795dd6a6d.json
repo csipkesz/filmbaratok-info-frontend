@@ -1,0 +1,45 @@
+{
+  "id": "c9a16863-654b-4762-9539-d1a795dd6a6d",
+  "title": "Deszkások",
+  "originalTitle": "Grind",
+  "overview": "Eric (Mike Vogel) a fél kezét odaadná, ha a legendás gördeszkás, Jimmy Wilson csapatában deszkázhatna szexis lányok visító hangorkánja közepette. Matt (Vince Vieluf), az őrült haverja még ennél is messzebbre merészkedne, míg Dustin (Adam Brody) minden spórolt pénzét a közösbe dobja, hogy Jimmy hátszelében saját turnéra induljanak. A csapathoz csatlakozik Sweet Lou (Joey Kern) is, aki a lányok felszedésének a világbajnoka, s mellesleg van egy használható verdája. Őrült kaland veszi kezdetét.",
+  "backdropPath": "/5DSsPOA54cb5ffIqJX9Dp5IKgtb.jpg",
+  "posterPath": "/61Okaa6c4QbnK5an9Kl0l3k3WWn.jpg",
+  "releaseDate": "2003-08-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "cfd1225f-2649-4080-84b0-0c6c6ca25f66",
+      "title": "Deszkások",
+      "subtitle": null,
+      "timestampString": "03:06:06",
+      "timestampInSeconds": 11166,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #248",
+        "youtubeId": "VCD8rEWrtzs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VCD8rEWrtzs/hqdefault.jpg",
+        "durationInMinutes": 221,
+        "releaseDate": 1674626980000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

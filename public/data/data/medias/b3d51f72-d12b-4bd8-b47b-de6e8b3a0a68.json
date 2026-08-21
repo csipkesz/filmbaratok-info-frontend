@@ -1,0 +1,49 @@
+{
+  "id": "b3d51f72-d12b-4bd8-b47b-de6e8b3a0a68",
+  "title": "Vadászat",
+  "originalTitle": "The Hunt",
+  "overview": "Tizenkét idegen egy tisztáson ébred. Nem tudják, hol vannak, és hogy kerültek oda. Nem tudják, hogy egy nagyon különleges célból lettek kiválasztva. Ez a cél pedig… a Vadászat.  Egy sötét internetes összeesküvés árnyékában a globalista elit egy csoportja először találkozik egy félreeső birtokon, hogy sportból emberekre vadásszanak. Ám az elit mesteri terve félre fog siklani, mert az egyik préda, Crystal jobban ért náluk ehhez a játékhoz. Keresztülhúzza a gyilkosok számítását, és egyesével elkapja őket. Közben egyre közelebb kerül egy rejtélyes nőhöz, aki az egész ügy középpontjában áll…",
+  "backdropPath": "/evo3crueRIK9Eutb3lnDLVbD2xD.jpg",
+  "posterPath": "/bNmcLbhDdSQwCtbkEb73G5qBMSh.jpg",
+  "releaseDate": "2020-03-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6d4cc42b-35ae-4096-b7e7-ed5a8589f324",
+      "title": "Vadászat",
+      "subtitle": null,
+      "timestampString": "03:20:00",
+      "timestampInSeconds": 12000,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #187",
+        "youtubeId": "Jy2n7Zw18FQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Jy2n7Zw18FQ/hqdefault.jpg",
+        "durationInMinutes": 339,
+        "releaseDate": 1585709102000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

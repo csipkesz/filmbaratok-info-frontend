@@ -1,0 +1,45 @@
+{
+  "id": "b8c3e167-c01f-4f7a-b83c-fe9076e17f25",
+  "title": "Kurszk",
+  "originalTitle": "Kursk",
+  "overview": "A K-141 kódjelű orosz atom-tengeralattjáró, 2000 augusztusában a Barents-tenger fenekére süllyedt. Miközben huszonhárom tengerész az életéért küzdött a mélyben, a szárazföldön vesztegelő családjaik bürokratikus akadályokkal szembesültek, és tehetetlenül várták, hogy valaki megmentse a fiaikat.",
+  "backdropPath": "/tpn4FbxL6oeZh8YtanV1a0k7dLB.jpg",
+  "posterPath": "/fydcsi0NhWeyW41dBOuc38OeWEQ.jpg",
+  "releaseDate": "2018-11-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2c94a98a-93d7-4a82-b161-c68dd07007b7",
+      "title": "Kurszk",
+      "subtitle": null,
+      "timestampString": "01:19:45",
+      "timestampInSeconds": 4785,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #161",
+        "youtubeId": "c8SMgflP8R4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/c8SMgflP8R4/hqdefault.jpg",
+        "durationInMinutes": 262,
+        "releaseDate": 1548928591000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

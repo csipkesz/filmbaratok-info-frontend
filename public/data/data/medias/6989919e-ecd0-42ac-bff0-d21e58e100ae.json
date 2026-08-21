@@ -1,0 +1,45 @@
+{
+  "id": "6989919e-ecd0-42ac-bff0-d21e58e100ae",
+  "title": "Mentőexpedíció",
+  "originalTitle": "The Martian",
+  "overview": "Mark Watney asztronauta a marsi expedíció közben egy felszíni vihar közepén megsérül, és mivel társai halottnak hiszik, hátrahagyják. De Watney életben marad, és egyedül találja magát sebesülten egy ellenséges bolygón. Elképesztő élniakarásról és találékonyságról tanúságot téve megteremti magának az életfeltételeket a zord környezetben, és a módot, hogy hazaüzenjen. A Földön az egész világ összefog, hogy megmentse a Marson ragadt embert, s a NASA egy igazán eszement, csaknem lehetetlen mentőakciót dolgoz ki a hazajuttatására.",
+  "backdropPath": "/lzMS0CI3FLQYC5EgJoWeIaEt0lm.jpg",
+  "posterPath": "/wJQHCQl1rP3pldna3yC6xd5E7P8.jpg",
+  "releaseDate": "2015-09-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "318bc08b-ba21-4e48-812a-f2f1fd0e2d18",
+      "title": "A mentőexpedíció",
+      "subtitle": null,
+      "timestampString": "00:41:40",
+      "timestampInSeconds": 2500,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #83",
+        "youtubeId": "hnUVtArlE_k",
+        "thumbnailUrl": "https://i.ytimg.com/vi/hnUVtArlE_k/hqdefault.jpg",
+        "durationInMinutes": 177,
+        "releaseDate": 1445005790000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

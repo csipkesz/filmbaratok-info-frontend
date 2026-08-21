@@ -1,0 +1,45 @@
+{
+  "id": "0299f89a-59db-4083-88b3-63dd7b610b08",
+  "title": "Szürke zóna",
+  "originalTitle": "In the Grey",
+  "overview": "A film két embermentő szakember körül forog, akiknek ki kell jelölniük a menekülési útvonalat egy vezető női tárgyaló számára.",
+  "backdropPath": "/qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
+  "posterPath": "/i0doR7wsRtqDtnXN8kZPOrLNxF8.jpg",
+  "releaseDate": "2026-05-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "876972d6-3293-4c06-a7b7-0bc2f6c0d036",
+      "title": "Szürke zóna",
+      "subtitle": null,
+      "timestampString": "01:52:50",
+      "timestampInSeconds": 6770,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #329",
+        "youtubeId": "mMxJ3JAYZY4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/mMxJ3JAYZY4/hqdefault.jpg",
+        "durationInMinutes": 212,
+        "releaseDate": 1782846925000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0d7f55db-5fd9-4613-a380-785a94e34415",
+  "title": "Zúzógép",
+  "originalTitle": "The Smashing Machine",
+  "overview": "A Zúzógép egy dráma, amely Mark Kerr, a legendás MMA-harcos története alapján készült, aki a UFC korszakában, karrierje csúcsán, a korlátok nélkül harcolt. Küzd a függőséggel, a győzelemmel, a szerelemmel és a barátsággal a 2000-es években.",
+  "backdropPath": "/hTCr9dDf0EcBGZSUaY0YCeBjBr5.jpg",
+  "posterPath": "/a7Szhdfb9yRjDvo9R3lX3pfYuka.jpg",
+  "releaseDate": "2025-10-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4f98f40d-6347-4315-bbf1-80ac30ac66d6",
+      "title": "Zúzógép",
+      "subtitle": null,
+      "timestampString": "01:45:22",
+      "timestampInSeconds": 6322,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #318",
+        "youtubeId": "97jsp1z7nD4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/97jsp1z7nD4/hqdefault.jpg",
+        "durationInMinutes": 190,
+        "releaseDate": 1768489534000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

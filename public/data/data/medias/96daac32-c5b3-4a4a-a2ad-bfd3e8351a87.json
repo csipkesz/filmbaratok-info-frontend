@@ -1,0 +1,41 @@
+{
+  "id": "96daac32-c5b3-4a4a-a2ad-bfd3e8351a87",
+  "title": "Marcel the shell with shoes on",
+  "originalTitle": "Marcel the Shell with Shoes On",
+  "overview": "A Marcel nevű puhatestűvel készített animációs rövidfilm nagyjátékfilmes adaptációja. Mikor szomszédaik hirtelen eltűnnek, Marcel, a kis csiga egyedül marad a nagymamájával. Egy látogató közzétesz egy filmet az interneten, amely Marcelnek rajongók millióit hozza, és a reményt, hogy újra találkozhat rég elveszett családjával.",
+  "backdropPath": "/1PRWW60yQparK1I8Soyy9Evf7Dv.jpg",
+  "posterPath": "/xPqbAdtuHNJEbD0XmEpzlXKy1cw.jpg",
+  "releaseDate": "2022-06-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2fb47ea6-0115-4d55-b1d4-671758ed70b8",
+      "title": "Marcel the shell with shoes on",
+      "subtitle": null,
+      "timestampString": "03:01:24",
+      "timestampInSeconds": 10884,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #240",
+        "youtubeId": "T9F8CwPjgqQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/T9F8CwPjgqQ/hqdefault.jpg",
+        "durationInMinutes": 249,
+        "releaseDate": 1664376879000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

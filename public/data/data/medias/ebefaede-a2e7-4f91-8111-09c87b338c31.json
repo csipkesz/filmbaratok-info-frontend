@@ -1,0 +1,45 @@
+{
+  "id": "ebefaede-a2e7-4f91-8111-09c87b338c31",
+  "title": "Pókerarcok",
+  "originalTitle": "Rounders",
+  "overview": "A profi zsugások azt vallják: a megélhetésért játszani van olyan meló, mint bármi más. Nem hazardírozol. Tutira mész. A cél, hogy óránként bekaszálj egy nagy tétet. Ennyi. Ha jól jár a lap, beszeded a pénzt, ha rosszul jár, ülsz rajta. Nem kockáztatsz. Így fizettem két évig a jogi egyetemet. Ilyen az igazi verklis. A New York-i pókeralvilágban játszódó történet egy fiúról szól, aki álmát a kártyaasztalnál próbálja valóra válni. A zsugás Mike McDermott feladja pókerszenvedélyét. Beiratkozik a jogi egyetemre, mert számára ez a biztos út a sikeres életbe. Csakhogy hiányzik belőle a titkos hátsó szobák pókercsatáinak izgalma, és amikor régi barátját, Férget kiengedik a börtönből, Mike-nak szembe kell néznie a nehéz és kockázatos dilemmával, hogy visszatérjen-e a zsugások világába a barátja kedvéért.",
+  "backdropPath": "/tgRQsrjBKdic7llxhI7pqLJb8kS.jpg",
+  "posterPath": "/cVhhBMeSIMDrHqKLBSTwTPduiRf.jpg",
+  "releaseDate": "1998-09-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "26cc82af-f8f5-4695-b04f-1473568f9de8",
+      "title": "Pókerarcok",
+      "subtitle": null,
+      "timestampString": "00:52:15",
+      "timestampInSeconds": 3135,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #65",
+        "youtubeId": "Nho9twpqK9c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Nho9twpqK9c/hqdefault.jpg",
+        "durationInMinutes": 210,
+        "releaseDate": 1420868167000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

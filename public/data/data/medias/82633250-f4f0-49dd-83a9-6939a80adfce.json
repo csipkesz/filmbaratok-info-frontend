@@ -1,0 +1,41 @@
+{
+  "id": "82633250-f4f0-49dd-83a9-6939a80adfce",
+  "title": "A trollvadász",
+  "originalTitle": "Trolljegeren",
+  "overview": "A kormány azt állítja, nincs mitől félni - csak néhány megvadult medve okoz gondot Norvégia erdős hegyvidékein. A helyi vadászok azonban másra gyanakszanak csakúgy, mint az a három egyetemista, akik ki akarják deríteni az igazságot. Egy videokamerával felszerelkezve nyomába szegődnek egy titokzatos \"vadorzónak\", aki szóba sem akar állni velük. Kitartásuk nyomán azonban csakhamar szemtől szemben állhatnak a rejtélyes lényekkel, amelyek létezését mindenki tagadja: a trollokkal. Az ifjú forgatócsoport ettől kezdve a trollvadász minden lépését dokumentálja, életüket is kockára téve, hogy bizonyítékot szolgáltassanak a világnak e mindeddig mesebeli lényeknek tartott szörnyekről.",
+  "backdropPath": "/8dI1r7qh7sT79ZkkvhTKFwAIuV1.jpg",
+  "posterPath": "/f0Y3E6KlfBiJbODZsxGRVMxo8TP.jpg",
+  "releaseDate": "2010-10-29T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0ccc3b41-a999-49a9-91a7-b45e965c0da1",
+      "title": "A trollvadász",
+      "subtitle": null,
+      "timestampString": "02:08:10",
+      "timestampInSeconds": 7690,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #92",
+        "youtubeId": "TLrrzuetTk0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/TLrrzuetTk0/hqdefault.jpg",
+        "durationInMinutes": 156,
+        "releaseDate": 1455295114000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

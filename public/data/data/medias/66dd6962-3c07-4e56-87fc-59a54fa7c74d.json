@@ -1,0 +1,41 @@
+{
+  "id": "66dd6962-3c07-4e56-87fc-59a54fa7c74d",
+  "title": "Wheelman",
+  "originalTitle": "Wheelman",
+  "overview": "A bankrablókat kimenekítő sofőrt elárulják, így hősünk most az idővel versenyezve próbál rájönni arra, hogy ki tett neki keresztbe.",
+  "backdropPath": "/zABLkisR5i0HQgpBcyWwQGVk89c.jpg",
+  "posterPath": "/qitUsN1Ea8Bsg8R0QtBB35H2xgB.jpg",
+  "releaseDate": "2017-10-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "216a82f2-ae36-4682-ac96-89c254b6d1e7",
+      "title": "Wheelman",
+      "subtitle": null,
+      "timestampString": "01:28:30",
+      "timestampInSeconds": 5310,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #137",
+        "youtubeId": "TmsK4Kf-Bj8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/TmsK4Kf-Bj8/hqdefault.jpg",
+        "durationInMinutes": 228,
+        "releaseDate": 1518110484000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

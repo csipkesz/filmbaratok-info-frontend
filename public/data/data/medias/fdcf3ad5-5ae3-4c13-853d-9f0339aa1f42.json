@@ -1,0 +1,45 @@
+{
+  "id": "fdcf3ad5-5ae3-4c13-853d-9f0339aa1f42",
+  "title": "Greenland - Az utolsó menedék",
+  "originalTitle": "Greenland",
+  "overview": "Egy hatalmas méretű üstökös közelít a Föld felé, amely az emberiség teljes pusztulását okozhatja. A totális káosz, és tömeges pánik közepette John Garrity is menekülésre kényszerül családjával. Az elszánt férfi csak egy dolgot akar: biztonságban tudni feleségét és kisfiát. A végzetes, apokaliptikus katasztrófa árnyékában Garrity bármire képes, hogy eljuttassa szeretteit a Föld utolsó, védelmet nyújtó menedékére.",
+  "backdropPath": "/2Fk3AB8E9dYIBc2ywJkxk8BTyhc.jpg",
+  "posterPath": "/bhQ2Asy2w5s4e4q53ymEAhra7aF.jpg",
+  "releaseDate": "2020-07-29T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9f3d6068-e431-4449-bb02-ad4ab92b84bd",
+      "title": "Greenland - Az utolsó menedék",
+      "subtitle": null,
+      "timestampString": "01:53:40",
+      "timestampInSeconds": 6820,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #199",
+        "youtubeId": "fQW3yV4nVGM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fQW3yV4nVGM/hqdefault.jpg",
+        "durationInMinutes": 264,
+        "releaseDate": 1603214829000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

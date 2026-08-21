@@ -1,0 +1,45 @@
+{
+  "id": "070ef4d0-9b0a-4189-abb0-4c9325c1855d",
+  "title": "Kairó bíbor rózsája",
+  "originalTitle": "The Purple Rose of Cairo",
+  "overview": "A harmincas évek gazdasági válsága idején részeges, munkanélküli férjének brutalitása és pincérnői állásának unalma elől Cecilia a mozi csillogó álomvilágába menekül: a Kairó bíbor rózsáját például annyiszor nézi meg, hogy rajongó tekintete a való életbe csalja a mozivászonról a hősszerelmes Tom Baxtert. Mivel ez menthetetlenül elakasztja a moziban vetített filmet, gázsiját féltve akcióba lendül Gil Sheperd, a Tomot alakító színész is. Ez a hármasság - a valóság, a valóság látszata és a látszat valósága - egyre újabb komikus helyzeteket teremt és fokozatosan fontos jelentéstani kérdéssé is válik.",
+  "backdropPath": "/afbfZtBOZIfxlzzvHCOfauI6pna.jpg",
+  "posterPath": "/yyewhrfNCKJtEo40qAVM4QeNLiC.jpg",
+  "releaseDate": "1985-03-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f1812082-2925-41b1-b0cd-0099d0a48217",
+      "title": "Kairó bíbor rózsája",
+      "subtitle": null,
+      "timestampString": "02:28:33",
+      "timestampInSeconds": 8913,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #72",
+        "youtubeId": "Mkw8rsdw7bc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Mkw8rsdw7bc/hqdefault.jpg",
+        "durationInMinutes": 199,
+        "releaseDate": 1430242149000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

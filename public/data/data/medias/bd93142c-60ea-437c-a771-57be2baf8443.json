@@ -1,0 +1,37 @@
+{
+  "id": "bd93142c-60ea-437c-a771-57be2baf8443",
+  "title": "Elit játszma",
+  "originalTitle": "Molly's Game",
+  "overview": "Molly Los Angelesbe költözik, ahol személyi asszisztensként kezd el dolgozni, másodállásban pedig főnöke pókerklubja vezetésébe is besegít. Hirtelen a hollywoodi elit legbelsőbb köreiben találja magát, vendégei menő üzletemberek, híres sportolók, mozisztárok, rendezők.  Egy kis lelemény és kitartás árán a legnívósabb klub élére küzdi fel magát, ahol percenként dollármilliók cserélnek gazdát. A sikeres vállalkozásra az orosz maffia is felfigyel, csakúgy, mint az FBI. A diszkréciót mindennél fontosabbnak tartó lány nehéz helyzetbe kerül: ha nem akar rács mögé kerülni, ki kell szolgáltatnia exkluzív ügyfeleit a kormány embereinek. Az egyetlen szövetségese, ügyvédje, Charlie Jaffey, próbálja kihúzni őt a csávából: meg akarja mutatni a világnak, hogy az elveihez végsőkig ragaszkodó pókerhercegnő korrektebb játékot űz, mint ahogy azt elsőre bárki gondolná.",
+  "backdropPath": "/rHcBZ6ZKCe4FalWHyvBGsyMsh0k.jpg",
+  "posterPath": "/gdOPRfZUx9CS3vt8zmuDvlO8Cfu.jpg",
+  "releaseDate": "2017-12-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "cf6be5d6-437e-4fd5-966c-336f735b815f",
+      "title": "Elit játszma",
+      "subtitle": null,
+      "timestampString": "01:25:10",
+      "timestampInSeconds": 5110,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #136",
+        "youtubeId": "4b51e0H7UII",
+        "thumbnailUrl": "https://i.ytimg.com/vi/4b51e0H7UII/hqdefault.jpg",
+        "durationInMinutes": 187,
+        "releaseDate": 1516893789000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

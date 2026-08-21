@@ -1,0 +1,41 @@
+{
+  "id": "7af0ef8a-3da9-4416-b84e-f139899edd78",
+  "title": "Három óriásplakát Ebbing határában",
+  "originalTitle": "Three Billboards Outside Ebbing, Missouri",
+  "overview": "Hónapok teltek el Mildred Hayes lányának meggyilkolása óta, ám a tettes azóta sem került elő. A nő most vakmerő lépésre szánja el magát: kibérel három óriásplakátot, melyeken provokatív üzenetet címez William Willoughby rendőrfőnöknek. Miután egy másik rendőr, az egyszerű és erőszakra hajlamos Jason Dixon is beleártja magát az ügybe, a viszony Mildred és az ebbingi hatóság közötti egyre inkább elmérgesedik.",
+  "backdropPath": "/oQHF0Y4gCw6VdPmapjsbZoxY2ht.jpg",
+  "posterPath": "/yz7CqzhjBwKfaQF2QvQptuv039C.jpg",
+  "releaseDate": "2017-12-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8ec2ef02-1ecc-4d41-8b12-521ff2c28705",
+      "title": "Három óriásplakát Ebbing határában",
+      "subtitle": null,
+      "timestampString": "02:02:56",
+      "timestampInSeconds": 7376,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #137",
+        "youtubeId": "TmsK4Kf-Bj8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/TmsK4Kf-Bj8/hqdefault.jpg",
+        "durationInMinutes": 228,
+        "releaseDate": 1518110484000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

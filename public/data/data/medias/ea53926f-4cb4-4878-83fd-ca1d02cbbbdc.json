@@ -1,0 +1,45 @@
+{
+  "id": "ea53926f-4cb4-4878-83fd-ca1d02cbbbdc",
+  "title": "A fegyvertelen katona",
+  "originalTitle": "Hacksaw Ridge",
+  "overview": "Desmond Doss a második világháború egyik legvéresebb csatájában Okinawa szigetén 75 bajtársa életét mentette meg úgy, hogy ő maga nem viselt fegyvert. Vallási meggyőződése volt, hogy noha hazája igazságos háborút vív, neki magának nem szabad ölnie. Szanitécként több alkalommal is egymaga hozta ki sebesült bajtársait az ellenséges vonalak mögül vagy a tűz alatt tartott senkiföldjéről, miközben ő maga is súlyos sérüléseket szenvedett. Doss volt az első olyan katona, aki lelkiismereti okokból megtagadta a fegyveres szolgálatot és megkapta a Kongresszusi Becsület Érdemrendet, Amerika legmagasabb katonai kitüntetését.",
+  "backdropPath": "/vDKRMZGFTKP9nQolzeSB1rB1w6p.jpg",
+  "posterPath": "/aFt3XBNNxWMFIVNfI2aOsh3xn18.jpg",
+  "releaseDate": "2016-10-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8c5bcfe5-3ff4-4ab9-a255-5bf59c9be6d5",
+      "title": "A fegyvertelen katona",
+      "subtitle": null,
+      "timestampString": "00:26:48",
+      "timestampInSeconds": 1608,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #114",
+        "youtubeId": "-MXopm_I1eY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-MXopm_I1eY/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1484786554000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

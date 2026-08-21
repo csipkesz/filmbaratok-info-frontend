@@ -1,0 +1,75 @@
+{
+  "id": "fcd74fe6-6720-4ded-873d-6a6f5a53ebcd",
+  "title": "Frank",
+  "originalTitle": "Frank",
+  "overview": "",
+  "backdropPath": "/4ecmZvvtZuAP4ZPabZoFVEae6S.jpg",
+  "posterPath": "/7WO2pWnYwily1sRAYgahXR5yLIa.jpg",
+  "releaseDate": "2026-02-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8316ef3c-bb1f-4ca6-a380-8d721ff5c8ca",
+      "title": "Frank",
+      "subtitle": null,
+      "timestampString": "01:47:48",
+      "timestampInSeconds": 6468,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #58",
+        "youtubeId": "fTyqWvDVF00",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fTyqWvDVF00/hqdefault.jpg",
+        "durationInMinutes": 178,
+        "releaseDate": 1412093302000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "96626ff8-34d0-49cd-a1bf-d4c7f4bbf7bc",
+      "title": "Frank",
+      "subtitle": null,
+      "timestampString": "01:28:28",
+      "timestampInSeconds": 5308,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #59",
+        "youtubeId": "xa1Ymms2_9c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/xa1Ymms2_9c/hqdefault.jpg",
+        "durationInMinutes": 189,
+        "releaseDate": 1413978295000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

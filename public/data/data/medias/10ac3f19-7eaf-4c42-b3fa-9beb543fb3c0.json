@@ -1,0 +1,49 @@
+{
+  "id": "10ac3f19-7eaf-4c42-b3fa-9beb543fb3c0",
+  "title": "Mátrix - Forradalmak",
+  "originalTitle": "The Matrix Revolutions",
+  "overview": "A Mátrix-trilógia harmadik, befejező részében az emberek és gépek közti elkeseredett háború katasztrófával fenyegető záróakkordjához érkezik: Zion katonái, bátor civil önkéntesekkel az oldalukon - mint Zee és a Kölyök - kétségbeesetten harcolnak, hogy visszaverjék az őrszemek támadását, amikor a géphadsereg fúrásai már a rejtekhelyük közelébe érnek.A teljes megsemmisüléssel szembesülve az emberiség utolsó bástyájának lakói nem csak saját életükért, de magáért az emberiség jövőjéért küzdenek. Csakhogy egy ismeretlen elem megmérgezi a belső soraikat is: Smith, az immár öntudatra ébredt program ravaszul elrabolja Bane-t, a hajóflotta egyik tagját. Smith már kikerült a gépek ellenőrzése alól, és minden egyes másodperccel erősebbé válik, az a célja, hogy elpusztítsa a birodalmat a való világgal és a Mátrixszal együtt. Az Orákulum végleges útmutatást ajánl Neónak, de ő fenntartásokkal fogadja a szavait, mert attól tart, hogy a nőt is csak egy program irányítja.",
+  "backdropPath": "/533xAMhhVyjTy8hwMUFEt5TuDfR.jpg",
+  "posterPath": "/b4jRflGjMzd49wAg20AriZaXb4M.jpg",
+  "releaseDate": "2003-11-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b44acce7-cbf8-452b-ac4f-7c6ab4a0be21",
+      "title": "Mátrix trilógia",
+      "subtitle": null,
+      "timestampString": "02:41:49",
+      "timestampInSeconds": 9709,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #78",
+        "youtubeId": "MfKijNw0U44",
+        "thumbnailUrl": "https://i.ytimg.com/vi/MfKijNw0U44/hqdefault.jpg",
+        "durationInMinutes": 236,
+        "releaseDate": 1438367365000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "30b06a55-5fbf-4673-bd8d-fff0c5bee210",
+            "name": "Kvízmester"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

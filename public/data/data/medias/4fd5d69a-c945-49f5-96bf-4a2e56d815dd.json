@@ -1,0 +1,45 @@
+{
+  "id": "4fd5d69a-c945-49f5-96bf-4a2e56d815dd",
+  "title": "Sully",
+  "originalTitle": "Sully",
+  "overview": "Chesley \"Sully\" Sullenberger kapitány 2009. január 15-én New York fölött, egy madarakkal való ütközés után a Hudson folyóra tett le csodával határos módon egy utasszállító gépet, megmentve ezzel 155 ember életét. Az eset médiaszenzáció lett, ám a repülésügyi vizsgálat több szakmai hibára is rámutatott, ami miatt Sully kapitány végül nyugdíjba vonult.",
+  "backdropPath": "/oQ024BtJgArg8WI4zfuc2vkCJno.jpg",
+  "posterPath": "/r5hSNWW4jUTyzxXmQaXWFzJ15YR.jpg",
+  "releaseDate": "2016-09-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "bd8cfb26-672f-4118-9a53-0a4cbc4de6d6",
+      "title": "Sully",
+      "subtitle": null,
+      "timestampString": "00:26:48",
+      "timestampInSeconds": 1608,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #107",
+        "youtubeId": "nil8BrN67hQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nil8BrN67hQ/hqdefault.jpg",
+        "durationInMinutes": 225,
+        "releaseDate": 1475265113000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "d70211e6-cd1a-4280-8bca-8d017726af99",
+            "name": "Emese"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

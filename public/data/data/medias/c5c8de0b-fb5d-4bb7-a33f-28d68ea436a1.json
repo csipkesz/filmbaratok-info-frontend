@@ -1,0 +1,45 @@
+{
+  "id": "c5c8de0b-fb5d-4bb7-a33f-28d68ea436a1",
+  "title": "Eltűnt",
+  "originalTitle": "Missing",
+  "overview": "Amikor édesanyja eltűnik, miközben új barátjával Kolumbiában nyaral, June válaszok utáni keresését a nemzetközi bürokrácia akadályozza. A több ezer mérfölddel távolabb, Los Angelesben rekedt June kreatívan használja a karnyújtásnyira lévő legújabb technológiát, hogy megpróbálja megtalálni, mielőtt túl késő lenne.",
+  "backdropPath": "/tVH1qEFyKiCpP6kNDFyXKW2Tiif.jpg",
+  "posterPath": "/zPhAPwRkkgx800mYmN6MHYAJAvX.jpg",
+  "releaseDate": "2023-01-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8ab46181-6ce9-429b-a4fb-0957f42bc577",
+      "title": "Eltűnt",
+      "subtitle": null,
+      "timestampString": "02:01:35",
+      "timestampInSeconds": 7295,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #251",
+        "youtubeId": "sMMPgkRN14I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/sMMPgkRN14I/hqdefault.jpg",
+        "durationInMinutes": 273,
+        "releaseDate": 1678475107000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "d1d86f04-3ebf-4ddb-9e66-872cf1f213db",
+  "title": "A Wenckheimek",
+  "originalTitle": null,
+  "overview": null,
+  "backdropPath": null,
+  "posterPath": null,
+  "releaseDate": null,
+  "topics": [
+    {
+      "id": "74b2f0e7-c5c8-4627-8ff8-ff7feaf08692",
+      "title": "A Wenckheimek",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: A Wenckheimek",
+        "youtubeId": "rqnxAxiTajo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/rqnxAxiTajo/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1782550055000,
+        "participants": []
+      }
+    }
+  ]
+}

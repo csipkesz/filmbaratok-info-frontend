@@ -1,0 +1,41 @@
+{
+  "id": "a369fcbc-2ba5-4add-9883-8e64c7a90ab1",
+  "title": "A hiányzó láncszem",
+  "originalTitle": "Missing Link",
+  "overview": "A karizmatikus Sir Lionel Frost a világ első számú nyomozójaként tekint magára a szörnyekkel kapcsolatos ügyek terén. Csakhogy a világ egészen másképp vélekedik róla. Hogy kivívja magának az elismerést, egy nagy kalandra indul, hogy bebizonyítsa egy legendás lény létezését.",
+  "backdropPath": "/l36ekUEEDLMAuL0YAU2Qxfq1i6X.jpg",
+  "posterPath": "/4MuD18OfvdMNc7JlOEyDyORKeB0.jpg",
+  "releaseDate": "2019-04-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8f5eb9a0-e94e-4dd0-b26b-70d73f60d3db",
+      "title": "A hiányzó láncszem",
+      "subtitle": null,
+      "timestampString": "01:13:45",
+      "timestampInSeconds": 4425,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #168",
+        "youtubeId": "_Gfw4jCabeA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_Gfw4jCabeA/hqdefault.jpg",
+        "durationInMinutes": 156,
+        "releaseDate": 1557378988000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

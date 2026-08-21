@@ -1,0 +1,45 @@
+{
+  "id": "e39e7c3c-73a5-4d8d-9c89-5d893a35c415",
+  "title": "A Lego-kaland 2",
+  "originalTitle": "The Lego Movie 2: The Second Part",
+  "overview": "Emmet és Lucy egy apokaliptikus kockavilágban élnek, ahol semmi sem olyan szipi-szuper, mint korábban volt. Ráadásul a körülmények tovább romlanak, amikor egy idegen űrhajó elrabolja a Lego-világ harcosait. Hőseink nem maradhatnak tétlenek, úgy döntenek, megmentik társaikat. Ehhez első lépésként egy űrhajót kell építeniük...",
+  "backdropPath": "/2U2h8PpsaWn90jdtyG0tu9ZxttZ.jpg",
+  "posterPath": "/3rBMYANDR8frkz81LBes68aiEli.jpg",
+  "releaseDate": "2019-02-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8c2df5da-6401-4dc8-9252-29f4a9ec2494",
+      "title": "A Lego-kaland 2",
+      "subtitle": null,
+      "timestampString": "00:39:30",
+      "timestampInSeconds": 2370,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #162",
+        "youtubeId": "Pm_3kToMJek",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Pm_3kToMJek/hqdefault.jpg",
+        "durationInMinutes": 231,
+        "releaseDate": 1550070901000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

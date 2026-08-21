@@ -1,0 +1,45 @@
+{
+  "id": "ea98c386-69b8-4e66-855d-c48aac6bd834",
+  "title": "Lódító hódító",
+  "originalTitle": "The Invention of Lying",
+  "overview": "Egy olyan világban járunk, amely teljesen olyan mint a mienk, annyi különbséggel, hogy még soha senki nem hazudott, sőt senki sem tudja, hogy egyáltalán mi is az a hazugság. Itt mindenki igazat mond, legyen az kereskedő, ügyvéd, vagy épp politikus. Ebben a világban éli szerencsétlen kis életét Mark Bellison (Ricky Gervais – Csillagpor, A hivatal /Office/, Futottak még /Extras/), mígnem megesik az, ami még sosem: Frank hazudik. És innentől megindul a lavina, Frank könyörtelenül kihasználja vadiúj képességét, és azt a tényt, hogy mindenki hisz neki, hiszen rajta kívül senki sem tudja, mi az a hazugság.",
+  "backdropPath": "/8ZlxM5IYLtg2KnRl1IoS83mlxt0.jpg",
+  "posterPath": "/2jLEGrePnX25oIS5FDnLvRTYxVU.jpg",
+  "releaseDate": "2009-10-02T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f524c00d-a315-4e1c-b500-535684afff2b",
+      "title": "Lódító hódító",
+      "subtitle": null,
+      "timestampString": "01:15:20",
+      "timestampInSeconds": 4520,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #131",
+        "youtubeId": "QymLKg2wvV4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/QymLKg2wvV4/hqdefault.jpg",
+        "durationInMinutes": 230,
+        "releaseDate": 1509033085000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

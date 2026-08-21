@@ -1,0 +1,45 @@
+{
+  "id": "3f3368d8-78a9-4e3d-bdfe-1b569fdaccf8",
+  "title": "Palm Springs",
+  "originalTitle": "Palm Springs",
+  "overview": "Mit tennél, ha bármit megtehetnél, következmények nélkül? A szakítófélben lévő Nyles napról-napra elkíséri barátnőjét egy Palm Springs-i esküvőre. Ugyanarra. Nyles ugyanis időhurokba került, és mindig ugyanaz az egyetlen nap ismétlődik az életében. Az éppen aktuális napon Nyles a menyasszony nővérére, Sarah-ra hajt, a vendégekkel gyűjtött tapasztalatait kihasználva persze gyorsan egyenesbe is kerül. Ekkor azonban Sarah is belekerül az időhurokba...",
+  "backdropPath": "/d7JUXVvjvVCXWs1mlpyO5ESdWdT.jpg",
+  "posterPath": "/gnAfqiV7yO3Jq9IntTmwkcaICqc.jpg",
+  "releaseDate": "2020-07-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "cb88ae29-ad01-4d9b-98c3-20fe7fa77272",
+      "title": "Palm Springs",
+      "subtitle": null,
+      "timestampString": "02:51:36",
+      "timestampInSeconds": 10296,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #194",
+        "youtubeId": "2m4_RXJX-Pw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/2m4_RXJX-Pw/hqdefault.jpg",
+        "durationInMinutes": 236,
+        "releaseDate": 1596041624000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "e4d249a5-e251-44d9-8c10-8e2e3e9a6069",
+            "name": "Anna"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

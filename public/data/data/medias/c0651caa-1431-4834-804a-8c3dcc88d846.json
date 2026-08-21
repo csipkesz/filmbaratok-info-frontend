@@ -1,0 +1,49 @@
+{
+  "id": "c0651caa-1431-4834-804a-8c3dcc88d846",
+  "title": "A két pápa",
+  "originalTitle": "The Two Popes",
+  "overview": "A Vatikán falai mögött a konzervatív Benedeknek és a kissé haladóbb szemléletű Ferenc pápának közös nevezőre kell jutnia, hogy biztos útra terelhessék a katolikus egyház jövőjét.",
+  "backdropPath": "/bOPessdyd0dChHy70FM8Om7CgDg.jpg",
+  "posterPath": "/jbVEuJYO3gkHk0K2ykeyYtaSXg6.jpg",
+  "releaseDate": "2019-11-27T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f80d6db6-fa4a-4eb7-b633-1df35a6a8065",
+      "title": "A két pápa",
+      "subtitle": null,
+      "timestampString": "08:15:00",
+      "timestampInSeconds": 29700,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #184",
+        "youtubeId": "yDKXFhvljd4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/yDKXFhvljd4/hqdefault.jpg",
+        "durationInMinutes": 257,
+        "releaseDate": 1581012388000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

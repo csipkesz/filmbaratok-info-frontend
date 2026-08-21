@@ -1,0 +1,45 @@
+{
+  "id": "b223860e-f874-42b2-a73a-30a07f4e4c54",
+  "title": "Enola Holmes",
+  "originalTitle": "Enola Holmes",
+  "overview": "Enola Holmes, az eltűnt édesanyja után kutató elszánt tini nyomozói képességeivel próbálja túlszárnyalni bátyját, Sherlockot, miközben egy menekülő lordnak is segít.",
+  "backdropPath": "/kMe4TKMDNXTKptQPAdOF0oZHq3V.jpg",
+  "posterPath": "/k0VzrfnUQA8IgTwxplv4BOEFf8v.jpg",
+  "releaseDate": "2020-09-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d71090f1-4102-478d-9231-a338644729b4",
+      "title": "Enola Holmes",
+      "subtitle": null,
+      "timestampString": "00:48:40",
+      "timestampInSeconds": 2920,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #199",
+        "youtubeId": "fQW3yV4nVGM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fQW3yV4nVGM/hqdefault.jpg",
+        "durationInMinutes": 264,
+        "releaseDate": 1603214829000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

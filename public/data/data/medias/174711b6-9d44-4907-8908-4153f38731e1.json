@@ -1,0 +1,45 @@
+{
+  "id": "174711b6-9d44-4907-8908-4153f38731e1",
+  "title": "Fekete Párduc 2",
+  "originalTitle": "Black Panther: Wakanda Forever",
+  "overview": "Ramonda királynő, Shuri, M'Baku, Okoye és Dora Milaje azért küzdenek, hogy megvédjék nemzetüket a beavatkozó világhatalmaktól T'Challa király halála nyomán. Miközben a wakandaiak arra törekednek, hogy magukévá tegyék a következő fejezetet, a hősöknek össze kell fogniuk Nakia és Everett Ross segítségével, és új utat kell kialakítaniuk Wakanda királysága felé.",
+  "backdropPath": "/83H0C66AcvkwpG2738VCTHMY9uv.jpg",
+  "posterPath": "/12EKY9DXT7BqjuhY1X9mjzlYk2t.jpg",
+  "releaseDate": "2022-11-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2a81ab01-909f-4120-a101-b9d7ff48cf30",
+      "title": "Fekete Párduc 2",
+      "subtitle": null,
+      "timestampString": "00:50:35",
+      "timestampInSeconds": 3035,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #243",
+        "youtubeId": "gCWkf0UnSwY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gCWkf0UnSwY/hqdefault.jpg",
+        "durationInMinutes": 296,
+        "releaseDate": 1668706204000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

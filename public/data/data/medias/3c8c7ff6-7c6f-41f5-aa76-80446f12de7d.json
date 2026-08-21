@@ -1,0 +1,45 @@
+{
+  "id": "3c8c7ff6-7c6f-41f5-aa76-80446f12de7d",
+  "title": "Hideg hal",
+  "originalTitle": null,
+  "overview": null,
+  "backdropPath": null,
+  "posterPath": null,
+  "releaseDate": null,
+  "topics": [
+    {
+      "id": "43a8e0bb-ea2f-4c1c-9391-9217873af66f",
+      "title": "Hideg hal [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "02:14:40",
+      "timestampInSeconds": 8080,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #263",
+        "youtubeId": "NClyKPWf8XU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/NClyKPWf8XU/hqdefault.jpg",
+        "durationInMinutes": 174,
+        "releaseDate": 1695962100000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "cb78bbeb-c342-4187-89db-34c5492f4e3c",
+  "title": "Rebel Moon 2. rész: A Sebejtő",
+  "originalTitle": "Rebel Moon - Part Two: The Scargiver",
+  "overview": "A felkelők az anyavilág könyörtelen erői elleni háborúra készülnek. Eltéphetetlen kötelékek kovácsolódnak, hősök emelkednek fel és legendák születnek.",
+  "backdropPath": "/tpiqEVTLRz2Mq7eLq5DT8jSrp71.jpg",
+  "posterPath": "/vONFAE7ecvfGog60VMlEyqLJm48.jpg",
+  "releaseDate": "2024-04-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "71c48aaf-8761-44c2-96fd-5cdeb5cbd796",
+      "title": "Rebel Moon 2. rész: A Sebejtő",
+      "subtitle": null,
+      "timestampString": "02:18:45",
+      "timestampInSeconds": 8325,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #277",
+        "youtubeId": "VVHLdlqq_xY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VVHLdlqq_xY/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1714501831000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "61ea8ebf-8022-4d63-8b47-9e159402b1bc",
+  "title": "Joe és a vulkán",
+  "originalTitle": "Joe Versus the Volcano",
+  "overview": "Joe torkig van az életével! Egyenesen megkönnyebbül, amikor megtudja, hogy beteg, és legfeljebb fél éve van hátra. Egy milliomos felajánlja neki: ha vállalja, hogy beleugrik a birtokán lévő tűzhányóba, amelyről az őslakók azt hiszik, hogy időről időre emberáldozatot kíván, luxuskörülmények között töltheti hátralevő hónapjait. Csakhogy Joe az \"üzlet\" megkötése után találkozik a milliomos csodaszép lányával.",
+  "backdropPath": "/qZ8t05qidOjhSSsaByxxpu6CKOH.jpg",
+  "posterPath": "/lLlagNIIcnqcT3qF0Xjig1xAQoU.jpg",
+  "releaseDate": "1990-03-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "acedd838-a942-4e98-9240-b2127c2238d8",
+      "title": "Joe és a vulkán",
+      "subtitle": null,
+      "timestampString": "02:09:09",
+      "timestampInSeconds": 7749,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #205",
+        "youtubeId": "GcqE0JN9mNg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GcqE0JN9mNg/hqdefault.jpg",
+        "durationInMinutes": 170,
+        "releaseDate": 1612351186000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

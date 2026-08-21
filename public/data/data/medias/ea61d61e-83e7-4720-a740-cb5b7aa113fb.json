@@ -1,0 +1,49 @@
+{
+  "id": "ea61d61e-83e7-4720-a740-cb5b7aa113fb",
+  "title": "Avatar: A víz útja",
+  "originalTitle": "Avatar: The Way of Water",
+  "overview": "A film több mint egy évtizeddel az első rész eseményeit követően meséli el a Sully család (Jake, Neytiri és gyermekeinek) történetét; a rájuk leselkedő veszélyeket, az életben maradásért vívott harcaikat, az őket sújtó tragédiákat és azt, meddig képesek elmenni, hogy biztonságban tudhassák egymást.",
+  "backdropPath": "/kJsPVzdyBrYHLomuNv5SJDXUQ2f.jpg",
+  "posterPath": "/xjD0iQdpzL3DI2S2zl3W0lv333I.jpg",
+  "releaseDate": "2022-12-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "be5ea7cc-dc60-40ed-b9c0-456845e211ad",
+      "title": "Avatar: A víz útja",
+      "subtitle": null,
+      "timestampString": "00:20:30",
+      "timestampInSeconds": 1230,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #247 (Évösszegző 2022)",
+        "youtubeId": "ObVMCxbxAMk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ObVMCxbxAMk/hqdefault.jpg",
+        "durationInMinutes": 296,
+        "releaseDate": 1672944369000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "15a53a44-af10-4843-b447-7f9fbb845f56",
+            "name": "Szöllőskei Gábor"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

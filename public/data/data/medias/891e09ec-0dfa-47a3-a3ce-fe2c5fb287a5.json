@@ -1,0 +1,41 @@
+{
+  "id": "891e09ec-0dfa-47a3-a3ce-fe2c5fb287a5",
+  "title": "Fekete táska",
+  "originalTitle": "Black Bag",
+  "overview": "George Woodhouse a szigorúan őrzött brit Nemzeti Kiberbiztonsági Központ elit ügynöke, akinek csak egyetlen gyengéje van: megingathatatlanul odaadó a felesége iránt. Ő kapja azt az érzékeny és sürgős feladatot, hogy vadássza le az ügynökségbe beférkőzött patkányt, mielőtt az aktiválhatná a Severus nevű pusztító kiberférget, és kap egy listát az öt gyanúsítottról. Ebből négyen a barátai és egyben a munkatársai a Központban. Az ötödik pedig imádott felesége, Kathryn St. Jean, aki a szervezet egyik legbefolyásosabb és legmegbízhatóbb ügynöke. George követi a titkok és hazugságok nyomát, egyre közelebb kerül a célszemélyhez, és minden újabb felfedezés egyre terhelőbbnek tűnik Kathrynre nézve. Ahogy George halad a látszólag nyilvánvaló konklúzió felé, egyre égetőbb a kérdés: vajon a házasságához vagy a hazájához marad-e hű.",
+  "backdropPath": "/gxO51FVgADhYGGnnRPIlutVqb30.jpg",
+  "posterPath": "/xWQyvb9gWwBmZrEF7UAOJjQhtgR.jpg",
+  "releaseDate": "2025-03-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "bbcbee0c-7598-4306-a834-3425c4ef00df",
+      "title": "Fekete táska",
+      "subtitle": null,
+      "timestampString": "01:03:52",
+      "timestampInSeconds": 3832,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #302",
+        "youtubeId": "3K4xdZiHI_w",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3K4xdZiHI_w/hqdefault.jpg",
+        "durationInMinutes": 235,
+        "releaseDate": 1747414746000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

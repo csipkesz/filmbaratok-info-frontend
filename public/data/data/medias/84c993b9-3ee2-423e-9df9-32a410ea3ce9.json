@@ -1,0 +1,41 @@
+{
+  "id": "84c993b9-3ee2-423e-9df9-32a410ea3ce9",
+  "title": "Veszélyzóna",
+  "originalTitle": "No Way Up",
+  "overview": "A különböző hátterű és személyiségű utasok összecsapnak, amikor a repülőgép, amelyen utaznak, a Csendes-óceánba zuhan. Rémálomszerű küzdelem kezdődik a túlélésért, miközben a levegőellátás kifogy, és minden oldalról veszélyek leselkednek rájuk.",
+  "backdropPath": "/4woSOUD0equAYzvwhWBHIJDCM88.jpg",
+  "posterPath": "/1VeubPiqToQ6DYytoDVqMaRXPu7.jpg",
+  "releaseDate": "2024-01-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2a17395b-b30b-4617-8b43-99f9512981b5",
+      "title": "Veszélyzóna",
+      "subtitle": null,
+      "timestampString": "01:20:20",
+      "timestampInSeconds": 4820,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #50",
+        "youtubeId": "3fU-zjKUKtc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3fU-zjKUKtc/hqdefault.jpg",
+        "durationInMinutes": 195,
+        "releaseDate": 1399567403000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "0911bbae-2137-4e42-b065-dc31d8442231",
+  "title": "Az egészség ellenszere",
+  "originalTitle": "A Cure for Wellness",
+  "overview": "Csak egészség legyen! És ne haljon bele senki.  Egy nagy cég fiatal alkalmazottját (Dane DeHaan) a svájci Alpokban pihenő főnöke után küldik, hogy hazakísérje. A szanatórium azonban nem az a békés, nyugodt hely, aminek kívülről látszik.  A főnök eltűnt, a srác pedig kénytelen meghosszabbítani a saját ott tartózkodását: a betegek ugyanis sokkal inkább fogolynak tűnnek ezen a helyen. Aki pedig megpróbál valakit kiszabadítani, az hamarosan a saját egészsége miatt kénytelen aggódni.",
+  "backdropPath": "/uXx9wjfJEzLlfqB8GW67SYBrhVT.jpg",
+  "posterPath": "/bjZVINPzaWY9XuUcHWBYs34ADzg.jpg",
+  "releaseDate": "2017-02-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d4f9aa82-d776-4c52-a04a-6d7ab47de697",
+      "title": "Az egészség ellenszere",
+      "subtitle": null,
+      "timestampString": "00:32:24",
+      "timestampInSeconds": 1944,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #117",
+        "youtubeId": "pgzo-WxFTbU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/pgzo-WxFTbU/hqdefault.jpg",
+        "durationInMinutes": 176,
+        "releaseDate": 1487953222000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "15a53a44-af10-4843-b447-7f9fbb845f56",
+            "name": "Szöllőskei Gábor"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

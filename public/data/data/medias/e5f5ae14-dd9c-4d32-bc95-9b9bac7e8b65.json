@@ -1,0 +1,45 @@
+{
+  "id": "e5f5ae14-dd9c-4d32-bc95-9b9bac7e8b65",
+  "title": "Amitől félünk",
+  "originalTitle": "Beau Is Afraid",
+  "overview": "Beau élete folyamatos rettegés, csak a pszichiáter által felírt gyógyszerekkel képes kimenni az őrültekkel teli utcákra. Anyjának váratlan telefonhívása mégis arra kényszeríti, hogy elinduljon. Az abszurd humorral átitatott, horrorisztikus utazáson a legsötétebb félelmek a legnagyobb kalandokká válnak. Vajon célba ér Beau, vagy felemésztik lelkének sötét bugyrai?",
+  "backdropPath": "/atvEgnjjXN5QvFDThXVz4nyU9yi.jpg",
+  "posterPath": "/8Hh1spMLEVjsnxfdofEK51v3rIv.jpg",
+  "releaseDate": "2023-04-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6b8f263b-beb1-46c3-ba26-8e4a77562e96",
+      "title": "Amitől félünk",
+      "subtitle": null,
+      "timestampString": "02:43:40",
+      "timestampInSeconds": 9820,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #254",
+        "youtubeId": "TI74Dk0Q_o4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/TI74Dk0Q_o4/hqdefault.jpg",
+        "durationInMinutes": 202,
+        "releaseDate": 1683715646000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

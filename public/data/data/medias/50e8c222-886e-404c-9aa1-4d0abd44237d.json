@@ -1,0 +1,41 @@
+{
+  "id": "50e8c222-886e-404c-9aa1-4d0abd44237d",
+  "title": "Köpök a sírodra (2010)",
+  "originalTitle": "I Spit on Your Grave",
+  "overview": "Jennifer könyvet ír, és az efféle alkotómunkához nem a legjobb környezet egy nyüzsgő nagyváros, így egy időre egy nyugodt erdei kis házba költözik. A helybélieknek rögtön feltűnik a csinos lány, és egyik éjjel néhány férfi megtámadja. Ez Jennifer életének legszörnyűbb éjszakája: brutálisan megverik, megkínozzák és megalázzák, legvégül pedig sorsára hagyják - meghalni. A kegyetlen támadók arra az egyre nem számítanak, hogy Jennifer túléli a rémálmot, sőt mit több: könyörtelen bosszút áll a borzalmakért.",
+  "backdropPath": "/f4QIQvecRkKD5t7aPclyIr3SEP.jpg",
+  "posterPath": "/xQhj9L9GZOvYl2J9VYbG4DcFNbQ.jpg",
+  "releaseDate": "2010-06-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9683e1a7-3218-452b-b95c-bac07299a54f",
+      "title": "Köpök a sírodra (2010)",
+      "subtitle": null,
+      "timestampString": "01:21:05",
+      "timestampInSeconds": 4865,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #35",
+        "youtubeId": "iZP3HzNbpJk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/iZP3HzNbpJk/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1378351959000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

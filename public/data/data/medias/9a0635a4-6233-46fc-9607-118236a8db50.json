@@ -1,0 +1,45 @@
+{
+  "id": "9a0635a4-6233-46fc-9607-118236a8db50",
+  "title": "Jackass bemutatja: Rossz nagyapó",
+  "originalTitle": "Jackass Presents: Bad Grandpa",
+  "overview": "A 86 éves Irving elviselhetetlen öregúr, aki elképzelhetetlen párost alkot Billyvel, a nyolcéves unokájával. A nyolcvan év különbség dacára összebarátkoznak, majd nekivágnak az országútnak. Az út során Irving megmutatja, hogyan lehet belerántani az embereket a legabszurdabb helyzetekbe. A duó találkozik férfi sztriptíztáncosokkal, gyermek szépségverseny résztvevőivel, gyászolókkal, motoros bár mecénásaival, és egy csomó gyanútlan polgárral, akik nem sejtik, hogy rejtett kamerás komédia részeseivé válnak.",
+  "backdropPath": "/1rNQG7LOjZheSN1iLGGxaey2254.jpg",
+  "posterPath": "/sqjy5WTi7K9SIR4fUYq5N8ulOkA.jpg",
+  "releaseDate": "2013-10-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "8205ecd5-1193-4093-8bd6-9710ff5820e8",
+      "title": "Jackass bemutatja: Rossz nagyapó",
+      "subtitle": null,
+      "timestampString": "00:20:56",
+      "timestampInSeconds": 1256,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #51",
+        "youtubeId": "E9iOfzIEJFU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E9iOfzIEJFU/hqdefault.jpg",
+        "durationInMinutes": 176,
+        "releaseDate": 1401305269000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

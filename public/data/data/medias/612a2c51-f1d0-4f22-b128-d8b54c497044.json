@@ -1,0 +1,75 @@
+{
+  "id": "612a2c51-f1d0-4f22-b128-d8b54c497044",
+  "title": "A Wall Street farkasa",
+  "originalTitle": "The Wolf of Wall Street",
+  "overview": "Jordan Belfort becsületes tőzsdeügynökként kezdte pályafutását, de az amerikai álom őt is utolérte. A 80-as évek végére az egyik legnagyobb brókercég tulajdonosa lett, 26 évesen heti 1 millió dollárt keresett. Az idáig vezető út azonban korrupcióval és tisztességtelen üzletekkel kikövezett csábító hullámvasútnak bizonyult.  Mert minél nagyobb volt a kísértés ő annál többet akart, mit sem törődve az illegális üzelmekkel és a nyomában loholó FBI ügynökökkel. Még több pénz, még több hatalom, még több nő és megint még több pénz: ez Jordan életfilozófiája. És hogy a szerénység egy túlértékelt erény. Jordan és falkája azt sem tudták mit kezdjenek az illegálisan megszerzett milliárdokkal, de vajon a jéghegy csúcsáról merre vezet az út?",
+  "backdropPath": "/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg",
+  "posterPath": "/oQ72zesUJCCICtYoFgJiGyHtFlY.jpg",
+  "releaseDate": "2013-12-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "05494300-166c-4ab5-b31e-16928cfa4e09",
+      "title": "A Wall Street farkasa",
+      "subtitle": null,
+      "timestampString": "02:40:47",
+      "timestampInSeconds": 9647,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #55",
+        "youtubeId": "QgGmQw_m1m8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/QgGmQw_m1m8/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1407941546000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "87928d70-ef57-4e3f-8097-70440b5a425f",
+      "title": "A Wall Street farkasa",
+      "subtitle": null,
+      "timestampString": "00:44:48",
+      "timestampInSeconds": 2688,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #43",
+        "youtubeId": "WupIquHhCt0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/WupIquHhCt0/hqdefault.jpg",
+        "durationInMinutes": 164,
+        "releaseDate": 1389645501000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

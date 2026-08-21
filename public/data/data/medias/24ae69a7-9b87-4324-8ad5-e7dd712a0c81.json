@@ -1,0 +1,45 @@
+{
+  "id": "24ae69a7-9b87-4324-8ad5-e7dd712a0c81",
+  "title": "Playmobil: A film",
+  "originalTitle": "Playmobil: The Movie",
+  "overview": "Marla kénytelen feladni gondosan felépített életét, hogy elinduljon egy epikus utazáson, hogy fiatalabb testvére, Charlie nyomára bukkanjon, aki eltűnt a Playmobil játékok hatalmas és csodálatos világában.",
+  "backdropPath": "/9RykqvfLhZ47ZHEmQUjyMI64zDm.jpg",
+  "posterPath": "/mB9JLp8c5ZaumXs30AHmBjTFQZD.jpg",
+  "releaseDate": "2019-06-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d75eb08b-a624-441e-a655-36d372f56a4a",
+      "title": "Playmobil: A film",
+      "subtitle": null,
+      "timestampString": "01:25:40",
+      "timestampInSeconds": 5140,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #176",
+        "youtubeId": "IBv2w6mBz1s",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IBv2w6mBz1s/hqdefault.jpg",
+        "durationInMinutes": 267,
+        "releaseDate": 1570124501000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

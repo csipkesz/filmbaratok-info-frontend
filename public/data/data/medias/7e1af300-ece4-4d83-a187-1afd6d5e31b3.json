@@ -1,0 +1,41 @@
+{
+  "id": "7e1af300-ece4-4d83-a187-1afd6d5e31b3",
+  "title": "The apprentice – A Trump-sztori",
+  "originalTitle": "The Apprentice",
+  "overview": "A film Donald Trump üzleti karrierjének korai éveiben, a '70-'80-as években játszódik. Fókuszában az ingatlanügynök Trump és Roy Cohn ügyész kapcsolata áll, aki Joseph McCarthy szenátorral dolgozott együtt az ötvenes években, a kommunisták ellen folytatott hadjárata idején.",
+  "backdropPath": "/kv9xVrxfLpudBLyYf1QvLCpUQuy.jpg",
+  "posterPath": "/eniwOADQcvXbfLV8xY35YNH3yIb.jpg",
+  "releaseDate": "2024-10-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9de5b3bb-0c74-4510-9327-5b0ad2282cfd",
+      "title": "The apprentice – A Trump-sztori",
+      "subtitle": null,
+      "timestampString": "02:30:53",
+      "timestampInSeconds": 9053,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #290",
+        "youtubeId": "SsQxsH7PCqY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/SsQxsH7PCqY/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1731829298000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

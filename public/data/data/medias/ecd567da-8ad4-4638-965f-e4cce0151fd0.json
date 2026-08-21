@@ -1,0 +1,41 @@
+{
+  "id": "ecd567da-8ad4-4638-965f-e4cce0151fd0",
+  "title": "A nagy dobás",
+  "originalTitle": "The Big Short",
+  "overview": "Amikor négy kívülálló észrevette azt, amit a nagy bankok, a média és a kormány nem akart észrevenni - a gazdaság globális összeomlását -, támadt egy ötletük: A nagy dobás. Bátor befektetésük a modern pénzügyi világ sötét bugyraiba viszi őket, ahol meg kell kérdőjelezniük mindenkit és mindent.",
+  "backdropPath": "/u6UyFHkkpUGzZec88PYaaamya5E.jpg",
+  "posterPath": "/4ch1WmiXQyFwzWJhMndfnb30tsa.jpg",
+  "releaseDate": "2015-12-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f3fdb0b8-d84c-40d8-880f-4d8f2d093544",
+      "title": "A nagy dobás",
+      "subtitle": null,
+      "timestampString": "00:36:46",
+      "timestampInSeconds": 2206,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #92",
+        "youtubeId": "TLrrzuetTk0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/TLrrzuetTk0/hqdefault.jpg",
+        "durationInMinutes": 156,
+        "releaseDate": 1455295114000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

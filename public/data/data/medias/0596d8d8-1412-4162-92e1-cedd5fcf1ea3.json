@@ -1,0 +1,41 @@
+{
+  "id": "0596d8d8-1412-4162-92e1-cedd5fcf1ea3",
+  "title": "Camp X-Ray",
+  "originalTitle": "Camp X-Ray",
+  "overview": "Egy fiatal lány úgy dönt, hogy csatlakozik a hadsereghez, csak hogy elhagyhassa végre a kisvárost, ahol gyerekkora óta él. Csupán remélni meri, hogy nem küldik Irakba, s számítása be is jön, ehelyett Guantanamoba kell mennie. Itt furcsa barátságot köt egy rabbal, akit nyolc évre börtönöztek be.",
+  "backdropPath": "/54VZRYfpnAf0yRUFTjTIP34djLQ.jpg",
+  "posterPath": "/aqNzRiaEsfv567Ji9njJofblRBE.jpg",
+  "releaseDate": "2014-10-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4c582def-82d5-477d-9c31-770a38a418c8",
+      "title": "Camp X-Ray",
+      "subtitle": null,
+      "timestampString": "03:41:33",
+      "timestampInSeconds": 13293,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #151",
+        "youtubeId": "hcylcX_kgM0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/hcylcX_kgM0/hqdefault.jpg",
+        "durationInMinutes": 234,
+        "releaseDate": 1537428229000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

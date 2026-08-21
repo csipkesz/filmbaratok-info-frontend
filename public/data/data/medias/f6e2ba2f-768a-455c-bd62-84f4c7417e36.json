@@ -1,0 +1,83 @@
+{
+  "id": "f6e2ba2f-768a-455c-bd62-84f4c7417e36",
+  "title": "Hell or High Water",
+  "originalTitle": "Hell or High Water",
+  "overview": "Toby családja mindig szegény volt. Ennek ellenére volt saját földjük és egy gazdaságuk, melyre generációk óta nagyon büszkék voltak. Most viszont egy lejárt banki fizetés miatt elveszíthetik az egészet. Egy veszélyes tervet ötölnek ki a helyzet megoldására: Toby a börtönből frissen szabadult testvérével, Tannerrel együtt rablással szereznék meg a hiányzó pénzt.",
+  "backdropPath": "/kQVdpIPCqfpa24I8SQRiwOAbkLG.jpg",
+  "posterPath": "/bHO8NFiQqxFMKDKTk28M3NZ0zLq.jpg",
+  "releaseDate": "2016-08-11T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "35a99a6d-7bfb-407b-9db4-42191fb080a9",
+      "title": "Hell or High Water",
+      "subtitle": null,
+      "timestampString": "00:43:25",
+      "timestampInSeconds": 2605,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #117",
+        "youtubeId": "pgzo-WxFTbU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/pgzo-WxFTbU/hqdefault.jpg",
+        "durationInMinutes": 176,
+        "releaseDate": 1487953222000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "15a53a44-af10-4843-b447-7f9fbb845f56",
+            "name": "Szöllőskei Gábor"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fab53919-09ac-45fb-9e25-257e69d5ad51",
+      "title": "Hell or High Water",
+      "subtitle": null,
+      "timestampString": "03:24:03",
+      "timestampInSeconds": 12243,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #114",
+        "youtubeId": "-MXopm_I1eY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-MXopm_I1eY/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1484786554000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

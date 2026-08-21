@@ -1,0 +1,71 @@
+{
+  "id": "24b24f9e-0dee-4496-a1ee-94dcfa1517c0",
+  "title": "Harag",
+  "originalTitle": "Fury",
+  "overview": "1945 áprilisában, pár héttel a II. világháború befejezése előtt a szövetségesek egyre jobban visszaszorítják az ellenséges csapatokat az európai hadszíntéren. Itt, a náci Németország kellős közepén állomásozik Don Collier őrmester és csapata. A katonák a végkimerültség határán állnak, az utolsó leheletükkel küzdenek az életben maradásért, és a németek által elfoglalt területek visszahódításáért. Ebben az időszakban csatlakozik a négy fős legénységhez a fiatal újonc, David. A kétségbeesett ifjú katona számára teljesen ismeretlen terep mind a harctér, mind pedig a tank fedélzete.",
+  "backdropPath": "/95ckrV6wQgbffurAVmETQ5YKASL.jpg",
+  "posterPath": "/bipvaoLen7s5TeGhg4NZkXYiXa5.jpg",
+  "releaseDate": "2014-10-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0cf1a21d-2a94-4a08-b18a-3e2e218271af",
+      "title": "Harag [SPOILERESEN]",
+      "subtitle": null,
+      "timestampString": "01:47:00",
+      "timestampInSeconds": 6420,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #60",
+        "youtubeId": "r6yj-sa2ZsA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/r6yj-sa2ZsA/hqdefault.jpg",
+        "durationInMinutes": 125,
+        "releaseDate": 1414771113000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cf208641-d8b1-4664-a1f0-96f763e28a39",
+      "title": "Harag",
+      "subtitle": null,
+      "timestampString": "00:26:30",
+      "timestampInSeconds": 1590,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #60",
+        "youtubeId": "r6yj-sa2ZsA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/r6yj-sa2ZsA/hqdefault.jpg",
+        "durationInMinutes": 125,
+        "releaseDate": 1414771113000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

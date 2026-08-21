@@ -1,0 +1,45 @@
+{
+  "id": "b5151b7c-9488-4e33-b7a7-b59d9ce8e94e",
+  "title": "Hajszálon az életed / A Lonely Place to Die",
+  "originalTitle": "A Lonely Place to Die",
+  "overview": "Egy öttagú hegymászócsoport egy elhagyatott skót hegységen mászik, amikor szörnyű felfedezést tesznek: egy fiatal lányt találnak egy kis üregben, aki csupán egy vékony csövön keresztül tud levegőt venni, teljesen dehidratált és félholt az éhezéstől. Miután kiszabadítják úgy döntenek, hogy nekivágnak egy extrém módon veszélyes ereszkedésnek, hogy megmentsék a lányt, természetesen a lány elrablói ezt nem nézik tétlenül üldözőbe veszik őket és szó szerint vadászni kezdenek rájuk.",
+  "backdropPath": "/3MWKCgI8dQGcWS1VL1fACItfWP5.jpg",
+  "posterPath": "/mCO9hgdLKR1YSAMHi9Q6ZIvjV3q.jpg",
+  "releaseDate": "2011-04-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9d63e26f-c062-4348-b37f-59b2274c40cc",
+      "title": "Hajszálon az életed / A Lonely Place to Die",
+      "subtitle": null,
+      "timestampString": "03:41:45",
+      "timestampInSeconds": 13305,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #232",
+        "youtubeId": "9TzGQXyouWk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9TzGQXyouWk/hqdefault.jpg",
+        "durationInMinutes": 238,
+        "releaseDate": 1651670332000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

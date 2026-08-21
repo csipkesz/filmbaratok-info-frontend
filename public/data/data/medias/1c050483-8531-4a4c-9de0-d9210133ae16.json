@@ -1,0 +1,45 @@
+{
+  "id": "1c050483-8531-4a4c-9de0-d9210133ae16",
+  "title": "Káin gyermekei",
+  "originalTitle": "Káin gyermekei",
+  "overview": "A Káin gyermekei című dokumentumfilm Monory Mész András 1985-ben Magyarországon készült Bebukottak című dokumentumfilmjének gyilkosságért elítélt fiatalkorú főszereplőinek felkutatására és megszólaltatására vállalkozik. E vállalkozás kiindulópontja az olthatatlan kíváncsiság - mi lesz a megbélyegzettel? Mi lesz azokból a fiúkból, akik kamaszkorukban embert öltek, egész fiatalságukat börtönben töltötték és legalább 25-28 évesek, amikor szabadulnak? Most, harminc évvel - több mint egy emberöltővel - később már tisztán látszik, milyen irányba kanyarodott az akkori kamaszok, mostanra meglett férfiak sorsa. Sors, bűn és örökség - Káin gyermekeinek szemén keresztül.",
+  "backdropPath": null,
+  "posterPath": "/baCsEF9bniSAxF0m7QkbWeUw1L4.jpg",
+  "releaseDate": "2014-09-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1d8edb10-5e21-441f-a8cf-3ab8ad998ef6",
+      "title": "Káin gyermekei",
+      "subtitle": null,
+      "timestampString": "01:34:59",
+      "timestampInSeconds": 5699,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #109",
+        "youtubeId": "J8Vj2ckmHM4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/J8Vj2ckmHM4/hqdefault.jpg",
+        "durationInMinutes": 132,
+        "releaseDate": 1477582510000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

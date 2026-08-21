@@ -1,0 +1,41 @@
+{
+  "id": "ebbd3f52-f7ed-4d0a-913d-fdacec6c024c",
+  "title": "A herceg menyasszonya",
+  "originalTitle": "The Princess Bride",
+  "overview": "A nagyapa olyan esti mesét mond unokájának, amely nemzedékek óta száll szájról szájra a családjukban. S a mese lassan megelevenedik: a szép hercegnő, Boglárka kezére pályázó gonosz Humperdinck herceg emberrablástól, gyilkosságtól, sőt háborútól sem riad vissza, ha ez az egyetlen módja, hogy elnyerje a kiszemelt kisasszony kezét. Ám egy kicsiny, de annál lelkesebb kompánia útnak indul a leányzó szívszerelmének vezetésével, hogy kiszabadítsa...",
+  "backdropPath": "/2CisgvF2HcIVnbMZbSjASCtSgEb.jpg",
+  "posterPath": "/2OBt9nsqWu6qc0POwM4HdKHEwpP.jpg",
+  "releaseDate": "1987-09-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "be126d57-92d1-48b2-a6cc-237feca966e8",
+      "title": "A herceg menyasszonya",
+      "subtitle": null,
+      "timestampString": "02:21:45",
+      "timestampInSeconds": 8505,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #112",
+        "youtubeId": "M7gzW5_pVZk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/M7gzW5_pVZk/hqdefault.jpg",
+        "durationInMinutes": 160,
+        "releaseDate": 1481731219000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

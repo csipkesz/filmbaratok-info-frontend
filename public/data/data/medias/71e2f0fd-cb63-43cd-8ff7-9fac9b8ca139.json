@@ -1,0 +1,37 @@
+{
+  "id": "71e2f0fd-cb63-43cd-8ff7-9fac9b8ca139",
+  "title": "A vasöklű férfi",
+  "originalTitle": "The Man with the Iron Fists",
+  "overview": "A feudalista Kínában játszódó történet középpontjában egy kis falu kovácsa áll, aki acélöklöket kovácsol magának, hogy képes legyen megvédeni saját, és falubeli társainak életét. Vajon egyedül is megbirkózik a feladattal vagy kénytelen lesz társakat is maga mellé állítani?",
+  "backdropPath": "/bTeyNpG9PczQbgeQuSndkMuLlna.jpg",
+  "posterPath": "/l5vPBWnsUOepD5tqbhJTp5k1x4q.jpg",
+  "releaseDate": "2012-11-02T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "84dbb7e8-4239-42d4-986f-618eb6b63b9b",
+      "title": "A vasöklű férfi",
+      "subtitle": null,
+      "timestampString": "01:02:23",
+      "timestampInSeconds": 3743,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #33",
+        "youtubeId": "IomFNhWRQNA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IomFNhWRQNA/hqdefault.jpg",
+        "durationInMinutes": 148,
+        "releaseDate": 1375255137000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

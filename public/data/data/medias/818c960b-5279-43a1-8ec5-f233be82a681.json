@@ -1,0 +1,45 @@
+{
+  "id": "818c960b-5279-43a1-8ec5-f233be82a681",
+  "title": "Herkules: Feltámadás",
+  "originalTitle": "Hercules Reborn",
+  "overview": "Herkules száműzetésben él, miután mindenki úgy tartja, hogy Ő a felelős családja haláláért. Miután egy fiatal férfi jegyesét elrabolja a becstelen király, a kétségbeesett férj a hajdani hőshöz fordul segítségért. A két férfi együtt indul a harcba, hogy megmentsék a menyasszonyt, és visszaszerezzék Herkules becsületét.",
+  "backdropPath": "/hB2af4Up4UpWhdm3MJoXNjH6izf.jpg",
+  "posterPath": "/cR7m41AlUPtgiirADseF2Tez8bP.jpg",
+  "releaseDate": "2014-07-08T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d9ab2c33-9e74-416b-bb29-df269750fc4a",
+      "title": "Herkules: Feltámadás",
+      "subtitle": null,
+      "timestampString": "01:21:25",
+      "timestampInSeconds": 4885,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #55",
+        "youtubeId": "QgGmQw_m1m8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/QgGmQw_m1m8/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1407941546000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

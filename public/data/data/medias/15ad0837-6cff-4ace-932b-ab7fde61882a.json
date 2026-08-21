@@ -1,0 +1,37 @@
+{
+  "id": "15ad0837-6cff-4ace-932b-ab7fde61882a",
+  "title": "I,mint Ikarusz",
+  "originalTitle": "I… comme Icare",
+  "overview": "Megölik egy - valójában nem létező - ország köztársasági elnökét. A merényletet köztiszteletben álló, magas rangú emberekből alakult bizottság vizsgálja ki. Volney főügyész nem ért egyet a jelentésben foglaltakkal, és szembeszállva a hivatalos állásponttal, dacolva a közvéleménnyel, új nyomozást indít. Az állítólagos elkövetőt a merénylet után holtan találják. A valódi tanúk sorban tűnnek el, egy marad csak közülük, aki elvezet a nemzetközi bűnszervezet egy tagjáig, aki a titkosszolgálattal áll kapcsolatban.",
+  "backdropPath": "/w9IdCHryST0DuiYoiGs98m2Prnn.jpg",
+  "posterPath": "/7PXuUC7kLfkITy5iM1hYjA31faA.jpg",
+  "releaseDate": "1979-12-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e701d024-b8cf-496d-ad61-da275b3e5a33",
+      "title": "I,mint Ikarusz",
+      "subtitle": null,
+      "timestampString": "01:37:58",
+      "timestampInSeconds": 5878,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #52",
+        "youtubeId": "z5hnMqJSVxs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z5hnMqJSVxs/hqdefault.jpg",
+        "durationInMinutes": 121,
+        "releaseDate": 1403347391000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

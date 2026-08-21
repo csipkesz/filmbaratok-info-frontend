@@ -1,0 +1,41 @@
+{
+  "id": "e4f46741-6dc5-448c-b626-e95e500cf276",
+  "title": "Egy szent szarvas meggyilkolása",
+  "originalTitle": "The Killing of a Sacred Deer",
+  "overview": "Steve, a karizmatikus sebész életében váratlanul feltűnik egy tinédzser. A fiú kezdetben megmagyarázhatatlan barátkozása, valamint érdeklődése az orvoslás iránt hamarosan értelmet nyer. A tinédzser ismerteti bosszújának tervét, melynek része a fiú anyja és a sebész férfi. Steve és családja élete fenekestül fordul fel a mind félelmetesebb fenyegetés és egyre intenzívebb pszichológiai terror hatására.",
+  "backdropPath": "/kJwQXgAk440l2vZOspUJee6inim.jpg",
+  "posterPath": "/h8vGbbzlUvT4C47R69YQrO0SCTl.jpg",
+  "releaseDate": "2017-10-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f69f9486-4738-484f-8bfe-079b8822320a",
+      "title": "Egy szent szarvas meggyilkolása",
+      "subtitle": null,
+      "timestampString": "00:44:50",
+      "timestampInSeconds": 2690,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #137",
+        "youtubeId": "TmsK4Kf-Bj8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/TmsK4Kf-Bj8/hqdefault.jpg",
+        "durationInMinutes": 228,
+        "releaseDate": 1518110484000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

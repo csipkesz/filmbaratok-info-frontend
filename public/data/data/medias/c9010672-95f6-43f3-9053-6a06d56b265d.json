@@ -1,0 +1,45 @@
+{
+  "id": "c9010672-95f6-43f3-9053-6a06d56b265d",
+  "title": "Black Mirror / Fekete tükör",
+  "originalTitle": "Black Mirror",
+  "overview": "Tekervényes történetek visznek hajmeresztő utazásra az antológiasorozatban, felfedve az emberiség árnyoldalát, legnagyobb találmányait és még sok mást.",
+  "backdropPath": "/dg3OindVAGZBjlT3xYKqIAdukPL.jpg",
+  "posterPath": "/aIm4opx4FfiOXvPgYzPoJnjKLnJ.jpg",
+  "releaseDate": "2011-12-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "24df3fa8-6c4d-4c7a-bb83-6b0f20dcd486",
+      "title": "Black Mirror / Fekete tükör",
+      "subtitle": null,
+      "timestampString": "02:18:10",
+      "timestampInSeconds": 8290,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #58",
+        "youtubeId": "fTyqWvDVF00",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fTyqWvDVF00/hqdefault.jpg",
+        "durationInMinutes": 178,
+        "releaseDate": 1412093302000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

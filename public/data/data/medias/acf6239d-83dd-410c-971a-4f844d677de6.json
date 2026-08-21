@@ -1,0 +1,41 @@
+{
+  "id": "acf6239d-83dd-410c-971a-4f844d677de6",
+  "title": "Sarkvidék",
+  "originalTitle": "Arctic",
+  "overview": "Egy repülőgép katasztrófa túlélője az Északi-sarkon várja, hogy megmentsék. A segítség azonban a lehető legrosszabbkor érkezik és egy kíméletlen hóvihar közepette a mentőhelikopter lezuhan. A férfi döntés előtt áll: várjon a roncsok között egy másik csapat érkezésére vagy neki vágjon a végeláthatatlan jégmezőnek a túlélés reményében?",
+  "backdropPath": "/pRqnzllPyO3IO7PIvqJuvgH6kWJ.jpg",
+  "posterPath": "/j3p3XxiR0LeCcwFPjkUB1H9Qcqh.jpg",
+  "releaseDate": "2018-11-21T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6db809ba-3b60-418d-b243-55f6a9cd6699",
+      "title": "Sarkvidék",
+      "subtitle": null,
+      "timestampString": "01:04:20",
+      "timestampInSeconds": 3860,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #168",
+        "youtubeId": "_Gfw4jCabeA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_Gfw4jCabeA/hqdefault.jpg",
+        "durationInMinutes": 156,
+        "releaseDate": 1557378988000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

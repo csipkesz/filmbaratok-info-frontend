@@ -1,0 +1,45 @@
+{
+  "id": "10cd8dac-b622-4b3e-9d79-1adf0f1d9c51",
+  "title": "Időhurok",
+  "originalTitle": "Predestination",
+  "overview": "Egy időügynök barangol múltban és jövőben: minden bevetés más korba vezeti. Utolsó megbízatásán fiatalkori saját magát kell beszerveznie a Cégbe, miközben egy olyan bűnözőre vadászik, aki valahogy folyton kicsúszik a kezéből, bármilyen időben is készül lecsapni rá…",
+  "backdropPath": "/cvq9cRMDJIGzNpHaPVGFftqPcLj.jpg",
+  "posterPath": "/mLEODrQmgWHj5ykRtZQa3875eQt.jpg",
+  "releaseDate": "2014-08-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7663f6e6-3a37-4e01-a359-3f8b54d5c14b",
+      "title": "Időhurok",
+      "subtitle": null,
+      "timestampString": "01:23:34",
+      "timestampInSeconds": 5014,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #63",
+        "youtubeId": "PgKECs1kHoY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/PgKECs1kHoY/hqdefault.jpg",
+        "durationInMinutes": 195,
+        "releaseDate": 1418847403000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

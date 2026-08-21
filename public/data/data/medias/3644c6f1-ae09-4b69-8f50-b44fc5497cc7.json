@@ -1,0 +1,45 @@
+{
+  "id": "3644c6f1-ae09-4b69-8f50-b44fc5497cc7",
+  "title": "Tár",
+  "originalTitle": "TÁR",
+  "overview": "A klasszikus zene nemzetközi világában játszódó film középpontjában Tár Lídia áll, akit széles körben az egyik legnagyobb élő zeneszerző-karmesternek tartanak, és aki egy nagy német zenekar első női vezető karmestere.",
+  "backdropPath": "/84XcRwKHAw4VXdKOYTSW5ARxFEt.jpg",
+  "posterPath": "/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg",
+  "releaseDate": "2022-10-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "be6bc573-051c-4b81-8a71-96ba90605822",
+      "title": "Tár",
+      "subtitle": null,
+      "timestampString": "00:46:50",
+      "timestampInSeconds": 2810,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #251",
+        "youtubeId": "sMMPgkRN14I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/sMMPgkRN14I/hqdefault.jpg",
+        "durationInMinutes": 273,
+        "releaseDate": 1678475107000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

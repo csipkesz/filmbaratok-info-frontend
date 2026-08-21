@@ -1,0 +1,41 @@
+{
+  "id": "acef73c9-9792-4f93-9184-4255836379fa",
+  "title": "Romlott oktatás",
+  "originalTitle": "Bad Education",
+  "overview": "Frank Tassone köztiszteletben álló Long Island-i szuperintendens, aki asszisztensével, Pam Gluckinnal együtt a Roslyn Iskolai Körzet felvirágoztatásán dolgozik. Frank a pozitív üzenetküldés mestere, akit a polgárok és a diákok egyaránt kedvelnek. Ám egy diákújságíró néhány kiadási bizonylat láttán elhatározza, hogy alaposabban utánanéz néhány dolognak. Minél mélyebbre ás, annál sötétebb ügyekre bukkan. A film az amerikai történelem legnagyobb állami iskolai sikkasztási botrányát dolgozza fel.",
+  "backdropPath": "/kriOlxu4KVEjd0ZaY3dW7YYyP4z.jpg",
+  "posterPath": "/gaH2MtGfUJMYANyyKxCPWUoNrPo.jpg",
+  "releaseDate": "2019-09-08T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0b20d249-e921-4f44-9baf-fbc8abe80c15",
+      "title": "Romlott oktatás",
+      "subtitle": null,
+      "timestampString": "01:15:33",
+      "timestampInSeconds": 4533,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #190",
+        "youtubeId": "w7oFnCSc3u4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/w7oFnCSc3u4/hqdefault.jpg",
+        "durationInMinutes": 188,
+        "releaseDate": 1590603790000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "f82d7041-5e32-4a87-bfcb-f6bd1a4fd4ca",
+  "title": "Hotel Mumbai",
+  "originalTitle": "Hotel Mumbai",
+  "overview": "Tíz elszánt terrorista köt ki Mumbai partjainál egy motorcsónakkal. Céljuk több helyszínen merénylet elkövetése a hatalmas indiai metropoliszban, amelyekkel a lehető legtöbb áldozatot akarják szedni. Utolsó célpontjukként benyomulnak a világhírű Taj Hotel luxusszállodába. Amíg a kommandósok megérkeznek, a hotelben egy örökkévalóságnak tűnő macska-egér játszma kezdődik a fegyveresek, valamint az ártatlan turisták és alkalmazottak között. A hotel alkalmazottjai közül néhányan a menekülés helyett inkább a maradás mellett döntenek, s életük kockáztatásával igyekeznek védeni a turistákat.",
+  "backdropPath": "/aqSN0jyzGrJUqCe0OeVzSymcRbk.jpg",
+  "posterPath": "/j3p4gBExzDdFXUEQktB8TEmDoNM.jpg",
+  "releaseDate": "2019-03-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c246cb30-b1c6-4843-920d-0ef423ef1ebd",
+      "title": "Hotel Mumbai",
+      "subtitle": null,
+      "timestampString": "00:32:34",
+      "timestampInSeconds": 1954,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #168",
+        "youtubeId": "_Gfw4jCabeA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_Gfw4jCabeA/hqdefault.jpg",
+        "durationInMinutes": 156,
+        "releaseDate": 1557378988000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "cae83648-5e9e-45f8-81de-48a0ce39c285",
+  "title": "Motorosok",
+  "originalTitle": "The Bikeriders",
+  "overview": "Voltak már szelídek, voltak már kemények, voltak már vadak. Ezúttal simán: MOTOROSOK. Ezek a motorosok a 60-as években alapítják meg klubjukat „Vandálok” néven az amerikai Középnyugaton, Marlon Brando A vad című filmjének hatására. A klub kezdetben a chicagói kívülállók menedéke, ám Johnny (Tom Hardy) vezetésével egyre kiszámíthatatlanabbá válik, és fokozatosan mélyebbre csúszik a bűnözés világába, veszélybe sodorva ezzel a motorosok eredeti életmódját. A fiatal Bennyben (Austin Butler) lassan kételyek ébrednek a bandában betöltött szerepével kapcsolatban...",
+  "backdropPath": "/kwGvFyRtGSSm8AFfnRNXoZTQmJj.jpg",
+  "posterPath": "/4Yqzf9TmpDN5okqrn9HM30N5Kx7.jpg",
+  "releaseDate": "2024-06-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1eeaed33-7c4c-4b02-8d5a-9aa6be9cd256",
+      "title": "Motorosok",
+      "subtitle": null,
+      "timestampString": "02:18:50",
+      "timestampInSeconds": 8330,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #281",
+        "youtubeId": "ov4eiYi-ekw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ov4eiYi-ekw/hqdefault.jpg",
+        "durationInMinutes": 248,
+        "releaseDate": 1719661725000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

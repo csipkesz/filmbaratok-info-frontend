@@ -1,0 +1,41 @@
+{
+  "id": "07b3a7e9-8e06-45f7-bdcc-f2655f5d57f7",
+  "title": "Vasököl",
+  "originalTitle": "Real Steel",
+  "overview": "Charlie Kenton egy kifacsart harcos, egykori bokszoló, akinek karrierjét a ringben megjelenő 2,5 méter magas acélrobotok megjelenése töri derékba. Most nem több mint egy piti kis üzletelő, aki épphogy elég pénzt keres a hulladékfém-bizniszből, hogy eljusson egyik meccshelyszínről a másikra. Amikor Charlie számára már nincs remény, úszik a tartozásokban, hirtelen a fiát is a nyakába varrják egy nyárra. Így kelletlenül összeáll Max-szel hogy együtt építsenek meg és közösen edzenek egy igazi bajnok-robotot. Vasököl ringbe lépésével Charlie és Max kapnak még egy esélyt a visszatérésre és az egymásra találásra.",
+  "backdropPath": "/pjlxrd646cBYznHoPBWTzz6FujX.jpg",
+  "posterPath": "/hBnJZKKNaKinRraZFGau8inro2y.jpg",
+  "releaseDate": "2011-09-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d822892b-bdc9-43ed-967a-37a89477d18e",
+      "title": "Vasököl",
+      "subtitle": null,
+      "timestampString": "01:24:25",
+      "timestampInSeconds": 5065,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #76",
+        "youtubeId": "wnZh6qcfn4E",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wnZh6qcfn4E/hqdefault.jpg",
+        "durationInMinutes": 128,
+        "releaseDate": 1435731107000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

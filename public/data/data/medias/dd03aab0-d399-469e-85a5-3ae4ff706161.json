@@ -1,0 +1,41 @@
+{
+  "id": "dd03aab0-d399-469e-85a5-3ae4ff706161",
+  "title": "Dexter",
+  "originalTitle": "Dexter",
+  "overview": "Dexter Morgan, már kiskorában is különlegesen viselkedett. Több állatot is megölt, melyről az apja is tudomást szerzett utólag, ám a gyilkolási kényszere ellen nem tudott semmit sem tenni. Egy nap úgy dönt, hogy fiának megtanítja a tökéletes bűntény elkövetését, mellyel azokat sújtaná, akik kicsúsztak a hatóság kezei közül, és tettükért megtorlást érdemelnek. Napjainkban Dexter a miami rendőrségnek dolgozik vérnyom-elemzőként, de aprólékos, fortélyos élete elfedi igazi természetét. A valóságban Dexter egy fegyelmezett és vérengző pszichopata, és az éj leple alatt oltja ki vérszomját gondosan legyilkolva a sorozatgyilkosokat, akik után egész nap nyomoz.",
+  "backdropPath": "/aSGSxGMTP893DPMCvMl9AdnEICE.jpg",
+  "posterPath": "/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+  "releaseDate": "2006-10-01T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c12e8edc-f7e5-4694-a139-88e250e977bc",
+      "title": "Dexter [SPOILERES]",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": true,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Dexter [SPOILERES]",
+        "youtubeId": "-ebjIW5eCqc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-ebjIW5eCqc/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1381825566000,
+        "participants": [
+          {
+            "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
+            "name": "Shirin"
+          },
+          {
+            "id": "273a8019-47aa-4cdf-9b9f-6c84ee0f59ce",
+            "name": "Émi"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

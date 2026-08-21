@@ -1,0 +1,45 @@
+{
+  "id": "49397464-6385-4584-981c-a3b3763fd3df",
+  "title": "Alone (2007)",
+  "originalTitle": "แฝด",
+  "overview": "Van egy babona, miszerint ha egy ikerpár közül valamelyik meghal, akkor a halott testvér visszatér, hogy magával vigye a túlélőt. Esetünkben a történet főszereplője két lány, Pim és Ploy, akik a hasuknál nőttek össze. A fokozódó külső tényezők hatására sor kerül a szétválasztásukra olyan tizenéves korukban, amit sajnos Ploy nem él túl. Pim magát hibáztatja és kezd egyre jobban magába fordulni, mikor ráadásként egyre többször véli halott testvérét látni. Közben édesanyja is kórházba kerül, tünetei pedig egyre furcsábbak lesznek. Barátja Vee, mindvégig mellette van, megpróbál mindent, de a helyzet nem akar javulni.",
+  "backdropPath": "/qn5HfQcouuCk40FNXCnq8HKzpav.jpg",
+  "posterPath": "/cChF5N7MQKJB2vBtYrznEDvjciw.jpg",
+  "releaseDate": "2007-03-29T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "cb59f657-cca4-48fa-a695-e19f55f89891",
+      "title": "Alone (2007)",
+      "subtitle": null,
+      "timestampString": "02:31:15",
+      "timestampInSeconds": 9075,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #134",
+        "youtubeId": "gB5CFdGY70M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gB5CFdGY70M/hqdefault.jpg",
+        "durationInMinutes": 218,
+        "releaseDate": 1513874512000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

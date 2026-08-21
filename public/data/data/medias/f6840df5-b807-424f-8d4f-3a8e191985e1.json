@@ -1,0 +1,45 @@
+{
+  "id": "f6840df5-b807-424f-8d4f-3a8e191985e1",
+  "title": "A dicsőség ösvényei",
+  "originalTitle": "Paths of Glory",
+  "overview": "Az első világháborúban Párizstól 28 km-re megmerevedett a front és egy folyamatos, zegzugos lövészárok-rendszer alakult ki, amelyben francia közkatonák küszködtek a mindennapi apró kis győzelmekért a németek ellen. Mireau tábornok ebben a lehetetlen helyzetben olyan feladatot kap, amely egyenlő az öngyilkossággal, vagyis a \"Hangyavár\" bevételét. Dax ezredes először nem ért egyet a parancscsal, de később elfogadja. A roham megkezdődik, de igen gyorsan vissza kell vonulnia a francia ezrednek, oly sok a veszteségük. Broulard tábornok parancsot ad ki saját tüzéreinek, hogy lőjenek a visszavonuló, \"gyáva\" katonáikra. Ezt a parancsot a tüzérparancsnok megtagadja. A visszavonulás után a vezérkari tábornokok felelősségre vonják az ezredet a \"gyávaságukért\" és elrendelik, hogy az ezred három századából száz-száz főt végezzenek ki. Dax ezredes a tábornokok elé áll, s közli velük, hogy őt vonják egyedül felelősségre.",
+  "backdropPath": "/nbMY2UcNnaAr3jrrowzN0NaxQyr.jpg",
+  "posterPath": "/fMgw9b3M5sWL309WI8hdidL5ruC.jpg",
+  "releaseDate": "1957-10-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "82b5f5d3-e03c-44ad-90f0-273fcee98ff1",
+      "title": "A dicsőség ösvényei",
+      "subtitle": null,
+      "timestampString": "03:29:55",
+      "timestampInSeconds": 12595,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #185",
+        "youtubeId": "eq07jUces30",
+        "thumbnailUrl": "https://i.ytimg.com/vi/eq07jUces30/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1582698378000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

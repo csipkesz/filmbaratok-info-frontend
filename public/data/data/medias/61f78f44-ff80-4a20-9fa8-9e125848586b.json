@@ -1,0 +1,92 @@
+{
+  "id": "61f78f44-ff80-4a20-9fa8-9e125848586b",
+  "title": "Hurok",
+  "originalTitle": "Hurok",
+  "overview": "Az illegális gyógyszerkészítmények csempészésével foglalkozó Ádám szorult helyzetében hoz egy rossz döntést, ami nem várt, tragikus események láncolatát indítja el és ennek áldozatául esik terhes barátnője is. Azonban mikor már minden veszni látszik, váratlanul új esélyt kap, hogy helyrehozza maga körül a dolgokat. Aztán még egyet. És még egyet...",
+  "backdropPath": "/fCW103v8WNOLQXtO2O9Q3PI4rI2.jpg",
+  "posterPath": "/miwEX3eLSJxY3OW90l7USTipUEj.jpg",
+  "releaseDate": "2016-04-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4e40b62f-73d2-4f51-96ff-6e20b47fba86",
+      "title": "Hurok",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #96 (Madarász Isti)",
+        "youtubeId": "hEFAfhr31rA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/hEFAfhr31rA/hqdefault.jpg",
+        "durationInMinutes": 181,
+        "releaseDate": 1460668688000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "4cca499d-3370-4352-86a4-eacefc774e8d",
+            "name": "Madarász Isti"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6a44d50b-1a73-4a54-85cf-b544b2cb75f3",
+      "title": "Hurok",
+      "subtitle": null,
+      "timestampString": "02:35:45",
+      "timestampInSeconds": 9345,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #97",
+        "youtubeId": "544nF31uOsc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/544nF31uOsc/hqdefault.jpg",
+        "durationInMinutes": 219,
+        "releaseDate": 1461517994000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b5c382e6-b1da-422e-a774-6da80f69c664",
+      "title": "Hurok",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "AUDIO_COMMENTARY",
+        "title": "Filmbarátok Audiokommentár: Hurok",
+        "youtubeId": "LyGkyB8h7s4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/LyGkyB8h7s4/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1488997332000,
+        "participants": []
+      }
+    }
+  ]
+}

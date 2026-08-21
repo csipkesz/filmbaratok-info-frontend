@@ -1,0 +1,41 @@
+{
+  "id": "cd6975e3-2661-4dad-9e15-61b1086fe10f",
+  "title": "Kick-Ass 2",
+  "originalTitle": "Kick-Ass 2",
+  "overview": "Az érettségi közeledtével Dave úgy dönt, hogy megalapítja a világ első szuperhős csapatát Mindyvel. Ám sajnos amikor Mindy lebukik Kis Dögként, arra kényszerül, hogy visszavonuljon, és egymaga igazodjon el a gimis csajok könyörtelen világában. Mivel nincs kihez fordulnia, Dave csatlakozik az Örök Igazsághoz, melyet az ex-maffiózó Csillagsáv ezredes vezet.",
+  "backdropPath": "/dHBYguQvCDa00GMoidNYa7IOD8y.jpg",
+  "posterPath": "/jGrB8dwRpVbXDqsq1ZtC6HRfrfB.jpg",
+  "releaseDate": "2013-07-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fca30ab3-facf-4ba1-a6c9-b54b2cc5cd0c",
+      "title": "Kick-Ass 2",
+      "subtitle": null,
+      "timestampString": "00:26:56",
+      "timestampInSeconds": 1616,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #35",
+        "youtubeId": "iZP3HzNbpJk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/iZP3HzNbpJk/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1378351959000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

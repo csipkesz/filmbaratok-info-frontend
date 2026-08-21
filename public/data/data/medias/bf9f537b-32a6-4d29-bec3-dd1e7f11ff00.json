@@ -1,0 +1,45 @@
+{
+  "id": "bf9f537b-32a6-4d29-bec3-dd1e7f11ff00",
+  "title": "Elvis",
+  "originalTitle": "Elvis",
+  "overview": "A legendás Elvis Presley élete, ahogy még sosem láttuk: titokzatos menedzsere, a magát csak „Ezredesnek” szólíttató Tom Parker szemén keresztül. A két férfi közti különös, sokat változó kapcsolat (néha barátság, néha gyűlölet) több mint 20 évig tartott. Akkor kezdődött, amikor Elvis még a pályája elején állt, nem múlt el akkor sem, amikor az énekes addig példátlan hírnevű sztárrá emelkedett, és akkor is megmaradt, amikor megismerte élete legfontosabb nőjét, Priscillát. Közben Amerika háborúba ment, elveszítette az ártatlanságát, és megváltozott az egész világ. De a két férfi között mindig megmaradt a furcsa kapcsolat…",
+  "backdropPath": "/rLo9T9jEg67UZPq3midjLnTUYYi.jpg",
+  "posterPath": "/aF330eoQmbKSWaEQ3csVw73hYye.jpg",
+  "releaseDate": "2022-06-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "579a8dcc-1068-4132-9570-a173201ce7f7",
+      "title": "Elvis",
+      "subtitle": null,
+      "timestampString": "01:09:13",
+      "timestampInSeconds": 4153,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #235",
+        "youtubeId": "E8HgTAqoW8U",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E8HgTAqoW8U/hqdefault.jpg",
+        "durationInMinutes": 220,
+        "releaseDate": 1657007879000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "e4d249a5-e251-44d9-8c10-8e2e3e9a6069",
+            "name": "Anna"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

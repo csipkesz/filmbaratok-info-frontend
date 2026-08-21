@@ -1,0 +1,41 @@
+{
+  "id": "aa0c059d-6861-4963-863c-2e5a13294208",
+  "title": "Démonok között - Az ördög kényszerített",
+  "originalTitle": "The Conjuring: The Devil Made Me Do It",
+  "overview": "A gyilkosnak nem jár felmentés. Kivéve, ha ártatlan. Ed és Lorraine Warren, a legendás démonűző pár mindig a jót szolgálta, de néha a gonosz eszközévé válik. Ezúttal egy olyan ügyben harcolnak a nem e világi hatalmak ellen, amelynek során valaki meghalt és a brutális gyilkosságot talán egy ártatlan ember követte el: akit a benne bujkáló démon kényszerített szörnyű tettére. A Warren-házaspár úgy érzi, akkor is választ kell találnia a kérdésre, ha közben a saját életük kerül veszélybe…",
+  "backdropPath": "/p26c040MErns7DJYhisa1CpVB5i.jpg",
+  "posterPath": "/3LuhbwmmYZuEvR0GyjyPidT32NB.jpg",
+  "releaseDate": "2021-05-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f72d009d-965e-4122-922d-28a8e0ce5c2c",
+      "title": "Démonok között - Az ördög kényszerített",
+      "subtitle": null,
+      "timestampString": "01:44:00",
+      "timestampInSeconds": 6240,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #213",
+        "youtubeId": "JtzuuNOeIxc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JtzuuNOeIxc/hqdefault.jpg",
+        "durationInMinutes": 200,
+        "releaseDate": 1624372656000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

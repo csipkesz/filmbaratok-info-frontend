@@ -1,0 +1,45 @@
+{
+  "id": "c4c7e6ef-47a4-4682-ad34-057048198184",
+  "title": "Aljas Nyolcas",
+  "originalTitle": "The Hateful Eight",
+  "overview": "Nyolc sokat próbált fejvadász, az amerikai polgárháborút követő időszakban találkoznak egymással Wyoming erdős vidékein. Egy kemény hóvihar elől menekülve kénytelenek egy helyen meghúzni magukat, a kényszerű összezártság eredménye pedig ármány és intrika. Vajon túlélik-e a vihart az egymás megtévesztésével és átverésével boldogulni próbáló hétpróbás gazemberek?",
+  "backdropPath": "/7g1zO5t0bd27Iqn5ZUDJmksOGPJ.jpg",
+  "posterPath": "/uqXD4ILapkpK9QAArL901vtGDcu.jpg",
+  "releaseDate": "2015-12-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fb36db5d-a6bc-4aad-afc6-865d6e9a6d73",
+      "title": "Aljas Nyolcas",
+      "subtitle": null,
+      "timestampString": "01:40:02",
+      "timestampInSeconds": 6002,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #91",
+        "youtubeId": "G-6KMqIQhQQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/G-6KMqIQhQQ/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1454001243000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

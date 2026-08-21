@@ -1,0 +1,41 @@
+{
+  "id": "bea60f52-ac71-4a11-a2d9-be9c527a1f4a",
+  "title": "Bebukottak",
+  "originalTitle": "Bebukottak",
+  "overview": "\"A Bebukottak klasszikus riportfilm, az a fajta kérdve kifejtő mű, mely a tények halmozásából meríti erejét, abból, hogy a riportalanyok beszélnek - némelyik kéretlenül is, másik csak a nógatásnak engedve -, s jól vagy rosszul, de értékelik helyzetüket. A fiatalkorúak tököli börtönében vagyunk, a kamerával öt fiú néz szembe és elmondja, hogy miért került be: az egyik apagyilkosságért, a másik leütött egy ismeretlen férfit, mert az nem adott pénzt a társának, a harmadik a nevelőintézeti tanárját szúrta le, a negyedik a haverját, mert részegen az anyjával erőszakoskodott, az ötödik különféle bűncselekményekben, többek között gyermekrablásban való részvételért. \"Bebuktak\", ahogy azt a börtönzsargon mondja, és most valami más kezdődik, gondolnánk, ám ez csak részben igaz.\"  Koltai Ágnes - Filmvilág",
+  "backdropPath": null,
+  "posterPath": "/qwW0GUtXLkBHF9dREnlJ6P96ej9.jpg",
+  "releaseDate": "1985-04-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e62b9fe3-2894-48eb-adf3-c394779bf852",
+      "title": "Bebukottak",
+      "subtitle": null,
+      "timestampString": "02:26:30",
+      "timestampInSeconds": 8790,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #108",
+        "youtubeId": "zNzDplhnvlg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/zNzDplhnvlg/hqdefault.jpg",
+        "durationInMinutes": 175,
+        "releaseDate": 1476476267000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

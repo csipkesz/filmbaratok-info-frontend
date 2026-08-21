@@ -1,0 +1,41 @@
+{
+  "id": "af0b79ad-9c02-4765-bc7c-e4505a27bb92",
+  "title": "Kim Dzsongil bemutatja",
+  "originalTitle": "The Lovers and the Despot",
+  "overview": "",
+  "backdropPath": "/82DuNnn0uJjM1BW8abVulbqPfMM.jpg",
+  "posterPath": "/sHrGyxpPL6rsJpPY9qz7GZ3qjqA.jpg",
+  "releaseDate": "2016-09-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1ebcab3f-715e-4f54-9d12-d28520f625a2",
+      "title": "Kim Dzsongil bemutatja",
+      "subtitle": null,
+      "timestampString": "01:49:48",
+      "timestampInSeconds": 6588,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #146",
+        "youtubeId": "sfip_5w7OMc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/sfip_5w7OMc/hqdefault.jpg",
+        "durationInMinutes": 163,
+        "releaseDate": 1530162133000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "15a53a44-af10-4843-b447-7f9fbb845f56",
+            "name": "Szöllőskei Gábor"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

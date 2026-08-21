@@ -1,0 +1,45 @@
+{
+  "id": "35dacbce-4980-4516-b3d9-c1f70f69ff75",
+  "title": "Az útvesztő",
+  "originalTitle": "The Maze Runner",
+  "overview": "Thomas egy liftben ébred, és a nevén kívül nem emlékszik semmire. Az ajtón túl különös világ várja. 60 srác, akik elzártan, szigetszerű univerzumukban élnek, és egyetlen dolgot tanulnak: a túlélés trükkjeit. Ők nem lepődnek meg az újonnan érkezőn: havonta egyszer mindig jön valaki. Világukat útvesztő veszi körül. Aki szökni próbál - és sokan vannak ilyenek - mind ottvesznek. Ezek a szabályok, melyek nem változnak és nem változtathatók. Valami mégis átalakul. Egy titokzatos üzenet hatására néhány srác azt hiszi, van remény a lázadásra. Még akkor is, ha fogalmuk sincs, ki ellen kell lázadniuk, és mekkora veszéllyel próbálnak szembenézni.",
+  "backdropPath": "/eTlcNXGv32zkVI7ZDHhfeaKHXKQ.jpg",
+  "posterPath": "/ioX0mwGyyFaQpn1KVvEWoX4t6kI.jpg",
+  "releaseDate": "2014-09-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d901dbe1-d017-4400-9f4f-5472b2dc9d93",
+      "title": "Az útvesztő",
+      "subtitle": null,
+      "timestampString": "01:26:06",
+      "timestampInSeconds": 5166,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #58",
+        "youtubeId": "fTyqWvDVF00",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fTyqWvDVF00/hqdefault.jpg",
+        "durationInMinutes": 178,
+        "releaseDate": 1412093302000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "67297d8b-5056-4aa5-9f91-da7c769fba26",
+  "title": "Anora",
+  "originalTitle": "Anora",
+  "overview": "Anora, a brooklyni szexmunkásnő esélyt kap egy Hamupipőke-történetre, amikor találkozik egy oligarcha fiával, és feleségül megy hozzá. Amint a hír eljut Oroszországba, a tündérmese veszélybe kerül, mivel a szülők New Yorkba indulnak, hogy érvényteleníttessék a házasságot.",
+  "backdropPath": "/qvyOfwTC3qdbzkqdXWSSEMHtjBZ.jpg",
+  "posterPath": "/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg",
+  "releaseDate": "2024-10-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "11b961ee-7baf-4197-8deb-4103b496e5a8",
+      "title": "Anora",
+      "subtitle": null,
+      "timestampString": "01:59:53",
+      "timestampInSeconds": 7193,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #290",
+        "youtubeId": "SsQxsH7PCqY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/SsQxsH7PCqY/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1731829298000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

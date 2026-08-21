@@ -1,0 +1,45 @@
+{
+  "id": "d98073d2-cd51-4d2d-b120-079609ed275d",
+  "title": "Barbie",
+  "originalTitle": "Barbie",
+  "overview": "Barbie és Ken életük minden idejét a színes és tökéletesnek tűnő világukban élik. Amikor azonban lehetőségük nyílik a való világba menni, hamarosan felfedezik az emberek között élés örömeit és veszélyeit.",
+  "backdropPath": "/3N5QNUqS76GFYNoEayfkkJyAyTN.jpg",
+  "posterPath": "/iy8BIZ2ApegBJ7WE2AAL63Wc7mF.jpg",
+  "releaseDate": "2023-07-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6d2f54a8-c095-4aaf-a658-30b2eab98230",
+      "title": "Barbie",
+      "subtitle": null,
+      "timestampString": "01:07:35",
+      "timestampInSeconds": 4055,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #259",
+        "youtubeId": "pSiJphe8S5U",
+        "thumbnailUrl": "https://i.ytimg.com/vi/pSiJphe8S5U/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1690581661000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "e4d249a5-e251-44d9-8c10-8e2e3e9a6069",
+            "name": "Anna"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

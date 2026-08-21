@@ -1,0 +1,62 @@
+{
+  "id": "a07f6228-4b50-4df7-89c0-9bda66374ef9",
+  "title": "A Hail Mary-küldetés",
+  "originalTitle": "Project Hail Mary",
+  "overview": "Ryland Grace, a természettudománytanár egy űrhajón ébred, fényévekre az otthonától és semmire sem emlékszik - sem arra, hogy kicsoda, sem arra, hogyan került oda. Ahogy lassan visszanyeri az emlékeit, feltárul előtte a küldetése: meg kell fejtenie annak a rejtélyes anyagnak a titkát, amely a Nap kihunyását okozza. Tudományos ismereteire és szokatlan ötleteire támaszkodva kell megakadályoznia a Föld teljes kipusztulását… ám egy váratlan barátság révén talán mégsem kell egyedül szembenéznie a lehetetlennel.",
+  "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+  "posterPath": "/wD0dkVerZMQu2uv7C9pPKXNB2pm.jpg",
+  "releaseDate": "2026-03-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "12befb1c-aa38-4427-ab42-2c1d296e0414",
+      "title": "A Hail Mary-küldetés",
+      "subtitle": null,
+      "timestampString": "01:03:40",
+      "timestampInSeconds": 3820,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #323",
+        "youtubeId": "1Y8m-2qsHhw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/1Y8m-2qsHhw/hqdefault.jpg",
+        "durationInMinutes": 209,
+        "releaseDate": 1775020201000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "c341ffd7-d2f1-4fba-813f-d8ec16f2245a",
+            "name": "Zétény"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9cf59651-22e2-4edd-828c-8e26d8a8b281",
+      "title": "A Hail Mary-küldetés",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: A Hail Mary-küldetés",
+        "youtubeId": "G-Zj84p7T1k",
+        "thumbnailUrl": "https://i.ytimg.com/vi/G-Zj84p7T1k/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1775891593000,
+        "participants": []
+      }
+    }
+  ]
+}

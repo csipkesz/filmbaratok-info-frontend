@@ -1,0 +1,45 @@
+{
+  "id": "41af3f47-4c77-47c9-8605-0434fe6beb9a",
+  "title": "Amerikai pite",
+  "originalTitle": "American Pie",
+  "overview": "Minden fiatal életében eljön egyszer a pillanat, amikor megpróbálja átélni a felnőtté válás legmeghatározóbb élményét. Jimnek és Chrisnek feltett szándéka, hogy még az érettségi előtt elveszítik a szüzességüket. Mivel az idő sürget, a nemes cél érdekében mindenki latba veti, amije van, más-más úton próbál közeledni kiszemelt példányához. Akad azonban olyan, akinek be kell érnie apja jótanácsaival és egy almás pitével. A címbéli sütemény ugyanis a szexuális tapasztalás sajátos fokmérője.",
+  "backdropPath": "/z9DFGaWj4G4kZUWLZ6ESs1NP1Fp.jpg",
+  "posterPath": "/8vv91rul0o2N5T7QLejLukwiZow.jpg",
+  "releaseDate": "1999-07-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "72ed2d62-9a26-4ca0-9bd1-ce93f4c6eac2",
+      "title": "Amerikai pite",
+      "subtitle": null,
+      "timestampString": "01:41:39",
+      "timestampInSeconds": 6099,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #285 (1999-es filmek)",
+        "youtubeId": "9AOI1V1MgRI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9AOI1V1MgRI/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1725038107000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

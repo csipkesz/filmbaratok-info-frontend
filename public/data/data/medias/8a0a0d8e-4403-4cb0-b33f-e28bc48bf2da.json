@@ -1,0 +1,45 @@
+{
+  "id": "8a0a0d8e-4403-4cb0-b33f-e28bc48bf2da",
+  "title": "A fülke",
+  "originalTitle": "Phone Booth",
+  "overview": "Megcsörren egy utcai telefon, Stu felveszi, és majdnem belehal. Egy mesterlövész hívja, aki a környező házak egyik ablakából figyeli. Mindent tud róla, ismeri a feleségét, a szeretőjét, a titkait és a vágyait. Beszélgetni akar a férfi bűneiről, miközben büntet és jutalmaz. Pontosan céloz és habozás nélkül öl. Stu nem teheti le a telefont, csak vár és válaszol.",
+  "backdropPath": "/iYOEONglnxIsykyOGfzyc01fyg4.jpg",
+  "posterPath": "/kwmbI7aLzZx0UcCgQ1Ach9sRYpO.jpg",
+  "releaseDate": "2003-01-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "45f828dc-df32-4fbc-8752-038d1cd17787",
+      "title": "A fülke",
+      "subtitle": null,
+      "timestampString": "03:05:37",
+      "timestampInSeconds": 11137,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #194",
+        "youtubeId": "2m4_RXJX-Pw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/2m4_RXJX-Pw/hqdefault.jpg",
+        "durationInMinutes": 236,
+        "releaseDate": 1596041624000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "e4d249a5-e251-44d9-8c10-8e2e3e9a6069",
+            "name": "Anna"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

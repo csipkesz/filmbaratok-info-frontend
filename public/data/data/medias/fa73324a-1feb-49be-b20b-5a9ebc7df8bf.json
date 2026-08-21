@@ -1,0 +1,45 @@
+{
+  "id": "fa73324a-1feb-49be-b20b-5a9ebc7df8bf",
+  "title": "A dzsungel könyve",
+  "originalTitle": "The Jungle Book",
+  "overview": "Egy árva fiú a dzsungelben cseperedik fel, de nem marad segítők nélkül. Társai között egy medve, egy fekete párduc és farkasok is akadnak. Sir Kán azonban már hosszú ideje feni a fogát az embercsemetére.Rudyard Kipling klasszikus meséjét, A dzsungel könyvét aligha kell bemutatni bárkinek is. Ki ne ismerné Mauglit, a fiúét, aki a dzsungel mélyén a farkasok nevelnek fel és akit gyerekkorában a mindig bölcs medve, Balu próbál meg terelgetni az élet tengerében, a fekete párduccal, Bagirával közösen.  A fákkal és indákkal övezet erdőségekben azonban a veszélynek sem vagyunk híján, hiszen Ká és Sírkán is állandó fenyegetést jelent, de talán a majomkirály Lajcsi sem éppen az ember legjobb barátja.",
+  "backdropPath": "/8oYykF1Qhrb8fC2qZqD71EzRywg.jpg",
+  "posterPath": "/kbCB3CDJBdDoOXj7ND6qWtvPsIZ.jpg",
+  "releaseDate": "2016-04-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "816a2b60-9348-4d92-b85e-0ccab3d80603",
+      "title": "A dzsungel könyve",
+      "subtitle": null,
+      "timestampString": "01:28:45",
+      "timestampInSeconds": 5325,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #98",
+        "youtubeId": "5mDA3_R1VRw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/5mDA3_R1VRw/hqdefault.jpg",
+        "durationInMinutes": 152,
+        "releaseDate": 1463075301000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

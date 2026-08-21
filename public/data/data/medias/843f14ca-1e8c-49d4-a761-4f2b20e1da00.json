@@ -1,0 +1,41 @@
+{
+  "id": "843f14ca-1e8c-49d4-a761-4f2b20e1da00",
+  "title": "A brutalista",
+  "originalTitle": "The Brutalist",
+  "overview": "A háború utáni Európából elmenekülve a nagy ívű víziókkal megáldott építész, Tóth László Amerikába érkezik, hogy újra építse az életét, a karrierjét, valamint a házasságát Erzsébettel, miután a háború közben elszakadtak egymástól, határokon és rezsimeken átlépve. Az új, idegen országban magára utalva László Pennsylvaniában állapodik meg, ahol a gazdag és befolyásos gyáros, Harrison Lee Van Buren felismeri építészi tehetségét. Ám a hatalomnak és az örökségnek nagy ára van…",
+  "backdropPath": "/hmZnqijPaaACjenDkrbWcCmcADI.jpg",
+  "posterPath": "/gtrrJeDONGIm5cFaEoq7Jrxq9ua.jpg",
+  "releaseDate": "2024-12-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "25cbea48-093d-4ff1-879a-88fc88565d43",
+      "title": "A brutalista",
+      "subtitle": null,
+      "timestampString": "01:12:20",
+      "timestampInSeconds": 4340,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #295",
+        "youtubeId": "GjY5Xs-Vbyc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GjY5Xs-Vbyc/hqdefault.jpg",
+        "durationInMinutes": 231,
+        "releaseDate": 1738346406000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

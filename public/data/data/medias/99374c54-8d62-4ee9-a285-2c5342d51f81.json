@@ -1,0 +1,41 @@
+{
+  "id": "99374c54-8d62-4ee9-a285-2c5342d51f81",
+  "title": "Némaság",
+  "originalTitle": "Silence",
+  "overview": "A 17. század derekán két portugál szerzetes érkezik a távoli és titokzatos Japánba, hogy Isten igéjét terjesszék a helyi lakosság között és megtalálják mentorukat, Cristóvao Ferreirát, akiről az a hír járja, hogy kínzás hatására megtagadta hitét. Az ifjú jezsuita, Sebastiao Rodrigues és társa, Francisco Garrpe a szamurájok kegyetlen és egzotikus világával találja szemben magát, ahol egészen más szabályok érvényesek, mint a keresztény Európában. Rodriguest megrendítik a látottak, háborgó lelke válaszokat követel Istentől. Miközben megpróbálja kideríteni, mi történt Ferreirával, olyan megpróbáltatásokban lesz része, amely nem csak sziklaszilárdnak vélt hitét, de az életét is veszélybe sodorja.",
+  "backdropPath": "/2tE0A6WjLowwQOUY8se1Xlf3O6U.jpg",
+  "posterPath": "/4ZCSf4LE5ll5ajWGGNbTrzEj9yw.jpg",
+  "releaseDate": "2016-12-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "743c83ad-5d6a-40c2-b492-6b2a166969ed",
+      "title": "Némaság",
+      "subtitle": null,
+      "timestampString": "02:01:50",
+      "timestampInSeconds": 7310,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #118",
+        "youtubeId": "tsYYwq3fdTw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tsYYwq3fdTw/hqdefault.jpg",
+        "durationInMinutes": 239,
+        "releaseDate": 1490634596000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

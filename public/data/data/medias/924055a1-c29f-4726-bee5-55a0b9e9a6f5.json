@@ -1,0 +1,45 @@
+{
+  "id": "924055a1-c29f-4726-bee5-55a0b9e9a6f5",
+  "title": "Hudson Hawk",
+  "originalTitle": "Hudson Hawk",
+  "overview": "Eddie Hawkins, a Hudson Hawk néven közismert tolvajkirály tízévi börtönbüntetése letöltése után úgy dönt, végleg szakít a múltjával. A multimilliomos Mayflower házaspár azonban igyekszik megakadályozni a tisztes visszavonulást, mert szükségük van egy profira, hogy megszerezzen számukra három páratlan műkincset. Hawk kénytelen elvállalni a megbízatást, mert megfenyegetik, hogy ha nemet mond, meggyilkolják a legjobb barátját. Elindul tehát kalandos útjára, miközben mit sem sejt arról, hogy a keresett kincsek nem pusztán művészettörténeti szempontból jelentősek. A helyzetet csak tovább bonyolítja, hogy Hawk találkozik a misztikus szépségű Anna Baraglival, akinek egyszerűen nem tud ellenállni.",
+  "backdropPath": "/h0zbeNCOd2eKpFGmJGPLOrp5wP4.jpg",
+  "posterPath": "/45s3PpCtc6nRX5yZOtpq83ynlQN.jpg",
+  "releaseDate": "1991-05-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7c95f6c6-228b-4e86-aba5-bacd34886d5c",
+      "title": "Hudson Hawk",
+      "subtitle": null,
+      "timestampString": "02:53:20",
+      "timestampInSeconds": 10400,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #305",
+        "youtubeId": "lzDte9B9xGc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/lzDte9B9xGc/hqdefault.jpg",
+        "durationInMinutes": 222,
+        "releaseDate": 1750949472000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "30a3ee5e-1e62-420e-833e-d05e99b21459",
+            "name": "Ódor Kristóf"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          }
+        ]
+      }
+    }
+  ]
+}

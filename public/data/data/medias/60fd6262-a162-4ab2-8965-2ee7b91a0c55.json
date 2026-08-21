@@ -1,0 +1,45 @@
+{
+  "id": "60fd6262-a162-4ab2-8965-2ee7b91a0c55",
+  "title": "Pinokkió [2022]",
+  "originalTitle": "Pinocchio",
+  "overview": "Egy fabáb izgalmas kalandba kezd, hogy igazi fiúvá váljon.",
+  "backdropPath": "/nnUQqlVZeEGuCRx8SaoCU4XVHJN.jpg",
+  "posterPath": "/foCfegquqNXPmb671SMrxiFWOgW.jpg",
+  "releaseDate": "2022-09-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "05ac9a07-02b2-45e7-bbe2-a8e653efdde0",
+      "title": "Pinokkió [2022]",
+      "subtitle": null,
+      "timestampString": "01:55:10",
+      "timestampInSeconds": 6910,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #239",
+        "youtubeId": "fLgXm-yTEGg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fLgXm-yTEGg/hqdefault.jpg",
+        "durationInMinutes": 259,
+        "releaseDate": 1663259409000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

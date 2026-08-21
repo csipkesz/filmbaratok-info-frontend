@@ -1,0 +1,45 @@
+{
+  "id": "3ae679e3-d005-4b39-bb62-2233d9efffac",
+  "title": "Kis kedvencek titkos élete",
+  "originalTitle": "The Secret Life of Pets",
+  "overview": "Max, a házikedvenc pudli élete fenekestül felfordul, amikor gazdija hazahoz egy Duke nevű keverékkutyát. Minden ellentétüket félreteszik azonban, amikor rájönnek, hogy egy Hógolyó nevű cuki fehér nyuszi hadsereget készül toborozni a sorsára hagyott háziállatokból, hogy bosszút álljon a boldog, családban élő társaikon és azok gazdáin.",
+  "backdropPath": "/c1Ywtvlqls6tPBZ3BqbPtBwHyng.jpg",
+  "posterPath": "/nPmND6kInRR38gosmZlfVb4yiMn.jpg",
+  "releaseDate": "2016-06-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "696d4458-d421-4e00-8189-561b77a427a4",
+      "title": "Kis kedvencek titkos élete",
+      "subtitle": null,
+      "timestampString": "02:09:40",
+      "timestampInSeconds": 7780,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #105",
+        "youtubeId": "73Hk03Cs0mQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/73Hk03Cs0mQ/hqdefault.jpg",
+        "durationInMinutes": 214,
+        "releaseDate": 1471773217000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

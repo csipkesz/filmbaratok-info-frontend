@@ -1,0 +1,45 @@
+{
+  "id": "026c67a6-af88-4b4e-99e1-431e986426a7",
+  "title": "Pluto Nash",
+  "originalTitle": "The Adventures of Pluto Nash",
+  "overview": "Pluto Nash nemet mond Rex Carter tízmillió-dolláros ajánlatára, amellyel az üzletember magához kívánja venni Pluto menõ éjszakai klubját. A klub a válasz után alig két perccel felrobban, ugyanis Morgan, a közvetítõ nem szeret fõnökével rossz hírt közölni. Nash egy szép énekesnõvel az oldalán nyomozni kezd a titokzatos, nagy befolyással bíró Carter után, aki már a városi tanácsba is beférkõzött, s akit élõ ember még nem látott. A nyomozás során egyre bizonyosabbnak látszik, hogy az üzletember valójában klón, aki egy nagyszabású tervet próbál gátlástalan módszereivel megvalósítani.",
+  "backdropPath": "/lEGw5YRSN4WVY51Hadytked78nG.jpg",
+  "posterPath": "/cW62BBAp6qWeT1tPJTRVVprjtZY.jpg",
+  "releaseDate": "2002-08-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "dd1eac02-efba-4846-a4e2-5dd5f4400e46",
+      "title": "Pluto Nash",
+      "subtitle": null,
+      "timestampString": "02:48:00",
+      "timestampInSeconds": 10080,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #208",
+        "youtubeId": "VmpaZBFyHfg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VmpaZBFyHfg/hqdefault.jpg",
+        "durationInMinutes": 205,
+        "releaseDate": 1616583355000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

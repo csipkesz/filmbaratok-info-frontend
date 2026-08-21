@@ -1,0 +1,41 @@
+{
+  "id": "ddfc87a2-a069-45ca-8961-7571784b9a0e",
+  "title": "Apolló 13",
+  "originalTitle": "Apollo 13",
+  "overview": "Az  Apollo 13  három fős legénysége nekivág a végtelen világűrnek 1970. április 11-én. Küldetésük nem mindennapi: leszállni a Holdra. A kilövés simán megy, a mérnökökből, tudósokból és matematikusokból álló houstoni irányító központ felügyeli a repülést. Az űrhajó majdnem eléri a Holdat, amikor a következő üzenet érkezik 330 ezer kilométer messzeségből a Földre: \"Houston, baj van.\" A három űrhajóst egy hibás alkatrész miatt bekövetkezett robbanás megfosztja az oxigéntől, az energiától és a hajó irányításának lehetőségétől. A tét többé már nem a Hold elérése, hanem az életben maradás.",
+  "backdropPath": "/n0FDJI9c0uWiZwm8wgXVjaMBn96.jpg",
+  "posterPath": "/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg",
+  "releaseDate": "1995-06-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4affe592-6123-4032-965a-a0fa21b8903e",
+      "title": "Apolló 13",
+      "subtitle": null,
+      "timestampString": "03:33:37",
+      "timestampInSeconds": 12817,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #216",
+        "youtubeId": "30tV_qEGOIE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/30tV_qEGOIE/hqdefault.jpg",
+        "durationInMinutes": 291,
+        "releaseDate": 1629219607000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

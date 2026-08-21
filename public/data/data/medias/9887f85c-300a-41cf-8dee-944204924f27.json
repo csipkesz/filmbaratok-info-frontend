@@ -1,0 +1,41 @@
+{
+  "id": "9887f85c-300a-41cf-8dee-944204924f27",
+  "title": "A Caddo-tó",
+  "originalTitle": "Caddo Lake",
+  "overview": "Amikor egy 8 éves kislány eltűnik a Caddo-tónál, egy sor múltbeli haláleset és eltűnés kezd összekapcsolódni, megváltoztatva egy összetört család történetét.",
+  "backdropPath": "/jcpUCn3oFKitAnbwosoPqaMFccj.jpg",
+  "posterPath": "/4rVfC3ggH2ClOnvOz5YG92DakRO.jpg",
+  "releaseDate": "2024-11-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7a6f862a-679a-4a3d-a292-dc1cae71628a",
+      "title": "A Caddo-tó",
+      "subtitle": null,
+      "timestampString": "01:07:50",
+      "timestampInSeconds": 4070,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #289",
+        "youtubeId": "25swweCqsZY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/25swweCqsZY/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1730401855000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

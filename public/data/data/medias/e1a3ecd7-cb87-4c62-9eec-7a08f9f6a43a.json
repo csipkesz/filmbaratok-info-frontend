@@ -1,0 +1,45 @@
+{
+  "id": "e1a3ecd7-cb87-4c62-9eec-7a08f9f6a43a",
+  "title": "A hercegnő [2022]",
+  "originalTitle": "The Princess",
+  "overview": "Amikor egy erős akaratú hercegnő nem hajlandó hozzámenni a kegyetlen szociopatához, elrabolják és apja kastélyának egy távoli tornyába zárják. Mivel bosszúszomjas kérője el akarja foglalni apja trónját, a hercegnőnek meg kell mentenie a királyságot.",
+  "backdropPath": "/5PnypKiSj2efSPqThNjTXz8jwOg.jpg",
+  "posterPath": "/b5l3o3FRgyhdt0Xm7vQhiF2s5AP.jpg",
+  "releaseDate": "2022-06-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "f8e00f31-7a1e-423d-bd4e-087d6e087435",
+      "title": "A hercegnő [2022]",
+      "subtitle": null,
+      "timestampString": "01:18:45",
+      "timestampInSeconds": 4725,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #268",
+        "youtubeId": "9TmBeKJi0og",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9TmBeKJi0og/hqdefault.jpg",
+        "durationInMinutes": 211,
+        "releaseDate": 1702918793000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

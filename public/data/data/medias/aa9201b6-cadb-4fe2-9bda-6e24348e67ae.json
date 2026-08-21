@@ -1,0 +1,45 @@
+{
+  "id": "aa9201b6-cadb-4fe2-9bda-6e24348e67ae",
+  "title": "Ne bántsátok a feketerigót",
+  "originalTitle": "To Kill a Mockingbird",
+  "overview": "Az amerikai \"forró\" Dél: Alabama állam az 1930-as években. Dúl a fajgyűlölet, így amikor az egyik városkában megerőszakolnak egy fiatal fehér nőt, szinte mindenki szentül hiszi, hogy csakis egy fekete lehet a tettes. A helyi rendőrség hamar ki is pécéz egy megfelelő gyanúsítottat, a tagbaszakadt Tom Robinsont többen is látták a bűntény közelében. Ebben a környezetben a színes bőrű Robinson esélyei a felmentésre szinte a nullával egyenlők, nem vitás, hogy a bíróság gyorsított menetben ítéli majd halálra, ha csak a felbőszült tömeg már annak előtte meg nem lincseli. A város köztiszteletben álló, minden ízében tisztességes ügyvédje, Atticus Finch közmegdöbbenésre vállalja Robinson védelmét - tudván, hogy ez a döntés egész pályafutása végét jelentheti...",
+  "backdropPath": "/wYRpVySPCC7wA28p54yAaoMT478.jpg",
+  "posterPath": "/19kuYMZvABG0UxJvCyBd6w4Geot.jpg",
+  "releaseDate": "1962-12-20T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "ff3b90bb-9e3c-45ef-b645-2160ba1fc445",
+      "title": "Ne bántsátok a feketerigót",
+      "subtitle": null,
+      "timestampString": "02:00:19",
+      "timestampInSeconds": 7219,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #73",
+        "youtubeId": "CojqY6DJFQM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/CojqY6DJFQM/hqdefault.jpg",
+        "durationInMinutes": 197,
+        "releaseDate": 1431625186000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

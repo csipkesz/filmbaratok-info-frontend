@@ -1,0 +1,41 @@
+{
+  "id": "ad33d63e-b47f-4c2f-9fe9-c02b598c67fc",
+  "title": "Papírvárosok",
+  "originalTitle": "Paper Towns",
+  "overview": "Ki nem volt még szerelmes a szomszéd lányba? Quentin óvodás kora óta odavan a környékükön lakó csajért, és természetesnek veszi, hogy ő tudomást sem vesz róla. Ezért lepődik meg igazán, amikor Margo egy éjjel bemászik a szobájába - méghozzá teljes nindzsa felszerelésben. Q és M együtt vág neki az éjszakának, hogy bosszút álljanak mindazokon, akik bántották őket. Nyomukban kompromittáló fényképek, vazelinnel bekent kilincsek és leborotvált szemöldökök maradnak. Valamint mindenütt egy nagy, falra festett M betű. Ezzel az éjszakával kezdődik egy gimis srác életének legnagyobb kalandja. Sok izgalom, félelem, váratlan tapasztalat és nagy öröm fér bele a történetbe: az átlagos fiú próbál megszokni, megszeretni majd megmenteni egy nagyon különleges lányt.",
+  "backdropPath": "/mwoIzHsliirmS0IlSrf2DvVouid.jpg",
+  "posterPath": "/xKL2GDIRzWRHXXxTlBZqGfvrvVp.jpg",
+  "releaseDate": "2015-06-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "46adaf0e-6e88-4461-a3ef-a89093be3a12",
+      "title": "Papírvárosok",
+      "subtitle": null,
+      "timestampString": "02:58:38",
+      "timestampInSeconds": 10718,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #330",
+        "youtubeId": "AgwfP4V1UCo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/AgwfP4V1UCo/hqdefault.jpg",
+        "durationInMinutes": 207,
+        "releaseDate": 1784150438000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

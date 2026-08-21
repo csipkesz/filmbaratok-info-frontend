@@ -1,0 +1,45 @@
+{
+  "id": "96340ed1-cb73-4ebf-95b3-2509984492d0",
+  "title": "Van aki forrón szereti",
+  "originalTitle": "Some Like It Hot",
+  "overview": "1929. februárjában két munkanélküli muzsikus, Joe és Jerry végső lépésre szánja el magát: jelentkeznek egy női zenekarba! Ám maguk is meglepődnek, amikor női ruhába bújva felvételt nyernek. Csak akkor jönnek rá, hogy megfogták az Isten lábát, amikor felszállnak a vonatra, amellyel az együttes Floridába indul, egy hálókocsiban kell ugyanis tölteniük az éjszakákat a zenekar tucatnyi lánytagjával, akik hamar bizalmukba fogadják az új lányokat... A végső meglepetés azonban még várat magára. Kiderül ugyanis, hogy az énekesnő, Sugar Kane egy igazi bombázó, akibe mindkét nőimitátor halálosan beleszeret. Esélyük azonban vajmi kevés, ugyanis Sugar nem randizik hölgyekkel, de még csak csóró urakkal sem. Joe-nak azonban van már egy terve: lányként Sugar bizalmába férkőzik, két fellépés között viszont átöltözik és gazdag playboynak adja ki magát, aki nagyon is tudja, mit kell tennie ahhoz, hogy Sugar kedvébe járjon. Jerry-nek eközben egy lelkes udvarlója akad, akit képtelen levakarni magáról.",
+  "backdropPath": "/5zTwAcnI3zCJ0mucPPnoBtkSWEV.jpg",
+  "posterPath": "/pRv7pHls3M5ppVB9g7pnCSAwFY9.jpg",
+  "releaseDate": "1959-03-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "95206d85-3b03-4ab9-ba8f-2070aa34eb52",
+      "title": "Van aki forrón szereti",
+      "subtitle": null,
+      "timestampString": "01:59:42",
+      "timestampInSeconds": 7182,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #98",
+        "youtubeId": "5mDA3_R1VRw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/5mDA3_R1VRw/hqdefault.jpg",
+        "durationInMinutes": 152,
+        "releaseDate": 1463075301000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

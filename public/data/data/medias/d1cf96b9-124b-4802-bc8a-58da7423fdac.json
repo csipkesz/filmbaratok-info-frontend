@@ -1,0 +1,45 @@
+{
+  "id": "d1cf96b9-124b-4802-bc8a-58da7423fdac",
+  "title": "Terminator : Genisys",
+  "originalTitle": "Terminator Genisys",
+  "overview": "John Connor, az emberi ellenállás vezetője visszaküldi 1984-be Kyle Reese őrmestert, hogy védje meg Sarah Connort és oltalmazza a jövőt, ám az események váratlan fordulata töredezett idővonalat hoz létre. Reese őrmester a múlt ismeretlen változatában találja magát, ahol különös szövetségesekre talál, köztük egy új T-800-as Terminátorra, a Védelmezőre. Veszélyes új ellenségekből sincs hiány, és szokatlan a küldetés is: helyre kell állítani a jövőt...",
+  "backdropPath": "/wvlIoof1FnKPLv9jAYanuP31V0C.jpg",
+  "posterPath": "/3I5B0LXhD2TwUIm5uuD5xs5sKTC.jpg",
+  "releaseDate": "2015-06-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9d39d976-1ca9-4cb7-b2eb-8e881e6b65a8",
+      "title": "Terminator : Genisys",
+      "subtitle": null,
+      "timestampString": "00:24:45",
+      "timestampInSeconds": 1485,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #77",
+        "youtubeId": "GxURCHDmpLM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GxURCHDmpLM/hqdefault.jpg",
+        "durationInMinutes": 246,
+        "releaseDate": 1437150395000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "ca7d9fe6-80ad-432a-b2b2-a799f47d80bf",
+  "title": "Gyilkos Halloween",
+  "originalTitle": "Halloween Kills",
+  "overview": "A rémálom még nem ért véget, amikor a megállíthatatlan gyilkos, Michael Myers megszökik Laurie Strode csapdájából, hogy folytassa rituális vérfürdőjét. A megsérült és kórházba szállított Laurie átvészeli a fájdalmat, miközben inspirálja Haddonfield lakóit, hogy keljenek fel Myers ellen. A Strode-nők és a többi túlélő saját kezükbe véve az irányítást csapatot alkotnak, hogy levadásszák, és végleg véget vessenek Michael rémuralmának.",
+  "backdropPath": "/fuuZFPc8x6gQ8mLGoBp9vrmcQMT.jpg",
+  "posterPath": "/d83UBVqJb647TaXzL9H9QyZwHLe.jpg",
+  "releaseDate": "2021-10-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "76ca3641-733e-4ed5-9d84-af2463fdeab4",
+      "title": "Gyilkos Halloween",
+      "subtitle": null,
+      "timestampString": "02:38:50",
+      "timestampInSeconds": 9530,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #221",
+        "youtubeId": "BjeQjRFvXcM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/BjeQjRFvXcM/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1635519858000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "f3da8183-cc23-4540-979f-9ca5aa112f64",
+  "title": "Édes kislányom",
+  "originalTitle": "Sweet Girl",
+  "overview": "Elvesztette élete szerelmét egy gyógyszeripari cég kapzsisága miatt. A lánya anya nélkül maradt, őt cserben hagyta az igazságszolgáltatás – de nem nyugszik bele.",
+  "backdropPath": "/nprqOIEfiMMQx16lgKeLf3rmPrR.jpg",
+  "posterPath": "/1Y1fzSypJn20ZocyISoyy2Xhu6g.jpg",
+  "releaseDate": "2021-08-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "5f3f5fdd-94ce-4661-89db-d250d3652798",
+      "title": "Édes kislányom",
+      "subtitle": null,
+      "timestampString": "02:40:30",
+      "timestampInSeconds": 9630,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #219",
+        "youtubeId": "h8nzJYoqTuY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/h8nzJYoqTuY/hqdefault.jpg",
+        "durationInMinutes": 195,
+        "releaseDate": 1632931799000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

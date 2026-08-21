@@ -1,0 +1,45 @@
+{
+  "id": "bcf7d3f9-4496-42b1-a213-5b894d6188fd",
+  "title": "Immigrants: Jóska menni Amerika",
+  "originalTitle": "Immigrants (L.A. Dolce Vita)",
+  "overview": "A magyar származású Jóska és orosz származású barátja, Vlad úgy döntenek, hogy beveszik Amerikát. A feladat nem könnyű, de ők - a maguk sajátos módján - megoldják.",
+  "backdropPath": "/2HNBAsuCJbm2OPyZz2OhZfKGkP0.jpg",
+  "posterPath": "/mXCChNFAf3e9R9TyLIeLFQy4iG6.jpg",
+  "releaseDate": "2008-10-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "e1f5031e-e47e-4174-94a2-834523c67f77",
+      "title": "Immigrants: Jóska menni Amerika",
+      "subtitle": null,
+      "timestampString": "02:13:30",
+      "timestampInSeconds": 8010,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #98",
+        "youtubeId": "5mDA3_R1VRw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/5mDA3_R1VRw/hqdefault.jpg",
+        "durationInMinutes": 152,
+        "releaseDate": 1463075301000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

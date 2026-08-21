@@ -1,0 +1,41 @@
+{
+  "id": "11b912e6-ff0e-4240-864d-679961a1e7cc",
+  "title": "A bálna",
+  "originalTitle": "The Whale",
+  "overview": "Charlie egy 270 kilós középiskolai angol tanár, akinek élete nagyot fordul, mikor elhagyja családját férfi szeretője miatt, megromlik a kapcsolata tinédzser lányával, Ellie-vel is. A férfi depressziója és kóros elhízása miatt régóta nem hagyta el az otthonát, online tartja meg óráit is. Egyetlen barátja Liz megpróbál neki segíteni, amiben csak tud. Egy nap Charlie úgy dönt, szeretne kapcsolatot teremteni elhidegült 17 éves lányával.",
+  "backdropPath": "/46FRuCeAn6TrS4F1P4F9zhyCpyo.jpg",
+  "posterPath": "/21yHI9j4dtjDU8Jyder9haLOPZ9.jpg",
+  "releaseDate": "2022-12-09T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b220983a-30e0-4814-8866-43355589f001",
+      "title": "A bálna (Spoileres)",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": true,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: A bálna (Spoileres)",
+        "youtubeId": "dlgZCqVYyIk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/dlgZCqVYyIk/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1677358307000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "1e5dac2d-01c9-4a64-b895-f616fcc90281",
+  "title": "Amerikai Mesterlövész",
+  "originalTitle": "American Sniper",
+  "overview": "A háború borzalmas. Chris Kyle pedig a borzalom nagymestere. Gyerekkorában Texasban járt az apjával vadászni, 2001 szeptembere után pedig úgy érezte, a hazájának szüksége van rá. Tengerészgyalogos-kommandós lett, és Irakban vált mesterlövésszé: az első vonalban harcolt, de mindig egyedül volt; kilométeres távolságokból ugyanúgy, mint közelharcban, egy szál pisztollyal a kezében. A Pentagon dokumentációja szerint 150 ellenséges katonával végzett. Nem csoda, hogy úgy hívták: \"el Shaitan\", az ördög. A háború azonban nem diadalmenet: a film nemcsak a győzelmekről, hanem a szörnyű megpróbáltatásokról, sebesülésekről és a bajtársak haláláról is szól.",
+  "backdropPath": "/rl95VDEP3nsUQmGzE0S1S7y6T0N.jpg",
+  "posterPath": "/wEAynbuOJsNoBI9OGrWLnVGFa4p.jpg",
+  "releaseDate": "2014-12-25T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3ad7380d-c621-4fb1-84a3-a5df0d56ea8c",
+      "title": "Amerikai Mesterlövész",
+      "subtitle": null,
+      "timestampString": "00:04:35",
+      "timestampInSeconds": 275,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #68 (Oscar 2015)",
+        "youtubeId": "wFsWiUhhfmA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wFsWiUhhfmA/hqdefault.jpg",
+        "durationInMinutes": 162,
+        "releaseDate": 1424509754000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

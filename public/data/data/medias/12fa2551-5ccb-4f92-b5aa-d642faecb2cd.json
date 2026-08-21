@@ -1,0 +1,41 @@
+{
+  "id": "12fa2551-5ccb-4f92-b5aa-d642faecb2cd",
+  "title": "A vágyak szigete",
+  "originalTitle": "Fantasy Island",
+  "overview": "Valahol a Csendes-óceán egy elhagyott részén egy különleges intézmény működik egy csodálatos szigeten. Az itt dolgozóknak csupán egy feladatuk van: hogy aki a szigetre jön, annak megvalósuljon élete legelérhetetlenebb, legcsodásabb, legmerészebb álma. Mindenki csupán egyetlen lehetőséget kap, de aki eljut ide, az nem marad ki abból, amire vágyik – nincs határ, nincs korlát, nincs szabály.  A szigetet egy titokzatos tudós vezeti, aki minden érkezőhöz egyformán kedves, ám végül, mindenkivel egyformán szigorú. Mert az álmok valóra válhatnak – de rettenetes árat kell fizetni értük.",
+  "backdropPath": "/dzfiE2VHY362dGI62XfZ2iI87CT.jpg",
+  "posterPath": "/gHummzNnPraviTYaLStU1kRvMmL.jpg",
+  "releaseDate": "2020-02-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "6860a44a-f9d8-4843-ac84-1dc8c520fbfc",
+      "title": "A vágyak szigete [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "02:12:22",
+      "timestampInSeconds": 7942,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #186",
+        "youtubeId": "LvzEUgrbuec",
+        "thumbnailUrl": "https://i.ytimg.com/vi/LvzEUgrbuec/hqdefault.jpg",
+        "durationInMinutes": 214,
+        "releaseDate": 1584373994000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

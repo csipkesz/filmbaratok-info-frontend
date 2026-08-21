@@ -1,0 +1,45 @@
+{
+  "id": "b9991a62-9ab6-4404-8846-bf9f7232e56d",
+  "title": "Godzilla (2014)",
+  "originalTitle": "Godzilla",
+  "overview": "A világot szörnyű lények megjelenése sújtja, de lehet, hogy közülük az egyik az, aki megmentheti az emberiséget.",
+  "backdropPath": "/cHvwgJPaT59H1HiQsvBrGD5I46g.jpg",
+  "posterPath": "/zokD6uxR2iWfYM3Y84yGJvnNTK7.jpg",
+  "releaseDate": "2014-05-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "1753a06e-45de-45ae-8ef5-254bc59371d6",
+      "title": "Godzilla (2014)",
+      "subtitle": null,
+      "timestampString": "01:50:55",
+      "timestampInSeconds": 6655,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #51",
+        "youtubeId": "E9iOfzIEJFU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E9iOfzIEJFU/hqdefault.jpg",
+        "durationInMinutes": 176,
+        "releaseDate": 1401305269000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "043f4f3b-bed0-4d0d-aa63-9c6b11ffefe8",
+  "title": "Sólyomszem",
+  "originalTitle": "Hawkeye",
+  "overview": "A történet a Bosszúállók: Végjáték eseményei után játszódik. A cselekmény szerint Clint nyugodt életet él a \"pittyentés\" által visszatért családjával, amíg a múltja utol nem éri őt. Roninként sok ellenséget szerzett magának és miután értesül róla, hogy valaki az akkori identitását használja, közbeavatkozik. Így találkozik Kate Bishop-pal akivel együttműködve szállnak szembe a gonosztevőkkel.",
+  "backdropPath": "/9QNv2Al3GfCND8BwuLmu2GwVht7.jpg",
+  "posterPath": "/Nib97nScs4tPjjnj4aUwWOv4wY.jpg",
+  "releaseDate": "2021-11-24T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "13b62213-fd2c-4a4b-b01b-2146058be5ae",
+      "title": "Sólyomszem",
+      "subtitle": null,
+      "timestampString": "00:07:15",
+      "timestampInSeconds": 435,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Sorozatok (Sólyomszem, Witcher, Squid Game, Ted Lasso)",
+        "youtubeId": "LphtMncKXkI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/LphtMncKXkI/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1646982902000,
+        "participants": [
+          {
+            "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
+            "name": "Shirin"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

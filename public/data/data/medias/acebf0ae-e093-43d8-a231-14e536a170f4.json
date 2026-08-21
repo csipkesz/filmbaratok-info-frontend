@@ -1,0 +1,45 @@
+{
+  "id": "acebf0ae-e093-43d8-a231-14e536a170f4",
+  "title": "Boldog halálnapot",
+  "originalTitle": "Happy Death Day",
+  "overview": "Tree csodálatosan beképzelt teremtés, aki egyetlen embert szeret feltétel nélkül: saját magát. Miután a születésnapján felébred aktuális egyéjszakás kalandja, Carter mellett, kénytelen rájönni, hogy élete gyökeres fordulatot vesz. Visszaszambázik a kolesz épületébe, ahol meghallgatja a szobatársa Lori és a dikákkör elnöke, Danielle epés megjegyzéseit, aztán beleveti magát a diákok megszokott életébe. Látszólag minden kerek, kerülgeti a szokásos aktivistákat az udvaron, flörtölget a tanárával, Gregoryval, mégis az a furcsa érzés vesz erőt rajta, hogy ezt a napot már átélte egyszer. Éppen lezárná a bizarr születésnapot, amikor brutálisan meggyilkolja egy álarcos idegen... aztán másnap újra ott ébred az egyetlen ember mellett, aki szintén hisz abban, hogy különös erők játékszerévé vált.",
+  "backdropPath": "/9XSEL3EMC2D8k4UcYBn8etgRxPg.jpg",
+  "posterPath": "/wXhxgiXPewb2EKZ48AMTQMR5uCq.jpg",
+  "releaseDate": "2017-10-12T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fdf3800b-162c-48f5-b5a7-36e5e807644e",
+      "title": "Boldog halálnapot",
+      "subtitle": null,
+      "timestampString": "02:39:40",
+      "timestampInSeconds": 9580,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #133",
+        "youtubeId": "HByKV2iRM34",
+        "thumbnailUrl": "https://i.ytimg.com/vi/HByKV2iRM34/hqdefault.jpg",
+        "durationInMinutes": 235,
+        "releaseDate": 1512135779000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

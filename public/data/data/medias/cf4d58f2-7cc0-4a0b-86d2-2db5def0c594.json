@@ -1,0 +1,79 @@
+{
+  "id": "cf4d58f2-7cc0-4a0b-86d2-2db5def0c594",
+  "title": "300",
+  "originalTitle": "300",
+  "overview": "A görög-perzsa háborúban a görögök Marathon mellett i. e. 490-ben megállították az ellenséget. Tíz évvel később Xerxes vezeti az újabb perzsa támadást. A poliszok Spárta, Athén és Korinthosz vezetésével szövetkeznek. Az első összecsapásra a Thermopülai-szorosnál kerül sor, amelyet Leonidas spártai király véd a néhány ezer fős seregével. Amikor a perzsák a hátukba kerülnek, elbocsátja a segédcsapatokat és háromszáz katonájával az utolsó leheletéig harcol. Önfeláldozásuk nem volt hiábavaló, időt adott a görög seregek egyesüléséhez.",
+  "backdropPath": "/lgBZlJ1LHQel5nneNQMoesmvc7l.jpg",
+  "posterPath": "/uQuXMRjAoukiufmB88ctDoQwhBQ.jpg",
+  "releaseDate": "2007-03-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "0d65ff64-b56a-4fee-b449-ea0c988388f9",
+      "title": "300",
+      "subtitle": null,
+      "timestampString": "03:05:46",
+      "timestampInSeconds": 11146,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #302",
+        "youtubeId": "3K4xdZiHI_w",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3K4xdZiHI_w/hqdefault.jpg",
+        "durationInMinutes": 235,
+        "releaseDate": 1747414746000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "df8a1dfd-aab9-4bce-82af-49da31f84e05",
+      "title": "300 - Egy jubileumi kibeszélő",
+      "subtitle": null,
+      "timestampString": "02:00:30",
+      "timestampInSeconds": 7230,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #300",
+        "youtubeId": "svSguUNDOr8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/svSguUNDOr8/hqdefault.jpg",
+        "durationInMinutes": 233,
+        "releaseDate": 1743480053000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

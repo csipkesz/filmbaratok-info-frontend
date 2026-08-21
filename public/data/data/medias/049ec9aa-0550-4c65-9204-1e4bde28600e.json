@@ -1,0 +1,41 @@
+{
+  "id": "049ec9aa-0550-4c65-9204-1e4bde28600e",
+  "title": "Colossal",
+  "originalTitle": "Colossal",
+  "overview": "Gloria, a New Yorkban élő, munkanélküli party girl összeveszik az érzékeny barátjával, Timmel. Elhatározza, hogy abbahagyja az önpusztító életmódot, és visszatér a szülővárosába, hogy új életet kezdjen. Találkozik a gyermekkori barátjával, Oscarral, akinek van egy bárja és néhány ivós cimborája. Hiába a szándék, Gloria folytatja az ivást. Időközben a világ másik felén egy gigászi kolosszus megtámadja Szöul városát. Egy éjszaka Gloria rájön, hogy a tudatával képes irányítani a szörnyeteget.",
+  "backdropPath": "/1ddf2Kq1hC7SgV02E3pyLAC26lq.jpg",
+  "posterPath": "/aTM60MMX6zG7HYMlAxHdOw55l0t.jpg",
+  "releaseDate": "2017-04-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "4411cc02-4ac1-443f-bb1c-1d045e6c54e7",
+      "title": "Colossal",
+      "subtitle": null,
+      "timestampString": "01:50:08",
+      "timestampInSeconds": 6608,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #123",
+        "youtubeId": "bURb6dAUghs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/bURb6dAUghs/hqdefault.jpg",
+        "durationInMinutes": 147,
+        "releaseDate": 1497253469000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

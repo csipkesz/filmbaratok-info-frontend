@@ -1,0 +1,28 @@
+{
+  "id": "c236a82e-763d-4de9-be95-c58d0c6011e7",
+  "title": "Steve-O's - Bucket List",
+  "originalTitle": "Steve-O's Bucket List",
+  "overview": "",
+  "backdropPath": "/4GomxKgzLhmF5BcrJrUYSy9VQko.jpg",
+  "posterPath": "/itFdJNtBSl1oBhzrLJjKYFyZkO1.jpg",
+  "releaseDate": "2023-11-14T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "34b9d435-9c12-4db7-9417-1b4ab92aa700",
+      "title": "Steve-O's - Bucket List",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "AUDIO_COMMENTARY",
+        "title": "Filmbarátok audiokommentár: Steve-O's - Bucket List",
+        "youtubeId": "I3qwKhUyQM4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/I3qwKhUyQM4/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1714845621000,
+        "participants": []
+      }
+    }
+  ]
+}

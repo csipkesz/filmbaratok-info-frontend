@@ -1,0 +1,45 @@
+{
+  "id": "f496042c-8060-411d-abf0-c68dd45ae297",
+  "title": "Jack Reacher: Nincs visszaút",
+  "originalTitle": "Jack Reacher: Never Go Back",
+  "overview": "Jack Reacher visszatér a maga sajátos igazságszolgáltatási módszereivel. Susan Turner hadnagyot, aki Reacher régi nyomozóegységének jelenlegi vezetője, letartóztatják hazaárulásért. Reachernek semmi sem állhat az útjába, amikor bizonyítani akarja a nő ártatlanságát, és fel akarja tárni az igazságot. Ehhez azonban le kell lepleznie egy nagyszabású kormányszintű összeesküvést, melyben katonák is benne vannak, akiket sorra meggyilkolnak. A nyomozás során Reacher olyan titokra bukkan, amely örökre megváltoztathatja az életét...",
+  "backdropPath": "/ww1eIoywghjoMzRLRIcbJLuKnJH.jpg",
+  "posterPath": "/qc4K22UXninYy4NlIL2AndFJUDF.jpg",
+  "releaseDate": "2016-10-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "9b062f4c-530f-4a16-8d86-ed47712476e0",
+      "title": "Jack Reacher: Nincs visszaút",
+      "subtitle": null,
+      "timestampString": "01:12:35",
+      "timestampInSeconds": 4355,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #109",
+        "youtubeId": "J8Vj2ckmHM4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/J8Vj2ckmHM4/hqdefault.jpg",
+        "durationInMinutes": 132,
+        "releaseDate": 1477582510000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

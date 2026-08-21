@@ -1,0 +1,41 @@
+{
+  "id": "4bc55af4-a4ad-4694-88a1-d6a67eea2f9a",
+  "title": "Popstar Never Stop Never Stopping",
+  "originalTitle": "Popstar: Never Stop Never Stopping",
+  "overview": "A Popstar: Never Stop Never Stopping című film egy híres rapper, Connor4Real új albumának megjelenése, és a hozzá tartozó koncertkörút körül forog. A csávó természetesen a popsztárokról alkotott valamennyi sztereotípiát magáénak tudhatja, tehát sík hülye, és akkora egója van, mint egy ház, kimeríthetetlen poénforrást nyújtva ezzel az ál-dokumentumfilm teljes játékidejére.  A hírességekkel teletűzdelt produkció olyan sztárokról szóló dolgokat parodizál, mint Katy Perry, a One Direction, valamint természetesen Justin Bieber, aki a legerősebb inspiráció volt Connor4Real megalkotásához.",
+  "backdropPath": "/nUUKoiMSRa82cxoltjhSpVNpFXO.jpg",
+  "posterPath": "/7o8b9LugiaEOQgq5di89pPP0Tz1.jpg",
+  "releaseDate": "2016-06-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "dd93b50d-9e43-4f92-bcf1-8776cebb92be",
+      "title": "Popstar Never Stop Never Stopping",
+      "subtitle": null,
+      "timestampString": "01:34:47",
+      "timestampInSeconds": 5687,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #106",
+        "youtubeId": "HldVi4TfJ9Y",
+        "thumbnailUrl": "https://i.ytimg.com/vi/HldVi4TfJ9Y/hqdefault.jpg",
+        "durationInMinutes": 146,
+        "releaseDate": 1473495633000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

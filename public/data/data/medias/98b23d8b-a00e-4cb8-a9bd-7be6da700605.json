@@ -1,0 +1,45 @@
+{
+  "id": "98b23d8b-a00e-4cb8-a9bd-7be6da700605",
+  "title": "Philadelphia",
+  "originalTitle": "Philadelphia",
+  "overview": "Andrew Beckett - egy jólmenő nagyvállalat tehetséges ügyvédje - homoszexuális. Ezt sikerül egészen addig titokban tartania, amíg meg nem támadja a halálos kór, az AIDS. A látható jelek miatt a vállalat elbocsátja Beckett-et, persze koholt vádak alapján. Andrew nem nyugszik bele a döntésbe, felkéri Joe Miller ügyvédet, vállalja el az ügyet. Joe először elutasítja a felkérést előítéletei miatt, de azután ügyvéd énje kerekedik felül, s elvállalja az ügyet.",
+  "backdropPath": "/nWO4sGqH950N2fij8X0Pwumqe9k.jpg",
+  "posterPath": "/8d2GZTs7c84WIXENUyuEPpxP3Gy.jpg",
+  "releaseDate": "1993-12-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "05e14248-f49d-4dcf-bbcd-7a0cebd9472a",
+      "title": "Philadelphia",
+      "subtitle": null,
+      "timestampString": "03:06:15",
+      "timestampInSeconds": 11175,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #226",
+        "youtubeId": "g-SEAVbxOlA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/g-SEAVbxOlA/hqdefault.jpg",
+        "durationInMinutes": 224,
+        "releaseDate": 1643475639000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

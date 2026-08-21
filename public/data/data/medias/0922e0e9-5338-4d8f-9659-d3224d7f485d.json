@@ -1,0 +1,45 @@
+{
+  "id": "0922e0e9-5338-4d8f-9659-d3224d7f485d",
+  "title": "Mami",
+  "originalTitle": "Ma",
+  "overview": "Sue Ann, a magányos nő szépen éldegél egy csendes ohiói városkában. Egy nap Maggie, a tinédzser megkéri őt, hogy vegyen piát neki és pár barátjának és Sue Ann kapva kap az esélyen, hogy szert tegyen pár gyanútlan, ám nála fiatalabb barátra. Hogy ne kelljen ittasan vezetniük, felajánlja a tinédzsereknek, hogy bulizhatnak a háza pincéjében. Ám van néhány szabály... Egyiküknek mindig józannak kell maradnia. Nem szabad káromkodni. Sosem szabad felmenni az emeletre. Úgy kell szólítaniuk őt, hogy „Mami.” Ám ahogy Mami vendégszeretete fokozatosan megszállottságba csúszik át, úgy válik a tinédzserek álma lassan szörnyű rémálommá. Mami háza a város legjobb bulibarlangjából a világ legrosszabb helyévé válik.",
+  "backdropPath": "/35kYvfK9TUOQ912QVsNoTCnYqlH.jpg",
+  "posterPath": "/zMg9o49k61kv9W0yCNkWjjN0Wng.jpg",
+  "releaseDate": "2019-05-29T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "88d94af1-2213-4f0f-a97e-0f827d767281",
+      "title": "Mami",
+      "subtitle": null,
+      "timestampString": "02:18:05",
+      "timestampInSeconds": 8285,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #169",
+        "youtubeId": "-bLznzpWJe8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-bLznzpWJe8/hqdefault.jpg",
+        "durationInMinutes": 317,
+        "releaseDate": 1559569793000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

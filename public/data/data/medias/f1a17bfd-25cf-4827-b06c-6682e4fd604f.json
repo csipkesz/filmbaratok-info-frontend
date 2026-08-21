@@ -1,0 +1,41 @@
+{
+  "id": "f1a17bfd-25cf-4827-b06c-6682e4fd604f",
+  "title": "Toy Story 4",
+  "originalTitle": "Toy Story 4",
+  "overview": "Woody mindig is magabiztosan töltötte be helyét a világban, s jól tudta, első számú feladata vigyázni gazdájára, legyen az akár Andy, akár Bonnie. Ám miután Bonnie egy vonakodó új játékot hoz szobájába, egy nagy kaland régi és új barátok oldalán rádöbbenti Woodyt, mily nagy hely is lehet a világ egy játék számára.",
+  "backdropPath": "/q62bpQ67qaXY0u6b2wFEnQYIbPd.jpg",
+  "posterPath": "/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+  "releaseDate": "2019-06-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "cdd8468d-b996-427c-acea-3a2f112a548a",
+      "title": "Toy Story 4",
+      "subtitle": null,
+      "timestampString": "00:33:50",
+      "timestampInSeconds": 2030,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #171",
+        "youtubeId": "3KzIveF4J8o",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3KzIveF4J8o/hqdefault.jpg",
+        "durationInMinutes": 195,
+        "releaseDate": 1562329911000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "e4d249a5-e251-44d9-8c10-8e2e3e9a6069",
+            "name": "Anna"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

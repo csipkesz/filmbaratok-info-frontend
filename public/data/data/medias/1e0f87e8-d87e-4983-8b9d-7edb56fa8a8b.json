@@ -1,0 +1,45 @@
+{
+  "id": "1e0f87e8-d87e-4983-8b9d-7edb56fa8a8b",
+  "title": "Bűntudat nélkül",
+  "originalTitle": "Tom Clancy's Without Remorse",
+  "overview": "John Kelly, a U.S. Navy SEAL specialistája, egy globális méretű összeesküvés nyomaira bukkan. Johnt természetesen a bosszú is motiválja, mert orosz katonák meggyilkolták várandós feleségét. Hazafias bosszúhadjáratában segítségére lesz Karen Greer és Robert Ritter, akciójuk során pedig remélhetőleg sikerül megakadályozniuk a harmadik világháború kirobbanását is...",
+  "backdropPath": "/fPGeS6jgdLovQAKunNHX8l0avCy.jpg",
+  "posterPath": "/yYtIYCZKFRJ9MqpM75b2C8mxooW.jpg",
+  "releaseDate": "2021-04-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "86b8d85b-710e-497b-980c-0b5dca6b1541",
+      "title": "Bűntudat nélkül [Spoileres]",
+      "subtitle": null,
+      "timestampString": "01:01:15",
+      "timestampInSeconds": 3675,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #211",
+        "youtubeId": "e7FpksPcoKY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/e7FpksPcoKY/hqdefault.jpg",
+        "durationInMinutes": 232,
+        "releaseDate": 1621526653000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

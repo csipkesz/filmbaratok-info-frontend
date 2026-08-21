@@ -1,0 +1,45 @@
+{
+  "id": "f5e18ff7-5c57-41f0-8777-9e923f598d3b",
+  "title": "Brake",
+  "originalTitle": "Brake",
+  "overview": "Jeremy Reins titkos ügynök zavarodottan ébred, sötétség veszi körül. Az egyetlen apró fény egy digitalis kijelző, amelyen számok villódznak. A férfi nehezen lélegzik, alig tud mozogni. És senki sem válaszol, amikor segítségért kiált. Azután meghallja a motorhangot, és minden világossá válik. Reins rájön, hogy egy mozgó autó csomagtartójába van bezárva. Elrablói testi-lelki kínzással próbálják rávenni, hogy adja ki a nekik a szükséges információt. A terroristák az Egyesült Államok elnökét akarják megölni.",
+  "backdropPath": "/6FoFRkXraYPvSNqlzobE4bgL8rJ.jpg",
+  "posterPath": "/boVh2YUl0VH5BgPQ3FFrZ0IvNy2.jpg",
+  "releaseDate": "2012-03-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d0862b55-864b-46e4-b7ca-7c057b825d2c",
+      "title": "Brake",
+      "subtitle": null,
+      "timestampString": "02:32:35",
+      "timestampInSeconds": 9155,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #166",
+        "youtubeId": "NaqCtn_eZNI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/NaqCtn_eZNI/hqdefault.jpg",
+        "durationInMinutes": 241,
+        "releaseDate": 1555772517000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

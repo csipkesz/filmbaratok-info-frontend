@@ -1,0 +1,45 @@
+{
+  "id": "5f9062fa-d9f5-4db0-b118-5e586852744a",
+  "title": "Hobo with a shotgun / Koldus puskával",
+  "originalTitle": "Hobo with a Shotgun",
+  "overview": "Hope Town városának pályaudvarán egy csavargó ugrik le a vonatról, remélve, hogy itt új életet kezdhet. Ehelyett mintha a pokolba csöppent volna. A városban tombol az erőszak, folyik a vér, egymást érik az erőszakos cselekmények. Az utcákat Drake és a két szadista, gyilkos fia, Slick és Ivan uralja, akik a korrupt zsarukat is a kezükben tartják. A hobo növekvő feszültséggel szemléli a bűnözők garázdálkodását, végül fűnyírógép helyett fegyvert vásárol. Megkezdi hadjáratát Drake és bandája ellen, nekiáll megtisztítani a várost a mocsoktól.",
+  "backdropPath": "/7ugJdVksDA4oYCxZY6tHhsG2NyV.jpg",
+  "posterPath": "/rBrEsBb9848Cn5UCWQwV89GUcbm.jpg",
+  "releaseDate": "2011-05-06T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3fd214af-b654-410c-ba41-11c05d0ff345",
+      "title": "Hobo with a shotgun / Koldus puskával",
+      "subtitle": null,
+      "timestampString": "01:26:35",
+      "timestampInSeconds": 5195,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #55",
+        "youtubeId": "QgGmQw_m1m8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/QgGmQw_m1m8/hqdefault.jpg",
+        "durationInMinutes": 204,
+        "releaseDate": 1407941546000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
+            "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

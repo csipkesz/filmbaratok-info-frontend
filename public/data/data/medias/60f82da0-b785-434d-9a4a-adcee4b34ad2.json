@@ -1,0 +1,41 @@
+{
+  "id": "60f82da0-b785-434d-9a4a-adcee4b34ad2",
+  "title": "Lilo & Stitch [2025]",
+  "originalTitle": "Lilo & Stitch",
+  "overview": "A Lilo és Stitch – A csillagkutya Dean Fleischer Camp rendezésében a Disney 2002-es animációs klasszikusának élőszereplős újragondolása. A történet egy magányos hawaii lányról, Lilóról (Maia Kealoha) szól, aki találkozik egy földönkívüli lénnyel, Stitch-csel (Chris Sanders), akit eredetileg pusztításra terveztek. Lilo és Stitch között különleges kötelék alakul ki, amely segít helyreállítani Lilo széthullott családját.",
+  "backdropPath": "/7Zx3wDG5bBtcfk8lcnCWDOLM4Y4.jpg",
+  "posterPath": "/r9kh91i3LDcFV7pPygHaSjmZXfv.jpg",
+  "releaseDate": "2025-05-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b2a7592e-a7ed-4643-8d3d-e88039c2e93a",
+      "title": "Lilo & Stitch [2025]",
+      "subtitle": null,
+      "timestampString": "02:43:47",
+      "timestampInSeconds": 9827,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #303",
+        "youtubeId": "4E-63IAlyvU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/4E-63IAlyvU/hqdefault.jpg",
+        "durationInMinutes": 243,
+        "releaseDate": 1748626806000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "30a3ee5e-1e62-420e-833e-d05e99b21459",
+            "name": "Ódor Kristóf"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "7ad65a3c-a459-4e3c-8c24-a41461a5cd1f",
+  "title": "48 óra",
+  "originalTitle": "48 Hrs.",
+  "overview": "Jack Cates nyomozó igen nehéz helyzetbe kerül egy gyilkossági ügy nyomozása során. Ganz, a helyi maffiózó az első számú gyanúsított, akit azonban szinte lehetetlen lenne elkapni, ha egykori embereinek egyike nem segít a rendőrségnek. Cates Reggie Hammond személyében talál is ilyen embert. Egyetlen probléma van csupán: Hammond éppen a börtönbüntetését tölti. A nyomozónak azonban sikerül elérnie, hogy 48 órára kiengedjék a bűnözőt. A két férfi együtt kell, hogy megoldja a gyilkossági ügyet, ám eközben Cates-nek arra is oda kell figyelnie, hogy Hammond nem készül-e valamire.",
+  "backdropPath": "/xQTSGz5dvIAYFssPWhD160AcR7Z.jpg",
+  "posterPath": "/6kCABmsMrjrcLGJJMZ02kJQmdP4.jpg",
+  "releaseDate": "1982-12-07T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a811e179-b294-43bb-82d5-01f3c543b4b2",
+      "title": "48 óra",
+      "subtitle": null,
+      "timestampString": "03:07:05",
+      "timestampInSeconds": 11225,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #285 (1999-es filmek)",
+        "youtubeId": "9AOI1V1MgRI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9AOI1V1MgRI/hqdefault.jpg",
+        "durationInMinutes": 266,
+        "releaseDate": 1725038107000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}
