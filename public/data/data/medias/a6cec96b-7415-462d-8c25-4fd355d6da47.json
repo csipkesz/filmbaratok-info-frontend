@@ -1,0 +1,45 @@
+{
+  "id": "a6cec96b-7415-462d-8c25-4fd355d6da47",
+  "title": "Insidious - Köztünk járnak",
+  "originalTitle": "Insidious: Out of the Further",
+  "overview": "Gemma egy fiatal anya, aki kislányával visszaköltözik abba a házba, ahol felnőtt, ám a régi otthon falai között hamarosan baljós titkok ébrednek fel. Miközben egyre különösebb jelenségek veszik körül őket, Gemma ráébred, hogy képes átlépni a Túlvilágba, az elveszett lelkek sötét, lidérces birodalmába, amely régóta az Insidious-univerzum legfélelmetesebb helye. Amikor egy gonosz erő üldözni kezdi, kiderül, hogy képessége sokkal veszélyesebb, mint hitte: nemcsak beléphet ebbe a rémálomszerű világba, hanem vissza is hozhat onnan dolgokat a valóságba. Ahogy a démonok felismerik, milyen kaput jelent számukra Gemma ereje, megreped a határ az élők világa és a túlvilág között, és az otthon, amelynek menedéket kellett volna nyújtania, egyre inkább a rémségek játszóterévé válik. (Gergo Horvath)",
+  "backdropPath": "/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
+  "posterPath": "/qGJ1WZn9krOVKhbERIoZHd7k7fV.jpg",
+  "releaseDate": "2026-08-19T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "a2c60df1-ef38-4c71-a80f-eeee62fd0b44",
+      "title": "Insidious - Köztünk járnak",
+      "subtitle": null,
+      "timestampString": "01:43:55",
+      "timestampInSeconds": 6235,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #333",
+        "youtubeId": "MkgpfCpaaI0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/MkgpfCpaaI0/hqdefault.jpg",
+        "durationInMinutes": 207,
+        "releaseDate": 1788285606000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

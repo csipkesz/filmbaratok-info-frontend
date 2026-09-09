@@ -244,6 +244,20 @@
     ]
   },
   {
+    "id": "059035de-5038-4612-b5bc-5ddf275ae264",
+    "title": "Filmbarátok Podcast #333",
+    "category": "PODCAST",
+    "youtubeId": "MkgpfCpaaI0",
+    "thumbnailUrl": "https://i.ytimg.com/vi/MkgpfCpaaI0/hqdefault.jpg",
+    "releaseDate": "2026-09-01",
+    "participants": [
+      "freddyD",
+      "Sorter",
+      "Márk",
+      "Gergő"
+    ]
+  },
+  {
     "id": "059c88f2-e2bd-42b8-b3c6-ebc84ddfe4da",
     "title": "Filmbarátok Expressz: Stranger Things (5. évad)",
     "category": "EXPRESS",
@@ -2741,6 +2755,15 @@
     "youtubeId": "f3ZeIlkIik4",
     "thumbnailUrl": "https://i.ytimg.com/vi/f3ZeIlkIik4/hqdefault.jpg",
     "releaseDate": "2017-12-05",
+    "participants": []
+  },
+  {
+    "id": "5f00a696-c660-4331-a164-c04fc85be9c5",
+    "title": "Filmbarátok Expressz: Csak egy éjszaka",
+    "category": "EXPRESS",
+    "youtubeId": "PHdnJ5vK2HI",
+    "thumbnailUrl": "https://i.ytimg.com/vi/PHdnJ5vK2HI/hqdefault.jpg",
+    "releaseDate": "2026-08-28",
     "participants": []
   },
   {

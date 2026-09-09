@@ -1,0 +1,45 @@
+{
+  "id": "2903d4fa-ee35-44ed-9b54-31b07cc39b46",
+  "title": "A tintahal és a bálna",
+  "originalTitle": "The Squid and the Whale",
+  "overview": "Bernard egyetemi tanár, egykor kiváló novellistaként is jegyezték. Felesége, Joan csak most bontogatja az írói szárnyait, és mint kiderül, van is érzéke az íráshoz. Ez pedig éppen elegendõ ahhoz, hogy Bernardban feltámadjon a szakmai féltékenység, amely végül a család szétszakadásához vezet. Mindezt legjobban a két tizenéves fiú sínyli meg. Amikor választás elé kerülnek, Walt az apjával, Frank pedig az édesanyjával marad. Idõvel Joan egyre sűrűbben találkozgat a fia teniszedzõjével, miközben Bernard az egyik tanítványával, Lilivel randevúzgat, akit mellesleg a fia is kedvel.",
+  "backdropPath": "/3ZjxENlw4HXioGGwhqaJrvdEXKo.jpg",
+  "posterPath": "/ctSaxgo4fxnnbxWRJQlNZLbTBsR.jpg",
+  "releaseDate": "2005-10-05T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7d8732dc-2cb3-4c30-bc59-d890b8f0b445",
+      "title": "A tintahal és a bálna",
+      "subtitle": null,
+      "timestampString": "02:56:00",
+      "timestampInSeconds": 10560,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #333",
+        "youtubeId": "MkgpfCpaaI0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/MkgpfCpaaI0/hqdefault.jpg",
+        "durationInMinutes": 207,
+        "releaseDate": 1788285606000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

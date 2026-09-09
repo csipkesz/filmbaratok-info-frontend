@@ -8,6 +8,23 @@
   "releaseDate": "2021-03-25T00:00:00.000Z",
   "topics": [
     {
+      "id": "09179ac8-8f60-4849-a742-96b9c598a851",
+      "title": "Legyőzhetetlen (4. évad)",
+      "subtitle": "4. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Legyőzhetetlen (4. évad)",
+        "youtubeId": "vGsj5Q3BCF8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/vGsj5Q3BCF8/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1778133124000,
+        "participants": []
+      }
+    },
+    {
       "id": "28a44dc4-4369-4dc9-9af5-c3a559ba8e3a",
       "title": "Legyőzhetetlen (3. évad)",
       "subtitle": "3. évad",
@@ -38,23 +55,6 @@
         "thumbnailUrl": "https://i.ytimg.com/vi/TyZ6ocAxWcg/hqdefault.jpg",
         "durationInMinutes": 0,
         "releaseDate": 1713895207000,
-        "participants": []
-      }
-    },
-    {
-      "id": "f94f31d7-b49a-4d33-84d7-5b1769e23093",
-      "title": "Legyőzhetetlen (4. évad)",
-      "subtitle": "4. évad",
-      "timestampString": null,
-      "timestampInSeconds": 0,
-      "isSpoiler": false,
-      "content": {
-        "category": "EXPRESS",
-        "title": "Filmbarátok Expressz: Legyőzhetetlen (4. évad)",
-        "youtubeId": "vGsj5Q3BCF8",
-        "thumbnailUrl": "https://i.ytimg.com/vi/vGsj5Q3BCF8/hqdefault.jpg",
-        "durationInMinutes": 0,
-        "releaseDate": 1778133124000,
         "participants": []
       }
     }

@@ -8,23 +8,6 @@
   "releaseDate": "2025-03-04T00:00:00.000Z",
   "topics": [
     {
-      "id": "60ad4798-aa17-45c9-beb8-858e655c73c7",
-      "title": "Daredevil - Újjászületés (2. évad)",
-      "subtitle": "2. évad",
-      "timestampString": null,
-      "timestampInSeconds": 0,
-      "isSpoiler": false,
-      "content": {
-        "category": "EXPRESS",
-        "title": "Filmbarátok Expressz: Daredevil - Újjászületés (2. évad)",
-        "youtubeId": "NhoWH4zwDZo",
-        "thumbnailUrl": "https://i.ytimg.com/vi/NhoWH4zwDZo/hqdefault.jpg",
-        "durationInMinutes": 0,
-        "releaseDate": 1779638406000,
-        "participants": []
-      }
-    },
-    {
       "id": "68242806-2ca5-486b-9728-44da4c5389b9",
       "title": "Daredevil: Újjászületés (1. évad)",
       "subtitle": "1. évad",
@@ -38,6 +21,23 @@
         "thumbnailUrl": "https://i.ytimg.com/vi/XjVNzKlQuSA/hqdefault.jpg",
         "durationInMinutes": 0,
         "releaseDate": 1746895999000,
+        "participants": []
+      }
+    },
+    {
+      "id": "9b0d4d87-f633-4a13-9d18-cf1cd53d96aa",
+      "title": "Daredevil - Újjászületés (2. évad)",
+      "subtitle": "2. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Daredevil - Újjászületés (2. évad)",
+        "youtubeId": "NhoWH4zwDZo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/NhoWH4zwDZo/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1779638406000,
         "participants": []
       }
     }

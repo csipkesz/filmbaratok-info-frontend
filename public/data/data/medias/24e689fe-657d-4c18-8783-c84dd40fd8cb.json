@@ -4,26 +4,9 @@
   "originalTitle": "The Walking Dead",
   "overview": "Rick Grimes egy elhagyott kórházban ébred fel a kómából. Rémisztő felismeréssel kell szembesülnie: az általa ismert világot elpusztította egy apokaliptikus zombijárvány. Nem messze, Atlanta határában egy maroknyi ember a túléléséért küzd a környéken ólálkodó élőholtakkal szemben. Vajon Rick és társai meg tudják őrizni emberségüket ebben a rémisztő, új világban? És a mostoha körülmények és személyes ellentétek között mi óvja meg őket egymástól?",
   "backdropPath": "/rAOjnEFTuNysY7bot8zonhImGMh.jpg",
-  "posterPath": "/aN29llVoCFtBTwDZFtqdD9d8dHb.jpg",
+  "posterPath": "/ng3cMtxYKt1OSQYqFlnKWnVsqNO.jpg",
   "releaseDate": "2010-10-31T00:00:00.000Z",
   "topics": [
-    {
-      "id": "0a293f06-daa7-47cb-b639-ea84c0499417",
-      "title": "The Walking Dead (1. évad)",
-      "subtitle": "1. évad",
-      "timestampString": null,
-      "timestampInSeconds": 0,
-      "isSpoiler": false,
-      "content": {
-        "category": "EXPRESS",
-        "title": "Filmbarátok Expressz: The Walking Dead (1. évad)",
-        "youtubeId": "N21Vfj9YGGE",
-        "thumbnailUrl": "https://i.ytimg.com/vi/N21Vfj9YGGE/hqdefault.jpg",
-        "durationInMinutes": 0,
-        "releaseDate": 1778518686000,
-        "participants": []
-      }
-    },
     {
       "id": "0f20d658-db0a-41c4-8c2f-e6b05681de7f",
       "title": "The Walking Dead 10.évad/4 [SPOILERES]",
@@ -232,6 +215,23 @@
             "name": "Gergő"
           }
         ]
+      }
+    },
+    {
+      "id": "983155d9-6212-413b-a9a3-ac2f3660c912",
+      "title": "The Walking Dead (1. évad)",
+      "subtitle": "1. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: The Walking Dead (1. évad)",
+        "youtubeId": "N21Vfj9YGGE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/N21Vfj9YGGE/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1778518686000,
+        "participants": []
       }
     },
     {
