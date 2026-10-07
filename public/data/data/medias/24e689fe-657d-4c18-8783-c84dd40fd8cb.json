@@ -8,24 +8,20 @@
   "releaseDate": "2010-10-31T00:00:00.000Z",
   "topics": [
     {
-      "id": "0f20d658-db0a-41c4-8c2f-e6b05681de7f",
-      "title": "The Walking Dead 10.évad/4 [SPOILERES]",
-      "subtitle": "10.évad/4",
+      "id": "0e2d73d7-826c-4303-8917-92d1800e769b",
+      "title": "The Walking Dead 5.évad/2 [SPOILERES]",
+      "subtitle": "5.évad/2",
       "timestampString": null,
       "timestampInSeconds": 0,
       "isSpoiler": true,
       "content": {
         "category": "EXPRESS",
-        "title": "Filmbarátok Expressz: The Walking Dead 10.évad/4 [SPOILERES]",
-        "youtubeId": "hlhVdUQuSgw",
-        "thumbnailUrl": "https://i.ytimg.com/vi/hlhVdUQuSgw/hqdefault.jpg",
+        "title": "Filmbarátok Expressz: The Walking Dead 5.évad/2 [SPOILERES]",
+        "youtubeId": "iYKXh_yyoO0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/iYKXh_yyoO0/hqdefault.jpg",
         "durationInMinutes": 0,
-        "releaseDate": 1618416649000,
+        "releaseDate": 1428602312000,
         "participants": [
-          {
-            "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
-            "name": "Shirin"
-          },
           {
             "id": "095dedfe-6a52-491f-963d-88e8794b004b",
             "name": "freddyD"
@@ -38,157 +34,7 @@
       }
     },
     {
-      "id": "331a4aca-7a10-43e3-ac32-5d64c3f7732f",
-      "title": "The Walking Dead 9.évad/1 [SPOILERES]",
-      "subtitle": "9.évad/1",
-      "timestampString": null,
-      "timestampInSeconds": 0,
-      "isSpoiler": true,
-      "content": {
-        "category": "EXPRESS",
-        "title": "Filmbarátok Expressz: The Walking Dead 9.évad/1 [SPOILERES]",
-        "youtubeId": "2rTQTld7yjk",
-        "thumbnailUrl": "https://i.ytimg.com/vi/2rTQTld7yjk/hqdefault.jpg",
-        "durationInMinutes": 0,
-        "releaseDate": 1544714497000,
-        "participants": [
-          {
-            "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
-            "name": "Shirin"
-          },
-          {
-            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
-            "name": "freddyD"
-          },
-          {
-            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
-            "name": "Gergő"
-          }
-        ]
-      }
-    },
-    {
-      "id": "4cf0d90a-10b0-4b49-ba6e-666796a23c3b",
-      "title": "The Walking Dead 7.évad/2 [SPOILERES]",
-      "subtitle": "7.évad/2",
-      "timestampString": null,
-      "timestampInSeconds": 0,
-      "isSpoiler": true,
-      "content": {
-        "category": "EXPRESS",
-        "title": "Filmbarátok Expressz: The Walking Dead 7.évad/2 [SPOILERES]",
-        "youtubeId": "q5B0deihLnI",
-        "thumbnailUrl": "https://i.ytimg.com/vi/q5B0deihLnI/hqdefault.jpg",
-        "durationInMinutes": 0,
-        "releaseDate": 1491464744000,
-        "participants": [
-          {
-            "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
-            "name": "Shirin"
-          },
-          {
-            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
-            "name": "freddyD"
-          },
-          {
-            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
-            "name": "Gergő"
-          }
-        ]
-      }
-    },
-    {
-      "id": "4f22e233-6e41-4392-9047-9e62e21d2c84",
-      "title": "The Walking Dead 5.évad/1 [SPOILERES]",
-      "subtitle": "5.évad/1",
-      "timestampString": null,
-      "timestampInSeconds": 0,
-      "isSpoiler": true,
-      "content": {
-        "category": "EXPRESS",
-        "title": "Filmbarátok Expressz: The Walking Dead 5.évad/1 [SPOILERES]",
-        "youtubeId": "kJD4jCwwIqo",
-        "thumbnailUrl": "https://i.ytimg.com/vi/kJD4jCwwIqo/hqdefault.jpg",
-        "durationInMinutes": 0,
-        "releaseDate": 1418234899000,
-        "participants": [
-          {
-            "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
-            "name": "Shirin"
-          },
-          {
-            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
-            "name": "freddyD"
-          },
-          {
-            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
-            "name": "Gergő"
-          }
-        ]
-      }
-    },
-    {
-      "id": "5029687b-a5b1-421f-b4f6-8b4bb8e8e3df",
-      "title": "The Walking Dead 6.évad/2 [SPOILERES]",
-      "subtitle": "6.évad/2",
-      "timestampString": null,
-      "timestampInSeconds": 0,
-      "isSpoiler": true,
-      "content": {
-        "category": "EXPRESS",
-        "title": "Filmbarátok Expressz: The Walking Dead 6.évad/2 [SPOILERES]",
-        "youtubeId": "562jGwskPFA",
-        "thumbnailUrl": "https://i.ytimg.com/vi/562jGwskPFA/hqdefault.jpg",
-        "durationInMinutes": 0,
-        "releaseDate": 1459912805000,
-        "participants": [
-          {
-            "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
-            "name": "Shirin"
-          },
-          {
-            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
-            "name": "freddyD"
-          },
-          {
-            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
-            "name": "Gergő"
-          }
-        ]
-      }
-    },
-    {
-      "id": "60192c36-eacf-4a61-878b-f3d3410e8f02",
-      "title": "The Walking Dead 4.évad/2 [SPOILERES]",
-      "subtitle": "4.évad/2",
-      "timestampString": null,
-      "timestampInSeconds": 0,
-      "isSpoiler": true,
-      "content": {
-        "category": "EXPRESS",
-        "title": "Filmbarátok Expressz: The Walking Dead 4.évad/2 [SPOILERES]",
-        "youtubeId": "NNXBqX2eenQ",
-        "thumbnailUrl": "https://i.ytimg.com/vi/NNXBqX2eenQ/hqdefault.jpg",
-        "durationInMinutes": 0,
-        "releaseDate": 1396977871000,
-        "participants": [
-          {
-            "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
-            "name": "Shirin"
-          },
-          {
-            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
-            "name": "freddyD"
-          },
-          {
-            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
-            "name": "Gergő"
-          }
-        ]
-      }
-    },
-    {
-      "id": "905569a9-2bb7-4e09-9a75-0ee0fded1e03",
+      "id": "134073b7-227c-4b39-a4e7-ed81466ed7ec",
       "title": "The Walking Dead 11. évad / 17-24. rész [SPOILERES]",
       "subtitle": "11. évad / 17-24. rész",
       "timestampString": null,
@@ -218,36 +64,19 @@
       }
     },
     {
-      "id": "983155d9-6212-413b-a9a3-ac2f3660c912",
-      "title": "The Walking Dead (1. évad)",
-      "subtitle": "1. évad",
-      "timestampString": null,
-      "timestampInSeconds": 0,
-      "isSpoiler": false,
-      "content": {
-        "category": "EXPRESS",
-        "title": "Filmbarátok Expressz: The Walking Dead (1. évad)",
-        "youtubeId": "N21Vfj9YGGE",
-        "thumbnailUrl": "https://i.ytimg.com/vi/N21Vfj9YGGE/hqdefault.jpg",
-        "durationInMinutes": 0,
-        "releaseDate": 1778518686000,
-        "participants": []
-      }
-    },
-    {
-      "id": "b0338d69-ad9f-4e27-98f9-fa29dc5b02c8",
-      "title": "The Walking Dead 8.évad/2 [SPOILERES]",
-      "subtitle": "8.évad/2",
+      "id": "15413cab-76e6-4503-a728-f2413dde62f1",
+      "title": "The Walking Dead 10.évad/4 [SPOILERES]",
+      "subtitle": "10.évad/4",
       "timestampString": null,
       "timestampInSeconds": 0,
       "isSpoiler": true,
       "content": {
         "category": "EXPRESS",
-        "title": "Filmbarátok Expressz: The Walking Dead 8.évad/2 [SPOILERES]",
-        "youtubeId": "xgrKTle-9jc",
-        "thumbnailUrl": "https://i.ytimg.com/vi/xgrKTle-9jc/hqdefault.jpg",
+        "title": "Filmbarátok Expressz: The Walking Dead 10.évad/4 [SPOILERES]",
+        "youtubeId": "hlhVdUQuSgw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/hlhVdUQuSgw/hqdefault.jpg",
         "durationInMinutes": 0,
-        "releaseDate": 1525525484000,
+        "releaseDate": 1618416649000,
         "participants": [
           {
             "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
@@ -265,7 +94,7 @@
       }
     },
     {
-      "id": "b5f588ba-5473-4608-85e6-50a30b9db7ab",
+      "id": "24d14908-c400-4da2-a3ef-b82515e43b68",
       "title": "The Walking Dead 9.évad/2 [SPOILERES]",
       "subtitle": "9.évad/2",
       "timestampString": null,
@@ -295,217 +124,24 @@
       }
     },
     {
-      "id": "b6d9d4db-67b8-4096-97f8-d7588e60efaf",
-      "title": "The Walking Dead 10.évad/2 [SPOILERES]",
-      "subtitle": "10.évad/2",
+      "id": "41a380b1-7170-4be0-8d1d-2b1e96e06d76",
+      "title": "The Walking Dead (1. évad)",
+      "subtitle": "1. évad",
       "timestampString": null,
       "timestampInSeconds": 0,
-      "isSpoiler": true,
+      "isSpoiler": false,
       "content": {
         "category": "EXPRESS",
-        "title": "Filmbarátok Expressz: The Walking Dead 10.évad/2 [SPOILERES]",
-        "youtubeId": "w-fuQ97Fng4",
-        "thumbnailUrl": "https://i.ytimg.com/vi/w-fuQ97Fng4/hqdefault.jpg",
+        "title": "Filmbarátok Expressz: The Walking Dead (1. évad)",
+        "youtubeId": "N21Vfj9YGGE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/N21Vfj9YGGE/hqdefault.jpg",
         "durationInMinutes": 0,
-        "releaseDate": 1586840732000,
-        "participants": [
-          {
-            "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
-            "name": "Shirin"
-          },
-          {
-            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
-            "name": "freddyD"
-          },
-          {
-            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
-            "name": "Gergő"
-          }
-        ]
+        "releaseDate": 1778518686000,
+        "participants": []
       }
     },
     {
-      "id": "ba59ddfa-f63e-4f19-9f8c-3de88f404a55",
-      "title": "The Walking Dead 11. évad / 9-16 rész [SPOILERES]",
-      "subtitle": "11. évad / 9-16 rész",
-      "timestampString": null,
-      "timestampInSeconds": 0,
-      "isSpoiler": true,
-      "content": {
-        "category": "EXPRESS",
-        "title": "Filmbarátok Expressz: The Walking Dead 11. évad / 9-16 rész [SPOILERES]",
-        "youtubeId": "Xb2SUE99gwQ",
-        "thumbnailUrl": "https://i.ytimg.com/vi/Xb2SUE99gwQ/hqdefault.jpg",
-        "durationInMinutes": 0,
-        "releaseDate": 1650960248000,
-        "participants": [
-          {
-            "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
-            "name": "Shirin"
-          },
-          {
-            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
-            "name": "freddyD"
-          },
-          {
-            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
-            "name": "Gergő"
-          }
-        ]
-      }
-    },
-    {
-      "id": "bfd6c6ea-026d-42d9-b80b-ed637d86f8a1",
-      "title": "The Walking Dead 7. évad /1 [SPOILERES]",
-      "subtitle": "7. évad /1",
-      "timestampString": null,
-      "timestampInSeconds": 0,
-      "isSpoiler": true,
-      "content": {
-        "category": "EXPRESS",
-        "title": "Filmbarátok Expressz: The Walking Dead 7. évad /1 [SPOILERES]",
-        "youtubeId": "V7eqgQ7kwpk",
-        "thumbnailUrl": "https://i.ytimg.com/vi/V7eqgQ7kwpk/hqdefault.jpg",
-        "durationInMinutes": 0,
-        "releaseDate": 1482185879000,
-        "participants": [
-          {
-            "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
-            "name": "Shirin"
-          },
-          {
-            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
-            "name": "freddyD"
-          },
-          {
-            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
-            "name": "Gergő"
-          }
-        ]
-      }
-    },
-    {
-      "id": "d4794e2e-5958-40ee-93b2-58d020941b04",
-      "title": "The Walking Dead 10.évad kisfinálé (10x16) [SPOILERES]",
-      "subtitle": "10.évad kisfinálé (10x16)",
-      "timestampString": null,
-      "timestampInSeconds": 0,
-      "isSpoiler": true,
-      "content": {
-        "category": "EXPRESS",
-        "title": "Filmbarátok Expressz: The Walking Dead 10.évad kisfinálé (10x16) [SPOILERES]",
-        "youtubeId": "RnEviNDgH4Y",
-        "thumbnailUrl": "https://i.ytimg.com/vi/RnEviNDgH4Y/hqdefault.jpg",
-        "durationInMinutes": 0,
-        "releaseDate": 1602183190000,
-        "participants": [
-          {
-            "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
-            "name": "Shirin"
-          },
-          {
-            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
-            "name": "freddyD"
-          },
-          {
-            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
-            "name": "Gergő"
-          }
-        ]
-      }
-    },
-    {
-      "id": "d68e36ed-05da-4eaf-a638-6255e7fb7f13",
-      "title": "The Walking Dead 10.évad/1 [SPOILERES]",
-      "subtitle": "10.évad/1",
-      "timestampString": null,
-      "timestampInSeconds": 0,
-      "isSpoiler": true,
-      "content": {
-        "category": "EXPRESS",
-        "title": "Filmbarátok Expressz: The Walking Dead 10.évad/1 [SPOILERES]",
-        "youtubeId": "U6SXkX8fav4",
-        "thumbnailUrl": "https://i.ytimg.com/vi/U6SXkX8fav4/hqdefault.jpg",
-        "durationInMinutes": 0,
-        "releaseDate": 1576267613000,
-        "participants": [
-          {
-            "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
-            "name": "Shirin"
-          },
-          {
-            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
-            "name": "freddyD"
-          },
-          {
-            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
-            "name": "Gergő"
-          }
-        ]
-      }
-    },
-    {
-      "id": "d9474214-ff78-46e9-869f-d3fbb344e66d",
-      "title": "The Walking Dead kibeszélés 4.évad/1 [SPOILERES]",
-      "subtitle": "kibeszélés 4.évad/1",
-      "timestampString": null,
-      "timestampInSeconds": 0,
-      "isSpoiler": true,
-      "content": {
-        "category": "EXPRESS",
-        "title": "Filmbarátok Expressz: The Walking Dead kibeszélés 4.évad/1 [SPOILERES]",
-        "youtubeId": "qOTlcQ2scWs",
-        "thumbnailUrl": "https://i.ytimg.com/vi/qOTlcQ2scWs/hqdefault.jpg",
-        "durationInMinutes": 0,
-        "releaseDate": 1386191345000,
-        "participants": [
-          {
-            "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
-            "name": "Shirin"
-          },
-          {
-            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
-            "name": "freddyD"
-          },
-          {
-            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
-            "name": "Gergő"
-          }
-        ]
-      }
-    },
-    {
-      "id": "db4e65ae-c7b1-4c74-89d4-e08c64c766ea",
-      "title": "The Walking Dead 6.évad/1 [SPOILERES]",
-      "subtitle": "6.évad/1",
-      "timestampString": null,
-      "timestampInSeconds": 0,
-      "isSpoiler": true,
-      "content": {
-        "category": "EXPRESS",
-        "title": "Filmbarátok Expressz: The Walking Dead 6.évad/1 [SPOILERES]",
-        "youtubeId": "t1DjObr3h30",
-        "thumbnailUrl": "https://i.ytimg.com/vi/t1DjObr3h30/hqdefault.jpg",
-        "durationInMinutes": 0,
-        "releaseDate": 1449520683000,
-        "participants": [
-          {
-            "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
-            "name": "Shirin"
-          },
-          {
-            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
-            "name": "freddyD"
-          },
-          {
-            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
-            "name": "Gergő"
-          }
-        ]
-      }
-    },
-    {
-      "id": "eb491a42-9b46-45d4-845c-e1202d93dfe2",
+      "id": "4498f775-623f-44a2-9116-4a3d37b7c577",
       "title": "The Walking Dead 11. évad / 1-8 rész [SPOILERES]",
       "subtitle": "11. évad / 1-8 rész",
       "timestampString": null,
@@ -535,7 +171,191 @@
       }
     },
     {
-      "id": "ec3e0eab-b496-4bad-9301-a492851b25b7",
+      "id": "5520363a-00d9-4f51-8b49-afb2eaeada61",
+      "title": "The Walking Dead 6.évad/1 [SPOILERES]",
+      "subtitle": "6.évad/1",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": true,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: The Walking Dead 6.évad/1 [SPOILERES]",
+        "youtubeId": "t1DjObr3h30",
+        "thumbnailUrl": "https://i.ytimg.com/vi/t1DjObr3h30/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1449520683000,
+        "participants": [
+          {
+            "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
+            "name": "Shirin"
+          },
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "57f93bfb-2a84-4192-97fc-1872d8d2827c",
+      "title": "The Walking Dead (1. évad)",
+      "subtitle": "1. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: The Walking Dead (1. évad)",
+        "youtubeId": "N21Vfj9YGGE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/N21Vfj9YGGE/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1778518686000,
+        "participants": []
+      }
+    },
+    {
+      "id": "71796378-c699-4296-8183-0faf70e390e7",
+      "title": "The Walking Dead 7.évad/2 [SPOILERES]",
+      "subtitle": "7.évad/2",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": true,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: The Walking Dead 7.évad/2 [SPOILERES]",
+        "youtubeId": "q5B0deihLnI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/q5B0deihLnI/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1491464744000,
+        "participants": [
+          {
+            "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
+            "name": "Shirin"
+          },
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7cd2e57e-e79d-42da-986d-a28c8b5d52e5",
+      "title": "The Walking Dead (1. évad)",
+      "subtitle": "1. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: The Walking Dead (1. évad)",
+        "youtubeId": "N21Vfj9YGGE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/N21Vfj9YGGE/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1778518686000,
+        "participants": []
+      }
+    },
+    {
+      "id": "841ee8f6-074a-4f76-85d3-126e105acd7e",
+      "title": "The Walking Dead 5.évad/1 [SPOILERES]",
+      "subtitle": "5.évad/1",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": true,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: The Walking Dead 5.évad/1 [SPOILERES]",
+        "youtubeId": "kJD4jCwwIqo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/kJD4jCwwIqo/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1418234899000,
+        "participants": [
+          {
+            "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
+            "name": "Shirin"
+          },
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8a556fef-40b3-4314-89c7-8be8247f8984",
+      "title": "The Walking Dead 10.évad/1 [SPOILERES]",
+      "subtitle": "10.évad/1",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": true,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: The Walking Dead 10.évad/1 [SPOILERES]",
+        "youtubeId": "U6SXkX8fav4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/U6SXkX8fav4/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1576267613000,
+        "participants": [
+          {
+            "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
+            "name": "Shirin"
+          },
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "90b9b351-8954-49b3-bb67-c2c2eea26dab",
+      "title": "The Walking Dead 7. évad /1 [SPOILERES]",
+      "subtitle": "7. évad /1",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": true,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: The Walking Dead 7. évad /1 [SPOILERES]",
+        "youtubeId": "V7eqgQ7kwpk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/V7eqgQ7kwpk/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1482185879000,
+        "participants": [
+          {
+            "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
+            "name": "Shirin"
+          },
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bbfe8723-5da2-41d8-8321-c7ad54ced8f1",
       "title": "The Walking Dead 8.évad/1 [SPOILERES]",
       "subtitle": "8.évad/1",
       "timestampString": null,
@@ -565,20 +385,234 @@
       }
     },
     {
-      "id": "ed59f342-469a-40e7-be57-46972a997816",
-      "title": "The Walking Dead 5.évad/2 [SPOILERES]",
-      "subtitle": "5.évad/2",
+      "id": "c7b5e024-2740-4ccb-9ed3-70453fd22767",
+      "title": "The Walking Dead 11. évad / 9-16 rész [SPOILERES]",
+      "subtitle": "11. évad / 9-16 rész",
       "timestampString": null,
       "timestampInSeconds": 0,
       "isSpoiler": true,
       "content": {
         "category": "EXPRESS",
-        "title": "Filmbarátok Expressz: The Walking Dead 5.évad/2 [SPOILERES]",
-        "youtubeId": "iYKXh_yyoO0",
-        "thumbnailUrl": "https://i.ytimg.com/vi/iYKXh_yyoO0/hqdefault.jpg",
+        "title": "Filmbarátok Expressz: The Walking Dead 11. évad / 9-16 rész [SPOILERES]",
+        "youtubeId": "Xb2SUE99gwQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Xb2SUE99gwQ/hqdefault.jpg",
         "durationInMinutes": 0,
-        "releaseDate": 1428602312000,
+        "releaseDate": 1650960248000,
         "participants": [
+          {
+            "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
+            "name": "Shirin"
+          },
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d1cde398-3541-4e92-82f0-860361dffb5e",
+      "title": "The Walking Dead 4.évad/2 [SPOILERES]",
+      "subtitle": "4.évad/2",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": true,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: The Walking Dead 4.évad/2 [SPOILERES]",
+        "youtubeId": "NNXBqX2eenQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/NNXBqX2eenQ/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1396977871000,
+        "participants": [
+          {
+            "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
+            "name": "Shirin"
+          },
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e072931c-3012-42c5-880d-6eaf5382b945",
+      "title": "The Walking Dead kibeszélés 4.évad/1 [SPOILERES]",
+      "subtitle": "kibeszélés 4.évad/1",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": true,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: The Walking Dead kibeszélés 4.évad/1 [SPOILERES]",
+        "youtubeId": "qOTlcQ2scWs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/qOTlcQ2scWs/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1386191345000,
+        "participants": [
+          {
+            "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
+            "name": "Shirin"
+          },
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e2e80455-ff0a-40c8-85ab-36fd5e5c5514",
+      "title": "The Walking Dead 10.évad/2 [SPOILERES]",
+      "subtitle": "10.évad/2",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": true,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: The Walking Dead 10.évad/2 [SPOILERES]",
+        "youtubeId": "w-fuQ97Fng4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/w-fuQ97Fng4/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1586840732000,
+        "participants": [
+          {
+            "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
+            "name": "Shirin"
+          },
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e414e493-ec20-42b7-b4a0-b261ff93b731",
+      "title": "The Walking Dead 9.évad/1 [SPOILERES]",
+      "subtitle": "9.évad/1",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": true,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: The Walking Dead 9.évad/1 [SPOILERES]",
+        "youtubeId": "2rTQTld7yjk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/2rTQTld7yjk/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1544714497000,
+        "participants": [
+          {
+            "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
+            "name": "Shirin"
+          },
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e7d89347-9ab7-4073-a5bb-a9ba2d327375",
+      "title": "The Walking Dead 6.évad/2 [SPOILERES]",
+      "subtitle": "6.évad/2",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": true,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: The Walking Dead 6.évad/2 [SPOILERES]",
+        "youtubeId": "562jGwskPFA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/562jGwskPFA/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1459912805000,
+        "participants": [
+          {
+            "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
+            "name": "Shirin"
+          },
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f0939162-8a94-4de9-a616-43bfe92a411e",
+      "title": "The Walking Dead 8.évad/2 [SPOILERES]",
+      "subtitle": "8.évad/2",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": true,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: The Walking Dead 8.évad/2 [SPOILERES]",
+        "youtubeId": "xgrKTle-9jc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/xgrKTle-9jc/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1525525484000,
+        "participants": [
+          {
+            "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
+            "name": "Shirin"
+          },
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f22c8490-b7d0-44b5-80df-22acfb98dad9",
+      "title": "The Walking Dead 10.évad kisfinálé (10x16) [SPOILERES]",
+      "subtitle": "10.évad kisfinálé (10x16)",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": true,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: The Walking Dead 10.évad kisfinálé (10x16) [SPOILERES]",
+        "youtubeId": "RnEviNDgH4Y",
+        "thumbnailUrl": "https://i.ytimg.com/vi/RnEviNDgH4Y/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1602183190000,
+        "participants": [
+          {
+            "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
+            "name": "Shirin"
+          },
           {
             "id": "095dedfe-6a52-491f-963d-88e8794b004b",
             "name": "freddyD"

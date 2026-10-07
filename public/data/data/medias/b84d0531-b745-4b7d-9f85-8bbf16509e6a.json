@@ -8,7 +8,37 @@
   "releaseDate": "2025-11-11T00:00:00.000Z",
   "topics": [
     {
-      "id": "5c8d0c6c-6495-4ba1-9ea6-a1d02fa9e8c8",
+      "id": "977a2335-dc4e-4aac-af29-4996204afda8",
+      "title": "A menekülő ember [2025]",
+      "subtitle": null,
+      "timestampString": "02:56:10",
+      "timestampInSeconds": 10570,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #315 (Életrajzi dokumentumfilmek)",
+        "youtubeId": "pvQvVCuAEDI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/pvQvVCuAEDI/hqdefault.jpg",
+        "durationInMinutes": 229,
+        "releaseDate": 1764442162000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f9d1c320-bcfe-40e2-8d9e-d3b5eeb984df",
       "title": "A menekülő ember [2025]",
       "subtitle": null,
       "timestampString": "02:56:10",

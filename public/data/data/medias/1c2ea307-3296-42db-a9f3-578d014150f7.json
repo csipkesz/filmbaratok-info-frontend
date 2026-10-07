@@ -8,7 +8,67 @@
   "releaseDate": "2025-12-11T00:00:00.000Z",
   "topics": [
     {
-      "id": "1ba034a0-dfa7-4c22-97bb-67dcdad2902d",
+      "id": "0f38e68f-08d6-46f6-a9d5-9974ec871894",
+      "title": "A porszörny",
+      "subtitle": null,
+      "timestampString": "01:28:02",
+      "timestampInSeconds": 5282,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #318",
+        "youtubeId": "97jsp1z7nD4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/97jsp1z7nD4/hqdefault.jpg",
+        "durationInMinutes": 190,
+        "releaseDate": 1768489534000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "172ab37b-cc7d-4753-912a-15c0473fdf64",
+      "title": "A porszörny",
+      "subtitle": null,
+      "timestampString": "01:28:02",
+      "timestampInSeconds": 5282,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #318",
+        "youtubeId": "97jsp1z7nD4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/97jsp1z7nD4/hqdefault.jpg",
+        "durationInMinutes": 190,
+        "releaseDate": 1768489534000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "59e625b5-7ca8-49eb-bcf8-ab60552e0fa1",
       "title": "A porszörny",
       "subtitle": null,
       "timestampString": "01:28:02",

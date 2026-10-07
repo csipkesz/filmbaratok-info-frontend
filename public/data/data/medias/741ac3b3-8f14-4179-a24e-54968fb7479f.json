@@ -3,12 +3,72 @@
   "title": "A zongorahangoló",
   "originalTitle": "Tuner",
   "overview": "A gifted piano tuner's meticulous skills for tuning pianos lead him to discover an unexpected aptitude for cracking safes, turning his life upside down.",
-  "backdropPath": "/2f5Viug0j2jskSmeyhd89QYhqmS.jpg",
+  "backdropPath": "/y04gpYp8rJoUud6vf8okqHIdP4V.jpg",
   "posterPath": "/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg",
   "releaseDate": "2026-05-21T00:00:00.000Z",
   "topics": [
     {
-      "id": "1893b135-46a8-48ec-8893-b911ea84faaf",
+      "id": "3b0273a8-5207-4385-8037-dcca200a951b",
+      "title": "A zongorahangoló",
+      "subtitle": null,
+      "timestampString": "02:05:55",
+      "timestampInSeconds": 7555,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #330",
+        "youtubeId": "AgwfP4V1UCo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/AgwfP4V1UCo/hqdefault.jpg",
+        "durationInMinutes": 207,
+        "releaseDate": 1784150438000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9cbe5a7d-cc70-4a39-b3bc-c1974a5ffb10",
+      "title": "A zongorahangoló",
+      "subtitle": null,
+      "timestampString": "02:05:55",
+      "timestampInSeconds": 7555,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #330",
+        "youtubeId": "AgwfP4V1UCo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/AgwfP4V1UCo/hqdefault.jpg",
+        "durationInMinutes": 207,
+        "releaseDate": 1784150438000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a38dd587-07b7-4c8f-882b-bdd6bcc2ef18",
       "title": "A zongorahangoló",
       "subtitle": null,
       "timestampString": "02:05:55",

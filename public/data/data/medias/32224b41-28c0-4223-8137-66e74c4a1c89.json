@@ -3,12 +3,72 @@
   "title": "Supergirl",
   "originalTitle": "Supergirl",
   "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-  "backdropPath": "/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
+  "backdropPath": "/heZQmyNvkH236ha2M3JckdUQQqb.jpg",
   "posterPath": "/uhzRnTW4DM13UQBvZP3eVNzQTuz.jpg",
   "releaseDate": "2026-06-24T00:00:00.000Z",
   "topics": [
     {
-      "id": "9f027ba8-c847-42c0-98c8-f8164f59334b",
+      "id": "639c92be-dfe2-43e0-ba65-f1b08f4c23fc",
+      "title": "Supergirl",
+      "subtitle": null,
+      "timestampString": "01:03:50",
+      "timestampInSeconds": 3830,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #330",
+        "youtubeId": "AgwfP4V1UCo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/AgwfP4V1UCo/hqdefault.jpg",
+        "durationInMinutes": 207,
+        "releaseDate": 1784150438000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ef32885d-077b-460f-8ad8-fd8c1afc4d99",
+      "title": "Supergirl",
+      "subtitle": null,
+      "timestampString": "01:03:50",
+      "timestampInSeconds": 3830,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #330",
+        "youtubeId": "AgwfP4V1UCo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/AgwfP4V1UCo/hqdefault.jpg",
+        "durationInMinutes": 207,
+        "releaseDate": 1784150438000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fdd25b6d-829e-4c44-bab8-36ed7c736e6e",
       "title": "Supergirl",
       "subtitle": null,
       "timestampString": "01:03:50",

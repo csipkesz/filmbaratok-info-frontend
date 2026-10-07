@@ -8,33 +8,7 @@
   "releaseDate": "2020-05-17T00:00:00.000Z",
   "topics": [
     {
-      "id": "9b4e33b0-562e-481a-9f77-76c00b50697d",
-      "title": "Snowpiercer",
-      "subtitle": null,
-      "timestampString": "01:21:55",
-      "timestampInSeconds": 4915,
-      "isSpoiler": false,
-      "content": {
-        "category": "PODCAST",
-        "title": "Filmbarátok Podcast #52",
-        "youtubeId": "z5hnMqJSVxs",
-        "thumbnailUrl": "https://i.ytimg.com/vi/z5hnMqJSVxs/hqdefault.jpg",
-        "durationInMinutes": 121,
-        "releaseDate": 1403347391000,
-        "participants": [
-          {
-            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
-            "name": "freddyD"
-          },
-          {
-            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
-            "name": "Gergő"
-          }
-        ]
-      }
-    },
-    {
-      "id": "a37f22ea-b317-46a8-b391-748c2587edeb",
+      "id": "98c1da46-dfa9-4fa3-82ed-90c05b63ce43",
       "title": "Snowpiercer",
       "subtitle": null,
       "timestampString": "01:59:55",
@@ -55,6 +29,32 @@
           {
             "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
             "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b696db84-4daa-46aa-9e99-6fa524332d04",
+      "title": "Snowpiercer",
+      "subtitle": null,
+      "timestampString": "01:21:55",
+      "timestampInSeconds": 4915,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #52",
+        "youtubeId": "z5hnMqJSVxs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z5hnMqJSVxs/hqdefault.jpg",
+        "durationInMinutes": 121,
+        "releaseDate": 1403347391000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
           },
           {
             "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",

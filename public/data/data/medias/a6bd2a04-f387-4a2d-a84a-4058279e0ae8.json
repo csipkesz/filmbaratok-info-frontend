@@ -8,7 +8,24 @@
   "releaseDate": "2025-10-26T00:00:00.000Z",
   "topics": [
     {
-      "id": "337b64a1-e126-450e-beda-01bb0c92fb8e",
+      "id": "c3fb1db3-57ef-422d-a5f9-bf03eca54b5c",
+      "title": "IT - Welcome to Derry",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: IT - Welcome to Derry",
+        "youtubeId": "DzTOs2kXnk8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/DzTOs2kXnk8/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1766741642000,
+        "participants": []
+      }
+    },
+    {
+      "id": "fc095eb2-558d-41f2-869b-759939b28635",
       "title": "IT - Welcome to Derry",
       "subtitle": null,
       "timestampString": null,

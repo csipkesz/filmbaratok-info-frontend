@@ -8,24 +8,7 @@
   "releaseDate": "2020-02-07T00:00:00.000Z",
   "topics": [
     {
-      "id": "39486b7c-2fb6-4eec-87be-c18f22091f0f",
-      "title": "365 nap (freddyD kiadás)",
-      "subtitle": null,
-      "timestampString": null,
-      "timestampInSeconds": 0,
-      "isSpoiler": false,
-      "content": {
-        "category": "AUDIO_COMMENTARY",
-        "title": "Filmbarátok Audiokommentár: 365 nap (freddyD kiadás)",
-        "youtubeId": "ipEEV-cZQOY",
-        "thumbnailUrl": "https://i.ytimg.com/vi/ipEEV-cZQOY/hqdefault.jpg",
-        "durationInMinutes": 0,
-        "releaseDate": 1597415293000,
-        "participants": []
-      }
-    },
-    {
-      "id": "ba7ac9ed-9dc6-4cab-a52d-bebba56f671b",
+      "id": "9c27b9e4-895c-45e9-99af-787a3070d99a",
       "title": "365 nap",
       "subtitle": null,
       "timestampString": "00:41:45",
@@ -52,6 +35,23 @@
             "name": "Gergő"
           }
         ]
+      }
+    },
+    {
+      "id": "e9d16d21-e113-47cd-9478-d8dbc8cd9c7a",
+      "title": "365 nap (freddyD kiadás)",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "AUDIO_COMMENTARY",
+        "title": "Filmbarátok Audiokommentár: 365 nap (freddyD kiadás)",
+        "youtubeId": "ipEEV-cZQOY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ipEEV-cZQOY/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1597415293000,
+        "participants": []
       }
     }
   ]

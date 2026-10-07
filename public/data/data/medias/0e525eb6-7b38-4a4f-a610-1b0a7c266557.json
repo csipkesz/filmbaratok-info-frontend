@@ -8,12 +8,12 @@
   "releaseDate": "2017-10-04T00:00:00.000Z",
   "topics": [
     {
-      "id": "4af47c50-3ac2-456e-8e09-09641078043d",
-      "title": "Szárnyas fejvadász 2049",
+      "id": "15a685ed-c25f-432d-a391-52183c995783",
+      "title": "Szárnyas fejvadász 2049 [SPOILERES]",
       "subtitle": null,
-      "timestampString": "02:22:40",
-      "timestampInSeconds": 8560,
-      "isSpoiler": false,
+      "timestampString": "02:30:45",
+      "timestampInSeconds": 9045,
+      "isSpoiler": true,
       "content": {
         "category": "PODCAST",
         "title": "Filmbarátok Podcast #131",
@@ -42,12 +42,12 @@
       }
     },
     {
-      "id": "6dc3371c-7992-471a-ab6a-8b3e7c407ae4",
-      "title": "Szárnyas fejvadász 2049 [SPOILERES]",
+      "id": "404d1933-b7b4-4533-bf6e-0f9aca8a6fd2",
+      "title": "Szárnyas fejvadász 2049",
       "subtitle": null,
-      "timestampString": "02:30:45",
-      "timestampInSeconds": 9045,
-      "isSpoiler": true,
+      "timestampString": "02:22:40",
+      "timestampInSeconds": 8560,
+      "isSpoiler": false,
       "content": {
         "category": "PODCAST",
         "title": "Filmbarátok Podcast #131",

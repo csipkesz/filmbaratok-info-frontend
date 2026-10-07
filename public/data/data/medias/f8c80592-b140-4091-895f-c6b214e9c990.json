@@ -8,7 +8,67 @@
   "releaseDate": "2026-04-01T00:00:00.000Z",
   "topics": [
     {
-      "id": "7d575a5c-c9c5-4bf3-a21f-549e26550ab2",
+      "id": "3b7b7bd2-a350-4b4c-901e-482131cbf474",
+      "title": "Kész dráma",
+      "subtitle": null,
+      "timestampString": "01:43:44",
+      "timestampInSeconds": 6224,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #324",
+        "youtubeId": "Df6QbCuxjIs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Df6QbCuxjIs/hqdefault.jpg",
+        "durationInMinutes": 174,
+        "releaseDate": 1776433338000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4d0f5c23-11b0-42b6-9a17-eac43c47f239",
+      "title": "Kész dráma",
+      "subtitle": null,
+      "timestampString": "01:43:44",
+      "timestampInSeconds": 6224,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #324",
+        "youtubeId": "Df6QbCuxjIs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Df6QbCuxjIs/hqdefault.jpg",
+        "durationInMinutes": 174,
+        "releaseDate": 1776433338000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bae5cbdd-f97f-4ccd-9ff1-014b8b59a785",
       "title": "Kész dráma",
       "subtitle": null,
       "timestampString": "01:43:44",

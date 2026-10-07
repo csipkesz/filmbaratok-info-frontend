@@ -8,7 +8,83 @@
   "releaseDate": "2025-11-26T00:00:00.000Z",
   "topics": [
     {
-      "id": "89f7efd8-f070-48cf-98b8-13c65aa98fbd",
+      "id": "343e8773-eda1-4834-a538-3197eff078ec",
+      "title": "Tőrbe ejtve: Ébredj fel, halott ember",
+      "subtitle": null,
+      "timestampString": "00:30:30",
+      "timestampInSeconds": 1830,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #317",
+        "youtubeId": "N3gph9sciUU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/N3gph9sciUU/hqdefault.jpg",
+        "durationInMinutes": 257,
+        "releaseDate": 1767165271000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "db29f40e-5664-4043-9f20-874ee13bc133",
+      "title": "Tőrbe ejtve: Ébredj fel, halott ember",
+      "subtitle": null,
+      "timestampString": "00:30:30",
+      "timestampInSeconds": 1830,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #317",
+        "youtubeId": "N3gph9sciUU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/N3gph9sciUU/hqdefault.jpg",
+        "durationInMinutes": 257,
+        "releaseDate": 1767165271000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "df3d7a52-324b-4875-b4c3-7b1774b420c7",
       "title": "Tőrbe ejtve: Ébredj fel, halott ember",
       "subtitle": null,
       "timestampString": "00:30:30",

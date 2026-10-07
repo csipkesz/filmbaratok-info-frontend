@@ -8,7 +8,67 @@
   "releaseDate": "2026-01-14T00:00:00.000Z",
   "topics": [
     {
-      "id": "121ec9b6-391b-4a24-a0a4-5957a4a04081",
+      "id": "21d42a78-b918-44da-a873-1818eeb1098d",
+      "title": "28 évvel később - A csonttemplom",
+      "subtitle": null,
+      "timestampString": "00:42:50",
+      "timestampInSeconds": 2570,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #319",
+        "youtubeId": "WElfYZiSFrk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/WElfYZiSFrk/hqdefault.jpg",
+        "durationInMinutes": 210,
+        "releaseDate": 1769866830000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "51d3e290-74a3-4dce-bb81-d74ba6ce631d",
+      "title": "28 évvel később - A csonttemplom",
+      "subtitle": null,
+      "timestampString": "00:42:50",
+      "timestampInSeconds": 2570,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #319",
+        "youtubeId": "WElfYZiSFrk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/WElfYZiSFrk/hqdefault.jpg",
+        "durationInMinutes": 210,
+        "releaseDate": 1769866830000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fddabad6-a9d0-4641-84df-2e40c88bf4f1",
       "title": "28 évvel később - A csonttemplom",
       "subtitle": null,
       "timestampString": "00:42:50",

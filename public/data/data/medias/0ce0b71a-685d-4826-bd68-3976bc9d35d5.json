@@ -1,0 +1,45 @@
+{
+  "id": "0ce0b71a-685d-4826-bd68-3976bc9d35d5",
+  "title": "A mézkirály",
+  "originalTitle": "The Rivals of Amziah King",
+  "overview": "Az oklahomai vidék mélyén él Amziah King, egy karizmatikus és rendkívül tehetséges zenész, aki egy különcökből álló bluegrass zenekar tagja, miközben a környék legjelentősebb méztermelő üzemét is irányítja. Amikor Amziah elhidegült nevelt lánya váratlanul visszatér, a férfi azonnal megragadja az alkalmat, hogy újra közel kerüljenek egymáshoz és családi vállalkozást alapítsanak. De a mézipar kegyetlen világ, és Amziah riválisai azzal fenyegetőznek, hogy tönkreteszik mindazt, amit a férfi felépített.",
+  "backdropPath": "/nBSlvQrDX60rmngwcxMeMq33I9m.jpg",
+  "posterPath": "/dPX9wNuonCIlnyNgKl79Z9Lw2YB.jpg",
+  "releaseDate": "2026-08-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "15bc9d99-ab2d-4323-a615-70b9677972ed",
+      "title": "A mézkirály",
+      "subtitle": null,
+      "timestampString": "02:01:30",
+      "timestampInSeconds": 7290,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #334",
+        "youtubeId": "wGwhgYM7L7I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wGwhgYM7L7I/hqdefault.jpg",
+        "durationInMinutes": 229,
+        "releaseDate": 1789561805000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

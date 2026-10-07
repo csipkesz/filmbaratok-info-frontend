@@ -8,7 +8,67 @@
   "releaseDate": "2026-01-22T00:00:00.000Z",
   "topics": [
     {
-      "id": "6216846c-78bf-45d8-9308-2fff300a32ff",
+      "id": "43d589a4-6e40-49eb-8577-bc53bebc73a8",
+      "title": "Segítség!",
+      "subtitle": null,
+      "timestampString": "00:37:35",
+      "timestampInSeconds": 2255,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #320",
+        "youtubeId": "JOlQcUNht4E",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JOlQcUNht4E/hqdefault.jpg",
+        "durationInMinutes": 181,
+        "releaseDate": 1771072699000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cecff9b6-3752-4ad7-9004-2e8d659f78b6",
+      "title": "Segítség!",
+      "subtitle": null,
+      "timestampString": "00:37:35",
+      "timestampInSeconds": 2255,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #320",
+        "youtubeId": "JOlQcUNht4E",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JOlQcUNht4E/hqdefault.jpg",
+        "durationInMinutes": 181,
+        "releaseDate": 1771072699000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d3c69f84-3830-4e79-9b48-2e54797e41aa",
       "title": "Segítség!",
       "subtitle": null,
       "timestampString": "00:37:35",

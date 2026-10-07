@@ -8,7 +8,41 @@
   "releaseDate": "2001-10-18T00:00:00.000Z",
   "topics": [
     {
-      "id": "3b8cc5fa-3046-4d7d-8585-28adda03b174",
+      "id": "3555419a-43dc-4dc1-b3c3-39741e86bedf",
+      "title": "Üvegtigris",
+      "subtitle": null,
+      "timestampString": "01:32:05",
+      "timestampInSeconds": 5525,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #316",
+        "youtubeId": "tj6Fv2PRYFw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tj6Fv2PRYFw/hqdefault.jpg",
+        "durationInMinutes": 318,
+        "releaseDate": 1765639323000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "615ef3b8-cb9f-4cdc-b41a-bca9b99d0914",
       "title": "Üvegtigris",
       "subtitle": null,
       "timestampString": "01:32:05",

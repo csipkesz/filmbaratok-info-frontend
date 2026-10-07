@@ -8,37 +8,7 @@
   "releaseDate": "2014-06-05T00:00:00.000Z",
   "topics": [
     {
-      "id": "0ca59bb0-27af-43d2-acb5-bcc054fe02be",
-      "title": "Így neveld a sárkányodat 2",
-      "subtitle": null,
-      "timestampString": "01:13:50",
-      "timestampInSeconds": 4430,
-      "isSpoiler": false,
-      "content": {
-        "category": "PODCAST",
-        "title": "Filmbarátok Podcast #53",
-        "youtubeId": "m4ZV-tpyiqU",
-        "thumbnailUrl": "https://i.ytimg.com/vi/m4ZV-tpyiqU/hqdefault.jpg",
-        "durationInMinutes": 174,
-        "releaseDate": 1404572612000,
-        "participants": [
-          {
-            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
-            "name": "freddyD"
-          },
-          {
-            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
-            "name": "Blacksheep"
-          },
-          {
-            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
-            "name": "Gergő"
-          }
-        ]
-      }
-    },
-    {
-      "id": "c787f047-c629-4b43-8e90-f64bae5b98eb",
+      "id": "f3ddb811-09de-47aa-b3f3-bd5e411672fb",
       "title": "Így neveld a sárkányodat 1 & 2",
       "subtitle": null,
       "timestampString": "01:20:26",
@@ -59,6 +29,36 @@
           {
             "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
             "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f7ec6039-e197-4def-8b49-e65a7195ef4d",
+      "title": "Így neveld a sárkányodat 2",
+      "subtitle": null,
+      "timestampString": "01:13:50",
+      "timestampInSeconds": 4430,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #53",
+        "youtubeId": "m4ZV-tpyiqU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/m4ZV-tpyiqU/hqdefault.jpg",
+        "durationInMinutes": 174,
+        "releaseDate": 1404572612000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
           },
           {
             "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",

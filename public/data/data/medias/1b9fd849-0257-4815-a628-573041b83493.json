@@ -3,12 +3,72 @@
   "title": "Meghívás",
   "originalTitle": "The Invite",
   "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
-  "backdropPath": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
+  "backdropPath": "/bs32Ds4L8VADGjBVasSK1ASU7OW.jpg",
   "posterPath": "/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
   "releaseDate": "2026-06-25T00:00:00.000Z",
   "topics": [
     {
-      "id": "055b16f9-6577-454d-8ecd-7b848532b1e2",
+      "id": "5e04c788-5e22-4a93-b0dc-34cfe4508706",
+      "title": "Meghívás",
+      "subtitle": null,
+      "timestampString": "01:23:20",
+      "timestampInSeconds": 5000,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #330",
+        "youtubeId": "AgwfP4V1UCo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/AgwfP4V1UCo/hqdefault.jpg",
+        "durationInMinutes": 207,
+        "releaseDate": 1784150438000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "777ab1b4-b2eb-4d53-abf1-9e9ef23f6b63",
+      "title": "Meghívás",
+      "subtitle": null,
+      "timestampString": "01:23:20",
+      "timestampInSeconds": 5000,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #330",
+        "youtubeId": "AgwfP4V1UCo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/AgwfP4V1UCo/hqdefault.jpg",
+        "durationInMinutes": 207,
+        "releaseDate": 1784150438000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "be13a46b-7fa2-4594-820c-c8edb9bbe542",
       "title": "Meghívás",
       "subtitle": null,
       "timestampString": "01:23:20",

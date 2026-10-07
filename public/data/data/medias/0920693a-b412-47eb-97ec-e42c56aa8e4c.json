@@ -1,0 +1,49 @@
+{
+  "id": "0920693a-b412-47eb-97ec-e42c56aa8e4c",
+  "title": "A kaptár [2026]",
+  "originalTitle": "Resident Evil",
+  "overview": "Egy szerencsétlen futár, akit azzal bíznak meg, hogy egy csomagot eljuttasson egy távoli kórházba, egy járvány kellős közepébe csöppen, és mutálódott lények hordáin kell keresztülverekednie magát, hogy életben maradjon.",
+  "backdropPath": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+  "posterPath": "/htCDIZzGzhtEzIKwYGvMys0podk.jpg",
+  "releaseDate": "2026-09-16T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d18b1dc0-2e71-4ae3-ac22-24b302f1a984",
+      "title": "A kaptár [2026]",
+      "subtitle": null,
+      "timestampString": "01:29:10",
+      "timestampInSeconds": 5350,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #335",
+        "youtubeId": "SBrIMTb3Y38",
+        "thumbnailUrl": "https://i.ytimg.com/vi/SBrIMTb3Y38/hqdefault.jpg",
+        "durationInMinutes": 232,
+        "releaseDate": 1790751633000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

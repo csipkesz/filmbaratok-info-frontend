@@ -8,7 +8,75 @@
   "releaseDate": "2008-07-14T00:00:00.000Z",
   "topics": [
     {
-      "id": "79ce343f-496f-477d-b0d6-852f99b281d7",
+      "id": "67c0ad82-32b0-4b22-b0ef-efcbae89ca30",
+      "title": "Kígyódémon",
+      "subtitle": null,
+      "timestampString": "03:03:54",
+      "timestampInSeconds": 11034,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #332",
+        "youtubeId": "TxY_PejOCHo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/TxY_PejOCHo/hqdefault.jpg",
+        "durationInMinutes": 209,
+        "releaseDate": 1786734027000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8a4f0af2-23f3-467e-ac58-6c973afc6d58",
+      "title": "Kígyódémon",
+      "subtitle": null,
+      "timestampString": "03:03:54",
+      "timestampInSeconds": 11034,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #332",
+        "youtubeId": "TxY_PejOCHo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/TxY_PejOCHo/hqdefault.jpg",
+        "durationInMinutes": 209,
+        "releaseDate": 1786734027000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c514a38c-16c1-436a-bdef-293f63976d8b",
       "title": "Kígyódémon",
       "subtitle": null,
       "timestampString": "03:03:54",

@@ -2,13 +2,30 @@
   "id": "64d2abf1-07d7-497d-b469-5c2690ab01ac",
   "title": "Csak egy éjszaka",
   "originalTitle": "One Night Only",
-  "overview": "Az egyetlen éjszakán, amikor a házasság előtti szex megengedett, két idegen kétségbeesetten keres partnert egy egyént korlátozó társadalomban.",
-  "backdropPath": "/bpll0oy6gHwLvypfFNfT2QI4VkT.jpg",
-  "posterPath": "/neH31f3FMLlXUdnQ7BJr6dAdg9D.jpg",
-  "releaseDate": "2026-07-28T00:00:00.000Z",
+  "overview": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
+  "backdropPath": "/mfgNUnFB25BNIwe9iPJ17cUN64S.jpg",
+  "posterPath": "/f1v8IcYcQggeq1N0unoMJMrzTd9.jpg",
+  "releaseDate": "2026-08-06T00:00:00.000Z",
   "topics": [
     {
-      "id": "73128698-cf5d-4da1-af4a-28ec636a4b3b",
+      "id": "26e3c94f-bd00-4863-95e9-faa57b37d3d4",
+      "title": "Csak egy éjszaka",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Csak egy éjszaka",
+        "youtubeId": "PHdnJ5vK2HI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/PHdnJ5vK2HI/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1787915557000,
+        "participants": []
+      }
+    },
+    {
+      "id": "baf3e71e-3182-4581-a0a0-323188def2a2",
       "title": "Csak egy éjszaka",
       "subtitle": null,
       "timestampString": null,

@@ -8,7 +8,37 @@
   "releaseDate": "2026-01-21T00:00:00.000Z",
   "topics": [
     {
-      "id": "973d9676-79c4-4c1f-b28b-8ee32bd388ff",
+      "id": "09111fa4-0da7-4642-83b5-4567705ad786",
+      "title": "Silent Hill: Visszatérés",
+      "subtitle": null,
+      "timestampString": "01:26:00",
+      "timestampInSeconds": 5160,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #321",
+        "youtubeId": "ASzT3k0iUdk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ASzT3k0iUdk/hqdefault.jpg",
+        "durationInMinutes": 176,
+        "releaseDate": 1772128964000,
+        "participants": [
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2fb78405-0f0c-4042-bda2-5dfff0d43338",
       "title": "Silent Hill: Visszatérés",
       "subtitle": null,
       "timestampString": "01:26:00",

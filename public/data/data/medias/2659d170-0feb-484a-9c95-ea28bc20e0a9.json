@@ -1,0 +1,49 @@
+{
+  "id": "2659d170-0feb-484a-9c95-ea28bc20e0a9",
+  "title": "Kommandó",
+  "originalTitle": "Commando",
+  "overview": "A visszavonult John Matrix egyszemélyes hadsereg, a különleges kommandó egykori vezetője, ismét akcióba lép amikor lányát elrabolják. Át kell küzdenie magát egy sor gyilkoson, korábbi kommandóson, egy teljesen felszerelt magánhadseregen, és csak néhány órája van, hogy megtalálja a lányát, mielőtt megölik.",
+  "backdropPath": "/gvao0WZchzudp2oMF5sjgzwHY0q.jpg",
+  "posterPath": "/9okkxJGzHQjrsCdpRTsdeSfoxkE.jpg",
+  "releaseDate": "1985-10-03T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "7462592a-20e3-4bb9-a82c-8a5cdc39db41",
+      "title": "Kommandó",
+      "subtitle": null,
+      "timestampString": "02:29:16",
+      "timestampInSeconds": 8956,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #335",
+        "youtubeId": "SBrIMTb3Y38",
+        "thumbnailUrl": "https://i.ytimg.com/vi/SBrIMTb3Y38/hqdefault.jpg",
+        "durationInMinutes": 232,
+        "releaseDate": 1790751633000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

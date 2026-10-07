@@ -8,7 +8,37 @@
   "releaseDate": "2025-09-10T00:00:00.000Z",
   "topics": [
     {
-      "id": "644fda49-4bca-47a5-9ba4-d83ea3b2484b",
+      "id": "c59ac428-5f51-4c2d-be52-c3b05c1a62f9",
+      "title": "Alias Charlie Sheen",
+      "subtitle": null,
+      "timestampString": "00:53:25",
+      "timestampInSeconds": 3205,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #315 (Életrajzi dokumentumfilmek)",
+        "youtubeId": "pvQvVCuAEDI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/pvQvVCuAEDI/hqdefault.jpg",
+        "durationInMinutes": 229,
+        "releaseDate": 1764442162000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d3b15888-2c30-471a-9dee-314108bf5262",
       "title": "Alias Charlie Sheen",
       "subtitle": null,
       "timestampString": "00:53:25",

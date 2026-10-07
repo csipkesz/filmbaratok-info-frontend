@@ -3,12 +3,72 @@
   "title": "A parfüm: Egy gyilkos története",
   "originalTitle": "Perfume: The Story of a Murderer",
   "overview": "Jean-Baptiste Grenouille, born in the stench of 18th century Paris, develops a superior olfactory sense, which he uses to create the world's finest perfumes. However, his work takes a dark turn as he tries to preserve scents in the search for the ultimate perfume.",
-  "backdropPath": "/kvdy0Ijjo2r9qsnWV4Dzx07qwnc.jpg",
+  "backdropPath": "/kgHYRHQ5BZM1mxsy1MSZepNjMiR.jpg",
   "posterPath": "/2wrFrUej8ri5EpjgIkjKTAnr686.jpg",
   "releaseDate": "2006-09-13T00:00:00.000Z",
   "topics": [
     {
-      "id": "fff18db9-1e48-42fc-bc23-6fb46c11b998",
+      "id": "1c9258b0-a56b-4e07-be39-0b04e21ec644",
+      "title": "A parfüm: Egy gyilkos története [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "02:47:40",
+      "timestampInSeconds": 10060,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #319",
+        "youtubeId": "WElfYZiSFrk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/WElfYZiSFrk/hqdefault.jpg",
+        "durationInMinutes": 210,
+        "releaseDate": 1769866830000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e53ee7d3-a440-45f9-8870-ffab68cc9253",
+      "title": "A parfüm: Egy gyilkos története [SPOILERES]",
+      "subtitle": null,
+      "timestampString": "02:47:40",
+      "timestampInSeconds": 10060,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #319",
+        "youtubeId": "WElfYZiSFrk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/WElfYZiSFrk/hqdefault.jpg",
+        "durationInMinutes": 210,
+        "releaseDate": 1769866830000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "edd6ba34-68e3-45ea-87a8-0a6961fc04aa",
       "title": "A parfüm: Egy gyilkos története [SPOILERES]",
       "subtitle": null,
       "timestampString": "02:47:40",

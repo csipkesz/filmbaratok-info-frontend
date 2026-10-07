@@ -8,7 +8,37 @@
   "releaseDate": "2013-12-25T00:00:00.000Z",
   "topics": [
     {
-      "id": "05494300-166c-4ab5-b31e-16928cfa4e09",
+      "id": "189cf821-e91d-4a0d-989b-b0d05c7b118a",
+      "title": "A Wall Street farkasa",
+      "subtitle": null,
+      "timestampString": "00:44:48",
+      "timestampInSeconds": 2688,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #43",
+        "youtubeId": "WupIquHhCt0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/WupIquHhCt0/hqdefault.jpg",
+        "durationInMinutes": 164,
+        "releaseDate": 1389645501000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "53bc15c5-2e94-47f7-a669-022cd01c41f8",
       "title": "A Wall Street farkasa",
       "subtitle": null,
       "timestampString": "02:40:47",
@@ -33,36 +63,6 @@
           {
             "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
             "name": "Zoly"
-          },
-          {
-            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
-            "name": "Gergő"
-          }
-        ]
-      }
-    },
-    {
-      "id": "87928d70-ef57-4e3f-8097-70440b5a425f",
-      "title": "A Wall Street farkasa",
-      "subtitle": null,
-      "timestampString": "00:44:48",
-      "timestampInSeconds": 2688,
-      "isSpoiler": false,
-      "content": {
-        "category": "PODCAST",
-        "title": "Filmbarátok Podcast #43",
-        "youtubeId": "WupIquHhCt0",
-        "thumbnailUrl": "https://i.ytimg.com/vi/WupIquHhCt0/hqdefault.jpg",
-        "durationInMinutes": 164,
-        "releaseDate": 1389645501000,
-        "participants": [
-          {
-            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
-            "name": "freddyD"
-          },
-          {
-            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
-            "name": "Blacksheep"
           },
           {
             "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",

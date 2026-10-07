@@ -8,24 +8,7 @@
   "releaseDate": "2023-01-15T00:00:00.000Z",
   "topics": [
     {
-      "id": "410b0aea-13c1-4834-a261-b0b0f76e5077",
-      "title": "The Last of Us (2. évad)",
-      "subtitle": "2. évad",
-      "timestampString": null,
-      "timestampInSeconds": 0,
-      "isSpoiler": false,
-      "content": {
-        "category": "EXPRESS",
-        "title": "Filmbarátok Expressz: The Last of Us (2. évad)",
-        "youtubeId": "ENi5Cy6e8cg",
-        "thumbnailUrl": "https://i.ytimg.com/vi/ENi5Cy6e8cg/hqdefault.jpg",
-        "durationInMinutes": 0,
-        "releaseDate": 1748971128000,
-        "participants": []
-      }
-    },
-    {
-      "id": "908f46db-8e57-497b-b16a-fa52bf283489",
+      "id": "56e0265b-64a4-4e98-bc8f-f548a8e86df5",
       "title": "The last of us (1. évad)",
       "subtitle": "1. évad",
       "timestampString": null,
@@ -38,6 +21,23 @@
         "thumbnailUrl": "https://i.ytimg.com/vi/6ZCDM4bUBb0/hqdefault.jpg",
         "durationInMinutes": 0,
         "releaseDate": 1678958911000,
+        "participants": []
+      }
+    },
+    {
+      "id": "f781bbb4-d3d2-49e6-b97c-40b9402fcb0b",
+      "title": "The Last of Us (2. évad)",
+      "subtitle": "2. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: The Last of Us (2. évad)",
+        "youtubeId": "ENi5Cy6e8cg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ENi5Cy6e8cg/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1748971128000,
         "participants": []
       }
     }

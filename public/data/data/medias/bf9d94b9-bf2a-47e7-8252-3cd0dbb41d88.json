@@ -8,7 +8,37 @@
   "releaseDate": "2025-10-16T00:00:00.000Z",
   "topics": [
     {
-      "id": "5ce1efe1-9f05-4839-9b4c-c1e38fd6f213",
+      "id": "2a0ca924-a078-47dd-ad5a-15d551847b0b",
+      "title": "Mr. Scorsese",
+      "subtitle": null,
+      "timestampString": "02:08:17",
+      "timestampInSeconds": 7697,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #315 (Életrajzi dokumentumfilmek)",
+        "youtubeId": "pvQvVCuAEDI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/pvQvVCuAEDI/hqdefault.jpg",
+        "durationInMinutes": 229,
+        "releaseDate": 1764442162000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e88d338a-f723-4299-afd0-0768ec3554b1",
       "title": "Mr. Scorsese",
       "subtitle": null,
       "timestampString": "02:08:17",

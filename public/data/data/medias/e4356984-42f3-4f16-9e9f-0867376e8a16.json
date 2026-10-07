@@ -8,7 +8,67 @@
   "releaseDate": "2010-08-26T00:00:00.000Z",
   "topics": [
     {
-      "id": "464e1e57-1882-4b40-9757-140e49f45fe0",
+      "id": "a3d5dc72-9727-4d84-8b12-09e325ea31c5",
+      "title": "Tökéletes bűnözők",
+      "subtitle": null,
+      "timestampString": "02:39:14",
+      "timestampInSeconds": 9554,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #318",
+        "youtubeId": "97jsp1z7nD4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/97jsp1z7nD4/hqdefault.jpg",
+        "durationInMinutes": 190,
+        "releaseDate": 1768489534000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "be01292a-ada9-4071-a176-9b079f6e5355",
+      "title": "Tökéletes bűnözők",
+      "subtitle": null,
+      "timestampString": "02:39:14",
+      "timestampInSeconds": 9554,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #318",
+        "youtubeId": "97jsp1z7nD4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/97jsp1z7nD4/hqdefault.jpg",
+        "durationInMinutes": 190,
+        "releaseDate": 1768489534000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cd72439d-8fdd-43f5-b203-b44826589975",
       "title": "Tökéletes bűnözők",
       "subtitle": null,
       "timestampString": "02:39:14",

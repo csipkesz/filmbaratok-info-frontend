@@ -8,7 +8,37 @@
   "releaseDate": "2025-10-07T00:00:00.000Z",
   "topics": [
     {
-      "id": "8b65f9df-aaae-4f16-82ef-21e28ab8d2b1",
+      "id": "91105edd-dd84-4027-894c-e8cf08384ec6",
+      "title": "Ozzy: No Escape from now",
+      "subtitle": null,
+      "timestampString": "01:23:25",
+      "timestampInSeconds": 5005,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #315 (Életrajzi dokumentumfilmek)",
+        "youtubeId": "pvQvVCuAEDI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/pvQvVCuAEDI/hqdefault.jpg",
+        "durationInMinutes": 229,
+        "releaseDate": 1764442162000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a0048c4f-b012-4d07-b5cb-ed1cfa853417",
       "title": "Ozzy: No Escape from now",
       "subtitle": null,
       "timestampString": "01:23:25",

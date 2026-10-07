@@ -8,7 +8,67 @@
   "releaseDate": "2026-01-28T00:00:00.000Z",
   "topics": [
     {
-      "id": "c7b947ba-22ac-4cb4-b70d-121322e3ca85",
+      "id": "8e4e642d-99c4-42b6-94f7-77495d0cf9a5",
+      "title": "A megmentő",
+      "subtitle": null,
+      "timestampString": "01:23:10",
+      "timestampInSeconds": 4990,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #320",
+        "youtubeId": "JOlQcUNht4E",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JOlQcUNht4E/hqdefault.jpg",
+        "durationInMinutes": 181,
+        "releaseDate": 1771072699000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "93350b49-7824-45d4-8c9b-2b3761a74ef1",
+      "title": "A megmentő",
+      "subtitle": null,
+      "timestampString": "01:23:10",
+      "timestampInSeconds": 4990,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #320",
+        "youtubeId": "JOlQcUNht4E",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JOlQcUNht4E/hqdefault.jpg",
+        "durationInMinutes": 181,
+        "releaseDate": 1771072699000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d455e607-d551-4959-93ec-953086f22565",
       "title": "A megmentő",
       "subtitle": null,
       "timestampString": "01:23:10",

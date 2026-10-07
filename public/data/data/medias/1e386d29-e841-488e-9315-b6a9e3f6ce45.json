@@ -3,12 +3,46 @@
   "title": "Widow's Bay",
   "originalTitle": "Widow's Bay",
   "overview": "Egy új-angliai polgármester elhatározza, hogy menő turistacélponttá alakítja városkáját, annak ellenére, hogy a helyiek figyelmeztetik: a hely elátkozott.",
-  "backdropPath": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
-  "posterPath": "/vKq8XEJKxQTHd2Bm5zZMFPUrke7.jpg",
+  "backdropPath": "/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
+  "posterPath": "/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg",
   "releaseDate": "2026-04-28T00:00:00.000Z",
   "topics": [
     {
-      "id": "2096a16e-0cbb-4747-8e5e-881e6357db59",
+      "id": "28c8a1e7-4278-4646-b66a-96106fd3dcb0",
+      "title": "Widow's Bay (1. évad)",
+      "subtitle": "1. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Widow's Bay (1. évad)",
+        "youtubeId": "jJwBMwJ9v_4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/jJwBMwJ9v_4/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1786034271000,
+        "participants": []
+      }
+    },
+    {
+      "id": "a5d20ef7-fa34-4f07-9711-a762b7f1d552",
+      "title": "Widow's Bay (1. évad)",
+      "subtitle": "1. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Widow's Bay (1. évad)",
+        "youtubeId": "jJwBMwJ9v_4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/jJwBMwJ9v_4/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1786034271000,
+        "participants": []
+      }
+    },
+    {
+      "id": "b541a7d1-5487-465c-b4bc-71872af81a40",
       "title": "Widow's Bay (1. évad)",
       "subtitle": "1. évad",
       "timestampString": null,

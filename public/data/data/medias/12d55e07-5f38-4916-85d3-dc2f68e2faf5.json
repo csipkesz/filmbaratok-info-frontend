@@ -8,7 +8,67 @@
   "releaseDate": "2025-10-01T00:00:00.000Z",
   "topics": [
     {
-      "id": "c6dc14bd-b439-4fa3-ad7c-b836e7bc7f35",
+      "id": "670c3f2f-fa6f-41ce-8c2a-d8b8f40e2594",
+      "title": "Jó kutya",
+      "subtitle": null,
+      "timestampString": "01:54:46",
+      "timestampInSeconds": 6886,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #319",
+        "youtubeId": "WElfYZiSFrk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/WElfYZiSFrk/hqdefault.jpg",
+        "durationInMinutes": 210,
+        "releaseDate": 1769866830000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b2843e9e-9576-42a3-883b-156ae6bd8e94",
+      "title": "Jó kutya",
+      "subtitle": null,
+      "timestampString": "01:54:46",
+      "timestampInSeconds": 6886,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #319",
+        "youtubeId": "WElfYZiSFrk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/WElfYZiSFrk/hqdefault.jpg",
+        "durationInMinutes": 210,
+        "releaseDate": 1769866830000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e3efa559-b24b-44f2-a164-eaa8ed084c80",
       "title": "Jó kutya",
       "subtitle": null,
       "timestampString": "01:54:46",

@@ -3,24 +3,24 @@
   "title": "Venom",
   "originalTitle": "Venom",
   "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
-  "backdropPath": "/hNsYUryiwxcdeTMkaBcPF3iEg0p.jpg",
+  "backdropPath": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
   "posterPath": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
   "releaseDate": "2018-09-28T00:00:00.000Z",
   "topics": [
     {
-      "id": "37283696-f470-433d-b83f-d8b14fa8bd5a",
+      "id": "2f5890cb-7cec-41cf-b76a-274e2be48531",
       "title": "Venom",
       "subtitle": null,
-      "timestampString": "00:57:50",
-      "timestampInSeconds": 3470,
+      "timestampString": "01:05:49",
+      "timestampInSeconds": 3949,
       "isSpoiler": false,
       "content": {
         "category": "PODCAST",
-        "title": "Filmbarátok Podcast #154",
-        "youtubeId": "8kJ3-leKXJo",
-        "thumbnailUrl": "https://i.ytimg.com/vi/8kJ3-leKXJo/hqdefault.jpg",
-        "durationInMinutes": 220,
-        "releaseDate": 1541001500000,
+        "title": "Filmbarátok Podcast #153",
+        "youtubeId": "o2r_oHM2CEM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/o2r_oHM2CEM/hqdefault.jpg",
+        "durationInMinutes": 239,
+        "releaseDate": 1539286396000,
         "participants": [
           {
             "id": "095dedfe-6a52-491f-963d-88e8794b004b",
@@ -42,19 +42,19 @@
       }
     },
     {
-      "id": "59b65286-a23a-4d92-a19b-521f78730fb2",
+      "id": "e6e6d74f-860e-45e8-9d68-1307f4f743ac",
       "title": "Venom",
       "subtitle": null,
-      "timestampString": "01:05:49",
-      "timestampInSeconds": 3949,
+      "timestampString": "00:57:50",
+      "timestampInSeconds": 3470,
       "isSpoiler": false,
       "content": {
         "category": "PODCAST",
-        "title": "Filmbarátok Podcast #153",
-        "youtubeId": "o2r_oHM2CEM",
-        "thumbnailUrl": "https://i.ytimg.com/vi/o2r_oHM2CEM/hqdefault.jpg",
-        "durationInMinutes": 239,
-        "releaseDate": 1539286396000,
+        "title": "Filmbarátok Podcast #154",
+        "youtubeId": "8kJ3-leKXJo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/8kJ3-leKXJo/hqdefault.jpg",
+        "durationInMinutes": 220,
+        "releaseDate": 1541001500000,
         "participants": [
           {
             "id": "095dedfe-6a52-491f-963d-88e8794b004b",

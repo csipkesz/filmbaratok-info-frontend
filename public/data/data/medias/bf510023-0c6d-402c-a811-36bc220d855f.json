@@ -8,7 +8,41 @@
   "releaseDate": "2025-11-06T00:00:00.000Z",
   "topics": [
     {
-      "id": "f945cad9-376a-4b0b-98db-b9385765a7f9",
+      "id": "0c4dcbe9-20aa-4fe1-9c82-2e3fd37e1f48",
+      "title": "Pluribus (1. évad)",
+      "subtitle": "1. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Pluribus (1. évad)",
+        "youtubeId": "yPbQiWrNir8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/yPbQiWrNir8/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1767647238000,
+        "participants": []
+      }
+    },
+    {
+      "id": "93ce9ca2-e73c-427d-8508-771fa9cf1da6",
+      "title": "Pluribus (1. évad)",
+      "subtitle": "1. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Pluribus (1. évad)",
+        "youtubeId": "yPbQiWrNir8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/yPbQiWrNir8/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1767647238000,
+        "participants": []
+      }
+    },
+    {
+      "id": "ed5cfd98-9141-4a73-923a-ce89b6b6ba5b",
       "title": "Pluribus (1. évad)",
       "subtitle": "1. évad",
       "timestampString": null,

@@ -1,0 +1,49 @@
+{
+  "id": "c1a301fb-f699-467b-bdd9-8372a8e9358b",
+  "title": "Szökevényvonat",
+  "originalTitle": "Runaway Train",
+  "overview": "Akár az állatokkal, úgy bánik az alaszkai szuperbiztonságos börtön igazgatója az elítéltekkel. Két veszélyes bűnözőnek, Mannynek és Bucknak azonban mégis sikerül megszöknie. A két menekülő felkapaszkodik az arra haladó, egymáshoz kapcsolt mozdonyokra. A szökevény vonat segítségével a két mindenre elszánt elítélt és az általuk túszul ejtett fiatal nő megkísérli a lehetetlent: élve kijutni a jeges pokolból. A mozdonyvezető szívrohamot kap, a szerelvény elszabadul. Ráadásul az őket mindig is gyűlölő, ugyanakkor tőlük nem sokban különböző igazgató a nyomukban van.",
+  "backdropPath": "/9GHsA3bt6MYW7Cpur91GeVBQKIC.jpg",
+  "posterPath": "/r9EQKooSSNC8IXiKyKAjbFezwhS.jpg",
+  "releaseDate": "1985-11-15T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "fed19460-f52f-4211-9f23-367a408fac6a",
+      "title": "Szökevényvonat",
+      "subtitle": null,
+      "timestampString": "02:51:23",
+      "timestampInSeconds": 10283,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #335",
+        "youtubeId": "SBrIMTb3Y38",
+        "thumbnailUrl": "https://i.ytimg.com/vi/SBrIMTb3Y38/hqdefault.jpg",
+        "durationInMinutes": 232,
+        "releaseDate": 1790751633000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

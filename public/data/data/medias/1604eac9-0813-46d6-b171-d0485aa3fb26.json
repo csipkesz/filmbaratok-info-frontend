@@ -8,7 +8,33 @@
   "releaseDate": "2015-08-28T00:00:00.000Z",
   "topics": [
     {
-      "id": "6e49c566-fbf5-48b5-9341-85d7f195247c",
+      "id": "aad127b7-34f8-4dd2-8eba-77dfce033e11",
+      "title": "Narcos (sorozatajánló & 3. évad kibeszélő)",
+      "subtitle": "sorozatajánló & 3. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Narcos (sorozatajánló & 3. évad kibeszélő)",
+        "youtubeId": "IfPj_mO1-6I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IfPj_mO1-6I/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1505192355000,
+        "participants": [
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "dc921a7e-255f-49eb-b8ca-a1fa5cd67426",
       "title": "Narcos",
       "subtitle": null,
       "timestampString": "01:58:13",
@@ -33,32 +59,6 @@
           {
             "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
             "name": "Zoly"
-          },
-          {
-            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
-            "name": "Gergő"
-          }
-        ]
-      }
-    },
-    {
-      "id": "c7166889-bbf2-4a1c-b95d-68fcd39a49a0",
-      "title": "Narcos (sorozatajánló & 3. évad kibeszélő)",
-      "subtitle": "sorozatajánló & 3. évad",
-      "timestampString": null,
-      "timestampInSeconds": 0,
-      "isSpoiler": false,
-      "content": {
-        "category": "EXPRESS",
-        "title": "Filmbarátok Expressz: Narcos (sorozatajánló & 3. évad kibeszélő)",
-        "youtubeId": "IfPj_mO1-6I",
-        "thumbnailUrl": "https://i.ytimg.com/vi/IfPj_mO1-6I/hqdefault.jpg",
-        "durationInMinutes": 0,
-        "releaseDate": 1505192355000,
-        "participants": [
-          {
-            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
-            "name": "Blacksheep"
           },
           {
             "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",

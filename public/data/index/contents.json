@@ -70,6 +70,20 @@
     "participants": []
   },
   {
+    "id": "00e992fa-c3ff-442e-b855-c295b0d94486",
+    "title": "Filmbarátok Podcast #334",
+    "category": "PODCAST",
+    "youtubeId": "wGwhgYM7L7I",
+    "thumbnailUrl": "https://i.ytimg.com/vi/wGwhgYM7L7I/hqdefault.jpg",
+    "releaseDate": "2026-09-16",
+    "participants": [
+      "freddyD",
+      "Sorter",
+      "Márk",
+      "Gergő"
+    ]
+  },
+  {
     "id": "016cf59c-b49b-46de-a60b-f823167e40d0",
     "title": "Filmbarátok Podcast #301 [Videojáték megfilmesítések Stökivel]",
     "category": "PODCAST",
@@ -1734,6 +1748,21 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/wBiG_Mrs8AE/hqdefault.jpg",
     "releaseDate": "2025-12-20",
     "participants": []
+  },
+  {
+    "id": "36d33134-5606-4d14-b5e2-20640c3ecf23",
+    "title": "Filmbarátok Podcast #335",
+    "category": "PODCAST",
+    "youtubeId": "SBrIMTb3Y38",
+    "thumbnailUrl": "https://i.ytimg.com/vi/SBrIMTb3Y38/hqdefault.jpg",
+    "releaseDate": "2026-09-30",
+    "participants": [
+      "freddyD",
+      "Blacksheep",
+      "Sorter",
+      "Márk",
+      "Gergő"
+    ]
   },
   {
     "id": "371a34c3-1e6d-439a-aafc-4f1fef164d31",
@@ -3793,6 +3822,15 @@
     ]
   },
   {
+    "id": "80ac9e8d-7665-45ee-8c17-411cdf270279",
+    "title": "Filmbarátok Expressz: Tony - Egy séf születése",
+    "category": "EXPRESS",
+    "youtubeId": "VPvXiF2A2Mk",
+    "thumbnailUrl": "https://i.ytimg.com/vi/VPvXiF2A2Mk/hqdefault.jpg",
+    "releaseDate": "2026-10-01",
+    "participants": []
+  },
+  {
     "id": "811369d5-ffd1-4f24-9064-a6b57e854015",
     "title": "Filmbarátok Expressz: Finders Keepers",
     "category": "EXPRESS",
@@ -3840,6 +3878,17 @@
       "Blacksheep",
       "Sorter",
       "Gergő"
+    ]
+  },
+  {
+    "id": "845a0434-f07e-466b-bf66-85d689b1f6f5",
+    "title": "Filmbarátok mémek: David Palmer",
+    "category": "MEME",
+    "youtubeId": "WVigWyTAv8Y",
+    "thumbnailUrl": "https://i.ytimg.com/vi/WVigWyTAv8Y/hqdefault.jpg",
+    "releaseDate": "2026-09-24",
+    "participants": [
+      "Blacksheep"
     ]
   },
   {
@@ -5774,6 +5823,26 @@
     ]
   },
   {
+    "id": "c87566f0-7c05-43d4-b4b9-b0345b5c9c52",
+    "title": "Filmbarátok Expressz: Sárkányok háza (3. évad)",
+    "category": "EXPRESS",
+    "youtubeId": "67VmzDbtCwU",
+    "thumbnailUrl": "https://i.ytimg.com/vi/67VmzDbtCwU/hqdefault.jpg",
+    "releaseDate": "2026-09-13",
+    "participants": []
+  },
+  {
+    "id": "c88dbdf2-fed1-40d2-a67d-81f9e93d9f93",
+    "title": "Filmbarátok mémek: Scatman",
+    "category": "MEME",
+    "youtubeId": "0zdOWMvrNmM",
+    "thumbnailUrl": "https://i.ytimg.com/vi/0zdOWMvrNmM/hqdefault.jpg",
+    "releaseDate": "2026-10-03",
+    "participants": [
+      "Sorter"
+    ]
+  },
+  {
     "id": "c8b0e754-ada8-4e7d-b29e-3b588e32537a",
     "title": "Filmbarátok Podcast #214",
     "category": "PODCAST",
@@ -6235,6 +6304,15 @@
     "youtubeId": "H6LJKJcEb8M",
     "thumbnailUrl": "https://i.ytimg.com/vi/H6LJKJcEb8M/hqdefault.jpg",
     "releaseDate": "2022-10-03",
+    "participants": []
+  },
+  {
+    "id": "d7d6a502-3903-4df4-95c9-9f03aeedb582",
+    "title": "Filmbarátok mémek: A csirke",
+    "category": "MEME",
+    "youtubeId": "wfWuAPpMmCA",
+    "thumbnailUrl": "https://i.ytimg.com/vi/wfWuAPpMmCA/hqdefault.jpg",
+    "releaseDate": "2026-09-17",
     "participants": []
   },
   {

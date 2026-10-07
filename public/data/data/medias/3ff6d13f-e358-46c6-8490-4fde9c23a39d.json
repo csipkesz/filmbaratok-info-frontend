@@ -8,7 +8,67 @@
   "releaseDate": "2026-05-06T00:00:00.000Z",
   "topics": [
     {
-      "id": "1a89f590-e913-4cf1-a2da-311428bcdad5",
+      "id": "0f0ebbda-7427-4a62-84f4-503b8227bfce",
+      "title": "Mortal Kombat II",
+      "subtitle": null,
+      "timestampString": "02:26:50",
+      "timestampInSeconds": 8810,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #326",
+        "youtubeId": "PyX_W5BWsXo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/PyX_W5BWsXo/hqdefault.jpg",
+        "durationInMinutes": 236,
+        "releaseDate": 1778948292000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6920f565-7109-4ef5-948c-0cafbd0ec429",
+      "title": "Mortal Kombat II",
+      "subtitle": null,
+      "timestampString": "02:26:50",
+      "timestampInSeconds": 8810,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #326",
+        "youtubeId": "PyX_W5BWsXo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/PyX_W5BWsXo/hqdefault.jpg",
+        "durationInMinutes": 236,
+        "releaseDate": 1778948292000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a9e24a0d-c7b0-45b9-9ccf-97489d9f386d",
       "title": "Mortal Kombat II",
       "subtitle": null,
       "timestampString": "02:26:50",

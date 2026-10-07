@@ -8,7 +8,41 @@
   "releaseDate": "2026-03-08T00:00:00.000Z",
   "topics": [
     {
-      "id": "b8d16c5a-eeb0-4a3d-aeca-fb34f8617db7",
+      "id": "422ab925-0cbf-44cb-a087-890784d40c0e",
+      "title": "Rooster (1. évad)",
+      "subtitle": "1. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Rooster (1. évad)",
+        "youtubeId": "OOTLbvBlUYM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/OOTLbvBlUYM/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1781286087000,
+        "participants": []
+      }
+    },
+    {
+      "id": "938d23d0-8213-49df-9e5b-7d5ff3b5621d",
+      "title": "Rooster (1. évad)",
+      "subtitle": "1. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Rooster (1. évad)",
+        "youtubeId": "OOTLbvBlUYM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/OOTLbvBlUYM/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1781286087000,
+        "participants": []
+      }
+    },
+    {
+      "id": "f75084b2-f123-4ace-aa25-89c035e92f46",
       "title": "Rooster (1. évad)",
       "subtitle": "1. évad",
       "timestampString": null,

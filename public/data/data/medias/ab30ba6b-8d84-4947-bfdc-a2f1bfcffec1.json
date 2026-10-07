@@ -5,40 +5,10 @@
   "overview": "The night after another unsatisfactory New Year's party, Tim's father reveals to him that the men in their family have the ability to travel through time. They can't change history, but they can change what happens and has happened in their own lives. Thus begins the start of a lesson in learning to appreciate life itself as it is, as it comes, and most importantly, the people living alongside us.",
   "backdropPath": "/einbto9qLXFx9QXxEHylaxDbKPx.jpg",
   "posterPath": "/ls6zswrOZVhCXQBh96DlbnLBajM.jpg",
-  "releaseDate": "2013-09-04T00:00:00.000Z",
+  "releaseDate": "2013-06-27T00:00:00.000Z",
   "topics": [
     {
-      "id": "07736a75-67cc-4bc3-9ab8-8ed4b207eebd",
-      "title": "Időről időre",
-      "subtitle": null,
-      "timestampString": "01:29:00",
-      "timestampInSeconds": 5340,
-      "isSpoiler": false,
-      "content": {
-        "category": "PODCAST",
-        "title": "Filmbarátok Podcast #43",
-        "youtubeId": "WupIquHhCt0",
-        "thumbnailUrl": "https://i.ytimg.com/vi/WupIquHhCt0/hqdefault.jpg",
-        "durationInMinutes": 164,
-        "releaseDate": 1389645501000,
-        "participants": [
-          {
-            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
-            "name": "freddyD"
-          },
-          {
-            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
-            "name": "Blacksheep"
-          },
-          {
-            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
-            "name": "Gergő"
-          }
-        ]
-      }
-    },
-    {
-      "id": "ce57d06f-8f58-4117-b484-be67d771b4c5",
+      "id": "5b2abcc6-24fa-4483-98d2-ac5190f3dc0a",
       "title": "Időről időre",
       "subtitle": null,
       "timestampString": "02:21:11",
@@ -63,6 +33,36 @@
           {
             "id": "b8de817e-e427-45e7-9c13-510f62f2304a",
             "name": "Zoly"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a60bbf12-80e9-40c6-86c0-f646e4004fad",
+      "title": "Időről időre",
+      "subtitle": null,
+      "timestampString": "01:29:00",
+      "timestampInSeconds": 5340,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #43",
+        "youtubeId": "WupIquHhCt0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/WupIquHhCt0/hqdefault.jpg",
+        "durationInMinutes": 164,
+        "releaseDate": 1389645501000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
           },
           {
             "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",

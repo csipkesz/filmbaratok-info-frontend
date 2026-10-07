@@ -8,7 +8,37 @@
   "releaseDate": "2025-09-04T00:00:00.000Z",
   "topics": [
     {
-      "id": "acb13436-9591-43c3-8398-15482acd2b6e",
+      "id": "1ad3d01a-9c2e-4114-848d-7868eeb1213e",
+      "title": "John Candy: Tökre bírom magam",
+      "subtitle": null,
+      "timestampString": "02:32:25",
+      "timestampInSeconds": 9145,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #315 (Életrajzi dokumentumfilmek)",
+        "youtubeId": "pvQvVCuAEDI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/pvQvVCuAEDI/hqdefault.jpg",
+        "durationInMinutes": 229,
+        "releaseDate": 1764442162000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fa25d7ba-7f9a-4d75-9dfb-c532ce21f68a",
       "title": "John Candy: Tökre bírom magam",
       "subtitle": null,
       "timestampString": "02:32:25",

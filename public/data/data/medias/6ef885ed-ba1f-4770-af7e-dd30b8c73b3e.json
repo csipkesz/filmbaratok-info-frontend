@@ -8,24 +8,7 @@
   "releaseDate": "2014-01-12T00:00:00.000Z",
   "topics": [
     {
-      "id": "5fefe879-62d7-4a17-8390-0595a9738cd0",
-      "title": "True Detective 1. évad [SPOILERES]",
-      "subtitle": "1. évad",
-      "timestampString": null,
-      "timestampInSeconds": 0,
-      "isSpoiler": true,
-      "content": {
-        "category": "EXPRESS",
-        "title": "Filmbarátok Expressz: True Detective 1. évad [SPOILERES]",
-        "youtubeId": "HFXkIR0ZssU",
-        "thumbnailUrl": "https://i.ytimg.com/vi/HFXkIR0ZssU/hqdefault.jpg",
-        "durationInMinutes": 0,
-        "releaseDate": 1395608079000,
-        "participants": []
-      }
-    },
-    {
-      "id": "9beb9f88-ef92-4233-af82-1d013f3b7918",
+      "id": "a2a8d062-2492-4308-999f-75c2a717305d",
       "title": "True Detective 2. évad [SPOILERES]",
       "subtitle": "2. évad",
       "timestampString": null,
@@ -48,6 +31,23 @@
             "name": "Gergő"
           }
         ]
+      }
+    },
+    {
+      "id": "d568bc44-c75d-411e-918e-71ff8b47ddf5",
+      "title": "True Detective 1. évad [SPOILERES]",
+      "subtitle": "1. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": true,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: True Detective 1. évad [SPOILERES]",
+        "youtubeId": "HFXkIR0ZssU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/HFXkIR0ZssU/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1395608079000,
+        "participants": []
       }
     }
   ]

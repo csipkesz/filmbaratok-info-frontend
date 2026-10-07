@@ -8,12 +8,12 @@
   "releaseDate": "2016-03-10T00:00:00.000Z",
   "topics": [
     {
-      "id": "67511428-fab2-4899-abe4-964a970b08b0",
-      "title": "10 Cloverfield Lane",
+      "id": "45b98231-32ed-4343-afc3-d51f3a9f2813",
+      "title": "10 Cloverfield Lane [SPOILERES]",
       "subtitle": null,
-      "timestampString": "03:06:00",
-      "timestampInSeconds": 11160,
-      "isSpoiler": false,
+      "timestampString": "03:18:23",
+      "timestampInSeconds": 11903,
+      "isSpoiler": true,
       "content": {
         "category": "PODCAST",
         "title": "Filmbarátok Podcast #97",
@@ -46,12 +46,12 @@
       }
     },
     {
-      "id": "a7f3e0c5-ca2c-4d19-b476-ba6556565ee8",
-      "title": "10 Cloverfield Lane [SPOILERES]",
+      "id": "62d8d20d-e3a7-483b-8310-391533684c87",
+      "title": "10 Cloverfield Lane",
       "subtitle": null,
-      "timestampString": "03:18:23",
-      "timestampInSeconds": 11903,
-      "isSpoiler": true,
+      "timestampString": "03:06:00",
+      "timestampInSeconds": 11160,
+      "isSpoiler": false,
       "content": {
         "category": "PODCAST",
         "title": "Filmbarátok Podcast #97",

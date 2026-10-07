@@ -8,7 +8,67 @@
   "releaseDate": "2025-09-24T00:00:00.000Z",
   "topics": [
     {
-      "id": "62b7bfe5-c43e-4bb6-9ba6-ffa44abc9549",
+      "id": "082de24c-d56b-49b5-b326-ed3a13652707",
+      "title": "Nincs más választás",
+      "subtitle": null,
+      "timestampString": "02:33:05",
+      "timestampInSeconds": 9185,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #319",
+        "youtubeId": "WElfYZiSFrk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/WElfYZiSFrk/hqdefault.jpg",
+        "durationInMinutes": 210,
+        "releaseDate": 1769866830000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "373bda8f-09cf-427e-88d6-9a49216af8e2",
+      "title": "Nincs más választás",
+      "subtitle": null,
+      "timestampString": "02:33:05",
+      "timestampInSeconds": 9185,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #319",
+        "youtubeId": "WElfYZiSFrk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/WElfYZiSFrk/hqdefault.jpg",
+        "durationInMinutes": 210,
+        "releaseDate": 1769866830000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "46652c95-07b0-4116-8ead-de5596a105ae",
       "title": "Nincs más választás",
       "subtitle": null,
       "timestampString": "02:33:05",

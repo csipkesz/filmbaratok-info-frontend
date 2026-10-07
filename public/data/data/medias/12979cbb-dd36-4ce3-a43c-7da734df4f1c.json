@@ -8,19 +8,19 @@
   "releaseDate": "2012-09-08T00:00:00.000Z",
   "topics": [
     {
-      "id": "0ff68bcd-5cfe-44de-bf8d-1c3bd46958b1",
-      "title": "Dollár, Kanna, Szerelem",
+      "id": "696e445f-d205-40ff-affb-1a70270beff4",
+      "title": "Dollár, kanna, szerelem",
       "subtitle": null,
-      "timestampString": "02:17:05",
-      "timestampInSeconds": 8225,
+      "timestampString": "01:14:42",
+      "timestampInSeconds": 4482,
       "isSpoiler": false,
       "content": {
         "category": "PODCAST",
-        "title": "Filmbarátok Podcast #53",
-        "youtubeId": "m4ZV-tpyiqU",
-        "thumbnailUrl": "https://i.ytimg.com/vi/m4ZV-tpyiqU/hqdefault.jpg",
-        "durationInMinutes": 174,
-        "releaseDate": 1404572612000,
+        "title": "Filmbarátok Podcast #119",
+        "youtubeId": "y4ke6vT4qms",
+        "thumbnailUrl": "https://i.ytimg.com/vi/y4ke6vT4qms/hqdefault.jpg",
+        "durationInMinutes": 111,
+        "releaseDate": 1491032632000,
         "participants": [
           {
             "id": "095dedfe-6a52-491f-963d-88e8794b004b",
@@ -38,19 +38,19 @@
       }
     },
     {
-      "id": "e032c625-ec14-4a23-b932-33969fa0cdbe",
-      "title": "Dollár, kanna, szerelem",
+      "id": "808a11c4-3c57-4e6c-a0a3-7883fdf51245",
+      "title": "Dollár, Kanna, Szerelem",
       "subtitle": null,
-      "timestampString": "01:14:42",
-      "timestampInSeconds": 4482,
+      "timestampString": "02:17:05",
+      "timestampInSeconds": 8225,
       "isSpoiler": false,
       "content": {
         "category": "PODCAST",
-        "title": "Filmbarátok Podcast #119",
-        "youtubeId": "y4ke6vT4qms",
-        "thumbnailUrl": "https://i.ytimg.com/vi/y4ke6vT4qms/hqdefault.jpg",
-        "durationInMinutes": 111,
-        "releaseDate": 1491032632000,
+        "title": "Filmbarátok Podcast #53",
+        "youtubeId": "m4ZV-tpyiqU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/m4ZV-tpyiqU/hqdefault.jpg",
+        "durationInMinutes": 174,
+        "releaseDate": 1404572612000,
         "participants": [
           {
             "id": "095dedfe-6a52-491f-963d-88e8794b004b",

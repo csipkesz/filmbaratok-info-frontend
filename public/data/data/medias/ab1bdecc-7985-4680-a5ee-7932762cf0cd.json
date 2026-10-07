@@ -8,19 +8,19 @@
   "releaseDate": "2017-12-07T00:00:00.000Z",
   "topics": [
     {
-      "id": "006e2b29-0b44-4f24-8094-d32266e51842",
+      "id": "72dba193-074d-43f4-850b-61c9f6c583e6",
       "title": "Én, Tonya",
       "subtitle": null,
-      "timestampString": "02:28:20",
-      "timestampInSeconds": 8900,
+      "timestampString": "00:28:00",
+      "timestampInSeconds": 1680,
       "isSpoiler": false,
       "content": {
         "category": "PODCAST",
-        "title": "Filmbarátok Podcast #140",
-        "youtubeId": "LQ8tU4s4F2M",
-        "thumbnailUrl": "https://i.ytimg.com/vi/LQ8tU4s4F2M/hqdefault.jpg",
-        "durationInMinutes": 184,
-        "releaseDate": 1521209750000,
+        "title": "Filmbarátok Podcast #138",
+        "youtubeId": "nNL55zk0j6I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nNL55zk0j6I/hqdefault.jpg",
+        "durationInMinutes": 255,
+        "releaseDate": 1519187400000,
         "participants": [
           {
             "id": "095dedfe-6a52-491f-963d-88e8794b004b",
@@ -42,19 +42,19 @@
       }
     },
     {
-      "id": "a5ce66db-29df-4a85-8165-df5a98a6fa76",
+      "id": "e9f0344a-e774-44a3-a837-e9e7f27c1868",
       "title": "Én, Tonya",
       "subtitle": null,
-      "timestampString": "00:28:00",
-      "timestampInSeconds": 1680,
+      "timestampString": "02:28:20",
+      "timestampInSeconds": 8900,
       "isSpoiler": false,
       "content": {
         "category": "PODCAST",
-        "title": "Filmbarátok Podcast #138",
-        "youtubeId": "nNL55zk0j6I",
-        "thumbnailUrl": "https://i.ytimg.com/vi/nNL55zk0j6I/hqdefault.jpg",
-        "durationInMinutes": 255,
-        "releaseDate": 1519187400000,
+        "title": "Filmbarátok Podcast #140",
+        "youtubeId": "LQ8tU4s4F2M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/LQ8tU4s4F2M/hqdefault.jpg",
+        "durationInMinutes": 184,
+        "releaseDate": 1521209750000,
         "participants": [
           {
             "id": "095dedfe-6a52-491f-963d-88e8794b004b",

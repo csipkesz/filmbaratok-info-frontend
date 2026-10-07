@@ -8,7 +8,37 @@
   "releaseDate": "2025-11-11T00:00:00.000Z",
   "topics": [
     {
-      "id": "1a574c8d-f172-4f2f-9708-2dde7131c5b7",
+      "id": "5fd93951-50b4-4d7a-ba6a-732891836bdf",
+      "title": "Eddie [2025]",
+      "subtitle": null,
+      "timestampString": "01:51:20",
+      "timestampInSeconds": 6680,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #315 (Életrajzi dokumentumfilmek)",
+        "youtubeId": "pvQvVCuAEDI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/pvQvVCuAEDI/hqdefault.jpg",
+        "durationInMinutes": 229,
+        "releaseDate": 1764442162000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "89e23ffe-c71a-4a9f-a1fe-e53874592273",
       "title": "Eddie [2025]",
       "subtitle": null,
       "timestampString": "01:51:20",

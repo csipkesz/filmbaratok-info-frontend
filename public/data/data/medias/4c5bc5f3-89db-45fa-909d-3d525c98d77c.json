@@ -8,24 +8,7 @@
   "releaseDate": "2018-05-02T00:00:00.000Z",
   "topics": [
     {
-      "id": "151c1b79-865e-46f9-afbd-9a06f92cd7ec",
-      "title": "Cobra Kai 6. évad (1-5. rész)",
-      "subtitle": "6. évad (1-5. rész)",
-      "timestampString": null,
-      "timestampInSeconds": 0,
-      "isSpoiler": false,
-      "content": {
-        "category": "EXPRESS",
-        "title": "Filmbarátok Expressz: Cobra Kai 6. évad (1-5. rész)",
-        "youtubeId": "V_tT_A1Dhs8",
-        "thumbnailUrl": "https://i.ytimg.com/vi/V_tT_A1Dhs8/hqdefault.jpg",
-        "durationInMinutes": 0,
-        "releaseDate": 1726156912000,
-        "participants": []
-      }
-    },
-    {
-      "id": "30ada10c-734d-41c5-86e1-dbc447e3dddf",
+      "id": "1d1758a6-7e8b-48e4-9cbd-877aa290ac6e",
       "title": "Cobra Kai 6. évad (6-10. rész)",
       "subtitle": "6. évad (6-10. rész)",
       "timestampString": null,
@@ -42,24 +25,7 @@
       }
     },
     {
-      "id": "5c412eeb-8942-49a6-a4be-786178ea212e",
-      "title": "Cobra Kai 6. évad (11-15. rész)",
-      "subtitle": "6. évad (11-15. rész)",
-      "timestampString": null,
-      "timestampInSeconds": 0,
-      "isSpoiler": false,
-      "content": {
-        "category": "EXPRESS",
-        "title": "Filmbarátok Expressz: Cobra Kai 6. évad (11-15. rész)",
-        "youtubeId": "ilhczNuivp0",
-        "thumbnailUrl": "https://i.ytimg.com/vi/ilhczNuivp0/hqdefault.jpg",
-        "durationInMinutes": 0,
-        "releaseDate": 1741456806000,
-        "participants": []
-      }
-    },
-    {
-      "id": "d35c812a-432a-47de-9598-88e31cd684b4",
+      "id": "711cee83-fc1e-4472-8789-3c9fa235583d",
       "title": "Cobra Kai (1-5. évad)",
       "subtitle": "1-5. évad",
       "timestampString": null,
@@ -72,6 +38,40 @@
         "thumbnailUrl": "https://i.ytimg.com/vi/5BjVNcbvO9k/hqdefault.jpg",
         "durationInMinutes": 0,
         "releaseDate": 1723067700000,
+        "participants": []
+      }
+    },
+    {
+      "id": "72671464-e37e-49f1-9612-d0af92ff7409",
+      "title": "Cobra Kai 6. évad (1-5. rész)",
+      "subtitle": "6. évad (1-5. rész)",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Cobra Kai 6. évad (1-5. rész)",
+        "youtubeId": "V_tT_A1Dhs8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/V_tT_A1Dhs8/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1726156912000,
+        "participants": []
+      }
+    },
+    {
+      "id": "e3892747-efa2-4402-ad74-781ff5b547ad",
+      "title": "Cobra Kai 6. évad (11-15. rész)",
+      "subtitle": "6. évad (11-15. rész)",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Cobra Kai 6. évad (11-15. rész)",
+        "youtubeId": "ilhczNuivp0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ilhczNuivp0/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1741456806000,
         "participants": []
       }
     }

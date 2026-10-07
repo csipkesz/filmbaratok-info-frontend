@@ -8,7 +8,41 @@
   "releaseDate": "1994-04-03T00:00:00.000Z",
   "topics": [
     {
-      "id": "7ea2df8a-d9cb-4998-afdf-46b036cedb94",
+      "id": "512df7a5-2303-4b81-ace7-81a98b663203",
+      "title": "Christy",
+      "subtitle": null,
+      "timestampString": "01:02:27",
+      "timestampInSeconds": 3747,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #316",
+        "youtubeId": "tj6Fv2PRYFw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tj6Fv2PRYFw/hqdefault.jpg",
+        "durationInMinutes": 318,
+        "releaseDate": 1765639323000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
+            "name": "Blacksheep"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "705093c9-19c4-4e2b-aad0-5ef925399bb3",
       "title": "Christy",
       "subtitle": null,
       "timestampString": "01:02:27",

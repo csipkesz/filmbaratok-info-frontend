@@ -3,12 +3,80 @@
   "title": "Pókember: Vadonatúj nap",
   "originalTitle": "Spider-Man: Brand New Day",
   "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-  "backdropPath": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+  "backdropPath": "/eSvYccJm5ejJXFtJTqM2dIqrhK7.jpg",
   "posterPath": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
   "releaseDate": "2026-07-29T00:00:00.000Z",
   "topics": [
     {
-      "id": "f7af263d-9fa3-4b66-b6e0-c4f0ac0ccc67",
+      "id": "11fa1076-723b-40c4-bfa7-fb563572d3f3",
+      "title": "Pókember: Vadonatúj nap",
+      "subtitle": null,
+      "timestampString": "01:23:10",
+      "timestampInSeconds": 4990,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #332",
+        "youtubeId": "TxY_PejOCHo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/TxY_PejOCHo/hqdefault.jpg",
+        "durationInMinutes": 209,
+        "releaseDate": 1786734027000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "78c4ac75-6097-4780-8ec6-97680d32ac53",
+      "title": "Pókember: Vadonatúj nap",
+      "subtitle": null,
+      "timestampString": "01:23:10",
+      "timestampInSeconds": 4990,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #332",
+        "youtubeId": "TxY_PejOCHo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/TxY_PejOCHo/hqdefault.jpg",
+        "durationInMinutes": 209,
+        "releaseDate": 1786734027000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ba8d800b-1eb6-4486-88aa-23cd9740ce92",
       "title": "Pókember: Vadonatúj nap",
       "subtitle": null,
       "timestampString": "01:23:10",

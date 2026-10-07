@@ -1,0 +1,45 @@
+{
+  "id": "a9b7196f-6cb7-4193-8da2-4d97f27e51bc",
+  "title": "Holtidő",
+  "originalTitle": "Nick of Time",
+  "overview": "Egy normális napon a percek és az órák lassú unalomban, egyformán telnek Gene Watson könyvelő számára. De ez nem az a nap. Amikor Watson hatéves kislányával leszáll a vonatról egy Los Angeles-i pályaudvaron, sejtelme sincs róla, hogy a következő másfél óra élete legnyomasztóbb rémálmává válik. Pillanatok alatt egy olyan dráma főszereplője lesz, ami morbid izgalmat szokott kiváltani a közvéleményből, amikor bekerül a hírekbe. Kislányával együtt két álrendőr ejti foglyul őket. Watson ultimátumot kap: kilencven percen belül meg kell ölnie valakit, vagy meghal a kislány. A kijelölt célpont egy ártatlan közéleti személyiség. Watson nem fordulhat a hatóságokhoz, mert félti gyermeke életét. Az idővel folytatott őrült versenyfutásban minden pillanat gyors és halálos következményekkel jár.",
+  "backdropPath": "/u1JzntSiNw9vUCqYIOcNDajWwdZ.jpg",
+  "posterPath": "/bCu82Mu9ZpME7pvYEcMrXgX3q40.jpg",
+  "releaseDate": "1995-11-22T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d2146691-e39e-40ca-bd53-965425a57473",
+      "title": "Holtidő",
+      "subtitle": null,
+      "timestampString": "03:22:50",
+      "timestampInSeconds": 12170,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #334",
+        "youtubeId": "wGwhgYM7L7I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wGwhgYM7L7I/hqdefault.jpg",
+        "durationInMinutes": 229,
+        "releaseDate": 1789561805000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -8,59 +8,7 @@
   "releaseDate": "2011-04-17T00:00:00.000Z",
   "topics": [
     {
-      "id": "38a4e853-5ba6-49aa-a508-611892e4bcbf",
-      "title": "Trónok Harca 8. évad [SPOILERES]",
-      "subtitle": "8. évad",
-      "timestampString": null,
-      "timestampInSeconds": 0,
-      "isSpoiler": true,
-      "content": {
-        "category": "EXPRESS",
-        "title": "Filmbarátok Expressz: Trónok Harca 8. évad [SPOILERES]",
-        "youtubeId": "nf4hXShQKt4",
-        "thumbnailUrl": "https://i.ytimg.com/vi/nf4hXShQKt4/hqdefault.jpg",
-        "durationInMinutes": 0,
-        "releaseDate": 1558450218000,
-        "participants": [
-          {
-            "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
-            "name": "Shirin"
-          },
-          {
-            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
-            "name": "Gergő"
-          }
-        ]
-      }
-    },
-    {
-      "id": "76c9be19-795c-483c-ab03-a8d774ffb8ab",
-      "title": "Trónok Harca 6. évad [SPOILERES]",
-      "subtitle": "6. évad",
-      "timestampString": null,
-      "timestampInSeconds": 0,
-      "isSpoiler": true,
-      "content": {
-        "category": "EXPRESS",
-        "title": "Filmbarátok Expressz: Trónok Harca 6. évad [SPOILERES]",
-        "youtubeId": "90JbORH0SVI",
-        "thumbnailUrl": "https://i.ytimg.com/vi/90JbORH0SVI/hqdefault.jpg",
-        "durationInMinutes": 0,
-        "releaseDate": 1467066993000,
-        "participants": [
-          {
-            "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
-            "name": "Shirin"
-          },
-          {
-            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
-            "name": "Gergő"
-          }
-        ]
-      }
-    },
-    {
-      "id": "808402a7-88ee-402d-9342-7fef84a713d8",
+      "id": "057d5d02-61d5-46d1-a823-755f13ec0a76",
       "title": "Trónok Harca 7. évad [SPOILERES]",
       "subtitle": "7. évad",
       "timestampString": null,
@@ -86,7 +34,85 @@
       }
     },
     {
-      "id": "ce3d00d9-2868-46b1-98c0-2b6a376f3e14",
+      "id": "1e69044e-3b95-4c96-8ccb-ab458ef2915d",
+      "title": "Trónok Harca 6. évad [SPOILERES]",
+      "subtitle": "6. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": true,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Trónok Harca 6. évad [SPOILERES]",
+        "youtubeId": "90JbORH0SVI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/90JbORH0SVI/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1467066993000,
+        "participants": [
+          {
+            "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
+            "name": "Shirin"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9f66b73d-85e4-45d4-8182-adf739989065",
+      "title": "Trónok Harca 5. évad [SPOILERES]",
+      "subtitle": "5. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": true,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Trónok Harca 5. évad [SPOILERES]",
+        "youtubeId": "qUE19usTISQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/qUE19usTISQ/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1434555955000,
+        "participants": [
+          {
+            "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
+            "name": "Shirin"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e999bd86-d325-4de8-a437-e662b64163d0",
+      "title": "Trónok Harca 8. évad [SPOILERES]",
+      "subtitle": "8. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": true,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Trónok Harca 8. évad [SPOILERES]",
+        "youtubeId": "nf4hXShQKt4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nf4hXShQKt4/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1558450218000,
+        "participants": [
+          {
+            "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
+            "name": "Shirin"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f8cfc83e-1ad6-4af8-a39b-b7b7795e5d70",
       "title": "Trónok Harca 4. évad [spoileres]",
       "subtitle": "4. évad",
       "timestampString": null,
@@ -107,32 +133,6 @@
           {
             "id": "095dedfe-6a52-491f-963d-88e8794b004b",
             "name": "freddyD"
-          },
-          {
-            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
-            "name": "Gergő"
-          }
-        ]
-      }
-    },
-    {
-      "id": "ed4fff6c-a190-42fc-b750-a0c9bc03142c",
-      "title": "Trónok Harca 5. évad [SPOILERES]",
-      "subtitle": "5. évad",
-      "timestampString": null,
-      "timestampInSeconds": 0,
-      "isSpoiler": true,
-      "content": {
-        "category": "EXPRESS",
-        "title": "Filmbarátok Expressz: Trónok Harca 5. évad [SPOILERES]",
-        "youtubeId": "qUE19usTISQ",
-        "thumbnailUrl": "https://i.ytimg.com/vi/qUE19usTISQ/hqdefault.jpg",
-        "durationInMinutes": 0,
-        "releaseDate": 1434555955000,
-        "participants": [
-          {
-            "id": "06b33fa6-093e-45f5-b4c4-65c2bd2d7a33",
-            "name": "Shirin"
           },
           {
             "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",

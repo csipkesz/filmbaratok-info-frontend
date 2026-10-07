@@ -8,7 +8,67 @@
   "releaseDate": "2026-03-23T00:00:00.000Z",
   "topics": [
     {
-      "id": "271e9f71-6e39-4179-8393-af32028269e2",
+      "id": "2e801f10-9ce8-4b1d-9fe9-a7c70da25a29",
+      "title": "Időzített bomba",
+      "subtitle": null,
+      "timestampString": "01:16:50",
+      "timestampInSeconds": 4610,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #326",
+        "youtubeId": "PyX_W5BWsXo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/PyX_W5BWsXo/hqdefault.jpg",
+        "durationInMinutes": 236,
+        "releaseDate": 1778948292000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ab5e27c8-1f29-4b77-8f49-89266b83e37f",
+      "title": "Időzített bomba",
+      "subtitle": null,
+      "timestampString": "01:16:50",
+      "timestampInSeconds": 4610,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #326",
+        "youtubeId": "PyX_W5BWsXo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/PyX_W5BWsXo/hqdefault.jpg",
+        "durationInMinutes": 236,
+        "releaseDate": 1778948292000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ccc355ba-bef2-4c29-a395-83fec6e56b6b",
       "title": "Időzített bomba",
       "subtitle": null,
       "timestampString": "01:16:50",

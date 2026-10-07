@@ -8,7 +8,24 @@
   "releaseDate": "2025-12-17T00:00:00.000Z",
   "topics": [
     {
-      "id": "12ae1696-13a7-4aac-9381-e3639d0e486d",
+      "id": "383ac194-f118-46af-9806-a71a65e85887",
+      "title": "Avatar - Tűz és hamu",
+      "subtitle": null,
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Avatar - Tűz és hamu",
+        "youtubeId": "qOjIaiPnMgI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/qOjIaiPnMgI/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1766355429000,
+        "participants": []
+      }
+    },
+    {
+      "id": "4339a86f-6aef-43f0-b2ec-becb1f01f9ff",
       "title": "Avatar - Tűz és hamu",
       "subtitle": null,
       "timestampString": null,

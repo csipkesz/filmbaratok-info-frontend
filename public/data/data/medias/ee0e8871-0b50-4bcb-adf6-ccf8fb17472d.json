@@ -8,19 +8,19 @@
   "releaseDate": "2018-02-15T00:00:00.000Z",
   "topics": [
     {
-      "id": "10151386-9c7a-40ca-8ae4-d24a0f5c3680",
+      "id": "34eabc00-990f-4ef3-b313-67cd7081c644",
       "title": "Valami Amerika 3",
       "subtitle": null,
-      "timestampString": "02:13:00",
-      "timestampInSeconds": 7980,
+      "timestampString": "02:35:30",
+      "timestampInSeconds": 9330,
       "isSpoiler": false,
       "content": {
         "category": "PODCAST",
-        "title": "Filmbarátok Podcast #140",
-        "youtubeId": "LQ8tU4s4F2M",
-        "thumbnailUrl": "https://i.ytimg.com/vi/LQ8tU4s4F2M/hqdefault.jpg",
-        "durationInMinutes": 184,
-        "releaseDate": 1521209750000,
+        "title": "Filmbarátok Podcast #138",
+        "youtubeId": "nNL55zk0j6I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nNL55zk0j6I/hqdefault.jpg",
+        "durationInMinutes": 255,
+        "releaseDate": 1519187400000,
         "participants": [
           {
             "id": "095dedfe-6a52-491f-963d-88e8794b004b",
@@ -42,19 +42,19 @@
       }
     },
     {
-      "id": "398840be-8125-40bd-8c1f-56ff8ddb90e1",
+      "id": "a0a4d971-4166-43fc-9511-87f550079f90",
       "title": "Valami Amerika 3",
       "subtitle": null,
-      "timestampString": "02:35:30",
-      "timestampInSeconds": 9330,
+      "timestampString": "02:13:00",
+      "timestampInSeconds": 7980,
       "isSpoiler": false,
       "content": {
         "category": "PODCAST",
-        "title": "Filmbarátok Podcast #138",
-        "youtubeId": "nNL55zk0j6I",
-        "thumbnailUrl": "https://i.ytimg.com/vi/nNL55zk0j6I/hqdefault.jpg",
-        "durationInMinutes": 255,
-        "releaseDate": 1519187400000,
+        "title": "Filmbarátok Podcast #140",
+        "youtubeId": "LQ8tU4s4F2M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/LQ8tU4s4F2M/hqdefault.jpg",
+        "durationInMinutes": 184,
+        "releaseDate": 1521209750000,
         "participants": [
           {
             "id": "095dedfe-6a52-491f-963d-88e8794b004b",

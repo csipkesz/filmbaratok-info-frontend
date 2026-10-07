@@ -3,12 +3,72 @@
   "title": "Hamnet",
   "originalTitle": "Hamnet",
   "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
-  "backdropPath": "/yt9m5CiU2MZkQoNl1kqLPODNR4t.jpg",
+  "backdropPath": "/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
   "posterPath": "/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
   "releaseDate": "2025-11-26T00:00:00.000Z",
   "topics": [
     {
-      "id": "a569a8a9-868b-4833-aebc-7521fa84d193",
+      "id": "85ff31ad-1c22-4100-a654-b47f44740306",
+      "title": "Hamnet",
+      "subtitle": null,
+      "timestampString": "01:02:55",
+      "timestampInSeconds": 3775,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #320",
+        "youtubeId": "JOlQcUNht4E",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JOlQcUNht4E/hqdefault.jpg",
+        "durationInMinutes": 181,
+        "releaseDate": 1771072699000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "96b3b781-531c-412c-88d9-cd9275ccecd9",
+      "title": "Hamnet",
+      "subtitle": null,
+      "timestampString": "01:02:55",
+      "timestampInSeconds": 3775,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #320",
+        "youtubeId": "JOlQcUNht4E",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JOlQcUNht4E/hqdefault.jpg",
+        "durationInMinutes": 181,
+        "releaseDate": 1771072699000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a8954db0-d2a2-4b6a-aaa6-f5e06b01505e",
       "title": "Hamnet",
       "subtitle": null,
       "timestampString": "01:02:55",
