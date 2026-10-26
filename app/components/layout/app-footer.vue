@@ -64,9 +64,12 @@
           </p>
         </div>
 
-        <div class="text-center sm:text-right text-[11px]">
-          {{ new Date().getFullYear() }} Filmbarátok Info - Hobbi Projekt by <a target="_blank"
-                                                                                href="https://github.com/csipkesz">csipkesz</a>
+        <div class="text-center sm:text-right text-[11px] space-y-1">
+          <p v-if="lastUpdatedAt">Utolsó frissítés: {{ lastUpdatedAt }}</p>
+          <p>
+            {{ new Date().getFullYear() }} Filmbarátok Info - Hobbi Projekt by <a target="_blank"
+                                                                                  href="https://github.com/csipkesz">csipkesz</a>
+          </p>
         </div>
       </div>
 
@@ -75,6 +78,21 @@
 </template>
 
 <script setup lang="ts">
+const jsonRepo = useJsonRepo()
+const lastUpdatedAt = ref<string | null>(null)
+
+onMounted(async () => {
+  const meta = await jsonRepo.fetchMeta()
+  if (!meta?.lastUpdatedAt) {
+    return
+  }
+
+  lastUpdatedAt.value = new Date(meta.lastUpdatedAt).toLocaleString('hu-HU', {
+    dateStyle: 'long',
+    timeStyle: 'short',
+  })
+})
+
 const platforms: { icon: string, title: string, link: string }[] = [
   {icon: 'i-simple-icons-youtube', title: 'YouTube', link: 'https://www.youtube.com/@filmbaratokpodcast'},
   {icon: 'i-simple-icons-spotify', title: 'Spotify', link: 'https://open.spotify.com/show/6yJdzElUC2xXgoXancHNTL'},

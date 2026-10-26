@@ -1,4 +1,5 @@
 import type {MediaDetail} from "~/models/media-detail.ts";
+import type {Meta} from "~/models/meta.ts";
 
 export const useJsonRepo = () => {
     async function fetchData<T>(path: string) {
@@ -27,10 +28,15 @@ export const useJsonRepo = () => {
         return await fetchData<string[]>('/data/data/backdrops.json') || []
     }
 
+    async function fetchMeta() {
+        return await fetchData<Meta>('/data/meta.json')
+    }
+
     return {
         fetchData,
         fetchIndex,
         fetchBackdrops,
+        fetchMeta,
         fetchMediaDetail,
     }
 }
