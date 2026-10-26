@@ -1,0 +1,45 @@
+{
+  "id": "d44d1698-4bb8-4319-8aa0-c9e08ad8c907",
+  "title": "A rózsa neve",
+  "originalTitle": "Il nome della rosa",
+  "overview": "Az Umberto Eco világhírű regényéből készült sorozat a XIV. századi Itáliában játszódik. Baskerville-i Vilmos ferences szerzetes és fiatal kísérője, Adson von Melk felkeresnek egy észak-itáliai bencés kolostort az Appeninek magányos völgyeiben. Útjuk egyházi feladat, egy teológiai vitát kell előkészíteniük. Pápai legátusok és ferences szerzetesek között kell a világi hatalmi törekvések, a földi javak gyűjtése és a krisztusi szegénységi fogadalom figyelembevételével az egyház szerepének kérdését tisztázni. Mielőtt azonban az előkészületeket megkezdhetnék, néhány titokzatos haláleset bolygatja föl a kolostor nyugodt életét. William nyomozni kezd és a két látogató hamarosan felfedezi, hogy a közösségben az ájtatosság máza mögött titokzatos és gonosz dolgok történnek és a szerzetesek nem természetes halállal haltak meg.",
+  "backdropPath": "/fozTbhwULQHV9WonySw91kapzLQ.jpg",
+  "posterPath": "/bWqo16NIS3nwTcCWOPNaeSQ0FGI.jpg",
+  "releaseDate": "2019-03-04T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "58546ba3-59ec-4722-a085-5df67a772faa",
+      "title": "A rózsa neve",
+      "subtitle": null,
+      "timestampString": "02:43:30",
+      "timestampInSeconds": 9810,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #336",
+        "youtubeId": "zpHRhNv6BOA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/zpHRhNv6BOA/hqdefault.jpg",
+        "durationInMinutes": 257,
+        "releaseDate": 1792083609000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

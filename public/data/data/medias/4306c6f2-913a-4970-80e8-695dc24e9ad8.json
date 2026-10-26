@@ -3,7 +3,7 @@
   "title": "Ted Lasso",
   "originalTitle": "Ted Lasso",
   "overview": "Ted Lasso egy idealista és fogalmatlan amerikai fociedző,aki leszerződik egy angol focicsapat mellé - annak ellenére, hogy nincs semmilyen európai focis tapasztalata...",
-  "backdropPath": "/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+  "backdropPath": "/4bG49jVR7NrCNQjahDUsDqvIwle.jpg",
   "posterPath": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
   "releaseDate": "2020-08-14T00:00:00.000Z",
   "topics": [
@@ -51,6 +51,23 @@
         "thumbnailUrl": "https://i.ytimg.com/vi/fCiI89D5X78/hqdefault.jpg",
         "durationInMinutes": 0,
         "releaseDate": 1685822407000,
+        "participants": []
+      }
+    },
+    {
+      "id": "928d7cc9-7d8e-4671-b143-ceed5f2399a4",
+      "title": "Ted Lasso (4. évad)",
+      "subtitle": "4. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz - Ted Lasso (4. évad)",
+        "youtubeId": "637ZQjefXFA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/637ZQjefXFA/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1793040415000,
         "participants": []
       }
     }

@@ -8,67 +8,7 @@
   "releaseDate": "2020-10-10T00:00:00.000Z",
   "topics": [
     {
-      "id": "63c6fb47-b144-48dd-9fd4-be19b12dd524",
-      "title": "Rent-a-Pal",
-      "subtitle": null,
-      "timestampString": "02:09:28",
-      "timestampInSeconds": 7768,
-      "isSpoiler": false,
-      "content": {
-        "category": "PODCAST",
-        "title": "Filmbarátok Podcast #320",
-        "youtubeId": "JOlQcUNht4E",
-        "thumbnailUrl": "https://i.ytimg.com/vi/JOlQcUNht4E/hqdefault.jpg",
-        "durationInMinutes": 181,
-        "releaseDate": 1771072699000,
-        "participants": [
-          {
-            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
-            "name": "freddyD"
-          },
-          {
-            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
-            "name": "Sorter"
-          },
-          {
-            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
-            "name": "Gergő"
-          }
-        ]
-      }
-    },
-    {
-      "id": "d2e6a4f7-0060-476b-9e16-436d8c117ce3",
-      "title": "Rent-a-Pal",
-      "subtitle": null,
-      "timestampString": "02:09:28",
-      "timestampInSeconds": 7768,
-      "isSpoiler": false,
-      "content": {
-        "category": "PODCAST",
-        "title": "Filmbarátok Podcast #320",
-        "youtubeId": "JOlQcUNht4E",
-        "thumbnailUrl": "https://i.ytimg.com/vi/JOlQcUNht4E/hqdefault.jpg",
-        "durationInMinutes": 181,
-        "releaseDate": 1771072699000,
-        "participants": [
-          {
-            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
-            "name": "freddyD"
-          },
-          {
-            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
-            "name": "Sorter"
-          },
-          {
-            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
-            "name": "Gergő"
-          }
-        ]
-      }
-    },
-    {
-      "id": "dcb90f96-0144-4a75-8bb6-2c22223c1031",
+      "id": "c2d1fea1-2298-4405-b67b-76fc634a0e19",
       "title": "Rent-a-Pal",
       "subtitle": null,
       "timestampString": "02:09:28",

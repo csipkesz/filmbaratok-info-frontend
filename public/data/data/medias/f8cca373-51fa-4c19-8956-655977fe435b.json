@@ -8,75 +8,7 @@
   "releaseDate": "2026-02-25T00:00:00.000Z",
   "topics": [
     {
-      "id": "2ad0b877-ff47-40f7-bfd4-36a9b8e54022",
-      "title": "Sikoly 7",
-      "subtitle": null,
-      "timestampString": "01:06:04",
-      "timestampInSeconds": 3964,
-      "isSpoiler": false,
-      "content": {
-        "category": "PODCAST",
-        "title": "Filmbarátok Podcast #322",
-        "youtubeId": "f696VdP9-xg",
-        "thumbnailUrl": "https://i.ytimg.com/vi/f696VdP9-xg/hqdefault.jpg",
-        "durationInMinutes": 273,
-        "releaseDate": 1773775641000,
-        "participants": [
-          {
-            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
-            "name": "freddyD"
-          },
-          {
-            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
-            "name": "Blacksheep"
-          },
-          {
-            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
-            "name": "Sorter"
-          },
-          {
-            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
-            "name": "Gergő"
-          }
-        ]
-      }
-    },
-    {
-      "id": "6a7ce7b0-819f-4b9f-88a3-5fa8d052fbc1",
-      "title": "Sikoly 7",
-      "subtitle": null,
-      "timestampString": "01:06:04",
-      "timestampInSeconds": 3964,
-      "isSpoiler": false,
-      "content": {
-        "category": "PODCAST",
-        "title": "Filmbarátok Podcast #322",
-        "youtubeId": "f696VdP9-xg",
-        "thumbnailUrl": "https://i.ytimg.com/vi/f696VdP9-xg/hqdefault.jpg",
-        "durationInMinutes": 273,
-        "releaseDate": 1773775641000,
-        "participants": [
-          {
-            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
-            "name": "freddyD"
-          },
-          {
-            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
-            "name": "Blacksheep"
-          },
-          {
-            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
-            "name": "Sorter"
-          },
-          {
-            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
-            "name": "Gergő"
-          }
-        ]
-      }
-    },
-    {
-      "id": "c8ec3e24-a5ba-4203-b5d4-a866acd016c4",
+      "id": "201d7595-abbf-48b6-9a42-e3fca15a2ec8",
       "title": "Sikoly 7",
       "subtitle": null,
       "timestampString": "01:06:04",

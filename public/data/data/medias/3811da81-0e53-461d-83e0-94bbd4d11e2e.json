@@ -1,0 +1,45 @@
+{
+  "id": "3811da81-0e53-461d-83e0-94bbd4d11e2e",
+  "title": "Robbanás a Szuperexpresszen",
+  "originalTitle": "新幹線大爆破",
+  "overview": "Sürgős telefonhívás érkezik a nagysebességű vasúthálózati irányítóközpontba. A telefonáló azt állítja, hogy bombát helyezett el a Tokió felé tartó Hayabusa 60-as vonaton, amely azonnal felrobban, amint a vonat sebessége 100 km/óra alá csökken. A telefonáló 100 milliárd jent követel a bomba hatástalanításáért cserébe. A vasúti dolgozók kétségbeesetten futnak versenyt az idővel, miközben igyekeznek megakadályozni a robbanást. Vajon a Hayabusa 60-as képes lesz elkerülni ezt a katasztrófát?",
+  "backdropPath": "/zHP9pMtYuMZBluNZNBP9i5fX2US.jpg",
+  "posterPath": "/xuztwwofBgk1pIkoHOcezGSVi3d.jpg",
+  "releaseDate": "2025-04-23T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "2fa62ca5-e82f-44f7-89af-4005ab215cec",
+      "title": "Robbanás a Szuperexpresszen",
+      "subtitle": null,
+      "timestampString": "03:13:49",
+      "timestampInSeconds": 11629,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #336",
+        "youtubeId": "zpHRhNv6BOA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/zpHRhNv6BOA/hqdefault.jpg",
+        "durationInMinutes": 257,
+        "releaseDate": 1792083609000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "41acdbd8-874c-49c1-af5e-da00a076ce9f",
+  "title": "Digger",
+  "originalTitle": "Digger",
+  "overview": "A történet középpontjában a világ leghatalmasabb embere áll, aki kétségbeesett küldetésre indul, hogy bebizonyítsa, ő az emberiség megmentője, mielőtt az általa előidézett katasztrófa mindent elpusztítana. (Gergo Horvath)",
+  "backdropPath": "/vC5IxhgO6cVmw9O4QgkraRzfHvh.jpg",
+  "posterPath": "/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+  "releaseDate": "2026-09-28T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "3a2967d1-e1f5-48cf-be50-0bac998a3b9d",
+      "title": "Digger [SPOILERMENTES]",
+      "subtitle": null,
+      "timestampString": "03:38:15",
+      "timestampInSeconds": 13095,
+      "isSpoiler": true,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #336",
+        "youtubeId": "zpHRhNv6BOA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/zpHRhNv6BOA/hqdefault.jpg",
+        "durationInMinutes": 257,
+        "releaseDate": 1792083609000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

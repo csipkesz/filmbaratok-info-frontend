@@ -8,67 +8,7 @@
   "releaseDate": "2026-04-15T00:00:00.000Z",
   "topics": [
     {
-      "id": "01ac6503-a76f-4541-8d41-d600bacb6a79",
-      "title": "Lee Cronin – A múmia",
-      "subtitle": null,
-      "timestampString": "00:52:50",
-      "timestampInSeconds": 3170,
-      "isSpoiler": false,
-      "content": {
-        "category": "PODCAST",
-        "title": "Filmbarátok Podcast #326",
-        "youtubeId": "PyX_W5BWsXo",
-        "thumbnailUrl": "https://i.ytimg.com/vi/PyX_W5BWsXo/hqdefault.jpg",
-        "durationInMinutes": 236,
-        "releaseDate": 1778948292000,
-        "participants": [
-          {
-            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
-            "name": "freddyD"
-          },
-          {
-            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
-            "name": "Sorter"
-          },
-          {
-            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
-            "name": "Gergő"
-          }
-        ]
-      }
-    },
-    {
-      "id": "9e785255-3038-4660-bca4-474e46f1af09",
-      "title": "Lee Cronin – A múmia",
-      "subtitle": null,
-      "timestampString": "00:52:50",
-      "timestampInSeconds": 3170,
-      "isSpoiler": false,
-      "content": {
-        "category": "PODCAST",
-        "title": "Filmbarátok Podcast #326",
-        "youtubeId": "PyX_W5BWsXo",
-        "thumbnailUrl": "https://i.ytimg.com/vi/PyX_W5BWsXo/hqdefault.jpg",
-        "durationInMinutes": 236,
-        "releaseDate": 1778948292000,
-        "participants": [
-          {
-            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
-            "name": "freddyD"
-          },
-          {
-            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
-            "name": "Sorter"
-          },
-          {
-            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
-            "name": "Gergő"
-          }
-        ]
-      }
-    },
-    {
-      "id": "fe4de855-3611-474d-b402-7dbc5cd20bd2",
+      "id": "36572176-c416-4055-af62-14f49e988276",
       "title": "Lee Cronin – A múmia",
       "subtitle": null,
       "timestampString": "00:52:50",

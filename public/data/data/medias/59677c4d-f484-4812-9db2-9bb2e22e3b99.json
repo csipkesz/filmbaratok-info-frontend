@@ -1,0 +1,45 @@
+{
+  "id": "59677c4d-f484-4812-9db2-9bb2e22e3b99",
+  "title": "A bolygó neve: Halál",
+  "originalTitle": "Aliens",
+  "overview": "57 évvel később egy mentőhajó talál rá Ripleyre, akinek az utolsó pillanatba sikerült megmenekülnie. Hazaérkezvén megtudja, hogy annak idején egy emberi kolóniát telepítettek arra a bolygóra, ahol megtámadta őket az ismeretlen szörnyeteg. Miután a földi kutatóbázis minden kapcsolatot elveszített az odatelepített emberekkel, Ripley-t egy sereg felfegyverzett harcos kíséretében visszaküldik a távoli bolygóra, hogy egyszer s mindenkorra leszámoljanak a félelmetes idegennel és megmentsék a túlélőket. De a landolás után nem sokkal elszabadul a pokol.",
+  "backdropPath": "/4kix6fAblJIH6eMs0Ku2loyZJXK.jpg",
+  "posterPath": "/9R2gYsNTr0UPm92GFuGzePxsqJ6.jpg",
+  "releaseDate": "1986-07-18T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "b3a18566-baf7-4671-a24c-cd50066f544c",
+      "title": "A bolygó neve: Halál",
+      "subtitle": null,
+      "timestampString": "02:16:20",
+      "timestampInSeconds": 8180,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #336",
+        "youtubeId": "zpHRhNv6BOA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/zpHRhNv6BOA/hqdefault.jpg",
+        "durationInMinutes": 257,
+        "releaseDate": 1792083609000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

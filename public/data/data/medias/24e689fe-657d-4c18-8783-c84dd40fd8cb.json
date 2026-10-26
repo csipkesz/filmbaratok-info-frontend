@@ -124,23 +124,6 @@
       }
     },
     {
-      "id": "41a380b1-7170-4be0-8d1d-2b1e96e06d76",
-      "title": "The Walking Dead (1. évad)",
-      "subtitle": "1. évad",
-      "timestampString": null,
-      "timestampInSeconds": 0,
-      "isSpoiler": false,
-      "content": {
-        "category": "EXPRESS",
-        "title": "Filmbarátok Expressz: The Walking Dead (1. évad)",
-        "youtubeId": "N21Vfj9YGGE",
-        "thumbnailUrl": "https://i.ytimg.com/vi/N21Vfj9YGGE/hqdefault.jpg",
-        "durationInMinutes": 0,
-        "releaseDate": 1778518686000,
-        "participants": []
-      }
-    },
-    {
       "id": "4498f775-623f-44a2-9116-4a3d37b7c577",
       "title": "The Walking Dead 11. évad / 1-8 rész [SPOILERES]",
       "subtitle": "11. évad / 1-8 rész",
@@ -201,23 +184,6 @@
       }
     },
     {
-      "id": "57f93bfb-2a84-4192-97fc-1872d8d2827c",
-      "title": "The Walking Dead (1. évad)",
-      "subtitle": "1. évad",
-      "timestampString": null,
-      "timestampInSeconds": 0,
-      "isSpoiler": false,
-      "content": {
-        "category": "EXPRESS",
-        "title": "Filmbarátok Expressz: The Walking Dead (1. évad)",
-        "youtubeId": "N21Vfj9YGGE",
-        "thumbnailUrl": "https://i.ytimg.com/vi/N21Vfj9YGGE/hqdefault.jpg",
-        "durationInMinutes": 0,
-        "releaseDate": 1778518686000,
-        "participants": []
-      }
-    },
-    {
       "id": "71796378-c699-4296-8183-0faf70e390e7",
       "title": "The Walking Dead 7.évad/2 [SPOILERES]",
       "subtitle": "7.évad/2",
@@ -245,23 +211,6 @@
             "name": "Gergő"
           }
         ]
-      }
-    },
-    {
-      "id": "7cd2e57e-e79d-42da-986d-a28c8b5d52e5",
-      "title": "The Walking Dead (1. évad)",
-      "subtitle": "1. évad",
-      "timestampString": null,
-      "timestampInSeconds": 0,
-      "isSpoiler": false,
-      "content": {
-        "category": "EXPRESS",
-        "title": "Filmbarátok Expressz: The Walking Dead (1. évad)",
-        "youtubeId": "N21Vfj9YGGE",
-        "thumbnailUrl": "https://i.ytimg.com/vi/N21Vfj9YGGE/hqdefault.jpg",
-        "durationInMinutes": 0,
-        "releaseDate": 1778518686000,
-        "participants": []
       }
     },
     {
@@ -442,6 +391,23 @@
             "name": "Gergő"
           }
         ]
+      }
+    },
+    {
+      "id": "e071728a-6068-4a35-8c1e-f7273f48525d",
+      "title": "The Walking Dead (1. évad)",
+      "subtitle": "1. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: The Walking Dead (1. évad)",
+        "youtubeId": "N21Vfj9YGGE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/N21Vfj9YGGE/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1778518686000,
+        "participants": []
       }
     },
     {

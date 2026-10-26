@@ -8,75 +8,7 @@
   "releaseDate": "2026-03-04T00:00:00.000Z",
   "topics": [
     {
-      "id": "49a06314-02c8-43b9-9d21-c5f13bee5792",
-      "title": "Agyugrász",
-      "subtitle": null,
-      "timestampString": "03:28:37",
-      "timestampInSeconds": 12517,
-      "isSpoiler": false,
-      "content": {
-        "category": "PODCAST",
-        "title": "Filmbarátok Podcast #322",
-        "youtubeId": "f696VdP9-xg",
-        "thumbnailUrl": "https://i.ytimg.com/vi/f696VdP9-xg/hqdefault.jpg",
-        "durationInMinutes": 273,
-        "releaseDate": 1773775641000,
-        "participants": [
-          {
-            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
-            "name": "freddyD"
-          },
-          {
-            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
-            "name": "Blacksheep"
-          },
-          {
-            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
-            "name": "Sorter"
-          },
-          {
-            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
-            "name": "Gergő"
-          }
-        ]
-      }
-    },
-    {
-      "id": "4a3ede66-a425-4ce5-be17-1fee0d4d7165",
-      "title": "Agyugrász",
-      "subtitle": null,
-      "timestampString": "03:28:37",
-      "timestampInSeconds": 12517,
-      "isSpoiler": false,
-      "content": {
-        "category": "PODCAST",
-        "title": "Filmbarátok Podcast #322",
-        "youtubeId": "f696VdP9-xg",
-        "thumbnailUrl": "https://i.ytimg.com/vi/f696VdP9-xg/hqdefault.jpg",
-        "durationInMinutes": 273,
-        "releaseDate": 1773775641000,
-        "participants": [
-          {
-            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
-            "name": "freddyD"
-          },
-          {
-            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
-            "name": "Blacksheep"
-          },
-          {
-            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
-            "name": "Sorter"
-          },
-          {
-            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
-            "name": "Gergő"
-          }
-        ]
-      }
-    },
-    {
-      "id": "cf5fa6c3-b8df-43a7-819f-7b1da323c396",
+      "id": "86cb7d67-5cda-4dc7-9063-eca0a9e5644b",
       "title": "Agyugrász",
       "subtitle": null,
       "timestampString": "03:28:37",

@@ -8,75 +8,7 @@
   "releaseDate": "2003-10-10T00:00:00.000Z",
   "topics": [
     {
-      "id": "3b33cd20-707d-4685-9545-d4d79d3763f8",
-      "title": "Kill Bill",
-      "subtitle": null,
-      "timestampString": "00:45:55",
-      "timestampInSeconds": 2755,
-      "isSpoiler": false,
-      "content": {
-        "category": "PODCAST",
-        "title": "Filmbarátok Podcast #327",
-        "youtubeId": "UYCI_LATeS8",
-        "thumbnailUrl": "https://i.ytimg.com/vi/UYCI_LATeS8/hqdefault.jpg",
-        "durationInMinutes": 221,
-        "releaseDate": 1780218018000,
-        "participants": [
-          {
-            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
-            "name": "freddyD"
-          },
-          {
-            "id": "5989399b-9c8e-40cf-8df7-6ed9cfa5e0b2",
-            "name": "Szabolcs"
-          },
-          {
-            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
-            "name": "Sorter"
-          },
-          {
-            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
-            "name": "Gergő"
-          }
-        ]
-      }
-    },
-    {
-      "id": "45b3e65a-c672-4184-ad7c-f0284ef627f4",
-      "title": "Kill Bill",
-      "subtitle": null,
-      "timestampString": "00:45:55",
-      "timestampInSeconds": 2755,
-      "isSpoiler": false,
-      "content": {
-        "category": "PODCAST",
-        "title": "Filmbarátok Podcast #327",
-        "youtubeId": "UYCI_LATeS8",
-        "thumbnailUrl": "https://i.ytimg.com/vi/UYCI_LATeS8/hqdefault.jpg",
-        "durationInMinutes": 221,
-        "releaseDate": 1780218018000,
-        "participants": [
-          {
-            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
-            "name": "freddyD"
-          },
-          {
-            "id": "5989399b-9c8e-40cf-8df7-6ed9cfa5e0b2",
-            "name": "Szabolcs"
-          },
-          {
-            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
-            "name": "Sorter"
-          },
-          {
-            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
-            "name": "Gergő"
-          }
-        ]
-      }
-    },
-    {
-      "id": "9893c609-6a5f-4707-b5ae-d2ed79fbbde7",
+      "id": "2f74ae7e-c1d3-4826-bbc1-d2a692aded44",
       "title": "Kill Bill",
       "subtitle": null,
       "timestampString": "00:45:55",

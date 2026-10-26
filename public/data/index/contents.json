@@ -565,6 +565,15 @@
     "participants": []
   },
   {
+    "id": "0f03fde5-72c9-4681-8046-65734f1d2705",
+    "title": "Filmbarátok Expressz - Ted Lasso (4. évad)",
+    "category": "EXPRESS",
+    "youtubeId": "637ZQjefXFA",
+    "thumbnailUrl": "https://i.ytimg.com/vi/637ZQjefXFA/hqdefault.jpg",
+    "releaseDate": "2026-10-26",
+    "participants": []
+  },
+  {
     "id": "0f442587-f444-4079-8403-39764c2d4f01",
     "title": "Filmbarátok Expressz: Pingvin",
     "category": "EXPRESS",
@@ -1419,6 +1428,15 @@
     ]
   },
   {
+    "id": "29d77715-35c3-4fed-bf96-ca9d08ef5349",
+    "title": "Filmbarátok Expressz: Extázis - Uncut",
+    "category": "EXPRESS",
+    "youtubeId": "kSbVewUWPlU",
+    "thumbnailUrl": "https://i.ytimg.com/vi/kSbVewUWPlU/hqdefault.jpg",
+    "releaseDate": "2026-10-12",
+    "participants": []
+  },
+  {
     "id": "2a6bdf4c-2af7-4eaa-af15-8550c9c76172",
     "title": "Filmbarátok Expressz: The Witcher / Vaják (4. évad)",
     "category": "EXPRESS",
@@ -1579,6 +1597,15 @@
       "Blacksheep",
       "Gergő"
     ]
+  },
+  {
+    "id": "2f92ef9a-1ada-4221-a594-fea7dfb3e353",
+    "title": "Filmbarátok Expressz: Reacher (1-4. évad)",
+    "category": "EXPRESS",
+    "youtubeId": "S7PQagwRzBo",
+    "thumbnailUrl": "https://i.ytimg.com/vi/S7PQagwRzBo/hqdefault.jpg",
+    "releaseDate": "2026-10-18",
+    "participants": []
   },
   {
     "id": "2fa795a2-0078-4af9-8c34-303057a97189",
@@ -3128,6 +3155,15 @@
     "participants": []
   },
   {
+    "id": "69a1149a-f069-4dda-877c-591594e80672",
+    "title": "Filmbarátok mémek: Tony Jay",
+    "category": "MEME",
+    "youtubeId": "GJFlGGNnC-0",
+    "thumbnailUrl": "https://i.ytimg.com/vi/GJFlGGNnC-0/hqdefault.jpg",
+    "releaseDate": "2026-10-09",
+    "participants": []
+  },
+  {
     "id": "69ff0515-5eca-4760-9ead-b43e169b4f2a",
     "title": "Filmbarátok Expressz: Veszettek [SPOILERES]",
     "category": "EXPRESS",
@@ -4448,6 +4484,20 @@
     "participants": []
   },
   {
+    "id": "97bbffb0-1fb4-4ea7-9256-47bad9e713a0",
+    "title": "Filmbarátok Podcast #336",
+    "category": "PODCAST",
+    "youtubeId": "zpHRhNv6BOA",
+    "thumbnailUrl": "https://i.ytimg.com/vi/zpHRhNv6BOA/hqdefault.jpg",
+    "releaseDate": "2026-10-15",
+    "participants": [
+      "freddyD",
+      "Gábor",
+      "Márk",
+      "Gergő"
+    ]
+  },
+  {
     "id": "987b6a70-dcd8-4a71-824b-6bd82634b3fd",
     "title": "Filmbarátok Expressz: Cobra Kai 6. évad (1-5. rész)",
     "category": "EXPRESS",
@@ -5189,6 +5239,21 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/MI0KgwiZUKM/hqdefault.jpg",
     "releaseDate": "2016-06-26",
     "participants": []
+  },
+  {
+    "id": "b079f92d-ba66-4c7c-88d9-a9a8541a8fe5",
+    "title": "Filmbarátok Zárthelyi: Shirinquizíció",
+    "category": "ON_SITE",
+    "youtubeId": "cZB-qjyUXjA",
+    "thumbnailUrl": "https://i.ytimg.com/vi/cZB-qjyUXjA/hqdefault.jpg",
+    "releaseDate": "2026-10-09",
+    "participants": [
+      "Shirin",
+      "freddyD",
+      "Gábor",
+      "Márk",
+      "Gergő"
+    ]
   },
   {
     "id": "b0ddfde5-ecc8-4720-9ec0-cf8d2924bf6b",

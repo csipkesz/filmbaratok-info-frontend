@@ -8,75 +8,7 @@
   "releaseDate": "2025-06-06T00:00:00.000Z",
   "topics": [
     {
-      "id": "41b0ed8e-6603-4ed0-984f-3ab2b13315d2",
-      "title": "Tánc a sivatagban [Sirat]",
-      "subtitle": null,
-      "timestampString": "02:07:18",
-      "timestampInSeconds": 7638,
-      "isSpoiler": false,
-      "content": {
-        "category": "PODCAST",
-        "title": "Filmbarátok Podcast #323",
-        "youtubeId": "1Y8m-2qsHhw",
-        "thumbnailUrl": "https://i.ytimg.com/vi/1Y8m-2qsHhw/hqdefault.jpg",
-        "durationInMinutes": 209,
-        "releaseDate": 1775020201000,
-        "participants": [
-          {
-            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
-            "name": "freddyD"
-          },
-          {
-            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
-            "name": "Gábor"
-          },
-          {
-            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
-            "name": "Sorter"
-          },
-          {
-            "id": "c341ffd7-d2f1-4fba-813f-d8ec16f2245a",
-            "name": "Zétény"
-          }
-        ]
-      }
-    },
-    {
-      "id": "70b9e49b-1fa7-4888-b36c-e499a6d7ab7a",
-      "title": "Tánc a sivatagban [Sirat]",
-      "subtitle": null,
-      "timestampString": "02:07:18",
-      "timestampInSeconds": 7638,
-      "isSpoiler": false,
-      "content": {
-        "category": "PODCAST",
-        "title": "Filmbarátok Podcast #323",
-        "youtubeId": "1Y8m-2qsHhw",
-        "thumbnailUrl": "https://i.ytimg.com/vi/1Y8m-2qsHhw/hqdefault.jpg",
-        "durationInMinutes": 209,
-        "releaseDate": 1775020201000,
-        "participants": [
-          {
-            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
-            "name": "freddyD"
-          },
-          {
-            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
-            "name": "Gábor"
-          },
-          {
-            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
-            "name": "Sorter"
-          },
-          {
-            "id": "c341ffd7-d2f1-4fba-813f-d8ec16f2245a",
-            "name": "Zétény"
-          }
-        ]
-      }
-    },
-    {
-      "id": "9a723692-7daa-4493-ad8a-0c8458acd6f3",
+      "id": "8648648b-02a0-4cc4-8b5b-8e38713236d1",
       "title": "Tánc a sivatagban [Sirat]",
       "subtitle": null,
       "timestampString": "02:07:18",

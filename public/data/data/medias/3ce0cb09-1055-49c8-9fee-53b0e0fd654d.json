@@ -1,0 +1,45 @@
+{
+  "id": "3ce0cb09-1055-49c8-9fee-53b0e0fd654d",
+  "title": "Földszint",
+  "originalTitle": "Földszint",
+  "overview": "A film egy kiégett festőről szól, aki banki alkalmazottként dolgozik, megtudja, hogy apaszerepre készül, miközben elviselhetetlen szomszédokkal és egy társasházi konfliktussal küzd.",
+  "backdropPath": "/w6exNYG9nyBaF4mlfXdIWvme31s.jpg",
+  "posterPath": "/8cfq6dabwO5BKL8TToMbRGAlQ96.jpg",
+  "releaseDate": "2026-09-10T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "841e684b-0820-4080-9be1-6297559adce0",
+      "title": "Földszint",
+      "subtitle": null,
+      "timestampString": "01:28:25",
+      "timestampInSeconds": 5305,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #336",
+        "youtubeId": "zpHRhNv6BOA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/zpHRhNv6BOA/hqdefault.jpg",
+        "durationInMinutes": 257,
+        "releaseDate": 1792083609000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

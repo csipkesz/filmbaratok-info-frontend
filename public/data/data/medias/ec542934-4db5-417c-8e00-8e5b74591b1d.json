@@ -8,75 +8,7 @@
   "releaseDate": null,
   "topics": [
     {
-      "id": "845cf798-00fb-4989-bb3f-569665682ada",
-      "title": "The Toxic Avenger [2023]",
-      "subtitle": null,
-      "timestampString": "02:26:46",
-      "timestampInSeconds": 8806,
-      "isSpoiler": false,
-      "content": {
-        "category": "PODCAST",
-        "title": "Filmbarátok Podcast #323",
-        "youtubeId": "1Y8m-2qsHhw",
-        "thumbnailUrl": "https://i.ytimg.com/vi/1Y8m-2qsHhw/hqdefault.jpg",
-        "durationInMinutes": 209,
-        "releaseDate": 1775020201000,
-        "participants": [
-          {
-            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
-            "name": "freddyD"
-          },
-          {
-            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
-            "name": "Gábor"
-          },
-          {
-            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
-            "name": "Sorter"
-          },
-          {
-            "id": "c341ffd7-d2f1-4fba-813f-d8ec16f2245a",
-            "name": "Zétény"
-          }
-        ]
-      }
-    },
-    {
-      "id": "9ca438e0-3c32-49bf-8c5b-09b9ba401347",
-      "title": "The Toxic Avenger [2023]",
-      "subtitle": null,
-      "timestampString": "02:26:46",
-      "timestampInSeconds": 8806,
-      "isSpoiler": false,
-      "content": {
-        "category": "PODCAST",
-        "title": "Filmbarátok Podcast #323",
-        "youtubeId": "1Y8m-2qsHhw",
-        "thumbnailUrl": "https://i.ytimg.com/vi/1Y8m-2qsHhw/hqdefault.jpg",
-        "durationInMinutes": 209,
-        "releaseDate": 1775020201000,
-        "participants": [
-          {
-            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
-            "name": "freddyD"
-          },
-          {
-            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
-            "name": "Gábor"
-          },
-          {
-            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
-            "name": "Sorter"
-          },
-          {
-            "id": "c341ffd7-d2f1-4fba-813f-d8ec16f2245a",
-            "name": "Zétény"
-          }
-        ]
-      }
-    },
-    {
-      "id": "c4a4a28f-a7c1-4b5a-97e3-b31829dd7722",
+      "id": "38b104ea-9062-4a99-8d2a-b0af29c55238",
       "title": "The Toxic Avenger [2023]",
       "subtitle": null,
       "timestampString": "02:26:46",

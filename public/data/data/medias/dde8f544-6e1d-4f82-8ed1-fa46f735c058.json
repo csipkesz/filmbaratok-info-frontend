@@ -8,67 +8,7 @@
   "releaseDate": "2026-04-24T00:00:00.000Z",
   "topics": [
     {
-      "id": "3d860cda-7dc7-4cf5-b8dd-332c4e835b6e",
-      "title": "Csúcsragadozó [SPOILERES]",
-      "subtitle": null,
-      "timestampString": "03:12:00",
-      "timestampInSeconds": 11520,
-      "isSpoiler": true,
-      "content": {
-        "category": "PODCAST",
-        "title": "Filmbarátok Podcast #326",
-        "youtubeId": "PyX_W5BWsXo",
-        "thumbnailUrl": "https://i.ytimg.com/vi/PyX_W5BWsXo/hqdefault.jpg",
-        "durationInMinutes": 236,
-        "releaseDate": 1778948292000,
-        "participants": [
-          {
-            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
-            "name": "freddyD"
-          },
-          {
-            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
-            "name": "Sorter"
-          },
-          {
-            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
-            "name": "Gergő"
-          }
-        ]
-      }
-    },
-    {
-      "id": "7b4a7f66-ef55-42a9-a8c6-078396ef1437",
-      "title": "Csúcsragadozó [SPOILERES]",
-      "subtitle": null,
-      "timestampString": "03:12:00",
-      "timestampInSeconds": 11520,
-      "isSpoiler": true,
-      "content": {
-        "category": "PODCAST",
-        "title": "Filmbarátok Podcast #326",
-        "youtubeId": "PyX_W5BWsXo",
-        "thumbnailUrl": "https://i.ytimg.com/vi/PyX_W5BWsXo/hqdefault.jpg",
-        "durationInMinutes": 236,
-        "releaseDate": 1778948292000,
-        "participants": [
-          {
-            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
-            "name": "freddyD"
-          },
-          {
-            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
-            "name": "Sorter"
-          },
-          {
-            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
-            "name": "Gergő"
-          }
-        ]
-      }
-    },
-    {
-      "id": "f7e45864-3c1c-4a7c-bcfb-29f158f3ad2a",
+      "id": "8f8df1df-005a-41f8-b1fc-34facfce2054",
       "title": "Csúcsragadozó [SPOILERES]",
       "subtitle": null,
       "timestampString": "03:12:00",

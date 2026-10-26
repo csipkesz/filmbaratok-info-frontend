@@ -8,75 +8,7 @@
   "releaseDate": "2011-11-16T00:00:00.000Z",
   "topics": [
     {
-      "id": "631bc875-6c6c-4afd-a742-82f7c1db22a5",
-      "title": "Fehér éjszaka [2011]",
-      "subtitle": null,
-      "timestampString": "03:42:40",
-      "timestampInSeconds": 13360,
-      "isSpoiler": false,
-      "content": {
-        "category": "PODCAST",
-        "title": "Filmbarátok Podcast #322",
-        "youtubeId": "f696VdP9-xg",
-        "thumbnailUrl": "https://i.ytimg.com/vi/f696VdP9-xg/hqdefault.jpg",
-        "durationInMinutes": 273,
-        "releaseDate": 1773775641000,
-        "participants": [
-          {
-            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
-            "name": "freddyD"
-          },
-          {
-            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
-            "name": "Blacksheep"
-          },
-          {
-            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
-            "name": "Sorter"
-          },
-          {
-            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
-            "name": "Gergő"
-          }
-        ]
-      }
-    },
-    {
-      "id": "6a98ada3-e005-4f80-9e0b-b802467e8bb0",
-      "title": "Fehér éjszaka [2011]",
-      "subtitle": null,
-      "timestampString": "03:42:40",
-      "timestampInSeconds": 13360,
-      "isSpoiler": false,
-      "content": {
-        "category": "PODCAST",
-        "title": "Filmbarátok Podcast #322",
-        "youtubeId": "f696VdP9-xg",
-        "thumbnailUrl": "https://i.ytimg.com/vi/f696VdP9-xg/hqdefault.jpg",
-        "durationInMinutes": 273,
-        "releaseDate": 1773775641000,
-        "participants": [
-          {
-            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
-            "name": "freddyD"
-          },
-          {
-            "id": "62efbaa4-1f6e-4ec8-bfd4-d193bde90839",
-            "name": "Blacksheep"
-          },
-          {
-            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
-            "name": "Sorter"
-          },
-          {
-            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
-            "name": "Gergő"
-          }
-        ]
-      }
-    },
-    {
-      "id": "88ded8b1-2190-4c17-80a6-ad5ac0e09330",
+      "id": "0e7f1e1a-3e20-42fd-8353-b229bb2cd8c2",
       "title": "Fehér éjszaka [2011]",
       "subtitle": null,
       "timestampString": "03:42:40",

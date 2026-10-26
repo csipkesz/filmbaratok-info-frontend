@@ -8,67 +8,7 @@
   "releaseDate": "1980-02-07T00:00:00.000Z",
   "topics": [
     {
-      "id": "0042adf7-32a3-4fcb-a706-1320750b70c7",
-      "title": "Cannibal Holocaust",
-      "subtitle": null,
-      "timestampString": "02:21:45",
-      "timestampInSeconds": 8505,
-      "isSpoiler": false,
-      "content": {
-        "category": "PODCAST",
-        "title": "Filmbarátok Podcast #330",
-        "youtubeId": "AgwfP4V1UCo",
-        "thumbnailUrl": "https://i.ytimg.com/vi/AgwfP4V1UCo/hqdefault.jpg",
-        "durationInMinutes": 207,
-        "releaseDate": 1784150438000,
-        "participants": [
-          {
-            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
-            "name": "freddyD"
-          },
-          {
-            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
-            "name": "Márk"
-          },
-          {
-            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
-            "name": "Gergő"
-          }
-        ]
-      }
-    },
-    {
-      "id": "86dd0f08-d45c-4314-ad77-8e19914191ab",
-      "title": "Cannibal Holocaust",
-      "subtitle": null,
-      "timestampString": "02:21:45",
-      "timestampInSeconds": 8505,
-      "isSpoiler": false,
-      "content": {
-        "category": "PODCAST",
-        "title": "Filmbarátok Podcast #330",
-        "youtubeId": "AgwfP4V1UCo",
-        "thumbnailUrl": "https://i.ytimg.com/vi/AgwfP4V1UCo/hqdefault.jpg",
-        "durationInMinutes": 207,
-        "releaseDate": 1784150438000,
-        "participants": [
-          {
-            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
-            "name": "freddyD"
-          },
-          {
-            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
-            "name": "Márk"
-          },
-          {
-            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
-            "name": "Gergő"
-          }
-        ]
-      }
-    },
-    {
-      "id": "f68125b7-b514-433c-9111-ba8c1b30be96",
+      "id": "cbaf4452-6930-4eaa-afea-615a8c69bb09",
       "title": "Cannibal Holocaust",
       "subtitle": null,
       "timestampString": "02:21:45",

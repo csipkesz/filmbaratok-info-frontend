@@ -1,0 +1,45 @@
+{
+  "id": "4f1d10ea-7e20-4c07-af7e-f98fcc429a46",
+  "title": "Verity",
+  "originalTitle": "Verity",
+  "overview": "owen Ashleigh író megélhetési nehézégekkel szembesül, ezért igent mond egy állásajánlatra, amely élete nagy lehetőségének bizonyul. Jeremy Crawford, a bestsellerszerző Verity Crawford férje felbéreli őt, ugyanis felesége egy rejtélyes baleset következtében félbehagyta műveit. A férj Ashleigh-re bízná a befejezést, ám ahogy az író megérkezik a birtokra és munkához lát, egy félkész kéziratot talál, melyből kiderül egy családi titok. Ashleigh feladata rájönni, hogy Verity írásai a fantázia szüleményei, vagy baljós előrejelzések...  (Szarka Károly)",
+  "backdropPath": "/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+  "posterPath": "/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg",
+  "releaseDate": "2026-09-30T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "220b896d-8e44-4049-8eda-87037218deb3",
+      "title": "Verity",
+      "subtitle": null,
+      "timestampString": "01:59:55",
+      "timestampInSeconds": 7195,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #336",
+        "youtubeId": "zpHRhNv6BOA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/zpHRhNv6BOA/hqdefault.jpg",
+        "durationInMinutes": 257,
+        "releaseDate": 1792083609000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

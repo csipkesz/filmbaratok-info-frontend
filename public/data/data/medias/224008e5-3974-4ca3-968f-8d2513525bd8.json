@@ -1,0 +1,45 @@
+{
+  "id": "224008e5-3974-4ca3-968f-8d2513525bd8",
+  "title": "Shaun, a bárány és a Moszatvég szörnye",
+  "originalTitle": "Shaun the Sheep: The Beast of Mossy Bottom",
+  "overview": "A Moszatvég Farm lakói izgatottan készülnek Halloweenre, egészen addig, amíg a kétbalkezes gazda tönkre nem teszi a nyáj kedvenc tökét! Amikor Shaun őrült tudósként próbálja helyrehozni a hibát, az események gyorsan kicsúsznak az irányítás alól. A gazda eltűnik, a Mossingham környéki erdőkben pedig egy vad bestia garázdálkodik – minden adott egy rémisztően szórakoztató családi kalandhoz. (Csillag Lajos)",
+  "backdropPath": "/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
+  "posterPath": "/cSgNk5fnOhBOpno94RR1EYoajBP.jpg",
+  "releaseDate": "2026-09-17T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "c1e8551e-704d-4294-932b-7be655bd39b6",
+      "title": "Shaun, a bárány és a Moszatvég szörnye",
+      "subtitle": null,
+      "timestampString": "01:09:30",
+      "timestampInSeconds": 4170,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #336",
+        "youtubeId": "zpHRhNv6BOA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/zpHRhNv6BOA/hqdefault.jpg",
+        "durationInMinutes": 257,
+        "releaseDate": 1792083609000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
+            "name": "Gábor"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

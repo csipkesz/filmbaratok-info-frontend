@@ -8,23 +8,6 @@
   "releaseDate": "2019-11-01T00:00:00.000Z",
   "topics": [
     {
-      "id": "2a5ca35d-e9e2-4061-883c-5ae6568460ed",
-      "title": "For all mankind (4-5. évad)",
-      "subtitle": "4-5. évad",
-      "timestampString": null,
-      "timestampInSeconds": 0,
-      "isSpoiler": false,
-      "content": {
-        "category": "EXPRESS",
-        "title": "Filmbarátok Expressz: For all mankind (4-5. évad)",
-        "youtubeId": "5OMhDpesNas",
-        "thumbnailUrl": "https://i.ytimg.com/vi/5OMhDpesNas/hqdefault.jpg",
-        "durationInMinutes": 0,
-        "releaseDate": 1783451706000,
-        "participants": []
-      }
-    },
-    {
       "id": "3ceffa7f-05f8-479c-9e8d-278bb7042745",
       "title": "For All Mankind (3. évad)",
       "subtitle": "3. évad",
@@ -38,23 +21,6 @@
         "thumbnailUrl": "https://i.ytimg.com/vi/YdjP30Jvl3o/hqdefault.jpg",
         "durationInMinutes": 0,
         "releaseDate": 1661241208000,
-        "participants": []
-      }
-    },
-    {
-      "id": "71717235-2d20-4860-8c63-5da8f1aaacd7",
-      "title": "For all mankind (4-5. évad)",
-      "subtitle": "4-5. évad",
-      "timestampString": null,
-      "timestampInSeconds": 0,
-      "isSpoiler": false,
-      "content": {
-        "category": "EXPRESS",
-        "title": "Filmbarátok Expressz: For all mankind (4-5. évad)",
-        "youtubeId": "5OMhDpesNas",
-        "thumbnailUrl": "https://i.ytimg.com/vi/5OMhDpesNas/hqdefault.jpg",
-        "durationInMinutes": 0,
-        "releaseDate": 1783451706000,
         "participants": []
       }
     },
@@ -85,7 +51,7 @@
       }
     },
     {
-      "id": "f4aa0ebb-cf64-43bf-ae79-2cbfd48a8833",
+      "id": "a84fb6cc-8766-4380-ae24-db8790dab867",
       "title": "For all mankind (4-5. évad)",
       "subtitle": "4-5. évad",
       "timestampString": null,

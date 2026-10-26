@@ -8,37 +8,7 @@
   "releaseDate": "2026-02-11T00:00:00.000Z",
   "topics": [
     {
-      "id": "3de02f1e-171f-49d7-8b85-2bf8005b3bf3",
-      "title": "A bűn útja",
-      "subtitle": null,
-      "timestampString": "02:13:14",
-      "timestampInSeconds": 7994,
-      "isSpoiler": false,
-      "content": {
-        "category": "PODCAST",
-        "title": "Filmbarátok Podcast #321",
-        "youtubeId": "ASzT3k0iUdk",
-        "thumbnailUrl": "https://i.ytimg.com/vi/ASzT3k0iUdk/hqdefault.jpg",
-        "durationInMinutes": 176,
-        "releaseDate": 1772128964000,
-        "participants": [
-          {
-            "id": "0ffaf951-cbfb-48f3-adca-d73b5c91cf10",
-            "name": "Gábor"
-          },
-          {
-            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
-            "name": "Sorter"
-          },
-          {
-            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
-            "name": "Gergő"
-          }
-        ]
-      }
-    },
-    {
-      "id": "beb5fd10-29f4-4d06-9e54-b8c0ed9d226f",
+      "id": "f3b6bab5-af84-4ba3-8ebf-b531f14e675c",
       "title": "A bűn útja",
       "subtitle": null,
       "timestampString": "02:13:14",
