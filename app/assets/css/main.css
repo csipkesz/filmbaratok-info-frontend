@@ -11,6 +11,19 @@
     --color-marquee-soft: #f6cd7c;
     --color-fog: #9aa2b1;
     --color-paper: #f5f1e8;
+
+    --font-poster: "Anton", Impact, sans-serif;
+    --font-text: "Barlow", system-ui, sans-serif;
+
+    --color-teka: #16110d;
+    --color-shelf: #5b3b24;
+    --color-spoiler: #e63946;
+    --color-highlight: #ff8c42;
+}
+
+.theme-teka {
+    --ui-primary: #ffd23f;
+    --ui-radius: 0.25rem;
 }
 
 .marquee-glow {

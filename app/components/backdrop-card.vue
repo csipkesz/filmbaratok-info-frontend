@@ -1,0 +1,21 @@
+<template>
+  <button class="group relative isolate flex min-h-96 flex-col justify-end overflow-hidden border-4 border-black p-6 text-left cursor-pointer">
+    <img
+        v-if="image"
+        :src="image"
+        alt=""
+        class="absolute inset-0 -z-10 h-full w-full object-cover opacity-50 transition-transform duration-500 group-hover:scale-105"
+    />
+    <span class="absolute inset-0 -z-10 bg-gradient-to-t from-teka via-teka/70 to-transparent"/>
+    <slot/>
+  </button>
+</template>
+
+<script setup lang="ts">
+defineProps({
+  image: {
+    type: String as PropType<string | null>,
+    default: null,
+  },
+})
+</script>

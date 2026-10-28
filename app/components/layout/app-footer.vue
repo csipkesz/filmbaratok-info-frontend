@@ -1,53 +1,52 @@
 <template>
-  <footer class="border-t border-white/10 bg-ink-soft/60 backdrop-blur">
-    <div class="mx-auto max-w-6xl px-6 py-12 space-y-10">
+  <footer class="border-t-4 border-shelf">
+    <div class="mx-auto max-w-6xl space-y-10 px-4 py-12 sm:px-6">
 
-      <div class="flex flex-col md:flex-row md:items-start justify-between gap-8">
+      <div class="flex flex-col justify-between gap-8 md:flex-row md:items-start">
 
-        <!-- Projekt info -->
-        <div class="space-y-3 max-w-sm">
-          <p class="font-display text-xl italic text-marquee font-bold">Filmbarátok Info</p>
-          <p class="font-body text-sm text-fog leading-relaxed">
+        <!-- Project info -->
+        <div class="max-w-sm space-y-3">
+          <AppLogo/>
+          <p class="text-stone-300">
             Kibeszélt filmek, sorozatok és adások kereshető rajongói archívuma.
           </p>
-          <p class="text-xs text-fog/70">
+          <p class="text-sm text-stone-500">
             Ez egy független rajongói hobbi projekt. Nem áll hivatalos kapcsolatban a Filmbarátok Podcast készítőivel.
           </p>
         </div>
 
-        <!-- Linkek és platformok -->
-        <div class="flex flex-wrap gap-10">
-          <!-- Navigációs linkek -->
+        <!-- Links and platforms -->
+        <div class="flex flex-wrap gap-12">
+          <!-- Navigation links -->
           <div class="space-y-3">
-            <p class="font-body text-xs font-bold uppercase tracking-widest text-paper">Oldalak</p>
-            <ul class="space-y-2 text-sm text-fog">
+            <p class="font-poster uppercase tracking-wider text-primary">Oldalak</p>
+            <ul class="space-y-2 text-stone-300">
               <li>
-                <NuxtLink to="/" class="hover:text-marquee transition-colors">Főoldal</NuxtLink>
+                <ULink to="/" class="text-stone-300 hover:text-primary">Főoldal</ULink>
               </li>
               <li>
-                <NuxtLink to="/media" class="hover:text-marquee transition-colors">Összes film és sorozat</NuxtLink>
+                <ULink to="/media" class="text-stone-300 hover:text-primary">Összes film és sorozat</ULink>
               </li>
               <li>
-                <NuxtLink to="/rolunk" class="hover:text-marquee transition-colors">Az oldalról</NuxtLink>
+                <ULink to="/rolunk" class="text-stone-300 hover:text-primary">Az oldalról</ULink>
               </li>
             </ul>
           </div>
 
           <!-- Platforms -->
           <div class="space-y-3">
-            <p class="font-body text-xs font-bold uppercase tracking-widest text-paper">Filmbarátok Platformok</p>
-            <div class="flex flex-col space-y-2 text-sm text-fog">
-              <a
+            <p class="font-poster uppercase tracking-wider text-primary">Filmbarátok platformok</p>
+            <div class="flex flex-col space-y-2">
+              <ULink
                   v-for="platform in platforms"
                   :key="platform.title"
-                  :href="platform.link"
+                  :to="platform.link"
                   target="_blank"
-                  rel="noopener"
-                  class="flex items-center gap-2 hover:text-paper transition-colors"
+                  class="flex items-center gap-2 text-stone-300 hover:text-primary"
               >
                 <UIcon :name="platform.icon" class="size-4"/>
                 <span>{{ platform.title }}</span>
-              </a>
+              </ULink>
             </div>
           </div>
         </div>
@@ -55,20 +54,19 @@
       </div>
 
       <!-- TMDB -->
-      <div
-          class="pt-8 border-t border-white/5 flex flex-col sm:flex-row items-center justify-between gap-6 text-xs text-fog/70">
+      <div class="flex flex-col items-center justify-between gap-6 border-t border-stone-800 pt-8 text-xs text-stone-500 sm:flex-row">
         <div class="flex items-center gap-3">
           <img src="/tmdb.svg" alt="TMDB Logo" class="size-24 shrink-0"/>
-          <p class="text-[11px] leading-tight max-w-md">
+          <p class="max-w-md leading-tight">
             Movie and TV Show data is provided by TMDB API.
           </p>
         </div>
 
-        <div class="text-center sm:text-right text-[11px] space-y-1">
+        <div class="space-y-1 text-center sm:text-right">
           <p v-if="lastUpdatedAt">Utolsó frissítés: {{ lastUpdatedAt }}</p>
           <p>
-            {{ new Date().getFullYear() }} Filmbarátok Info - Hobbi Projekt by <a target="_blank"
-                                                                                  href="https://github.com/csipkesz">csipkesz</a>
+            {{ new Date().getFullYear() }} Filmbarátok Info - Hobbi Projekt by
+            <ULink to="https://github.com/csipkesz" target="_blank" class="text-stone-400 hover:text-primary">csipkesz</ULink>
           </p>
         </div>
       </div>
@@ -78,6 +76,8 @@
 </template>
 
 <script setup lang="ts">
+import AppLogo from "~/components/layout/app-logo.vue";
+
 const jsonRepo = useJsonRepo()
 const lastUpdatedAt = ref<string | null>(null)
 

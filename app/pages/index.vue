@@ -5,13 +5,14 @@ import LandingRandomMediaGrid from "~/components/landing-random-media-grid.vue";
 import LandingDailyMediaCommentar from "~/components/landing-daily-media-commentar.vue";
 import LandingDailyMedia from "~/components/landing-daily-media.vue";
 import LandingDailyContent from "~/components/landing-daily-content.vue";
+import LandingLatestEpisode from "~/components/landing-latest-episode.vue";
 import SearchResultGrid from "~/components/search-result-grid.vue";
 import type {MediaIndexItem} from "~/models/indexes/media-index-item.ts";
 import type {ContentIndexItem} from "~/models/indexes/content-index-item.ts";
 import {useJsonRepo} from "~/composables/use-json-repo.ts";
 
 useHead({
-  title: 'Filmbarátok Info',
+  title: 'Filmbarátok Téka',
   meta: [
     {
       name: 'description',
@@ -27,7 +28,7 @@ const jsonRepo = useJsonRepo();
 // Local reactive search query state (NO router synchronization)
 const searchQuery = ref('')
 
-// Keresési állapot detektálása
+// Detect search state
 const isSearching = computed(() => searchQuery.value.trim().length > 0)
 
 onMounted(async () => {
@@ -37,11 +38,11 @@ onMounted(async () => {
 </script>
 
 <template>
-  <div class="bg-ink min-h-screen text-paper">
+  <div>
     <LandingHero v-model:search-query="searchQuery"/>
 
     <!-- DYNAMIC SEARCH STATE SWITCH -->
-    <main class="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8">
+    <div class="mx-auto max-w-6xl px-4 pb-12 sm:px-6">
 
       <SearchResultGrid
           v-if="isSearching"
@@ -55,14 +56,16 @@ onMounted(async () => {
 
         <LandingDailyMediaCommentar :index-medias="indexMedias"/>
 
-        <section class="py-8 pb-16">
-          <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+        <section class="py-8">
+          <div class="grid gap-6 md:grid-cols-2">
             <LandingDailyMedia :index-medias="indexMedias"/>
             <LandingDailyContent :index-contents="indexContents"/>
           </div>
         </section>
+
+        <LandingLatestEpisode :index-medias="indexMedias" :index-contents="indexContents"/>
       </template>
 
-    </main>
+    </div>
   </div>
 </template>
