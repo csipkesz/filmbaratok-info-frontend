@@ -12,7 +12,11 @@ export default defineNuxtConfig({
         baseURL: '/filmbaratok-info-frontend/',
         head: {
             htmlAttrs: {class: 'dark theme-teka font-text'},
+            meta: [{name: 'theme-color', content: '#16110d'}],
             link: [
+                {rel: 'icon', type: 'image/svg+xml', href: '/filmbaratok-info-frontend/favicon.svg'},
+                {rel: 'icon', href: '/filmbaratok-info-frontend/favicon.ico', sizes: '32x32'},
+                {rel: 'apple-touch-icon', href: '/filmbaratok-info-frontend/apple-touch-icon.png'},
                 {rel: 'preconnect', href: 'https://fonts.googleapis.com'},
                 {rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: ''},
                 {
