@@ -1,54 +1,40 @@
 <template>
   <div class="space-y-6 py-4">
-    <!-- Search Results Header -->
-    <div class="flex items-center justify-between border-b border-white/10 pb-4">
+    <!-- Search results header -->
+    <div class="flex flex-wrap items-end justify-between gap-4">
       <div>
-        <h2 class="font-display text-xl sm:text-2xl font-bold text-paper flex items-center gap-2">
-          <span>Keresési találatok</span>
-          <span class="text-sm font-mono font-normal text-fog/70">
-            ("{{ searchQuery }}")
-          </span>
-        </h2>
-        <p class="text-xs text-fog/70 mt-1">
-          Összesen
-          <span class="font-semibold text-paper">{{ allSearchResults.length }}</span>
-          találat
+        <h2 class="font-poster text-3xl uppercase">Találatok</h2>
+        <p class="text-stone-400">
+          <span class="font-semibold text-stone-100">{{ allSearchResults.length }}</span>
+          találat erre: „{{ searchQuery }}”
         </p>
       </div>
 
-      <button
+      <UButton
+          variant="ghost"
+          color="neutral"
+          icon="i-lucide-x"
+          label="Keresés törlése"
           @click="$emit('clear')"
-          class="inline-flex items-center gap-1.5 rounded-lg border border-white/10 bg-white/5 px-3 py-1.5 text-xs font-medium text-fog hover:text-paper hover:bg-white/10 transition-colors"
-      >
-        <UIcon name="i-lucide-x" class="w-3.5 h-3.5"/>
-        <span>Keresés törlése</span>
-      </button>
+      />
     </div>
 
-    <!-- 1. EMPTY STATE (No results found) -->
+    <!-- 1. EMPTY STATE (no results) -->
     <div
         v-if="allSearchResults.length === 0"
-        class="flex flex-col items-center justify-center py-16 text-center rounded-2xl bg-ink-soft/40 border border-white/5"
+        class="flex flex-col items-center justify-center border-4 border-dashed border-stone-700 py-16 text-center"
     >
-      <div
-          class="w-12 h-12 rounded-full bg-white/5 border border-white/10 flex items-center justify-center text-fog/40 mb-3">
-        <UIcon name="i-lucide-search-x" class="w-6 h-6"/>
-      </div>
-      <h3 class="font-display text-lg font-semibold text-paper">Sajnos nincs találat</h3>
-      <p class="text-xs text-fog max-w-sm mt-1 mb-4">
+      <UIcon name="i-lucide-search-x" class="mb-3 size-10 text-stone-500"/>
+      <h3 class="font-poster text-2xl uppercase">Sajnos nincs találat</h3>
+      <p class="mt-1 mb-4 max-w-sm text-stone-400">
         Próbálj meg más kulcsszóra keresni, vagy ellenőrizd az eredeti (angol) címet.
       </p>
-      <button
-          @click="$emit('clear')"
-          class="inline-flex items-center gap-2 rounded-xl bg-white/10 hover:bg-white/15 px-4 py-2 text-xs font-semibold text-paper transition-all"
-      >
-        <span>Mutasd az összes tartalmat</span>
-      </button>
+      <UButton label="Mutasd az összes tartalmat" @click="$emit('clear')"/>
     </div>
 
-    <!-- 2. GRID RESULTS (Matching reference card styling) -->
+    <!-- 2. RESULT GRID -->
     <div v-else class="space-y-8">
-      <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-3 sm:gap-4">
+      <div class="grid grid-cols-2 gap-x-4 gap-y-6 sm:grid-cols-4 lg:grid-cols-6">
         <MediaCard
             v-for="media in displayedResults"
             :key="media.id"
@@ -62,11 +48,11 @@
           ref="loadMoreTrigger"
           class="flex items-center justify-center py-6"
       >
-        <div v-if="hasMore" class="flex items-center gap-2 text-xs font-mono text-fog/70">
-          <UIcon name="i-lucide-loader-2" class="w-4 h-4 animate-spin text-marquee"/>
+        <div v-if="hasMore" class="flex items-center gap-2 text-sm text-stone-400">
+          <UIcon name="i-lucide-loader-2" class="size-4 animate-spin text-primary"/>
           <span>További találatok betöltése...</span>
         </div>
-        <p v-else-if="allSearchResults.length > PAGE_SIZE" class="text-xs font-mono text-fog/50">
+        <p v-else-if="allSearchResults.length > PAGE_SIZE" class="text-sm text-stone-500">
           Minden találatot megjelenítettünk.
         </p>
       </div>
@@ -85,7 +71,7 @@ import MediaCard from '~/components/media-card.vue'
 import MediaContentModal from '~/components/media-content-modal.vue'
 import {getYouTubeUrl} from "~/utils/get-youtube-url.ts";
 
-const PAGE_SIZE = 20
+const PAGE_SIZE = 24
 
 const props = defineProps({
   searchQuery: {

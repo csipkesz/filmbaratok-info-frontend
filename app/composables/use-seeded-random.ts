@@ -1,7 +1,7 @@
 export const useSeededRandom = () => {
     /**
-     * Determinisztikus PRNG algoritmus (Mulberry32)
-     * 0 és 1 közötti lebegőpontos számot ad vissza a seed alapján.
+     * Deterministic PRNG algorithm (Mulberry32)
+     * Returns a floating point number between 0 and 1 based on the seed.
      */
     function seededRandom(seed: number): number {
         let t = (seed += 0x6d2b79f5)
@@ -11,7 +11,7 @@ export const useSeededRandom = () => {
     }
 
     /**
-     * Kiszámolja a mai (vagy a megadott) dátum alapján a numerikus seed-et (pl. 20260807)
+     * Calculates the numeric seed from today's (or the given) date (e.g. 20260807)
      */
     function getDateSeed(date: Date = new Date()): number {
         const year = date.getFullYear()
@@ -21,11 +21,11 @@ export const useSeededRandom = () => {
     }
 
     /**
-     * A mai dátum alapján ad vissza egy egész számot 0 és (max - 1) között.
-     * Ideális tömb indexek kisorsolásához (pl. getDailyIndex(medias.length)).
+     * Returns an integer between 0 and (max - 1) based on today's date.
+     * Ideal for picking array indexes (e.g. getDailyIndex(medias.length)).
      *
-     * @param max - A felső határ (exkluzív)
-     * @param customDate - Opcionális dátum, ha nem a mai napot szeretnéd használni
+     * @param max - The upper bound (exclusive)
+     * @param customDate - Optional date, if you don't want to use today
      */
     function getDailyIndex(max: number, customDate?: Date): number {
         if (max <= 0) return 0
@@ -34,10 +34,10 @@ export const useSeededRandom = () => {
     }
 
     /**
-     * A mai dátum alapján választ ki egy elemet egy tömbből.
+     * Picks one item from an array based on today's date.
      *
-     * @param array - A forrástömb
-     * @param customDate - Opcionális dátum
+     * @param array - The source array
+     * @param customDate - Optional date
      */
     function getDailyItem<T>(array: T[], customDate?: Date): T | null {
         if (!array || array.length === 0) return null
@@ -45,10 +45,25 @@ export const useSeededRandom = () => {
         return array[index] ?? null
     }
 
+    /**
+     * Shuffles the array based on today's date, so everyone sees the same order on a given day.
+     *
+     * @param array - The source array
+     * @param salt - Mixed into the seed, so different shuffles can come out on the same day
+     */
+    function getDailyShuffle<T>(array: T[], salt: number = 0): T[] {
+        const seed = getDateSeed() ^ Math.imul(salt, 0x9e3779b9)
+        return array
+            .map((item, i) => ({item, key: seededRandom(seed + i * 7919)}))
+            .sort((a, b) => a.key - b.key)
+            .map(x => x.item)
+    }
+
     return {
         seededRandom,
         getDateSeed,
         getDailyIndex,
         getDailyItem,
+        getDailyShuffle,
     }
 }

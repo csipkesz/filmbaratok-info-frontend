@@ -1,5 +1,5 @@
 <template>
-  <div class="flex min-h-screen flex-col bg-ink">
+  <div class="flex min-h-screen flex-col bg-teka font-text text-stone-100">
     <AppNavbar/>
     <main class="flex-1">
       <slot/>

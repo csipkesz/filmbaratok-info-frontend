@@ -1,55 +1,68 @@
 <template>
-  <section class="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
-    <div class="flex items-center justify-between mb-6">
+  <section class="py-8">
+    <div class="mb-6 flex flex-wrap items-end justify-between gap-4">
       <div>
-        <h2 class="font-display text-2xl sm:text-3xl font-bold tracking-tight text-paper">
+        <h2 class="font-poster text-3xl uppercase sm:text-4xl">
           Erről is beszéltek a srácok
         </h2>
-        <p class="text-sm text-fog mt-1">
+        <p class="text-stone-400">
           Néhány érdekesség a több száz átbeszélt film és sorozat közül
         </p>
       </div>
 
-      <NuxtLink
-          to="/media"
-          class="hidden sm:flex items-center gap-1 text-sm font-medium text-marquee hover:underline"
-      >
-        Összes böngészése
-        <UIcon name="i-lucide-chevron-right" class="w-4 h-4"/>
-      </NuxtLink>
+      <UButton to="/media" variant="link" trailing-icon="i-lucide-arrow-right" label="Összes film"/>
     </div>
 
-    <UScrollArea
-        v-if="medias.length > 0"
-        v-slot="{ item: media }"
-        :items="medias"
-        orientation="horizontal"
-        class="w-full"
-        :ui="{ viewport: 'flex gap-2 sm:gap-3 pb-2' }"
-    >
-      <div class="w-40 sm:w-48 shrink-0">
-        <MediaCard :media="media" @select="handleMediaSelect"/>
-      </div>
-    </UScrollArea>
+    <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6">
+      <template v-if="medias.length > 0">
+        <button
+            v-for="(media, index) in medias"
+            :key="media.id"
+            class="group flex-col text-left cursor-pointer"
+            :class="shelfVisibility(index)"
+            @click="handleMediaSelect(media)"
+        >
+          <div class="relative mx-2 mt-4 transform-gpu transition-transform duration-200 group-hover:-translate-y-2">
+            <img
+                :src="`${TMDB_POSTER_BASE}${media.posterPath}`"
+                :alt="media.title"
+                class="aspect-[2/3] w-full border-4 border-black object-cover shadow-[0_8px_16px_rgba(0,0,0,0.6)]"
+                loading="lazy"
+            />
+            <PosterStickers :media="media"/>
+            <span class="absolute bottom-3 right-3 bg-black/80 px-2 py-0.5 text-xs font-semibold">
+              {{ media.contents.length }} alkalom
+            </span>
+          </div>
+          <!-- The shelf board -->
+          <div class="h-3 border-b-4 border-black/40 bg-shelf"/>
+          <p class="px-2 pt-3 pb-2">
+            <span class="line-clamp-2 font-semibold leading-tight group-hover:text-primary">{{ media.title }}</span>
+            <span v-if="media.originalTitle" class="line-clamp-1 text-sm italic text-stone-400">{{ media.originalTitle }}</span>
+          </p>
+        </button>
+      </template>
 
-    <!-- SKELETON BETÖLTÉSI ÁLLAPOT (6 KÁRTYA) -->
-    <div v-else class="flex gap-2 sm:gap-3 overflow-hidden pb-2">
-      <div
-          v-for="i in 6"
-          :key="i"
-          class="flex w-40 sm:w-48 shrink-0 flex-col overflow-hidden rounded-xl bg-ink-soft/40 border border-white/5"
-      >
-        <!-- Poszter skeleton (2:3 képarány) -->
-        <USkeleton class="aspect-[2/3] w-full rounded-none bg-white/10 shrink-0"/>
-
-        <!-- Szöveg blokk skeleton -->
-        <div class="p-3 flex flex-col justify-start min-h-[4.25rem] space-y-2">
-          <!-- Cím skeleton -->
-          <USkeleton class="h-4 w-5/6 rounded bg-white/10"/>
-          <!-- Eredeti cím skeleton -->
-          <USkeleton class="h-3 w-1/2 rounded bg-white/10"/>
+      <!-- SKELETON LOADING STATE -->
+      <template v-else>
+        <div
+            v-for="i in 6"
+            :key="i"
+            class="flex-col"
+            :class="shelfVisibility(i - 1)"
+        >
+          <!-- Poster skeleton (2:3 aspect ratio) -->
+          <div class="mx-2 mt-4">
+            <USkeleton class="aspect-[2/3] w-full rounded-none bg-white/10"/>
+          </div>
+          <div class="h-3 border-b-4 border-black/40 bg-shelf"/>
+          <!-- Title and original title skeleton -->
+          <div class="space-y-2 px-2 pt-3 pb-2">
+            <USkeleton class="h-4 w-5/6 rounded-none bg-white/10"/>
+            <USkeleton class="h-3 w-1/2 rounded-none bg-white/10"/>
+          </div>
         </div>
-      </div>
+      </template>
     </div>
 
     <MediaContentModal v-model="isModalOpen" :media="selectedMedia"/>
@@ -60,9 +73,11 @@
 import {computed, ref} from 'vue'
 import type {MediaIndexItem} from '~/models/indexes/media-index-item.ts'
 import {FilmbaratokCategory} from '~/models/enums.ts'
-import MediaCard from '~/components/media-card.vue'
+import PosterStickers from "~/components/poster-stickers.vue";
 import MediaContentModal from '~/components/media-content-modal.vue'
 import {getYouTubeUrl} from "~/utils/get-youtube-url.ts";
+
+const TMDB_POSTER_BASE = 'https://image.tmdb.org/t/p/w342'
 
 const props = defineProps({
   indexMedias: {
@@ -81,16 +96,23 @@ const medias = computed<MediaIndexItem[]>(() => {
   }
 
   const relevantMedias = props.indexMedias.filter(media =>
-      media.contents?.some(content =>
+      media.posterPath && media.contents?.some(content =>
           content.category === FilmbaratokCategory.PODCAST ||
           content.category === FilmbaratokCategory.EXPRESS
       )
   )
 
   const numberOfMedia = 10;
-  const dailyRandomIndex = Math.max(seededRandom.getDailyIndex(relevantMedias.length) - numberOfMedia, 0)
-  return [...relevantMedias].slice(dailyRandomIndex, dailyRandomIndex + numberOfMedia)
+  return seededRandom.getDailyShuffle(relevantMedias).slice(0, numberOfMedia)
 })
+
+// Show exactly as many films as fit in one row (two rows on phones), so the shelf never scrolls
+function shelfVisibility(index: number) {
+  if (index < 3) return 'flex'
+  if (index === 3) return 'flex sm:hidden md:flex'
+  if (index < 6) return 'hidden lg:flex'
+  return 'hidden'
+}
 
 function handleMediaSelect(media: MediaIndexItem) {
   if (!media.contents || media.contents.length === 0) {

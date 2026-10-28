@@ -1,42 +1,42 @@
 <template>
-  <section
-      class="relative isolate flex min-h-[38vh] sm:min-h-[42vh] items-center justify-center overflow-hidden bg-ink border-b border-white/5"
-  >
-    <div class="absolute inset-0">
+  <!-- Pulled up under the navbar, so the backdrop starts at the top of the page -->
+  <section class="relative isolate -mt-16 overflow-hidden pt-16">
+    <div class="absolute inset-0 -z-10">
       <img
           v-if="heroBackdrop"
           :src="heroBackdrop"
           alt=""
-          class="h-full w-full object-cover object-top opacity-55 transition-opacity duration-1000 motion-reduce:transition-none"
+          class="h-full w-full object-cover object-[center_35%] opacity-40 transition-opacity duration-1000 motion-reduce:transition-none"
       />
-      <div class="absolute inset-0 bg-gradient-to-t from-ink via-ink/80 to-ink/40"/>
-      <div class="absolute inset-0 bg-gradient-to-r from-ink via-transparent to-ink"/>
+      <!-- Fades out only near the bottom, so the image stays visible behind the title -->
+      <div class="absolute inset-0 bg-gradient-to-t from-teka from-5% via-teka/40 via-45% to-teka/20"/>
     </div>
 
-    <div
-        class="relative z-10 mx-auto flex max-w-5xl w-full flex-col px-4 text-center items-center select-none pt-8 pb-6 sm:pt-10 sm:pb-8">
-      <h1 class="font-display text-4xl leading-tight text-paper sm:text-5xl md:text-6xl">
-        Szia, <span class="marquee-glow italic text-marquee">Filmbarát!</span>
+    <div class="mx-auto flex max-w-6xl flex-col gap-4 px-4 pt-28 pb-20 sm:px-6 sm:pt-36 sm:pb-28">
+      <h1 class="font-poster text-6xl uppercase leading-none sm:text-8xl">
+        Szia, <span class="text-highlight">Filmbarát!</span>
       </h1>
 
-      <p class="mt-3 max-w-lg font-body text-base text-fog sm:text-lg">
+      <p class="max-w-lg text-xl text-stone-300">
         Fedezd fel az eddig kibeszélt filmeket, sorozatokat.
       </p>
 
-      <form class="mt-6 flex w-full max-w-2xl items-center" @submit.prevent>
+      <form class="w-full max-w-xl" @submit.prevent>
         <UInput
             v-model="inputQuery"
             size="xl"
             placeholder="Film, sorozat, vagy podcast szereplő..."
             icon="i-lucide-search"
-            class="w-full [&_input]:rounded-full [&_input]:bg-ink-soft/80 [&_input]:backdrop-blur-md [&_input]:border-white/10 [&_input]:text-paper [&_input]:placeholder-fog [&_input]:py-3.5"
+            class="w-full"
+            :ui="{ base: 'bg-black/50' }"
         >
           <template v-if="inputQuery.length" #trailing>
             <UButton
-                size="md"
-                color="warning"
-                class="shrink-0 rounded-full px-6 font-body font-medium cursor-pointer"
-                icon="i-lsicon-clear-filled"
+                size="sm"
+                color="neutral"
+                variant="link"
+                icon="i-lucide-x"
+                aria-label="Keresés törlése"
                 @click="resetQuery"
             />
           </template>
@@ -81,10 +81,5 @@ onMounted(async () => {
 
   const randomIndex = Math.floor(Math.random() * backdrops.length)
   heroBackdrop.value = `${TMDB_BACKDROP_BASE}${backdrops[randomIndex]}`
-
 })
 </script>
-
-<style scoped>
-
-</style>
