@@ -8,7 +8,7 @@
             v-if="dailyCommentaryMedia.posterPath"
             :src="`${TMDB_POSTER_BASE}${dailyCommentaryMedia.posterPath}`"
             :alt="dailyCommentaryMedia.title"
-            class="w-full border-4 border-black shadow-2xl"
+            class="aspect-[2/3] w-full border-4 border-black object-cover shadow-2xl"
         />
         <span class="absolute -right-6 -top-4 rotate-12 bg-primary px-3 py-2 font-poster uppercase leading-none text-black shadow-lg">
           Mai<br>ajánló

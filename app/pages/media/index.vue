@@ -12,7 +12,7 @@
 
     <div class="grid gap-8 lg:grid-cols-[16rem_1fr]">
       <!-- SIDEBAR: categories as video store shelf signs -->
-      <aside class="space-y-6 self-start lg:sticky lg:top-22">
+      <aside class="min-w-0 space-y-6 self-start lg:sticky lg:top-22">
         <UInput
             v-model="searchQuery"
             placeholder="Gyorskeresés a listában..."
@@ -23,21 +23,25 @@
 
         <div>
           <p class="mb-2 font-poster uppercase tracking-wider text-primary">Polcok</p>
-          <button
-              v-for="cat in categoryFilters"
-              :key="cat.value"
-              class="flex w-full items-baseline justify-between border-b-4 border-shelf py-2 text-left font-poster text-2xl uppercase transition-colors hover:text-primary"
-              :class="selectedCategory === cat.value ? 'text-primary' : 'text-stone-300'"
-              @click="selectedCategory = cat.value"
-          >
-            <span>{{ cat.label }}</span>
-            <span v-if="!isLoading" class="font-text text-sm text-stone-500">{{ categoryCounts[cat.value] }}</span>
-          </button>
+          <!-- Scrolls horizontally on mobile, so the list starts above the fold -->
+          <div class="-mx-4 flex gap-5 overflow-x-auto px-4 sm:-mx-6 sm:px-6 lg:mx-0 lg:block lg:px-0">
+            <button
+                v-for="cat in categoryFilters"
+                :key="cat.value"
+                class="flex shrink-0 items-baseline justify-between gap-2 border-b-4 border-shelf py-2 text-left font-poster text-xl uppercase transition-colors hover:text-primary lg:w-full lg:text-2xl"
+                :class="selectedCategory === cat.value ? 'text-primary' : 'text-stone-300'"
+                @click="selectedCategory = cat.value"
+            >
+              <span>{{ cat.label }}</span>
+              <span v-if="!isLoading" class="font-text text-sm text-stone-500">{{ categoryCounts[cat.value] }}</span>
+            </button>
+          </div>
         </div>
 
         <div>
           <p class="mb-2 font-poster uppercase tracking-wider text-primary">Rendezés</p>
-          <URadioGroup v-model="sortBy" :items="sortOptions"/>
+          <USelect v-model="sortBy" :items="sortOptions" class="w-full lg:hidden"/>
+          <URadioGroup v-model="sortBy" :items="sortOptions" class="hidden lg:block"/>
         </div>
       </aside>
 

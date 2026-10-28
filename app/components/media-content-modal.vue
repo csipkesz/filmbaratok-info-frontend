@@ -30,7 +30,7 @@
               v-if="media.posterPath"
               :src="`${TMDB_POSTER_BASE}${media.posterPath}`"
               :alt="media.title"
-              class="w-28 shrink-0 border-4 border-black shadow-xl"
+              class="aspect-[2/3] w-28 shrink-0 border-4 border-black object-cover shadow-xl"
           />
           <div
               v-else
