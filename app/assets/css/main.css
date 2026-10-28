@@ -21,7 +21,8 @@
     --color-highlight: #ff8c42;
 }
 
-.theme-teka {
+/* Beats the :root and .dark defaults of Nuxt UI */
+:root.theme-teka {
     --ui-primary: #ffd23f;
     --ui-radius: 0.25rem;
 }
@@ -30,4 +31,10 @@
     text-shadow: 0 0 8px color-mix(in srgb, var(--color-marquee) 70%, transparent),
     0 0 24px color-mix(in srgb, var(--color-marquee) 45%, transparent),
     0 0 56px color-mix(in srgb, var(--color-marquee) 25%, transparent);
+}
+
+/* Tailwind resets the cursor on buttons, every clickable element should show the pointer */
+button:not(:disabled),
+[role="button"]:not([aria-disabled="true"]) {
+    cursor: pointer;
 }

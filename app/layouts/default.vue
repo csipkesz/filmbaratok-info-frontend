@@ -1,5 +1,5 @@
 <template>
-  <div class="theme-teka dark flex min-h-screen flex-col bg-teka font-text text-stone-100">
+  <div class="flex min-h-screen flex-col bg-teka font-text text-stone-100">
     <AppNavbar/>
     <main class="flex-1">
       <slot/>

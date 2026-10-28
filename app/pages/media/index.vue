@@ -1,102 +1,97 @@
 <template>
-  <div class="bg-ink min-h-screen text-paper py-10">
-    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 space-y-8">
+  <div class="mx-auto max-w-6xl space-y-8 px-4 pt-12 pb-16 sm:px-6">
 
-      <div class="space-y-3">
-        <h1 class="font-display text-3xl sm:text-5xl font-bold tracking-tight text-paper">
-          Kibeszélt filmek és sorozatok
-        </h1>
-        <p class="font-body text-base text-fog max-w-2xl">
-          Böngészd az összes eddig elhangzott filmet, sorozatot a Filmbarátok adásaiból.
-        </p>
-      </div>
+    <div class="space-y-2">
+      <h1 class="font-poster text-5xl uppercase leading-none sm:text-6xl">
+        Kibeszélt filmek és sorozatok
+      </h1>
+      <p class="max-w-2xl text-lg text-stone-300">
+        Böngészd az összes eddig elhangzott filmet, sorozatot a Filmbarátok adásaiból.
+      </p>
+    </div>
 
-      <div
-          class="flex flex-col md:flex-row gap-4 justify-between items-stretch md:items-center bg-ink-soft/60 p-4 rounded-2xl border border-white/10 backdrop-blur-md">
-        <div class="w-full md:w-80">
-          <UInput
-              v-model="searchQuery"
-              size="md"
-              placeholder="Gyorskeresés a listában..."
-              icon="i-lucide-search"
-              class="w-full [&_input]:rounded-xl [&_input]:bg-ink/80 [&_input]:border-white/10 [&_input]:text-paper [&_input]:placeholder-fog/60"
-          />
-        </div>
+    <div class="grid gap-8 lg:grid-cols-[16rem_1fr]">
+      <!-- SIDEBAR: categories as video store shelf signs -->
+      <aside class="space-y-6 self-start lg:sticky lg:top-22">
+        <UInput
+            v-model="searchQuery"
+            placeholder="Gyorskeresés a listában..."
+            icon="i-lucide-search"
+            class="w-full"
+            :ui="{ base: 'bg-black/50' }"
+        />
 
-        <div class="flex flex-wrap items-center gap-2 overflow-x-auto pb-1 md:pb-0">
+        <div>
+          <p class="mb-2 font-poster uppercase tracking-wider text-primary">Polcok</p>
           <button
               v-for="cat in categoryFilters"
               :key="cat.value"
+              class="flex w-full items-baseline justify-between border-b-4 border-shelf py-2 text-left font-poster text-2xl uppercase transition-colors hover:text-primary"
+              :class="selectedCategory === cat.value ? 'text-primary' : 'text-stone-300'"
               @click="selectedCategory = cat.value"
-              class="px-3 py-1.5 rounded-lg text-xs font-semibold transition-all duration-200 cursor-pointer"
-              :class="selectedCategory === cat.value
-                ? 'bg-marquee text-ink shadow-md font-bold'
-                : 'bg-white/5 text-fog hover:text-paper hover:bg-white/10 border border-white/5'"
           >
-            {{ cat.label }}
+            <span>{{ cat.label }}</span>
+            <span v-if="!isLoading" class="font-text text-sm text-stone-500">{{ categoryCounts[cat.value] }}</span>
           </button>
         </div>
 
-        <div class="flex items-center gap-2 shrink-0">
-          <span class="text-xs text-fog font-medium">Rendezés:</span>
-          <select
-              v-model="sortBy"
-              class="bg-ink/80 border border-white/10 text-paper text-xs rounded-xl px-3 py-2 outline-none focus:border-marquee transition-colors cursor-pointer"
-          >
-            <option value="title-asc">Cím szerint (A-Z)</option>
-            <option value="title-desc">Cím szerint (Z-A)</option>
-            <option value="contents-desc">Legtöbb alkalom</option>
-            <option value="contents-asc">Legkevesebb alkalom</option>
-          </select>
+        <div>
+          <p class="mb-2 font-poster uppercase tracking-wider text-primary">Rendezés</p>
+          <URadioGroup v-model="sortBy" :items="sortOptions"/>
         </div>
-      </div>
+      </aside>
 
-      <div v-if="filteredMedias.length > 0" class="space-y-8">
-        <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-3 sm:gap-4">
-          <MediaCard
-              v-for="media in displayedMedias"
-              :key="media.id"
-              :media="media"
-              @select="handleMediaSelect"
-          />
-        </div>
-
-        <!-- INFINITE SCROLL SENTINEL -->
-        <div ref="loadMoreTrigger" class="flex items-center justify-center py-6">
-          <div v-if="hasMore" class="flex items-center gap-2 text-xs font-mono text-fog/70">
-            <UIcon name="i-lucide-loader-2" class="w-4 h-4 animate-spin text-marquee"/>
-            <span>További filmek betöltése...</span>
-          </div>
-          <p v-else-if="filteredMedias.length > PAGE_SIZE" class="text-xs font-mono text-fog/50">
-            Minden filmet megjelenítettünk ({{ filteredMedias.length }} elem).
+      <div>
+        <div v-if="filteredMedias.length > 0" class="space-y-8">
+          <p class="text-stone-400">
+            <span class="font-semibold text-stone-100">{{ filteredMedias.length }}</span> film és sorozat ezen a polcon
           </p>
+
+          <div class="grid grid-cols-2 gap-x-4 gap-y-6 sm:grid-cols-3 md:grid-cols-4">
+            <MediaCard
+                v-for="media in displayedMedias"
+                :key="media.id"
+                :media="media"
+                @select="handleMediaSelect"
+            />
+          </div>
+
+          <!-- INFINITE SCROLL SENTINEL -->
+          <div ref="loadMoreTrigger" class="flex items-center justify-center py-6">
+            <div v-if="hasMore" class="flex items-center gap-2 text-sm text-stone-400">
+              <UIcon name="i-lucide-loader-2" class="size-4 animate-spin text-primary"/>
+              <span>További filmek betöltése...</span>
+            </div>
+            <p v-else-if="filteredMedias.length > PAGE_SIZE" class="text-sm text-stone-500">
+              Minden filmet megjelenítettünk ({{ filteredMedias.length }} elem).
+            </p>
+          </div>
         </div>
-      </div>
 
-      <div
-          v-else-if="!isLoading"
-          class="flex flex-col items-center justify-center py-20 text-center rounded-2xl bg-ink-soft/40 border border-white/5"
-      >
-        <UIcon name="i-lucide-film" class="w-12 h-12 text-fog/30 mb-3"/>
-        <h3 class="font-display text-xl font-semibold text-paper">Nincs a szűrésnek megfelelő tartalom</h3>
-        <p class="text-xs text-fog max-w-sm mt-1 mb-4">
-          Próbálj meg más kategóriát választani vagy töröld a keresési feltételt.
-        </p>
-        <button
-            @click="resetFilters"
-            class="px-4 py-2 rounded-xl bg-white/10 text-paper text-xs font-semibold hover:bg-white/20 transition-colors"
+        <!-- EMPTY STATE -->
+        <div
+            v-else-if="!isLoading"
+            class="flex flex-col items-center justify-center border-4 border-dashed border-stone-700 py-20 text-center"
         >
-          Szűrők alaphelyzetbe állítása
-        </button>
-      </div>
+          <UIcon name="i-lucide-film" class="mb-3 size-10 text-stone-500"/>
+          <h3 class="font-poster text-2xl uppercase">Nincs a szűrésnek megfelelő tartalom</h3>
+          <p class="mt-1 mb-4 max-w-sm text-stone-400">
+            Próbálj meg más polcot választani vagy töröld a keresési feltételt.
+          </p>
+          <UButton label="Szűrők alaphelyzetbe állítása" @click="resetFilters"/>
+        </div>
 
-      <div v-else class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-4">
-        <div v-for="i in 12" :key="i"
-             class="flex flex-col overflow-hidden rounded-xl bg-ink-soft/40 border border-white/5">
-          <USkeleton class="aspect-[2/3] w-full rounded-none bg-white/10"/>
-          <div class="p-3 space-y-2">
-            <USkeleton class="h-4 w-5/6 rounded bg-white/10"/>
-            <USkeleton class="h-3 w-1/2 rounded bg-white/10"/>
+        <!-- SKELETON LOADING STATE -->
+        <div v-else class="space-y-8">
+          <USkeleton class="h-6 w-56 rounded-none bg-white/10"/>
+          <div class="grid grid-cols-2 gap-x-4 gap-y-6 sm:grid-cols-3 md:grid-cols-4">
+            <div v-for="i in 12" :key="i" class="flex flex-col">
+              <USkeleton class="aspect-[2/3] w-full rounded-none bg-white/10"/>
+              <div class="space-y-2 pt-3">
+                <USkeleton class="h-4 w-5/6 rounded-none bg-white/10"/>
+                <USkeleton class="h-3 w-1/2 rounded-none bg-white/10"/>
+              </div>
+            </div>
           </div>
         </div>
       </div>
@@ -146,6 +141,21 @@ const categoryFilters = [
   // { label: 'Helyszíni', value: 'ON_SITE' },
   // { label: 'Játék', value: 'GAME' },
 ]
+
+const sortOptions = [
+  {label: 'Cím szerint (A-Z)', value: 'title-asc'},
+  {label: 'Cím szerint (Z-A)', value: 'title-desc'},
+  {label: 'Legtöbb alkalom', value: 'contents-desc'},
+  {label: 'Legkevesebb alkalom', value: 'contents-asc'},
+]
+
+// Number of titles on each shelf, shown next to the category name
+const categoryCounts = computed<Record<string, number>>(() => Object.fromEntries(categoryFilters.map(cat => [
+  cat.value,
+  cat.value === 'ALL'
+      ? allMedias.value.length
+      : allMedias.value.filter(m => m.contents?.some(c => c.category === cat.value)).length,
+])))
 
 onMounted(async () => {
   allMedias.value = await jsonRepo.fetchIndex('medias');
