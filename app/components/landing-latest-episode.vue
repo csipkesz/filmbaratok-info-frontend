@@ -12,7 +12,7 @@
           :image="latestEpisode.thumbnailUrl"
           letterboxed
           class="self-start lg:sticky lg:top-22"
-          @click="openYouTube(latestEpisode.youtubeId)"
+          :href="getYouTubeUrl(latestEpisode.youtubeId)"
       >
         <span class="font-poster text-4xl uppercase leading-none">{{ latestEpisode.title }}</span>
         <span v-if="formattedDate" class="mt-1 text-stone-300">{{ formattedDate }}</span>
@@ -22,11 +22,13 @@
 
       <!-- Films discussed in the episode -->
       <div class="grid grid-cols-3 content-start gap-3 sm:grid-cols-4">
-        <button
+        <a
             v-for="item in visibleMedias"
             :key="`${item.media.id}-${item.content.timestampInSeconds}`"
-            class="group text-left cursor-pointer"
-            @click="openYouTube(item.content.youtubeId, item.content.timestampInSeconds)"
+            :href="getYouTubeUrl(item.content.youtubeId, item.content.timestampInSeconds)"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="group text-left"
         >
           <span class="relative block">
             <img
@@ -46,7 +48,7 @@
           </span>
           <span class="mt-1 line-clamp-1 text-sm font-semibold group-hover:text-primary">{{ item.media.title }}</span>
           <span v-if="item.media.originalTitle" class="line-clamp-1 text-xs italic text-stone-400">{{ item.media.originalTitle }}</span>
-        </button>
+        </a>
 
         <!-- Expands the remaining topics -->
         <button
@@ -147,8 +149,4 @@ const formattedDate = computed(() => {
     day: 'numeric'
   });
 })
-
-function openYouTube(youtubeId: string, timestampInSeconds?: number) {
-  window.open(getYouTubeUrl(youtubeId, timestampInSeconds), '_blank', 'noopener,noreferrer')
-}
 </script>

@@ -1,5 +1,12 @@
 <template>
-  <button class="group relative isolate flex min-h-96 flex-col justify-end overflow-hidden border-4 border-black p-6 text-left cursor-pointer">
+  <!-- A real link when it points to YouTube, so middle click and "copy link" work -->
+  <component
+      :is="href ? 'a' : 'button'"
+      :href="href ?? undefined"
+      :target="href ? '_blank' : undefined"
+      :rel="href ? 'noopener noreferrer' : undefined"
+      class="group relative isolate flex min-h-96 flex-col justify-end overflow-hidden border-4 border-black p-6 text-left cursor-pointer"
+  >
     <img
         v-if="image"
         :src="image"
@@ -9,12 +16,16 @@
     />
     <span class="absolute inset-0 -z-10 bg-gradient-to-t from-teka via-teka/70 to-transparent"/>
     <slot/>
-  </button>
+  </component>
 </template>
 
 <script setup lang="ts">
 defineProps({
   image: {
+    type: String as PropType<string | null>,
+    default: null,
+  },
+  href: {
     type: String as PropType<string | null>,
     default: null,
   },

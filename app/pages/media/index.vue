@@ -114,7 +114,7 @@ import {getYouTubeUrl} from "~/utils/get-youtube-url.ts";
 import {FilmbaratokCategory} from "~/models/enums.ts";
 
 useHead({
-  title: 'Filmbarátok info - Kibeszélt tartalmak',
+  title: 'Összes film - Filmbarátok Téka',
   meta: [
     {
       name: 'description',

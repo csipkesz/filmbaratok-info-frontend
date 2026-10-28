@@ -6,7 +6,7 @@
         :image="dailyContent.thumbnailUrl"
         letterboxed
         class="h-full w-full"
-        @click="openContent"
+        :href="getYouTubeUrl(dailyContent.youtubeId)"
     >
       <span class="font-poster uppercase tracking-wider text-primary">A nap adása</span>
       <span class="line-clamp-2 min-h-[4.5rem] font-poster text-4xl uppercase leading-none">{{ dailyContent.title }}</span>
@@ -63,9 +63,4 @@ watch(() => props.indexContents, (newIndexContents) => {
   const podcasts = newIndexContents.filter(c => c.category === FilmbaratokCategory.PODCAST)
   dailyContent.value = seededRandom.getDailyItem(podcasts);
 }, {immediate: true})
-
-function openContent() {
-  if (!dailyContent.value) return
-  window.open(getYouTubeUrl(dailyContent.value.youtubeId), '_blank', 'noopener,noreferrer')
-}
 </script>

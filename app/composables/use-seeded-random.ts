@@ -49,10 +49,10 @@ export const useSeededRandom = () => {
      * Shuffles the array based on today's date, so everyone sees the same order on a given day.
      *
      * @param array - The source array
-     * @param salt - Offset, so different shuffles can come out on the same day
+     * @param salt - Mixed into the seed, so different shuffles can come out on the same day
      */
     function getDailyShuffle<T>(array: T[], salt: number = 0): T[] {
-        const seed = getDateSeed() + salt
+        const seed = getDateSeed() ^ Math.imul(salt, 0x9e3779b9)
         return array
             .map((item, i) => ({item, key: seededRandom(seed + i * 7919)}))
             .sort((a, b) => a.key - b.key)

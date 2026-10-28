@@ -10,6 +10,13 @@
             :alt="dailyCommentaryMedia.title"
             class="aspect-[2/3] w-full border-4 border-black object-cover shadow-2xl"
         />
+        <div
+            v-else
+            class="flex aspect-[2/3] w-full flex-col items-center justify-center border-4 border-black bg-stone-800 p-4 text-center shadow-2xl"
+        >
+          <UIcon name="i-lucide-film" class="mb-2 size-8 shrink-0 text-stone-500"/>
+          <span class="line-clamp-3 font-poster uppercase leading-snug">{{ dailyCommentaryMedia.title }}</span>
+        </div>
         <span class="absolute -right-6 -top-4 rotate-12 bg-primary px-3 py-2 font-poster uppercase leading-none text-black shadow-lg">
           Mai<br>ajánló
         </span>

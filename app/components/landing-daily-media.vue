@@ -7,7 +7,10 @@
         class="h-full w-full"
         @click="handleMediaSelect"
     >
-      <span class="font-poster uppercase tracking-wider text-primary">A nap filmje</span>
+      <span class="flex items-center gap-2">
+        <span class="font-poster uppercase tracking-wider text-primary">A nap filmje</span>
+        <span v-if="hasSpoiler" class="-rotate-2 bg-spoiler px-1.5 py-0.5 font-poster text-xs uppercase text-white">Spoiler</span>
+      </span>
       <!-- Room for two lines, so a long title doesn't push the label out of line with the card next to it -->
       <span class="line-clamp-2 min-h-[4.5rem] font-poster text-4xl uppercase leading-none">{{ dailyMedia.title }}</span>
       <span v-if="dailyMedia.originalTitle" class="italic text-stone-300">{{ dailyMedia.originalTitle }}</span>
@@ -32,7 +35,7 @@
 <script setup lang="ts">
 import type {MediaIndexItem} from "~/models/indexes/media-index-item.ts";
 import type {MediaDetail} from "~/models/media-detail.ts";
-import {ref} from "vue";
+import {computed, ref} from "vue";
 import BackdropCard from "~/components/backdrop-card.vue";
 import MediaContentModal from "~/components/media-content-modal.vue";
 import {getYouTubeUrl} from "~/utils/get-youtube-url.ts";
@@ -52,6 +55,9 @@ const jsonRepo = useJsonRepo()
 const dailyMedia = ref<MediaDetail | null>(null)
 const selectedMedia = ref<MediaIndexItem | null>(null)
 const isModalOpen = ref(false)
+
+// Same rule as the poster stickers, so the card warns before the modal or YouTube opens
+const hasSpoiler = computed(() => selectedMedia.value?.contents.some(c => c.isSpoiler) ?? false)
 
 watch(() => props.indexMedias, async (newIndexMedias) => {
   if (!newIndexMedias || newIndexMedias.length === 0) return;
