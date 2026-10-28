@@ -1,94 +1,95 @@
 <template>
-  <UModal v-model:open="isOpen" :title="media?.title || 'Adások listája'"
-          class="bg-ink rounded-2xl border border-white/10">
+  <UModal
+      v-model:open="isOpen"
+      :title="media?.title || 'Adások listája'"
+      :ui="{ content: 'max-w-2xl overflow-hidden rounded-none border-4 border-black bg-teka ring-0' }"
+  >
     <template #content>
-      <div v-if="media"
-           class="p-6 space-y-6  text-paper  max-w-2xl w-full mx-auto">
-        <div class="flex gap-4 items-start border-b border-white/10 pb-5">
-          <div class="w-20 h-28 shrink-0 rounded-lg overflow-hidden bg-ink-soft border border-white/10 shadow-md">
-            <img
-                v-if="media.posterPath"
-                :src="`${TMDB_POSTER_BASE}${media.posterPath}`"
-                :alt="media.title"
-                class="w-full h-full object-cover"
-            />
-            <div v-else class="w-full h-full flex items-center justify-center bg-white/5 text-fog/40">
-              <UIcon name="i-lucide-film" class="w-8 h-8"/>
-            </div>
-          </div>
-
-          <div class="flex-1 min-w-0">
-            <h3 class="font-display text-xl font-bold text-paper leading-tight">
-              {{ media.title }}
-            </h3>
-            <p v-if="media.originalTitle" class="text-xs text-fog italic mt-0.5">
-              {{ media.originalTitle }}
-            </p>
-            <p class="text-xs text-marquee mt-2 font-mono flex items-center gap-1">
-              <UIcon name="i-lucide-disc" class="w-3.5 h-3.5"/>
-              <span>{{ media.contents?.length || 0 }} alkalommal beszéltek róla</span>
-            </p>
-          </div>
-
-          <button
-              @click="isOpen = false"
-              class="rounded-lg p-1.5 text-fog hover:text-paper hover:bg-white/10 transition-colors"
+      <div v-if="media">
+        <!-- HEADER: faded backdrop with the poster and the short overview -->
+        <div class="relative h-36">
+          <img
+              v-if="media.backdropPath"
+              :src="`${TMDB_BACKDROP_BASE}${media.backdropPath}`"
+              alt=""
+              class="h-full w-full object-cover opacity-50"
+          />
+          <div class="absolute inset-0 bg-gradient-to-t from-teka to-transparent"/>
+          <UButton
+              icon="i-lucide-x"
+              color="neutral"
+              variant="ghost"
+              class="absolute right-3 top-3"
               aria-label="Bezárás"
-          >
-            <UIcon name="i-lucide-x" class="w-5 h-5"/>
-          </button>
+              @click="isOpen = false"
+          />
         </div>
 
-        <div class="space-y-3 max-h-[60vh] overflow-y-auto pr-1">
+        <div class="relative -mt-24 flex items-start gap-5 px-6">
+          <img
+              v-if="media.posterPath"
+              :src="`${TMDB_POSTER_BASE}${media.posterPath}`"
+              :alt="media.title"
+              class="w-28 shrink-0 border-4 border-black shadow-xl"
+          />
           <div
-              v-for="content in media.contents"
-              :key="content.id"
-              class="group flex flex-col sm:flex-row sm:items-center justify-between gap-4 p-4 rounded-xl bg-ink-soft/80 border border-white/5 hover:border-white/20 transition-all duration-200"
+              v-else
+              class="flex aspect-[2/3] w-28 shrink-0 items-center justify-center border-4 border-black bg-stone-800"
           >
-            <div class="space-y-2 flex-1 min-w-0">
-              <div class="flex items-center gap-2 flex-wrap">
-                <span
-                    class="rounded bg-white/10 px-2 py-0.5 text-[10px] font-mono font-semibold uppercase tracking-wider text-marquee border border-white/10">
-                  {{ formatCategory(content.category) }}
-                </span>
-                <span
-                    v-if="content.isSpoiler"
-                    class="rounded bg-rose-500/20 px-2 py-0.5 text-[10px] font-mono font-semibold uppercase tracking-wider text-rose-300 border border-rose-500/30"
-                >
-                  Spoileres
-                </span>
-                <span v-if="content.timestampInSeconds" class="text-xs font-mono text-fog flex items-center gap-1">
-                  <UIcon name="i-lucide-clock" class="w-3 h-3 text-amber-400"/>
-                  {{ formatTimestamp(content.timestampInSeconds) }}
-                </span>
-              </div>
-
-              <h4 class="font-body text-sm font-semibold text-paper group-hover:text-marquee transition-colors">
-                {{ content.subtitle || content.title }}
-              </h4>
-
-              <div v-if="content.participants?.length" class="flex flex-wrap gap-1.5 pt-1">
-                <span
-                    v-for="person in content.participants"
-                    :key="person"
-                    class="inline-flex items-center gap-1 rounded bg-white/5 px-2 py-0.5 text-[11px] font-medium text-fog/80 border border-white/5"
-                >
-                  <UIcon name="i-lucide-user" class="w-2.5 h-2.5 text-fog/50"/>
-                  {{ person }}
-                </span>
-              </div>
-            </div>
-
-            <a
-                :href="getYouTubeUrl(content.youtubeId, content.timestampInSeconds)"
-                target="_blank"
-                rel="noopener noreferrer"
-                class="inline-flex items-center justify-center gap-2 rounded-xl bg-red-600 hover:bg-red-500 text-white font-semibold text-xs px-4 py-2.5 transition-all shadow-md hover:shadow-red-950/40 shrink-0 active:scale-95"
-            >
-              <UIcon name="i-lucide-play" class="w-4 h-4 fill-current"/>
-              <span>Megnyitás YouTube-on</span>
-            </a>
+            <UIcon name="i-lucide-film" class="size-8 text-stone-500"/>
           </div>
+
+          <div class="min-w-0 flex-1 pt-12">
+            <h3 class="font-poster text-3xl uppercase leading-none">{{ media.title }}</h3>
+            <p v-if="media.originalTitle" class="italic text-stone-400">{{ media.originalTitle }}</p>
+            <p class="mt-1 text-sm text-primary">{{ media.contents?.length || 0 }} alkalommal beszéltek róla</p>
+          </div>
+        </div>
+
+        <p v-if="overview" class="line-clamp-3 px-6 pt-4 text-sm text-stone-300">{{ overview }}</p>
+
+        <!-- EPISODES: every row opens YouTube at the timestamp where the film comes up -->
+        <div class="max-h-[55vh] space-y-3 overflow-y-auto p-6">
+          <a
+              v-for="content in media.contents"
+              :key="`${content.id}-${content.timestampInSeconds}`"
+              :href="getYouTubeUrl(content.youtubeId, content.timestampInSeconds)"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="group flex gap-4"
+          >
+            <span class="relative w-28 shrink-0 sm:w-32">
+              <img
+                  :src="`https://i.ytimg.com/vi/${content.youtubeId}/mqdefault.jpg`"
+                  alt=""
+                  class="aspect-video w-full border-2 border-black bg-stone-800 object-cover"
+                  loading="lazy"
+              />
+              <span class="absolute inset-0 flex items-center justify-center bg-black/20 opacity-0 transition-opacity group-hover:opacity-100">
+                <span class="flex size-11 items-center justify-center rounded-full bg-black/60 backdrop-blur-sm">
+                  <UIcon name="i-lucide-play" class="size-6 translate-x-px text-primary"/>
+                </span>
+              </span>
+              <span
+                  v-if="content.timestampInSeconds"
+                  class="absolute bottom-1 right-1 bg-black/60 px-1.5 py-0.5 text-xs font-semibold backdrop-blur-sm"
+              >
+                {{ formatTimestamp(content.timestampInSeconds) }}
+              </span>
+              <span
+                  v-if="content.isSpoiler"
+                  class="absolute -left-1 -top-1 bg-spoiler px-1.5 py-0.5 font-poster text-xs uppercase text-white"
+              >
+                Spoiler
+              </span>
+            </span>
+
+            <span class="min-w-0 space-y-1">
+              <span class="block font-poster text-xs uppercase tracking-wider text-primary">{{ formatCategory(content.category) }}</span>
+              <span class="block font-semibold leading-tight group-hover:text-primary">{{ content.subtitle || content.title }}</span>
+              <span v-if="content.participants?.length" class="block text-sm text-stone-400">{{ content.participants.join(', ') }}</span>
+            </span>
+          </a>
         </div>
       </div>
     </template>
@@ -96,13 +97,13 @@
 </template>
 
 <script setup lang="ts">
-import {computed} from 'vue'
+import {computed, ref, watch} from 'vue'
 import type {MediaIndexItem} from '~/models/indexes/media-index-item.ts'
 import {getYouTubeUrl} from "~/utils/get-youtube-url.ts";
 import {formatCategory} from "~/utils/format-category.ts";
 
-
-const TMDB_POSTER_BASE = 'https://image.tmdb.org/t/p/w500'
+const TMDB_POSTER_BASE = 'https://image.tmdb.org/t/p/w342'
+const TMDB_BACKDROP_BASE = 'https://image.tmdb.org/t/p/w1280'
 
 const props = defineProps({
   modelValue: {
@@ -117,10 +118,26 @@ const props = defineProps({
 
 const emit = defineEmits(['update:modelValue'])
 
+const jsonRepo = useJsonRepo()
+const overview = ref<string | null>(null)
+
 const isOpen = computed({
   get: () => props.modelValue,
   set: (value: boolean) => emit('update:modelValue', value),
 })
+
+// The index has no overview, so it is loaded from the media detail when the popup opens
+watch(() => [isOpen.value, props.media?.id] as const, async ([open, mediaId]) => {
+  if (!open || !mediaId) {
+    return
+  }
+
+  overview.value = null
+  const detail = await jsonRepo.fetchMediaDetail(mediaId)
+  if (props.media?.id === mediaId) {
+    overview.value = detail?.overview ?? null
+  }
+}, {immediate: true})
 
 // TODO: We have it at server, but stay for now.
 function formatTimestamp(seconds?: number): string {

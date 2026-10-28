@@ -11,7 +11,7 @@ export default defineNuxtConfig({
     app: {
         baseURL: '/filmbaratok-info-frontend/',
         head: {
-            htmlAttrs: {class: 'dark theme-teka'},
+            htmlAttrs: {class: 'dark theme-teka font-text'},
             link: [
                 {rel: 'preconnect', href: 'https://fonts.googleapis.com'},
                 {rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: ''},
