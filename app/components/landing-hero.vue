@@ -6,12 +6,13 @@
           v-if="heroBackdrop"
           :src="heroBackdrop"
           alt=""
-          class="h-full w-full object-cover opacity-35 transition-opacity duration-1000 motion-reduce:transition-none"
+          class="h-full w-full object-cover object-[center_35%] opacity-40 transition-opacity duration-1000 motion-reduce:transition-none"
       />
-      <div class="absolute inset-0 bg-gradient-to-t from-teka via-teka/70 to-teka/20"/>
+      <!-- Fades out only near the bottom, so the image stays visible behind the title -->
+      <div class="absolute inset-0 bg-gradient-to-t from-teka from-5% via-teka/40 via-45% to-teka/20"/>
     </div>
 
-    <div class="mx-auto flex max-w-6xl flex-col gap-4 px-4 pt-24 pb-12 sm:px-6">
+    <div class="mx-auto flex max-w-6xl flex-col gap-4 px-4 pt-28 pb-20 sm:px-6 sm:pt-36 sm:pb-28">
       <h1 class="font-poster text-6xl uppercase leading-none sm:text-8xl">
         Szia, <span class="text-highlight">Filmbarát!</span>
       </h1>

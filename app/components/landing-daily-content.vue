@@ -4,6 +4,7 @@
     <BackdropCard
         v-if="dailyContent"
         :image="dailyContent.thumbnailUrl"
+        letterboxed
         class="h-full w-full"
         @click="openContent"
     >

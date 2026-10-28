@@ -10,6 +10,7 @@
       <!-- Episode card, stays in place while scrolling through the posters -->
       <BackdropCard
           :image="latestEpisode.thumbnailUrl"
+          letterboxed
           class="self-start lg:sticky lg:top-22"
           @click="openYouTube(latestEpisode.youtubeId)"
       >
