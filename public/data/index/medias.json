@@ -6347,7 +6347,7 @@
     "title": "Lucy",
     "originalTitle": "Lucy",
     "posterPath": "/kRbpUTRNm6QbLQFPFWUcNC4czEm.jpg",
-    "backdropPath": "/1hzH1Wu2xhXBNOWzw3RMwNTJX5q.jpg",
+    "backdropPath": "/ozVwXlfxqNsariipatGwa5px3Pm.jpg",
     "contents": [
       {
         "id": "ac0364e6-7597-48e6-afef-9419337f0b8b",
@@ -6902,7 +6902,7 @@
     "id": "224008e5-3974-4ca3-968f-8d2513525bd8",
     "title": "Shaun, a bárány és a Moszatvég szörnye",
     "originalTitle": "Shaun the Sheep: The Beast of Mossy Bottom",
-    "posterPath": "/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg",
+    "posterPath": "/gayX49siwXf8eNs16rtk1fI91Ey.jpg",
     "backdropPath": "/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
     "contents": [
       {
@@ -7892,7 +7892,7 @@
     "title": "Ítélet Nürnbergben",
     "originalTitle": "Judgment at Nuremberg",
     "posterPath": "/b6vYatvui1EXeFYfpDX4rcbueuP.jpg",
-    "backdropPath": "/aSlDcWtKNfRkW0SbsnEjnGBs9jV.jpg",
+    "backdropPath": "/tcyL1OCnkkxotZhRaErfgOT83si.jpg",
     "contents": [
       {
         "id": "45db23a4-07df-416d-8974-096e79e08749",
@@ -8514,6 +8514,30 @@
           "freddyD",
           "Blacksheep",
           "Sorter",
+          "Gergő"
+        ],
+        "isSpoiler": false
+      }
+    ]
+  },
+  {
+    "id": "28ed5b37-8aec-41ba-b4de-4b0239fc625b",
+    "title": "Agyagpofa",
+    "originalTitle": "Clayface",
+    "posterPath": "/ojVxjeeZwug4LTnKS5MsUlFMwhl.jpg",
+    "backdropPath": "/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
+    "contents": [
+      {
+        "id": "2cef798f-c7cf-4a5c-bbdb-e437284ffcac",
+        "title": "Filmbarátok Podcast #337",
+        "subtitle": null,
+        "category": "PODCAST",
+        "youtubeId": "gCt1l_PsgQk",
+        "timestampInSeconds": 10034,
+        "participants": [
+          "freddyD",
+          "Sorter",
+          "Márk",
           "Gergő"
         ],
         "isSpoiler": false
@@ -9676,7 +9700,7 @@
     "title": "Káosz",
     "originalTitle": "乱",
     "posterPath": "/dGgiXMWDcS5aJTBEFu7bmaQPNox.jpg",
-    "backdropPath": "/3ssNAWypRl47iriwBFNx7RUEUub.jpg",
+    "backdropPath": "/vxEfLEdPbUJW8ZD9ymGQ6ZJzuyf.jpg",
     "contents": [
       {
         "id": "77abac0b-e587-4192-bb26-5fdeda7c8b33",
@@ -10005,7 +10029,7 @@
     "title": "Shaun, a bárány és a farmonkívüli",
     "originalTitle": "A Shaun the Sheep Movie: Farmageddon",
     "posterPath": "/p08FoXVFgcRm5QZBaGj0VKa2W2Y.jpg",
-    "backdropPath": "/AgYlP6g4vrNn1sVsAIvflW3TfJU.jpg",
+    "backdropPath": "/4pEYqcEpmwDKZg5XFJgZUrZdQCB.jpg",
     "contents": [
       {
         "id": "7843fef9-2a5f-4467-b368-f5dd69a9b920",
@@ -10664,7 +10688,7 @@
     "title": "Gonosz Halott 2",
     "originalTitle": "Evil Dead II",
     "posterPath": "/4zqCKJVHUolGs6C5AZwAZqLWixW.jpg",
-    "backdropPath": "/dOvEJK2u0slAGTfhdZOjnNgCQet.jpg",
+    "backdropPath": "/j1CqN4ypo3lFJJA5C7mYJzBaXoL.jpg",
     "contents": [
       {
         "id": "609a890e-de95-47f4-b91f-132b887e4487",
@@ -11902,6 +11926,30 @@
           "freddyD",
           "Blacksheep",
           "Zoly",
+          "Gergő"
+        ],
+        "isSpoiler": false
+      }
+    ]
+  },
+  {
+    "id": "3b1ae7eb-793f-428c-b87c-31935eefba65",
+    "title": "Mommy Blue",
+    "originalTitle": "Mommy Blue",
+    "posterPath": "/8ncRzmrCexnf4trPoczPUZaREuE.jpg",
+    "backdropPath": "/aeF0FPTRPtKC8bhNLZsB4Qf8ICM.jpg",
+    "contents": [
+      {
+        "id": "2cef798f-c7cf-4a5c-bbdb-e437284ffcac",
+        "title": "Filmbarátok Podcast #337",
+        "subtitle": null,
+        "category": "PODCAST",
+        "youtubeId": "gCt1l_PsgQk",
+        "timestampInSeconds": 8330,
+        "participants": [
+          "freddyD",
+          "Sorter",
+          "Márk",
           "Gergő"
         ],
         "isSpoiler": false
@@ -13174,6 +13222,30 @@
         "participants": [
           "freddyD",
           "Blacksheep",
+          "Gergő"
+        ],
+        "isSpoiler": false
+      }
+    ]
+  },
+  {
+    "id": "4139f10c-0b2c-4854-b4bd-22f1b471370b",
+    "title": "Street Fighter",
+    "originalTitle": "Street Fighter",
+    "posterPath": "/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
+    "backdropPath": "/qRN8eqYwG6HPSy0i3fKzuLrUOhp.jpg",
+    "contents": [
+      {
+        "id": "2cef798f-c7cf-4a5c-bbdb-e437284ffcac",
+        "title": "Filmbarátok Podcast #337",
+        "subtitle": null,
+        "category": "PODCAST",
+        "youtubeId": "gCt1l_PsgQk",
+        "timestampInSeconds": 6802,
+        "participants": [
+          "freddyD",
+          "Sorter",
+          "Márk",
           "Gergő"
         ],
         "isSpoiler": false
@@ -14987,7 +15059,7 @@
   {
     "id": "49a20ed6-8968-43c8-a378-96eb33044d65",
     "title": "Conan O'Brien",
-    "originalTitle": "Conan O'Brien",
+    "originalTitle": null,
     "posterPath": null,
     "backdropPath": null,
     "contents": [
@@ -16134,7 +16206,7 @@
     "title": "Superman [2025]",
     "originalTitle": "Superman",
     "posterPath": "/ldyfo0BKmz5rWtJJKCvwaNS4cJT.jpg",
-    "backdropPath": "/yRBc6WY3r1Fz5Cjd6DhSvzqunED.jpg",
+    "backdropPath": "/eGX66zonvc4bXg3rM08RUxdYSDx.jpg",
     "contents": [
       {
         "id": "7923faf9-9514-40a6-9496-24827283a655",
@@ -16181,8 +16253,8 @@
     "id": "4f1d10ea-7e20-4c07-af7e-f98fcc429a46",
     "title": "Verity",
     "originalTitle": "Verity",
-    "posterPath": "/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg",
-    "backdropPath": "/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+    "posterPath": "/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
+    "backdropPath": "/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
     "contents": [
       {
         "id": "97bbffb0-1fb4-4ea7-9256-47bad9e713a0",
@@ -17160,7 +17232,7 @@
     "title": "Carrie (2013)",
     "originalTitle": "Carrie",
     "posterPath": "/kloXz9qwO23z9Kbt3z3MgnjF4xO.jpg",
-    "backdropPath": "/pmJDMH2YX9YrIwiawqPrgpRiZXb.jpg",
+    "backdropPath": "/ffi2k8g5NOXbfwYhpg0HyZfx5Vz.jpg",
     "contents": [
       {
         "id": "6a88ebdc-f41f-4982-b590-683a70d23de1",
@@ -20945,7 +21017,7 @@
     "title": "Wandavision",
     "originalTitle": "WandaVision",
     "posterPath": "/vnrPZMmvz4ZlwXbllARQ1t0VS5O.jpg",
-    "backdropPath": "/cq62fLH3vwOmiaLKMqkDI86tPtH.jpg",
+    "backdropPath": "/lOr9NKxh4vMweufMOUDJjJhCRHW.jpg",
     "contents": [
       {
         "id": "b808495a-1d8b-44fb-8206-0c9764c97ef6",
@@ -22112,7 +22184,7 @@
   {
     "id": "709a964b-d38d-4bab-9da8-18a75b9dabe9",
     "title": "Cry Baby",
-    "originalTitle": "Cry Baby",
+    "originalTitle": null,
     "posterPath": null,
     "backdropPath": null,
     "contents": [
@@ -22484,7 +22556,7 @@
   {
     "id": "72c00ca7-4183-4fc9-9ba9-560bc8bb11b9",
     "title": "Luke Cage",
-    "originalTitle": "Luke Cage",
+    "originalTitle": null,
     "posterPath": null,
     "backdropPath": null,
     "contents": [
@@ -22737,8 +22809,8 @@
     "id": "7453a7dd-b97c-4b65-958d-4d95a02d1b3d",
     "title": "A hitetlen",
     "originalTitle": "The Believer",
-    "posterPath": "/doe1zmrCRCSRkC3EdalFiUZhMxn.jpg",
-    "backdropPath": "/cDTDGNaF5zu4LYD4gZjkaZ8DjjY.jpg",
+    "posterPath": "/mxRBo3vcKxXRE5BnCEWmGbf9PmO.jpg",
+    "backdropPath": "/poWdvGi83EKQjhAZAF9meQSS5yL.jpg",
     "contents": [
       {
         "id": "1a3f7bcc-1dc5-435a-b08d-bde9322aa705",
@@ -22878,7 +22950,7 @@
     "title": "Az Északi",
     "originalTitle": "The Northman",
     "posterPath": "/aSSJMnHknzKjlZ6zybwD7eyJ4Po.jpg",
-    "backdropPath": "/qZYvF1M7y8Gfp4S6OBHbYfB0Lgc.jpg",
+    "backdropPath": "/fMiEp00v8gGWEceL4QeLu6H6z69.jpg",
     "contents": [
       {
         "id": "8b4b3e61-1e0a-4597-88c6-995c676c1ab2",
@@ -26315,7 +26387,7 @@
     "title": "Galaxis útikalauz stopposoknak*",
     "originalTitle": "The Hitchhiker's Guide to the Galaxy",
     "posterPath": "/4fOFbNMjq708CQ7ou71by6rI6wZ.jpg",
-    "backdropPath": "/i3IOqOFdAdjw0ebQXkIevybkkNF.jpg",
+    "backdropPath": "/58xc04IuCymfgtWUFRuLRtcEECP.jpg",
     "contents": [
       {
         "id": "a44c41c7-ebe9-454d-9fe3-22e94cb8419a",
@@ -27776,21 +27848,21 @@
         "isSpoiler": false
       },
       {
-        "id": "53200108-ff59-45c9-83e0-e70c91443066",
-        "title": "Filmbarátok Expressz: Shrinking/Direkt terápia (3. évad)",
-        "subtitle": "3. évad",
-        "category": "EXPRESS",
-        "youtubeId": "seJKMz9voRA",
-        "timestampInSeconds": 0,
-        "participants": [],
-        "isSpoiler": false
-      },
-      {
         "id": "c8c193a7-f089-4c9f-a33d-1d9085dea656",
         "title": "Filmbarátok Expressz: Shrinking/Direkt terápia (1. évad)",
         "subtitle": "1. évad",
         "category": "EXPRESS",
         "youtubeId": "QDz2wpeE5Ic",
+        "timestampInSeconds": 0,
+        "participants": [],
+        "isSpoiler": false
+      },
+      {
+        "id": "53200108-ff59-45c9-83e0-e70c91443066",
+        "title": "Filmbarátok Expressz: Shrinking/Direkt terápia (3. évad)",
+        "subtitle": "3. évad",
+        "category": "EXPRESS",
+        "youtubeId": "seJKMz9voRA",
         "timestampInSeconds": 0,
         "participants": [],
         "isSpoiler": false
@@ -27994,7 +28066,7 @@
     "title": "Prérifarkas visszavág",
     "originalTitle": "Coyote vs. Acme",
     "posterPath": "/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
-    "backdropPath": "/7GOW6jod9lLurW5utokAatxg7ql.jpg",
+    "backdropPath": "/rueyXwlewVPAP5NkqCUJx4RjhqB.jpg",
     "contents": [
       {
         "id": "36d33134-5606-4d14-b5e2-20640c3ecf23",
@@ -29702,7 +29774,7 @@
     "title": "Segítség!",
     "originalTitle": "Send Help",
     "posterPath": "/zbJWVHOtj3ljBzWgL1P8pxP03Up.jpg",
-    "backdropPath": "/hO2jx1H3XafR7Y8QbFgVH1sHTY9.jpg",
+    "backdropPath": "/bpp58yHuQmpt6xwggI63mVRw7po.jpg",
     "contents": [
       {
         "id": "642a9734-20eb-4365-bd9d-a95433bfbd31",
@@ -30955,21 +31027,21 @@
     "backdropPath": "/qrTAc0ZtQ859Qu5O8cixJzNJpQs.jpg",
     "contents": [
       {
-        "id": "0c494bca-0b4c-42b7-8b9f-8c611e4ea188",
-        "title": "Filmbarátok Expressz: Daredevil: Újjászületés (1. évad)",
-        "subtitle": "1. évad",
-        "category": "EXPRESS",
-        "youtubeId": "XjVNzKlQuSA",
-        "timestampInSeconds": 0,
-        "participants": [],
-        "isSpoiler": false
-      },
-      {
         "id": "40634781-1057-4ce5-9019-48c5f42bf6a7",
         "title": "Filmbarátok Expressz: Daredevil - Újjászületés (2. évad)",
         "subtitle": "2. évad",
         "category": "EXPRESS",
         "youtubeId": "NhoWH4zwDZo",
+        "timestampInSeconds": 0,
+        "participants": [],
+        "isSpoiler": false
+      },
+      {
+        "id": "0c494bca-0b4c-42b7-8b9f-8c611e4ea188",
+        "title": "Filmbarátok Expressz: Daredevil: Újjászületés (1. évad)",
+        "subtitle": "1. évad",
+        "category": "EXPRESS",
+        "youtubeId": "XjVNzKlQuSA",
         "timestampInSeconds": 0,
         "participants": [],
         "isSpoiler": false
@@ -31578,6 +31650,30 @@
           "freddyD",
           "Blacksheep",
           "Sorter",
+          "Gergő"
+        ],
+        "isSpoiler": false
+      }
+    ]
+  },
+  {
+    "id": "a29a05e1-f393-4388-8213-c4c6561dd59e",
+    "title": "Bálnahullás",
+    "originalTitle": "Whalefall",
+    "posterPath": "/riCa3vEi5q1Qf34nAAOk1CyTkhv.jpg",
+    "backdropPath": "/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
+    "contents": [
+      {
+        "id": "2cef798f-c7cf-4a5c-bbdb-e437284ffcac",
+        "title": "Filmbarátok Podcast #337",
+        "subtitle": null,
+        "category": "PODCAST",
+        "youtubeId": "gCt1l_PsgQk",
+        "timestampInSeconds": 5062,
+        "participants": [
+          "freddyD",
+          "Sorter",
+          "Márk",
           "Gergő"
         ],
         "isSpoiler": false
@@ -32555,7 +32651,7 @@
     "id": "a7592621-6941-4f8f-849f-5ef52c1bd08e",
     "title": "A kaptár - Raccoon City visszavár",
     "originalTitle": "Resident Evil: Welcome to Raccoon City",
-    "posterPath": "/bArhvjRHl535XMaSh9VjInF2mSZ.jpg",
+    "posterPath": "/7uRbWOXxpWDMtnsd2PF3clu65jc.jpg",
     "backdropPath": "/wYtEvBmpBRXPdwGgr1gcWiwJSI7.jpg",
     "contents": [
       {
@@ -32765,7 +32861,7 @@
     "id": "a8b166d5-3303-40d7-aee6-d308c87fc87b",
     "title": "Démonok között – Utolsó rítusok",
     "originalTitle": "The Conjuring: Last Rites",
-    "posterPath": "/byWgphT74ClOVa8EOGzYDkl8DVL.jpg",
+    "posterPath": "/umvkcIb0XAk486TEmx1V5aVzhbm.jpg",
     "backdropPath": "/i8MupUe4xgmYXoRNAQMYvuoexSU.jpg",
     "contents": [
       {
@@ -33840,7 +33936,7 @@
     "title": "Longlegs - A rém",
     "originalTitle": "Longlegs",
     "posterPath": "/1EwNyiiNFd863H4e8nWEzutnZD7.jpg",
-    "backdropPath": "/6ToGkmqn0KG0UGGGUAC1Ww0e5CM.jpg",
+    "backdropPath": "/4CmxmxgiFdTaNmsscochV9rBcnF.jpg",
     "contents": [
       {
         "id": "c1ca6271-f0d8-4068-8413-00d7945b69af",
@@ -34320,8 +34416,8 @@
     "id": "b068543a-b285-4bb3-a88c-12ac3569816f",
     "title": "A bűn éjszakája",
     "originalTitle": "The Purge",
-    "posterPath": "/46X1ei9uf13nkkr0OhWldGyr5Uh.jpg",
-    "backdropPath": "/aS9Kkxt92SAhvFvDLCfg0BMo5os.jpg",
+    "posterPath": "/x6hwbnR2nGacSzljqYaXY25w1Me.jpg",
+    "backdropPath": "/anFRs7Xi7u2nqqBpmhqvXINAPix.jpg",
     "contents": [
       {
         "id": "911d1af8-24a3-4bbe-9eb5-6feae8b5e15b",
@@ -35565,7 +35661,7 @@
     "id": "b971f72b-8573-4874-a6d0-2be607f41592",
     "title": "Sinister 2: Az átkozott ház",
     "originalTitle": "Sinister 2",
-    "posterPath": "/mdX6GnqaH0pYau41WRGevJuwEQu.jpg",
+    "posterPath": "/hF6ORyihtAWHqKkIQI8BSpLQyON.jpg",
     "backdropPath": "/dc45jIouR7um2qdGH9AxNMhrVcT.jpg",
     "contents": [
       {
@@ -35876,8 +35972,8 @@
     "id": "ba366c73-110e-4315-81c8-7c8e7a832ce9",
     "title": "Odüsszeia",
     "originalTitle": "The Odyssey",
-    "posterPath": "/krVa7rKCQb4OBfsr2LTJv4rTz5q.jpg",
-    "backdropPath": "/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
+    "posterPath": "/9EJDqzAQ0HoNvMDkOQuirXt1RCg.jpg",
+    "backdropPath": "/iDiTY1wA35YWzTmXLTtqaxtN6tc.jpg",
     "contents": [
       {
         "id": "471f843c-97a7-4b82-a56c-7cd4b7d662f4",
@@ -36900,7 +36996,7 @@
     "title": "Backrooms – Hátsó szobák",
     "originalTitle": "Backrooms",
     "posterPath": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-    "backdropPath": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+    "backdropPath": "/QNE9Ihuas4duMHJYGQgAcuRtXz.jpg",
     "contents": [
       {
         "id": "76653244-13c5-4b85-a04b-72a5163e0e27",
@@ -37185,7 +37281,7 @@
   {
     "id": "c165491e-5fa3-404b-93f0-40a4c28ab000",
     "title": "Borat",
-    "originalTitle": "Appa Borate",
+    "originalTitle": null,
     "posterPath": null,
     "backdropPath": null,
     "contents": [
@@ -37818,6 +37914,30 @@
     ]
   },
   {
+    "id": "c43d533a-cf5a-4123-b549-2434c133644e",
+    "title": "Űrgolyhók",
+    "originalTitle": "Spaceballs",
+    "posterPath": "/yQQFodyDOSowuPiLmBu8LvMANin.jpg",
+    "backdropPath": "/p50q3DO1DTFhKH5CqNLRGio6zCo.jpg",
+    "contents": [
+      {
+        "id": "2cef798f-c7cf-4a5c-bbdb-e437284ffcac",
+        "title": "Filmbarátok Podcast #337",
+        "subtitle": null,
+        "category": "PODCAST",
+        "youtubeId": "gCt1l_PsgQk",
+        "timestampInSeconds": 11680,
+        "participants": [
+          "freddyD",
+          "Sorter",
+          "Márk",
+          "Gergő"
+        ],
+        "isSpoiler": false
+      }
+    ]
+  },
+  {
     "id": "c44ba610-23bd-4a54-b255-c720fea5ea70",
     "title": "Jackass - Best and Last",
     "originalTitle": "Jackass: Best and Last",
@@ -37841,7 +37961,7 @@
     "title": "Pókember: Vadonatúj nap",
     "originalTitle": "Spider-Man: Brand New Day",
     "posterPath": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-    "backdropPath": "/r08LxMJCbf1SiJIWeyH9aJmdqwC.jpg",
+    "backdropPath": "/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
     "contents": [
       {
         "id": "c2a0602c-4a69-4a45-9e65-3ccd24a94860",
@@ -38479,7 +38599,7 @@
     "title": "Tini Nindzsa Teknőcök",
     "originalTitle": "Teenage Mutant Ninja Turtles",
     "posterPath": "/n0DN6kJf0kGeuNFUYLT6eZe5ERR.jpg",
-    "backdropPath": "/7NWAe3Bc7s3hYDKdarkwGuxT1GM.jpg",
+    "backdropPath": "/9Iq5c65TQrr73zzPGQuiwHLfeb9.jpg",
     "contents": [
       {
         "id": "391603f0-1a0a-484c-baad-deab1f318f10",
@@ -39883,6 +40003,30 @@
     ]
   },
   {
+    "id": "cde283e8-cdc0-4754-aca9-0df1f6557f05",
+    "title": "The Social Reckoning - A hálózat ára",
+    "originalTitle": "The Social Reckoning",
+    "posterPath": "/cW4lkWY3G1oWy2XHZcRuGw9w3CU.jpg",
+    "backdropPath": "/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
+    "contents": [
+      {
+        "id": "2cef798f-c7cf-4a5c-bbdb-e437284ffcac",
+        "title": "Filmbarátok Podcast #337",
+        "subtitle": null,
+        "category": "PODCAST",
+        "youtubeId": "gCt1l_PsgQk",
+        "timestampInSeconds": 8730,
+        "participants": [
+          "freddyD",
+          "Sorter",
+          "Márk",
+          "Gergő"
+        ],
+        "isSpoiler": false
+      }
+    ]
+  },
+  {
     "id": "ce0105d9-86ca-4ae8-80a9-284590e87379",
     "title": "Riki-Oh: The Story of Ricky",
     "originalTitle": null,
@@ -40868,7 +41012,7 @@
   {
     "id": "d1d2b0bc-9efb-437e-84c2-ba3404c4404f",
     "title": "Birdman",
-    "originalTitle": "Birdman",
+    "originalTitle": null,
     "posterPath": null,
     "backdropPath": null,
     "contents": [
@@ -42870,7 +43014,7 @@
   {
     "id": "dbb6b3b1-2d05-4bdb-8981-e4d3738e418f",
     "title": "Jim & Andy: The Great Beyond - Featuring a Very Special, Contractually Obligated Mention of Tony Clifton",
-    "originalTitle": "Jim & Andy: The Great Beyond",
+    "originalTitle": "Jim & Andy: The Great Beyond - Featuring a Very Special, Contractually Obligated Mention of Tony Clifton",
     "posterPath": "/kKzopOFXz9YfsCTqg3XpF0GoypX.jpg",
     "backdropPath": "/5ORjzDMq26GI82COSnJngXm5Kww.jpg",
     "contents": [
@@ -43360,7 +43504,7 @@
   {
     "id": "dd5b41f0-4041-44df-a6a0-6503bba6834f",
     "title": "Ip Man",
-    "originalTitle": "Ip Man",
+    "originalTitle": null,
     "posterPath": null,
     "backdropPath": null,
     "contents": [
@@ -43433,7 +43577,7 @@
     "id": "dde25973-fa80-46c3-88fa-639f37665700",
     "title": "The First Purge",
     "originalTitle": "The First Purge",
-    "posterPath": "/litjsBoiydO6JlO70uOX4N3WnNL.jpg",
+    "posterPath": "/2slvblTroiT1lY9bYLK7Amigo1k.jpg",
     "backdropPath": "/r4clWIxKeWoqrHspQP0XunuUmB7.jpg",
     "contents": [
       {
@@ -43898,7 +44042,7 @@
     "id": "dfaa926b-5f0c-46e6-a47c-2c250327cb73",
     "title": "Az űrhajós",
     "originalTitle": "Spaceman",
-    "posterPath": "/3vzDN2BPpGNEm7m4MCJWt6rOiHS.jpg",
+    "posterPath": "/f46WvKEsBn98WJbPJcO47ZoKn6B.jpg",
     "backdropPath": "/9ZFNRs58TTnvf3utagd0uSJluXa.jpg",
     "contents": [
       {
@@ -43923,7 +44067,7 @@
     "title": "Beavis és Butthead lenyomja Amerikát",
     "originalTitle": "Beavis and Butt-Head Do America",
     "posterPath": "/vqdgQiRCSzgpFXLlbxbybfkleBM.jpg",
-    "backdropPath": "/l8HMzSzHkLx8wKEMKwIUTZjLxF4.jpg",
+    "backdropPath": "/myc2N1GjIKLTjSbIzmI0KEXdaPB.jpg",
     "contents": [
       {
         "id": "0e148832-d3bc-43bf-917d-0b75ce11cf27",
@@ -44460,7 +44604,7 @@
     "id": "e2357763-17c8-4b11-893d-edee3d1061ef",
     "title": "Hosszúsági fok",
     "originalTitle": "Longitude",
-    "posterPath": "/n0pNsQ2JiUoEI40v6zbA6yf9KfC.jpg",
+    "posterPath": "/kDIpNztCsn8VmffCmq1HwneYEHR.jpg",
     "backdropPath": "/tBiNdJtJdYwu8IQvkbrGZ6NMTnX.jpg",
     "contents": [
       {
@@ -45074,7 +45218,7 @@
     "title": "Kutya csillagkép",
     "originalTitle": "The Dog Stars",
     "posterPath": "/5O616X9vmRzQdB68PHzBewPittd.jpg",
-    "backdropPath": "/yhCHnkidQdR3lksbdyFxduRXFPK.jpg",
+    "backdropPath": "/3k7GzxOdLZkN3eZsuhLi2eRzkXO.jpg",
     "contents": [
       {
         "id": "00e992fa-c3ff-442e-b855-c295b0d94486",
@@ -46644,7 +46788,7 @@
     "title": "Hope - Remény",
     "originalTitle": "호프",
     "posterPath": "/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
-    "backdropPath": "/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg",
+    "backdropPath": "/j96rurZqmBjyY37Fncl3IB0qJNe.jpg",
     "contents": [
       {
         "id": "36d33134-5606-4d14-b5e2-20640c3ecf23",
@@ -47307,6 +47451,30 @@
     ]
   },
   {
+    "id": "f01624e1-2c54-4694-9226-25a494d597cd",
+    "title": "A boldogság nyomában",
+    "originalTitle": "The Pursuit of Happyness",
+    "posterPath": "/9qJT1hOMGfuRGhdLChWuzW1d4co.jpg",
+    "backdropPath": "/5jhG1lTgV0MS6tDkBMQSSitttTT.jpg",
+    "contents": [
+      {
+        "id": "2cef798f-c7cf-4a5c-bbdb-e437284ffcac",
+        "title": "Filmbarátok Podcast #337",
+        "subtitle": null,
+        "category": "PODCAST",
+        "youtubeId": "gCt1l_PsgQk",
+        "timestampInSeconds": 12750,
+        "participants": [
+          "freddyD",
+          "Sorter",
+          "Márk",
+          "Gergő"
+        ],
+        "isSpoiler": false
+      }
+    ]
+  },
+  {
     "id": "f0a7e09a-d5b3-4186-9a3d-aee8ba1e36cf",
     "title": "Kész katasztrófa",
     "originalTitle": "Trainwreck",
@@ -47506,7 +47674,7 @@
     "title": "Lady Bird",
     "originalTitle": "Lady Bird",
     "posterPath": "/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg",
-    "backdropPath": "/jwBiY1kE5089i2WpfS1MHDYp3VO.jpg",
+    "backdropPath": "/gDcu0DkF7atjWbJtfpw43yZrNoq.jpg",
     "contents": [
       {
         "id": "fe8e862c-5af1-4623-8d82-c57fd29fedc2",
@@ -48597,7 +48765,7 @@
   {
     "id": "f781f0b7-8c66-4805-96af-10c802327633",
     "title": "Pamela közelről",
-    "originalTitle": "Pamela, A Love Story",
+    "originalTitle": "Pamela, a love story",
     "posterPath": "/zkVnRwZWbrd55P3Tx7BZZQ1gU89.jpg",
     "backdropPath": "/aJvgoRMrYFTMu7MrcfxYVPMRuU5.jpg",
     "contents": [
@@ -48807,7 +48975,7 @@
     "title": "Sikoly 7",
     "originalTitle": "Scream 7",
     "posterPath": "/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
-    "backdropPath": "/3eUyLEF5M0ky3h6KJsWiWzaakB8.jpg",
+    "backdropPath": "/hz7TdCrpLLt2Dz7S3PS2HG9rpAO.jpg",
     "contents": [
       {
         "id": "197dcc8c-6d85-427f-a216-ebaff633444d",
@@ -49729,7 +49897,7 @@
   {
     "id": "fc7ec4f9-52a6-4f65-97b2-455970d2f01c",
     "title": "Fyre",
-    "originalTitle": "Fyre",
+    "originalTitle": "FYRE: The Greatest Party That Never Happened",
     "posterPath": "/yFsP0BAJhAH3RTXCAnGvI1CtaUb.jpg",
     "backdropPath": "/5i2prsAzznXWGSmhkr9yMh5tnmO.jpg",
     "contents": [

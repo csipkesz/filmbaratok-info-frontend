@@ -1,0 +1,45 @@
+{
+  "id": "4139f10c-0b2c-4854-b4bd-22f1b471370b",
+  "title": "Street Fighter",
+  "originalTitle": "Street Fighter",
+  "overview": "1993-ban a külön utakon járó harcosok, Ryu (Andrew Koji) és Ken Masters (Noah Centineo) ismét küzdelembe keverednek, amikor a titokzatos Chun-Li (Callina Liang) beszervezi őket a következő World Warrior Tournamentre: egy brutális összecsapásra. De a háttérben egy halálos összeesküvés húzódik, amely arra kényszeríti őket, hogy szembenézzenek egymással és múltjuk démonaival.  (Bolla Eszter)R3",
+  "backdropPath": "/qRN8eqYwG6HPSy0i3fKzuLrUOhp.jpg",
+  "posterPath": "/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
+  "releaseDate": "2026-10-13T00:00:00.000Z",
+  "topics": [
+    {
+      "id": "d4c0ec8b-f0fe-4bf9-a557-359f6ef73a50",
+      "title": "Street Fighter",
+      "subtitle": null,
+      "timestampString": "01:53:22",
+      "timestampInSeconds": 6802,
+      "isSpoiler": false,
+      "content": {
+        "category": "PODCAST",
+        "title": "Filmbarátok Podcast #337",
+        "youtubeId": "gCt1l_PsgQk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gCt1l_PsgQk/hqdefault.jpg",
+        "durationInMinutes": 250,
+        "releaseDate": 1793462407000,
+        "participants": [
+          {
+            "id": "095dedfe-6a52-491f-963d-88e8794b004b",
+            "name": "freddyD"
+          },
+          {
+            "id": "98b06270-f2e9-4dae-bb1d-be59b65f34b3",
+            "name": "Sorter"
+          },
+          {
+            "id": "bc2d6299-bc87-440a-8f97-6641a57b6347",
+            "name": "Márk"
+          },
+          {
+            "id": "f5c4bfcc-9259-4e33-96d2-1ab9515ac7f4",
+            "name": "Gergő"
+          }
+        ]
+      }
+    }
+  ]
+}

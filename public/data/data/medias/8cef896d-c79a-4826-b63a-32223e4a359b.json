@@ -25,23 +25,6 @@
       }
     },
     {
-      "id": "45e59616-0b7e-46a2-89c4-6eda8a11aa20",
-      "title": "Shrinking/Direkt terápia (3. évad)",
-      "subtitle": "3. évad",
-      "timestampString": null,
-      "timestampInSeconds": 0,
-      "isSpoiler": false,
-      "content": {
-        "category": "EXPRESS",
-        "title": "Filmbarátok Expressz: Shrinking/Direkt terápia (3. évad)",
-        "youtubeId": "seJKMz9voRA",
-        "thumbnailUrl": "https://i.ytimg.com/vi/seJKMz9voRA/hqdefault.jpg",
-        "durationInMinutes": 0,
-        "releaseDate": 1776925795000,
-        "participants": []
-      }
-    },
-    {
       "id": "a553bcfe-09b4-4470-b529-42c4bf885928",
       "title": "Shrinking/Direkt terápia (1. évad)",
       "subtitle": "1. évad",
@@ -55,6 +38,23 @@
         "thumbnailUrl": "https://i.ytimg.com/vi/QDz2wpeE5Ic/hqdefault.jpg",
         "durationInMinutes": 0,
         "releaseDate": 1680033341000,
+        "participants": []
+      }
+    },
+    {
+      "id": "b2b9ab55-2b78-45e0-bc57-77e29994b9ee",
+      "title": "Shrinking/Direkt terápia (3. évad)",
+      "subtitle": "3. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Shrinking/Direkt terápia (3. évad)",
+        "youtubeId": "seJKMz9voRA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/seJKMz9voRA/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1776925795000,
         "participants": []
       }
     }
