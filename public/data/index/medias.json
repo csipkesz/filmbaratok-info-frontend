@@ -594,6 +594,25 @@
     ]
   },
   {
+    "id": "035938c7-4de1-4dcf-9cce-d1b3c78d6c91",
+    "title": "Lámpások",
+    "originalTitle": "Lanterns",
+    "posterPath": "/jqPelP2DrBj9bFMXlholEphhQSR.jpg",
+    "backdropPath": "/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+    "contents": [
+      {
+        "id": "e75be9e8-7fbc-4044-9428-8718fe6ff86b",
+        "title": "Filmbarátok Expressz: Lámpások (1. évad)",
+        "subtitle": "1. évad",
+        "category": "EXPRESS",
+        "youtubeId": "dPoSfvL_iy4",
+        "timestampInSeconds": 0,
+        "participants": [],
+        "isSpoiler": false
+      }
+    ]
+  },
+  {
     "id": "035ba397-d823-4165-94b5-6f02c1534036",
     "title": "Kút",
     "originalTitle": "Kút",
@@ -1392,7 +1411,7 @@
     "id": "070ef4d0-9b0a-4189-abb0-4c9325c1855d",
     "title": "Kairó bíbor rózsája",
     "originalTitle": "The Purple Rose of Cairo",
-    "posterPath": "/ccsint43E44B7NGceEhVimD93Yt.jpg",
+    "posterPath": "/roQe0DDZ0nLqtLzDSa9ugiL3XSR.jpg",
     "backdropPath": "/afbfZtBOZIfxlzzvHCOfauI6pna.jpg",
     "contents": [
       {
@@ -1760,7 +1779,7 @@
     "id": "0920693a-b412-47eb-97ec-e42c56aa8e4c",
     "title": "A kaptár [2026]",
     "originalTitle": "Resident Evil",
-    "posterPath": "/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+    "posterPath": "/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
     "backdropPath": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
     "contents": [
       {
@@ -7095,7 +7114,7 @@
     "title": "Hardcore Henry",
     "originalTitle": "Hardcore Henry",
     "posterPath": "/ik1uZyiMSxF9HqrgRKUNfMCfr3z.jpg",
-    "backdropPath": "/agxzi8QIXWnZgLxwHck8wdjfYk7.jpg",
+    "backdropPath": "/2t6OUcM8SQVurkgkTz2gukNsAim.jpg",
     "contents": [
       {
         "id": "f5967d3d-ef62-4233-88c4-5e772731ad98",
@@ -7671,6 +7690,16 @@
         "isSpoiler": true
       },
       {
+        "id": "855cb0b5-3c28-4e45-aa7b-2492eb8d27eb",
+        "title": "Filmbarátok Expressz: The Walking Dead (1. évad)",
+        "subtitle": "1. évad",
+        "category": "EXPRESS",
+        "youtubeId": "N21Vfj9YGGE",
+        "timestampInSeconds": 0,
+        "participants": [],
+        "isSpoiler": false
+      },
+      {
         "id": "8d75c43b-be05-4c25-b977-ec4b8ffa5074",
         "title": "Filmbarátok Expressz: The Walking Dead 7.évad/2 [SPOILERES]",
         "subtitle": "7.évad/2",
@@ -7767,16 +7796,6 @@
           "Gergő"
         ],
         "isSpoiler": true
-      },
-      {
-        "id": "855cb0b5-3c28-4e45-aa7b-2492eb8d27eb",
-        "title": "Filmbarátok Expressz: The Walking Dead (1. évad)",
-        "subtitle": "1. évad",
-        "category": "EXPRESS",
-        "youtubeId": "N21Vfj9YGGE",
-        "timestampInSeconds": 0,
-        "participants": [],
-        "isSpoiler": false
       },
       {
         "id": "d639d874-a00b-463f-a30e-5067970246b8",
@@ -8524,7 +8543,7 @@
     "id": "28ed5b37-8aec-41ba-b4de-4b0239fc625b",
     "title": "Agyagpofa",
     "originalTitle": "Clayface",
-    "posterPath": "/ojVxjeeZwug4LTnKS5MsUlFMwhl.jpg",
+    "posterPath": "/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
     "backdropPath": "/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
     "contents": [
       {
@@ -11936,7 +11955,7 @@
     "id": "3b1ae7eb-793f-428c-b87c-31935eefba65",
     "title": "Mommy Blue",
     "originalTitle": "Mommy Blue",
-    "posterPath": "/8ncRzmrCexnf4trPoczPUZaREuE.jpg",
+    "posterPath": "/pO4Uas3pOzWWqgxTA8j9Y7ctAOb.jpg",
     "backdropPath": "/aeF0FPTRPtKC8bhNLZsB4Qf8ICM.jpg",
     "contents": [
       {
@@ -18618,7 +18637,7 @@
     "id": "5e0e5430-fca5-4330-877c-763cd3c34894",
     "title": "Bosszúállók: Végjáték",
     "originalTitle": "Avengers: Endgame",
-    "posterPath": "/bR8ISy1O9XQxqiy0fQFw2BX72RQ.jpg",
+    "posterPath": "/jtDv3lCnST0fZRvdYFwR5CVwK2x.jpg",
     "backdropPath": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
     "contents": [
       {
@@ -21017,7 +21036,7 @@
     "title": "Wandavision",
     "originalTitle": "WandaVision",
     "posterPath": "/vnrPZMmvz4ZlwXbllARQ1t0VS5O.jpg",
-    "backdropPath": "/lOr9NKxh4vMweufMOUDJjJhCRHW.jpg",
+    "backdropPath": "/fSCb3lzRbHknuKD7apdH4RYJLkc.jpg",
     "contents": [
       {
         "id": "b808495a-1d8b-44fb-8206-0c9764c97ef6",
@@ -21326,16 +21345,6 @@
     "backdropPath": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
     "contents": [
       {
-        "id": "b2daafca-fe37-423e-a570-d97505b2f9e2",
-        "title": "Filmbarátok Expressz: The Boys (5. évad)",
-        "subtitle": "5. évad",
-        "category": "EXPRESS",
-        "youtubeId": "OGSHFriSAZs",
-        "timestampInSeconds": 0,
-        "participants": [],
-        "isSpoiler": false
-      },
-      {
         "id": "083e406a-0a2e-40ac-8990-9cf31d14a20b",
         "title": "Filmbarátok Expressz: The Boys (2. évad)",
         "subtitle": "2. évad",
@@ -21371,6 +21380,16 @@
         "subtitle": "4. évad",
         "category": "EXPRESS",
         "youtubeId": "4H7RU7oqqLw",
+        "timestampInSeconds": 0,
+        "participants": [],
+        "isSpoiler": false
+      },
+      {
+        "id": "b2daafca-fe37-423e-a570-d97505b2f9e2",
+        "title": "Filmbarátok Expressz: The Boys (5. évad)",
+        "subtitle": "5. évad",
+        "category": "EXPRESS",
+        "youtubeId": "OGSHFriSAZs",
         "timestampInSeconds": 0,
         "participants": [],
         "isSpoiler": false
@@ -21721,6 +21740,16 @@
         "isSpoiler": false
       },
       {
+        "id": "c87566f0-7c05-43d4-b4b9-b0345b5c9c52",
+        "title": "Filmbarátok Expressz: Sárkányok háza (3. évad)",
+        "subtitle": "3. évad",
+        "category": "EXPRESS",
+        "youtubeId": "67VmzDbtCwU",
+        "timestampInSeconds": 0,
+        "participants": [],
+        "isSpoiler": false
+      },
+      {
         "id": "23f464ea-51cc-4fe9-9154-f159130b03c7",
         "title": "Filmbarátok Expressz: Sárkányok háza (1. évad)",
         "subtitle": "1. évad",
@@ -21732,16 +21761,6 @@
           "Gábor",
           "Gergő"
         ],
-        "isSpoiler": false
-      },
-      {
-        "id": "c87566f0-7c05-43d4-b4b9-b0345b5c9c52",
-        "title": "Filmbarátok Expressz: Sárkányok háza (3. évad)",
-        "subtitle": "3. évad",
-        "category": "EXPRESS",
-        "youtubeId": "67VmzDbtCwU",
-        "timestampInSeconds": 0,
-        "participants": [],
         "isSpoiler": false
       }
     ]
@@ -27848,21 +27867,21 @@
         "isSpoiler": false
       },
       {
-        "id": "c8c193a7-f089-4c9f-a33d-1d9085dea656",
-        "title": "Filmbarátok Expressz: Shrinking/Direkt terápia (1. évad)",
-        "subtitle": "1. évad",
-        "category": "EXPRESS",
-        "youtubeId": "QDz2wpeE5Ic",
-        "timestampInSeconds": 0,
-        "participants": [],
-        "isSpoiler": false
-      },
-      {
         "id": "53200108-ff59-45c9-83e0-e70c91443066",
         "title": "Filmbarátok Expressz: Shrinking/Direkt terápia (3. évad)",
         "subtitle": "3. évad",
         "category": "EXPRESS",
         "youtubeId": "seJKMz9voRA",
+        "timestampInSeconds": 0,
+        "participants": [],
+        "isSpoiler": false
+      },
+      {
+        "id": "c8c193a7-f089-4c9f-a33d-1d9085dea656",
+        "title": "Filmbarátok Expressz: Shrinking/Direkt terápia (1. évad)",
+        "subtitle": "1. évad",
+        "category": "EXPRESS",
+        "youtubeId": "QDz2wpeE5Ic",
         "timestampInSeconds": 0,
         "participants": [],
         "isSpoiler": false
@@ -31660,7 +31679,7 @@
     "id": "a29a05e1-f393-4388-8213-c4c6561dd59e",
     "title": "Bálnahullás",
     "originalTitle": "Whalefall",
-    "posterPath": "/riCa3vEi5q1Qf34nAAOk1CyTkhv.jpg",
+    "posterPath": "/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
     "backdropPath": "/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
     "contents": [
       {
@@ -32558,7 +32577,7 @@
     "title": "Doctor Strange az őrület multiverzumában",
     "originalTitle": "Doctor Strange in the Multiverse of Madness",
     "posterPath": "/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg",
-    "backdropPath": "/lv3TXqhpaIxkclIHbhN2MRMOemQ.jpg",
+    "backdropPath": "/AdyJH8kDm8xT8IKTlgpEC15ny4u.jpg",
     "contents": [
       {
         "id": "8b4b3e61-1e0a-4597-88c6-995c676c1ab2",
@@ -33539,7 +33558,7 @@
     "title": "21 Bridges",
     "originalTitle": "21 Bridges",
     "posterPath": "/kDlmrGZROewneCoSwPjKx6Qfown.jpg",
-    "backdropPath": "/3pMU7OGlcksMb7YkMthj5A1Y08B.jpg",
+    "backdropPath": "/mH6KiDAhy6JZSmPzYBbvUvP207k.jpg",
     "contents": [
       {
         "id": "03a1a198-645b-4782-8a46-1e45c8068265",
@@ -33679,7 +33698,7 @@
     "id": "ad0a8b5f-8c92-49e5-bb73-642888e15ae6",
     "title": "Resident Evil",
     "originalTitle": "Resident Evil",
-    "posterPath": "/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+    "posterPath": "/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
     "backdropPath": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
     "contents": [
       {
@@ -35972,8 +35991,8 @@
     "id": "ba366c73-110e-4315-81c8-7c8e7a832ce9",
     "title": "Odüsszeia",
     "originalTitle": "The Odyssey",
-    "posterPath": "/9EJDqzAQ0HoNvMDkOQuirXt1RCg.jpg",
-    "backdropPath": "/iDiTY1wA35YWzTmXLTtqaxtN6tc.jpg",
+    "posterPath": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+    "backdropPath": "/nVBzWBqHTB3XD0iqWiJLfKLo5fq.jpg",
     "contents": [
       {
         "id": "471f843c-97a7-4b82-a56c-7cd4b7d662f4",
@@ -37917,7 +37936,7 @@
     "id": "c43d533a-cf5a-4123-b549-2434c133644e",
     "title": "Űrgolyhók",
     "originalTitle": "Spaceballs",
-    "posterPath": "/yQQFodyDOSowuPiLmBu8LvMANin.jpg",
+    "posterPath": "/kNbaxEsnCyWBTfANVPHayujBsxp.jpg",
     "backdropPath": "/p50q3DO1DTFhKH5CqNLRGio6zCo.jpg",
     "contents": [
       {
@@ -37961,7 +37980,7 @@
     "title": "Pókember: Vadonatúj nap",
     "originalTitle": "Spider-Man: Brand New Day",
     "posterPath": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-    "backdropPath": "/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
+    "backdropPath": "/dzeCorl61ZdxbzfnciUkrc8JSZj.jpg",
     "contents": [
       {
         "id": "c2a0602c-4a69-4a45-9e65-3ccd24a94860",
@@ -40006,7 +40025,7 @@
     "id": "cde283e8-cdc0-4754-aca9-0df1f6557f05",
     "title": "The Social Reckoning - A hálózat ára",
     "originalTitle": "The Social Reckoning",
-    "posterPath": "/cW4lkWY3G1oWy2XHZcRuGw9w3CU.jpg",
+    "posterPath": "/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
     "backdropPath": "/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
     "contents": [
       {
@@ -40210,8 +40229,8 @@
     "id": "cec8754c-aa46-4d68-81af-756dfeae9dee",
     "title": "A szent hegy",
     "originalTitle": "La montaña sagrada",
-    "posterPath": "/oaOyrFD4ZyZZwjO8wc4b12XHcgZ.jpg",
-    "backdropPath": "/oUceCsSe255ZKXCMsHhqXM1xuUp.jpg",
+    "posterPath": "/mP5FGQbNjFkrjcZ6AVHrvokPRe5.jpg",
+    "backdropPath": "/35uGiE6AFbZBUCqcYGPANLuuoMn.jpg",
     "contents": [
       {
         "id": "f374c948-e609-41c3-8130-5a0943f6f4b6",
@@ -42563,7 +42582,7 @@
     "title": "Szeptember 5",
     "originalTitle": "September 5",
     "posterPath": "/3kcQOLwYKGPwyjiynFsvP8vHvRn.jpg",
-    "backdropPath": "/t0pNv9NR1R1R2GFXubxmjT6iU4U.jpg",
+    "backdropPath": "/s1PW2xCJPehFP4J5YNkg8GecBU7.jpg",
     "contents": [
       {
         "id": "8910babf-29df-4abb-8a62-51f9829be797",
@@ -46835,7 +46854,7 @@
     "id": "ed75ab49-2e57-4d83-a8cf-efd01508c512",
     "title": "Blackhat",
     "originalTitle": "Blackhat",
-    "posterPath": "/7zu6HPnKPjNA7NuR4DGRdaH0PdX.jpg",
+    "posterPath": "/6KGxFPcGcyYnN4ct96nmYoabLZ6.jpg",
     "backdropPath": "/1u7TuvR5mSUz2xRQhz01i75IwdT.jpg",
     "contents": [
       {
@@ -47454,7 +47473,7 @@
     "id": "f01624e1-2c54-4694-9226-25a494d597cd",
     "title": "A boldogság nyomában",
     "originalTitle": "The Pursuit of Happyness",
-    "posterPath": "/9qJT1hOMGfuRGhdLChWuzW1d4co.jpg",
+    "posterPath": "/lBYOKAMcxIvuk9s9hMuecB9dPBV.jpg",
     "backdropPath": "/5jhG1lTgV0MS6tDkBMQSSitttTT.jpg",
     "contents": [
       {
@@ -48585,7 +48604,7 @@
     "title": "Hell or High Water",
     "originalTitle": "Hell or High Water",
     "posterPath": "/ljRRxqy2aXIkIBXLmOVifcOR021.jpg",
-    "backdropPath": "/kQVdpIPCqfpa24I8SQRiwOAbkLG.jpg",
+    "backdropPath": "/rmPx82V79OetmdWDkyw1gyED6OE.jpg",
     "contents": [
       {
         "id": "7eeb79ef-b8e6-491c-bd20-5775529e940a",
@@ -48975,7 +48994,7 @@
     "title": "Sikoly 7",
     "originalTitle": "Scream 7",
     "posterPath": "/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
-    "backdropPath": "/hz7TdCrpLLt2Dz7S3PS2HG9rpAO.jpg",
+    "backdropPath": "/3eUyLEF5M0ky3h6KJsWiWzaakB8.jpg",
     "contents": [
       {
         "id": "197dcc8c-6d85-427f-a216-ebaff633444d",

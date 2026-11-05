@@ -25,6 +25,23 @@
       }
     },
     {
+      "id": "83afa4e3-8b09-476b-bc00-c1aeae1e8d1d",
+      "title": "Sárkányok háza (3. évad)",
+      "subtitle": "3. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: Sárkányok háza (3. évad)",
+        "youtubeId": "67VmzDbtCwU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/67VmzDbtCwU/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1789302292000,
+        "participants": []
+      }
+    },
+    {
       "id": "90c91a14-3883-4971-aabb-0d5e2c6ab16b",
       "title": "Sárkányok háza (1. évad)",
       "subtitle": "1. évad",
@@ -52,23 +69,6 @@
             "name": "Gergő"
           }
         ]
-      }
-    },
-    {
-      "id": "fb395a0d-3138-4416-806d-c7100f472ff7",
-      "title": "Sárkányok háza (3. évad)",
-      "subtitle": "3. évad",
-      "timestampString": null,
-      "timestampInSeconds": 0,
-      "isSpoiler": false,
-      "content": {
-        "category": "EXPRESS",
-        "title": "Filmbarátok Expressz: Sárkányok háza (3. évad)",
-        "youtubeId": "67VmzDbtCwU",
-        "thumbnailUrl": "https://i.ytimg.com/vi/67VmzDbtCwU/hqdefault.jpg",
-        "durationInMinutes": 0,
-        "releaseDate": 1789302292000,
-        "participants": []
       }
     }
   ]

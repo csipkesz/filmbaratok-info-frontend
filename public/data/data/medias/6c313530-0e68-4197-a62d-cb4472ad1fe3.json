@@ -8,23 +8,6 @@
   "releaseDate": "2019-07-25T00:00:00.000Z",
   "topics": [
     {
-      "id": "095fba7a-4deb-4186-b86e-02af65e61a7c",
-      "title": "The Boys (5. évad)",
-      "subtitle": "5. évad",
-      "timestampString": null,
-      "timestampInSeconds": 0,
-      "isSpoiler": false,
-      "content": {
-        "category": "EXPRESS",
-        "title": "Filmbarátok Expressz: The Boys (5. évad)",
-        "youtubeId": "OGSHFriSAZs",
-        "thumbnailUrl": "https://i.ytimg.com/vi/OGSHFriSAZs/hqdefault.jpg",
-        "durationInMinutes": 0,
-        "releaseDate": 1780550648000,
-        "participants": []
-      }
-    },
-    {
       "id": "a895b255-91ac-4a23-af39-5c01ea9b1244",
       "title": "The Boys (2. évad)",
       "subtitle": "2. évad",
@@ -89,6 +72,23 @@
         "thumbnailUrl": "https://i.ytimg.com/vi/4H7RU7oqqLw/hqdefault.jpg",
         "durationInMinutes": 0,
         "releaseDate": 1722775250000,
+        "participants": []
+      }
+    },
+    {
+      "id": "ea2da339-d6b3-4f97-aa32-516ed4d40e53",
+      "title": "The Boys (5. évad)",
+      "subtitle": "5. évad",
+      "timestampString": null,
+      "timestampInSeconds": 0,
+      "isSpoiler": false,
+      "content": {
+        "category": "EXPRESS",
+        "title": "Filmbarátok Expressz: The Boys (5. évad)",
+        "youtubeId": "OGSHFriSAZs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/OGSHFriSAZs/hqdefault.jpg",
+        "durationInMinutes": 0,
+        "releaseDate": 1780550648000,
         "participants": []
       }
     }
